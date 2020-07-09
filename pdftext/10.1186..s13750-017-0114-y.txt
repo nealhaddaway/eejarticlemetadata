@@ -1,0 +1,1584 @@
+Land et al. Environ Evid (2018) 7:4
+https://doi.org/10.1186/s13750-017-0114-y                                                                             Environmental Evidence
+  SYSTEMATIC REVIEW                                                                                                                                   Open Access
+What is the effect of phasing
+out long‑chain per‑ and polyfluoroalkyl
+substances on the concentrations
+of perfluoroalkyl acids and their precursors
+in the environment? A systematic review
+Magnus Land1* , Cynthia A. de Wit2, Anders Bignert3, Ian T. Cousins2, Dorte Herzke4, Jana H. Johansson2
+and Jonathan W. Martin2,5
+  Abstract
+  Background: There is a concern that continued emissions of man-made per- and polyfluoroalkyl substances (PFASs)
+  may cause environmental and human health effects. Now widespread in human populations and in the environment,
+  several PFASs are also present in remote regions of the world, but the environmental transport and fate of PFASs are
+  not well understood. Phasing out the manufacture of some types of PFASs started in 2000 and further regulatory and
+  voluntary actions have followed. The objective of this review is to understand the effects of these actions on global
+  scale PFAS concentrations.
+  Methods: Searches for primary research studies reporting on temporal variations of PFAS concentrations were
+  performed in bibliographic databases, on the internet, through stakeholder contacts and in review bibliographies. No
+  time, document type, language or geographical constraints were applied in the searches. Relevant subjects included
+  human and environmental samples. Two authors screened all retrieved articles. Dual screening of 10% of the articles
+  was performed at title/abstract and full-text levels by all authors. Kappa tests were used to test consistency. Relevant
+  articles were critically appraised by four reviewers, with double checking of 20% of the articles by a second reviewer.
+  Meta-analysis of included temporal trends was considered but judged to not be appropriate. The trends were there-
+  fore discussed in a narrative synthesis.
+  Results: Available evidence suggests that human concentrations of perfluorooctane sulfonate (PFOS), perfluoro-
+  decane sulfonate (PFDS), and perfluorooctanoic acid (PFOA) generally are declining, while previously increasing
+  concentrations of perfluorohexane sulfonate (PFHxS) have begun to level off. Rapid declines for PFOS-precursors
+  (e.g. perfluorooctane sulfonamide, FOSA) have also been consistently observed in human studies. In contrast, limited
+  data indicate that human concentrations of PFOS and PFOA are increasing in China where the production of these
+  substances has increased. Human concentrations of longer-chained perfluoroalkyl carboxylic acids (PFCAs) with 9–14
+  carbon atoms are generally increasing or show insignificant trends with too low power to detect a trend. For abiotic
+  and biological environmental samples there are no clear patterns of declining trends. Most substances show mixed
+  results, and a majority of the trends are insignificant with low power to detect a trend.
+*Correspondence: magnus.land@eviem.se
+1
+  Mistra EviEM, Stockholm Environment Institute, Box 24218, 104
+51 Stockholm, Sweden
+Full list of author information is available at the end of the article
+                                              © The Author(s) 2018. This article is distributed under the terms of the Creative Commons Attribution 4.0 International License
+                                              (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium,
+                                              provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license,
+                                              and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/
+                                              publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+
+ Land et al. Environ Evid (2018) 7:4                                                                                  Page 2 of 32
+   Conclusions: For electrochemically derived PFASs, including PFOS and PFOA, most human studies in North America
+   and Europe show consistent statistically significant declines. This contrasts with findings in wildlife and in abiotic
+   environmental samples, suggesting that declining PFOS, PFOS-precursor and PFOA concentrations in humans likely
+   resulted from removal of certain PFASs from commercial products including paper and board used in food packaging.
+   Increasing concentrations of long-chain PFCAs in most matrices, and in most regions, is likely due to increased use of
+   alternative PFASs. Continued temporal trend monitoring in the environment with well-designed studies with high sta-
+   tistical power are necessary to evaluate the effectiveness of past and continuing regulatory mitigation measures. For
+   humans, more temporal trend studies are needed in regions where manufacturing is most intense, as the one human
+   study available in China is much different than in North America or Europe.
+   Keywords: Perfluoroalkane acids, PFOA, PFOS, Temporal trends, Phase-out, Source, Emission, Environmental fate,
+   Regulation, Concentration
+Background                                                        and was primarily used as a processing aid (emulsifier) in
+PFASs are a broad class of man-made substances that               the manufacture of polytetrafluoroethylene (PTFE). The
+have been produced and used in water-, soil-, and stain-          ECF manufacturing process produces a mixture of linear
+resistant coatings for clothing, leather, upholstery, and         (approx. 70%) and branched (approx. 30%) isomers [17].
+carpets; oil-resistant coatings for food contact paper;           After the 3M phase-out of PFOA in 2002, other compa-
+aviation hydraulic fluids; fire-fighting foams; paints,           nies continued to manufacture PFOA mainly through
+adhesives, waxes, polishes, and other products; and               the telomerization process which produces a pure iso-
+industrially as surfactants, emulsifiers, wetting agents,         mer product, typically the linear isomer [17]. PFCAs are
+additives, and coatings [1–6]. The perfluoroalkyl moiety          completely dissociated anions in environmental media
+­(CnF2n+1–) of PFAS molecules is both hydrophobic and             and are present mainly in the dissolved phase in surface
+lipophobic [1]. The extreme strength and stability of the         waters. PFCAs can thus be transported long distances
+C-F bond [7] renders perfluorinated carbon chains resist-         by rivers and ocean currents and now occur in the open
+ ant to environmental degradation processes. Owing to             marine environment, even in the remote Northern Atlan-
+ the wide diversity of PFASs (i.e. chain-lengths, molecu-         tic, Pacific, and Arctic Oceans [18, 19]. PFCAs are also
+ lar weight, degree and pattern of fluorination, presence of      detected at low concentrations in the ambient atmos-
+ polar functional groups), it is difficult to generalize their    phere, where they may be directly emitted [20], and/or
+ properties, environmental fate, and production histories         formed indirectly by atmospheric oxidation of semivola-
+ [8]. In this study, we have focused on two groups of per-        tile PFCA-precursors such as the fluorotelomer alcohols
+ fluoroalkyl acids (PFAAs):                                       (FTOHs) [21].
+                                                                     Overall, the direct and indirect sources (i.e. precursor
+   1. Perfluoroalkyl carboxylic acids (PFCAs) and their           degradation) of PFCAs to the environment are various,
+       precursors.                                                and the relative importance of each source is temporally
+   2. Perfluoroalkane sulfonic acids (PFSAs) and their pre-       variable, specific to each substance and not well quan-
+       cursors.                                                   tified. The relative importance of atmospheric versus
+                                                                  marine transport of PFCAs, or of direct atmospheric
+   The terminology used in this review is that recom-             emission versus atmospheric oxidation of PFCA-precur-
+ mended by Buck et al. [8]. A list of abbreviations used in       sors is the subject of much recent and ongoing research.
+ this review is provided in Additional file 1: List of abbre-        Bioaccumulation and trophic magnification have been
+ viations. A more detailed review of PFASs can be found           shown to occur in mammals and birds, and increase with
+ in the protocol for this study [9].                              perfluoroalkyl chain length [22]. Trophic biomagnifica-
+                                                                  tion is highest for PFCAs and PFSAs with a perfluoroalkyl
+ Perfluoroalkyl carboxylic acids (PFCAs) and their                chain length containing 8 or more perfluorinated carbon
+ precursors                                                       atoms in the terrestrial and freshwater ecosystems stud-
+ PFCAs in water are relatively bioavailable and have been         ied. Some short-chain alternatives (e.g. perfluorobutyl- or
+ detected in various living organisms [10–14], including          hexyl-based) are also persistent, but do not bioaccumu-
+ humans [15, 16]. Perfluorooctanoic acid (PFOA) was the           late to the same extent, as they are excreted rapidly from
+ PFCA manufactured in the largest quantity. It was pro-           the organisms studied [23].
+duced mainly by electrochemical fluorination (ECF) by                In 2000, 3M announced a global phase-out by 2002 of
+the 3M Co. until 2002 (3M dominated the global market)            its production of products based on perfluoroalkyl chains
+
+Land et al. Environ Evid (2018) 7:4                                                                          Page 3 of 32
+containing 6, 8 and 10 carbon atoms, including PFOA         tend to accumulate in surface waters [31], they are per-
+[24]. In 2006, eight major PFCA, fluoropolymer and          sistent, bind weakly to organic phases [54] compared to
+fluorotelomer manufacturers joined the US EPA 2010/15       other persistent organic substances, bioaccumulate in
+Stewardship Program to work towards the elimination of      laboratory studies [55, 56] and biomagnify in food webs
+long-chain PFCAs and their precursors from emissions        [57, 58]. In 2000 the major manufacturer of PFOS in the
+and products by 2015 [25]. PFOA, its ammonium salt          US (3M) announced they would cease the production of
+ammonium perfluorooctanoate (APFO), and C9–C14              C6, C8 and C10 perfluoroalkane sulfonyl fluoride (PASF)-
+PFCAs were included in the Candidate list of substances     based products and completed the phase out in 2002
+of very high concern and under the European chemicals       [59]. In 2006 the EU adopted a Marketing and Use Direc-
+regulation, REACH [26]. Although long-chain PFCAs are       tive (2006/122/EC) that banned the use of PFOS in semi-
+being incrementally phased out by the major manufac-        finished products (maximum content of PFOS: 0.005% by
+turers and to some extent are regulated in Japan, West-     weight) as of summer 2008. In 2009, PFOS, and related
+ern Europe and the United States (US) [24, 25, 27], new     substances derived from POSF, were listed under Annex
+manufacturers (largely in continental Asia) have begun to   B (restriction of production and use) of the Stockholm
+produce long-chain PFCAs and their precursors [28, 29].     Convention on Persistent Organic Pollutants. However,
+As a result of the phase-outs of many long-chain PFASs      China now manufactures PFOS, and according to Zhang
+in recent years, many alternative fluorinated products      et al. [60] the production volume of PFOS increased from
+have been introduced [30] and these new, alternative        30 tonnes in 2002 to 247 tonnes in 2006. Since then, pro-
+industrial processes and products have resulted in new      duction volumes of PFOS in China declined to about 100
+sources of PFCAs and other fluorinated substances.          tonnes/year in 2008 as a consequence of international
+                                                            legislation to restrict or eliminate PFOS production.
+Perfluoroalkane sulfonic acids (PFSAs) and their precursors
+Similar to PFCAs, sources of PFSAs include release dur-     Stakeholder engagement
+ing manufacture and use, as well as from the degrada-       There is a high level of concern in Sweden that contin-
+tion of various precursor substances [5, 31]. Commercial    ued emissions of PFASs may cause environmental as well
+scale manufacture of perfluorooctane sulfonyl fluoride      as human health effects [61]. At a stakeholder meeting
+(POSF)-based products began by 3M in the late 1950s         arranged by Mistra EviEM in 2012 the Swedish Chemi-
+with product lines based on N-methyl perfluorooctane        cals Agency (KEMI) highlighted the need for a systematic
+sulfonamidoethanols (MeFOSEs) used in surface treat-        review on PFASs in the environment. In later discussions
+ment applications (e.g., carpets, upholstery and textiles). KEMI raised concerns about increasing concentrations of
+In the late 1960s product lines based on N-ethyl perfluo-   short-chain substances such as PFBS [62]. They needed
+rooctane sulfonamidoethanols (EtFOSEs) were intro-          more information on whether this is a local or global
+duced for use in paper and board packaging applications.    trend and whether similar trends have been observed
+PFOS and various salts were manufactured for direct use     for other PFASs with recently increased production vol-
+in a variety of products {e.g. aqueous film-forming foams   umes. Mistra EviEM discussed potential review ques-
+(AFFFs) for firefighting and mist suppressants in acid      tions for this topic also with representatives from other
+baths used for metal plating (see Paul et al. [5])}. Com-   government agencies, including the Swedish Agency for
+mercial use of PFOS and its salts started around 1970       Marine and Water Management (SWAM) and the Swed-
+[5] and estimated uses and emissions of PFSAs and their     ish National Food Agency, as well as with scientists work-
+precursors steadily rose to the end of the tweentienth      ing in this field. When the review question had been
+century [5]. PFSAs and their precursors have been manu-     agreed upon, EviEM arranged a meeting with a broader
+factured almost exclusively by ECF which produced a         group of stakeholders, including e.g. governmental agen-
+mixture of linear (70%) and many branched (total 30%)       cies, municipal drinking water producers, environmental
+isomers [32]. For more thorough reviews see Paul et al.     consultants and NGOs, to set the scope of the review and
+[5] and Armitage et al. [33].                               discuss inclusion criteria etc. Before drafting a review
+  PFOS and other PFSAs are widely distributed in the        protocol, EviEM also discussed the review with the Fluo-
+global environment [34–38], biota [39–44] and humans        rocouncil, which is a global organization representing a
+[15, 45–52]. Due to the dominance of POSF-based prod-       range of different fluoro-technology companies.
+ucts historically, PFOS is usually the most abundant
+PFSA found. Although properties vary with chain-length,     Objective of the review
+the environmental fate and bioaccumulation behavior         The objective of this systematic review is to investi-
+of PFSAs is broadly similar to that of PFCAs. PFSAs are     gate whether concentrations of PFASs in the environ-
+fully dissociated anions in environmental media [53] and    ment are changing significantly, and whether any spatial
+
+Land et al. Environ Evid (2018) 7:4                                                                            Page 4 of 32
+differences or changes in temporal concentration trends     were asked to provide relevant reports. For searches
+can be related to implemented phase-outs or regula-         with search engines and on specialist websites the first
+tory actions. The environment is broadly defined herein,    100 search results were screened. The comprehen-
+including biological and abiotic samples, as well as        siveness of the searches was tested by cross-checking
+human samples and consumer products. To the extent          the obtained records with (1) a list of papers that the
+possible, another aim is to collate as much evidence as     review team a priori thought should be found by the
+possible to understand why conflicting temporal trends      searches, and (2) bibliographies in relevant review arti-
+may be reported.                                            cles (see Additional file 2).
+   The primary question in this systematic review is
+“What is the effect of phasing out long-chain per- and pol- Article screening and study inclusion criteria
+yfluoroalkyl substances on the concentrations of perfluoro- The following inclusion criteria were applied.
+alkyl acids and their precursors in the environment?”
+   The PICO elements, i.e. the population, intervention,      ••  Relevant subjects Abiotic and biological samples,
+comparator, and outcome are summarised as follows:                including general human populations exposed to
+                                                                  ambient loads of PFASs and their precursors. Popu-
+    Population/subject: Abiotic and biological samples            lations with occupational exposures related to man-
+    including general human populations.                          ufacturing of PFASs and populations exposed to
+    Intervention: Legislative or voluntary phase-out of           distinct local point sources such as contaminated
+    production and use of long-chain PFASs.                       drinking water were excluded, as were populations
+    Comparator: Before intervention.                              with deliberate exposures in controlled trials. No
+    Outcome: Change of concentrations of the phased-out           geographic limitations were applied.
+    substances and their precursors and substitutes.          ••  Relevant intervention All implemented regulations
+                                                                  and voluntary phase-outs of manufacturing and use
+Methods                                                           of PFASs, starting in 2000.
+Searches                                                      ••  Relevant comparator Before intervention.
+Searches for scientific literature were conducted in seven    ••  Relevant outcomes (1) time trends of PFAS concen-
+bibliographic databases and using Google Scholar (see             trations covering at least two years and containing at
+Additional file 2). The search string used was adapted            least three separate time points, or (2) difference in
+to the syntax of each database, but in general it was             PFAS concentrations between two or more different
+designed as below, where * is a wildcard that can be any          time points.
+number of characters, and a question mark is exactly one      ••  Relevant study period At least part of the study
+arbitrary character.                                              period should be after year 2000.
+   (perfluor* OR polyfluor* OR fluorotelomer* OR PF?S         ••  Relevant type of study Recurring measurements at
+OR PF?A OR PFC OR PFT OR PFHxS OR FOSE OR                         a given location (monitoring) or measurements of
+FOSA OR PAPS) AND (((trend OR variation) NEAR                     samples from environmental archives (e.g. dated sed-
+(time OR temporal)) OR ((change OR increase OR                    iment cores, ice cores) or from specimen banks (e.g.
+decrease) NEAR/5 (level or concentration)) OR “time               biota, human diet, human samples).
+series” OR ((snow OR ice OR sediment) NEAR (core OR
+column OR cap)) OR archive* OR “specimen bank” OR             At the title and abstract level all retrieved articles were
+“long-term monitoring” OR “repeated measurements”           screened by two reviewers. In doubtful cases where
+OR historic*)                                               it could not be decided whether the article should be
+   The fields searched were in most cases title, abstract   included or excluded on the title and abstract level, the
+and key words. Detailed information about the               article passed to full text screening. To check that the
+searches is given in Additional file 2. No limitations in   screening was consistent and complied with the agreed
+time, document type, or language were applied in the        inclusion/exclusion criteria, 10% of the retrieved articles
+searches. However, due to limitations in translation        were double screened by the other reviewers, and Kappa
+resources, articles in other languages than English,        tests were used to evaluate the consistency of the screen-
+French, German, and Scandinavian languages were             ing. Screening at the full-text level was conducted in the
+excluded during the screening process. Grey literature      same manner as at the title and abstract level, including
+was searched using the Google search engine. Searches       double screening and kappa tests. After double screen-
+were also conducted on specialist websites listed           ing the disagreements were discussed by all reviewers.
+in Additional file 2, where search strings for these        At both title/abstract and full text levels, excluded arti-
+searches are also shown. In addition, stakeholders          cles were coded with a reason for exclusion. A list of all
+
+                                                                                                                                                                                                             Land et al. Environ Evid (2018) 7:4
+Table 1 Description of quality aspects considered in critical appraisal and criteria for high risk of bias
+Quality aspect       Description                                                                                High risk of bias
+Selection bias       Information about samples and what they represent must be sufficient to determine          Large differences in sample populations or food source between time points. Popula-
+                       whether samples from different sampling occasions are comparable                           tions affected by contaminated land or drinking water
+Accuracy of dating   In most cases it is known when samples were collected, but samples from envi-              No dating or probable perturbations of deposited material or migration of PFASs
+                       ronmental archives such as sediment or ice cores are more complicated to date
+                       accurately. Dating by means of e.g. isotope techniques that give an absolute age to
+                       each individual sample may be regarded as high quality dating. Dating by means of
+                       historical markers (e.g. peak concentrations of other contaminants) providing relative
+                       ages may be regarded as acceptable dating. Post-depositional perturbations caused
+                       by for instance thawing-freezing cycles in snow or bioturbation in sediments should
+                       be discussed and assessed
+Sample integrity     Samples may deteriorate with time (especially critical to specimen banks with long         Sample pre-treatment, sample preservation, prevention of contamination or storage
+                       storage times)                                                                             methods not suitable for the sample type
+Analytical quality   Analytical procedures should be appropriate and consistent throughout the study            Internal standards not used, procedural blanks or field blanks not run, limit of detection
+                      period. Was there a risk that analytical parameters may have biased the temporal            (LOD) or limit of quantification (LOQ) not reported, significant changes in analytical
+                      trends?                                                                                     techniques during the study period
+Study design         Was the sampling dedicated to PFAS analyses or were the samples originally taken for       Sampling methods not suitable for PFAS analysis or sampling strategy (study period and
+                      other purposes? When was the study period in relation to known phase-outs (i.e.             sampling frequency) cannot be related to known interventions
+                      intervention time points)?
+                                                                                                                                                                                                             Page 5 of 32
+
+Land et al. Environ Evid (2018) 7:4                                                                               Page 6 of 32
+articles excluded at full text screening, including reasons     aspect were entered in the critical appraisal sheet (see
+for exclusion, is provided in Additional file 3.                Additional file 5) by indicating whether the risk of bias is
+                                                                high (Yes), may be high (Potentially), low (No), or unclear
+Study quality assessment                                        due to lack of information (Unclear). To be able to evalu-
+Critical appraisal of relevant studies was carried out by four  ate the effects of including doubtful cases (where the risk
+reviewers. To ensure high consistency between the review-       of bias potentially is high) we divided the included stud-
+ers, 20% of the included articles after full text screening     ies into two groups. Studies where a majority of the qual-
+were double-checked and Kappa tests were used to test the       ity aspects were doubtful were categorized as Medium
+consistency. Articles with conflicting judgements and those     risk of bias, and studies where a majority of the aspects
+for which a reviewer was uncertain during single critical       had low risk of bias were categorized as Low risk of bias.
+appraisal were discussed by the entire review team before       These two groups were then compared and qualitatively
+any decision was made. These discussions were helpful in        evaluated for any systematic differences in study results.
+gaining an understanding of how others reasoned and led
+to more consistency in the critical appraisal.                  Data extraction strategy
+   Prior to critical appraisal the review team designed a       Data were extracted and recorded by two of the review-
+critical appraisal tool consisting of a checklist (Additional   ers. Outcome data and other important study informa-
+file 4) and an Excel spreadsheet (Additional file 5). This      tion were extracted from studies with low and medium
+tool was finalised after publication of the protocol and        risk of bias and recorded in pre-designed Excel data
+was therefore not provided in that document. The check-         sheets. As with the critical appraisal tool, the design of
+list highlights five aspects of quality directly affecting the  the data sheets were finalised after publication of the pro-
+internal validity of a temporal PFAS trend study, includ-       tocol and they were therefore not provided in that docu-
+ing (1) selection bias (2) accuracy of dating of samples        ment. Outcome data included (1) reported time trends
+(3) sample integrity, (4) analytical quality, and (5) study     (rates of change in concentration), (2) difference in con-
+design. For each aspect a number of factors that should         centration between two or more time points, and (3) raw
+be considered during critical appraisal is listed. Brief        data (concentrations at each measured time point). Other
+descriptions of the quality aspects and criteria for high       important study information included geographical loca-
+risk of bias are shown in Table 1.                              tion, sample type (air, sediment, water, biological species
+   Study length, sampling frequency, and number of indi-        etc.), matrix (bulk sediment, liver, water, plasma etc.),
+vidual or pooled samples at each time point were recorded,      covariates (age, sex, etc.), sampling strategy (time period
+but these parameters were not in themselves part of the         covered, number of sampling occasions, number of
+regular critical appraisal. Instead, we evaluated the statisti- pooled or individual samples). Data were always recorded
+cal power according to a method suggested by Nicholson          as reported in the primary studies, and all necessary
+& Fryer [63] to detect a fixed average trend of 10% a year,     transformations and calculations were performed at the
+which the above-mentioned parameters affect, and indi-          analysis stage. In some cases the authors were contacted
+cated this for each time trend dataset in the results.          for complementary information. Repeatability was tested
+   Information important for the assessment of external         qualitatively. Both reviewers started by extracting data
+validity, or how transferable the studies are to the con-       from 10 articles each (in total 20 articles were extracted).
+text of the question, were recorded as well. As indicated       The reviewers then checked each other’s data extraction
+by the study inclusion criteria, relatively few restrictions    and reconciled any disagreements.
+regarding populations/subjects were applied.
+   Studies where the risk of bias was judged to be unclear      Potential effect modifiers and reasons for heterogeneity
+(inadequate information) or high (see criteria in Table 1)      In this review the potential effect modifiers and reasons
+for one or more of the quality aspects were excluded            for heterogeneity listed below were considered. In the
+from the review. All other studies were included in a nar-      review protocol [9] also food web changes over time were
+rative synthesis. Considering the broad range of sample         listed as an effect modifier, but information about that
+types, locations, and substances included in this review        was not reported in any of the included studies so could
+(and the complexity of multiple interventions that may          not be evaluated in this review. Potential effect modifi-
+interact), it is difficult to define generic criteria for high  ers and reasons for heterogeneity were evaluated quali-
+risk of bias that are completely unambiguous. A certain         tatively by assigning the studies to different categories
+degree of expert judgement is inevitable and doubtful           and assessing whether the results of a particular category
+cases do occur. In such cases we have chosen to be inclu-       deviated from the rest. The list of potential effect modi-
+sive, but also to be careful to make a note that the risk of    fiers and reasons for heterogeneity were compiled by the
+bias potentially is high. The judgements for each quality       review team during preparation of the protocol.
+
+Land et al. Environ Evid (2018) 7:4                                                                               Page 7 of 32
+  ••  Timing of the study relative to the interventions A      methods were used by different authors to calculate the
+      study with data from just a few years directly after     time trends. For example, some authors treated all sam-
+      the intervention is likely to show a smaller effect (or  ples from a particular time point as independent sam-
+      lower power to detect an effect) than a more recent      ples whereas others used the average or median. This
+      study covering a longer study period after the inter-    affects the degrees of freedom and may also influence the
+      ventions.                                                chance to detect a statistically significant trend. Further-
+  ••  Proximity to past and present sources Since the inter-   more, some authors assumed a log-linear relationship
+      ventions are not yet implemented globally, it is rea-    between concentrations and time, whereas others used
+      sonable to assume that the effect will be smaller in     e.g. linear or polynomial models. Another problem when
+      regions close to present sources compared to regions     comparing different time trends is that different authors
+      close to past sources where the interventions have       used different methods for detecting change-points.
+      been implemented.                                        Most authors did not justify their choice of change-point,
+  ••  Geographical differences In areas where phase-out        but seem to have picked it based on a visual inspection
+      has been implemented, contaminated areas may still       of the data. We deemed it necessary to treat all datasets
+      be present and leach the phased-out substances to        the same way and use the same objective method for all
+      the surrounding environments. However, if any such       studies, making various datasets more comparable. Nev-
+      area is known to affect the studied population the       ertheless, we also investigated whether our objective
+      study should not be included in the review.              change-point analyses differed from the original analy-
+  ••  Mode of predominant transport of PFASs to the stud-      ses. However, it should be stressed that we only analysed
+      ied site In terrestrial or high-altitude areas where the datasets that were checked or corrected for confound-
+      input of PFASs is dominated by long-range atmos-         ing factors, such as differences in age or sex between
+      pheric transport of volatile precursors, the response    time points, because we lacked the resources to make
+      to the interventions may be different compared to        complete statistical models or to filter out true temporal
+      marine and coastal areas where the PFAS source           trends in large public databases such as the US National
+      is dominated by direct long-range transport in the       Health and Nutrition Examination Survey (NHANES).
+      aquatic environment.                                       In our own analyses, we used median values, geometric
+  ••  Type of sample and matrix Different sample types         means, or arithmetic means (in preferred order) for each
+      have different routes of exposure to PFASs, and the      particular time point, depending on what was reported, To
+      partitioning behaviour of PFASs is different for differ- calculate the time trends we used a log-linear regression
+      ent matrices.                                            model, and the resulting rates of change in concentration
+  ••  Species differences Route of exposure and metabolism     are expressed in units of % ­year−1. To detect a change-
+      differ among different species.                          point we used a technique similar to that outlined by
+  ••  Study design For human data the results may be dif-      Sturludottir et al. [64]. The whole time-series was repeat-
+      ferent between cross-sectional and prospective stud-     edly divided into two parts with at least 3 years in each
+      ies. For both human and biological data the results      part and log-linear regression lines were fitted to each part
+      may also depend on the studied populations (differ-      and the residual variance was recorded for each combina-
+      ences in sex and age etc.).                              tion. The combination of regression lines that gained the
+  ••  Analytical quality In the early years standards were     smallest variance was compared with a log-linear regres-
+      not always available for accurate calibration of the     sion line and the mean for the whole time period with
+      analytical instruments. Both accuracy and preci-         an F-test. The degrees of freedoms were down-adjusted
+      sion have been improved in recent years, and studies     to compensate for the less restrained situation with two
+      using archived samples and only the latest analytical    regression lines compared to a single regression line. A
+      techniques may be better at detecting trends.            number of choices were made: (1) Only one change-point
+  ••  Sampling design and quality Long-term studies with       was searched for because the time-series were generally
+      targeted and frequent sampling may be better at          too short for several change-points; (2) Data from the
+      detecting trends than short-term studies or studies      identified change-point year was included in both pre- and
+      with less frequent sampling.                             post-time series. This is a conservative approach which
+                                                               reduces the influence of abrupt changes from one year to
+Data synthesis and presentation                                the next (which may be an artefact) but may also reduce
+We have chosen to synthesise time trends based on our          the chance to detect significant trends on either side of the
+own analysis of raw data as well as on the calculations        change-point; (3) The two parts may not necessarily point
+performed in the original research papers. The main            in different directions (increasing- decreasing) and may
+reason for this is that a wide range of different statistical  not show significant slopes separately, but they still show
+
+Land et al. Environ Evid (2018) 7:4                                                                                                            Page 8 of 32
+a significant decrease in residual variance, i.e. they explain                  length of the bars shows the study period (years on the
+significantly more of the variation in PFAS concentration                       x-axis), and colour codes show whether the trends are
+than the mean or a regression line for the whole period;                        significantly increasing or decreasing (p < 0.05) or insig-
+(4) Change-points were searched for in datasets with 7 or                       nificant (p > 0.05). For insignificant trends only, the sta-
+more time-points only, and for datasets with fewer time                         tistical power to detect a trend is also categorized as
+points with a minimum of 4 years, we calculated a log-lin-                      sufficient (Power > 0.8) or low (Power < 0.8). If a signifi-
+ear time trend for the whole study period.                                      cant change-point was detected, the change-point is indi-
+   In contrast to what was set out in the protocol [9], we                      cated as a narrow black band on the horizontal bar. It is
+chose not to perform meta-analyses. This is because                             especially important to note that an insignificant trend
+there were too many sources of heterogeneity to allow for                       does not necessarily mean that there is no ‘true’ trend.
+any meaningful meta-analysis. These are discussed more                          As we shall see, most of the studies showing insignificant
+thoroughly in “Discussion” section, but in short, the out-                      trends have low statistical power to detect even quite
+come is not only dependent on distance from past and                            high rates of change in concentration. Admittedly, the
+present sources of the PFASs, and from which environ-                           lack of further quantitative synthesis may encourage vote
+mental setting the samples were taken, but also on the                          counting, ignoring effect sizes and differences in reliabil-
+timing of the study period in relation to the phase-outs                        ity between studies. However, we tried to avoid this and
+(i.e. interventions). It is reasonable to assume that there is                  we strongly advise the reader to do the same.
+a time lag between the interventions and any measurable
+effects in the environment. Therefore, studies conducted                        Results
+shortly after a phase-out are less likely to show significant                   Review descriptive statistics
+effects compared to studies with long time-series after                         Searches in the literature databases resulted in 10,170
+the intervention. However, in the future when a larger                          unique records (searches were performed in May 2014,
+number of comparable studies may be available, it is pos-                       and a search update was conducted on 20 October
+sible that meta-analyses will be feasible.                                      2015). Based on title and abstract 9602 were excluded
+   The results are presented in horizontal bar charts                           (Fig. 1). Four of the articles included based on title and
+where each bar represents an individual dataset. The                            abstract could not be retrieved in full text. The remaining
+  Fig. 1 The searches identified 10,170 unique records. Four of the articles that passed the abstract screening could not be retrieved in full text. Five
+  articles were excluded at critical appraisal because the same data ware published elsewhere
+
+Land et al. Environ Evid (2018) 7:4                                                                                                         Page 9 of 32
+564 articles were screened on full text, and based on                         critical appraisal and removal of redundant articles, 92
+this another 378 articles were excluded. These articles                       articles [11, 12, 37, 38, 40, 42, 62, 65–149] remained for
+are listed in Additional file 3 together with reasons for                     full data extraction. More details on the outcome of the
+excluding the articles. In searches for grey literature we                    critical appraisal are given in the next section.
+found 26 reports that potentially could be useful and                            Among the 92 articles included, a total number of 227
+where the same data could not be found in the scientific                      time trend datasets could be extracted. However, not
+literature. Interestingly, the data in several other reports                  all of these time trends are independent and should not
+were also published in scientific journals. Comparing our                     be treated as separate studies. For instance, in one arti-
+search results with the articles that were listed a priori as                 cle studying polar bears [134], PFASs were analysed in
+articles that should be captured by the searches, and with                    both kidney and liver. These two datasets are not inde-
+articles in bibliographies of review articles, the searches                   pendent from each other. Other articles have investi-
+seem to have been comprehensive. Some relevant grey                           gated human populations from the same locations but
+literature studies were not captured, but more recent ver-                    with different age groups and/or sex. Such datasets may
+sions of those were found instead (see Additional file 2,                     also not be independent from each other. Furthermore,
+section C). No additional relevant articles (based on title                   in some investigated populations or matrices the concen-
+screening) were found in the bibliographies of the review                     trations were above the LOQ in too few samples to allow
+articles (see Additional file 2, section D).                                  for a time trend analysis. Data for a total number of 42
+   In total, 186 articles and 26 grey literature reports were                 different PFASs or precursors were extracted (see “Nar-
+included based on full text and critically appraised. Dur-                    rative synthesis” section). Many of these were analyzed
+ing this process, which also involved data extraction,                        in a limited number of samples presented in only a few
+it was found that some studies were redundant, i.e. the                       articles and were therefore not further considered here.
+same data was published in more than one article. In                          The more frequently analysed substances that this review
+some cases one article had added some data to a previ-                        focused on included C4, C6, C8, C10 sulfonates (i.e.,
+ously published time trend, and in such cases we used                         PFBS, PFHxS, PFOS, PFDS) and the precursor FOSA, as
+the study containing the longest study period and/or the                      well as C7–C14 carboxylates (i.e., PFHpA, PFOA, PFNA,
+study with the most frequent sampling. Redundant stud-                        PFDA, PFUnDA, PFDoDA, PFTrDA, and PFTeDA).
+ies are listed in Additional file 3, together with a reference                Figure 2 shows, for each of these substances, the total
+to the article that finally was used in this review. After                    number of time trend datasets that were identified.
+  Fig. 2 Total number of time series measured in the included articles (blue bars), number of time trends re-analysed in this review (yellow bars), and
+  number of time trends originally reported by the authors (red bars). Low detection frequency or different focus of the paper were the main reasons
+  authors did not evaluate and report time trends for measured substances. Low detection frequency was the main reason time trends for measured
+  substances were not re-analysed in this review
+
+Land et al. Environ Evid (2018) 7:4                                                                                  Page 10 of 32
+The same figure also shows the number of datasets that
+were re-analysed in this review and the number of time
+trends that originally were reported by the authors of the
+reviewed articles, respectively. The most frequently ana-
+lyzed substance is PFOS, followed by PFOA.
+   Most of the studies were conducted in North Amer-
+ica and Europe followed by the Arctic. A small number
+of additional studies have been conducted in East Asia.
+From the southern hemisphere only one study, inves-
+tigating PFASs in human blood serum in an Australian
+population, was included [138]. Figure 3 shows the distri-
+bution between geographical areas.
+   The total number of time trend datasets on human
+samples was 84, and for the vast majority of these the
+studied matrix was blood plasma or serum. Plasma and
+serum are considered equivalent matrices for monitor-
+ing time trends of PFASs. Two other datasets were con-
+centrations in whole blood and in two other datasets the
+matrix was milk from lactating women (Fig. 4).
+   Nine datasets involved food samples, and 31 datasets
+were found for abiotic environmental samples including
+air, snow/ice, water, and sediment. Man-made matri-
+ces, comprising various commercial products and sew-
+age sludge, made up 16 datasets. Biota was the largest
+category with 86 datasets including mammals, birds,          Fig. 4 Number of time trend datasets in different sample categories.
+fish, reptiles and invertebrates. Among the environ-         Man-made refers to man-made products including digested sewage
+mental samples, most datasets were taken from coastal        sludge (biosolids)
+or marine environments (Table 2). However, for abiotic
+environmental samples most datasets were taken from           The oldest article included in this review was published in
+inland or high altitude environments where the major       2002, just after the major phase-out by 3M, but most of the
+source of PFASs is atmospheric deposition.                 articles were published in the period 2011–2015 (Fig. 5).
+  Fig. 3 Geographical distribution of measured time series
+
+Land et al. Environ Evid (2018) 7:4                                                                                       Page 11 of 32
+Table 2 Number of environmental datasets from different                PFOS Change point analysis For PFOS in human sam-
+environments                                                           ples, twelve datasets containing at least 7 time points
+Category                          Inland                Coastal/marine were evaluated by change point analysis (Fig. 6). Eleven of
+                                                                       these datasets were for European countries, and one was
+Abiotic samples                   19                     7             in New York, USA. Nine of these twelve datasets (75%), all
+Biota                             18                    68             in Europe, had a significant change point and most change
+Total                             40                    75             points were detected between 1998 and 2003. The earli-
+                                                                       est change point for PFOS was in 1988 for pooled breast
+                                                                       milk samples from primiparous women in Stockholm
+                                                                       [137], where the trend went from significantly increas-
+                                                                       ing (pre 1988) to significantly decreasing (post 1988).
+                                                                       Visual inspection of the data suggested a levelling off of
+                                                                       concentrations between 1988 and 2000 before a stronger
+                                                                       decline occurred. This relative trend was similar to what
+                                                                       was observed in Norwegian males, where a significant
+                                                                       change-point was observed in 1993 [92]. The shape of
+                                                                       these two human temporal trends [92, 137] closely mir-
+                                                                       rors the trend in annual production volumes of PFOS
+                                                                       reported by Paul et al. [5] and as plotted in our associated
+                                                                       review protocol [9]. Three datasets from Swedish dietary
+                                                                       items [99] were also analyzed for change points, but no
+                                                                       change points were detected.
+  Fig. 5 Distribution of publication year among included articles         General observations With few exceptions, for all stud-
+                                                                       ies of PFOS in human samples that were of sufficient sta-
+                                                                       tistical power (i.e. > 0.8) a significant decreasing temporal
+Narrative synthesis including study quality assessment                 trend was observed, either across the whole study period
+The critical appraisal of studies included after full text             or after the detected change point (Fig. 6). No significant
+screening is shown in Additional file 5, and a narra-                  temporal trends for PFOS were observed in only 6 data-
+tive synthesis table including articles passing the critical           sets of human samples [89, 102, 115, 121, 143], and two
+appraisal is shown in Additional file 6. Since there is no             datasets of dietary items [99, 142], but in each case the
+quantitative synthesis in this review, a detailed discussion           power to detect a trend was low. Overall, the declining
+of the findings follows below. All results from the studies            trends for PFOS generally coincide with the timing of the
+included are shown in Additional file 7 (reanalysis of raw             3M Co. phase out by 2002.
+data in this review) and Additional file 8 (reported time                 One obvious exception among all PFOS datasets was
+trends in the original studies).                                       for the only study in China [98], where a significantly
+                                                                       strong and rapid increase (> 40% annual change) of PFOS
+Human samples                                                          concentrations was detected in male and female serum.
+Overall results from the analysis of included human                    A statistical evaluation of the change point was not pos-
+PFAS temporal trend datasets are displayed in Additional               sible because of only 4 time points, but visual observa-
+file 7. Studies from which included datasets were drawn                tion suggests that concentrations began to increase in the
+were largely focused in Europe (Germany, Norway, Swe-                  mid 1990s, with much more rapid increases after 1999.
+den), Asia (China and Japan) and the United States. Only               Unfortunately, all samples in this study were only from
+one study was included from the southern hemisphere                    one city and the last samples analyzed were from 2002.
+(Australia), and only one study was included from an                      The unique study of PFOS (and other PFAS) temporal
+indigenous northern population (Inuit, Greenland).                     trends in Greenland Inuit serum [110] was of particular
+Most datasets included used cross-sectional sampling                   interest, but data could not be extracted for an independent
+of the population in various years, except for one study               analysis. While the authors reported some ‘age-dependent’
+from Tromso, Norway, where serum from the same male                    statistically significant temporal trends for PFOS, after age-
+donors was analyzed at 5 sampling times over 28 years                  adjustment no significant temporal trends were evident for
+(1979–2007), and one study in Gullah African Americans                 PFOS, nor for any other PFAS. An evaluation of the statisti-
+from coastal South Carolina (2003–2013).                               cal power in this study is also not possible.
+
+Land et al. Environ Evid (2018) 7:4                                                                                                          Page 12 of 32
+  Fig. 6 Calculated time trends for PFOS in human and food samples. a Study period and direction of trend. Datasets above the thick horizontal line
+  were analysed for change-points. Other data sets provided less than 7 time points and were not analysed for change-points. The power of insignifi-
+  cant trends refers to the chance of detecting an annual change of 10%. b Magnitude of annual change. Where change-points occur the magnitude
+  is generally shown before and after the change-point, but where the trend is insignificant on both sides the magnitude is shown for the whole
+  period only. Colour codes are the same in a, b. Bullets indicate that time trend analysis was performed also in the original study (reference in square
+  brackets). Asterisks indicate low risk of bias, other studies were judged to have medium risk of bias
+
+Land et al. Environ Evid (2018) 7:4                                                                         Page 13 of 32
+  In the US, NHANES is a rich source of data for PFASs      significant trend [99]. Similarly, PFOS in total dietary
+in serum beginning in 1999. The data are publically avail-  intake for Swedes showed no statistically significant tem-
+able but our systematic review only included two studies    poral trend. Although dietary intake was estimated to be
+that had the explicit objective to analyze PFAS tempo-      lower after the phase-out [142], statistical power was low
+ral trends in the NHANES database. Calafat et al. [74] is   to detect a trend in this dataset.
+limited in that it only included a statistical test between   Whether declining PFOS concentrations in Swedes
+two time points (i.e. 1999–2000 and 2003–2004). Nev-        are a direct consequence of declining PFOS concentra-
+ertheless, the study is important because these two time    tions in dietary items, such as eggs and farmed fish, has
+points span the phase-out by 3M Co. in 2002, and thus       been discussed [99, 142] but remains uncertain. One
+provides nationally representative data that may measure    inconsistent result is that the PFOS isomer pattern (lin-
+the effect of the phase out. For PFOS, Calafat et al. [74]  ear: branched) in eggs has become more linear over
+reported statistically significant decreases in 2003–2004,  time, increasing from approximately 1:1 in year 2000 to
+compared to 1999–2000, while accounting for age, sex        approximately 3:1 in the year 2010 [99]. This is contrary
+and race/ethnicity (Additional file 8, Figure S11). Kato    to two independent studies where the serum of Swedes
+et al. [103] examined NHANES data across 4 study peri-      was reported to increase in branched PFOS content over
+ods (99–00, 03–04, 05–06, and 07–08) by sex, age, and       the same period [85, 109]. Liu et al. [109] suggested that
+ethnicity and for PFOS significant declines were evident    the branched PFOS isomer pattern, and concomitant
+in both men and women (> 12 years); the rate of decline     increasingly non-racemic proportions of 1 m-PFOS iso-
+was faster in women than in men (Fig. 6).                   mer in the same Swedish serum samples, post year 2000,
+  One peer-reviewed study by Wong et al. [144] reported     indicated a role of PFOS-precursors in human exposure.
+PFOS concentrations from the NHANES database
+between 1999 and 2011, categorized by sex and age for       PFOS precursors
+the nationally representative samples. Although the         Concomitant with declining PFOS in Swedish human
+authors did not use the data for temporal trend analysis,   serum from Uppsala (Fig. 6), Gebbink et al. [85] reported
+we interpolated data from their published figures and       rapid declines (1.8–3.5 year disappearance half-lives) for
+used them here in an independent analysis for temporal      four PFOS-precursors (MeFOSAA, EtFOSAA, FOSAA,
+trends. As shown in Fig. 6, in every age category for both  FOSA) in the same period, between 1996 and 2012.
+men and women, PFOS concentrations declined sig-            Declining trends of the PFOS-precursor, FOSA, is fur-
+nificantly over the entire period. By visual inspection of  thermore demonstrated by analysis of two datasets on
+the trends, rates of decline were close to linear over the  male serum from Norway, both of which showed an
+whole period, and the rate of the decline was faster in the inverted U-shape temporal trend for FOSA [92, 115]. For
+younger (i.e. > 15% annual change in the 12–19 age class)   Norwegian men (40–50 year) [92], a significant increase
+than in older age classes (e.g. < 10% annual change for     of FOSA between 1977 and 1985 (change-point) was fol-
+the > 80 age class) among both males and females. Other     lowed by a statistically significant decline to 2006, with
+datasets of PFOS temporal trends in the US, including       later concentrations being non-detectable. In their longi-
+in new-born infant blood spots (New york, 1996–2006)        tudinal study of male serum, Nost et al. [115] reported a
+[135], and in plasma of adults aged 20–68 (6 cities,        significant 60% decline for FOSA between 2001 and 2007
+2000–2010) also showed significantly decreasing trends      in male serum from Tromso, Norway. Also, in Germany
+corresponding to the approximate time of the 3M Co.         (Halle and Munster), declining concentrations of three
+phase out. Although the data could not be extracted for     PFOS-precursors (MeFOSAA, EtFOSAA, FOSAA) in
+independent analysis, a significant age-adjusted decline    human plasma were observed after 1995, whereas con-
+of serum PFOS (11% per year, 2003–2013) was also            centrations of another PFOS precursor (Di-SAm-PAP)
+reported for Gullah African Americans in coastal South      showed no temporal trend at either location [145]. Also
+Carolina after the phase-out [87].                          consistent with the trend for PFOS in the same samples,
+  In Sweden, where all adequately powered human tem-        FOSA declined in infant whole blood from the US [135],
+poral trend studies of PFOS showed a decline, it was use-   and no change-point could be detected in either case. In
+ful to compare with trends for important Swedish dietary    this study, our estimated rate of decline for FOSA (30%
+items [99, 142]. Nationally or regionally representative    per year) was much more rapid than for PFOS [135],
+archived samples of hen eggs and farmed rainbow trout       consistent with the report of Gebbink et al. [85]. Overall,
+muscle showed significant and rapid decreasing trends       most temporal data for PFOS precursors in human sam-
+between 1999 and 2010. The analysis of data from cow’s      ples show declining concentrations consistent with the
+milk was not adequately powered and did not show a          time of the 3M Co. phase-out of these chemicals by 2002.
+
+Land et al. Environ Evid (2018) 7:4                                                                          Page 14 of 32
+PFHxS                                                       PFHxS in serum when comparing samples from 1996 to
+Change point analysis For PFHxS in human samples,           1999 to samples from 2008 to 2011; but this result should
+the same twelve datasets as for PFOS were evaluated by      be treated with caution due to only two time points.
+change point analysis (Additional file 7, Figure S2). Eight Three Swedish dietary items (milk, eggs, farmed fish)
+of these twelve datasets (67%), all in Europe, had a sig-   showed no evidence of an increasing trend for PFHxS,
+nificant change point. Among datasets with a significant    and concentrations in eggs actually decreased signifi-
+change point, five had change points detected between       cantly between 1999 and 2010; no trend was detected
+2000 and 2005, while the three others had change points     in milk or farmed fish, but these datasets had low power
+between 1985 and 1993 [68, 92, 145]. Among sufficiently     [99].
+powered datasets with a change point, all (six) showed        Based on NHANES data, Calafat et al. [74] reported
+a significant increasing trend prior to the change point,   statistically significant decreases in PFHxS for 2003–2004
+two showed a significant decrease after the change point,   (post phase-out) compared to 1999–2000 (pre phase-out)
+and one study showed no change after the change point.      while accounting for age, sex and race/ethnicity (Addi-
+Five of the datasets with a change point showed no signif-  tional file 8, Figure S5); one exception was PFHxS in
+icant change after the change point but were underpow-      Mexican Americans which was not significantly different
+ered by our analysis.                                       between years. Kato et al. [103] continued the NHANES
+   None of the studies that showed a significant decrease   analysis into 2005–2006 and 2007–2008 and confirmed
+of PFOS after the change point (Fig. 6) showed a con-       the initial decline, from 1999 to 2005, but by 2007-08 the
+comitant decrease of PFHxS after the change point           concentrations had again increased. Thus, in our inde-
+(Additional file 7, Figure S2). Moreover, the only two      pendent analysis of datasets from Kato et al. [103], no sig-
+studies showing a significant decrease for PFHxS after      nificant temporal trend was detected for males nor females
+the change point (male and female plasma, Halle, Ger-       (Additional file 7, Figure S2), consistent with our analysis
+many [145]) did not show a significant decrease in PFOS     of two other datasets for the US (female serum from 6 cit-
+after the change point. Together these data suggest that    ies, and combined males and females from the same 6 cit-
+any interventions leading to lower PFOS exposure in         ies [120]), all of which had low power to detect a trend.
+Europe did not simultaneously lead to lower PFHxS.            Nevertheless, two more US datasets showed significant
+   General observations Several datasets (with no change    decreases in PFHxS (infant blood spots from New York
+point, or not analyzed for change point) showed evi-        [135], and male serum from 6 cities [120]). Similarly, and
+dence for increasing PFHxS in humans. In male and           although the data could not be extracted for independ-
+female serum from Arnsberg, Germany, a continuous           ent analysis, a significant age-adjusted decline of serum
+significant increase was detected between 1977 and 2004     PFHxS (6% per year, 2003–2013) was also reported for
+[143], but few samples were available from after the 3M     Gullah African Americans in coastal South Carolina
+Co phase-out. One slightly longer dataset from Norway       after the 3M Co. phase-out [87]. Compared to PFOS in
+(1979–2007) also showed a significant increasing trend      the same samples, the rate of decline for PFHxS (< 10%
+for the whole period, but concentrations in 2001 (2.0 ng/   annual change) was always slower than for PFOS (> 10%
+mL) were very similar to 2007 (1.9 ng/mL), suggesting a     annual change).
+levelling-off. This is consistent with serum of Norwegian     Given the rapid increase of PFOS in Shenyang China
+men [92], where concentrations were significantly higher    [98], and that PFHxS is the second most prominent PFAS
+in post-1985 samples, but no significant temporal trend     in Chinese human blood [152], a current data gap is the
+was evident between 1985 and 2006. The biological half-     lack of any temporal trend study for PFHxS in Chinese
+life of PFHxS is known to be longer than for PFOS [150,     biological samples.
+151], thus relatively longer biomonitoring may be neces-
+sary to see a decrease in human serum in response to any    PFBS
+intervention.                                               PFBS is a likely degradation product of perfluorobutane-
+   The strong increasing trend for PFHxS in serum of        sulfonyl fluoride-based chemicals which were known
+Swedes from Uppsala was evident from two studies [62,       replacements for perfluorooctanesulfonyl-based prod-
+85] (Additional file 7, Figure S2). The increase of PFHxS,  ucts. One dataset for PFBS in Norwegian male serum
+however, was concluded to be due to a drinking water        between 1977 and 2006 [92] (Additional file 7, Figure
+supply that had been contaminated by firefighting foams     S1) showed PFBS in most samples at low levels (0.06–
+beginning in the 1990s [88]. Thus, PFHxS data from Upp-     0.18 ng/mL) until 2001 when concentrations fell below
+sala should not generally be extrapolated for a larger      detection limits for all subsequent samples (i.e. < 0.050).
+area. Women living outside of Uppsala [88], nevertheless,   Although not statistically significant, the onset of this
+showed a significant increase (approximately doubled) of    apparent decline corresponds with the phase-out of
+
+Land et al. Environ Evid (2018) 7:4                                                                          Page 15 of 32
+perfluorooctanesulfonyl chemistries, suggesting that the    137], while 6 of 8 showed no significant trend before
+low levels of PFBS (pre 2001) may be due to the presence    the change point, but all of these were statistically
+of residual PFBS in PFOS-containing products.               underpowered. The two datasets showing an increasing
+   In contrast to this trend in Norway, in Uppsala, Swe-    trend prior to the change point were also the datasets
+den, Glynn et al. [62] reported an increase in PFBS         with the oldest archived samples; showing an increas-
+between 1996 and 2010 for women (Additional file 7,         ing trend in adult male serum from Norway between
+Figure S1). A follow up in the same samples showed no       1978 and 1993 [92] and in primiparous female serum
+significant trend for PFBS [85]. Nevertheless, our analysis from Stockholm, Sweden between 1972 and 1988 [137].
+of the Glynn et al. data [62] detected a change point in    Consistently, all of the studies with a change point (8/8)
+1998, when concentrations increased approximately ten-      showed a significant decreasing trend for PFOA after
+fold in the subsequent 12 years. However, as described      the change point.
+above for PFHxS, Gyllenhammar et al. [88] case study          General observations Among all datasets showing a sig-
+in Uppsala strongly suggests that the increasing trend      nificant decrease in PFOA across all years, or a decrease
+for PFBS in people from Uppsala was due to contami-         after the change point, the rate of decline was more mod-
+nation of drinking water by firefighting foam. Although     est (typically < 5% annual change) than for PFOS. Two
+our independent analysis of the data could not show a       exceptions to the general pattern above is that Nost et al.
+significant increase between the two time points (based     [115] reported a significant 23% decrease in serum PFOA
+on data extractable from the paper), a high rate of change  in adult males from Tromso, Norway, between 2001
+was observed. Moreover, the detection of elevated PFBS      and 2007 in a longitudinal study (Additional file 8, Fig-
+in drinking water in and around Uppsala [88] means that     ure S18). The corresponding decrease for PFOS over the
+human PFBS data in Uppsala are not likely representative    same period was 22%, and the overall temporal trends
+of other geographic locations.                              looked very similar for PFOA and PFOS, suggesting that
+                                                            PFOA exposure in this Norwegian population was largely
+PFDS                                                        of electrochemical origin. The other exception was for
+Five human datasets were included for PFDS (Additional      Australia [138], where PFOA and PFOS declined at simi-
+file 7, Figure S12). Three of these were for adult German   lar rates of annual change of approximately 10% after the
+serum (Munster and Halle [145]) and showed no sig-          3M Co. phase out (Additional file 7, Figure S15).
+nificant trends, but were underpowered. PFDS was only         Based on NHANES data, Calafat et al. [74] first
+detected in up to 50% of the samples, and in later years    reported statistically significant decreases for PFOA in
+(i.e. after 2005) the frequency of detection decreased      2003–2004 (post phase-out) compared to 1999–2000
+which prevented a quantitative temporal trend analy-        (pre phase-out) while accounting for age, sex and race/
+sis across the whole dataset. Nevertheless, we take this    ethnicity. This suggested that the 3M Co. phase out had
+decline in detection frequency as qualitative evidence      resulted in lower human exposure to PFOA in the US,
+for a decline of PFDS in these German cities. The two       however Kato et al. [103] continued the NHANES anal-
+other datasets were for Uppsala, Sweden [62, 85], and sig-  ysis for PFOA into 2005–2006 and 2007–2008. Similar
+nificant declining trends (> 10% per year) were shown in    to the trends for PFHxS, PFOA concentrations did not
+both cases. Similar to the datasets discussed above from    continue to decline and may have risen in 2007–2008,
+Germany, for the study by Gebbink et al. [85] in Uppsala,   particularly for males. Thus, in our independent analy-
+Sweden, the concentrations of PFDS were below detec-        sis no overall statistical temporal trend was detected
+tion limits for the most recent samples from 2012. For      (Additional file 7, Figure S15), and the overall dataset was
+the dataset from Glynn et al. [62], a significant change    underpowered to detect a significant trend in both males
+point was detected in 2000, corresponding to the time of    and females. Other PFOA datasets from the United
+the 3M Co. phase out.                                       States [120, 121] have also largely been underpowered
+                                                            to detect a significant temporal trend, but interestingly
+PFOA (C8 PFCA)                                              analysis of three datasets from Olsen et al. [120] showed
+Change point analysis For PFOA in human samples,            a significant decrease for adult women, but not for men,
+eleven datasets were evaluated by change point analy-       in serum from 6 American cities. A significant decline
+sis (Additional file 7, Figure S15). Eight of these data-   was detected for PFOA in infant whole blood spots from
+sets had a significant change point for PFOA, seven         New York State [135] over the entire study period 1997-
+in Europe and one in the US. Among datasets with a          2007, but we did not detect a significant decline subse-
+significant change point, only 2 of 8 showed a signifi-     quent to a detected change point in 2001. Although the
+cant increasing trend prior to the change point [92,        data could not be extracted for independent analysis, a
+
+Land et al. Environ Evid (2018) 7:4                                                                        Page 16 of 32
+significant age-adjusted decline of serum PFOA (7% per     was detected between 1994 and 2008 but power was low.
+year, 2003–2013) was reported for Gullah African Ameri-    In 6 cities in the United States, PFHpA declined signifi-
+cans in coastal South Carolina after the 3M Co. phase-     cantly in plasma of females, whereas no significant trend
+out [87].                                                  was detected for males [120].
+  As with PFOS, the only PFOA dataset available for
+people in China showed a significantly strong and rapid    Longer‑chained PFCAs (C9–C14 PFCAs)
+increase (> 20% annual change) of PFOA concentra-          Results for the temporal trends of PFNA (Fig. 7), PFDA,
+tions in male and female serum from Shenyang [98]. By      PFUnDA, PFDoDA, PFTrDA and PFTeDA (Additional
+simple visual observation, the exponential shape of the    file 7, Figures S23, S28, S33, S37, S40) in human sample
+trend was similar to PFOS, showing that concentrations     datasets can be categorically generalized as showing no
+began to increase in the mid-1990s, but with a more        evidence for any significant decreasing temporal trends at
+rapid increases after 1999. Unfortunately, all samples     any global location. The only possible exception was for
+were only from one city, and moreover the most recent      one dataset of PFUnDA in Norway [92], where our inde-
+samples available were from 2002. Nevertheless, the        pendent change-point analysis suggested a significant
+maximum PFOA concentration in Shenyang (year 2002)         decrease in adult male serum between 1986 and 2006.
+was approximately 3 ng/mL, which is lower than in many     However, this trend was driven by a high mean concen-
+other countries at the same time. The increasing tempo-    tration detected in 1986, with all subsequent years show-
+ral trend of PFOA between 1983 and 1998 in adult male      ing no apparent trend. Moreover, in the same dataset, no
+serum (but not females) from Kyoto, Japan, is similar in   significant change was detected for PFNA (power > 0.8),
+magnitude (~ 10% annual change) to what was observed       PFDoDA (power < 0.8) or PFTrDA (power < 0.8), and
+before the change-points in Stockholm (milk of primipa-    higher concentrations were detected for PFDA after a
+rous women) or Norway (serum of adults), but the lack      change point in 1991.
+of any samples after year 2000 in Kyoto prevents any          The overall weight of evidence for datasets from
+extrapolation beyond this time. Two other more contem-     Europe (Germany, Sweden, Norway) was that longer-
+porary datasets from Asia, Hokkaido Japan (2003–2011)      chained PFCAs continue to increase, or have increased
+and Busan Korea (1994–2008), did not show a significant    and have stabilized after a significant change point. In
+temporal trend but were both underpowered to detect a      general, the rates of increase were ≤ 10% per year. Analy-
+trend.                                                     sis of hen eggs and of the broader Swedish diet between
+                                                           1999 and 2010 showed no significant temporal trends
+PFHpA (C7 PFCA)                                            for PFNA, PFDA or PFUnDA in food during this critical
+Results on temporal trends of PFHpA were mixed (Addi-      time period [99], however statistical power was also low
+tional file 7, Figure S15). A significant change point was in most cases. The exception was for PFDoDA where a
+detected in 3 datasets of blood plasma from Germany        statistically significant increase in the Swedish diet was
+between 1998 and 2002. Among females in Munster,           seen [142], consistent with the rate of increase of serum
+plasma concentrations of PFHpA significantly increased     PFDoDA in adult females from Uppsala, Sweden [85]
+after the change point in 1998, whereas in plasma of       over a similar time period.
+males from Munster PFHpA concentrations decreased             No datasets from China were identified in the system-
+after the change point in 2002 [146]. In plasma of adults  atic review for these longer-chained PFCAs. Other data-
+in Halle, Germany, only in males was a significant         sets from Asia [90, 118] mostly showed no significant
+decrease detected, for females no significant trend was    trends for PFNA, PFDA, or PFUnDA but were all under-
+detected, but statistical power was low [146]. The only    powered to detect a trend. Nevertheless, a significant
+other human dataset from Europe with a significant trend   increasing trend was detected for PFDoDA in serum of
+was for longitudinal sampling of male serum in Tromso,     women from Busan, Korea [90].
+Norway, between 1979 and 2009, whereby concentrations         Using NHANES data, Calafat et al. [74] reported sta-
+were not detected in years prior to the 1990s, and aver-   tistically significant increases in PFNA concentrations in
+age concentrations were consistently low at 0.1 ng/mL      2003–2004, compared to 1999–2000 for every age, sex,
+at each time point afterwards [115]; thus concentrations   and race-ethnicity category. Kato et al. [103] continued
+were increasing over the whole study period but stable     the NHANES analysis into 2005–2006 and 2007–2008,
+through the 3M phase-out period. Similarly, no trend was   and a significant increasing trend was detected for PFNA
+detected in female serum from Uppsala, Sweden, and no      across the whole time period for a population includ-
+trend was detected for cow’s milk in Sweden over a simi-   ing both males and females (Fig. 7). All other datasets
+lar timeframe. A dataset from Busan, Korea, was the only   for PFNA, PFDA, PFUnDA and PFDoDA in the US
+data available for Asia, and no significant temporal trend showed no significant changes over the time periods
+
+Land et al. Environ Evid (2018) 7:4                                                                                                          Page 17 of 32
+  Fig. 7 Calculated time trends for PFNA in human and food samples. a Study period and direction of trend. Datasets above the thick horizontal line
+  were analysed for change-points. Other data sets provided less than 7 time points and were not analysed for change-points. The power of insignifi-
+  cant trends refers to the chance of detecting an annual change of 10%. b Magnitude of annual change. Where change-points occur the magnitude
+  is generally shown before and after the change-point, but where the trend is insignificant on both sides the magnitude is shown for the whole
+  period only. Colour codes are the same in a, b. Bullets indicate that time trend analysis was performed also in the original study (reference in square
+  brackets). Asterisks indicate low risk of bias, other studies were judged to have medium risk of bias
+
+Land et al. Environ Evid (2018) 7:4                                                                             Page 18 of 32
+examined but were also all underpowered to detect a          and in Bohai Bay on the east coast of China between
+trend. Although the data could not be extracted for inde-    2011 and 2013 [140]. The other significant downward
+pendent analysis, significant age-adjusted declines of       trends for PFOS were observed in a digested sewage
+serum PFNA, PFDA and PFUnA (4–5% per year, 2003–             sludge sampled in Hinwil in Switzerland between 1998
+2013) were reported for Gullah African Americans in          and 2008 [136], in a Snow core from the Devon ice cap
+coastal South Carolina after the 3M Co. phase-out [87].      [91] and in a sediment core in the Haihe River (core S6,
+This exceptional result was described by the authors as      dated 1952–2006) in China [149]. The majority of sedi-
+perhaps only a local phenomenon, or possibly consist-        ment cores, from five separate studies sampled in China,
+ent with trends in the NHANES database among non-            North America and Japan, showed statistically significant
+hispanic blacks over the same time period. Based on the      increasing temporal trends for PFOS.
+increasing temporal trends of PFNA presented by Kato
+et al. [103] for non-hispanic blacks, we suggest the for-    Other PFSAs Only one study reported statistically sig-
+mer explanation is most likely, that this is indeed a local  nificant temporal trends for PFSAs other than PFOS in
+phenomenon.                                                  abiotic studies (Additional file 7, Figures S1, S6, S12, S42).
+                                                             PFHxS showed a statistically significant declining trend in
+Abiotic samples                                              marine water on the west coast of South Korea between
+Temporal trend studies were identified in the following      2008 and 2012 [95] and PFDS showed a significantly
+“abiotic” samples: consumer products, digested sew-          increasing trend in the same seawater. Liu et al. [108] also
+age sludge (known in North America as “biosolids”),          reported an increasing temporal trend in PFSAs for one
+air, snow and ice cores, surface waters (freshwater and      product (a carpet shampoo). They attributed the increas-
+marine), and benthic sediment cores (freshwater and          ing PFSA trend in the carpet shampoo to the increased
+marine). A graphical summary of the analysis of tempo-       use of PFBS in recent years, but no statistical analysis was
+ral trends in abiotic datasets is displayed in Additional    performed in the Liu et al. study and the data were insuffi-
+file 7. Below the abiotic media are discussed “substance     cient to perform a statistical analysis in this present study.
+by substance”. We then also summarise the abiotic media
+temporal trends on a “media by media” basis in the order     PFOA (C8 PFCA)
+listed above. This order was chosen because it represents    For PFOA in abiotic samples, the independent change
+the logical flow of PFASs from sources to the receiv-        point analysis revealed change points (Additional file 7,
+ing environmental media [i.e. product use, product dis-      Figure S17) for sediment cores in three separate studies in
+posal, receiving mobile environmental media (i.e. air        Canada/USA [90], China [64] and Japan [3]. For the two
+and water), and stationary environmental media (i.e. ice,    cores in the Canada/USA study [90] where change points
+snow and sediments)].                                        were identified (stations 1004 and 1034), statistically sig-
+                                                             nificant increasing trends were observed before and after
+PFOS For PFOS in abiotic samples, change points were         the change points (in 1979 and 1988, respectively). For
+detected in a snow core sampled in Tibet [38] and in three   the Chinese study [64], there was no significant tempo-
+sediment cores sampled in Canada in two separate studies     ral trend in one sediment core (core 1) before the change
+[93] (Fig. 8). The Tibetan snow core dataset had a change    point in 1967, after which a significant increasing trend
+point in 1984, but showed no significant trend and low       was observed. For the two other cores in the Chinese
+power over the whole period sampled. One of the Cana-        study [64] (cores 2 and 3) no change point was detected.
+dian sediment core studies (Kempenfeldt Bay, Lake Sim-       For the Japanese study [3], there was no statistically sig-
+coe [33]) showed a significantly increasing temporal trend   nificant trend observed before or after the change point
+in a sediment core before the change point (in 2002) and     in 2001.
+an insignificant trend (power < 0.8) after the change point.   PFOA showed statistically significant down-
+The other Canadian sediment study in Lake Ontario [90]       ward trends in several different consumer products,
+showed significantly increasing trends before and after      whereas it showed significant increasing trends in
+the change points (in 1979 and 1987) in two separate         food contact paper (Category H in Additional file 7,
+cores (stations 1004 and 1034). In a third core (station     Figure S17) [108]. PFOA showed statistically signifi-
+1046) from this Canadian study [90] no change point was      cant declining trends in the same surface waters for
+detected.                                                    which declining PFOS trends were also observed,
+   PFOS showed statistically significant declining trends    namely; in Tokyo Bay between 2004 and 2006 [129],
+in several surface waters, namely; in Tokyo Bay between      in marine and fresh waters on the west coast of Korea
+2004 and 2006 [129], in marine and fresh waters on the       between 2008 and 2012 [95] and in Bohai Bay on the
+west coast of South Korea between 2008 and 2012 [95]         east coast of China between 2011 and 2013 [140].
+
+Land et al. Environ Evid (2018) 7:4                                                                                                           Page 19 of 32
+  Fig. 8 Calculated time trends for PFOS in abiotic samples. a Study period and direction of trend. Datasets above the thick horizontal line were
+  analysed for change-points. Other data sets provided less than 7 time points and were not analysed for change-points. The power of insignificant
+  trends refers to the chance of detecting an annual change of 10%. b Magnitude of annual change. Where change-points occur the magnitude is
+  generally shown before and after the change-point, but where the trend is insignificant on both sides the magnitude is shown for the whole period
+  only. Colour codes are the same in a, b. Bullets indicate that time trend analysis was performed also in the original study (reference in square brack-
+  ets). Asterisks indicate low risk of bias, other studies were judged to have medium risk of bias
+
+Land et al. Environ Evid (2018) 7:4                                                                           Page 20 of 32
+A significant downward trend for PFOA was also              increasing trends were observed for PFNA and PFUnDA
+observed in a sediment core in the Haihe River (core        until a change point (in 1993) in Lake Opabin cores, after
+S6, dated 1952–2006) in China [122]. Similar to PFOS,       which there was no significant temporal trend observed.
+sediment cores tended to show statistically significant     For PFUnA (in Lake Oesa [7] and Kempenfeldt Bay [33])
+increasing temporal trends for PFOA, although there         and PFTrDA (in all cores) statistically significant increas-
+were a few exceptions where no significant trend or a       ing trends were observed for the entire time period
+declining trend was observed (Haihe River). A statis-       sampled.
+tically significant increasing temporal trend was also        Change points were observed for PFNA, PFDA,
+observed in a snow core from Mt. Mutzugata in Tibet         PFUnDA and PFTeDA in sediment cores from Japan
+between 1996 and 2007.                                      [3]. The change point was always identified to occur in
+                                                            1987 well before any known intervention. For PFNA and
+Other PFCAs (C7, C9–C14 PFCAs)                              PFUnA there was no significant temporal trend before
+Liu et al. [108] reported that the PFCA content showed      the change point (Power < 0.8) and a statistically signifi-
+an overall downward trend in consumer products from         cant increasing trend afterwards. For PFDA and PFTeDA
+2007 to 2011. Our analysis showed statistically signifi-    there was no significant trend before or after the change
+cant downward trends (and in some cases large annual        point.
+changes) for PFHpA, PFNA, PFDA, PFUnDA and
+PFDoDA in various products (see Additional file 7, Fig-     PFSA and PFCA precursors
+ures S14, S22, S27, S32, S36 for details), whereas other    There is some indication of declines of N-alkyl perfluo-
+products showed no significant trends (the statistical      rooctane sulfonamides and N-alkyl perfluorooctane
+power to detect trends was however low in those cases).     sulfonamidoethanols (precursors of both PFSAs and
+  For PFHpA, PFNA, PFDA and PFUnDA statistically            PFCAs) in the global atmosphere, but FTOHs (precur-
+significant declining trends were also observed in marine   sors of PFCAs) appeared to be stable or even to have
+waters on the west coast of South Korea between 2008        increased between 2006 and 2012 [83] (see also AMAP,
+and 2012 [95], but most surface water sampled showed        2016 [153]). FOSA, a PFOS precursor, showed signifi-
+no significant trends for PFCAs other than PFOA.            cantly increasing trends in two sediment cores from Can-
+  For PFHpA, PFNA, PFDA and PFUnA, a significant            ada in two separate studies [70, 93], which is consistent
+change point (in 2004 in all cases) was determined by the   with the increasing PFOS trends observed in the same
+independent change point analysis in a compacted snow       sediment cores.
+(“firn”) core (dated: 1997–2007) from the Italian Alps
+(Additional file 7, Figures S14, S22, S27, S32) [104]. For  General conclusions on a media by media basis
+PFHpA no significant change was observed before the         Decreasing temporal trends of PFCAs were observed in
+change point and a significant decrease was observed        recent years in many consumer products in the one study
+after the change point. For PFNA and PFDA significant       performed [108]. These reductions in levels in consumer
+increasing trends were observed before the change point     products have not apparently led to a reduction in the
+and significant decreasing trends after the change point.   levels of PFCAs in digested sewage sludge where no tem-
+For PFUnDA a significant increasing trend was observed      poral trends have been observed (the only decline was for
+before the change point and no observable trend was         PFOS). The few studies that reported temporal trends in
+observed after the change point. A significant increasing   surface waters all studied coastal areas, likely impacted by
+trend of PFNA was also observed in an ice core (dated:      municipal waste and industrial discharges from the coast.
+1991–2006) sampled from Svalbard [37].                      These studies showed that there may have been recent
+  Change points were also identified in sediment cores      reductions in releases of PFOS and PFOA that have led
+from China for PFHpA, PFDA and PFUnDA [122]. How-           to statistically significant declines in surface water con-
+ever, in no cases were there significant declining trends   centrations. However, these observed declining temporal
+before or after a change point and change points were       trends in PFOS and PFOA in surface waters may not have
+identified in the 1970s and 1980s well before any known     occurred in remote waters because water bodies remote
+intervention. In Chinese sediment cores [64], statistically from emission sources are expected to have a slower time
+significant increasing temporal trends were observed for    response compared to water bodies nearer to sources.
+PFHpA, PFNA, PFDA, PFUnDA, PFTrDA and PFTeDA.               It is not possible to prove this hypothesis because no
+  Change points were also identified for PFNA, PFUnDA       temporal trends are available for PFCAs and PFSAs in
+and PFTeDA in sediment cores from Canada [7, 33].           remote surface waters. Remote air has been sampled
+Again, no significant declining trends were identified      and there are indications that levels of N-alkyl perfluo-
+before or after change points. Statistically significant    rooctane sulfonamides and N-alkyl perfluorooctane
+
+Land et al. Environ Evid (2018) 7:4                                                                            Page 21 of 32
+sulfonamidoethanols have declined in the remote atmos-       lysed statistically using regression analysis. Further scru-
+phere, but that FTOH levels have increased between           tiny of these temporal trends revealed that several studies
+2006 and 2012. Sediment cores showed (for some sub-          presented singly, were not independent of each other. The
+stances and study sites) statistically significant increases polar bear study (Ittoqqortoormiit, Greenland) covering
+for some PFCAs and for PFOS for the time periods moni-       the time period 1984–2011 [124] is based on the same
+tored. However, it should be stressed that most sediment     data presented by Dietz et al. [77] (1984–2006), but with
+cores cover relatively long time periods with relatively     additional years of sampling. Thus, we use the longer tem-
+low resolution. As a result, the number of sampled time      poral trend with more time points in our discussion. Simi-
+points after the major phase-outs is often relatively low    larly, ringed seal from Ittoqqortoormiit (East Greenland)
+and therefore changes in trends may not be revealed by       and Qeqertarsuaq (West Greenland), published by Bossi
+the available samples.                                       et al. [71] (1986–2003 and 1982–2003, respectively, 4 time
+                                                             points each) and Riget et al. [124] (1986–2010 and 1982–
+Biological samples                                           2010, respectively, 7 time points each) are also essentially
+Within the eligible literature for this critical review,     the same studies but one has been extended with more
+we analysed PFAS temporal trends in terrestrial and          time points. Thus the study with 7 time points for each
+marine organisms as well as organisms inhabiting the         site is included in our discussion. The temporal trends
+coastal zone such as seabirds. The majority of the organ-    seen in polar bear liver and kidney from the same individ-
+isms described in the literature, however, were either of    uals [134] are also not independent and only the liver data
+marine or coastal origin. These included mammals such        will be discussed here. Similarly, the study of herring from
+as polar bears, seals, cetaceans, and seabirds, loggerhead   Kattegatt [139] used both muscle (n = 21 time points) and
+sea turtles, some fish species and mussels. A few species    liver (n = 5 time points) from the same individuals. The
+were from inland aquatic sites, such as great blue heron,    muscle data will be discussed here as there were more time
+lake trout and otter. Terrestrial organisms included roe     points available for this tissue compared to liver. Herring
+deer, tawny owl and peregrine falcon. To discuss our find-   gulls from three colonies (Heuwise, Mellum, Trischen)
+ings we will distinguish between (1) mammals (terrestrial    on the German coast have also been the subject of three
+and marine), (2) birds, and (3) fish, mussels, and other     separate studies ([80, 105, 128]). Again, these are built on
+species. Tissues analysed were primarily eggs in birds and   the same material by adding more samples and extend-
+liver or serum/plasma in other organisms, but for details    ing the time period studied. For PFOS, we have therefore
+for each study, see Additional file 6: Narrative synthesis   chosen the studies with the most time points and longest
+table. We will also attempt to assess regional differences.  temporal trends for discussion (Heuwise (1991–2008, 13
+The studies included in the review were predominantly        time points) [105], Trischen (1988–2008, 21 time points)
+from continental North America (the USA, Canada), the        and Mellum (1988–2008, 21 time points) [80].
+Arctic (Alaska, Arctic Canada, Greenland, northern Nor-         After removing the replicate studies, 33 datasets that
+way), and northern Europe (Norway, Sweden, Denmark,          underwent change point analysis and 18 that underwent
+Germany, the Netherlands, France, the North Sea, the         regression analysis were available for further analysis,
+Baltic Sea). One study was available from Japan, other-      a total of 51 datasets (see Figures S8–S10 in Additional
+wise no other studies from Asia nor from the southern        file 7). Of the 33 change point datasets, 13 were found
+hemisphere were available. As there were only three data     to have change points, and 20 showed no change point.
+sets with truly terrestrial organisms (roe deer [79], per-   Within the group of 13 studies exhibiting change points,
+egrine falcon [12], tawny owl [11]), it was not possible to  seven studies showed decreasing concentrations after the
+make any comparisons of temporal trends for any PFASs        change point (roe deer [79], polar bear liver [134], herring
+between terrestrial and aquatic/marine species.              gull eggs (Trischen) [80], northern sea otter [42], beluga
+                                                             whale [123], eelpout [128], and herring [139]). Four stud-
+PFOS All temporal trend data were from the northern          ies exhibited insignificant change both prior and post
+hemisphere, predominantly from the continental USA and       change point (polar bear [124], grey seal [106], herring
+Canada, the Arctic (Alaska, Arctic Canada, Greenland),       gull eggs (Mellum) [80], guillemot eggs [94]). However, in
+Europe (Norway, Sweden, Germany, France, the Nether-         three of these four studies, the concentrations after the
+lands), the North Sea and the Baltic Sea. In total, 41 time  change point were significantly higher than before the
+trends of organisms were eligible for change point analy-    change point (stepwise increase rather than a continuous
+ses. In addition, 21 studies were included which fulfilled   increase). In one case (herring gull from Mellum) there
+the systematic review criteria, but contained less than 7    was no change and the trend before the change point was
+time points (Additional file 7, Figures S8–S10). No change   of significant power (> 0.8) to have detected a trend. One
+point was determined in these studies, but they were ana-    dataset showed increasing trends prior to the change
+
+Land et al. Environ Evid (2018) 7:4                                                                             Page 22 of 32
+point and then no significant trend after the change point     proper statistical methods in temporal trend studies that
+(peregrine falcon [12]). Where insignificant trends were       make it possible to compare the results of different stud-
+found, most were of insufficient power (< 0.8) to detect       ies. As the error incurred in the original studies’ analyses
+a trend.                                                       seems most often to be finding significant changes up or
+   Of the 20 datasets without a detectable change point,       down where they may not actually be present, this may
+five exhibited increasing PFOS concentrations over time        have led to faulty conclusions in these published studies.
+(otter [125], herring gull egg (Heuwise) [105], white tailed      In conclusion, PFOS is not exhibiting any overall trend
+sea eagle [100], ringed seal (E. Greenland) [124], blue        over time in the organisms studied for temporal changes.
+mussel (Königshafen) [128]) and continuously decreasing        Insignificant trends were predominant in mammals and
+concentrations were seen in blue mussels (Eckwarder-           birds, with a few increasing and decreasing trends, but in
+shörne) [128]. The remaining 14 datasets showed no sig-        fish, mussels and loggerhead sea turtle, insignificant and
+nificant changes over time but the power to detect such        decreasing trends were equally predominant.
+trends was below optimum (< 0.8) (tawny owl [11], lake            The general geographical pattern indicates insignifi-
+trout [86], harbor porpoise (Baltic Sea, North Sea [96],       cantly changing PFOS concentrations in North America,
+North Sea/Denmark [82]), ringed seal (Qeqertarsuaq)            a mixed pattern for Europe and the Arctic with a pre-
+[124], harbor seal (Maine) [131], double-crested cormo-        dominance of insignificant change, and insignificant or
+rant [112], great blue heron (Fraser R.) [112], northern       increasing trends in the Baltic Sea. Thus, PFOS concen-
+fulmar, thick-billed murre [40], eelpout (2 sites) [128],      trations do not yet appear to be declining on a global
+blue mussels (Darsser Ort) [128]).                             scale after the phase outs. The tendency to increasing
+   For the remaining 18 datasets with less than 7 time         temporal trends in the Baltic Sea may be due to its slow
+points that underwent regression analysis, two showed          turnover time, reflecting a possible delay in the temporal
+increasing trends (beluga (E. Chukchi) [123]), polar bear      trends as concentrations have not yet reached a plateau.
+(Baffin Island) [132]), one showed decreasing trends (blue     Data are missing for the southern hemisphere and only
+mussel (France) [113]) and the remaining 15 showed no          one dataset was available from Asia (Japan) showing no
+significant changes over time, but the power to detect         significant change in trends in melon-headed whales [91].
+such trends was below optimum (< 0.8).
+   In addition to our own statistical analysis, Figures S7–    FOSA For the PFOS precursor FOSA, after removal of
+S9 and S11 in Additional file 8 show the results of sta-       one replicate study, change point analysis of 14 datasets
+tistical analyses reported by the authors themselves.          showed that four had change points (Additional file 7,
+Interestingly, when we compared these with our statisti-       Figures S41, S42), where loggerhead sea turtle [116] had
+cal analyses (Additional file 7, Figures S8–S10) we found      insignificant trends before and after the change point but
+11 datasets showing clearly diverging results (tawny owl       significantly higher concentrations after the change point.
+[11], polar bear (Ittoqqortoormiit) [124], beluga (Cook        Northern sea otters [42] and harbor porpoise (Baltic Sea)
+Inlet) [123], polar bear (Barrow) [132], herring [139], eel    [96] had significantly decreasing trends and polar bear
+(Haringvliet East, Lobith [107]), herring gull (Heuwiese       from Ittoqqortoormiit [124] showed insignificant change
+[80], Mellum—3 sets [80, 105, 128]). In eight cases, our       but with high power to detect a trend before the change
+statistical analyses resulted in insignificant trends, with    point. Of the majority of 10 remaining change point data-
+low power to detect a trend, whereas the authors found         sets, three had significantly decreasing trends and seven
+significantly decreasing trends in seven (tawny owl [11],      had insignificant trends. For the 10 datasets (after remov-
+eel (Haringvliet East, Lobith [107]), herring gull (Heu-       ing three replicate studies) that underwent regression
+wiese [80]), herring gull (Mellum-3 datasets [80, 105,         analysis, one showed an increasing trend, three showed
+128]) and significantly increasing trends in one of these      decreasing trends and six were insignificant with low
+datasets (polar bear, Barrow [132]). For one dataset           power. Evaluating all 22 datasets, two showed increas-
+(polar bear (Ittoqqortoormiit [124]), our results showed       ing trends, eight decreasing trends and 14 insignificant
+no significant trends on either side of the change point       trends, which is similar to the results of the analysis per-
+but statistically significantly higher concentrations after    formed for PFOS.
+the change point, whereas the authors found a significant         No obvious trends were seen based on animal group or
+increasing trend before the change point and significant       geographical location, but the number of data sets was
+decreasing trend after. For two datasets, our analysis         low.
+found significantly declining trends, whereas the authors
+found an increasing trend in one dataset (beluga from          PFBS Only six datasets were available for PFBS after
+Cook Inlet [123]) and no significant trend in the other        removing one replicate, (Additional file 7, Figure S1)
+(herring [139]). This illustrates the difficulties in choosing with one showing significantly declining trends (grey
+
+Land et al. Environ Evid (2018) 7:4                                                                           Page 23 of 32
+seal [106]), and the remaining five showing insignificant      After removing the replicate study, 17 datasets were
+trends (northern fulmar [40], thick-billed murre [40], her-  available for continued analysis. Of these, nine under-
+ring [139], loggerhead sea turtle [116], harbor seal [65]).  went change point analysis and eight underwent regres-
+The northern fulmar was the only insignificant trend with    sion analysis (Additional file 7, Figure S12). Of the nine
+high power (> 0.8).                                          datasets analyzed for change points, eight had change
+                                                             points and one did not. Two studies exhibited insignifi-
+PFHxS Thirty-five PFHxS datasets were available for          cant change both prior and post change point (grey seal
+statistical analysis. Several studies presented singly were  [106], peregrine falcon [12]), but the concentrations after
+not independent of each other. Two studies were excluded     the change point were significantly higher than before the
+in our discussion due to replication: ringed seal from Itto- change point. One dataset showed an increasing trend
+qqortoormiit (East Greenland) where we use the longer        before the change point and an insignificant trend with
+dataset from Riget et al. [124] and herring from Kattegatt   low power to detect a trend after the change point (Bal-
+[139] where we use the longer dataset (n = 21 timepoints)    tic Sea harbor porpoise [96]). Double-crested cormorant
+for muscle and exclude the shorter dataset for liver (n = 5) [112] showed a significant increase before and a decrease
+from the same individuals.                                   after the change point. Four other datasets showed
+   Overall, of the 21 datasets analyzed for change points    insignificant trends before the change point and signifi-
+(Additional file 7, Figures S3–S5), 6 had change points      cantly decreasing concentrations after (great blue heron
+ranging from 1983 to 2005, and 15 did not. Seven of the 33   (Fraser River) [112], tawny owl [11], lake trout [86], her-
+datasets showed increasing trends, four showed decreas-      ring [139]). Change points varied from 1983 to 2005. The
+ing trends and the large majority of 22 showed insignifi-    remaining dataset without a change point showed insig-
+cant changes over time, most of which were of low power.     nificant trends with low power (harbor porpoise (North
+The annual change for statistically significant studies      Sea [96]). Of the eight datasets that underwent regression
+excluding loggerhead sea turtle varied between − 17 and      analysis, four showed increasing trends (otter [125], pilot
++ 36%. For loggerhead sea turtle [116], annual change was    whale [126], herring gull (Norway-2 sites) [141] and four
+− 30% before and + 40% after the change point.               had insignificant trends (great blue heron (Minnesota)
+   Figures S4 and S5 in Additional file 8 show the results   [76], harbor seal [65], rhinoceros auklet (2 sites) [112]).
+of statistical analyses by the authors of the primary stud-    Overall, seven of the 17 PFDS datasets showed increas-
+ies. For 9 of these, we were not able to perform change      ing trends, five showed decreasing trends and five
+point or regression analyses. In total, one showed           showed insignificant changes over time, with low power.
+increasing trends, one showed decreasing trends and 7        The annual change for statistically significant studies var-
+showed insignificant trends. These results are generally in  ied between − 14 and + 25%.
+line with the results from the change point and regres-        Figures S12 and S13 in Additional file 8 show the
+sion analyses.                                               results of statistical analyses by the authors of the pri-
+   In summary, insignificant trends of PFHxS were by far     mary studies. For 9 of these, we were not able to perform
+predominating in mammals, birds and other species, fol-      change point or regression analyses. One of these studies
+lowed by increasing trends. Only three mammal and one        included seven datasets for herring gulls from seven colo-
+fish dataset showed decreasing concentrations. In gen-       nies in the Canadian Great Lakes, with all but one (insig-
+eral, there do not seem to be any differences between        nificant trend) showing decreasing PFDS concentrations
+geographical areas, and the general pattern from our         [84]. Bald eagle from the Great Lakes area showed a
+analysis indicates increasing PFHxS or insignificantly       decreasing PFDS trend [127], and lake trout from Lake
+changing temporal trends, with only three datasets show-     Ontario showed an insignificant trend with low power
+ing declines. As for PFOS, this indicates that concentra-    [86]. In total, two studies showed insignificant trends and
+tions do not yet seem to be declining on a global scale      seven showed decreasing trends. These results are gen-
+after phase-outs. Data are missing from the southern         erally in line with the results from the change point and
+hemisphere and Asia.                                         regression analyses.
+                                                               There are few studies for examining differences
+PFDS Seventeen PFDS datasets were available for statis-      between animal groups, but mammals tend towards
+tical analysis. The time trends for all biota cover the time increasing trends, fish towards decreasing trends and
+period between 1969 and 2012. Several studies presented      birds show a mixed picture with similar numbers of
+singly were not independent of each other. One study was     increasing, decreasing and insignificant trends. Due to
+excluded in our discussion due to replication: herring       the low number of studies for each geographical area it is
+from Kattegat [139] where we use the data for muscle in      difficult to draw firm conclusions. Data are missing from
+the same individuals.                                        the southern hemisphere and Asia.
+
+Land et al. Environ Evid (2018) 7:4                                                                           Page 24 of 32
+PFOA (C8 PFCA) We found 18 studies on time trends            with the results from the change point and regression
+of PFOA in organisms that were eligible for our statistical  analyses.
+analysis fulfilling the systematic review criteria and also     Summarising, for mammals, PFOA trends showed
+containing at least 7 time points for change point analyses. increasing or insignificant trends, while for birds, eelpout
+In addition, 9 included studies contained less than 7 time   and loggerhead sea turtle, all PFOA trends were insig-
+points (Additional file 7, Figure S16). As above, no change  nificant. For PFOA, due to generally low detection rates,
+point was determined in these studies, but they were ana-    there were fewer data sets available for spatial analysis
+lysed statistically using regression analysis. Further scru- than for PFOS. No spatial pattern was apparent in PFOA
+tiny of these temporal trends revealed that several studies  trends. The general geographical pattern from our own
+presented singly were not independent of each other as       analysis indicates predominantly insignificantly chang-
+previously discussed.                                        ing PFOA temporal trends globally with a few showing
+   After removing the replicate studies, 15 datasets that    statistically significantly increasing trends. As for PFOS,
+underwent change point analysis and 9 that underwent         this indicates that concentrations do not yet seem to be
+regression analysis were available for analysis, a total of  declining on a global scale after phase-outs. Data are
+24 datasets. Of the 15 change point datasets, five were      missing from the southern hemisphere and Asia.
+found to have change points, three of which showed
+insignificant trends (roe deer [79], tawny owl [11], north-  PFHpA (C7 PFCA) Grey seal [106] showed an insig-
+ern fulmar [40]) and two showed increasing trends            nificant trend for PFHpA with high power before the
+(polar bear (Ittoqqortoormiit) [124], grey seal [106]). The  change point (Additional file 7, Figure S14). One author-
+change points ranged from 1992 to 2007. For the remain-      based analysis showed insignificant trends in loggerhead
+ing 11 datasets showing no change point, all showed          sea turtle [116], with low power (Additional file 8, Figure
+insignificant trends (great blue heron (Fraser R.) [112],    S14), and another author-based analysis showed a signifi-
+double-crested cormorant [112], thick-billed murre [40],     cant decrease in adult female polar bears but insignificant
+herring gull (3 German sites) [80, 128], ringed seal (West   change in cubs [73] (Additional file 8, Figure S15).
+and East Greenland) [124], eelpout (2 German sites)
+[128], loggerhead sea turtle [116]). Of the remaining 9      Longer‑chained PFCAs (C9–C14 PFCAs)
+datasets with less than 7 time points that underwent         We found 23 studies on PFNA qualifying for change
+regression analysis, two showed increasing trends (polar     point analyses after removing two replicates (polar bear
+bear (Baffin Island [132]), otter [125]) and the remaining   study (Ittoqqortoormiit) [77] and herring gulls (Heu-
+7 showed insignificant trends (polar bear (Barrow) [132],    wise) [80]). In addition, 15 datasets were analyzed sta-
+herring gull (Norway) [141], pilot whale [126], harbor       tistically using regression analysis after removing two
+seal (German Bight) [65], ringed seal (Baffin Bay) [126],    replicates (ringed seal, 2 sites in Greenland, [71]), giving
+bottlenose dolphin (2 sites) [78]).                          a total of 38 datasets for our discussion (Additional file 7,
+   Overall, 4 of the 25 PFOA datasets showed increasing      Figures S19–S21)).
+trends while the large majority of 21 datasets showed           Of the 23 change point datasets, six were found to have
+insignificant trends over time, 18 of which had low power    change points, with four showing insignificant change
+to detect a trend. The calculated annual change for sta-     both prior and post change point, but the concentrations
+tistically significant studies varied between + 2.3 and      after the change point were significantly higher than
++ 30%.                                                       before the change point (stepwise increase rather than
+   Figure S17 in Additional file 8 shows the results of sta- a continuous increase) (roe deer [79], peregrine falcon
+tistical analyses by the authors of the primary studies. For [12], northern fulmar [40], grey seal [106]). One data-
+8 of these, we were not able to perform change point or      set showed an increasing trend (thick-billed murre) [40]
+regression analyses. One of these studies included four      and one showed a decreasing trend (beluga (Cook Inlet)
+datasets for herring gulls from four colonies in the Cana-   [123]). For the remaining 17 datasets showing no change
+dian Great Lakes, with one dataset showing decreasing        point, six showed increasing trends (polar bear (Ittoqqor-
+PFOA concentrations and three showing insignificant          toormiit) [124], tawny owl [11], herring gull (Heuwise)
+changes [84]. Bald eagle [127] from the Great Lakes area     [128], harbor porpoise (Baltic Sea) [96], ringed seal (Itto-
+showed decreasing trends, harbor porpoise from the Bal-      qqortoormiit) [124], otter [125]), one showed a decreas-
+tic and North Seas [96] both showed insignificant trends,    ing trend (great blue heron (Fraser River) [112]) and 10
+and increasing PFOA concentrations were found in Cali-       showed insignificant trends (double-crested cormorant
+fornia sea otters [101]. In total, one showed increasing     [112], herring gull (2 German sites) [128], lake trout [86],
+trends, two showed decreasing trends and five showed         northern sea otter [42], ringed seal (Qeqertarsuaq) [124],
+insignificant trends. These results are generally in line    harbor porpoise (North Sea) [96], eelpout (2 German
+
+Land et al. Environ Evid (2018) 7:4                                                                           Page 25 of 32
+sites) [128], loggerhead sea turtle [116]). Of the remain-   in time trends between different PFASs in the same stud-
+ing 15 datasets with less than 7 time points that under-     ies are abundant. But there are also abundant heteroge-
+went regression analysis, seven showed increasing trends     neities when a particular substance is considered. One
+(polar bear, Barrow and Baffin Island [132]), rhinoceros     of the most striking differences is between human stud-
+auklet (Lucy Island) [112], Leach’s storm petrel (2 sites)   ies and environmental studies for PFOS, PFDS, PFOA,
+[112], pilot whale [126], beluga (Eastern Chukchi) [123])    FOSA, and to some extent also PFHxS. For these sub-
+and the remaining eight showed insignificant trends          stances the type of sample is a clear reason for heteroge-
+(great blue heron (Minnesota) [76], harbor seal [65],        neity. This is possibly related to differences in the routes
+ringed seal (Baffin Bay) [126], bottlenose dolphin (2 sites) of exposure between the sample types. For humans,
+[78], rhinoceros auklet (Cleland Island) [112], herring      exposure to these PFASs through commercial products
+gull (Norway-2 sites) [141]).                                and food contact paper has probably decreased, result-
+   Overall, 18 of the 38 PFNA datasets showed increas-       ing in declining concentrations in human blood serum.
+ing trends, two showed decreasing trends and 18 showed       In contrast, due to the very limited degradation of PFAS
+insignificant trends over time, all of which had low power   in the environment, ecosystems continue to be exposed
+to detect a trend. The calculated annual change for sta-     to PFASs already released, and although 15 years have
+tistically significant studies varied between − 12 and       passed since interventions for reducing exposure to
++ 27%.                                                       PFOS and PFOA were put in place, no clear impact on
+   Figures S20–S22 in Additional file 8 show the results of  the environmental concentrations can yet be observed.
+statistical analyses by the authors of the primary studies.    Among human studies, study geographic location can
+For 8 of these, we were not able to perform change point     be a reason for heterogeneity. Although there is only one
+or regression analyses. One of these studies included        study from China available, this study shows increasing
+seven datasets for herring gulls from seven colonies in      trends for PFOS and PFOA whereas studies in Europe
+the Canadian Great Lakes, with two datasets showing          and North America show declining trends. However,
+increasing PFNA concentrations and five showing insig-       this has probably more to do with the scale of the inter-
+nificant changes [84]. Bald eagle from the Great Lakes       ventions rather than the interventions themselves. The
+area showed insignificant trends [127]. These results are    phase-outs and regulations have not been implemented
+generally in line with the results from the change point     in China, but the production of these substances has
+and regression analyses.                                     rather increased during recent years and the studied
+   The general trend in mammals and birds indicates          population is presumably closer to and more exposed to
+significantly increasing or insignificant trends, and only   present sources. The situation in China may thus be con-
+insignificant trends in other species. No spatial pattern    sidered as a baseline for the regions where the interven-
+was apparent in PFNA trends. The general geographi-          tions have been implemented. Another example where
+cal pattern from our own analysis indicates significantly    the study location is a reason for heterogeneity is the sit-
+increasing or insignificantly changing (with low power to    uation in Uppsala, Sweden, where contamination of the
+detect trends) PFNA temporal trends globally. Data are       drinking water probably has affected measured trends of
+missing from the southern hemisphere and Asia.               PFBS and PFHxS in human blood serum. In biological
+   For PFDA, PFUnDA, PFDoDA, PFTrDA, and PFTeDA              (non-human) and abiotic samples the study location may
+(Additional file 7: Figures S24–S26, S29–S31, S34–S36,       also be a reason for heterogeneity, but no clear patterns
+S40), the results of change point analysis, regression       could be seen from the available evidence.
+analysis, analyses based on animal group and geographi-        For human studies the choice of population within
+cal area are very similar to those of PFNA. This indi-       a study site may also be a reason for heterogeneity. For
+cates that the long-chain PFCAs have similar sources to      example, in Munster, Germany, the trend for PFHpA after
+the environment. The large majority of included time         a change-point was increasing in females whereas it was
+trends show increasing concentrations or non-significant     decreasing in males [145]. In Shenyang, China, there was
+changes with low power to detect changes.                    a significant increase in PFOS concentrations in females
+                                                             from 1999 to 2002, whereas it was statistically insignifi-
+Discussion                                                   cant in males. It also seems that age contributes to heter-
+Reasons for heterogeneity                                    ogeneity. Taking NHANES data from the USA, there are
+First of all it must be emphasized that different PFASs      significant decreasing trends for PFOS in all age groups,
+have different production histories and properties. Dif-     but for both females and males the magnitude of the
+ferent PFASs are therefore not expected to show identical    decreasing trend increased with decreasing age [144].
+responses to the interventions studied here. Indeed, the     On the other hand, in a study on polar bears [73], it was
+results of this systematic review confirm that differences   shown that concentrations of PFHpA and PFOA in adult
+
+Land et al. Environ Evid (2018) 7:4                                                                           Page 26 of 32
+females (mothers) decreased from 1998 to 2008, whereas       One of the most important limitations in the evidence
+no significant change was observed in cubs. We do not        base is perhaps the limited amount of data on alterna-
+have any explanation for these heterogeneities observed      tives to phased-out long-chain PFCAs and PFSAs and
+for sex and age. It has been suggested that elimination      their precursors. If these substances are replaced by other
+of PFOS is enhanced by menstruating women [144], and         equally harmful substances very little is gained. However,
+menstrual clearance will vary with age, but this factor      it is not always clear what the substitutes are and what to
+alone cannot explain the difference between males and        look for.
+females seen in the Chinese study from Shenyang. Differ-        Looking at the existing studies and datasets, it can be
+ences between males and females have also recently been      concluded that many of them, especially those investi-
+observed in Australia and the USA [154] but were not         gating environmental samples, have low power to detect
+fully understood.                                            significant trends due to short study periods and low fre-
+  There were no clear differences between studies with       quency of sampling. The inter-annual variation is often
+low and medium risk of bias, respectively. However, as       relatively large and in such cases fairly long study peri-
+expected, studies with seven or more time points were        ods with a high sampling frequency are needed to obtain
+more likely to detect significant trends or show non-sig-    high statistical power. It can also be concluded that dif-
+nificant trends with high power than studies with a lower    ferent authors have used different statistical methods to
+number of time points. Other potential reasons for het-      calculate trends, which can make it difficult to compare
+erogeneity could not be evaluated based on the available     trends. When we applied the same methods on all avail-
+evidence.                                                    able datasets we sometimes observed that our results dif-
+                                                             fered from the results given in the original studies. One
+Review limitations                                           additional limitation of the evidence base is that different
+Literature searches in bibliographic databases captured      conclusions may be reached depending on the choice of
+the bulk of relevant studies, judging by the fact that no    statistical approach. We are not claiming that our statis-
+additional articles was identified when the bibliographies   tical approach is necessarily better (in some cases other
+of relevant review articles were screened. The success       approaches can probably be justified), but we have used
+of grey literature searches were more difficult to assess.   a consistent and objective method. Also, one limitation
+Search words in a limited number of languages were used,     in the evidence base is that there is no proper baseline
+and specialist websites in a limited number of countries     throughout the study periods. Since the interventions are
+were searched. It is therefore possible that this review     widely implemented and potentially have a global impact
+has overlooked some evidence, especially from Asia and       it is only possible to compare trends or concentrations
+the southern hemisphere. Future updates of this review       before and after an intervention (BA study design), but
+should include search for literature published in Chinese    there is no way to know what the concentrations or
+languages. All identified grey literature was excluded dur-  trends would have been in the absence of any interven-
+ing critical appraisal due to lack of detail in descriptions tion (CI or BACI study design). Concentration trends in
+of methods, which also could result in overlooking parts     regions where interventions have not been implemented
+of the evidence base. On the other hand, we observed that    (e.g. China) may be regarded as a post-intervention
+relevant data found in grey literature in many cases were    baseline, but here data are very sparse and they may be
+published also in the academic literature. We believe that   affected by the interventions implemented elsewhere.
+the vast majority of reliable high quality data can be found    We could not see any systematic difference in study
+in the academic literature and that grey literature is less  results between studies with low and medium risk of
+important for the question reviewed here.                    bias, respectively. This can be interpreted in two ways.
+  There are several limitations in the available evidence    One is of course that the quality of methods is not critical
+base. Most of the included studies were performed in         for obtaining reliable results. The other is that our meth-
+regions where interventions have been implemented            ods for critical appraisal and assessment of risk of bias
+(Europe and North America). Little or very little is         are flawed. Another limitation of this review is the lack
+known about temporal trends of PFASs in Asia and the         of quantitative synthesis, but for reasons explained in the
+southern hemisphere. This is troublesome since produc-       Methods section we judged it was not feasible to conduct
+tion of PFASs has been picked up in regions with weaker      meta-analyses.
+voluntary phase-outs and regulations, and there are
+indications that concentrations are increasing in these      Review conclusions
+regions. Due to long-range transport, PFASs released to      Implication for policy/management
+the environment in these regions may eventually affect       The variations in study results between study locations
+also regions where interventions have been implemented.      and sample types make it difficult to extrapolate the
+
+Land et al. Environ Evid (2018) 7:4                                                                         Page 27 of 32
+available evidence to other locations and sample types     and N-alkyl perfluorooctane sulfonamidoethanols
+than those in the studies. Nevertheless, in regions where  (precursors of both PFSAs and PFCAs) in the remote
+the studied interventions have been implemented, the       atmosphere have declined, and that levels of FTOH (pre-
+concentrations of PFOS, PFDS, and PFOA in humans           cursor of PFCAs) in contrast have increased in remote air
+are generally declining, and increasing concentrations     between 2006 and 2012. In biological (non-human) sam-
+of PFHxS have started to level off in recent years. Rapid  ples, increasing trends predominate for concentrations of
+declines for PFOS-precursors (MeFOSAA, EtFOSAA,            long-chain PFCAs such as PFNA-PFTrA.
+FOSAA, FOSA) have also been seen in human studies.            Even with time trends covering more than 7 time
+The weight of evidence therefore supports that the 3M      points, no clear trends could be detected in many of the
+Co. phase out resulted in a significant and rapid (meas-   studies of biological (non-human) samples. There was
+urable over approximately 10 years) mitigation of human    often also considerable between year variations, which is
+exposure in North America and Europe. These consistent     always a problem with wildlife studies, as there are many
+declining trends in humans are in contrast to results for  confounders that can affect contaminant levels. These
+environmental monitoring, and overall data of our analy-   studies may be able to show statistically significant trends
+sis are therefore suggestive that the consistent declining if they are continued.
+human trends are attributable to lower exposure from          To conclude, there are indications that the imple-
+direct contact with commercial materials and food-con-     mented phase-outs and regulations have had a posi-
+tact media containing electrochemical PFOS, PFOS-pre-      tive effect, but not yet universally and not for all PFASs.
+cursors and PFOA.                                          Different PFASs have different production histories
+  In contrast, limited data indicate that human con-       and properties and are therefore not expected to show
+centrations of PFOS and PFOA are increasing in China       identical responses to the interventions. Considering
+where the production of these substances continued after   a particular substance, one reason for heterogeneity in
+the 3M Co. phase out. Concentrations of longer-chained     study results may be related to differences in the route
+PFCAs (PFNA, PFDA, PFUnDA, PFDoDA, PFTrDA,                 of exposure to PFASs. For humans, the exposure to some
+PFTeDA) in humans are generally increasing, with no        PFASs through commercial products and food contact
+evidence of significantly declining trends in any global   paper has probably decreased, resulting in declining
+region. Thus, the available data do not support that the   concentrations of these substances in humans. In con-
+US EPA Stewardship program, which commenced in             trast, due to the very limited degradation of PFAS in
+2006, has resulted in significantly declining trends in    the environment, ecosystems will be exposed to already
+humans. However, it should be noted that the steward-      released PFASs for a long time and no clear impact on
+ship program consisted of gradual phase-outs until 2015,   the environmental concentrations can yet be observed.
+whereas only a small number of datasets included sam-      This systematic review also suggests that one explana-
+ples from years after 2010. Moreover, companies bound      tion for heterogeneity among human studies may be
+to the terms of the Stewardship program represent only     proximity to past and present sources, which is related
+69% of the global capacity for fluoropolymer production,   to study location and where the interventions have been
+with the other 31% occurring mainly in China, India and    implemented.
+Russia by non-signatory companies [155]. More time will
+probably be needed to detect any true declining trends of  Implication for research
+PFNA and longer PFCAs in humans, owing to their bio-       The sampling strategy used in a large number of studies
+logical persistence. New regulatory measures have also     has resulted in low power to detect any trends. There is
+only recently been adopted, for example in January 2016    a need for better designed temporal trend studies includ-
+the United States Food and Drug Administration banned      ing proper statistical treatment, long time periods both
+C8–C18 polyfluoroalkyl phosphate esters (PAPs) in food     before and after intervention points, enough time points,
+contact applications [156].                                well studied matrices/species, good analytical methods
+  For environmental samples (abiotic and biological)       and practice, and more targeted sampling. The systematic
+there are no clear patterns of declining trends. Most      review included numerous studies using archived sam-
+substances show mixed results, and a majority of the       ples and directly highlights the value of such material.
+trends are insignificant with low power. A small number    Continued support for systematic archiving and storage
+of studies on coastal surface waters close to urbanized    of human and environmental samples is encouraged to
+areas have shown decreasing concentrations of PFOS         allow future temporal trend studies.
+and PFOA, but it is unknown whether trends are simi-          Additional time trend studies are urgently needed for
+lar in more remote areas. However, there are indications   selected PFASs, especially the wide range of alternatives
+that the levels of N-alkyl perfluorooctane sulfonamides    to long-chain PFCAs and PFSAs and their precursors.
+
+Land et al. Environ Evid (2018) 7:4                                                                                                                      Page 28 of 32
+For example, time trends of PFBS should be monitored                              Author details
+                                                                                  1
+                                                                                    Mistra EviEM, Stockholm Environment Institute, Box 24218, 104 51 Stock-
+in regions other than Europe. There are indications from                          holm, Sweden. 2 Department of Environmental Science and Analytical Chem-
+the one human study available that the temporal trends in                         istry, Stockholm University, 106 91 Stockholm, Sweden. 3 Swedish Museum
+China may be different than seen in North America and                             of Natural History, Box 50007, 104 05 Stockholm, Sweden. 4 NILU, Norwegian
+                                                                                  Institute for Air Research, FRAM Centre, Tromso, Norway. 5 Division of Analyti-
+Europe. Only one study of biological non-human sam-                               cal and Environmental Toxicology, University of Alberta, Edmonton, AB T6G
+ples was available from Asia. Due to this general lack of                         2G3, Canada.
+data from Asia and the indications of regional differences
+                                                                                  Acknowledgements
+between Asia and the rest of the world, there is a need                           We thank two anonymous reviewers for their comments which significantly
+for many more temporal trends studies in Asia in both                             improved this article.
+humans and biota. Another clear knowledge gap is the lack
+                                                                                  Competing interests
+of data from the southern hemisphere. In this review only                         The authors declare that they have no competing interests.
+two studies from the southern hemisphere were included,
+one on PFAAs in human populations in Australia and one                            Availability of data and materials
+                                                                                  All data generated or analysed during this study are included in this published
+on PFCA precursors in air in South America.                                       article, its additional files, or in the original publications included in this review.
+   Most environmental studies were in coastal areas
+(freshwater, marine) and very few in terrestrial species.                         Consent for publication
+                                                                                  Not applicable.
+Thus, discernment of the impact of atmospheric deposi-
+tion versus transport in rivers and by ocean currents was                         Ethics approval and consent to participate
+not possible in this systematic review. However, as the                           All studies included in this review were approved by ethical committees
+                                                                                  where applicable.
+temporal and spatial trends for most long-chain PFCAs
+were similar and showed increasing trends, even in the                            Funding
+few terrestrial species studied, a widespread atmospheric                         This review was financed by the Mistra Council for Evidence-Based Environ-
+                                                                                  mental Management (EviEM), to which one of the authors (ML) is affiliated.
+transport of these or precursors that are degraded to                             EviEM is funded by the Swedish Foundation for Strategic Environmental
+these cannot be ruled out but needs to be confirmed.                              Research (Mistra). CdW, IC and JJ were funded by EviEM and Stockholm
+Long-term monitoring of PFASs in abiotic media, espe-                             University. JM was funded by EviEM, University of Alberta, and Stockholm
+                                                                                  University. DH was funded by EviEM. Anders Bignert was financed by EviEM
+cially air, is needed and will likely contribute to a better                      and the Swedish Museum of Natural History.
+understanding of the sources leading to increasing long-
+chain PFCAs in humans and the environment. Also,                                  Publisher’s Note
+analysis of multiple PFASs (i.e. multiple PFAS classes,                           Springer Nature remains neutral with regard to jurisdictional claims in pub-
+homologues within a class and their structural isomers)                           lished maps and institutional affiliations.
+in the same temporal sample sets can provide useful                               Received: 18 April 2017 Accepted: 25 November 2017
+information on sources. Continued monitoring of PFOA
+and longer-chained PFCAs well beyond 2015 will allow
+the impact of the EPA 2010/2015 Stewardship Program
+to be properly evaluated.
+                                                                                  References
+Additional files                                                                      1. Kissa E. Fluorinated surfactants and repellents, vol. 97. 2nd ed. New
+                                                                                           York: Marcel Dekker, Inc.; 2001.
+                                                                                      2. Prevedouros K, Cousins IT, Buck RC, Korzeniowski SH. Sources,
+  Additional file 1. List of abbreviations.                                                fate and transport of perfluorocarboxylates. Environ Sci Technol.
+                                                                                           2006;40(1):32–44.
+  Additional file 2. Searches.
+                                                                                      3. Wang Z, Cousins IT, Scheringer M, Buck RC, Hungerbühler K. Global
+  Additional file 3. Articles not used.                                                    emission inventories for C4–C14 perfluoroalkyl carboxylic acid (PFCA)
+  Additional file 4. Critical appraisal checklist.                                         homologues from 1951 to 2030, Part I: production and emissions from
+                                                                                           quantifiable sources. Environ Int. 2014;70:62–75.
+  Additional file 5. Critical appraisal table.                                        4. Wang Z, Cousins IT, Scheringer M, Buck RC, Hungerbühler K. Global
+  Additional file 6. Narrative synthesis table.                                            emission inventories for C4–C14 perfluoroalkyl carboxylic acid (PFCA)
+                                                                                           homologues from 1951 to 2030, part II: the remaining pieces of the
+  Additional file 7. Reanalysed time trends.                                               puzzle. Environ Int. 2014;69:166–76.
+  Additional file 8. Reported time trends or changes in concentrations.               5. Paul AG, Jones KC, Sweetman AJ. A first global production, emission,
+                                                                                           and environmental inventory for perfluorooctane sulfonate. Environ Sci
+                                                                                           Technol. 2009;43(2):386–92.
+Authors’ contributions                                                                6. Armitage JM, MacLeod M, Cousins IT. Modeling the global fate and
+This review is based on a draft written by CdW, DH, JM, IC, and ML. All authors            transport of perfluorooctanoic acid (PFOA) and perfluorooctanoate
+assisted in editing and revising the draft. Statistical analyses of datasets with          (PFO) emitted from direct sources using a multispecies mass balance
+7 or more time-points, including change-point detection, were performed by                 model. Environ Sci Technol. 2009;43(4):1134–40.
+AB. Statistical analyses of datasets with less than 7 time points were performed      7. Smart BE, Dixon DA. Bond-energies and stabilities of
+by ML. All authors read and approved the final manuscript.                                 poly(perfluoroethers). In: Abstracts of papers of the American chemical
+                                                                                           society, vol. 207. 1994. p 31–FLUO.
+
+Land et al. Environ Evid (2018) 7:4                                                                                                               Page 29 of 32
+  8. Buck RC, Franklin J, Berger U, Conder JM, Cousins IT, de Voogt P, Jensen    30. Wang ZY, Cousins IT, Scheringer M, Hungerbuhler K. Fluorinated alter-
+      AA, Kannan K, Mabury SA, van Leeuwen SP. Perfluoroalkyl and poly-              natives to long-chain perfluoroalkyl carboxylic acids (PFCAs), perfluoro-
+      fluoroalkyl substances in the environment: terminology, classification,        alkane sulfonic acids (PFSAs) and their potential precursors. Environ Int.
+      and origins. Integr Environ Assess Manag. 2011;7(4):513–41.                    2013;60:242–8.
+  9. Land M, de Wit CA, Cousins IT, Herzke D, Johansson J, Martin JW.            31. Armitage JM, Schenker U, Scheringer M, Martin JW, MacLeod M,
+      What is the effect of phasing out long-chain per- and polyfluoroalkyl          Cousins IT. Modeling the global fate and transport of perfluorooctane
+      substances on the concentrations of perfluoroalkyl acids and their             sulfonate (PFOS) and precursor compounds in relation to temporal
+      precursors in the enironment? A systematic review protocol. Environ            trends in wildlife exposure. Environ Sci Technol. 2009;43(24):9274–80.
+      Evid. 2015;4(3):1–13.                                                      32. Martin JW, Asher BJ, Beesoon S, Benskin JP, Ross MS. PFOS or PreFOS?
+ 10. EFSA. Opinion of the scientific panel on contaminants in the food chain         Are perfluorooctane sulfonate precursors (PreFOS) important determi-
+      on perfluorooctane sulfonate (PFOS), perfluorooctanoic acid (PFOA)             nants of human and environmental perfluorooctane sulfonate (PFOS)
+      and their salts. EFSA J. 2008;653:1–131.                                       exposure? J Environ Monit. 2010;12(11):1979–2004.
+ 11. Ahrens L, Herzke D, Huber S, Bustnes JO, Bangjord G, Ebinghaus R.           33. Armitage J, Cousins IT, Buck RC, Prevedouros K, Russell MH, MacLeod
+      Temporal trends and pattern of polyfluoroalkyl compounds in tawny              M, Korzeniowski SH. Modeling global-scale fate and transport of
+      owl (Strix aluco) eggs from Norway, 1986–2009. Environ Sci Technol.            perfluorooctanoate emitted from direct sources. Environ Sci Technol.
+      2011;45(19):8090–7.                                                            2006;40(22):6969–75.
+ 12. Holmstrom KE, Johansson AK, Bignert A, Lindberg P, Berger U. Temporal       34. Benskin JP, Muir DCG, Scott BF, Spencer C, De Silva AO, Kylin H,
+      trends of perfluorinated surfactants in swedish peregrine falcon eggs          Martin JW, Morris A, Lohmann R, Tomy G, et al. Perfluoroalkyl acids
+      (Falco peregrinus), 1974–2007. Environ Sci Technol. 2010;44(11):4083–8.        in the Atlantic and Canadian Arctic Oceans. Environ Sci Technol.
+ 13. Vicente J, Bertolero A, Meyer J, Viana P, Lacorte S. Distribution of per-       2012;46(11):5815–23.
+      fluorinated compounds in yellow-legged gull eggs (Larus michahellis)       35. Filipovic M, Berger U, McLachlan MS. Mass balance of perfluoroalkyl
+      from the Iberian Peninsula. Sci Total Environ. 2012;416:468–75.                acids in the Baltic Sea. Environ Sci Technol. 2013;47(9):4088–95.
+ 14. Houde M, De Silva AO, Muir DCG, Letcher RJ. Monitoring of perfluori-        36. Hu JY, Yu J, Tanaka S, Fujii S. Perfluorooctane sulfonate (PFOS) and per-
+      nated compounds in aquatic biota: an updated review PFCs in aquatic            fluorooctanoic acid (PFOA) in water Environment of Singapore. Water
+      biota. Environ Sci Technol. 2011;45(19):7962–73.                               Air Soil Pollut. 2011;216(1–4):179–91.
+ 15. Lindh CH, Rylander L, Toft G, Axmon A, Rignell-Hydbom A, Giwercman          37. Kwok KY, Yamazaki E, Yamashita N, Taniyasu S, Murphy MB, Horii
+      A, Pedersen HS, Goalczyk K, Ludwicki JK, Zvyezday V, et al. Blood serum        Y, Petrick G, Kallerborn R, Kannan K, Murano K, et al. Transport of
+      concentrations of perfluorinated compounds in men from Greenlandic             perfluoroalkyl substances (PFAS) from an arctic glacier to downstream
+      Inuit and European populations. Chemosphere. 2012;88(11):1269–75.              locations: implications for sources. Sci Total Environ. 2013;447:46–55.
+ 16. Sturm R, Ahrens L. Trends of polyfluoroalkyl compounds in marine biota      38. Wang X, Halsall C, Codling G, Xie Z, Xu B, Zhao Z, Xue Y, Ebinghaus R,
+      and in humans. Environ Chem. 2010;7(6):457–84.                                 Jones KC. Accumulation of perfluoroalkyl compounds in Tibetan Moun-
+ 17. Benskin JP, Yeung LWY, Yamashita N, Taniyasu S, Lam PKS, Martin                 tain snow: temporal patterns from 1980 to 2010. Environ Sci Technol.
+      JW. Perfluorinated acid isomer profiling in water and quantita-                2014;48(1):173–81.
+      tive assessment of manufacturing source. Environ Sci Technol.              39. Ahrens L. Polyfluoroalkyl compounds in the aquatic environment: a
+      2010;44(23):9049–54.                                                           review of their occurrence and fate. J Environ Monit. 2011;13(1):20–31.
+ 18. Benskin JP, Ahrens L, Muir DCG, Scott BF, Spencer C, Rosenberg B, Tomy      40. Braune BM, Letcher RJ. Perfluorinated sulfonate and carboxylate com-
+      G, Kylin H, Lohmann R, Martin JW. Manufacturing origin of perfluorooc-         pounds in eggs of seabirds breeding in the Canadian Arctic: temporal
+      tanoate (PFOA) in Atlantic and Canadian Arctic Seawater. Environ Sci           trends (1975–2011) and interspecies comparison. Environ Sci Technol.
+      Technol. 2012;46(2):677–85.                                                    2013;47(1):616–24.
+ 19. Yamashita N, Taniyasu S, Petrick G, Wei S, Gamo T, Lam PKS, Kannan K.       41. Giesy JP, Kannan K. Global distribution of perfluorooctane sulfonate in
+      Perfluorinated acids as novel chemical tracers of global circulation of        wildlife. Environ Sci Technol. 2001;35(7):1339–42.
+      ocean waters. Chemosphere. 2008;70(7):1247–55.                             42. Hart K, Gill VA, Kannan K. Temporal trends (1992–2007) of perfluorinated
+ 20. Barton CA, Zarzecki CJ, Russell MH. A site-specific screening com-              chemicals in northern sea otters (Enhydra lutris kenyoni) from South-
+      parison of modeled and monitored air dispersion and deposition for             Central Alaska. Arch Environ Contam Toxicol. 2009;56(3):607–14.
+      perfluorooctanoate. J Air Waste Manag Assoc. 2010;60(4):402–11.            43. Lofstrand K, Jorundsdottir H, Tomy G, Svavarsson J, Weihe P, Nygard T,
+ 21. Ellis DA, Martin JW, De Silva AO, Mabury SA, Hurley MD, Sulbaek                 Bergman A. Spatial trends of polyfluorinated compounds in guil-
+      Andersen MP, Wallington TJ. Degradation of fluorotelomer alcohols: a           lemot (Uria aalge) eggs from North-Western Europe. Chemosphere.
+      likely atmospheric source of perfluorinated carboxylic acids. Environ Sci      2008;72(10):1475–80.
+      Technol. 2004;38(12):3316–21.                                              44. Shi YL, Pan YY, Yang RQ, Wang YW, Cai YQ. Occurrence of perfluori-
+ 22. Conder JM, Hoke RA, De Wolf W, Russell MH, Buck RC. Are PFCAs bioac-            nated compounds in fish from Qinghai–Tibetan Plateau. Environ Int.
+      cumulative? A critical review and comparison with regulatory lipophilic        2010;36(1):46–50.
+      compounds. Environ Sci Technol. 2008;42(4):995–1003.                       45. Calafat AM, Kuklenyik Z, Caudill SP, Reidy JA, Needham LL. Perfluoro-
+ 23. Russell MH, Nilsson H, Buck RC. Elimination kinetics of perfluorohexa-          chemicals in pooled serum samples from United States residents in
+      noic acid in humans and comparison with mouse, rat and monkey.                 2001 and 2002. Environ Sci Technol. 2006;40(7):2128–34.
+      Chemosphere. 2013;93(10):2419–25.                                          46. Chen CL, Lu YL, Zhang X, Geng J, Wang TY, Shi YJ, Hu WY, Li J. A review
+ 24. 3M. Letter to US EPA Re phase-out plan for POSF-based products (226-            of spatial and temporal assessment of PFOS and PFOA contamination
+      0600). US EPA Admin Record. 2000;226:1–11.                                     in China. Chem Ecol. 2009;25(3):163–77.
+ 25. 2010/2015 PFOA Stewardship Programme. http://www.epa.gov/oppt/              47. Ericson I, Gomez M, Nadal M, van Bavel B, Lindstrom G, Domingo JL.
+      pfoa/pubs/stewardship/index.html.                                              Perfluorinated chemicals in blood of residents in Catalonia (Spain) in
+ 26. ECHA. Candidate list of substances of very high concern for authorisa-          relation to age and gender: a pilot study. Environ Int. 2007;33(5):616–23.
+      tion. 2014. http://echa.europa.eu/web/guest/candidate-list-table.          48. Fromme H, Midasch O, Twardella D, Angerer J, Boehmer S, Liebl
+ 27. Ritter S. Fluorochemicals go short. Chem Eng News. 2010;88:12–7.                B. Occurrence of perfluorinated substances in an adult German
+ 28. Wang T, Vestergren R, Herzke D, Yu JC, Cousins IT. Levels, isomer profiles,     population in southern Bavaria. Int Arch Occup Environ Health.
+      and estimated riverine mass discharges of perfluoroalkyl acids and             2007;80(4):313–9.
+      fluorinated alternatives at the mouths of Chinese Rivers. Environ Sci      49. Ji K, Kim S, Kho Y, Paek D, Sakong J, Ha J, Kim S, Choi K. Serum con-
+      Technol. 2016;50(21):11584–92.                                                 centrations of major perfluorinated compounds among the general
+ 29. Johansson JH. Sources, transport and fate of perfluoroalkyl acids               population in Korea: dietary sources and potential impact on thyroid
+      in the atmosphere. PhD thesis. Stockholm: Stockholm University;                hormones. Environ Int. 2012;45:78–85.
+      2017. http://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-142116. ISBN         50. Karrman A, Domingo JL, Llebaria X, Nadal M, Bigas E, van Bavel B, Lind-
+      978-91-7649-700-5.                                                             strom G. Biomonitoring perfluorinated compounds in Catalonia, Spain:
+
+Land et al. Environ Evid (2018) 7:4                                                                                                                Page 30 of 32
+      concentrations and trends in human liver and milk samples. Environ Sci     70. Benskin JP, Phillips V, St Louis VL, Martin JW. Source elucidation of
+      Pollut Res. 2010;17(3):750–8.                                                  perfluorinated carboxylic acids in remote alpine lake sediment cores.
+ 51.  Kato K, Calafat AM, Wong LY, Wanigatunga AA, Caudill SP, Needham LL.           Environ Sci Technol. 2011;45(17):7188–94.
+      Polyfluoroalkyl compounds in pooled sera from children participating       71. Bossi R, Riget FF, Dietz R. Temporal and spatial trends of perfluorinated
+      in the National Health and Nutrition Examination Survey 2001–2002.             compounds in ringed seal (Phoca hispida) from Greenland. Environ Sci
+      Environ Sci Technol. 2009;43(7):2641–7.                                        Technol. 2005;39(19):7416–22.
+ 52.  Volkel W, Genzel-Boroviczeny O, Demmelmair H, Gebauer C, Koletzko          72. Bustnes Jan O, Bangjord G, Ahrens L, Herzke D, Yoccoz Nigel G. Per-
+      B, Twardella D, Raab U, Fromme H. Perfluorooctane sulphonate (PFOS)            fluoroalkyl substance concentrations in a terrestrial raptor: relation-
+      and perfluorooctanoic acid (PFOA) in human breast milk: results of a           ships to environmental conditions and individual traits. Environ Toxicol
+      pilot study. Int J Hyg Environ Health. 2008;211(3–4):440–6.                    Chem. 2015;34:184–91.
+ 53.  Vierke L, Berger U, Cousins IT. Estimation of the acid dissociation        73. Bytingsvik J, van Leeuwen SPJ, Hamers T, Swart K, Aars J, Lie E, Nilsen
+      constant of perfluoroalkyl carboxylic acids through an experimen-              EME, Wiig O, Derocher AE, Jenssen BM. Perfluoroalkyl substances in
+      tal investigation of their water-to-air transport. Environ Sci Technol.        polar bear mother-cub pairs: a comparative study based on plasma
+      2013;47(19):11032–9.                                                           levels from 1998 and 2008. Environ Int. 2012;49:92–9.
+ 54.  Higgins CP, Luthy RG. Sorption of perfluorinated surfactants on sedi-      74. Calafat Antonia M, Wong L-Y, Kuklenyik Z, Reidy John A, Needham
+      ments. Environ Sci Technol. 2006;40(23):7251–6.                                Larry L. Polyfluoroalkyl chemicals in the US population: data from
+ 55.  Fernandez-Sanjuan M, Faria M, Lacorte S, Barata C. Bioaccumulation and         the National Health and Nutrition Examination Survey (NHANES)
+      effects of perfluorinated compounds (PFCs) in zebra mussels (Dreissena         2003–2004 and comparisons with NHANES 1999–2000. Environ Health
+      polymorpha). Environ Sci Pollut Res. 2013;20(4):2661–9.                        Perspect. 2007;115:1596–602.
+ 56.  Lasier PJ, Washington JW, Hassan SM, Jenkins TM. Perfluorinated chemi-     75. Codling G, Vogt A, Jones Paul D, Wang T, Wang P, Lu YL, Corcoran
+      cals in surface waters and sediments from northwest georgia, usa, and          M, Bonina S, Li A, Sturchio Neil C, et al. Historical trends of inorganic
+      their bioaccumulation in lumbriculus variegatus. Environ Toxicol Chem.         and organic fluorine in sediments of Lake Michigan. Chemosphere.
+      2011;30(10):2194–201.                                                          2014;114:203–9.
+ 57.  Fang S, Chen X, Zhao S, Zhang Y, Jiang W, Yang L, Zhu L. Trophic mag-      76. Custer TW, Dummer PM, Custer CM, Wu Q, Kannan K, Trowbridge A.
+      nification and isomer fractionation of perfluoroalkyl substances in the        perfluorinated compound concentrations in great blue heron eggs
+      food web of Taihu Lake, China. Environ Sci Technol. 2014;48(4):2173–82.        near St. Paul, Minnesota, Usa, in 1993 and 2010–2011. Environ Toxicol
+ 58.  Kannan K, Tao L, Sinclair E, Pastva SD, Jude DJ, Giesy JP. Perfluorinated      Chem. 2013;32(5):1077–83.
+      compounds in aquatic organisms at various trophic levels in a Great        77. Dietz R, Bossi R, Riget FF, Sonne C, Born EW. Increasing perfluoroalkyl
+      Lakes food chain. Arch Environ Contam Toxicol. 2005;48(4):559–66.              contaminants in east Greenland polar bears (Ursus maritimus): a new
+ 59.  Olsen GW, Mair DC, Church TR, Ellefson ME, Reagen WK, Boyd TM,                 toxic threat to the Arctic bears. Environ Sci Technol. 2008;42(7):2701–7.
+      Herron RM, Medhdizadehkashi Z, Nobilett JB, Rios JA, et al. Decline in     78. Fair Patricia A, Houde M, Hulsey Thomas C, Bossart Gregory D, Adams
+      perfluorooctanesulfonate and other polyfluoroalkyl chemicals in Ameri-         J, Balthis L, Muir Derek CG. Assessment of perfluorinated compounds
+      can Red Cross adult blood donors, 2000–2006. Environ Sci Technol.              (PFCs) in plasma of bottlenose dolphins from two southeast US estua-
+      2008;42(13):4989–95.                                                           rine areas: relationship with age, sex and geographic locations. Mar
+ 60.  Zhang L, Liu JG, Hu JX, Liu C, Guo WG, Wang Q, Wang H. The inventory           Pollut Bull. 2012;64:66–74.
+      of sources, environmental releases and risk assessment for perfluorooc-    79. Falk S, Brunn H, Schroeter-Kermani C, Failing K, Georgii S, Tarricone K,
+      tane sulfonate in China. Environ Pollut. 2012;165:193–8.                       Stahl T. Temporal and spatial trends of perfluoroalkyl substances in liver
+ 61.  Borg D, Håkansson H. Environmental and Health Risk assessment                  of roe deer (Capreolus capreolus). Environ Pollut. 2012;171:1–8.
+      of perfluoroalkylated and polyfluoroalkylated substances (PFASs) in        80. Fliedner A, Rüdel H, Jürling H, Müller J, Neugebauer F, Schröter-Kermani
+      Sweden. Swedish Environmental Protection Agency: report 6513. ISBN             C. Levels and trends of industrial chemicals (PCBs, PFCs, PBDEs) in
+      978-91-620-6513-3; 2012.                                                       archived herring gull eggs from German coastal regions. Environ Sci
+ 62.  Glynn A, Berger U, Bignert A, Ullah S, Aune M, Lignell S, Darnerud PO.         Eur. 2012;24:7.
+      Perfluorinated alkyl acids in blood serum from primiparous women in        81. Fujii Y, Harada KH, Koizumi A. Analysis of perfluoroalkyl carboxylic acids
+      Sweden: serial sampling during pregnancy and nursing, and temporal             in composite dietary samples by gas chromatography/mass spectrom-
+      trends 1996–2010. Environ Sci Technol. 2012;46(16):9071–9.                     etry with electron capture negative ionization. Environ Sci Technol.
+ 63.  Nicholson MD, Fryer RJ. The statistical power of monitoring programs.          2012;46(20):11235–42.
+      Mar Pollut Bull. 1992;24(3):146–9.                                         82. Galatius A, Dietz R, Riget FF, Sonne C, Kinze CC, Lockyer C, Bossi
+ 64.  Sturludottir E, Gunnlaugsdottir H, Nielsen OK, Stefansson G. Detection         R. Temporal and life history related trends of perfluorochemicals
+      of a change-point, a mean-shift accompanied with a trend change, in            in harbor porpoises from the Danish North Sea. Mar Pollut Bull.
+      short time-series with autocorrelation. In: Statistical analysis of trends     2011;62(7):1476–83.
+      in data from ecological monitoring (PhD thesis). School of Engineering     83. Gawor A, Shunthirasingham C, Hayward SJ, Lei YD, Gouin T, Mmereki BT,
+      and Natural Sciences, Faculty of Physical Sciences, Reykjavik; 2015.           Masamba W, Ruepert C, Castillo LE, Shoeib M, et al. Neutral polyfluoro-
+ 65.  Ahrens L, Siebert U, Ebinghaus R. Temporal trends of polyfluoroalkyl           alkyl substances in the global atmosphere. Environ Sci-Process Impacts.
+      compounds in harbor seals (Phoca vitulina) from the German Bight,              2014;16:404–13.
+      1999–2008. Chemosphere. 2009;76:151–8.                                     84. Gebbink WA, Letcher RJ, Hebert CE, Weseloh DVC. Twenty years of tem-
+ 66.  Ahrens L, Yamashita N, Yeung LWY, Taniyasu S, Horii Y, Lam PKS, Ebing-         poral change in perfluoroalkyl sulfonate and carboxylate contaminants
+      haus R. Partitioning behavior of per- and polyfluoroalkyl compounds            in herring gull eggs from the Laurentian Great Lakes. J Environ Monit.
+      between pore water and sediment in two sediment cores from Tokyo               2011;13(12):3365–72.
+      Bay, Japan. Environ Sci Technol. 2009;43(18):6969–75.                      85. Gebbink Wouter A, Glynn A, Berger U. Temporal changes (1997–2012)
+ 67.  Armstrong DL, Lozano N, Rice CP, Ramirez M, Torrents A. Tempo-                 of perfluoroalkyl acids and selected precursors (including isomers) in
+      ral trends of perfluoroalkyl substances in limed biosolids from a              Swedish human serum. Environ Pollut. 2015;199:166–73.
+      large municipal water resource recovery facility. J Environ Manag.         86. Gewurtz SB, De Silva AO, Backus SM, McGoldrick DJ, Keir MJ, Small J,
+      2016;165:88–95.                                                                Melymuk L, Muir DCG. Perfluoroalkyl contaminants in Lake Ontario Lake
+ 68.  Axmon A, Axelsson J, Jakobsson K, Lindh CH, Jonsson BAG. Time trends           Trout: detailed examination of current status and long-term trends.
+      between 1987 and 2007 for perfluoroalkyl acids in plasma from Swed-            Environ Sci Technol. 2012;46(11):5842–50.
+      ish women. Chemosphere. 2014;102:61–7.                                     87. Gribble Matthew O, Bartell Scott M, Kannan K, Wu Q, Fair Patricia A,
+ 69.  Bao J, Karrman A, van Bavel B, Jin Y. Perfluoroalkyl substances in the         Kamen Diane L. Longitudinal measures of perfluoroalkyl substances
+      blood samples from a male population of Sweden. Chin Sci Bull.                 (PFAS) in serum of Gullah African Americans in South Carolina:
+      2014;59(4):388–95.                                                             2003–2013. Environ Res. 2015;143:82–8.
+                                                                                 88. Gyllenhammar I, Berger U, Sundstrom M, McCleaf P, Euren K, Eriksson S,
+                                                                                     Ahlgren S, Lignell S, Aune M, Kotova N, et al. Influence of contaminated
+
+Land et al. Environ Evid (2018) 7:4                                                                                                                 Page 31 of 32
+      drinking water on perfluoroalkyl acid levels in human serum—a case        106. Kratzer J, Ahrens L, Roos A, Backlin BM, Ebinghaus R. Temporal trends
+      study from Uppsala, Sweden. Environ Res. 2015;140:673–83.                      of polyfluoroalkyl compounds (PFCs) in liver tissue of grey seals
+  89. Harada K, Koizumi A, Saito N, Inoue K, Yoshinaga T, Date C, Fujii S,           (Halichoerus grypus) from the Baltic Sea, 1974–2008. Chemosphere.
+      Hachiya N, Hirosawa I, Koda S, et al. Historical and geographical              2011;84(11):1592–600.
+      aspects of the increasing perfluorooctanoate and perfluorooctane          107. Kwadijk C, Korytar P, Koelmans AA. Distribution of perfluorinated
+      sulfonate contamination in human serum in Japan. Chemosphere.                  compounds in aquatic systems in The Netherlands. Environ Sci Technol.
+      2007;66(2):293–301.                                                            2010;44(10):3746–51.
+  90. Harada KH, Hitomi T, Niisoe T, Takanaka K, Kamiyama S, Watanabe T,        108. Liu X, Guo Z, Krebs Kenneth A, Pope Robert H, Roache Nancy F.
+      Moon CS, Yang HR, Hung NN, Koizumi A. Odd-numbered perfluorocar-               Concentrations and trends of perfluorinated chemicals in potential
+      boxylates predominate over perfluorooctanoic acid in serum samples             indoor sources from 2007 through 2011 in the US. Chemosphere.
+      from Japan, Korea and Vietnam. Environ Int. 2011;37(7):1183–9.                 2014;98:51–7.
+  91. Hart K, Kannan K, Isobe T, Takahashi S, Yamada TK, Miyazaki N, Tanabe S.  109. Liu YN, Pereira AS, Beesoon S, Vestergren R, Berger U, Olsen GW, Glynn
+      Time trends and transplacental transfer of perfluorinated compounds            A, Martin JW. Temporal trends of perfluorooctanesulfonate isomer
+      in melon-headed whales stranded along the Japanese coast in 1982,              and enantiomer patterns in archived Swedish and American serum
+      2001/2002, and 2006. Environ Sci Technol. 2008;42(19):7132–7.                  samples. Environ Int. 2015;75:215–22.
+  92. Haug LS, Thomsen C, Bechert G. Time trends and the influence of age       110. Long M, Bossi R, Bonefeld-Jorgensen Eva C. Level and temporal trend
+      and gender on serum concentrations of perfluorinated compounds in              of perfluoroalkyl acids in Greenlandic Inuit. Int J Circumpolar Health.
+      archived human samples. Environ Sci Technol. 2009;43(6):2131–6.                2012;71:17998.
+  93. Helm PA, Milne J, Hiriart-Baer V, Crozier P, Kolic T, Lega R, Chen T,     111. Mattsson K, Rignell-Hydbom A, Holmberg S, Thelin A, Jönsson Bo AG,
+      MacPherson K, Gewurtz S, Winter J, et al. Lake-wide distribution               Lindh Christian H, Sehlstedt A, Rylander L. Levels of perfluoroalkyl sub-
+      and depositional history of current- and past-use persistent organic           stances and risk of coronary heart disease: findings from a population-
+      pollutants in Lake Simcoe, Ontario, Canada. J Great Lakes Res.                 based longitudinal study. Environ Res. 2015;142:148–54.
+      2011;37:132–41.                                                           112. Miller A, Elliott John E, Elliott Kyle H, Lee S, Cyr F. Temporal trends of
+  94. Holmstrom KE, Jarnberg U, Bignert A. Temporal trends of PFOS and               perfluoroalkyl substances (PFAS) in eggs of coastal and offshore birds:
+      PFOA in guillemot eggs from the Baltic Sea, 1968–2003. Environ Sci             increasing PFAS levels associated with offshore bird species breeding
+      Technol. 2005;39(1):80–4.                                                      on the Pacific coast of Canada and wintering near Asia. Environ Toxicol
+  95. Hong S, Khim Jong S, Wang T, Naile Jonathan E, Park J, Kwon B-O, Song          Chem. 2015;34:1799–808.
+      Sung J, Ryu J, Codling G, Jones Paul D, et al. Bioaccumulation character- 113. Munschy C, Marchand P, Venisseau A, Veyrand B, Zendong Z. Levels and
+      istics of perfluoroalkyl acids (PFAAs) in coastal organisms from the west      trends of the emerging contaminants HBCDs (hexabromocyclodode-
+      coast of South Korea. Chemosphere. 2015;129:157–63.                            canes) and PFCs (perfluorinated compounds) in marine shellfish along
+  96. Huber S, Ahrens L, Bardsen BJ, Siebert U, Bustnes JO, Vikingsson GA,           French coasts. Chemosphere. 2013;91(2):233–40.
+      Ebinghaus R, Herzke D. Temporal trends and spatial differences of         114. Murakami M, Adachi N, Saha M, Morita C, Takada H. Levels, tempo-
+      perfluoroalkylated substances in livers of harbor porpoise (Phocoena           ral trends, and tissue distribution of perfluorinated surfactants in
+      phocoena) populations from Northern Europe, 1991–2008. Sci Total               freshwater fish from Asian Countries. Arch Environ Contam Toxicol.
+      Environ. 2012;419:216–24.                                                      2011;61(4):631–41.
+  97. Ishibashi H, Iwata H, Kim E-Y, Tao L, Kannan K, Amano M, Miyazaki         115. Nost TH, Vestergren R, Berg V, Nieboer E, Odland JO, Sandanger TM.
+      N, Tanabe S, Batoev Valeriy B, Petrov Evgeny A. Contamination and              Repeated measurements of per- and polyfluoroalkyl substances
+      effects of perfluorochemicals in Baikal Seal (Pusa sibirica). 1. Residue       (PFASs) from 1979 to 2007 in males from Northern Norway: assessing
+      level, tissue distribution, and temporal trend. Environ Sci Technol.           time trends, compound correlations and relations to age/birth cohort.
+      2008;42:2295–301.                                                              Environ Int. 2014;67:43–53.
+  98. Jin YH, Saito N, Harada KH, Inoue K, Koizumi A. Historical trends in      116. O’Connell SG, Arendt M, Segars A, Kimmel T, Braun-McNeill J, Avens
+      human serum levels of perfluorooctanoate and perfluorooctane                   L, Schroeder B, Ngai L, Kucklick JR, Keller JM. Temporal and spatial
+      sulfonate in Shenyang, China. Tohoku J Exp Med. 2007;212(1):63–70.             trends of perfluorinated compounds in juvenile loggerhead sea turtles
+  99. Johansson JH, Berger U, Vestergren R, Cousins IT, Bignert A, Glynn A,          (Caretta caretta) along the East Coast of the United States. Environ Sci
+      Darnerud PO. Temporal trends (1999–2010) of perfluoroalkyl acids in            Technol. 2010;44(13):5202–9.
+      commonly consumed food items. Environ Pollut (Barking, Essex: 1987).      117. Ode A, Rylander L, Lindh CH, Kallen K, Jonsson BAG, Gustafsson P,
+      2014;188:102–8.                                                                Olofsson P, Ivarsson SA, Rignell-Hydbom A. Determinants of maternal
+ 100. Kannan K, Corsolini S, Falandysz J, Oehme G, Focardi S, Giesy JP. Per-         and fetal exposure and temporal trends of perfluorinated compounds.
+      fluorooctanesulfonate and related fluorinated hydrocarbons in marine           Environ Sci Pollut Res. 2013;20(11):7970–8.
+      mammals, fishes, and birds from coasts of the Baltic and the Mediter-     118. Okada E, Kashino I, Matsuura H, Sasaki S, Miyashita C, Yamamoto J,
+      ranean Seas. Environ Sci Technol. 2002;36(15):3210–6.                          Ikeno T, Ito YM, Matsumura T, Tamakoshi A, et al. Temporal trends of per-
+ 101. Kannan K, Perrotta E, Thomas Nancy J. Association between perfluori-           fluoroalkyl acids in plasma samples of pregnant women in Hokkaido,
+      nated compounds and pathological conditions in southern sea otters.            Japan, 2003–2011. Environ Int. 2013;60:89–96.
+      Environ Sci Technol. 2006;40:4943–8.                                      119. Olsen Geary W, Ellefson Mark E, Mair David C, Church Timothy R, Gold-
+ 102. Karrman A, Ericson I, van Bert B, DarnerudPer O, Aune M, Glynn                 berg Corinne L, Herron Ross M, Medhdizadehkashi Z, Nobiletti John B,
+      A, Lignell S, Lindstrom G. Exposure of perfluorinated chemicals                Rios Jorge A, Reagen William K, et al. Analysis of a homologous series
+      through lactation: levels of matched human milk and serum and                  of perfluorocarboxylates from American red cross adult blood donors,
+      a temporal trend, 1996–2004, in Sweden. Environ Health Perspect.               2000–2001 and 2006. Environ Sci Technol. 2011;45:8022–9.
+      2007;115:226–30.                                                          120. Olsen Geary W, Lange Cleston C, Ellefson Mark E, Mair David C, Church
+ 103. Kato K, Wong LY, Jia LT, Kuklenyik Z, Calafat AM. Trends in exposure to        Timothy R, Goldberg Corinne L, Herron Ross M, Medhdizadehkashi Z,
+      polyfluoroalkyl chemicals in the US population: 1999–2008. Environ Sci         Nobiletti John B, Rios Jorge A, et al. Temporal trends of perfluoroalkyl
+      Technol. 2011;45(19):8037–45.                                                  concentrations in American red cross adult blood donors, 2000–2010.
+ 104. Kirchgeorg T, Dreyer A, Gabrieli J, Kehrwald N, Sigl M, Schwikowski M,         Environ Sci Technol. 2012;46:6330–8.
+      Boutron C, Gambaro A, Barbante C, Ebinghaus R. Temporal variations        121. Petreas M, Park JS, Wang M, Wang Y, Guo W, Tarrant D, Rhee A, Harwani
+      of perfluoroalkyl substances and polybrominated diphenyl ethers in             S. The california biomonitoring program: persistent organic pollutants
+      alpine snow. Environ Pollut. 2013;178:367–74.                                  in archived and contemporary serum. Glob Nest J. 2012;14(1):80–5.
+ 105. Koschorreck J, Heiss C, Wellmitz J, Fliedner A, Ruedel H. The use of      122. Qi Y, Hu S, Huo S, Xi B, Zhang J, Wang X. Spatial distribution and histori-
+      monitoring data in EU chemicals management-experiences and con-                cal deposition behaviors of perfluoroalkyl substances (PFASs) in sedi-
+      siderations from the German environmental specimen bank. Environ               ments of Lake Chaohu, a shallow eutrophic lake in Eastern China. Ecol
+      Sci Pollut Res. 2015;22:1597–611.                                              Ind. 2015;57:1–10.
+
+Land et al. Environ Evid (2018) 7:4                                                                                                              Page 32 of 32
+123. Reiner JL, O’Connell SG, Moors AJ, Kucklick JR, Becker PR, Keller JM.      139. Ullah S, Huber S, Bignert A, Berger U. Temporal trends of perfluoroal-
+      Spatial and temporal trends of perfluorinated compounds in Beluga              kane sulfonic acids and their sulfonamide-based precursors in herring
+      Whales (Delphinapterus leucas) from Alaska. Environ Sci Technol.               from the Swedish west coast 1991–2011 including isomer-specific
+      2011;45(19):8129–36.                                                           considerations. Environ Int. 2014;65:63–72.
+124. Riget F, Bossi R, Sonne C, Vorkamp K, Dietz R. Trends of perfluorochemi-   140. Wang S, Wang H, Zhao W, Cao Y, Wan Y. Investigation on the distribution
+      cals in Greenland ringed seals and polar bears: indications of shifts to       and fate of perfluorooctane sulfonate (PFOS) and perfluorooctanoate
+      decreasing trends. Chemosphere. 2013;93(8):1607–14.                            (PFOA) in a sewage-impacted bay. Environ Pollut. 2015;205:186–98.
+125. Roos A, Berger U, Jarnberg U, van Jiska D, Bignert A. Increasing con-      141. Verreault J, Berger U, Gabrielsen GW. Trends of perfluorinated alkyl
+      centrations of perfluoroalkyl acids in scandinavian otters (Lutra lutra)       substances in herring gull eggs from two coastal colonies in northern
+      between 1972 and 2011: a new threat to the otter population? Environ           norway: 1983-2003. Environ Sci Technol. 2007;41(19):6671–7.
+      Sci Technol. 2013;47:11757–65.                                            142. Vestergren R, Berger U, Glynn A, Cousins IT. Dietary exposure to per-
+126. Rotander A, Karrman A, van Bavel B, Polder A, Riget F, Auounsson GA,            fluoroalkyl acids for the Swedish population in 1999, 2005 and 2010.
+      Vikingsson G, Gabrielsen GW, Bloch D, Dam M. Increasing levels of long-        Environ Int. 2012;49:120–7.
+      chain perfluorocarboxylic acids (PFCAs) in Arctic and North Atlantic      143. Wilhelm M, Holzer J, Dobler L, Rauchfuss K, Midasch O, Kraft M, Angerer
+      marine mammals, 1984–2009. Chemosphere. 2012;86(3):278–85.                     J, Wiesmuller G. Preliminary observations on perfluorinated com-
+127. Route William T, Key Rebecca L, Russell Robin E, Lindstrom Andrew               pounds in plasma samples (1977–2004) of young German adults from
+      B, Strynar Mark J. Spatial and temporal patterns in concentrations of          an area with perfluorooctanoate-contaminated drinking water. Int J
+      perfluorinated compounds in bald eagle nestlings in the Upper Mid-             Hyg Environ Health. 2009;212(2):142–5.
+      western United States. Environ Sci Technol. 2014;48:6653–60.              144. Wong F, MacLeod M, Mueller Jochen F, Cousins Ian T. Enhanced
+128. Rudel H, Muller J, Jurling H, Bartel-Steinbach M, Koschorreck J. Survey         elimination of perfluorooctane sulfonic Acid by menstruating women:
+      of patterns, levels, and trends of perfluorinated compounds in aquatic         evidence from population-based pharmacokinetic modeling. Environ
+      organisms and bird eggs from representative German ecosystems.                 Sci Technol. 2014;48:8807–14.
+      Environ Sci Pollut Res. 2011;18(9):1457–70.                               145. Yeung Leo WY, Robinson Shona J, Koschorreck J, Mabury Scott A. Part
+129. Sakurai T, Serizawa S, Kobayashi J, Kodama K, Lee J-H, Maki H, Zushi Y,         II. A temporal study of PFOS and its precursors in human plasma from
+      Sevilla-Nastor Janice B, Imaizumi Y, Suzuki N, et al. Temporal trends for      two german cities in 1982–2009. Environ Sci Technol. 2013;47:3875–82.
+      inflow of perfluorooctanesulfonate (PFOS) and perfluorooctanoate          146. Yeung Leo WY, Robinson Shona J, Koschorreck J, Mabury Scott A. Part I.
+      (PFOA) to Tokyo Bay, Japan, estimated by a receptor-oriented approach.         A temporal study of PFCAs and their precursors in human plasma from
+      Sci Total Environ. 2015;539:277–85.                                            two German cities 1982–2009. Environ Sci Technol. 2013;47:3865–74.
+130. Schroeter-Kermani C, Mueller J, Juerling H, Conrad A, Schulte C. Retro-    147. Yeung LWY, De Silva AO, Loi EIH, Marvin CH, Taniyasu S, Yamashita N,
+      spective monitoring of perfluorocarboxylates and perfluorosulfonates           Mabury SA, Muir DCG, Lam PKS. Perfluoroalkyl substances and extract-
+      in human plasma archived by the German environmental specimen                  able organic fluorine in surface sediments and cores from Lake Ontario.
+      bank. Int J Hyg Environ Health. 2013;216(6):633–40.                            Environ Int. 2013;59:389–97.
+131. Shaw S, Berger Michelle L, Brenner D, Tao L, Wu Q, Kannan K. Specific      148. Young CJ, Furdui VI, Franklin J, Koerner RM, Muir DCG, Mabury SA.
+      accumulation of perfluorochemicals in harbor seals (Phoca vitulina             Perfluorinated acids in arctic snow: new evidence for atmospheric
+      concolor) from the northwest Atlantic. Chemosphere. 2009;74:1037–43.           formation. Environ Sci Technol. 2007;41(10):3455–61.
+ 132. Smithwick M, Norstrom RJ, Mabury SA, Solomon K, Evans TJ, Stirling I,     149. Zhao X, Xia X, Zhang S, Wu Q, Wang X. Spatial and vertical variations
+      Taylor MK, Muir DCG. Temporal trends of perfluoroalkyl contaminants in         of perfluoroalkyl substances in sediments of the Haihe River, China. J
+      polar bears (Ursus maritimus) from two locations in the North American         Environ Sci China. 2014;26:1557–66.
+      Arctic, 1972–2002. Environ Sci Technol. 2006;40:1139–43.                  150. Zhang Y, Beesoon S, Zhu L, Martin JW. Biomonitoring of perfluoroalkyl
+ 133. Sonne C, Gustavson K, Riget Frank F, Dietz R, Birkved M, Letcher Robert        acids in human urine and estimates of biological half-life. Environ Sci
+      J, Bossi R, Vorkamp K, Born Erik W, Petersen G. Reproductive perfor-           Technol. 2013;47(18):10619–27.
+      mance in East Greenland polar bears (Ursus maritimus) may be affected     151. Olsen GW, Burris JM, Ehresman DJ, Froehlich JW, Seacat AM, Buten-
+      by organohalogen contaminants as shown by physiologically-based                hoff JL, Zobel LR. Half-life of serum elimination of perfluorooctane-
+      pharmacokinetic (PBPK) modelling. Chemosphere. 2009;77:1558–68.                sulfonate, perfluorohexanesulfonate, and perfluorooctanoate in
+ 134. Sonne C, Letcher Robert J, Leifsson Pall S, Riget Frank F, Bechshft Thea       retired fluorochemical production workers. Environ Health Perspect.
+      O, Bossi R, Asmund G, Dietz R. Temporal monitoring of liver and kidney         2007;115(9):1298–305.
+      lesions in contaminated East Greenland polar bears (Ursus maritimus)      152. Yeung LWY, So MK, Jiang GB, Taniyasu S, Yamashita N, Song MY, Wu YN,
+      during 1999–2010. Environ Int. 2012;48:143–9.                                  Li JG, Giesy JP, Guruge KS, et al. Perfluorooctanesulfonate and related
+ 135. Spliethoff Henry M, Tao L, Shaver Shannon M, Aldous Kenneth M, Pass            fluorochemicals in human blood samples from China. Environ Sci
+      Kenneth A, Kannan K, Eadon George A. Use of newborn screening                  Technol. 2006;40(3):715–20.
+      program blood spots for exposure assessment: declining levels of per-     153. AMAP. Assessment 2015: temporal trends in persistent organic pollut-
+      fluorinated compounds in New York State infants. Environ Sci Technol.          ants in the Arctic. Oslo: Arctic Monitoring and Assessment Programme;
+      2008;42:5361–7.                                                                2016.
+ 136. Sun HW, Gerecke AC, Giger W, Alder AC. Long-chain perfluorinated          154. Gomis MI, Vestergren R, MacLeod M, Mueller JF, Cousins IT. Histori-
+      chemicals in digested sewage sludges in Switzerland. Environ Pollut.           cal human exposure to perfluoroalkyl acids in the United States and
+      2011;159(2):654–62.                                                            Australia reconstructed from biomonitoring data using population-
+ 137. Sundstrom M, Ehresman David J, Bignert A, Butenhoff John L, Olsen              based pharmacokinetic modelling. Environ Int. 2017;108(Supplement
+      Geary W, Chang S-C, Bergman A. A temporal trend study (1972–2008)              C):92–102.
+      of perfluorooctanesulfonate, perfluorohexanesulfonate, and perfluo-       155. European Chemical Agency. Annex XV restriction report. Proposal for a
+      rooctanoate in pooled human milk samples from Stockholm, Sweden.               restriction. Substance name: perfluorooctanoic acid (PFOA), PFOA salts
+      Environ Int. 2011;37:178–83.                                                   and PFOA-related substances. 2014.
+ 138. Toms LML, Thompson J, Rotander A, Hobson P, Calafat AM, Kato K, Ye X,     156. US Food and Drug Administration. Federal register, 21 CFR Part 176.
+      Broomhall S, Harden F, Mueller JF. Decline in perfluorooctane sulfonate        [Docket No. FDA–2015–F–0714] indirect food additives: paper and
+      and perfluorooctanoate serum concentrations in an Australian popula-           paperboard components. 2016.
+      tion from 2002 to 2011. Environ Int. 2014;71:74–80.
+

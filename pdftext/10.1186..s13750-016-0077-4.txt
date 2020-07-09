@@ -1,0 +1,534 @@
+Priesnitz et al. Environ Evid (2016) 5:27
+DOI 10.1186/s13750-016-0077-4                                                                                      Environmental Evidence
+  SYSTEMATIC REVIEW                                                                                                                                Open Access
+Baseline susceptibility of different
+European lepidopteran and coleopteran
+pests to Bt proteins expressed in Bt maize:
+a systematic review
+Kai U. Priesnitz*†, Anja Vaasen† and Achim Gathmann†
+  Abstract
+  Background: Lepidopteran and coleopteran species are the most important pests in maize. They can be controlled
+  using genetically modified (GM) crops expressing insecticidal Bacillus thuringiensis (Bt) proteins. The long-term success
+  of this technology demands a pest resistance management. Important information for the successful management
+  of resistance is the baseline susceptibility of the different target pests to the different Bt proteins. The data on baseline
+  susceptibility should enable risk assessors and managers to assess whether a GM maize produces a Bt protein in a
+  high-dose to specific target organisms and resistance has evolved during the commercial cultivation of this GM maize
+  events.
+  Methods: Our systematic search followed an a priori protocol including the database platforms Web of Science,
+  Scopus, CAB abstracts, Science Direct and JSTOR. We additionally conducted a Google scholar search. We collated
+  all search results and screened all retrieved articles using predetermined inclusion criteria. We identified 30 studies,
+  which fulfilled the criteria of including a relevant Bt protein, a relevant species, an appropriate endpoint, and field-
+  derived pest generations reared in the laboratory no longer than three generations. We then made a quality assess-
+  ment to discover if the studies considered the dose response curves with confidence intervals, described the protein
+  source, tested the protein concentration and the protein activity via positive controls, use more than ten larvae per
+  concentration, more than two replications, and more than five protein concentrations. Since no quantitative synthesis
+  was possible the synthesis of the results was done in a narrative form.
+  Results: Seventy percent of the studies fulfilled five or more criteria and 17% fulfilled four of the seven criteria. Six Bt
+  proteins were tested on one or more of the four species Ostrinia nubilalis, Helicoverpa armigera, Sesamia nonagrioides,
+  and Diabrotica virgifera virgifera. We extracted the baseline susceptibility for the given protein-species-combinations
+  and the test method with the Bt protein applied either on the surface of the diet or incorporated. Although, the data
+  displays a high heterogeneity and are thus hard to compare, they give an overview of the baseline susceptibility of
+  lepidopteran/coleopteran pests to Bt proteins.
+  Conclusion: Our systematic review illustrates the heterogeneity of the data and indicates the necessity of standard
+  protocols for testing susceptibility of insect pests, which provide comparable data. The cultivation of Bt crops, as with
+  any other plant protection measure, is likely to result in resistance evolution in the target pests. Industry, policy mak-
+  ers, and research should combine knowledge to protect the benefits of this technology.
+*Correspondence: kai.priesnitz@bvl.bund.de
+†
+ Kai U. Priesnitz, Anja Vaasen and Achim Gathmann contributed equally
+to this work
+Department Genetic Engineering, Unit Coexistence
+and GMO‑Monitoring, Federal Office of Consumer Protection and Food
+Safety (BVL), Mauerstr. 39‑42, 10117 Berlin, Germany
+                                           © The Author(s) 2016. This article is distributed under the terms of the Creative Commons Attribution 4.0 International License
+                                           (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium,
+                                           provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license,
+                                           and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/
+                                           publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+
+Priesnitz et al. Environ Evid (2016) 5:27                                                                         Page 2 of 12
+  Keywords: European corn borer, Ostrinia nubilalis, Western corn rootworm, Diabrotica virgifera virgifera, Cry protein,
+  Toxicity, Bacillus thuringiensis, Maize pests
+Background                                                    for the high-dose/refuge strategies are fulfilled, a modi-
+Lepidopteran and coleopteran species are the most             fied strategy or additional measures might be needed.
+important pests in maize. Several factors affect the effec-   One of the most important sources of information to
+tiveness of control measures. The stem boring and root        model the potential for resistance to evolve in a pest/crop
+feeding life style of some pest species reduces exposure      system is the baseline susceptibility of the target organ-
+to insecticides, which creates difficulties to effectively    isms to Bt proteins.
+control these species by spraying. Resistance evolution          Data on baseline susceptibility should enable risk asses-
+to conventional insecticides can cause ineffectiveness of     sors and managers to assess whether Bt maize events
+treatments. Certain farming practices such as continuous      present a high-dose to specific target pests and whether
+or frequent maize cultivation and no tillage lead to higher   resistance has evolved after commercial introduction of
+pest pressure. In addition, there is a desire to reduce the   Bt maize events.
+environmental harm caused by insecticides.
+   An alternative approach to control these pests is the use  Objective of the review
+of genetically modified (GM) crops expressing Bacillus        In order to study the available information on baseline
+thuringiensis derived insecticidal proteins (Bt proteins).    susceptible of certain pests, we formulated the following
+   However, one concern in growing maize is the potential     review question:
+for resistance evolution against control measures, which         How susceptible are different lepidopteran/coleopteran
+is a well-known problem for more than 100 years [1]. This     maize pests to Bt proteins?
+phenomenon occurs regularly where pest populations               The research question has the following components:
+are exposed to uniform, strong and continuous selection          P = Population: the populations considered are all lepi-
+pressure [1–3] and will evolve as a result of cultivating     dopteran or coleopteran pest species in maize, which are
+insect resistant GM plants. In consequence, Bt products       intended to be controlled by Bt maize in Europe. These
+might lose their effectiveness either as conventional spray   include Ostrinia nubilalis, Sesamia nonagrioides, and
+applications or when expressed as transgenic traits in GM     Diabrotica virgifera virgifera, which are defined as the
+crops. Therefore, it is desirable that pest resistance man-   focal target species for GM Bt maize being cultivated or
+agement accompanies the cultivation of Bt crops to delay      developed for cultivation in the EU and elsewhere. Addi-
+the evolution of resistance to B. thuringiensis products [4]. tionally lepidopteran or coleopteran pest species should
+   The regulatory risk assessment in the European Union       be considered, which might be of economic relevance in
+(EU) considers impacts of the changes in management           maize cultivation. The selection of considered species is
+associated with the GM crop including the consequences        based on an extended review initiated by the European
+of pest resistance evolution, and therefore also consid-      Food Safety Authority (EFSA) [8].
+ers the efficacy of strategies by applicants delaying the        I/E = intervention/exposure: exposure to Bt proteins in
+expected resistance evolution. The most common strat-         the Bt crop.
+egy is the “high-dose/refuge” strategy (e.g. [1, 5]), which      O = outcome: baseline susceptibility data of lepi-
+includes monitoring and models to forecast the evolution      dopteran and coleopteran pest species on different Bt
+of resistance [6].                                            proteins.
+   The principles of the high-dose/refuge strategy used in       The goal of the systematic review (SR) was to collect as
+these models are that (1) the Bt protein kills most of the    much data as possible on baseline susceptibility of differ-
+susceptible pest population feeding on GM plants (high-       ent lepidopteran/coleopteran maize pests to Bt proteins
+dose), (2) the frequency of resistance alleles is low in the  expressed in Bt maize varieties, in order to have a broad
+pest population, (3) the inheritance of resistance is fully   data base on which to model and assess the potential for
+recessive, (4) rare resistant pests surviving on Bt crops     evolution of resistance of different crop-Bt protein-species-
+mate with susceptible populations from nearby refuges         combinations and to identify potential knowledge gaps.
+of non-Bt host plants [5], and (5) fitness costs are asso-
+ciated with the evolution of resistance [7]. Therefore, all   Methods
+relevant data on the biology of the target pests, the char-   This review was part of the EU funded project GRACE
+acteristics of the modified plant and the GM trait are        (GMO risk assessment and communication of evidence,
+needed to create the model. In case not all requirements      http://www.grace-fp7.eu/) to collate available evidence
+
+Priesnitz et al. Environ Evid (2016) 5:27                                                                    Page 3 of 12
+on evolution of resistance to Bt crops relevant in Europe. [Basic search]
+The review team and the stakeholder group for this         JSTOR by Ithaka, USA, http://www.jstor.org/
+review were formed by project scientists and representa-   searchstring: (((ab:(lepidopter* OR butterfl* OR coleop-
+tives of NGOs, authorities, industry and science. We       ter* OR beetl*)) AND ab:(toxi* OR cry* OR vip3* OR
+published an a priori systematic review protocol [9] that  Bacillus thuringiensis* OR bt)) AND ab:(suscept* OR
+describes our methods in detail and made no changes to     resist*)) AND la:(eng OR en)
+methodology in our final systematic review. However, we    [Advanced search, in abstracts, in English]
+present here a summary of our methods and give addi-       Google scholar (https://scholar.google.de/)
+tional information about the details of the selection pro- search string: (lepidopter* OR butterfl* OR coleopter*
+cedure for articles and the data they contained.           OR beetl*) AND (toxi* OR cry* OR vip3* OR Bacillus
+                                                           thuringiensis* OR bt) AND (suscept* OR resist*)
+Searches                                                   Additionally to the listed data bases in the protocol we
+The aim of our search was to obtain unbiased and com-      searched ScienceDirect by Elsevier, Amsterdam, The
+prehensive information relevant to our review question.    Netherlands, http://www.sciencedirect.com/
+We collected data of different populations of lepidop-     search string: (lepidopter* OR butterfl* OR coleopter*
+teran or coleopteran pests following our published pro-    OR beetl*) AND (toxi* OR cry* OR vip3* OR Bacillus
+tocol [9]. We collated both published and unpublished      thuringiensis* OR bt) AND (suscept* OR resist*)
+data. We used different sources of information in order    [Advanced search]
+to maximize the coverage of the search. We conducted all
+                                                           Altogether, we contacted 17 recognized European experts
+searches in English. The searches were performed on the
+                                                           in the area of resistance evolution in Bt crops via email to
+4th of July, 2014.
+                                                           provide further unpublished information or missing data.
+Search term
+                                                           Reference manager database
+As described in our protocol we developed a basic
+                                                           We imported the results of each search into a separate
+search term [9]: (lepidopter* OR butterfl* OR coleop-
+                                                           library of Reference Manager [10]. We transferred the first
+ter* OR beetl*) AND (toxi* OR cry* OR vip3* OR Bacil-
+                                                           fifty results of the Google Scholar search in a Reference
+lus thuringiensis* OR bt) AND (suscept* OR resist*).
+                                                           manager file, also. Then we combined all references in a
+In advance, we chose fifteen relevant publications to
+                                                           single library. We identified and deleted the duplicates.
+test the search requirements. We found all publications
+using our search strings. We adapted the search term to
+                                                           Article screening and study inclusion criteria
+the different search algorithms of the different databases
+                                                           The primary inclusion criteria for relevant studies were:
+respectively.
+                                                              1. Pest species of maize with economic relevance or
+Database sources
+                                                                 regionally economic relevance in Europe based on
+We considered the following database sources:
+                                                                 EFSA data base listing arthropods species in crop
+Thomson Reuters (formerly ISI) Web of Science, New               fields [8],
+York, USA, http://apps.webofknowledge.com                     2. Toxicity tests with lepidopteran or/and coleopteran
+search string: (lepidopter* OR butterfl* OR coleopter*           specific Bt proteins expressed in Bt maize
+OR beetl*) AND (toxi* OR cry* OR vip3* OR Bacillus            3. Toxicity tests with Bt proteins expressed in Bt maize,
+thuringiensis* OR bt) AND (suscept* OR resist*)                  testing the endpoints LC50 (Lethal Concentration for
+[Basic search in: all databases, all topics, all years]          50% of test organisms), EC50 (Effective Concentra-
+Scopus by Elsevier, Amsterdam, The Netherlands, http://          tion for 50% of the test organisms), or MIC50 (moult
+www.scopus.com/                                                  inhibitory concentration for 50% of the test organ-
+search string: (lepidopter* OR butterfl* OR coleopter*           isms),
+OR beetl*) AND (toxi* OR cry* OR vip3* OR Bacillus            4. Laboratory studies using field collected test organ-
+thuringiensis* OR bt) AND (suscept* OR resist*)                  isms that have been reared in the laboratory for not
+[Basic search in: all fields, all years]                         more than three generations.
+CAB abstracts, CABI, Wallingford, United Kingdom,
+http://www.cabdirect.org/                                     We conducted the screening as described in the proto-
+search string: (lepidopter* OR butterfl* OR coleopter*     col. A Kappa analysis ensured that there was a high level
+OR beetl*) AND (toxi* OR cry* OR vip3* OR Bacillus         of agreement between the two researchers applying the
+thuringiensis* OR bt) AND (suscept* OR resist*)            inclusion criteria.
+
+Priesnitz et al. Environ Evid (2016) 5:27                                                                         Page 4 of 12
+Quality criteria                                                Approximately 40% assessed the preferred endpoint
+For assessing the quality of the included publications, we    LC50, EC50, or MIC50. In the other articles endpoints such
+considered the following criteria:                            as mortality/survival or performed a selection breeding to
+                                                              gain resistant insects were assessed. In approximately 20%
+   1. A full description of the protein source should be      of the articles test populations reared in the laboratory for
+      provided,                                               not more than three generations were used (the detailed
+   2. The bioactivity of the Bt protein should be verified    results are described in Fig. 2; Additional file 7: Table S7).
+      with an experimental design including a positive con-     Overall, 30 articles fulfilled all four criteria and there-
+      trol,                                                   fore we assessed them further. These articles contained
+   3. The tested concentration and integrity of the Bt pro-   32 different studies (two species were tested in two of
+      tein in the diet of the test organisms should be con-   the articles), and they observed four of the twelve species
+      firmed by ELISA or Western Blot,                        tested as economically or regional economically relevant
+   4. Ten or more larvae should be tested per concentra-      pests in Europe [8]. These were the lepidopteran species
+      tion,                                                   Ostrinia nubilalis, Sesamia nonagrioides, Helicoverpa
+   5. The experimental design should contain a minimum        armigera, and the coleopteran species Diabrotica virgif-
+      of two replications,                                    era virgifera. Additionally we screened grey literature for
+   6. The experimental design should contain five or more     their suitability using the inclusion criteria and identified
+      different protein concentrations,                       three studies [9–11]. Since all relevant data from these
+   7. The dose response curves should be characterised by     studies were published in peer-reviewed journals and
+      LC50/EC50/MIC50 and/or LC90/EC90/MIC90 with CIs         these publications were included in our review, we omit-
+      of the different values.                                ted the grey literature.
+Data extraction strategy                                      Study quality assessment
+We collected data in 34 categories (Additional file 1:        In the next step, we evaluated the quality of the sur-
+Table S1). We then extracted data of the categories “Spe-     veys based on seven quality standards. Characterising
+cies”, “Bt protein”, “number of tested populations”, “mini-   the dose response curves by LC50, EC50, or MIC50 and/
+mum and maximum values of the LC50/EC50/MIC50” into           or LC90, EC90, or MIC90 with CIs (confidence intervals)
+an Excel file.                                                of the different values was done by 97% of the studies.
+                                                              The description of the source of the protein was given
+Results                                                       by 87% of the datasets. Another quality criterion was to
+Screening                                                     test at least ten larvae per concentration, which was also
+Before the specific screening, we removed the duplicates      performed in 87% of the datasets. A minimum of two
+of our initial search (see Fig. 1). We screened 7943 articles replications was performed in approx. 77% of the investi-
+on their title. Afterwards 1595 articles remained and we      gations and 63% of the researchers used five or more dif-
+screened them at abstract level. The detailed screening       ferent protein concentrations. In 57% of the studies the
+process can be tracked within the supplemental informa-       concentration and integrity was checked with an ELISA
+tion. We present the Excel files from our literature data-    test or Western Blot. The bioactivity of the protein on a
+base after each screening step (Additional file 2: Table      positive control was only verified by 10% of the studies
+S2, Additional file 3: Table S3, Additional file 4: Table S4, (see Fig. 3; Additional file 7: Table S7).
+Additional file 5: Table S5, Additional file 6: Table S6). A    Overall, 43% of the selected studies fulfilled five of the
+kappa coefficient of 0.81 proofed an almost perfect agree-    seven quality criteria. Twenty-seven percent fulfilled six
+ment of the two researchers.                                  of the criteria and none of them had the quality stand-
+                                                              ards from all seven categories. Seventeen percent had the
+Study inclusion                                               quality standards of four of the criteria and one study met
+After screening the titles and the abstracts of the           three criteria. Two studies presented the quality standard
+extracted articles, 212 published articles and four arti-     for two and one study for a single criterion (see Fig. 4).
+cles of grey literature remained. Checking the full text of
+these articles using the inclusion criteria as the standard,  Data extraction and narrative synthesis
+there were 28 articles that fulfilled none of these criteria, After identifying and describing the 32 studies we
+two articles were reviews and did not include original        extracted the individual data. We regarded each pest
+research data. We could not screen four articles in detail    population with each differently tested end point as a sin-
+because it was not possible to receive a full text version.   gle data set. Over all we assembled and evaluated 1109
+Consequently, we excluded these articles.                     outcomes.
+
+Priesnitz et al. Environ Evid (2016) 5:27                                                                                                Page 5 of 12
+                      10,142 arcles found with                                               2,199 duplicates were
+                                inial search                                                          removed
+                      7,943 arcles screened on                                              6,348 arcles excluded
+                                      tle                                                 during screening on tle
+                      1,595 arcles screened on                                              1,385 arcles excluded
+                                   abstract                                             during screening on abstract
+                    212 arcles plus 4 arcles of                                            127 arcles and 1 grey
+                     grey literature screened on                                          literature excluded during
+                                   full text                                                   screening on full text
+                     30 arcles plus 3 arcles of                                           3 grey literature arcles
+                               grey literature                                                excluded as data were
+                          idenfied as relevant                                           already in screened papers
+                              30 arcles with
+                       1109 extracted data sets
+  Fig. 1 Screening process showing the development of the selection procedure in blue at the left column and the discarded publications in grey at
+  the right column. The final outcome is given in dark blue
+
+Priesnitz et al. Environ Evid (2016) 5:27                                                                                               Page 6 of 12
+                                                                            Inclusion Criteria
+                     Relevant Bt protein
+                        Relevant species
+                  Appropriate endpoint
+                   Field genera on ≤ F3
+                                             0%        10%       20%        30%       40%     50%      60%  70%   80%    90%    100%
+                                                                                fulfilled     not fulfilled
+  Fig. 2 Distribution of fulfilling and not fulfilling the inclusion criteria
+                                                                      Quality Criteria
+                                      Dose response with CIs
+                                                Protein source
+                  More than 10 larvae per concentra on
+                                    More than 2 replica ons
+                      More than 5 protein concentra ons
+                            Protein concentra on checked
+                                    Protein ac vity + control
+                                                                   0%      10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+                                                                        fulfilled      not fulfilled
+  Fig. 3 Distribution of fulfilling and not fulfilling the quality criteria
+   The selected studies revealed information about the                                 virgifera, which were 1% of the total extracted data (see
+economically relevant species in Europe, Ostrinia nubi-                                Fig. 5). 692 data points (62% of the results) were found
+lalis, Sesamia nonagrioides, (Lepidoptera) and Diabrot-                                for Helicoverpa armigera a regionally relevant species.
+ica virgifera virgifera (Coleoptera). There were 377 data                              Of the remaining species species Agrotis segetum and
+points (34% of the data set) for O. nubilalis the most                                 Autographa gamma had one data set, Mamestra brassi-
+common pest in maize in Europe. In contrast, there                                     cae two, and Agrotis ipsilon three data sets in the studies
+were 28 data points for S. nonagrioides correspond-                                    that were screened by full text, but these studies did not
+ing to 3% of the total and 12 data points for D. virgifera                             meet all the inclusion criteria as they used populations
+
+Priesnitz et al. Environ Evid (2016) 5:27                                                                                      Page 7 of 12
+                                             Number of studies vs. number of quality
+                                                            criteria
+                                    14
+                                    12
+                                    10
+                Number of studies
+                                     8
+                                     6
+                                     4
+                                     2
+                                     0
+                                         1       2                3               4          5           6            7
+                                                                        Number of criteria
+  Fig. 4 Amount of studies that fulfilled a different number of the given quality criteria
+  Fig. 5 Distribution of the studied species
+that were reared in the laboratory for more than three                          or regional economic relevant maize pests in Europe [11],
+generations. In addition some did not use lepidopteran                          no study was included in our selection.
+or/and coleopteran specific Bt proteins expressed in Bt                           A high number of studies was performed in Asia, espe-
+maize for their tests. As a result, we excluded them from                       cially in India with 32% and China with 17% of the tar-
+further analysis, but nevertheless included them in the                         geted populations (see Fig. 6). Seven percent of the data
+supplementary material. For the species Mythimna uni-                           were collected in Europe. Most of these studies were con-
+puncta, Acronicta rumicis, Sesamia cretica, and Xylena                          ducted in Spain representing 3% of all data points and
+vetusta that were also identified as economically relevant                      46% of the tested populations on this continent.
+
+Priesnitz et al. Environ Evid (2016) 5:27                                                                                                    Page 8 of 12
+  Fig. 6 Origin of the study populations over the world and over Europe in detail
+   Six Bt proteins were defined as relevant for the target
+species, because they are specific for Lepidoptera or/and                                                 Bt proteins
+Coleoptera and are expressed in Bt maize. The most com-                                                                      Cry2Ab
+                                                                                                                              13%
+monly tested protein was Cry1Ac for 45% of the popula-
+tions, which is lepidopteran specific and widely used in                                                                                 Cry2Ab2
+                                                                                                                                            4%
+GM cotton. Cry1F is the second most tested protein for
+30% of the populations. This protein is regularly used in                                                                                    Cry1Ab
+GM maize and GM cotton. The protein Cry1Ab, which is                            Cry1Ac
+                                                                                                                                               7%
+most commonly used in GM maize in Europe, was tested                              45%                                                          Cry3Bb1
+on 7% of the populations. The coleopteran specific pro-                                                                                           1%
+tein Cry3Bb1 tested for D. virgifera virgifera is only used
+in maize due to the host specificity of the beetle, and was
+tested on 12 populations (see Fig. 7).
+   In the tests three different exposure methods were
+used. In 53% of the experiments the specific amounts of
+Bt protein were incorporated in the insect diet. In 46%                                                                       Cry1F
+                                                                                                                               30%
+of the tests Bt protein was applied to the surface of the
+                                                                               Fig. 7 Bt proteins tested for the baseline susceptibility
+insect diet. In 1% of the studies leaves were dipped in a Bt
+protein solution before feeding.
+Baseline susceptibility                                                      reaction than for the others regardless of determining
+Values for the baseline susceptibility of the selected                       EC50 or LC50 (see Table 1). As expected, the concentra-
+species Bt protein combinations were collected from                          tions shown for the EC50 for each protein were lower
+the data sets. The endpoints EC50 and LC50 were exam-                        than for the LC50. The results were extracted from seven
+ined. The endpoints MIC50 and IC50 (inhibitory con-                          studies after abstract screening, while 24 studies dealing
+centration for 50% of the test organisms) were included                      with O. nubilalis were excluded.
+in the results of EC50, as they also describe an effective                     Sesamia nonagrioides studies were examined for LC50
+concentration.                                                               with Cry1Ab and Cry1F (see Table 2). Two of five studies
+   For O. nubilalis the proteins Cry1Ab, Cry1Ac, and                         found and screened on full text fulfilled the four inclu-
+Cry1F were analysed. Cry1Ac resulted in a more sensitive                     sion criteria and were considered for further analysis.
+
+Priesnitz et al. Environ Evid (2016) 5:27                                                                                  Page 9 of 12
+Table 1 Baseline susceptibility of Ostrinia nubilalis            Table 3 Baseline susceptibility of Helicoverpa armigera
+Ostrinia nubilalis            No. populations     Min     Max    Helicoverpa armigera           No. populations      Min        Max
+EC50 diet surface (ng/cm2)                                       EC50 incorporation (µg/l)
+  Cry1Ac                       10                 0.052     0.13  Cry1Ab                         14                  2            1140
+  Cry1F                       143                 0.3       2.65  Cry1Ac                        177                  0.3          3000
+LC50 diet surface (ng/cm2)                                        Cry2Ab                         47                  100          3400
+  Cry1Ab                       28                 3       109     Cry2Ab2                        29                  10           8720
+  Cry1Ac                       11                 0.2       0.78 EC50 diet surface (ng/cm2)
+  Cry1F                       177                 1.04      13.8  Cry1Ab                          8                  390          1300
+LC50 incorporation (µg/l)                                         Cry2Ab                         13                  140            600
+  Cry1Ab                        8                 28      2120   LC50 incorporation (µg/l)
+                                                                  Cry1Ab                         11                  54           1990
+                                                                  Cry1Ac                        236                  8.5        16,710
+                                                                  Cry2Ab                         48                  2140       34,260
+Table 2 Baseline susceptibility of Sesamia nonagrioides           Cry2Ab2                        14                  5120       50,710
+Sesamia nonagrioides              No. populations    Min   Max   LC50 diet surface (ng/cm2)
+                                                                  Cry1Ac                         49                  0.031          207
+LC50 diet surface (ng/cm2)
+                                                                  Cry2Ab                         33                  22           420.2
+  Cry1Ab                          19                  3    70
+                                                                 LC50 leaf surface (µg/l)
+  Cry1F                            9                 10    29.6
+                                                                  Cry1Ac                         13                  52           1095
+   Helicoverpa armigera was the species with most data
+                                                                 Table 4 Baseline susceptibility of Diabrotica virgifera vir-
+points and also the most variable data (see Table 3). Four       gifera
+different Bt proteins were tested and three different test
+methods, determining for two methods both LC50 and EC50.         Diabrotica virgifera virgifera         No. populations    Min    Max
+H. armigera demonstrated a higher sensitivity to Cry1Ac          EC50 diet surface Cry3Bb1 (ng/cm2)     12                 0.97    4.14
+than for the other Bt proteins. In total, we included 21 stud-
+ies for this survey, while 36 screened H. armigera sets were
+excluded.
+   Six datasets studied the sensitivity of D. virgifera virgif-    Many studies examined the effect of Bt proteins on a
+era. However, only one matched the four inclusion cri-           range of potential pests. However, studies targeting rel-
+teria testing EC50 with the coleopteran specific protein         evant European species were rarer as most studies in
+Cry3Bb1 (see Table 4).                                           our survey were conducted outside Europe. In Europe
+                                                                 only Spain cultivates maize at a significant level [16] and
+Discussion                                                       this limited cultivation is likely to influence the level of
+The broad objective of our systematic review was to              research. Most of the studies found in our survey were
+gather relevant information for the successful manage-           conducted in India and China. One explanation is the
+ment of pest resistance for the cultivation of Bt maize in       high amount of Bt cotton grown in this area expressing
+Europe. Therefore, we collected data on the baseline sus-        Bt proteins to control H. armigera as the main cotton
+ceptibility of different lepidopteran/coleopteran maize          pest, and thus the interest to protect this technology.
+                                                                   We identified appropriate endpoints—our third inclu-
+cidal Bt proteins are used also in sprays like Dipel®. These
+pests. Besides the use of Bt proteins in Bt maize insecti-
+                                                                 sion criterion—, in about 40% of the studies. The aim of
+are applied against different insect pests worldwide [14]        the different screened studies varied. Many toxicity stud-
+in both organic and conventional agriculture [15]. Con-          ies tested for survival [17–19] or mortality only (e.g. [20–
+sidering our inclusion criteria, we searched for studies of      22]). Other studies focussed on a selective breeding and
+the Bt proteins that are expressed in commercial Bt maize        did not contain these measurement endpoints [23–25].
+varieties and that are toxic to European target organisms.         Only 20% of the studies tested field populations that
+Therefore, we excluded studies that used Bt formulations         were reared in the laboratory for not more than three
+or the untruncated version of the Bt proteins for testing        generations, our fourth criterion. Again, the intention of
+(23% of the studies).                                            the studies varied. Toxicity treatments were often used
+
+Priesnitz et al. Environ Evid (2016) 5:27                                                                      Page 10 of 12
+to select resistant insects. As a result, laboratory strains which both contain susceptibility data of European maize
+were used for several generations [26].                      pests, are owned by the applicants and could not be used
+   In summary, we identified 30 relevant articles matching   because of data confidentiality and copyright issues.
+our inclusion criteria. In total we found 1109 data sets of    The available data is unequally distributed between the
+four tested pest species. We extracted all data and sorted   different species. Most data were related to Helicoverpa
+it first for the tested species and second for the different armigera and Cry1Ac, and had limited relevance to Bt
+Bt proteins tested. We considered a quality assessment       maize cultivation in Europe. H. armigera feeds on a range
+of the data for the further analysis not necessary, as we    of cultivated plants, and in Europe it is a minor pest of
+could not perform a meta-analysis of the extracted data      maize. H. armigera is an economic pest of cotton in India
+because of their heterogeneity.                              and China and therefore Bt cotton cultivation practices
+                                                             include resistance management of this pest in these
+Heterogeneity                                                countries. Maize GM events expressing Cry1Ac could be
+The heterogeneity of the studies and consequently of the     of interest for cultivation in Europe in the future.
+resulting data is high due to several factors. Bt proteins     No explicit resistance of Diabrotica virgifera virgifera
+were obtained from different sources and when obtained       (Western Corn Root Worm, WCR) was described in the
+from the same source different protein batches may have      single included study. Nevertheless, infield resistance of
+different measured sensitivity of the targeted pest [27].    WCR against Cry3Bb1-expressing Bt maize is known
+The tested Bt proteins may have had variable purity and/     from Iowa, USA [30]. Discussing the survival studies with
+or storage stability [28]. As no common protocol was         Western Corn Rootworms, the authors suspected igno-
+used, deviations in the applied methods were likely to       rance of the high dose principle as a reason for the fast
+give different results. Finally, the range of susceptibility evolution of resistance to Cry3Bb1-expressing Bt maize
+data of different populations of the target pests, as shown  of WCR [31].
+with Helicoverpa armigera, are an additional heterogene-       Our systematic review gives a comprehensive overview
+ity factor. The large differences between the minimal and    of available data on susceptibility of coleopteran/lepidop-
+the maximal LC50 values in susceptibility tests in China     teran pests to Bt proteins. The review shows some lack of
+(0.09–9.073 mg/ml) indicated resistance of the pest          evidence, but illustrates in particular the requirement of a
+insects. However, resistance was not explicitly described    common test protocol to ensure the comparability of data.
+and the high variation in susceptibility was due to popu-
+lation variability [29].                                     Conclusion
+   For our analysis, we divided the experimental design      Implication for policy/management
+of the studies into three main types. The surface method,    The cultivation of Bt crops, as with any other plant pro-
+where a protein solution was applied only on the surface     tection measure, is likely to result in resistance evolu-
+of an artificial diet, the incorporation method, where the   tion in the target pests. This underlines the importance
+Bt protein was mixed completely with an artificial diet      of resistance management including the collection of
+and the leaf surface application. The experimental types     data on baseline susceptibility. In addition, monitoring
+differed also in the number of replicates, number of con-    changes in susceptibility during the cultivation is another
+centrations, size of the controls and/or the measured        indispensable component of the high dose/refuge strat-
+endpoints.                                                   egy. Our findings suggest that the evidence base needs
+   In consequence, the extracted data on the susceptibility  strengthening and industry, policy makers, and research
+tests were difficult to compare so that the performance of   should combine knowledge to protect the benefits of this
+a meta-analysis was not considered valid.                    technology and a first step would be to make data from
+                                                             monitoring reports for a scientific analysis available.
+Strength and limitations of the study
+Our systematic review of baseline susceptibilities of        Implication for research
+coleopteran/lepidopteran pests gives a comprehensive         Our systematic review illustrates the heterogeneity of the
+and unbiased overview of conducted and published stud-       different studies and the resulting data and indicates the
+ies focusing on insect pest species with potential eco-      necessity of standard protocols for testing susceptibility
+nomic impact for maize cultivation in Europe. It shows       of insect pests, which provide comparable data [32]. Fur-
+the range of different test systems and gives an impres-     thermore, “bridging studies” to calculate a factor for the
+sion of susceptibility spectrums of the tested species. Our  ratio of microbial protein to plant protein would be help-
+literature search was restricted to papers written in Eng-   ful in order to standardize exposure assessments. A ring
+lish only. Some data resources such as GM maize appli-       trial to test the comparability of the involved laboratories
+cations for the European market and monitoring reports,      and to verify the methodology is desirable.
+
+Priesnitz et al. Environ Evid (2016) 5:27                                                                                                           Page 11 of 12
+Additional files                                                                    to support the environmental risk assessment of genetically modified
+                                                                                    crops in the EU. EFSA J. 2016;956:109.
+                                                                                9.  Gasper C. The European corn borer (Ostrinia nubilalis, Hbn.), its suscep-
+  Additional file 1: Table S1. Categories of data extraction.                       tibility to the Bt-toxin Cry1F, its pheromone races and its gene flow
+                                                                                    in Europe in view of an Insect Resistance Management. Dissertation
+  Additional file 2: Table S2. All articles after combining searches.
+                                                                                    RWTH Aachen University 2010. http://publications.rwth-aachen.de/
+  Additional file 3: Table S3. Articles without duplicates.                         record/229060/files/3341.pdf.
+  Additional file 4: Table S4. Articles after title screening.                  10. Meise T. Monitoring der Resistenzentwicklung des Maiszünsler (Ostrinia
+                                                                                    nubilalis, Hübner) gegenüber Bt-Mais. Dissertation Georg-August-
+  Additional file 5: Table S5. Articles after abstract screening.                   Universität Göttingen 2004. https://ediss.uni-goettingen.de/bitstream/
+  Additional file 6: Table S6. Articles after full text screening.                  handle/11858/00-1735-0000-0006-ADEE-7/meise.pdf?sequence=1.
+                                                                                11. Saeglitz C. Untersuchungen der genetischen Diversität von Maiszünsler-
+  Additional file 7: Table S7. Study quality.                                       Populationen (Ostrinia nubilalis, Hbn.) und ihrer Suszeptibilität gegenüber
+                                                                                    dem Bacillus thuringiensis (Bt)-Toxin als Grundlage für ein Resistenzman-
+                                                                                    agement in Bt-Maiskulturen. Dissertation RWTH, Aachen University. 2004.
+Abbreviations                                                                       http://publications.rwth-aachen.de/record/61044/files/Saeglitz_Christi-
+Bt: Bacillus thuringiensis; GM: genetically modified; EU: European Union; EFSA:     ane.pdf.
+European Food Safety Authority; SR: systematic review.                          12. Gathmann A, Priesnitz KU. How susceptible are different lepidopteran/
+                                                                                    coleopteran maize pests to Bt-proteins: a systematic review protocol.
+Authors’ contributions                                                              Environ Evidence. 2014;3:12.
+All authors read and approved the final manuscript.                             13. Reference manager professional version 12, © Thomson Reuters. 2014.
+                                                                                14. Ferré J, Van Rie J. Biochemistry and genetics of insect resistance to Bacillus
+                                                                                    thuringiensis. Annu Rev Entomol. 2002;47:501–33.
+Acknowledgements                                                                15. Tabashnik BE. Evolution of Resistance to Bacillus thuringiensis. Annu Rev
+We are grateful to the EU for funding our project and would like to thank all       Entomol. 1994;39:47–79.
+project partners of GRACE for the productive collaboration.                     16. James C. Global status of commercialized biotech/GM crops. ISAAA 2014
+                                                                                    brief no 49. Ithaca: ISAAA; 2014.
+Competing interests                                                             17. Mahon R, Olsen K. Limited survival of a Cry2Ab-resistant strain of Helicov-
+The authors declare that they have no competing interests.                          erpa armigera (Lepidoptera: Noctuidae) on Bollgard II. J Econ Entomol.
+                                                                                    2009;102(2):708–16.
+Availability of data and materials                                              18. Pereira EJ, Lang BA, Storer NP, Siegfried BD. Selection for Cry1F resistance
+The datasets supporting the conclusions of this article are included within the     in the European corn borer and cross-resistance to other Cry toxins.
+article and its additional files.                                                   Entomol Exp Appl. 2008;126:115–21.
+                                                                                19. Petzold-Maxwell JL, Siegfried BD, Hellmich RL, Abel CA, Coates BS, Spen-
+Funding                                                                             cer TA, Gassmann AJ. Effect of maize lines on larval fitness costs of Cry1F
+This review was funded by the EU in the Seventh Framework Programme (EU             resistance in the european corn borer (Lepidoptera: Crambidae). J Econ
+FP7-KBBE/311957): KBBE.2012.3.5-04-Verification of GMO risk assessment ele-         Entomol. 2014;107(2):764–72.
+ments and review and communication of evidence collected on the biosafety       20. Guan X, Liu X, Lu Z, Zhao Z, Zhang Q, Xia J. Influence of tannic acid
+of GMO. The Authors are scientific officers at the Federal Office of Consumer       and Cry1Ac toxin of Bacillus thuringiensis on larval survival, growth,
+Protection and Food Safety (BVL) in Berlin, Germany.                                and development of Helicoverpa armigera. Entomol Exp Appl.
+                                                                                    2009;132:50–8.
+Received: 28 April 2016 Accepted: 16 November 2016                              21. Hallad A, Udikeri SS, Patil SB, Khadi BM, Biradar DP, Goud KB, Bhat ARS.
+                                                                                    Characterization of resistance of different cry toxins to early and late
+                                                                                    instar Helicoverpa armigera (Hub.) and Spodoptera litura (Fab.). Karnataka. J
+                                                                                    Agric Sci. 2011;24(3):300–2.
+                                                                                22. Kannan M, Uthamasamy S. Baseline susceptibility of the cotton bollworm,
+                                                                                    Helicoverpa armigera (Hübner) (Lepidoptera: Noctuidae) to transgenic Bt
+References                                                                          cotton (RCH 2) in South India. Biopestic Int. 2007;3(1):71–8.
+1. Andow DA. The risk of resistance evolution in insects to transgenic insec-   23. Singh S, Gill HK, Sharma RK, Gupta VK, Dilawari VK. Susceptibility and
+      ticidal crops. Coll Biosafety Rev. 2008;4:142–99.                             fitness cost of cotton bollworm, Helicoverpa armigera associated with cry
+2. Roush RT. Managing pests and their resistance to Bacillus thuring-               1Ac toxin of Bt cotton. Indian J Plant Prot. 2009;37(1/2):29–34.
+      iensis: can transgenics be better than sprays? Biocontrol Sci Technol.    24. Lu MG, Rui CH, Zhao JZ, Jian GL, Fan XL, Gao XW. Selection and herit-
+      1994;4:501–16.                                                                ability of resistance to Bacillus thuringiensis subsp kurstaki and transgenic
+3. Tabashnik BE. Delaying insect adaption to transgenic plants: seed mix-           cotton in Helicoverpa armigera (Lepidoptera: Noctuidae). Pest Manag Sci.
+      tures and refugia reconsidered. Proc Roy Soc B Biol Sci. 1994;255:7–12.       2004;60:887–93.
+4. Hokkanen HM, Wearing CH. The safe deployment of Bacillus thuringiensis       25. Chaufaux J, Seguin M, Swanson JJ, Bourguet D, Siegfried BD. Chronic
+      genes in crop plants: conclusions and recommendations of OECD work-           exposure of the European corn borer (Lepidoptera: Crambidae) to CrylAb
+      shop on ecological implications of transgenic crops containing Bt toxin       Bacillus thuringiensis toxin. J Econ Entomol. 2001;94(6):1564–70.
+      genes. Biocontrol Sci Technol. 1994;4:399–404.                            26. Bird LJ, Akhurst RJ. Relative fitness of CrylA-resistant and -susceptible
+5. Tabashnik BE, Gould F. Delaying Corn Rootworm Resistance to Bt Corn. J           Helicoverpa armigera (Lepidoptera: Noctuidae) on conventional and
+      Econ Entomol. 2012;105:767–76.                                                transgenic cotton. J Econ Entomol. 2004;97(5):1699–709.
+6. EFSA. Scientific opinion on the annual post-market environmen-               27. Saeglitz C, Gathmann A, Priesnitz KU, Schuphan I, Bartsch D. Monitoring
+      tal monitoring (PMEM) report from Monsanto Europe S.A. on the                 the Cry1Ab susceptibility of European Corn Borer (Ostrinia nubilalis Hbn.)
+      cultivation of genetically modified maize MON 810 in 2013. EFSA J.            in Germany. J Econ Entomol. 2006;99:1768–73.
+      2015;13(3):4039.                                                          28. Nguyen HT, Jehle JA. Stability of Cry1Ab protein during long-term
+7. Devos Y, Meihls LN, Kiss J, Hibbard BE. Resistance evolution to the first        storage for standardization of insect bioassays. Environ Biosafety Res.
+      generation of genetically modified Diabrotica-active Bt-maize events by       2009;8:113–9.
+      western corn rootworm: management and monitoring considerations.          29. Wu K, Guo Y, Lv N. Geographic variation in susceptibility of Helicoverpa
+      Transgenic Res. 2013;22:269–99.                                               armigera (Lepidoptera: Noctuidae) to Bacillus thuringiensis insecticidal
+8. Riedel J, Romeis J, Meissle M. Update and expansion of the database of           protein in China. J Econ Entomol. 1999;92:273–8.
+      bio-ecological information on non-target arthropod species established
+
+Priesnitz et al. Environ Evid (2016) 5:27                                                                                                  Page 12 of 12
+30. Gassmann AJ, Petzold-Maxwell JL, Keweshan RS, Dunbar MW. Western        32. Siegfried BD, Spencer T, Crespo AL, Storer NP, Head GP, Owens ED, Guyer
+     corn rootworm and Bt maize—Challenges of pest resistance in the field.     D. Ten years of Bt resistance monitoring in the European corn borer: what
+     GM Crops Food. 2012;3:235–44.                                              we know, what we don’t know, and what we can do better. Am Entomol.
+31. Gassmann AJ, Petzold-Maxwell JL, Keweshan RS, Dunbar MW. Field-             2007;53(4):208–14.
+     evolved resistance to Bt maize by western corn rootworm. PLoS ONE.
+     2011;6(7):e22629. doi:10.1371/journal.pone.0022629.
+                                                                                Submit your next manuscript to BioMed Central
+                                                                                and we will help you at every step:
+                                                                                 • We accept pre-submission inquiries
+                                                                                 • Our selector tool helps you to find the most relevant journal
+                                                                                 • We provide round the clock customer support
+                                                                                 • Convenient online submission
+                                                                                 • Thorough peer review
+                                                                                 • Inclusion in PubMed and all major indexing services
+                                                                                 • Maximum visibility for your research
+                                                                                 Submit your manuscript at
+                                                                                 www.biomedcentral.com/submit
+

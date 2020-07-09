@@ -1,0 +1,899 @@
+Kohl et al. Environ Evid (2018) 7:8
+https://doi.org/10.1186/s13750-018-0115-5                                                                             Environmental Evidence
+  METHODOLOGY                                                                                                                                         Open Access
+Online tools supporting the conduct
+and reporting of systematic reviews
+and systematic maps: a case study on CADIMA
+and review of existing tools
+Christian Kohl1*† , Emma J. McIntosh2†, Stefan Unger1†, Neal R. Haddaway3, Steffen Kecke1,
+Joachim Schiemann1 and Ralf Wilhelm1
+   Abstract
+   Systematic reviews and systematic maps represent powerful tools to identify, collect, evaluate and summarise primary
+   research pertinent to a specific research question or topic in a highly standardised and reproducible manner. Even
+   though they are seen as the “gold standard” when synthesising primary research, systematic reviews and maps are
+   typically resource-intensive and complex activities. Thus, managing the conduct and reporting of such reviews can
+   become a time consuming and challenging task. This paper introduces the open access online tool CADIMA, which
+   was developed through a collaboration between the Julius Kühn-Institut and the Collaboration for Environmental Evi-
+   dence, in order to increase the efficiency of the evidence synthesis process and facilitate reporting of all activities to
+   maximise methodological rigour. Furthermore, we analyse how CADIMA compares with other available tools by pro-
+   viding a comprehensive summary of existing software designed for the purposes of systematic review management.
+   We show that CADIMA is the only available open access tool that is designed to: (1) assist throughout the systematic
+   review/map process; (2) be suited to reviews broader than medical sciences; (3) allow for offline data extraction; and,
+   (4) support working as a review team.
+   Keywords: Review management, Managing systems, Systematic review software, Evidence synthesis, Time
+   management, Rapid review, Text mining
+Background                                                                                    Systematic reviews and related systematic maps follow
+Systematic reviews were first established in the field of                                     standardised and rigorous methodologies aiming to
+healthcare to support evidence-based decision making                                          ensure comprehensiveness, minimise bias, and increase
+[1]. Their use is continuously expanding into other disci-                                    transparency [7, 8]. Although seen as a “gold standard”
+plines, including social welfare, international develop-                                      when synthesising primary research, the central tenets of
+ment, education, crime and justice,1 environmental                                            systematic review and map methodologies necessarily
+management2 (including the impact assessment of crop                                          increase the complexity of the review processes and their
+genetic improvement technologies [2–4]), software engi-                                       resource requirements (i.e. time, money and personnel).
+neering [5] and food/feed safety assessment [6].                                                 In order to support reviewers throughout the conduct
+                                                                                              of their syntheses, and to increase efficiency and max-
+                                                                                              imise methodological rigour, software tools have been
+*Correspondence: christian.kohl@julius‑kuehn.de                                               developed by a diverse set of providers to support review
+†
+ Christian Kohl, Emma J. McIntosh and Stefan Unger contributed equally
+to this work
+1
+  Julius Kühn-Institut (JKI), Federal Research Centre for Cultivated Plants,
+                                                                                              1
+Erwin‑Baur‑Strasse 27, 06484 Quedlinburg, Germany                                               http://www.campbellcollaboration.org/.
+                                                                                              2
+Full list of author information is available at the end of the article                          http://www.environmentalevidence.org/.
+                                              © The Author(s) 2018. This article is distributed under the terms of the Creative Commons Attribution 4.0 International License
+                                              (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium,
+                                              provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license,
+                                              and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/
+                                              publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+
+Kohl et al. Environ Evid (2018) 7:8                                                                          Page 2 of 17
+teams during the evidence synthesis process (the term       endnote, duplicate checking using the systematic review
+evidence synthesis is used herein to cover both system-     accelerator [19, 20], screening in Abstrackr [21], meta-
+atic reviews and systematic maps, which aim to charac-      analysis in comprehensive meta-analysis (CMA), or data
+terise the available evidence-base rather than providing    extraction and quantitative synthesis in RobotReviewer
+quantitative or qualitative answers to an impact or effec-  [22]). For more details on these and other tools, see the
+tiveness question [8, 9]).                                  SR toolbox: http://systematicreviewtools.com/.
+  Potential drawbacks associated with these tools include     The search strategy involved four approaches: (1) con-
+that: (1) they may not be open access (i.e. free to use, an ducting online bibliographic database searches; (2) snow-
+important consideration for non-profit organisations        balling via general web searches (tracking backwards and
+in particular); (2) they may be targeted to a particular    forwards for studies via links in relevant websites); (3)
+research discipline, meaning that their applicability in    screening targeted websites; and, (4) backwards and for-
+other disciplines may be restricted; (3) they may not sup-  wards citation searches of relevant publications (search
+port the entire evidence synthesis process; and, (4) they   methods are outlined in Additional file 1). Following the
+may have been developed solely for systematic reviews       completion of the searches, 24 systematic review soft-
+and may not support the conduct of systematic maps.         ware packages were identified from across a wide range
+  Here, we present the open access online tool CADIMA       of disciplines (Table 1). Of these, two were excluded from
+that was established by Julius Kühn-Institut (JKI) dur-     the analysis; one has been discontinued (Slrtool [23]),
+ing a recently completed EU-funded project called           and the developers of another product currently in devel-
+GMO Risk Assessment and Communication of Evi-               opment, DRAGON ONLINE (https://www.icf.com/solu-
+dence (GRACE). The project’s working agenda included:       tions-and-apps/dragon-online-tool-systematic-review),
+(1) the conduct of a number of systematic reviews and       did not respond to our request for further information.
+maps for the purposes of increasing the transparency and      The 22 remaining software packages were researched
+traceability of information on potential risks and ben-     and trialed by EJM (where free access or free trials were
+efits associated with the deliberate release of genetically available) and characterised according to a suite of fea-
+modified crops [10–17]; and, (2) the development of an      tures, including; the stages of the systematic review pro-
+open access online tool (CADIMA) to facilitate the con-     cess supported, whether they are suitable for a team of
+duct of systematic reviews and maps on agricultural and     reviewers, and their cost (Table 1). These features were
+environmental questions. Due to the expertise available     chosen in part based on previous studies on user prefer-
+at the Collaboration for Environmental Evidence (CEE)       ences for systematic review software functionality [24,
+and the overlap of topics covered by both institutions, a   25]. Developers were contacted when insufficient infor-
+close collaboration between JKI and CEE was established     mation was available online or in publications about a
+to develop CADIMA.                                          software package. Where no further information was
+  Herein, we discuss how CADIMA compares with other         available, the characteristic was marked as ‘Unavailable’.
+available tools by providing a comprehensive summary
+of existing review management software, and also dis-       Introduction to CADIMA
+cuss possible future development of CADIMA. Existing        CADIMA is a client–server software application and was
+reviews of available software and tools (e.g. [18]), have   developed by using the interactive management frame-
+quickly become out of date since many new software          work Scrum (http://www.scrumguides.org/) and the pro-
+packages have been recently released or are in develop-     ject management tool Redmine (http://www.redmine.
+ment. In order to ensure the independence of the review     org/). The user interface of the CADIMA web application
+reported in this manuscript and the assessment of how       requires a web browser, such as Mozilla Firefox or Google
+CADIMA compares to existing tools, the review part of       Chrome. CADIMA is coded with the programming lan-
+this paper was solely conducted by EJM as she was/is not    guage PHP V5.5 using the Yii V1.1 framework with the
+involved in the development of CADIMA.                      Bootstrap CSS extension (http://yiibooster.clevertech.
+                                                            biz/). The application runs on an Apache 2.4 web server
+Methods                                                     and a Linux Ubuntu Server V14.04, and data are stored
+Review of existing online tools                             in a MySQL 5.5 database management system with a
+A series of searches was conducted for the purposes of      daily data backup stored for 6 months. CADIMA is per-
+comparing CADIMA with other available online tools to       manently hosted and maintained by JKI and uses a SSL
+identify software packages designed to facilitate evidence  encrypted connection between the client and server.
+synthesis. We excluded software that only supported           The support provided by CADIMA mirrors the key
+isolated aspects of, rather than the majority of, the sys-  steps of systematic reviews or systematic maps. CADIMA
+tematic review process (e.g. reference management in        supports the following: (1) development of the review
+
+Table 1 Comparison of the functionality of currently available systematic review management software packages
+Software      Ownership       Website             Descriptiona           Intended         Available      Stages of the   Web–     Download- Supports       Supports     Text mining         Open     Costc
+name                                                                     field(s)         support        SR process      online   able      offline        team         features (for       source
+                                                                         of research                     ­supportedb                        working        of review-   screening, data
+                                                                                                                                                           ers          extraction or
+                                                                                                                                                                        synthesis)
+                                                                                                                                                                                                                        Kohl et al. Environ Evid (2018) 7:8
+CADIMA [32]   JKI—Julius      https://www.        “CADIMA supports     Any, par-          Development Qu, Pi, Du, Sc,    Yes      No        Yes (at data   Yes          Text mining         No       Free
+                Kühn-           cadima.info/        the conduct of       ticularly         team is     Co, Cr, Do                             coding                      capabilities in
+                Institut        index.php/area/     systematic reviews   suitable for      available                                          stage)                      development
+                                evidenceSynthe-     and evidence/sys-    Environ-          to provide
+                                sisDatabase         tematic maps by      mental            support or
+                                                    the provision of     Evidence          software
+                                                    a freely available   systematic        modifica-
+                                                    online tool.”        maps and          tions
+                                                                         reviews
+Colandr       Conserva-       www.colandrapp.     “computer-assisted     Any, par-        Colandr Com- Pi, Se, Du, Sc,   Yes      No        No             Yes          Machine learning    Yes      Free
+                tion Inter-    com                  systematic map-        ticularly        munity        Co, Sy, Do                                                     approaches
+                national                            ping software          suitable for     website,                                                                     to assist with
+                                                    for evidence           environ-         videos,                                                                      article screen-
+                                                    synthesis”             ment and         documen-                                                                     ing and data
+                                                                           develop-         tation                                                                       extraction
+                                                                           ment
+                                                                           sectors
+Covidence     Covidence       https://www.covi-   “Covidence is a        Healthcare       Detailed help Du, Sc, Co, Cr   Yes      No        No             Yes          No                  No       Range of
+  [33]          is a non-       dence.org/          not-for-profit        and medi-        documen-                                                                                                    packages e.g.
+                profit                              service working       cal science,     tation and                                                                                                  ‘Single’: $240
+                organisa-                           in partnership        designed         demonstra-                                                                                                  USD per year,
+                tion                                with Cochrane         for              tion videos.                                                                                                one review,
+                                                    to improve the        Cochrane         Contact                                                                                                     unlimited
+                                                    production and        reviews          support                                                                                                     reviewers
+                                                    use of systematic                      available
+                                                    reviews for health
+                                                    and wellbeing.”
+DistillerSR   Privately       https://www.eviden- “DistillerSR is the   Any               8X5 live tech- Se (PubMed),    Yes      No        No             Yes          In develoment.      No       Range of
+  [34]          held,           cepartners.com/     world’s most used                       nical sup-     Du, Sc, Co,                                                    Currently sup-               packages
+                Evidence        products/distill-   systematic review                       port and       Sy, Do                                                         ports keyword                e.g. Student
+                Partners        ersr-systematic-    software. It was                        detailed                                                                      ­highlightingd               FREE: USD$0
+                                review-software/    designed from                           user man-                                                                                                  and’Faculty’:
+                                                    the ground up to                        ual with                                                                                                   USD$75 per
+                                                    give you a better                       explanatory                                                                                                month
+                                                    review experience,                      videos.
+                                                    faster project                          Support for
+                                                    completion and                          interna-
+                                                    transparent, audit-                     tional
+                                                    ready results.”                         character
+                                                                                            sets
+                                                                                                                                                                                                                        Page 3 of 17
+
+Table 1 continued
+Software       Ownership      Website                Descriptiona           Intended       Available       Stages of the     Web–     Download- Supports   Supports     Text mining          Open     Costc
+name                                                                        field(s)       support         SR process        online   able      offline    team         features (for        source
+                                                                            of research                    ­supportedb                          working    of review-   screening, data
+                                                                                                                                                           ers          extraction or
+                                                                                                                                                                        synthesis)
+                                                                                                                                                                                                                          Kohl et al. Environ Evid (2018) 7:8
+Early review   Institute of   http://eros-system-    “EROS is a new web- Healthcare        Email support Sc, Co, Cr          Yes      No        No         Yes          No                   No       A donation for
+  organizing     Clinical       atic-review.org/       based software        and medi-      and a user                                                                                                  development
+  software       Effective-     rev-login.php          designed spe-         cal science    guide                                                                                                       (USD 600 per
+  (EROS)         ness and                              cifically to perform                                                                                                                             year for a team
+  [35]           Health                                the first stages of a                                                                                                                            of up to four
+                 Policy                                systematic review.”                                                                                                                              reviewers) is
+                                                                                                                                                                                                        requested for
+                                                                                                                                                                                                        non-Cochrane
+                                                                                                                                                                                                        reviews
+                                                                                                                                                                                                        (Cochrane
+                                                                                                                                                                                                        reviews can
+                                                                                                                                                                                                        use Covidence
+                                                                                                                                                                                                        for free)
+EPPI-        EPPI-Centre      http://eppi.ioe.ac.uk/ “EPPI-Reviewer 4 is    Any            Detailed user Se, Du, Sc, Co,     Yes      No        No         Yes          Text mining to       No       User fee £10
+  Reviewer 4                    CMS/Default.           a multi-user web-                    manual and     Cr, Sy, Do                                                     assist with                   per user per
+  [36]                          aspx?alias=eppi.       based application                    developers                                                                    identifying rel-              month, plus
+                                ioe.ac.uk/cms/         for managing and                     are avail-                                                                    evant studies                 shareable
+                                er4&                   analyzing data for                   able with                                                                                                   review fee £35
+                                                       use in research                      advice and                                                                                                  per month
+                                                       synthesis.”                          to make
+                                                                                            modifica-
+                                                                                            tion where
+                                                                                            possible
+Health      Collabora-        https://hawcproject.   “HAWC is a modular,    Healthcare     Online docu-    Se, Sc, Co, Cr,   Yes      No        No         Yes          Unavailable          Yes      Free
+ Assess-      tive initia-      org/                   content manage-       and medi-      mentation        Sy, Do
+ ment         tive                                     ment system           cal science    http://
+ Workspace                                             designed to store,                   hawc.
+ Col-                                                  display, and syn-                    readthe-
+ laborative                                            thesize multiple                     docs.io/
+ (HAWC)                                                data sources                         en/latest/
+ [37, 38]                                              for the purpose                      and Github
+                                                       of producing                         repository.
+                                                       human health                         Requires
+                                                       assessments of                       knowledge
+                                                       chemicals.”                          of Python
+                                                                                            to run and
+                                                                                            to interpret
+                                                                                            help docu-
+                                                                                            mentation
+                                                                                                                                                                                                                          Page 4 of 17
+
+Table 1 continued
+Software      Ownership      Website                Descriptiona             Intended      Available       Stages of the     Web–     Download- Supports     Supports     Text mining        Open     Costc
+name                                                                         field(s)      support         SR process        online   able      offline      team         features (for      source
+                                                                             of research                   ­supportedb                          working      of review-   screening, data
+                                                                                                                                                             ers          extraction or
+                                                                                                                                                                          synthesis)
+METAGEAR      Marc J.        http://lajeunesse.  “The metagear pack- Any                   Online docu-    Sc, Co, Sy        No       Yes       Yes, pack-   Yes          “PDF downloader Yes         Free
+ package       Lajeu-          myweb.usf.          age for R con-                           mentation                                             age                       to automate
+ for R [39]    nesse           edu/metagear/       tains tools for                          and the                                               operates                  the retrieval of
+                               metagear_           facilitating sys-                        developer                                             offline                   journal articles
+                                                                                                                                                                                                              Kohl et al. Environ Evid (2018) 7:8
+                               basic_vignette.     tematic reviews,                         is avail-                                                                       from online
+                               html#introduction   data extraction,                         able for                                                                        data bases;
+                                                   and meta-anal-                           questions.                                                                      automated
+                                                   yses.”                                   Requires                                                                        data extrac-
+                                                                                            knowledge                                                                       tions from
+                                                                                            of R in                                                                         scatter-plots,
+                                                                                            order to                                                                        box-plots and
+                                                                                            run the                                                                         bar-plots”
+                                                                                            software
+                                                                                            although
+                                                                                            there is
+                                                                                            a GUI
+                                                                                            interface
+                                                                                            for abstract
+                                                                                            screening
+PARSIFAL      Parsifal is a https://parsif.al/      “Parsifal is an online   Software      FAQs, online    Pi, Se, Du, Sc,   Yes      No        No           Yes          No                 Yes      Free
+                non-profit                            tool designed to         engineer-     videos,          Co, Sy
+                organisa-                             support research-        ing           Github
+                tion                                  ers to perform                         repository
+                                                      systematic                             (https://
+                                                      literature reviews                     github.
+                                                      within the context                     com/
+                                                      of Software Engi-                      vitorfs/
+                                                      neering.”                              parsifal)
+                                                                                             and email
+                                                                                             support
+                                                                                             available
+Rayyan [40]   Qatar Com-     https://rayyan.qcri.   “Authors create sys-     Any, close    Online forum    Pi, Se, Du, Sc    Yes      No        Yes, using   Yes          The support         No      Free
+               puting          org                    tematic reviews,         align-                                                             a mobile                  vector machine
+               Research                               collaborate on           ment with                                                          app                       classifier learns
+               Institute                              them, maintain           Cochrane                                                                                     from users’
+                                                      them over time           reviews                                                                                      decisions
+                                                      and get sugges-                                                                                                       about includ-
+                                                      tions for article                                                                                                     ing and exclud-
+                                                      inclusion.”                                                                                                           ing studies and
+                                                                                                                                                                            scores unclassi-
+                                                                                                                                                                            fied studies for
+                                                                                                                                                                            likely relevance.
+                                                                                                                                                                            Similarity graph
+                                                                                                                                                                            function for
+                                                                                                                                                                            exploring cita-
+                                                                                                                                                                            tion networks
+                                                                                                                                                                                                              Page 5 of 17
+
+Table 1 continued
+Software        Ownership    Website                 Descriptiona           Intended        Available        Stages of the     Web–     Download- Supports          Supports      Text mining       Open       Costc
+name                                                                        field(s)        support          SR process        online   able      offline           team          features (for     source
+                                                                            of research                      ­supportedb                          working           of review-    screening, data
+                                                                                                                                                                    ers           extraction or
+                                                                                                                                                                                  synthesis)
+                                                                                                                                                                                                                                   Kohl et al. Environ Evid (2018) 7:8
+REviewER        Empirical    https://sites.google.   “REviewER aims         Any, par-       GitHub           Qu, Pi, Se,       No       Yes           Yes, pack-    Yes           No                Yes        Free
+                 Software      com/site/esepor-        at assisting           ticularly       repository      Du, Sc                                    age
+                 Engineer-     tal/tools/reviewer      researchers in the     software        (https://                                                 operates
+                 ing Group                             laborious process      engineer-       github.                                                   offline
+                                                       of conduction          ing.            com/bfsc/
+                                                       of systematic                          reviewer).
+                                                       reviews.”                              No user
+                                                                                              guide.
+                                                                                              Advanced
+                                                                                              coding
+                                                                                              skills
+                                                                                              required
+RevMan 5        Cochrane     http://community.       “Review Manager        Healthcare      Online docu-     Pi, Sc, Co, Cr,   No       Yes           Yes, pack-    Yes (cannot   No                No         RevMan 5 is free
+  [41] (this      Commu-       cochrane.org/           5 (RevMan 5) is       and medi-       mentation.         Sy, Do d                                age           edit                                       for Cochrane
+  software is     nity         tools/review-           the software used     cal science,    RevMan                                                     operates      simulta-                                   Reviewers
+  no longer                    production-tools/       for preparing         designed        5 support                                                  offline       neously)                                   or purely
+  being                        revman-5                and maintain-         for             accounts                                                                                                            academic use.
+  devel-                                               ing Cochrane          Cochrane        are only                                                                                                            Commercial
+  oped)                                                Reviews.”             reviews         available to                                                                                                        users require a
+                                                                                             registered                                                                                                          license
+                                                                                             Cochrane
+                                                                                             authors
+RevMan Web Cochrane          http://community.       “RevMan Web is a       Healthcare      RevMan         Unavailable         Yes      Unavailable   Unavailable   Unavailable   Unavailable       Unavail-   Unavailable
+  (will be   Commu-            cochrane.org/           new, web-based        and medi-        Web will                                                                                               able
+  available  nity              tools/review-           platform for pre-     cal science,     integrate
+  for beta-                    production-tools/       paring and main-      designed         with several
+  testing                      revman-web              taining Cochrane      for              other
+  in 2017,                                             Reviews.”             Cochrane         Cochrane
+  building                                                                   reviews          software
+  on Rev-                                                                                     packages
+  Man 5)
+SESRA (sup-     UNIVALI—     http://sesra.net/       “Collaborative         Any, par-       User guide       Qu, Pi, Sc, Co,   Yes      No            No            Yes           No                Proposed Free
+  porting        Universi-                             research, auto-        ticularly       and             Sy, Do                                                                                  in
+  systematic     dade do                               mated searches,        designed        introduc-                                                                                               future
+  literature     Vale do                               online reference       for             tory videos
+  reviews in     Itajaí                                management,            software        available in
+  software                                             support to all the     engineer-       Portuguese
+  engineer-                                            process phases         ing             only
+  ing) [29]                                            and activities.”
+                                                                                                                                                                                                                                   Page 6 of 17
+
+Table 1 continued
+Software        Ownership    Website                 Descriptiona            Intended       Available      Stages of the     Web–     Download- Supports           Supports     Text mining       Open     Costc
+name                                                                         field(s)       support        SR process        online   able      offline            team         features (for     source
+                                                                             of research                   ­supportedb                          working            of review-   screening, data
+                                                                                                                                                                   ers          extraction or
+                                                                                                                                                                                synthesis)
+SLR-tool [42]   ALARCOS      http://alarcos.esi.     “…a free tool…          Any, par-      Unavailable    Qu, Pi, Du, Sc,   No       Yes            Yes, pack-    No           Yes, for example No        Free
+                  Research     uclm.es/slrtool/        to be used by           ticularly                    Co, Cr, Do                                 age                        “…to cluster
+                                                                                                                                                                                                                              Kohl et al. Environ Evid (2018) 7:8
+                  Group                                researchers from        designed                                                                operates                   the documents
+                                                       any discipline, and     for                                                                     offline                    by using the
+                                                       not only Software       software                                                                                           similarities
+                                                       Engineering.”           engineer-                                                                                          among them,
+                                                                               ing                                                                                                highlighting
+                                                                                                                                                                                  key words that
+                                                                                                                                                                                  identify each
+                                                                                                                                                                                  group of docu-
+                                                                                                                                                                                  ments.”
+SLuRp         See authors    https://codefeed-       “…to support the        Software       No user      Se, Sc, Co, Cr,     Partially Unavailable   Unavailable   Yes          No                Yes      Free
+  (systematic                  back.cs.herts.          complex task            engineer-     guide,        Sy, Do
+  literature                   ac.uk/SLuRp/            of managing             ing           minimal
+  unified                                              large numbers of                      support
+  Review                                               papers, sharing                       information
+  program)                                             tasks amongst                         on product
+  [43]                                                 a research team                       website.
+                                                       and following                         Requires
+                                                       the arduous and                       use of
+                                                       rigorous SLR                          MySql and
+                                                       methodology                           Tomcat to
+                                                       recommended by                        run
+                                                       Kitchenham and
+                                                       Charters.”
+SRDB.PRO—       Privately    https://www.srdb.       “…the first, enter-   Healthcare       User guide.    Se (PubMed),      No       Yes            Yes, pack-    Yes          No                No       SRDB.PRO
+  systematic      held         pro/default             prise level Busi-    and medi-         Phone and      Du, Sc, Co,                               age                                                   Hosted is free
+  review                                               ness Intelligence    cal science,      email sup-     Cr, Sy, Do                                operates                                              for non-com-
+  intel-                                               platform designed    targeting         port                                                     offline                                               mercial use
+  ligence                                              specifically to      the phar-                                                                                                                        and starts at
+  Platform                                             improve the way      maceutical                                                                                                                       £70/USD$119
+                                                       in which the         industry                                                                                                                         per month for
+                                                       pharmaceutical       and                                                                                                                              1 active user.
+                                                       industry and         healthcare                                                                                                                       SRDB.PRO
+                                                       healthcare consul-   consultan-                                                                                                                       Enterprise is
+                                                       tancies conduct      cies                                                                                                                             more expen-
+                                                       systematic reviews                                                                                                                                    sive
+                                                       and data analysis.”
+SRDR          Brown          http://srdr.ahrq.gov/   “…a Web-based tool      Healthcare     User manual,   Se, Co, Sy        Yes      No             No            Yes          No                No       Free
+  (systematic   Evidence-                              for data extraction    and medi-       FAQs and
+  review        based                                  and storage of         cal science     training
+  data          Practice                               systematic review                      videos
+  repository)   Center                                 data.”
+                                                                                                                                                                                                                              Page 7 of 17
+
+Table 1 continued
+Software       Ownership     Website                Descriptiona            Intended       Available      Stages of the    Web–     Download- Supports     Supports     Text mining          Open     Costc
+name                                                                        field(s)       support        SR process       online   able      offline      team         features (for        source
+                                                                            of research                   ­supportedb                         working      of review-   screening, data
+                                                                                                                                                           ers          extraction or
+                                                                                                                                                                        synthesis)
+StArt (state   Labora-      http://lapes.           “…aims to help the      Software       The online   Pi, Du, Sc, Co,    No       Yes       Yes, pack-   No           Yes, calculates      No       Free
+                                                                                                                                                                                                                           Kohl et al. Environ Evid (2018) 7:8
+  of the art     tory of      dc.ufscar.br/tools/     researcher, giving      engineer-      StArt         Cr, Sy, Do                           age                       scores of likely
+  through        Research     start_tool              support to the          ing            community                                          operates                  relevance of
+  systematic     on Soft-                             application of this                    provides                                           offline                   articles and
+  review)        ware Engi-                           technique [sys-                        a forum,                                                                     similarity
+  [44]           neering                              tematic review]”                       tutorials                                                                    between
+                 (LaPES)                                                                     and videos                                                                   articles
+SUMARI        Joanna         https://www.jbisu-     “SUMARI supports     Healthcare        FAQs and       Se, Sc (full text Yes     No        No           Yes          No                   No       Limited access
+  (system for   Briggs         mari.org/              10 review types,    and medi-          video          only), Co, Cr,                                                                              beyond
+  the unified   Institute                             including reviews   cal science,       tutorials      Sy, Do                                                                                      JBI special
+  manage-       (JBI)                                 of effective-       also social                                                                                                                   users initially.
+  ment,                                               ness, qualitative   sciences                                                                                                                      Subscriptions
+  assess-                                             research, eco-      and                                                                                                                           will be made
+  ment and                                            nomic evaluations,  humanities                                                                                                                    available via
+  review of                                           prevalence/inci-                                                                                                                                  Wolters Kluwer
+  informa-                                            dence, aetiology/
+  tion).                                              risk, mixed meth-
+  (designed                                           ods, umbrella/
+  to replace                                          overviews, text/
+  JBI CReMS                                           opinion, diagnos-
+  software)                                           tic test accuracy
+                                                      and scoping
+                                                      reviews.”
+SWIFT-review Privately       https://www.sciome. “a freely available        Healthcare     Tutorial and   Se (PubMed),     No       Yes       Yes, pack-   Yes          Yes, the “software No         Free
+ (Sciome       held,           com/swift-review/    interactive work-        and medi-       user guide     Sc (works                           age                       utilizes recently
+ work-         Sciome                               bench which pro-         cal science                    in concert                          operates                  developed
+ bench for                                          vides numerous                                          with SWIFT-                         offline                   statistical
+ interactive                                        tools to assist with                                    ACTIVE                                                        modeling
+ computer-                                          problem formula-                                        Screener),                                                    and machine
+ facilitated                                        tion and literature                                     Co, Sy, Do                                                    learning
+ text-min-                                          prioritization.”                                                                                                      methods that
+ ing) [45]                                                                                                                                                                allow users to
+                                                                                                                                                                          identify over-
+                                                                                                                                                                          represented
+                                                                                                                                                                          topics within
+                                                                                                                                                                          the literature
+                                                                                                                                                                          corpus and to
+                                                                                                                                                                          rank-order titles
+                                                                                                                                                                          and abstracts
+                                                                                                                                                                          for manual
+                                                                                                                                                                          screening.”
+                                                                                                                                                                                                                           Page 8 of 17
+
+                                                                                                                                                                                                                                  Kohl et al. Environ Evid (2018) 7:8
+Table 1 continued
+Software        Ownership     Website               Descriptiona           Intended        Available       Stages of the   Web–       Download- Supports          Supports      Text mining          Open       Costc
+name                                                                       field(s)        support         SR process      online     able      offline           team          features (for        source
+                                                                           of research                     ­supportedb                          working           of review-    screening, data
+                                                                                                                                                                  ers           extraction or
+                                                                                                                                                                                synthesis)
+SyRF (sys-       CAMA-        http://syrf.org.uk/   “SyRF is a fully     Preclinical    Online con-        Qu, Pi, Se      Yes        No (under     No (offline   Yes           Risk of bias         No         Free
+  tematic         RADES                               integrated           studies e.g.  tact form,         (PubMed),                  develop-      app                          items can be
+  review and      and                                 online platform      experimen-    online             Sc, Co, Cr, Sy             ment)         under                        automatically
+  meta-anal-      NC3Rs                               for performing       tal animal    tutorials                                                   develop-                     extracted
+  ysis facility)                                      systematic reviews   studies       available                                                   ment)                        and machine
+  [46]                                                of preclinical                     on request.                                                                              learning is
+                                                      studies.”                          User guide,                                                                              available to aid
+                                                                                         video                                                                                    the screening
+                                                                                         tutorial                                                                                 process for
+                                                                                         and in app                                                                               English articles
+                                                                                         tutorials in
+                                                                                         develop-
+                                                                                         ment
+a
+    Descriptions taken from product websites, referenced documentation or through direct email contact with developers (where necessary)
+b
+   Stages of a systematic review: Qu setting up the review, with question formulation and/or stakeholder engagement, Pi scoping/pilot study, protocol development (e.g. PICO elements specified), Se literature searching
+(e.g. via integration with publication databases). Excludes those which require search results to be manually uploaded, Du duplicate checking (e.g. automated marking of duplicates, or identification of potential
+duplicates for manual checking), Sc article screening/study selection, Co facilitates data coding/tagging and extraction to support meta-analyses, Cr critical appraisal/risk of bias assessments, Sy facilitates quantitative/
+qualitative syntheses of results, Do generation of documentation/output of text, figures or tables to assist with report writing
+c
+    Costs taken from respective websites, correct as of 02/11/2017. EROS cost estimates were provided by email (Gabriela Rodriguez, 07/04/17)
+                                                                                                                                                                                                                                  Page 9 of 17
+
+Kohl et al. Environ Evid (2018) 7:8                                                                                              Page 10 of 17
+protocol; (2) management of search results (including                   explain the functionality of the different menu items in
+the identification of duplicates); (3) management and                   more detail.
+conduct of the study selection process (including the
+performance of a consistency check); (4) management                     Review protocol
+and conduct of on- and off-line data extraction; and, (5)               At this stage, review authors are requested to detail infor-
+management and conduct of the critical appraisal pro-                   mation regarding the planned methods for the review,
+cess. In addition, CADIMA ensures thorough documen-                     ensuring scientific rigour, transparency and repeatability.
+tation of the entire evidence synthesis process and allows              The input to CADIMA is provided by uploading remotely
+for review results to be made publicly available: i.e. docu-            prepared blocks of text that correspond to key sections of
+ments can be made accessible to third parties if agreed                 a protocol. The overall format implemented in CADIMA
+by the review team. The permanent maintenance and                       resembles the draft of a protocol and has two major ben-
+further development of CADIMA is guaranteed by JKI                      efits: (1) it prevents important information from being
+and user support is provided to review teams via email.                 unintentionally omitted; and (2) it facilitates peer-review
+Furthermore, users can participate in online workshops                  of the protocol by ensuring that relevant information is
+or experiment using a test website before creating a full               included in the most appropriate section. Furthermore,
+review.                                                                 CADIMA combines the respective text and generates
+   In the following pages, we briefly describe CADIMA’s                 one single document, which can then be formatted by the
+main features, starting from the registration and custom-               review team and submitted for peer-review.
+isation of a review and its team, to the conduct and docu-
+mentation of the evidence synthesis process. In addition,               Literature search
+we describe and summarise the different tasks within the                CADIMA is not a meta-search engine, such as PubMed
+review team and the information formats that are cur-                   or Scopus. Instead, CADIMA helps to structure and doc-
+rently supported during the evidence synthesis process                  ument the literature search by associating a search string
+(see Table 2).                                                          with a search engine or further information source it was
+                                                                        applied to, whilst the respective search results can be
+Registering with CADIMA and user roles                                  uploaded to CADIMA as RIS files. Following this, search
+Users must register with the program in order to access                 results can be combined, duplicates removed and records
+the full functionality of CADIMA, which is free of                      screened (see below). In addition, to facilitate the study
+charge.3 By accepting CADIMA’s terms of service that                    selection process at title/abstract stage, CADIMA high-
+regulate, besides others, the use of CADIMA and the                     lights those reports where an abstract is missing.
+handling of data (see Additional file 2), any registered
+user can initiate a new systematic review or map and can                Study selection
+customise the review team. There are two different roles                The study selection step includes the following key
+in a review team implemented in CADIMA. The ‘review                     aspects: (1) definition of selection criteria; (2) automated
+coordinator’ manages the review and its team, and also                  calculation of a kappa-statistic to test inter-reviewer
+performs more general tasks when compared to the one                    agreement4 when applying the defined criteria; (3)
+or more ‘review team members’ (see Table 2). Only the                   screening of the records from the literature list according
+nominated members of the respective review team and                     to the selection criteria at title, abstract and full text
+the review coordinator can access the new evidence                      stage; and, (4) extraction of studies from eligible records
+synthesis.                                                              (an important step that recognises the difference between
+                                                                        a study [i.e. an independent unit of research] and an arti-
+Structure of CADIMA                                                     cle [i.e. an independent unit of publication]). During the
+The menu structure of CADIMA mirrors the core steps                     screening process, title, abstract and full text are dis-
+and workflow of systematic reviews and systematic maps.                 played together with the selection criteria during each
+This begins with the development of the review protocol                 respective stage. Where records are independently
+(including the development of the review question), fol-                assessed by more than one reviewer and inconsistencies
+lowed by the conduct of the literature search, study selec-             between reviewers occur, they will be automatically iden-
+tion, data extraction, critical appraisal, data synthesis and           tified by CADIMA and the respective reviewers asked to
+the presentation of results. For each menu item, explana-               solve those conflicts.
+tory notes and submenus are provided. We now go on to
+3
+  Accessible via https://www.cadima.info/index.php/area/evidenceSynthe-
+                                                                        4
+sisDatabase.                                                              http://handbook.cochrane.org/ (part 2, chapter 7.2.6).
+
+Kohl et al. Environ Evid (2018) 7:8                                                                                                                         Page 11 of 17
+Table 2 Key features of CADIMA, different user roles and associated tasks and supported information formats used dur-
+ing the synthesis process
+Step                                Key features of CADIMA                       Roles and tasks                                Information format
+Set up the review                   Predefined input structure                   RC                                             Manual entry
+                                                                                 Invite registered users to become part
+                                                                                    of the review team
+                                                                                 Define the title of the review
+                                                                                 Define the question type (PICO, PIT, PO)
+                                                                                 Define if a systematic review or a sys-
+                                                                                    tematic map will be performed
+Protocol                            Predefined input structure referring to      RC                                             Manual entry
+                                       the key chapters of a protocol            Mark those document blocks that                Upload/download formats:
+                                    Compile a drafted protocol document             should be compiled by CADIMA                - Docx
+                                       with potential annexes                    Make final protocol publically available       - Xlsx
+                                                                                 All                                            - Pdf
+                                                                                 Enter/upload the requested information
+Literature search                   Documentation of the literature search       All                                            Manual entry
+                                    Indication of reports with missing           Allocate a search string to a search           Upload/download formats:
+                                       abstract                                     engine or a further information source - RIS
+                                    Identification of duplicates                    it was applied
+                                                                                 Upload of search results and duplicate
+                                                                                    removal
+Study selection                     Support for the:                             RC                                             Manual entry
+                                     Definition of selection criteria            Set the criteria list as “final”
+                                     Performance of a kappa-test                 Define those team members that
+                                    - Takes a random sample of the identi-          should be involved in the kappa test
+                                       fied reports to be rated by RC and/or     Decide about the suitability of the crite-
+                                       further review team members                  ria based on the provided kappa value
+                                    - Kappa value will be provided               Nominate team members to be
+                                     Online application of selection criteria       involved during study selection
+                                    - Title/abstract/full text will be co-       - Decide about the application mode
+                                       displayed                                 - Allocate identified reports
+                                    - Identification of discrepancies in the     All
+                                       rating by RC and/or RM                    Enter selection criteria
+                                     Selection of studies that should be         If nominated, apply criteria
+                                       included in the review                    Extract relevant studies
+Data extraction                     On- and offline data extraction              All                                            Manual entry
+                                                                                 Define critical appraisal criteria             Online data extraction
+                                                                                 Define data extraction columns                 - Manual entry
+                                                                                 Mark those columns relevant for the            Offline data extraction
+                                                                                    critical appraisal                          - Download/upload of the data extrac-
+                                                                                 Perform data extraction                           tion sheet as excel file
+Critical appraisal                  Co-display of extracted (meta-) data         RC                                             Manual entry
+                                       during the rating process                 Nominate team members to be
+                                    Online application of appraisal criteria        involved during critical appraisal
+                                    Identification of inconsistencies in          Allocate relevant studies
+                                       reviewer judgments                        All
+                                                                                 If nominated, critically appraise included
+                                                                                    studies
+Data synthesis                      Compilation of the data extraction           All                                            Download format
+                                       sheet and the results from the critical   Perform the statistical analysis by using      -  Xlsx
+                                       appraisal                                    the software package of their choice        Upload formats:
+                                                                                 Upload of synthesis results                    - Xlsx
+                                                                                                                                - Docx
+                                                                                                                                - Pdf
+Presenting data and results         Thorough documentation (including            All                                            Download formats:
+                                       any decision made during) of              Write up the review                            - Xlsx
+                                    - Literature search                          Decide about and upload information            - Docx
+                                    - Study selection                               to be made publically available             - RIS
+                                    - Critical appraisal                                                                        Upload formats:
+                                    Compilation of data extraction sheet                                                        - Xlsx
+                                    Opt for publication on the web site                                                         - Docx
+                                                                                                                                -  Pdf
+This table illustrates the key features of CADIMA for each step within the evidence synthesis process, describes the different user roles and associated tasks (RC review
+coordinator, All the entire review team), and specifies the information formats supported for each step. For more detail see text
+
+Kohl et al. Environ Evid (2018) 7:8                                                                                             Page 12 of 17
+Data extraction and critical appraisal                                    Presenting data and results
+CADIMA is designed to encourage best practice in sys-                     CADIMA facilitates thorough documentation of the
+tematic reviewing, such as the requirement that review-                   review process, providing, besides others, the following
+ers specify their critical appraisal criteria prior to data               information and data formats:
+extraction. Critical appraisal criteria can refer to a spe-
+cific bias under assessment (i.e. the internal validity of a                 i. a flow diagram summarising the study selection pro-
+study) and/or the generalisability of a study (i.e. its exter-                    cess, satisfying PRISMA standards6 (docx),
+nal validity). In addition, the critical appraisal judgement                 ii. reference lists for each database (xlsx) and the final
+system (i.e. whether a distinction will be made between                           reference list after duplicate removal (xlsx and RIS),
+low, medium, high and unclear risk, or only between low,                     iii. the outcomes of the consistency check and study
+high and unclear risk etc.) and items for data extraction                         selection across the different stages (title, abstract
+(i.e. which data should be extracted) must be defined. The                        and full text) including the reasons for exclusion
+data extraction sheet will automatically be generated by                          (xlsx),
+CADIMA and the reviewer can mark those data that are                         iv. the results of the critical appraisal (xlsx),
+needed to inform critical appraisal.                                         v. the filled data extraction sheet (xlsx).
+   CADIMA allows users to conduct either on- or off-line
+extraction of data and meta-data,5 by either directly                        Furthermore, CADIMA offers the possibility of upload-
+entering information into CADIMA or by providing a                        ing results generated by the review team, to make syn-
+download of the data extraction sheet as a spreadsheet                    thesis results available to third parties, i.e. displaying the
+file that can be uploaded once extraction is complete.                    documents on the web site and enable external users to
+   During critical appraisal, the appraisal criteria are used             download them. These features encourage a higher level
+to assess the validity of included studies. CADIMA allows                 of transparency than is common in publish systematic
+users to undertake critical appraisal online, while the                   reviews.
+extracted data relevant to the critical appraisal are shown
+together with the appraisal criteria. Where inconsisten-                  CADIMA and other types of evidence synthesis
+cies in coding decisions occur between two independ-                      CADIMA is also suitable for assisting in the process of
+ent reviewers for one record, these will be automatically                 conducting other forms of evidence synthesis, including
+identified by CADIMA, and the respective reviewers are                    systematic maps [8, 9] and rapid reviews [26] since not all
+asked to resolve those conflicts.                                         steps of a systematic review have to be completed within
+                                                                          the program. Consequently, the data extraction sheet
+Flexibility provided by CADIMA                                            can be designed to house meta-data only, and the critical
+CADIMA allows review steps to be modified and/                            appraisal step can be skipped completely if deemed nec-
+or updated during the conduct of the review, with the                     essary by the review authors.
+exception of the selection criteria, since a change in the
+selection criteria would require the de novo performance                  Review of existing tools
+of the consistency check and all previously extracted                     Of the 22 software packages identified as being suitable
+information would be lost. The core steps do not need to                  to support the systematic review or systematic map pro-
+be undertaken in order: for example search results can                    cess, nine were advertised as suitable for users from any
+still be entered once the selection process has started,                  field of research, nine were designed for the health care
+and the selection process does not need to be completed                   and medical science sectors, three were designed pri-
+in order to start the data extraction or critical appraisal               marily for software engineering and one for experimen-
+steps.                                                                    tal animal studies (Fig. 1). The programs vary in terms
+   To support data synthesis activities, CADIMA provides                  of available support, and most offered graphical user
+the completed data extraction sheet and the results from                  interfaces (GUI), although four required prior knowledge
+the critical appraisal, as spreadsheets that facilitate data              of coding or software development to use. Web-based
+transfer and preparation for quantitative synthesis. These                functions were available for 15 of the packages and seven
+files can then be used by the review team to perform                      involved downloadable applications. Most packages were
+statistical analyses within the software package of their                 designed for a team of reviewers, an important consid-
+choice, such as R (https://cran.r-project.org/).                          eration given many guidelines require more than one
+5
+  Meta-data are descriptive information relating to where and how a study
+                                                                          6
+was performed.                                                              http://www.prisma-statement.org/PRISMAStatement/FlowDiagram.aspx.
+
+Kohl et al. Environ Evid (2018) 7:8                                                                                          Page 13 of 17
+                                                                 Other
+                                                                   4%
+                   So ware engineering
+                             14%
+                                                                                                                      Any
+                                                                                                                      41%
+                   Healthcare & medical science
+                                  41%
+  Fig. 1 Breakdown of the intended fields of research each of the 22 software packages were primarily designed for
+reviewer to be involved with screening (e.g. [7]). How-                      to systematic reviews, and more information about their
+ever, two packages did not provide this functionality. Of                    potential future applications, see [27, 28]. Encouragingly,
+the primary stages of the systematic review process we                       16 software packages are freely available for non-com-
+identified, most software packages had the capacity to                       mercial uses, and six are also open source. All of the soft-
+address article screening (most enabling title and/or title                  ware we assessed are available to use in English, although
+and abstract screening in addition to full text screening)                   several lacked help documentation in English as they
+(Table 3).                                                                   were designed primarily for use in another language (e.g.
+  Machine learning and text mining features for use dur-                     [29]). Furthermore, some programs have advanced capa-
+ing screening, data extraction or synthesis stages are in                    bilities to manage articles in other languages and other
+their infancy, with only 10 software packages currently                      character sets (e.g. DistillerSR).
+supporting or planning to support their use. To date                            During trialing of the software packages (summarised
+these approaches have been incorporated into these tools                     in Table 1), several general issues were noted. Most soft-
+in various ways, for example by assisting with article                       ware packages lacked customisability; this was often
+screening (e.g. Rayyan and EPPI-Reviewer), data extrac-                      to ensure compliance with specific existing guidelines
+tion (e.g. METAGEAR package for R), and risk of bias                         or protocols within a particular discipline area (e.g. the
+assessments (e.g. SyRF). For further information about                       Kitchenham guidelines for systematic reviews in software
+how text mining approaches have been effectively applied                     engineering [5]). This limits the degree to which many of
+
+Kohl et al. Environ Evid (2018) 7:8                                                                           Page 14 of 17
+the software packages can be used between disciplines.       extraction process. The ability to export files and work
+Most of the software packages differ in the types of input   offline easily with CADIMA was considered a great
+files they accept, and many only accept one type of input    asset, although the linear structure of the application
+file (e.g. PubMed output files). The most common file        has so far precluded adjustments to review team mem-
+type is RIS. This is problematic in interdisciplinary stud-  bership between screening stages. The developers have
+ies when importing studies from a wide range of sources      taken this into consideration for future developments of
+and grey literature databases, many of which do not pro-     the programme. As CADIMA combines many different
+vide standardised export features (e.g. Google Scholar       stages of the review process in a single piece of software,
+https://scholar.google.co.uk/, EU Joint Research Centre—     it also has the advantage of enhancing transparency and
+Publications Repository http://publications.jrc.ec.europa.   replicability.
+eu/repository, OECD iLibrary http://www.oecd-ilibrary.          CADIMA is designed to provide important informa-
+org/). To help address this, EPPI-Reviewer developers        tion to users in the form of prompts, which make the
+have designed a RIS converter to convert other file for-     difference between a rigorous systematic review and a
+mats such as CSV files to RIS format (http://eppi.ioe.       standard literature review, considerably reducing the bar-
+ac.uk/cms/Default.aspx?tabid=2934).                          rier to entry for first time reviewers. These include pro-
+   Duplicate checking is an increasingly common feature      tocol development prompts which mirror Collaboration
+(Table 3) that can provide valuable time savings, particu-   for Environmental Evidence guidelines, and stages such
+larly if duplicate detection can be partially automated      as consistency checking. The structure and layout of
+(e.g. EPPI-Reviewer). Automated import of abstracts and      CADIMA encourages users to document their method-
+full-text PDFs is also an important time-saving feature in   ology and screening criteria clearly, and also provides a
+larger studies, but is not yet widely available (and is dif- location for record and methods to be hosted online, so
+ficult when many studies are not open access, as in the      that subsequent revisions can be undertaken easily.
+field of conservation biology).                                 Like CADIMA, the majority of software packages sup-
+                                                             port teams of reviewers, require no prior coding knowl-
+Discussion and outlook                                       edge and offer a range of help and support, facilitating
+There is increasing demand for information management        rapid learning and working with a team of individuals with
+systems which assist with the centralisation and manage-     differing degrees of experience. A handful of tools are par-
+ment of the systematic review process, to improve effi-      ticularly designed to lead the user in a stepwise manner
+ciency and to facilitate teams of reviewers to collaborate.  through the review process, including CADIMA with its
+We have identified 22 software packages which provide        inbuilt guidance and clear layout, and SESRA [29], which
+this functionality, designed for users from a wide range     mirrors the stages in the Kitchenham and Charters guide-
+of disciplines. There is a large degree of overlap between   lines [5]. Others, such as EPPI-Reviewer, do not follow this
+many of these software packages, however most have           structured approach, and users design the stages according
+been developed with particular disciplines in mind and       to their needs, meaning they must be familiar with both
+lack the customisability suitable for access and use by      the software and systematic review methodology.
+reviewers across disciplines. As a general observation,         No single software package guides the reviewer
+many developers appear to have developed these tools         through all stages of a systematic review or map project
+without an awareness of the full range of similar tools      (from question formation to the exporting of project doc-
+available (a point also noted in a recent systematic review  umentation), meaning stages such as literature searches
+[27]).                                                       or analysis and writing up of results are often expected
+   EJM (who was not part of the development team) tri-       to be managed separately. This is also true for CADIMA,
+alled CADIMA and found it intuitive to use and noted it      which provides support for the majority of the stages we
+performed smoothly even with large datasets. A major         assessed (Table 3), excluding built-in searching and quan-
+benefit of CADIMA is the fact it is suitable for teams       titative synthesis. Just over half of the software packages
+(vital for reviewers following certain guidelines e.g.       are integrated with one or more publication databases
+[7]) and is free and well supported—an important con-        to allow for built-in searching, however this inevitably
+sideration for students, small organisations and not-        limited them to certain databases and their associated
+for-profits (even low monthly fees are barriers, as the      disciplines, such as PubMed (medical and healthcare evi-
+typical review process can take over a year). CADIMA         dence, https://www.ncbi.nlm.nih.gov/pubmed/) in the
+also offers greater security than traditional approaches     case of DistillerSR, SRDB.PRO, SWIFT-Review and SyRF.
+to review management, such as Microsoft Excel, when             The principal advantage of using software to assist in
+it comes to sorting records and tracing included arti-       managing the review process is to increase efficiency
+cles between different stages of the screening and data      of time consuming tasks, to allow for efforts to be
+
+Kohl et al. Environ Evid (2018) 7:8                                                                                                                Page 15 of 17
+Table 3 Breakdown of the 22 software packages designed to support evidence syntheses, with the functionality to sup-
+port different stages of the systematic review process
+ Soware         Seng up         Scoping/pilot    Literature     Duplicate     Arcle                          Crical                        Documenta
+ name            the review       study            searching      checking      screening        Data coding    appraisal       Synthesis      on
+                 Facilitaon of                                                                                                                Output of
+                 queson          Protocol         Soware                                       Tagging and                    Facilitates    text, figures
+                 formulaon       development      integrated                                    extracon to                   quantave/    or tables to
+                 and/or           , PICO*          with           Automated                      support                        qualitave     assist with
+                 stakeholder      elements         publicaon     marking of    For study        meta-          Risk of bias    syntheses of   report
+ E.g.            engagement       specified        databases      duplicates    selecon         analyses       assessments     results        wring
+ CADIMA                        1               1                              1               1              1                1                              1
+ Colandr                                       1               1              1               1              1                               1               1
+ Covidence                                                                    1               1              1                1
+ DisllerSR                                                    1              1               1              1                               1               1
+ EROS                                                                                         1              1                1
+ EPPI-Reviewer
+ 4                                                             1              1               1              1                1              1               1
+ HAWC                                                          1                              1              1                1              1               1
+ METAGEAR
+ package for R                                                                                1              1                               1
+ PARSIFAL                                      1               1              1               1              1                               1
+ Rayyan                                        1               1              1               1
+ REviewER                      1               1               1              1               1
+ RevMan 5                                      1                                              1              1                1              1               1
+ RevMan Web                                                                                                    Data unavailable
+ SESRA                         1               1                                              1              1                               1               1
+ SLR-Tool                      1               1                              1               1              1                1                              1
+ SLuRp                                                         1                              1              1                1              1               1
+ SRDB.PRO                                                      1              1               1              1                1              1               1
+ SRDR                                                          1                                             1                               1
+ StArt                                         1                              1               1              1                1              1               1
+ SUMARI                                                        1                              1              1                1              1               1
+ SWIFT-Review                                                  1                              1              1                               1               1
+ SyRF                          1               1               1                              1              1                1              1
+ TOTAL                         5              10              13             11              20             19               12             15              13
+PICO population (P), intervention (I), comparator (C) and outcome (O)
+concentrated on the most important tasks—namely syn-                                     many duplicates are identified. In such cases, review
+thesis and analysis. CADIMA facilitates the importing                                    teams can automatically delete duplicates, for exam-
+and exporting of the results of searching and synthesis to                               ple by using EndNote and import the cleared list to
+allow literature searches and statistical analysis to be con-                            CADIMA. In the future, an automated removal pro-
+ducted flexibly, using alternative software, and focuses on                              cess will be implemented to CADIMA;
+simplifying the tracking large numbers of review articles                           –– In order to speed up the study selection process at
+throughout the process.                                                                  title/abstract stage, text mining approaches will be
+                                                                                         tested and potentially implemented in the event a
+Future developments of CADIMA                                                            demonstrably robust method is developed (currently
+Based on the results of the conducted review and                                         the software RapidMiner7 is used to trial the use of text
+received user feedback, the following issues will be                                     mining during the selection process);
+considered during the next round of development for                                 –– To increase the time savings offered by CADIMA, an
+CADIMA:                                                                                  automated upload of PDFs at full-text screening stage
+                                                                                         is planned;
+–– To facilitate the exchange between CADIMA and dif-                               –– Currently, the same reviewers have to participate dur-
+     ferent reference sources, additional input formats will                             ing the study selection process at title, abstract and full
+     be catered for, rather than RIS files only;                                         text stage. In the future, the possibility will be provided
+–– Duplicates are detectable within CADIMA, but can-
+     not be automatically removed in the current version.
+     This can be quite time consuming in cases where                                7
+                                                                                      https://rapidminer.com/.
+
+Kohl et al. Environ Evid (2018) 7:8                                                                                                              Page 16 of 17
+     that different reviewers can be involved during the                      Authors’ contributions
+                                                                              CK drafted the CADIMA part of the manuscript, EJM performed the review
+     respective stages; and                                                   of software tools and drafted the associated parts of the manuscript, SU is
+–– Due to the limitations associated with the conduct                         responsible for the programming of CADIMA and all authors contributed to
+     of a full systematic review, further evidence synthe-                    the final manuscript. All authors read and approved the final manuscript.
+     sis approaches, such as rapid reviews, are evolving in                   Author details
+     order to save resources and to provide a timely answer                   1
+                                                                                Julius Kühn-Institut (JKI), Federal Research Centre for Cultivated Plants,
+     to a posed question [26, 30]. This is especially impor-                  Erwin‑Baur‑Strasse 27, 06484 Quedlinburg, Germany. 2 School of Geography
+                                                                              and the Environment, University of Oxford, South Parks Road, Oxford OX1
+     tant in the political context where time is a major                      3QY, UK. 3 Mistra EviEM, Stockholm Environment Institute, 10451 Stockholm,
+     consideration. A future goal for CADIMA is to allow                      Sweden.
+     people to customise their review, depending on the
+                                                                              Acknowledgements
+     purpose of the synthesis and available resources.                        The authors wish to thank Simone Frenzel for her help during the develop-
+                                                                              ment of CADIMA, GRACE team members for their input and Andrew Pullin for
+   CADIMA will continue to be developed to join sev-                          his support when establishing the collaboration between JKI and CEE.
+eral other software packages which make use of machine                        Competing interests
+learning approaches to increase efficiency at the article                     The authors declare that they have no competing interests. The review of soft-
+screening stages of the systematic review process. This                       ware packages was not conducted by the authors responsible for developing
+                                                                              CADIMA to ensure the independence of this analysis.
+is an area that we believe will be of increasing interest to
+users, particularly for updating existing reviews (algo-                      Availability of data and materials
+rithms can be trained to identify relevant studies based                      Not applicable.
+on similarity to previously included studies) [31] and                        Consent for publication
+dealing with very large bodies of literature.                                 Not applicable.
+   The use of new technology to assist the systematic
+                                                                              Ethics approval and consent to participate
+review process is a rapidly developing area, demonstrated                     Not applicable.
+by the inclusion of three new or upgraded software pack-
+ages expected to become live in 2017 in our review (plus                      Funding
+                                                                              This work received funding by the EU-FP7 project: GMO Risk Assessment and
+another we were unable to find further information on;                        Communication of Evidence (GRACE); Grant Agreement KBBE-2011-6-311957.
+DRAGON ONLINE). Several other packages which
+came up in our search have been discontinued, suggest-                        Publisher’s Note
+ing security of funding, ongoing maintenance and con-                         Springer Nature remains neutral with regard to jurisdictional claims in pub-
+tinual improvement are essential considerations for the                       lished maps and institutional affiliations.
+developers of these types of software packages to prevent                     Received: 25 November 2016 Accepted: 5 January 2018
+them quickly becoming obsolete.
+Conclusions
+From a user perspective, we believe that CADIMA stands
+                                                                              References
+out in terms of ease of use, support for multiple users,
+                                                                               1. Guyatt G. Evidence-based medicine. A new approach to teaching the
+support for on- or off-line data extraction, commitment                             practice of medicine. JAMA. 1992;268:2420–5.
+to ongoing maintenance and financing, therefore meeting                        2. (EU) IR. Commission Implementing Regulation (EU) No. 503/2013 on
+                                                                                    applications for authorisation of genetically modified food and feed in
+the criteria rated as most important by users of system-
+                                                                                    accordance with Regulation (EC) No. 1829/2003 of the European Parlia-
+atic review software in a recent study [25]. Many other                             ment and of the Council and amending Commission Regulations (EC)
+free software packages require prior experience of soft-                            No. 641/2004 and (EC) No. 1981/2006. 2013, OJ L 157; 2013. p. 1–48.
+                                                                               3. Kohl C, Craig W, Frampton G, Garcia-Yi J, van Herck K, Kleter GA, Krogh PH,
+ware development and computer coding, or have limited
+                                                                                    Meissle M, Romeis J, Spök A. Developing a good practice for the review
+capacity for ongoing maintenance. Aside from CADIMA,                                of evidence relevant to GMO risk assessment. GMOs Integr Plant Prod.
+those that are continually updated and provide user-                                2013;97:55–62.
+                                                                               4. Kohl C, Frampton G, Sweet J, Spök A, Haddaway NR, Wilhelm R, Unger S,
+friendly graphical user interfaces, tend to be expensive
+                                                                                    Schiemann J. Can systematic reviews inform GMo risk assessment and
+for team reviews, making them less feasible options for                             risk management? Front Bioeng Biotechnol. 2015;3:113.
+small research teams or non-profit organisations.                              5. Kitchenham B, Charters S. Guidelines for performing systematic literature
+                                                                                    reviews in software engineering version 2.3. EBSE Tech Rep. 2007;1–65.
+Additional files                                                               6. EFSA. Application of systematic review methodology to food and feed
+                                                                                    safety assessments to support decision making. EFSA J. 2010;8(6):1637.
+                                                                               7. CEE. Guidelines for systematic review and evidence synthesis in environ-
+  Additional file 1. Search strategy for identifying software programs listed       mental management. Version 4.2; 2013. p. 1–80.
+  in Table 1.                                                                  8. James KL, Randall NP, Haddaway NR. A methodology for systematic map-
+                                                                                    ping in environmental sciences. Environ Evid. 2016;5:7.
+  Additional file 2. CADIMA terms of service.
+
+Kohl et al. Environ Evid (2018) 7:8                                                                                                                   Page 17 of 17
+9.  Bragge P, Clavisi O, Turner T, Tavender E, Collie A, Gruen RL. The global     29. Molléri JS, Benitti FBV. ARS—Uma abordagem para automatização de
+    evidence mapping initiative: scoping research in broad topic areas. BMC           revisões sistemáticas da literatura em engenharia de software: Relatório
+    Med Res Methodol. 2011;11:92.                                                     Técnico. Itajaí, Brazil; 2013.
+10. Gathmann A, Priesnitz KU. What is the evidence on the inheritance of          30. Khangura S, Konnyu K, Cushman R, Grimshaw J, Moher D. Evidence sum-
+    resistance alleles in populations of lepidopteran/coleopteran maize pest          maries: the evolution of a rapid review approach. Syst Rev. 2012;1:10.
+    species: a systematic map protocol. Environ Evid. 2014;3:13.                  31. Roll U, Correia RA, Berger-Tal O. Using machine learning to disentan-
+11. Gathmann A, Priesnitz KU. How susceptible are different lepidopteran/             gle homonyms in large text corpora. Conserv Biol. 2017. https://doi.
+    coleopteran maize pests to Bt-proteins: a systematic review protocol.             org/10.1111/cobi.13044.
+    Environ Evid. 2014;3:12.                                                      32. CADIMA. Quedlinburg, Germany: Julius Kühn-Institut; 2017.
+12. Priesnitz KU, Vaasen A, Gathmann A. Baseline susceptibility of different      33. Covidence systematic review software. Melbourne, Australia: Veritas
+    European lepidopteran and coleopteran pests to Bt proteins expressed in           Health Innovation.
+    Bt maize: a systematic review. Environ Evid. 2016;5:27.                       34. DistillerSR. Ottawa, Canada: Evidence Partners.
+13. Meissle M, Naranjo SE, Kohl C, Riedel J, Romeis J. Does the growing of Bt     35. Glujovsky D, Bardach A, García Martí S, Comandé D, Ciapponi A. EROS:
+    maize change abundance or ecological function of non-target animals               a new software for early stage of systematic reviews. Value Health.
+    compared to the growing of non-GM maize? A systematic review proto-               2011;14:A564.
+    col. Environ Evid. 2014;3:7.                                                  36. Thomas J, Brunton J, Graziosi S. EPPI-reviewer 4: software for research
+14. Kostov K, Damgaard CF, Hendriksen NB, Sweet JB, Krogh PH. Are popula-             synthesis. EPPI-Centre Software. London: Social Science Research Unit,
+    tion abundances and biomasses of soil invertebrates changed by Bt                 Institute of Education; 2010.
+    crops compared with conventional crops? A systematic review protocol.         37. HAWC. Health Assessment Workplace Collaborative. 2013.
+    Environ Evid. 2014;3:10.                                                      38. Shapiro A, Rusyn I. Health assessment workspace collaborative (HAWC)
+15. Kostov K, Krogh PH, Damgaard CF, Sweet JB, Hendriksen NB. Are soil                project overview; 2014.
+    microbial endpoints changed by Bt crops compared with conventional            39. Lajeunesse MJ. Facilitating systematic reviews, data extraction, and
+    crops? A systematic review protocol. Environ Evid. 2014;3:11.                     meta-analysis with the METAGEAR package for R. Methods Ecol Evol.
+16. Sweet J, Kostov K. What are the effects of the cultivation of GM herbicide        2015;7:323–30.
+    tolerant crops on botanical diversity? A systematic review protocol. A        40. Ouzzani M, Hammady H, Fedorowicz Z, Elmagarmid A, Chalmers T, Smith
+    systematic review protocol. Environ Evid. 2014;3:8.                               H, Blackburn B, Silverman B, Schroeder B, Reitman D, et al. Rayyan—a
+17. Garcia-Yi J, Lapikanonth T, Vionita H, Vu H, Yang S, Zhong Y, Li Y, Nagelsch-     web and mobile app for systematic reviews. Syst Rev. 2016;5:210.
+    neider V, Schlindwein B, Wesseler J. What are the socio-economic impacts      41. Review Manager (RevMan) Version 5.3. Copenhagen: The Nordic
+    of genetically modified crops worldwide? A systematic map protocol.               Cochrane Centre, The Cochrane Collaboration; 2014.
+    Environ Evid. 2014;3:24.                                                      42. Fernández-Sáez AM, Genero Bocco M, Romero FP. SLR-Tool a tool for
+18. Marshall C, Brereton P. Tools to support systematic literature reviews in         performing systematic literature reviews. In: ICSOFT 2010—Proceedings
+    software engineering: a feature analysis. In: International Symposium on          of the 5th International Conference on Software and Data Technologies.
+    Empirical Software Engineering and Measurement; 2014. p. 296–9.                   2010; 2:157–66.
+19. Practice CfRiEB. The systematic review accelerator. Centre for Research in    43. Bowes D, Hall T, Beecham S. SLuRp: a tool to help large complex system-
+    Evidence Based Practice; 2017.                                                    atic literature reviews deliver valid and rigorous results. In: Proceedings
+20. Rathbone J, Carter M, Hoffmann T, Glasziou P. Better duplicate detection          of the 2nd international workshop on Evidential assessment of software
+    for systematic reviewers: evaluation of systematic review assistant-dedu-         technologies—EAST ‘12; 2012. p. 33–6.
+    plication module. Syst Rev. 2015;4(1):6.                                      44. Fabbri S, Silva C, Hernandes E, Octaviano F, Di Thommazo A, Belgamo A.
+21. Wallace BC, Small K, Brodley CE, Lau J, Trikalinos TA. Deploying an interac-      Improvements in the StArt tool to better support the systematic review
+    tive machine learning system in an evidence-based practice center:                process. In: Proceedings of the 20th International Conference on Evalua-
+    abstrackr. In: Proceedings of the ACM International Health Informatics            tion and Assessment in Software Engineering—EASE ‘16 2016. p. 1–5.
+    Symposium (IHI); 2012. p. 819–24.                                             45. Howard BE, Phillips J, Miller K, Tandon A, Mav D, Shah MR, Holmgren S,
+22. Marshall IJ, Kuiper J, Wallace BC. RobotReviewer: evaluation of a system          Pelch KE, Walker V, Rooney AA, et al. SWIFT-Review: a text-mining work-
+    for automatically assessing bias in clinical trials. J Am Med Inform Assoc.       bench for systematic review. Syst Rev. 2016;5:87.
+    2016;23:193–201.                                                              46. Systematic Review and Meta-Analysis Facility (Syrf ). Edinburgh, UK:
+23. Barn BS, Raimondi F, Athappian L, Clark T. Slrtool: a tool to support             CAMARADES-NC3Rs; 2017.
+    collaborative systematic literature reviews. In: Proceedings of the 16th
+    International Conference on Enterprise Information Systems (ICEIS-2014).
+    Science and Technology Publications, Lda.; 2014. p. 440–7.
+24. Hassler E, Carver JC, Hale D, Al-Zubidy A. Identification of SLR tool
+    needs—results of a community workshop. Inf Softw Technol.
+    2016;70:122–9.
+25. Marshall C, Brereton P, Kitchenham B. Tools to support systematic reviews
+    in software engineering: a cross-domain survey using semi-structured              Submit your next manuscript to BioMed Central
+    interviews. In: Proceedings of the 19th International Conference on
+    Evaluation and Assessment in Software Engineering—EASE ‘15; 2015. p.              and we will help you at every step:
+    1–6.                                                                                • We accept pre-submission inquiries
+26. Collins A, Coughlin D, Miller J, Kirk S. The production of quick scoping
+    reviews and rapid evidence assessments: a how to guide. London: Joint               • Our selector tool helps you to find the most relevant journal
+    Water Evidence Group; 2015.                                                         • We provide round the clock customer support
+27. O’Mara-Eves A, Thomas J, McNaught J, Miwa M, Ananiadou S. Using text                • Convenient online submission
+    mining for study identification in systematic reviews: a systematic review
+    of current approaches. Syst Rev. 2015;4:5.                                          • Thorough peer review
+28. Thomas J, McNaught J, Ananiadou S. Applications of text mining within               • Inclusion in PubMed and all major indexing services
+    systematic reviews. Res Synth Methods. 2011;2:1–14.                                 • Maximum visibility for your research
+                                                                                        Submit your manuscript at
+                                                                                        www.biomedcentral.com/submit
+

@@ -1,0 +1,772 @@
+Skip to main content
+Advertisement
+Search
+• Explore journals
+• Get published
+• About BMC
+• My account
+Search all BMC articles
+Search
+Environmental Evidence
+• Home
+• About
+• Articles
+• Submission Guidelines
+Download PDF
+• Systematic Review
+• Open Access
+• Published: 28 January 2020
+What are the relative risks of mortality and injury for fish during downstream passage at hydroelectric dams in temperate regions? A systematic review
+• Dirk A. Algera1 na1,
+• Trina Rytwinski1,2,3 na1,
+• Jessica J. Taylor1,2,3,
+• Joseph R. Bennett2,3,
+• Karen E. Smokorowski4,
+• Philip M. Harrison1,5,
+• Keith D. Clarke6,
+• Eva C. Enders7,
+• Michael Power5,
+• Mark S. Bevelhimer8 &
+• Steven J. Cooke1,2,3
+Environmental Evidence volume 9, Article number: 3 (2020) Cite this article
+1254 Accesses
+1 Citations
+15 Altmetric
+Metrics details
+Abstract
+Background
+Fish injury and mortality resulting from entrainment and/or impingement during downstream passage over/through hydropower infrastructure has the potential to cause negative effects on fish populations. The primary goal of this systematic review was to address two research questions: (1) What are the consequences of hydroelectric dam fish entrainment and impingement on freshwater fish productivity in temperate regions?; (2) To what extent do various factors like site type, intervention type, and life history characteristics influence the consequences of fish entrainment and impingement?
+Methods
+The review was conducted using guidelines provided by the Collaboration for Environmental Evidence and examined commercially published and grey literature. All articles found using a systematic search were screened using a priori eligibility criteria at two stages (title and abstract, and full-text, respectively), with consistency checks being performed at each stage. The validity of studies was appraised and data were extracted using tools explicitly designed for this review. A narrative synthesis encompassed all relevant studies and a quantitative synthesis (meta-analysis) was conducted where appropriate.
+Review findings
+A total of 264 studies from 87 articles were included for critical appraisal and narrative synthesis. Studies were primarily conducted in the United States (93%) on genera in the Salmonidae family (86%). The evidence base did not allow for an evaluation of the consequences of entrainment/impingement on fish productivity per se; therefore, we evaluated the risk of freshwater fish injury and mortality owing to downstream passage through common hydropower infrastructure. Our quantitative synthesis suggested an overall increased risk of injury and immediate mortality from passage through/over hydropower infrastructure. Injury and immediate mortality risk varied among infrastructure types. Bypasses resulted in decreased injury risk relative to controls, whereas turbines and spillways were associated with the highest injury risks relative to controls. Within turbine studies, those conducted in a lab setting were associated with higher injury risk than field-based studies, and studies with longer assessment time periods (≥ 24–48 h) were associated with higher risk than shorter duration assessment periods (< 24 h). Turbines and sluiceways were associated with the highest immediate mortality risk relative to controls. Within turbine studies, lab-based studies had higher mortality risk ratios than field-based studies. Within field studies, Francis turbines resulted in a higher immediate mortality risk than Kaplan turbines relative to controls, and wild sourced fish had a higher immediate mortality risk than hatchery sourced fish in Kaplan turbines. No other associations between effect size and moderators were identified. Taxonomic analyses revealed a significant increased injury and immediate mortality risk relative to controls for genera Alosa (river herring) and Oncorhynchus (Pacific salmonids), and delayed mortality risk for Anguilla (freshwater eels).
+Conclusions
+Our synthesis suggests that hydropower infrastructure in temperate regions increased the overall risk of freshwater fish injury and immediate mortality relative to controls. The evidence base confirmed that turbines and spillways increase the risk of injury and/or mortality for downstream passing fish compared to controls. Differences in lab- and field-based studies were evident, highlighting the need for further studies to understand the sources of variation among lab- and field-based studies. We were unable to examine delayed mortality, likely due to the lack of consistency in monitoring for post-passage delayed injury and mortality. Our synthesis suggests that bypasses are the most “fish friendly” passage option in terms of reducing fish injury and mortality. To address knowledge gaps, studies are needed that focus on systems outside of North America, on non-salmonid or non-sportfish target species, and on population-level consequences of fish entrainment/impingement.
+Background
+Worldwide over 58,000 dams (> 15 m height) have been constructed for various uses including irrigation, flood control, navigation, and hydroelectric power generation [1]. As the number of dams continues to increase worldwide, so too have concerns for their effects on fish populations. Dams can act as a barrier to migratory (i.e., anadromous, catadromous, potamodromous) and resident fish (i.e., those that complete their life cycle within a reservoir or section of the river), fragmenting rivers and degrading habitats. The negative impacts of dams on upstream migration of diadromous fish are widely acknowledged, and the installation of various types of fishways to facilitate upstream passage are commonplace [2]. However, downstream migration of fish at dams remains a challenge [3, 4]. Depending upon the life history of a given migratory fish, mature adults seeking spawning grounds (catadromous species) or juveniles or post-spawn adults (iteroparous species) seeking rearing and feeding habitats (anadromous species) may all need to move downstream past dams. Resident species may also move considerable distances throughout a riverine system for reproduction, rearing, and foraging (e.g., Kokanee Oncorhynchus nerka; White Sucker Catostomus commersonii; Walleye Sander vitreus) or simply move throughout reservoirs where they may traverse forebay areas.
+Injury and mortality resulting from entrainment, when fish (non-)volitionally pass through hydropower infrastructure, or impingement, when fish become trapped against infrastructure, associated with hydroelectric facilities may have serious consequences for fish populations [5, 6]. Sources of entrainment or impingement-related injury or mortality include the following: (1) fish passage through hydroelectric infrastructure (i.e., turbines, spillways, sluiceways, and other passage routes) during downstream migration for migratory fish; (2) the entrainment of resident fish; and (3) the impingement of adult or large fish (migratory or resident) against screens/trash racks. Some hydropower facilities are equipped with fish collection and bypass systems, primarily for juvenile salmonids, to facilitate downstream passage. Migrating fish will use existing dam structures such as spillways and outlet works, used to release and regulate water flow, for downstream passage. When no bypass is available and there are no spills occurring owing to low reservoir water levels, both resident and facultative migrant fish can be attracted to the turbine intake tunnels, often the only other source of downstream flow present in the forebay area of the dam. Entrainment, occurring when fish travel through a hydro dam to the tailraces, can result in physical injury and mortality from fish passing through turbines and associated components [7, 8]. Injury and mortality can occur through several means from hydroelectric components. Freefall from passing over a spillway, abrasion, scrapes, and mechanical strikes from turbine blades are well known causes of physical injury and mortality (reviewed in [6,7,8]). Injuries from turbulence and shear owing to water velocity differentials across the body length, occurs when passing over a spillway or through turbine components [7, 9]. Water pressure associated injuries and mortality can occur from low pressure, rapid changes in pressure, shear stress, turbulence, cavitation (extremely low water pressures that cause the formation of bubbles which subsequently collapse violently), strikes, or grinding when fish become entrained in turbine components [5, 10, 11]. Injury and mortality can also occur from fish being impinged against screens or trash racks that are intended to prevent debris, or in some cases fish, from being drawn into water intakes [12].
+Since downstream migrants are not often observed (e.g., juvenile fish), historically far less consideration has been afforded to downstream passage, such that management strategies and/or structures specifically designed to accommodate downstream passage were not implemented nearly as frequently [13]. To date, literature on downstream passage largely focuses on juvenile survival, particularly in Pacific salmonids Oncorhynchus spp., popular commercial and recreational species in which the adults senesce after spawning. Minimal research exists on downstream passage and entrainment risk of resident fish species [6]. However, research on adult downstream passage in migratory fish is growing in popularity in temperate Europe and North America, particularly for species of conservation interest such as eels Anguilla spp. [14,15,16,17,18,19] and sturgeons Acipenser spp. [20,21,22]. To enhance downstream passage and reduce mortality, management strategies have included selectively timing spills to aid juvenile fish, the installation of “fish friendly” bypass systems and screens directing fish to these systems, and retrofitting dams with low-volume surface flow outlets [23] or removable spillway structures designed to minimize fish harm [24]. The use of light, sound, bubble curtains, and electrical currents to act as repellent from harmful paths or potentially an attractant to more desirable (fish friendly) paths have been explored [25,26,27]. Given that the timing of downstream migration differs among life stages and is species-dependent [6], mitigating injury and mortality during downstream passage in a multispecies system could prove challenging and disruptive to power generation operations. Furthermore, operational strategies can be complicated by environmental regulations such as water quality requirements.
+From a fish productivity perspective, minimizing impacts during downstream passage for migratory fish, unintended entrainment of resident species, and/or fish impingement, is an integral part of managing fish productivity. Downstream passage mortality from a single hydropower dam may appear low (i.e., 5–10%), but system-wide cumulative mortalities may be considerable in systems greatly fragmented by multiple dams [28]. Adult survival affects population dynamics (e.g., effective population size), and thus fisheries yields (e.g., sustainable yield, maximum sustainable yield). Juvenile survival affects recruitment (i.e., fish reaching an age class considered part of a fishery), ultimately contributing to fisheries productivity. Literature reviews and technical reports compiled to date have primarily focused on how fish injury and mortality occurs, and/or evaluate the effectiveness of various management strategies used to mitigate harm during downstream passage [6,7,8]. Given the contributions of migratory and resident adults and juveniles to fish production, a natural extension would be evaluating the impacts of fish injury and mortality from hydropower dam entrainment and impingement on fish productivity. Here, we use a ‘systematic review’ approach [29] to evaluate the existing literature base to assess the consequences of hydroelectric dam entrainment and impingement on freshwater fish productivity, and to identify to what extent factors like site type, intervention type, and life history characteristics influence the impact of different hydroelectric infrastructure on fish entrainment and impingement.
+Topic identification and stakeholder input
+During the formulation of the question for this review, an Advisory Team made up of stakeholders and experts was established and consulted. This team included academics, staff from the Oak Ridge National Laboratory (U.S. Department of Energy) and staff from Fisheries and Oceans Canada (DFO), specifically the Fish and Fish Habitat Protection Program (FFHPP) and Science Branch. The Advisory Team guided the focus of this review to ensure the primary question was both answerable and relevant, and suggested search terms to capture the relevant literature. The Advisory Team was also consulted in the development of the inclusion criteria for article screening and the list of specialist websites for searches.
+Objective of the review
+The objective of the systematic review was to evaluate the existing literature base to assess the consequences of fish entrainment and impingement associated with hydroelectric dams in freshwater temperate environments.
+Primary question
+What are the consequences of hydroelectric dam fish entrainment and impingement on freshwater fish productivity in temperate regions?
+Components of the primary question
+The primary study question can be broken down into the study components:
+Subject (population): Freshwater fish, including diadromous species, in temperate regions.
+Intervention: Infrastructure associated with hydroelectric facilities (i.e., turbines, spillways, sluiceways, outlet works, screens, water bypasses, louvers, fish ladders, penstocks, trash racks, etc.,).
+Comparator: No intervention or modification to intervention.
+Outcomes: Change in a component of fish productivity (broadly defined in terms of: mortality, injury, biomass, yield, abundance, diversity, growth, survival, individual performance, migration, reproduction, population sustainability, and population viability).
+Secondary question
+To what extent do factors such as site type, intervention type, life history characteristics influence the impact of fish entrainment and impingement?
+Methods
+The search strategy for this review was structured according to the guidelines provided by the Collaboration for Environmental Evidence [30] and followed that published in the a priori systematic review protocol [31]. Note, no deviations were made from the protocol.
+Searches
+Search terms and languages
+The following search string was used to query publication databases, Google Scholar, and specialist websites.
+Population terms [Fish* AND (Reservoir$ OR Impoundment$ OR Dam$ OR “Hydro electric*” OR Hydroelectric* OR “Hydro dam*” OR Hydrodam* OR “Hydro power” OR Hydropower OR “Hydro”)]
+AND
+Intervention terms (Turbine$ OR Spill* OR Outlet* OR Overflow* OR Screen$ OR Tailrace$ OR “Tail race” OR Diversion OR Bypass* OR Tailwater$ OR Penstock$ OR Entrain* OR Imping* OR Blade$ OR In-take$ OR “Trash rack$” OR “Draft tube$”)
+AND
+Outcome terms (Productivity OR Growth OR Performance OR Surviv* OR Success OR Migrat* OR Passag* OR Reproduc* OR Biomass OR Stress* OR Mortalit* OR Abundance$ OR Densit* OR Yield$ OR Injur* OR Viability OR Sustainability OR “Vital rate$” OR Persistence OR “Trauma”)
+Search terms were limited to English language due to project resource restrictions. The search string was modified depending on the functionality of different databases, specialist websites and search engine (see Additional file 1). Full details on search settings and subscriptions can be found in Additional file 1. To ensure the comprehensiveness of our search, the search results were checked against a benchmark list of relevant papers provided by the Advisory Team. We also searched the reference lists of papers, until the number of relevant returns significantly decreased. This increased the likelihood that relevant articles not captured by the literature search were still considered.
+Publication databases
+The following bibliographic databases were searched in December 2016 using Carleton University’s institutional subscriptions:
+• 1.
+ISI Web of Science core collection.
+• 2.
+Scopus.
+• 3.
+ProQuest Dissertations and Theses Global.
+• 4.
+WAVES (Fisheries and Oceans Canada).
+• 5.
+Science.gov.
+Note, the Fisheries and Oceans Canada database (WAVES) became a member of the Federal Science Library (FSL) in 2017 after this search was conducted (see Additional file 1).
+Search engines
+Internet searches were conducted in December 2016 using the search engine Google Scholar (first 500 hits sorted by relevance). Potentially useful documents that had not already been found in publication databases were recorded and screened for the appropriate fit for the review questions.
+Specialist websites
+Specialist organization websites listed below were searched in February 2017 using abbreviated search terms [i.e., search strings (1) fish AND hydro AND entrainment; (2) fish AND hydro AND impingement; (3) fish AND hydro AND mortality; and (4) fish AND hydro AND injury]. Page data from the first 20 search results for each search string were extracted (i.e., 80 hits per website), screened for relevance, and searched for links or references to relevant publications, data and grey literature. Potentially useful documents that had not already been found using publication databases or search engines were recorded.
+• 1.
+Alberta Hydro (https://www.transalta.com/canada/alberta-hydro/).
+• 2.
+British Columbia Hydro (https://www.bchydro.com/index.html).
+• 3.
+Centre for Ecology and Hydrology (https://www.ceh.ac.uk/).
+• 4.
+Centre for Environment, Fisheries and Aquaculture Science (https://www.cefas.co.uk/).
+• 5.
+Commonwealth Scientific and Industrial Research Organisation (https://www.csiro.au/).
+• 6.
+Electric Power Research Institute (https://www.epri.com/).
+• 7.
+EU Water Framework Directive (https://ec.europa.eu/environment/water/water-framework/index_en.html).
+• 8.
+Federal Energy Regulatory Commission (https://www.ferc.gov).
+• 9.
+Fisheries and Oceans Canada (https://www.dfo-mpo.gc.ca/index-eng.htm).
+• 10.
+Fisheries Research Service (https://www.gov.scot).
+• 11.
+Food and Agriculture Organization of the United Nations (http://www.fao.org/home/en/).
+• 12.
+Hydro Québec (http://www.hydroquebec.com/).
+• 13.
+Land and Water Australia (http://lwa.gov.au/).
+• 14.
+Manitoba Hydro (https://www.hydro.mb.ca/).
+• 15.
+Ministry of Natural Resources and Environment of the Russian Federation (http://www.mnr.gov.ru/).
+• 16.
+Ministry of the Environment New Zealand (https://www.mfe.govt.nz/).
+• 17.
+National Institute of Water and Atmospheric Research New Zealand (https://niwa.co.nz/).
+• 18.
+Natural Resources Canada (https://www.nrcan.gc.ca/home).
+• 19.
+Natural Resources Wales (https://naturalresources.wales/?lang=en).
+• 20.
+Newfoundland and Labrador Hydro (https://nlhydro.com/).
+• 21.
+Northern Ireland Environment Agency (https://www.daera-ni.gov.uk/northern-ireland-environment-agency).
+• 22.
+Office of Scientific and Technical Information (U.S. Department of Energy) (https://www.osti.gov/).
+• 23.
+Pacific Fisheries Environmental Laboratory (https://oceanview.pfeg.noaa.gov/projects).
+• 24.
+Parks Canada (https://www.pc.gc.ca/en/index).
+• 25.
+The Nature Conservancy (https://www.nature.org/en-us/).
+• 26.
+Trout Unlimited (https://www.tu.org/).
+• 27.
+United Nations Environment Programme (https://www.unenvironment.org/).
+• 28.
+US Fish and Wildlife Service (https://www.fws.gov/).
+Other literature searches
+Reference sections of accepted articles and 168 relevant reviews were hand searched to evaluate relevant titles that were not found using the search strategy (see Additional file 2 for a list of relevant reviews). Stakeholders were consulted for insight and advice for new sources of information. We also issued a call for evidence to target sources of grey literature through relevant mailing lists (Canadian Conference for Fisheries Research, American Fisheries Society), and through social media (e.g., Twitter, Facebook) in February and November 2017. The call for evidence was also distributed by the Advisory Team to relevant networks and colleagues.
+Estimating comprehensiveness of the search
+We did not undertake an explicit test of the comprehensive of our search by checking our search results against a benchmark list of relevant papers. This was largely because we knew that most of the evidence base on this topic was going to be considered grey literature sources, making estimation of comprehensiveness challenging. However, as mentioned above, we screened bibliographies of: (1) a large number of relevant reviews identified at title and abstract (84 reviews) or full-text screening (30 reviews); (2) additional relevant reviews identified from within the bibliographies of the reviews (54 reviews); and (3) included articles. We searched these reference lists of papers until the reviewer deemed that the number of relevant returns had significantly decreased. This increased the likelihood that relevant articles not captured by the literature search were still considered.
+Assembling a library of search results
+All articles generated by publication databases and Google Scholar were exported into separate Zotero databases. After all searches were complete and references found using each different strategy were compiled, the individual databases were exported into EPPI-reviewer (eppi.ioe.ac.uk/eppireviewer4) as one database. Due to restrictions on exporting search results, the Waves database results were screened in a separate Excel spreadsheet. Prior to screening, duplicates were identified using a function in EPPI Reviewer and then were manually removed by one reviewer (TR). One reviewer manually identified and removed any duplicates in the Waves spreadsheet (TR). All references regardless of their perceived relevance to this systematic review were included in the database.
+Article screening and study eligibility criteria
+Screening process
+Articles found by database searches and the search engine were screened in two distinct stages: (1) title and abstract, and (2) full text. Articles or datasets found by other means than database or search engine searches (i.e., specialist website or other literature searches) were entered at the second stage of this screening process (i.e., full text) but were not included in consistency checks. Prior to screening all articles, a consistency check was done at title and abstract stage where two reviewers (DAA and TR) screened 233/2324 articles (10% of the articles included in EPPI Reviewer which did not include grey literature, other sources of literature, or the articles in the Waves excel spreadsheet). The reviewers agreed on 86.30% of the articles. Any disagreements between screeners were discussed and resolved before moving forward. If there was any further uncertainty, the Review Team discussed those articles as a group to come up with a decision. Attempts were made to locate full-texts of all articles remaining after title and abstract in the Carleton University library and by using interlibrary loans. Reviewers did not screen studies (at title and abstract or full-text) for which they were an author.
+A consistency check was done again at full-text screening with 51/500 articles (10% of the articles included in EPPI Reviewer which did not include grey literature, other sources of literature, or the articles in the Waves excel spreadsheet). Reviewers (DAA and TR) agreed on 90.2% of articles. After discussing and resolving inconsistencies, the screening by a single reviewer (DAA) was allowed to proceed. A list of all articles excluded on the basis of full-text assessment is provided in Additional file 2, together with the reasons for exclusion.
+Eligibility criteria
+Each article had to pass each of the following criteria to be included:
+Eligible populations
+The relevant subjects of this review were any fish species, including diadromous species, in North (23.5° N to 66.5° N) or South (23.5° S to 66.5° S) temperate regions. Only articles located in freshwater ecosystems, including lakes, rivers, and streams that contain fish species that are associated with a hydroelectric dam system were included.
+Eligible interventions
+Articles that described infrastructure associated with hydroelectric facilities that may cause fish to be entrained or impinged (i.e., turbines, spillways, sluiceways, outlet works, screens, tailraces, water bypasses, tailwaters, penstocks, trash racks, etc.) were included. Articles that examined “general infrastructure”, where entrainment or impingement was examined but no specific infrastructure component was isolated, were also included for data extraction. See Table 1 for definitions of the intervention types considered in the review. Only articles that describe water that moves via gravity were included. Articles were excluded where water was actively pumped for: (1) power generation (e.g., storage ponds [32]); (2) irrigation; or (3) cooling-water in-take structures for thermoelectric power plants. Other studies excluded described infrastructure associated with other operations: (1) nuclear facilities; (2) dams without hydro; (3) hydrokinetic systems (i.e., energy from waves/currents); or (4) general water withdrawal systems (e.g., for municipal drinking, recreation).
+Table 1 Intervention, fish injury/impact, and general hydropower terms and definitions used in the systematic review
+Full size table
+Eligible comparators
+This review compared outcomes based on articles that used Control-Impact (CI) and Controlled Trials (randomized or not). Before-After (BA) and studies that combined BA and CI designs, Before-After-Control-Impact (BACI), were considered for inclusion but none were found (i.e., there were no studies that collected before intervention data within same waterbody pre-installation/modification). Relevant comparators included: (1) no intervention (e.g., control experiments whereby each phase of a test procedure was examined for sources of mortality/injury other than passage through infrastructure such as upstream introduction and/or downstream recovery apparatus); (2) an unmodified version of the intervention on the same or different study waterbody, or (3) controlled flume study. Studies that only reported impact (i.e., treatment) data (i.e., no control site data) were excluded from this review. Note, at the request of stakeholders, studies that only reported impact-only data were included through the full-text screening stage but were excluded during the initial data extraction stage to obtain an estimate of the number of studies that used this type of study design in this area of study. Simulation studies, review papers, and policy discussions were also excluded from this review.
+Eligible outcomes
+Population-level assessments of entrainment and impingement impacts on fish productivity outcomes were considered for inclusion but were rarely conducted. Most metrics used to evaluate consequences of fish entrainment and impingement were related to fish mortality and injury. Any articles that used a metric related to: (1) lethal impact: direct fish mortality or indirect mortality (e.g., fish are disoriented after passage through hydroelectric dam and then predated upon), and (2) sublethal impacts: external and/or internal injury assessments (e.g., signs of scale loss, barotrauma, blade strike, etc.,)—were included. These metrics could include, but were not limited to, reported mortality rate (%, number), survival rate (%), recovery rate (%, number), the number of fish impinged or entrained (i.e., used as a measure of risk of impingement/entrainment and not mortality/injury per se), injury rate (% of population) with particular types of injuries (e.g., signs of blade strike), all injury types combined, or numbers of injuries.
+Furthermore, linkages between intervention and outcome needed to have been made clear to allow for the effects of fish mortality/injury from entrainment and impingement to be isolated from other potential impacts of hydroelectric power production such as barriers to migration and/or habitat degradation. Studies were excluded where no clear linkage between intervention and outcome were identified (e.g., if fish density was surveyed up-and down-stream of a hydro dam but any difference or change in fish density could not be clearly attributed to impingement or entrainment in isolation of other effects). Fish passage/guidance efficiency studies that determined the number of fish that passed through a particular hydropower system, typically through a bypass or under differing operating conditions, were excluded if there was no explicit entrainment/impingement or injury/mortality assessment. Studies that investigated passage route deterrence and/or enhanced passage efficiency facilitated via behavioural guidance devices and techniques (e.g., bubble screens, lights, sound; reviewed in [25]) were excluded, except where mortality or injury was assessed.
+Language
+Only English-language literature was included during the screening stage.
+Study validity assessment
+All studies included on the basis of full-text assessment were critically appraised for internal validity (susceptibility to bias) using a predefined framework (see Table 2 for definitions of terms such as study). If a study contained more than one project (i.e., differed with respect to one or more components of critical appraisal; see Table 3), each project received an individual validity rating and was labelled in the data extraction table with letters (e.g., “Ruggles and Palmeter 1989 A/B/C” indicating that there are three projects within the Ruggles and Palmeter article). For example, sample size (i.e., the total number of fish released) was an internal validity criterion (Table 3). If a study conducted a project with a sample size of > 100 fish it received a different internal validity assessment label than a project that used < 50 fish. The critical appraisal framework (see Table 3) developed for this review considered the features recommended by Bilotta et al. [36] and was adapted to incorporate components specific to the studies that answer our primary question. The framework used to assess study validity was reviewed by the Advisory Team to ensure that it accurately reflected the characteristics of a well-designed study. The criteria in our critical appraisal framework refer directly to internal validity (methodological quality), whereas external validity (study generalizability) was captured during screening or otherwise noted as a comment in the critical appraisal tool. The framework was based on an evaluation of the following internal validity criteria: study design (controlled trial or gradient of intervention intensity including “zero-control”, or CI), replication, measured outcome (quantitative, quantitative approximation, semi-quantitative), outcome metric (a metric related to mortality, injury, productivity, or the number of fish entrained), control matching (how well matched the intervention and comparator sites were in terms of habitat type at site selection and/or study initiation, and sampling), confounding factors [environmental or other factors that differ between intervention and comparator sites and/or times, that occur after site selection and/or study initiation (e.g., flood, drought, unplanned human alteration)], and intra-treatment variation (was there variation within treatment and control samples). Each criterion was scored at a “High”, “Medium”, or “Low” study validity level based on the predefined framework outlined in Table 3. The study was given an overall “Low” validity if it scored low for one or more of the criteria. If the study did not score low for any of the criteria, it was assigned an overall “Medium” validity. If the study scored only high for all of the criteria, it was assigned an overall “High” validity. This approach assigns equal weight to each criterion, which was carefully considered during the development of the predefined framework. Reviewers did not critically appraise studies for which they were an author.
+Table 2 Definitions of terms used throughout the systematic review
+Full size table
+Table 3 Critical appraisal tool for study validity assessment
+Full size table
+Study validity assessments took place at the same time as data extraction and were performed by two reviewers (DAA and W. Twardek). For each study, one reviewer would assess study validity and extract the meta-data. However, a consistency check was first undertaken on 7.8% (8/104) of articles by three reviewers (DAA, WT, and TR). Validity assessments and meta-data on these studies were extracted by all three reviewers. Before DAA and WT proceeded independently and on their own subsets of the included studies, discrepancies were discussed and, when necessary, refinements to the validity assessment and meta-data extraction sheets were made to improve clarity on coding. Reviewers did not critically appraise studies for which they were an author. No study was excluded based study validity assessments. However, a sensitivity analysis was carried out to investigate the influence of study validity categories (see “Sensitivity analyses” below).
+Data coding and extraction strategy
+General data-extraction strategy
+All articles included on the basis of full-text assessment, regardless of their study validity category, underwent meta-data extraction. Data extraction was undertaken using a review-specific data extraction form given in Additional file 3. Extracted information followed the general structure of our PICO framework (Population, Intervention, Comparator, Outcome) and included: publication details, study location and details, study summary, population details, intervention and comparator details, outcome variables, etc. The number of fish injured, the number of fish killed, and the number of fish entrained/impinged were treated as continuous outcome variables. We further subgrouped the mortality outcome into immediate mortality (i.e., mortality was assessed ≤ 1 h after recapture was in the tailrace i.e., immediately below intervention), and delayed mortality [i.e., mortality was (re)assessed > 1 h after recapture and/or recapture was beyond the tailrace, i.e., further downstream of intervention]. Immediate mortality was used to capture the direct, lethal impact of the intervention, while delayed mortality allowed understanding of the potential indirect, lethal impacts (e.g., mortality as a result of infection or disease following injury from intervention some time later). In some cases, post-passage delayed mortality can be indirectly attributed to factors other than the hydropower infrastructure itself (e.g., predation after injury). When explicitly reported, delayed mortality from sources not directly attributed to hydropower infrastructure was excluded at the data extraction stage. Supplementary articles (i.e., articles that reported data that could also be found elsewhere or contained portions of information that could be used in combination with another more complete source) were identified and combined with the most comprehensive article (i.e., primary study source) during data extraction (Additional file 3). Data on potential effect modifiers and other meta-data were extracted from the included primary study source or their supplementary articles whenever available.
+In addition, all included articles on the basis of full-text assessment, regardless of their study validity category, underwent quantitative data extraction. Sample size (i.e., total number of fish released) and outcome (number of fish injured, killed, or entrained/impinged), where provided, were extracted as presented from tables or within text. When studies reported outcomes in the form of percentages, we converted this metric into a number of fish killed or injured, when the total number of fish released was provided. For studies that reported survival (e.g., number of fish that successfully passed through intervention) or detection histories from telemetry studies (i.e., number of detections), we converted these into the number of fish killed (assumed mortality) by subtracting the reported response from the total number of fish released. For fish injury, we extracted the total number of fish injured, regardless of injury type [i.e., if data were provided for > 1 injury type (e.g., descaled, bruising, eye injuries, etc.) the number of fish with any injury was extracted]. When multiple injuries were reported separately, we extracted the most comprehensive data available for a single injury type and noted the relative proportions/frequencies in the data extraction form (see Additional file 3). For delayed mortality responses, a cumulative outcome value was computed (i.e., the total number of fish killed from the entire assessment period—immediate time period + delayed time period). Data from figures were extracted using the data extraction software WebPlotDigitizer [37] when necessary.
+Data extraction considerations
+We found defining a ‘study’ in our review challenging as there was no clear distinction in the evidence base between studies and experiments (see Table 2 for definitions of terms). This was often because a single article could report multiple investigations within a single year [e.g., various changes in operational conditions (alone or in combination), various life stages or sources of released fish for the same or different species], or over multiple years. Often, at any one site, investigations conducted over multiple years could be reported within the same article, within different articles by the same authors, or by different authors in different articles (e.g., results from a technical report for a given time period are included in another publication by different authors conducting a similar updated study at the same site). In such cases, it was not always easy to discern whether the same investigations were repeated across years or whether the investigations were in fact changed (e.g., slight modifications in operational conditions were made). During data extraction, we diligently removed many duplicate sources of data when we were able to identify this information (i.e., overlapping data). However, this was an inherently challenging task due to the lack of detail in the study reports. As such, during data extraction there were a number of considerations made in defining our database of information.
+Site
+Each hydroelectric facility and research laboratory/testing facility (i.e., where lab studies were conducted), were given a “Site ID”. If a single article reported data separately for different hydroelectric facilities within the same or different waterbodies, we regarded these data as independent and assigned each study a separate “Site ID”.
+Study
+If at a given site (i.e., hydroelectric facility or laboratory), evaluations of responses were conducted for different: (1) operational conditions (e.g., turbine discharge, wicket gate opening width, dam height); (2) modifications of a specific intervention (e.g., number of turbine runner blades); or (3) depth at fish release; we considered these separate studies and each were given a “Study ID”. We regarded these as separate studies since independent releases of fish were used i.e., different fish were released in each release trial (if more than one trial conducted) within each study.
+If at a given site, evaluations of responses were conducted for different interventions (e.g., mortality at turbines and at spillways), we only considered these separate studies if the fish were released separately for each intervention (i.e., different release points immediately above the intervention under evaluation, within the same or different years). When studies released a group of fish at a single location above all interventions, and the outcomes came from route-specific evaluations, these were considered the same study and received the same Study ID.
+Data set
+A single study could report separate relevant comparisons (i.e., multiple non-independent data sets that share the same Site ID) for different species, and/or the same species but responses for different outcomes (i.e., mortality, injury, number of fish entrained/impinged). Furthermore, a single study could report a mortality response for the same species but separately for: (1) immediate mortality [i.e., spatial assessment was conducted just after intervention (in the tailrace) and/or the mortality assessment was conducted ≤ 1 h after release], and (2) delayed mortality (i.e., spatial assessment was conducted beyond the tailrace and/or the mortality assessment was conducted > 1 h after release) but otherwise the same for all other meta-data. For quantitative synthesis, we treated these comparisons as separate data sets (i.e., separate rows in the database that share the same Site ID).
+If authors reported responses for the same species for the same outcome category in a single study but separately for different: (1) life stages (e.g., the mortality of juveniles for species A, and the mortality of adults for species A); and/or (2) sources of fish (i.e., hatchery, wild, stocked sourced) and otherwise the same for all other meta-data, we extracted these as separate data sets for the database. Furthermore, if the same study (e.g., same operating condition) was conducted in multiple years at the same site, meta-data (and quantitative data when available) were extracted separately for each and given the same Study ID. For quantitative analyses, we aggregated these data sets to reduce non-independence and data structure complexity (see Additional file 4: Combining data across subgroups within a study).
+Potential effect modifiers and reasons for heterogeneity
+For all articles included on the basis of full-text assessment, we recorded, when available, the following key sources of potential heterogeneity: site type (laboratory or field-based studies), intervention type [i.e., turbine, spillway, sluiceway, water bypass, dam, general infrastructure, exclusionary/diversionary installations (e.g., screens, louvers, trash racks), and any combination of these interventions; see Table 1 for definitions], turbine type (e.g., Kaplan, Francis, S-turbine, Ossberger), hydro dam head height (m), fish taxa (at the genus and species level), life stage [egg (zygotes, developing embryos, larvae), age-0 (fry, young-of-the-year), juvenile (age-1), adult, mixed stages)], fish source [i.e., hatchery (fish raised in a hatchery environment and released into system), wild (fish captured/released that originate from the source waterbody), stocked (fish captured/released that were from the source waterbody but originated from a hatchery)], sampling method [i.e., telemetry, mark-recapture, net samples, visual, in-lab, passive integrated transponder tags (PIT tags)], and assessment time (h). Potential effect modifiers were selected with consultation with the Advisory Team. After consultation with the Advisory Team, there were effect modifiers that were originally identified in our protocol that were removed from data extraction for this review. Due to limitations in time and resources, we did not search external to the article for life history strategies, fish body size/morphology, or turbine size, as they were often not reported within the primary articles. Also, we did not include study design or comparator type since there was little variation across these variables [(e.g., all studies either used a control trial or CI study design (i.e., there were no BA or BACI study designs]. When sufficient data were reported and sample size allowed, these potential modifiers were used in meta-analyses (see “Quantitative synthesis” below) to account for differences between data sets via subgroup analyses or meta-regression.
+Data synthesis and presentation
+Descriptive statistics and a narrative synthesis
+All relevant studies included on the basis of full-text assessments, were included in a database which provides meta-data on each study. All meta-data were recorded in a MS-Excel database (Additional file 3) and were used to generate descriptive statistics and a narrative synthesis of the evidence, including figures and tables.
+Quantitative synthesis
+Eligibility for quantitative synthesis
+Relevant studies that were included in the database were considered unsuitable for meta-analysis (and were therefore not included in quantitative synthesis) if any of the following applied:
+Quantitative outcome data were not reported for the intervention and/or comparator group(s);
+The total number of fish released was not reported for the intervention and/or comparator group(s);
+For route specific outcomes (i.e., studies that release a single group of fish upstream of hydroelectric infrastructure whereby fish can take different routes through/over such infrastructure), the total number of fish that took a specific route through hydroelectric infrastructure was zero.
+The outcomes for both intervention and control groups were zero resulting in an undefined effect size (see “Effect size calculation” below).
+For both intervention and control groups, all fish released were killed or injured resulting in an estimated sampling variance of zero (i.e., a division of zero in the equation to calculate typical within-study variance—see “Effect size calculation” below).
+Quantitative synthesis—data preparation
+Where zero values for outcomes were encountered (168 of 569 data sets) for either the intervention or control group, data were imputed by adding one to each cell in the 2 × 2 matrix to permit calculation of the risk ratio [i.e., a value of one was added to each of event (number of fish killed or injured) or non-event (number of fish that survived or uninjured) cells in each of the two group] [38]. Note, we performed a sensitivity analysis to investigate the influence of the value of the imputation by comparing results using a smaller value of 0.5 [39, 40] (see “Sensitivity analyses” below). Exceptions occurred when mortality/injury were both zero for the intervention (A) and control group (C) within a data set (i.e., A = C = 0; risk ratios are undefined) (73 data sets) or when mortality/injury were 100% for both the intervention and control group within a data set (4 data sets from a single study) [39] (see Additional file 5 Quantitative synthesis database).
+To reduce multiple effect sizes estimates from the same study—which is problematic because this would give studies with multiple estimates more weight in analyses—data sets were aggregated (see Additional file 4 for full description) in three instances when studies reported: (1) responses from multiple life stages separately within the same outcome and intervention subgroup (e.g., mortality of species A age-0 and juveniles separately) (20 studies); (2) responses from multiple sources for fish released separately within the same outcome and intervention subgroup for the same species (e.g., mortality of species A hatchery reared individuals and wild sourced individuals separately) (8 studies); and (3) when the same study (e.g., same operating condition) was conducted in multiple years at the same site, and all other meta-data were the same (22 studies).
+Furthermore, there were a number of instances of multiple group comparisons whereby studies used a single control group and more than one treatment group within a single study or across studies within an article. In such cases, the control group was used to compute more than one effect size, and in consequence, the estimates of these effect sizes are correlated. This lack of independence needed to be accounted for when computing variances (see Additional file 4: handling dependence from multiple group comparisons, for a full description and the number of cases).
+Effect size calculation
+Studies primarily reported outcomes in the form of the number of events (e.g., number of fish killed or injured) and non-events (e.g., number of fish that survived or uninjured). Thus, to conduct a meta-analysis of the quantitative data we used risk ratio (RR) as an effect size metric [41]:
+$$RR = \frac{{A/n_{1} }}{{C/n_{2} }}$$
+(1)
+Risk ratios compare the risk of having an event (i.e., fish mortality or injury) between two groups, A waterbodies or simulated lab settings whereby fish are exposed to infrastructure associated with hydroelectric facilities, and C waterbodies/simulated settings without this intervention (control group), and n1 and n2 were the sample sizes of group A and group C. If an intervention has an identical effect to the control, the risk ratio will be 1. If the chance of an effect is reduced by the intervention, the risk ratio will be < 1; if it increases the chance of having the event, the risk ratio will be > 1. Therefore, a risk ratio of > 1 means that fish are more likely to be killed or injured with passage through/over hydroelectric infrastructure than killed or injured by sources other than contact with hydroelectric infrastructure.
+Risk ratios were log transformed to maintain symmetry in the analysis, with variance calculated as [41]:
+$$V_{LogRiskRatio} = \frac{1}{A} - \frac{1}{{n_{1} }} + \frac{1}{C} - \frac{1}{{n_{2} }}$$
+(2)
+We acknowledge that risk can be expressed in both relative terms (e.g., risk ratio) as well as absolute terms [i.e., risk difference (RD)]. Relative risk provides a measure of the strength of the association between an exposure (e.g., fish exposed to infrastructure associated with hydroelectric facilities) and an outcome (e.g., fish injury/mortality) whereas absolute risk provides the actual difference in the observed risk of events between intervention and control groups. A concern with using relative risk ratios is that it may obscure the magnitude of the effect of the intervention [42], making in some situations, the effect of the intervention seem worse than it actually is. For instance, the same risk ratio of 1.67 (i.e., the risk of fish mortality was 67% higher in the intervention group compared to the control group) can result from two different scenarios, for example: (1) an increase in mortality from 40% in the control group to 66% in the intervention group (i.e., RD = 24%), or (2) an increase from 3% in the control group to 5% in the intervention group (i.e., RD = 2%). From these examples, we can see that absolute risk (i.e., RD) provides insight into the actual size of a risk, and can, in some situations provide additional context for hydropower managers and regulators to help inform their decisions. Therefore, we chose to base our quantitative synthesis on pooled estimates using risk ratio as our effect size measure; however, to provide additional insight on the magnitude of risk to help inform decision making, we also calculated the absolute risk difference for individual comparisons, carried out in raw units [41]:
+$$RD = \frac{A}{{n_{1} }} - \frac{C}{{n_{2} }}$$
+(3)
+With variance calculated as [41]:
+$$V_{RiskDifference} = \frac{AB}{{n_{1}^{3} }} + \frac{CD}{{n_{2}^{3} }}$$
+(4)
+where B and D are the number of non-events (e.g., number of fish that survived or uninjured) for the intervention and control groups, respectively. Note, only those studies that were considered suitable for meta-analysis using risk ratio were used to calculate summary effects using the risk difference. However, where zero values for outcomes were encountered for either the intervention or control group (as described under “Quantitative synthesis—data preparation ” above), data were not imputed by adding a value of one (or 0.5) since this was not necessary for risk difference calculations.
+Quantitative synthesis—meta-analysis
+To determine whether fish passing through/over infrastructure associated with hydroelectric facilities increased, on average, the risk of mortality or injury compared to controls, we first conducted random-effects meta-analyses using restricted maximum-likelihood (REML) to compute weighted average risk ratios for each outcome separately [i.e., injury (k = 104 effect sizes), immediate mortality (k = 162), and delayed mortality (k = 256)]. In each model, data from all intervention types and all temperate freshwater fish were combined. To further account for multiple data sets from the same study site (i.e., different studies or species), Study ID nested within Site ID was considered a random factor in each analysis. All summary effects (and associated 95% confidence intervals) were converted back to, and reported as, risk ratios [i.e., RR = exp(LogRiskRatio)]. Heterogeneity in effects was calculated using the Q statistic, which was compared against the χ2 distribution, to test whether the total variation in observed effect sizes (QT) was significantly greater than that expected from sampling error (QE) [43]. A larger Q indicates greater heterogeneity in effects sizes (i.e., individual effect sizes do not estimate a common population mean), suggesting there are differences among effect sizes that have some cause other than sampling error. We also produced forest plots to visualize mean effect sizes and 95% confidence intervals from individual comparisons. Mean effect sizes were considered statistically significant if their confidence intervals did not include an RR = 1. We also analyzed the impacts of fish entrainment and impingement associated with hydroelectric dams separately on outcomes for the select few taxonomic groups (at the genus and species level) when there were sufficient sample size to do so.
+As risk ratios may not be easily interpretable, we also calculated the percent relative effect (i.e., the percent change in the treatment group), whereby the control group was regarded as having a 100% baseline risk and the treatment group was expressed relative to the control: % increase (when RR > 1) = (RR − 1) × 100. For example, fish passing through turbines had a 320% increase in risk of mortality versus the risk of mortality in control fish released downstream of any hydroelectric infrastructure (100%). Also, as noted above, to provide additional context on the magnitude of risk, we report weighted average absolute risk differences, estimated following the same methods outlined in the paragraph immediately above as for estimating weighted average risk ratios. Because complex analyses beyond estimating summary effects using the risk difference are not recommended (i.e., investigating heterogeneity with moderators e.g., meta-regression) [38], we accompany pooled risk ratios with pooled absolute risk differences and 95% confidence intervals for main summary effects only (i.e., for each outcome, intervention type, and genus separately).
+We examined the robustness of our models by analyzing for publication biases in two ways. First, we used visual assessments of funnel plots (i.e., scatter plots of the effect sizes of the included studies versus a measure of their precision e.g., sample size, standard error, or sampling variance) [44]. Here, we produced funnel plots using 1/standard error. In the absence of publication bias, the funnel plot should resemble an inverted funnel. In the presence of publication bias, some smaller (less precise) studies with smaller effect sizes will be absent resulting in an asymmetrical funnel plot [45]. Second, we used Egger’s regression test to provide more quantitative examinations of funnel plot asymmetry [46].
+To test for associations between effect size and moderators, we used mixed-effects models for categorical moderators and meta-regression for continuous moderators, estimating heterogeneity using REML. We first evaluated the influence of intervention type on each outcome subgroup separately. Then, we tested for associations between other moderators (i.e., turbine type, hydro dam head height, site type, life stage, fish source, sampling method, assessment time) and effect sizes within intervention type subsets. We tested for associations within intervention subsets for two reasons. First, many moderators of interest were related to specific intervention types (e.g., turbine type, hydro dam head height). To reduce potential confounding effect of intervention type, associations between other moderators and effect sizes were evaluated separately for different interventions. Second, since information on all moderators was not always provided in articles (e.g., assessment time was not reported in all studies) and the distribution of moderators varied substantially between intervention types, we removed effect sizes with missing information and tested for associations within intervention type subsets.
+Before examining the influence of moderators within intervention subsets, we made the following modifications to our coding to reduce the number of studies we needed to exclude. First, since there was only a single case where juveniles and adult life stages were used together, we added this category to the mixed life stage category (applicable for the immediate mortality analysis only). Second, we combined studies that used mark-recapture sampling gear and methods (e.g., fin clips, balloon tags, or PIT tags for identification only, with or without netting) with netting alone methods (e.g., a known number of unmarked fish were released and recaptured in netting downstream of intervention(s)) into a single category (i.e., recapture). For studies that used telemetry (radio, acoustic, or PIT tags for remote tracking) either alone or in combination with any other category, we combined them into a single category (i.e., telemetry). Third, assessment time was categorized into three time periods: (1) < 24 h; (2) ≥ 24–48 h; and (3) > 48 h. Fourth, we included data sets that evaluated impacts of turbines + trash racks into the turbine intervention category (for immediate fish mortality only).
+We conducted χ2 tests to assess independence of moderators for each intervention separately. When moderators within an intervention subset were confounded, and/or the distribution between moderator categories was uneven, we avoided these problems by constructing independent subsets of data in a hierarchical approach. For example, within the immediate mortality outcome subgroup, there were no wild sourced fish used in studies conducted in a lab setting; therefore, the influence of fish source on effect size was investigated within the subset of field-based studies only.
+Where there was sufficient sample size within each of the subsets to include a moderator, we included the moderator into the model individually, and in combination when possible. We restricted the number of fitted parameters (j) in any model such that the ratio k/j, where k is the number of effect sizes, was > 5, which is sufficient in principle to ensure reasonable model stability and sufficient precision of coefficients [47]. Selection between the models (including the null model, i.e., a random-effects model with no moderator) was evaluated using sample-size-corrected Akaike Information Criterion (AICc) (i.e., based on whether the mixed-effects model(s) had a lower AICc than the null model) and accompanied by corresponding QE (test statistic of residual heterogeneity) and QM (heterogeneity explained by the model). The statistical significance of QM and QE were tested against a χ2 distribution. We only performed analyses on categorical moderators where there were sufficient combinable data sets (i.e., > 2 data sets from ≥ 2 sites). Thus, in some cases, we either combined similar categories to increase the sample size (detailed in results below) or deleted the categories that did not meet the sample size criteria. The single continuous moderator variable, hydro dam head height, was log-transformed to meet test assumptions.
+Sensitivity analyses
+Sensitivity analyses were carried out to investigate the influence of: (1) study validity categories; (2) imputing data (i.e., a value of one) to each cell in the matrix to permit calculation of the risk ratio where zero values for outcomes were encountered; (3) imputing a different value (i.e., 0.5) to each cell in the matrix to permit calculation of the risk ratio where zero values for outcomes were encountered; (4) multiple group comparisons where a single control group was compared to more than one intervention type within the same study and outcome subgroup, and (5) converting studies that reported survival (e.g., number of fish that successfully passed through intervention) or detection histories from telemetry studies (i.e., number of detections) into the number of fish killed (assumed mortality). First, models were fit using just those studies assessed as being “Medium” or “High” validity. Given that there were only two criteria for which a “Medium” score could be applied, and the relatively small differences between a “Medium” and “High” score for these criteria, we merged these two categories for the sensitivity analysis i.e., we assigned an overall “Medium/High” category all studies that did not score low for any criteria. Second, separate models were fit using only those studies that did not require computational adjustments during initial data preparation. Third, separate models were fit using all data sets calculated from imputing a value of 0.5 rather than one for risk ratios where zero values for outcomes were encountered. Fourth, separate models were fit using data sets that did not include multiple group comparisons. Lastly, models were fit using only those studies that did not require a conversion from fish survival or detection to assumed mortality by subtracting the reported response from the total number of fish released (only applicable for immediate and delayed mortality outcomes). In all five sets of analyses, the results were compared to the overall model fit to examine differences in pooled effect sizes. All meta-analyses were conducted in R 3.4.3 [48] using the rma.mv function in the metafor package [49].
+Review findings
+Review descriptive statistics
+Literature searches and screening
+Searching five databases and Google Scholar resulted in finding 3121 individual records, of which 2418 articles remained after duplicate removal (Fig. 1). Title and abstract screening removed 1861 articles, leaving 557 articles for full-text screening. Full-text screening removed 418 articles, and 32 articles were unobtainable due to either insufficient citation information provided within the search hit, or they could not be located through internet, library, or inter-library loan sources. Unobtainable articles and articles excluded at full-text screening are listed with an exclusion decision in Additional file 2. A total of 107 articles were included for data extraction from database and Google Scholar searches. Screening bibliographies of relevant reviews identified at title and abstract or full-text screening resulted in an additional 99 articles included (~ 85% of which were grey literature sources that were not picked up by our database searches e.g., government reports, and theses). Full-text screening of grey literature sources from website searches and submissions via social media/email resulted in no additional articles for data extraction.
+Fig. 1
+ROSES flow diagram [50] showing literature sources and inclusion/exclusion process
+Full size image
+A total of 206 articles were initially included for data extraction. During data extraction, one article was excluded for an irrelevant intervention and 89 articles were excluded for having an impact-only study design (i.e., treatment-only, no comparator; Fig. 1 and Additional file 2). Further, 29 articles were identified as having overlapping data and/or projects (listed as Supplementary Articles in Additional file 3), resulting in a total of 87 articles with 264 studies included in the narrative synthesis. Of these, 75 articles with 222 studies were included in quantitative synthesis.
+Sources of articles used for data extraction
+A total of 60 grey literature (i.e., government/consultant reports, conference proceedings, book chapters) and 27 commercially published articles published throughout 1952–2016 were included for data extraction and quality assessment (Fig. 2). Grey literature accounted for a higher frequency of included articles in all decades with the exception of the current decade. Grey and commercially published literature published between 2000 and 2009 represented the greatest proportion of articles (29%), followed by those published in the 1990s (23%) and the 1980s (16%).
+Fig. 2
+Frequency of grey and commercially published literature included for data extraction and critical assessment in each decade
+Full size image
+Study validity assessment
+Validity assessments were conducted for 128 individual projects identified from the 264 studies included (Additional file 6). Over half of the projects were assigned an overall “Low” validity (53%), whereas projects assigned overall “High” and “Medium” validity accounted for 30% and 17%, respectively. All projects critically appraised employed a CI design. Most projects (93%) reported quantitative data on fish mortality/injury relative to an appropriate control (98%) and satisfied the various performance bias criteria (Table 4). However, many projects were assigned a “High” ranking in one (or several) categories, but many of these projects received a “Low” ranking for confounding sampling, habitat, and environmental factors, consequently resulting in the increased proportion of overall “Low” ranked projects (see Table 4; Additional file 6). For example, a project assessed as meeting the criteria for a “High” ranking with exception of receiving a “Low” ranking in performance and sample bias because there was heterogeneity within treatment and control samples (e.g., environmental conditions or operating conditions varied during turbine releases).
+Table 4 Results of study validity assessment using the critical appraisal tool (see Table 3)
+Full size table
+The frequencies of overall “High”, “Medium”, and “Low” ranked studies varied over time (Fig. 3). The 1960s, 1990s, and 2000–2009 decades produced the most “High” and “Medium” ranked studies, and “High” and “Medium” ranked studies accounted for most of the studies conducted in these decades (77%, 75%, and 62%, respectively). The 1980s, 2000–2009, and 2010–2016 decades produced the most overall “Low” ranked studies. Within the 1970s, 1980s and 2010–2016, “Low” ranked studies accounted for most of the studies conducted in these decades (75%, 71%, and 75%, respectively).
+Fig. 3
+Frequency of studies within a given time-period in relation to study validity. Critical assessment criteria are outlined in Table 4
+Full size image
+Narrative synthesis
+The narrative synthesis was based on 264 studies from 87 articles. Descriptive meta-data, coding, and quantitative data extracted from these studies can be found in Additional file 3.
+Study location
+Studies included in the narrative were conducted in five countries in the north temperate zone and two countries in the south temperate zone. The vast majority of studies were conducted in North America (97%), with the United States (93%) and Canada (4%) accounting for the highest and second highest number of studies. The remaining 3% of studies were conducted in European (France, Germany, Sweden) and Oceania (Australia and New Zealand) regions. Most studies were field based (75%), conducted at 46 sites (i.e., dams), with most sites located in the United States (78%; Table 5). Lab studies, conducted at four research centers based in the United States, accounted for 24% of the studies.
+Table 5 Site name, location, setting, and number of included studies
+Full size table
+Population
+Mortality/injury from entrainment/impingement was investigated in 35 species spanning 24 genera and 15 families (Fig. 4). The majority of studies were conducted on the Salmonidae family from genera Oncorhynchus (259 studies), Salmo (6 studies), and Salvelinus (6 studies). Anadromous fish represented just under 30% of the species included in the narrative but accounted for the bulk of the studies. Numerous resident (47% of species studied) and other migratory species (e.g., catadromous, potamodromous, 26% of species studied) were included but contributed far fewer studies. The most frequently studied species were Pacific salmonids (Oncorhynchus spp.) including Chinook Salmon (O. tshawytscha, 142 studies), Rainbow Trout/steelhead (O. mykiss, 76 studies), and Coho Salmon (O. kisutch, 42 studies). The most common non-salmonid species studied were American Shad (Alosa sapidissima, 11 studies), Pacific Lamprey (Entosphenus tridentatus, 10 studies), Bluegill (Lepomis macrochirus, 9 studies) American Eel (Anguilla rostrata, 6 studies), and Blueback Herring (Alosa aestivalis, 5 studies). Most species (25 species) contributed < 5 studies.
+Fig. 4
+Frequency of studies contributed by 11 families and 15 genera
+Full size image
+Most studies were conducted on juvenile fish (e.g., yearlings, smolts, 224 studies; Fig. 5). Hatchery and wild juvenile fish (179 and 34 studies, respectively) were the most commonly studied. Wild fish accounted for most studies of adult fish (8 of 10 studies), and very few studies were conducted on larval stages (3 studies).
+Fig. 5
+The frequency of studies in relation to the life history stage and source of fish used. Fish used in the studies were wild-type (Wild), originated from a hatchery (Hatchery), or were from the source waterbody but originated from a hatchery (Stocked). Age-0 less than 1 year old, Juvenile greater than 1 year old or when specified as juveniles, Larval egg and larval development stages, Mixed a mixture of life history stages
+Full size image
+Intervention
+Fish entrainment/impingement was studied for a variety of hydropower intervention types including turbines, spillways, bypasses, and exclusionary/diversionary installations (e.g., screens, louvers, trash racks). The most common intervention type studied was turbines (173 studies), followed by spillways (34 studies; Fig. 6). The “general” intervention type (i.e., where specific infrastructure was not isolated but entrainment/impingement was attributable to hydropower infrastructure) accounted for 33 studies. Intervention types included in the narrative but not commonly studied in isolation were exclusionary/diversionary installations, the dam, fish ladders, and outlet works. Some studies applied an intervention in combination with one or more other interventions. A combination of interventions (e.g., turbine and trash rack, spillway and removable weir) was used in six turbine studies, eight spillway studies, and seven bypass studies.
+Fig. 6
+Frequency of intervention types used in studies. Combination: when a study assessed entrainment/impingement using additional intervention types (e.g., screen, sluice, trash rack) in combination with the single intervention type
+Full size image
+Several turbine types were studied, with Kaplan turbines being the most common (81 studies) followed by Francis turbines (41 studies) (Fig. 7). Other turbines [Advanced Hydro Turbine System (AHTS), bulb, S-turbine, and Ossberger] were used in six studies. Very low head (VLH) hydraulic and rim-drive turbines were only used in a single study each. Pressure chambers that simulate passage through Kaplan or Francis turbines were used in 14 studies.
+Fig. 7
+Frequency of turbine type. Simulated: pressure chamber simulating turbine passage through a Kaplan or Francis turbine; AHTS: Advanced Hydro Turbine System. Note: some studies with turbine as the intervention type did not specify the turbine type used (34 studies)
+Full size image
+Study design and comparator
+All 264 studies from the 87 articles included in the narrative used a CI design. Impact-only articles (i.e., those with no comparator; I-only) were included at full text screening but excluded during data extraction (89 articles; see Additional file 3). Some articles included both CI and I-only datasets; I-only datasets were removed during data extraction.
+Comparator types included fish released downstream of an intervention (e.g., tailrace releases), and handling/holding (e.g., fish handled and placed into a holding tank). Downstream comparators, the most frequently used comparators, were most commonly used in field-based studies (194 studies). Only 15 field studies used handling/holding comparators, whereas all lab-based studies used handling/holding comparators (70 studies).
+Outcomes
+The most frequently reported measured outcome was mortality (252 studies). Injury was reported in 128 studies, and number of fish entrained/impinged was reported in 3 studies. Delayed mortality (210 studies) was more frequently reported than immediate mortality (assessed < 1 h after recapture; 159 studies). Mark-recapture sampling gear and methods (e.g., nets, fin clips) were the most frequently used for assessing mortality (114 studies) and injury (44 studies) compared to tagging gear (e.g., telemetry) which was used in 21 and 15 studies for mortality and injury assessment, respectively. The most common injury type reported was descaling. When not specified, injuries were reported as mechanical, pressure, shear, major or minor. Lab studies most frequently investigated barotrauma injuries. For relative proportions of injury types reported in the studies see Additional file 3. Delayed mortality assessment time varied from 2 h to several days. Delayed mortality was most frequently assessed between 24 and 48 h (91 studies) or greater than 48 h (66 studies; Fig. 8). Injury assessment time also varied but was typically assessed within 48 h.
+Fig. 8
+Study frequency for immediate mortality, delayed mortality, and injury in relation to common post-recapture assessment times
+Full size image
+Quantitative synthesis
+Description of the data
+Of the 264 studies (from 87 articles) included in the narrative synthesis, 222 studies (from 75 articles) with 522 data sets after aggregation were included in developing our quantitative synthesis database (Additional file 5).
+Of the 522 data sets used in Global meta-analyses below, 55% were assessed as having ‘High’ overall validity, 12% as having ‘Medium’ overall validity, and 33% as ‘Low’ overall validity.
+Data sets included in the quantitative synthesis were largely from North America (494), predominately from USA (475 of 494 data sets), followed by some from Oceania (18) and Europe (10). The majority of studies were field-based studies in rivers (72% of data sets), and the remaining were lab-based studies conducted in research facilities (28%).
+Among the 522 data sets, 104 data sets reported fish injuries, 162 data sets reported immediate fish mortality, and 256 reported delayed fish mortality (Table 6). The majority of studies on the impacts of fish entrainment and impingement were evaluations of turbines (67% of data sets), followed by general infrastructure, spillways, and turbines with trash racks (9%, 7%, and 6% of data sets respectively; Table 6). For all other interventions, impacts on fish responses were evaluated in ≤ 5% of data sets (Table 6).
+Table 6 The number of data sets for the three different outcomes by interventions
+Full size table
+Within the quantitative synthesis database, 31 species from 22 genera and 14 families were evaluated for impacts of fish entrainment and impingement. The most commonly evaluated species were from the Salmonidae family and included Chinook Salmon (203 data sets), Rainbow Trout/steelhead (133), and Coho Salmon (52).
+Studies reporting outcomes using juveniles (age 1 to smolt) as the life stage made up the largest portion (82.3% of data sets), whereas all other life stages were evaluated less frequently (eggs, age 0, age 0 + juveniles, juveniles + adults, adults, and mixed life stages, made up 3%, 4%, 2%, 0.2%, 3%, and 6% of data sets, respectively).
+Fish used in study evaluations of intervention impacts were primarily sourced from hatcheries (77% of data sets), followed by wild, mixed (i.e., a mixture of wild and hatchery), and stocked sourced fish (16%, 4%, and 2% of data sets, respectively).
+Information on the type of turbine used in evaluations was reported in 89% of turbine data sets, with the majority being Kaplan (43% of data sets) and Francis (37% of data sets) turbines. Hydro dam head height was reported in 54% of data sets involving spillways and ranged from 15.2 to 91.4 m.
+Various sampling methods were used to evaluate fish responses to interventions. All lab-based studies used visual methods (134 data sets), though some included mark-recapture methods (e.g., use of PIT tags for fish identification only; 13 data sets). For field-based studies, the majority used mark-recapture sampling gear and methods (e.g., fin clips, balloon tags, or PIT tags for identification only, with or without netting; 224 data sets) or telemetry methods (e.g., acoustic, radio, or PIT tags used for remote tracking; 115 data sets). Netting alone was also used but less frequently (36 data sets).
+Information on the assessment time for evaluating fish responses was reported in 84% of the data sets. Most data sets were short-term evaluations of the impacts of fish entrainment and impingement on fish responses, with 46% of the available data sets reporting assessment times < 24 h after fish were released. We found data sets reporting longer-term evaluations, with 32% of the available data sets reporting fish responses within ≥ 24–48 h after fish were released, and 22% of data sets reported data more than 48 h after fish were released.
+Global meta-analyses
+Fish injury
+The pooled risk ratio for fish injury was 3.17 (95% CI 1.74, 5.78; Fig. 9, Table 7A, and Additional file 7: Figure S1) indicating an overall increase in risk of fish injuries with passage through/over hydroelectric infrastructure relative to controls (i.e., 217% increase in risk over and above the risk in the control group). The forest plot for this meta-analysis suggested that a large number of cases (85 of 104 data sets) showed increased chances of fish injury relative to controls (i.e., 82% of studies had RRs > 1), with many of these individual comparisons being statistically significant (53 out of 85 cases had confidence intervals that did not include 1; Additional file 7: Figure S1). The Q test for heterogeneity suggested that there was substantial variation in effect sizes (Q = 2796.31, p < 0.0001). There was no obvious pattern of publication bias in either the funnel plot of asymmetry, or the Egger’s regression test (z = 0.31, p = 0.741; Additional file 7: Figure S2).
+Fig. 9
+Summary flow chart of meta-analyses and results addressing our two main research questions and appropriate subsets (dashed boxes). Boxes indicate potential effect modifiers or subset categories under consideration. Grayed effect modifiers were associated with fish injury or mortality responses. Underlined value indicates statistically significant effect. Subset categories in red indicate an overall average increase in risk of fish injury or mortality with passage through/over hydroelectric infrastructure relative to controls; green indicates an overall average decrease in risk of fish injury or mortality with passage through/over hydroelectric infrastructure relative to controls. k: number of data sets (i.e., effect sizes); RR: mean effect size; CI: 95% confidence interval
+Full size image
+Table 7 Summary statistics from main analyses based on the risk ratio (RR) and the risk difference (RD)
+Full size table
+The sensitivity analysis for medium/high validity studies indicated a higher pooled risk ratio compared to the overall meta-analysis [RR = 4.15 (95% CI 2.42, 7.11), k = 72, p < 0.0001], suggesting that this result may not be robust to differences in study validity as assessed by critical appraisal, i.e., higher validity studies may result in higher risk ratio estimates (Additional file 7: Figure S3). Studies that did not require zero cell adjustments, as well as studies that did not include multiple group comparisons had similar results to the overall meta-analysis; [RR = 2.61 (95% CI 1.57, 4.33), k = 71, p = 0.0002; RR = 3.68 (95% CI 2.12, 6.39), k = 102, p < 0.0001, respectively]. Furthermore, using a value of 0.5 for zero cell adjustments yielded similar results to the overall meta-analysis using a data imputation of one [RR = 3.31 (95% CI 1.83, 5.99), k = 104, p < 0.0001]. These sensitivity analyses suggested that this result may be robust to computational adjustments made in initial data preparation, and the inclusion of a single study that compared two intervention types with a single control group (Additional file 7: Figures S4–S6).
+Immediate fish mortality
+The pooled risk ratio for immediate mortality was 3.35 (95% CI 2.38, 4.69; Fig. 9 and Table 7A), indicating an overall increase in risk of fish mortality immediately following passage through/over hydroelectric infrastructure relative to controls (i.e., 235% increase in risk over and above the risk in the control group). The forest plot for this meta-analysis suggested that 90% of studies (145 of 162) showed increased chances of fish mortality relative to controls (i.e., RRs > 1), with many of these studies having significant effect sizes (106 out of 145 cases) (Additional file 7: Figure S7). However, the Q test for heterogeneity suggested that there was significant heterogeneity between effect sizes (Q = 11,684.88, p < 0.0001). Funnel plots of asymmetry suggested possible evidence of publication bias towards studies showing increased chances of fish mortality relative to controls (Additional file 7: Figures S8, S9). Egger’s regression test further supported this assessment (z = 4.58, p < 0.0001). Removing two outliers did not improve bias estimates (z = 4.51, p < 0.0001). Interestingly, when separating commercially published studies from grey literature studies, evidence of publication bias was only present in the latter (z = 0.74, p = 0.458, k = 18, and z = 4.65, p < 0.0001, k = 144, respectively).
+The meta-analysis based only on medium/high validity studies had a similar result to the overall meta-analysis [RR = 3.26 (95% CI 2.25, 4.73); k = 123, p < 0.0001], suggesting that this result may be robust to differences in study validity (Additional file 7: Figure S10). Furthermore, no evidence of bias was apparent from sensitivity analysis of studies that did not require computational adjustments in initial data preparation [RR = 3.03 (95% CI 2.08, 4.40); k = 108, p < 0.0001], as well as studies that did not include multiple group comparisons [RR = 3.01 (95% CI 2.17, 4.16); k = 155, p < 0.0001; Additional file 7: Figures S11, S12]. We could not obtain a pooled risk ratio using a value of 0.5 for zero cell adjustments due to instability of model results, because the ratio of the largest to smallest sampling variance was very large. The analysis based on studies that did not require a conversion from fish survival or detection to assumed mortality showed a higher pooled risk ratio compared to the overall meta-analysis [RR = 4.52 (95% CI 3.08, 6.63), k = 119, p < 0.0001]. Thus, this result may not be robust to conversions made to outcome metrics i.e., studies that measure actual fish mortality, instead of inferred mortality from survival estimates or detection histories, may result in higher risk ratio estimates (Additional file 7: Figure S13).
+Delayed fish mortality
+A pooled risk ratio for delayed fish mortality was not obtained due to instability of model results, because the ratio of the largest to smallest sampling variance was very large. Model instability also precluded our ability to test for associations between pooled risk ratios for delayed fish mortality and moderators.
+Effects of moderators on fish injury
+To address the question, to what extent does intervention type influence the impact of fish entrainment and impingement, there were only sufficient sample sizes (i.e., > 2 data sets from ≥ 2 sites) to include the following interventions for fish injury: (1) Turbines; (2) General infrastructure; (3) Bypasses; and (4) Spillways (Fig. 9).
+Intervention type was associated with pooled risk ratios (Table 8A), with spillways and turbines associated with higher risk ratios than general infrastructure and water bypasses for fish injury (792% and 406% increase vs. 250% increase and 82% decrease, respectively; Figs. 9 and 10, and Table 7B).
+Table 8 Associations between moderators and effect sizes for the subset of studies for fish injury
+Full size table
+Fig. 10
+Weighted pooled risk ratios by interventions for fish injury responses. Values in parentheses are the number of effect size estimates. Error bars indicate 95% confidence intervals. A mean RR value > 1 (right of the dashed line) indicates an overall increase in risk of fish injury with passage through/over hydroelectric infrastructure relative to controls. 95% confidence intervals that do not overlap with the dashed line indicate a significant effect. General: general infrastructure associated with more than one component of a hydroelectric facility
+Full size image
+Turbines
+There were only sufficient sample sizes and variation to permit meaningful tests of the influence of the following moderators: (1) Site type; (2) Fish source; (3) Assessment time. None of the factors were found to be confounded (Additional file 8: Table S1A).
+Site type was associated with average risk ratios (Table 8B), with studies conducted in a lab setting associated with higher risk ratios than field-based studies relative to controls (718% vs. 182% increase, respectively; Figs. 9 and 11). Assessment time was marginally associated with average risk ratios (Table 8B), with longer assessment time periods (≥ 24–48 h) associated with higher risk ratios than shorter duration assessment periods (< 24 h) (890% vs. 268% increase, respectively; Figs. 9 and 11). No detectable association was found between fish source and average effect sizes. The model including both site type and assessment time was more informative than any univariate model (Table 8B). However, there was still significant heterogeneity remaining in all moderated models (Table 8B).
+Fig. 11
+Weighted pooled risk ratios for fish injury for different site types and assessment times for studies involving turbines. See Fig. 10 for explanations
+Full size image
+General infrastructure
+For the quantitative synthesis, “general infrastructure” primarily included studies that simulated the effects of shear pressure during fish passage through turbines, spillways, and other infrastructure in a lab setting (e.g., [51, 52]). There was only sufficient sample size within life stage (eggs or juveniles) and assessment time (≥ 24–48 or > 48 h) to investigate the influence of modifiers on the impact of general infrastructure for fish injury. We only found a detectable association with average effect sizes and life stage (Table 8C), with the juvenile life stage associated with higher risk ratios than the egg life stage relative to controls (312% vs. 9% increase, respectively; Figs. 9 and 12).
+Fig. 12
+Weighted pooled risk ratios for fish injury for different life stages for studies involving general infrastructure. See Fig. 10 for explanations
+Full size image
+Bypasses
+The influence of factors was not investigated owing to inadequate sample sizes (Fig. 9).
+Spillways
+The influence of factors was not investigated owing to inadequate sample sizes (Fig. 9). The majority of spillway studies included chute and freefall designs and tended to focus on enumerating mortality rather than injury.
+Effects of moderators on Immediate fish mortality
+To address the question, to what extent does intervention type influence the impact of fish entrainment and impingement, there were only sufficient sample sizes (i.e., > 2 data sets from ≥ 2 sites) to include the following interventions for immediate mortality: (1) Turbines; (2) General infrastructure; (3) Bypasses; (4) Spillways, and (5) Sluiceways (Fig. 9).
+Intervention type was associated with pooled risk ratios for immediate fish mortality (Table 9A), with general infrastructure, turbines, and sluiceways associated with higher risk ratios than spillways and water bypasses (371%, 283%, and 261% increase vs. 101 and 11% increase, respectively) (Figs. 9 and 13, and Table 7B).
+Table 9 Associations between moderators and effect sizes for the subset of studies for immediate fish mortality
+Full size table
+Fig. 13
+Weighted pooled risk ratios by interventions for immediate fish mortality responses. See Fig. 10 for explanations. General: general infrastructure associated with more than one component of a hydroelectric facility
+Full size image
+Turbines
+There were only sufficient sample sizes to permit meaningful tests of the influence of the following factors: (1) Site type; (2) Source; (3) Life stage; and (4) Sampling method. Due to uneven distributions between fish source and sampling method categories, the influence of fish source and sampling method on effect size was investigated within the subset of field-based studies only (see below).
+Site type was associated with average risk ratios (Table 9B), with lab-based studies having higher risk ratios than to field-based studies (1776% vs. 247% increase, respectively) (Figs. 9 and 14). No detectable association was found between life stage and average risk ratios (Table 9B). There was still significant heterogeneity remaining in all moderated models (Table 9B).
+Fig. 14
+Weighted pooled risk ratios for immediate fish mortality for different site types for studies involving turbines. See Fig. 10 for explanations
+Full size image
+Within the subset of field-based turbine studies, there were adequate sample sizes to evaluate the influence of turbine type, sampling method, and fish source. Due to uneven distributions within sampling methods and fish source for different turbine types (i.e., there was no telemetry sampling methods or wild sourced fish used with Francis turbines) (Additional file 8: Table S2B), the influence of sampling method and fish source was evaluated within Kaplan turbines only (below). However, within the field-based subset, there was a detectable association between turbine type and average risk ratios (Table 9C), with Francis turbines having higher risk ratios than Kaplan turbines (522 vs. 144% increase, respectively; Figs. 9 and 15a).
+Fig. 15
+Weighted pooled risk ratios for immediate fish mortality for studies conducted in the field using different a turbine types and b sources of fish for Kaplan turbines. See Fig. 10 for explanations
+Full size image
+For the subset of Kaplan turbine studies, the magnitude of immediate mortality responses to turbines relative to controls varied with fish source (Table 9D), with wild sourced fish having higher risk ratios than hatchery sourced fish (Figs. 9; 15b). No detectable association was found between sampling method and average risk ratios (Table 9B). A model including fish source and sampling method was only slightly more informative than the univariate model including fish source (Table 9D).
+General infrastructure
+The influence of factors was not investigated owing to inadequate sample sizes (Fig. 9).
+Bypasses
+The influence of factors was not investigated owing to inadequate sample sizes (Fig. 9).
+Sluiceways
+The influence of factors was not investigated owing to inadequate sample sizes (Fig. 9).
+Spillways
+The influence of factors was not investigated owing to inadequate sample sizes (Fig. 9). Although small sample sizes precluded testing potential reasons for variation in fish mortality from spillways, other variables not tested in our analyses such as spillway height and design, use of energy dissipators, downstream water depth, and presence of rock outcrops at the base of the spillway outflow are known to be important for spillway related mortality [53, 54].
+Taxonomic analyses
+There were only sufficient sample sizes to investigate impacts of hydroelectric infrastructure on outcomes of five temperate freshwater fish genera: (1) Alosa (river herring; injury, immediate and delayed mortality outcomes); (2) Anguilla (freshwater eels; delayed mortality only); (3) Lepomis (sunfish; injury only); (4) Salmo (Atlantic Salmon Salmo salar; delayed mortality only); and (5) Oncorhynchus (Pacific salmon and trout; injury, immediate and delayed mortality outcomes). Forest plots for all analyses are presented in Additional file 9.
+Alosa
+Overall, there was a similar increase in risk of injury and immediate mortality following passage through/over hydroelectric infrastructure relative to controls for river herrings (127% and 144% increase in risk over and above the risk in the control group, respectively) (Fig. 16a, b, and Table 7C). In contrast, there was no statistically significant effect of delayed mortality for this group (Fig. 16c and Table 7C). In all outcomes, either all or the majority of the data sets were from turbine studies (i.e., injury: all data sets; immediate mortality: 11 of 12; delay mortality: 7 of 9). Sample sizes were too small to evaluate the influence of moderator variables within outcome subsets for this genus.
+Fig. 16
+Weighted pooled risk ratios by fish genera (a–b) and interventions within Oncorhynchus fish (d, e) for responses to hydroelectric infrastructure. See Fig. 13 for explanations. General: general infrastructure associated with more than one component of a hydroelectric facility
+Full size image
+Anguilla
+For freshwater eels, the overall risk of delayed mortality following passage through/over hydroelectric infrastructure was high relative to controls (1275% increase in risk over and above the risk in the control group; Fig. 16c and Table 7C). Two species of freshwater eels were represented, European (Anguilla anguilla) and American (Anguilla rostrata) eels, with 80% of the individual comparisons using adult eels and focusing on turbine impacts. Sample sizes were too small in this group as well to evaluate the influence of moderator variables within outcome subsets for this genus.
+Lepomis
+For sunfish, there was sufficient data available to evaluate the impact of turbines on injury. There was no statistically significant effect of turbines on sunfish injury as a whole (Fig. 16a, and Table 7C).
+Salmo
+There was adequate data available to evaluate the impact of turbines on delayed mortality with all comparisons representing a single species, the Atlantic Salmon. We found no overall significant effect of turbines on Atlantic Salmon mortality (Fig. 16c and Table 7C), with evident variation in delayed mortality responses (i.e., large upper confidence interval).
+Oncorhynchus
+Within the Pacific salmon and trout group, there was a similar overall increase in risk of injury and immediate mortality following passage through/over hydroelectric infrastructure relative to controls (323% and 237% increase in risk over and above the risk in the control group, respectively; Fig. 16a and b, and Table 7C). A pooled risk ratio for delayed mortality was not obtained for this group of fish due to instability of model results.
+Intervention type was associated with pooled risk ratios for both injury and immediate mortality outcomes (QM= 40.66, p < 0.0001, k = 43; QM= 10,881, p < 0.0001, k = 125, respectively). Spillways and turbines were associated with higher risk ratios than water bypasses for injury (1241% and 613% increase vs. 80% decrease, respectively; Fig. 16d), and immediate mortality (260% and 261% increase vs. 225% increase, respectively; Fig. 16e). However, there was still significant heterogeneity remaining in moderated models (QE= 1869.55, p < 0.0001, k = 43; QE= 214.69, p < 0.0001, k = 125, respectively). Furthermore, although pooled risk ratios for both spillways and turbines were significant (i.e., 95% CIs did not overlap with 1) in both outcome subsets, upper confidence intervals were large for injury responses, indicating substantial variation in the magnitude of negative injury responses among individual comparisons. To further explore reasons for heterogeneity in responses, we tested the influence of species type on effect sizes within the turbine subset of studies for all outcome subsets (i.e., the intervention with the largest sample size to permit meaningful analyses). No detectable association was found between species [i.e., Rainbow Trout and Chinook Salmon] and average risk ratios for Pacific salmon and trout injury (QM= 1.63, p = 0.201, k = 33). However, species was associated with average risk ratios for immediate mortality (QM= 89.93, p < 0.0001, k = 97), with studies on Rainbow Trout associated with higher risk ratios than either Coho or Chinook salmon to controls (539% vs. 279%, and 246% increase in risk over and above the risk in the control group, respectively; Fig. 17a).
+Fig. 17
+Weighted pooled risk ratios by a fish species for immediate mortality of Oncorhynchus fish from turbines, and b turbine type for immediate mortality of Coho Salmon (O. kisutch) from field-based studies. See Fig. 13 for explanations
+Full size image
+Within Pacific salmon and trout species subsets for immediate mortality responses to turbines, there were sufficient samples sizes to investigate the influence of the following moderators: (1) turbine type within field studies for both Coho and Chinook salmon; (2) sampling method within Kaplan turbine types for Chinook Salmon; and (3) site type for Rainbow Trout.
+Coho Salmon: Within the field-based subset, a detectable association was found between turbine type and average risk ratios (QM= 4.14, p = 0.042, k = 10), with Francis turbines having a much higher pooled risk ratio than Kaplan turbines relative to controls (1658 vs. 285% increase, respectively; Fig. 17b). There was little variation among data sets with respect to other moderators, i.e., all data sets used hatchery sourced fish, telemetry sampling methods, and juvenile fish.
+Chinook Salmon: Within the field-based subset, no detectable association was found between turbine type and average risk ratios (QM= 0.54, p = 0.461, k = 38). Within Kaplan turbines, no detectable association was found between sampling method (recapture vs. telemetry) and average risk ratios (QM= 0.17, p = 0.684, k = 25). Here as well, there was little variation among data sets with respect to other moderators i.e., all field-based data sets used juvenile fish and mostly hatchery sourced fish.
+Rainbow Trout: There was no detectable association between site type and average risk ratios (QM= 0.64, p = 0.425, k = 45). Otherwise, there was little variation among data sets with respect to other moderators i.e., all data sets used hatchery sourced fish (or not reported), recapture sampling methods, and juvenile fish, and 26 of 27 field-based studies evaluated Francis turbines.
+Review limitations
+Addressing fish productivity
+Although our research question pertains to fish productivity, owing to how the studies were conducted and the data typically reported in the commercially published and grey literature, it was not feasible to evaluate the consequences of entrainment/impingement on fish productivity per se as a measure of the elaboration of fish flesh per unit area per unit time. Rather, we evaluated the risk of freshwater fish injury and mortality owing to downstream passage through common hydropower infrastructure. Productivity is a broad term often represented more practically by various components of productivity (e.g., growth, survival, individual performance, migration, reproduction), which if negatively affected by human activities, would have a negative effect on productivity [55]. In terms of the consequences of entrainment to fish productivity in the upstream reservoir, all entrained fish are no longer contributing regardless of the outcome of their passage success (i.e., survival or mortality) if no upstream passage is possible. In the case of mortality, fish are permanently removed from the whole river system and thus cannot contribute to reproduction/recruitment. To estimate the impact of entrainment consequences to fish productivity, knowledge is required of the fish mortality in the context of population vital rates. Both of these metrics are extremely difficult and costly to measure in the field and are thus rarely quantified. However, since injury and mortality would directly impact components of fish productivity, we contend that evaluating injury and mortality contribute to addressing the impacts of entrainment and/or impingement on fish productivity.
+Poor data reporting
+In total, 166 data sets from 96 studies were excluded from quantitative synthesis, largely (53% of these data sets) for two main reasons: (1) quantitative outcome data (e.g., number of fish injured or killed) were not reported for the intervention and/or comparator group(s); or (2) the total number of fish released was either not reported at all for the intervention and/or comparator group(s), or only an approximate number of fish released were reported. Both cases did not allow for an effect size to be calculated, excluding studies from the meta-analysis. We did not attempt to contact authors for the missing data due to time constraints. Data availability through online data depositories and open source databases have improved dramatically over the years. Reporting fish outcomes as well as the total fish released for both treatment and control groups in publications (or through Additional files) would benefit future (systematic) reviews.
+Potential biases
+We attempted to limit any potential biases throughout the systematic review process. The collaborative systematic review team encompassed a diversity of stakeholders, minimizing familiarity bias. There was no apparent evidence of publication bias for fish injury studies (Additional file 7: Figure S2), but there was possible evidence of publication bias towards studies showing increased chances of fish mortality relative to controls (Additional file 7: Figure S8, S9). Interestingly, when separating commercially published studies from grey literature studies (i.e., reports and conference proceedings), evidence of publication bias was only present in the latter, of which represented 87% of the immediate mortality data sets. A possible explanation for this observation could be that these technical reports are often commissioned by hydropower operators to quantify known injury and mortality issues at their facilities. The commercially published literature in this evidence base was typically more question-driven and exploratory in design, whereas the technical reports were largely driven by specific objectives (i.e., typically placing empirical value on fish mortality known to occur at a given facility). This also highlights another important finding from our review that nearly 70% (i.e., 60/87 articles) of the evidence base was grey literature sources. Again, while we made every effort to systematically search for sources of evidence, we received limited response from our calls for evidence targeting sources of grey literature through relevant mailing lists, social media, and communication with the broader stakeholder community. As such, we believe there is still relevant grey literature that could have been included if it would have been more broadly available from those conducting the research (i.e., consultant groups or industry rendering reports easily accessible, or at least not proprietary).
+Geographical and taxonomic biases were evident in the quantitative synthesis—the majority of included studies were from the United States (91%) and a large percentage (81%) evaluated salmonid responses to hydroelectric infrastructure, potentially limiting interpretation of review results to other geographic regions and taxa. These biases were previously noted by other hydropower-related reviews (e.g., [56]). To limit availability bias, extensive efforts were made obtain all relevant materials through our resource network; however, there were several reports/publications (n = 32) that were unobtainable. A number of unpublished reports, older (e.g., pre-1950’s) preliminary/progress reports, and other unofficial documents were cited in the literature but were unavailable because they were not published. This review was limited to English language, presenting a language bias. Other countries such as France, Germany, and China have hydropower developments and research the impacts on temperate fish species, but the relevant hydropower literature base (32 reports/articles) was excluded at full text screening due to language.
+Reasons for heterogeneity
+Several moderators were tested in our quantitative synthesis; however, considerable residual heterogeneity remained in the observed effects of hydropower infrastructure on fish injury and immediate mortality. In some cases, meta-data was extracted from studies within the evidence base but was not included in quantitative analyses owing to small sample sizes. Four main factors were noted as contributing to heterogeneity in fish injury and mortality.
+First, a top priority of hydropower operators is to identify trade-offs in facility operations and fish passage, attempting to balance fish passage requirements while maximizing power generation. Variation in geomorphology and hydrology among hydropower sites results in site-specific conditions, thus site-specific studies across a variety of operating conditions are required to determine the most favourable conditions for fish passage while maintaining power generation output. The facility or intervention characteristics (e.g., dam height, water levels, turbine model, etc.,) are a major factor in the resulting operating conditions of a hydropower facility at a given time. Some site characteristics would have direct implications for fish injury and mortality. For example, spillways with a freefall drop exceeding 50 m are known to result in higher injury and/or mortality compared to spillways with a shorter drop [53]. The present quantitative synthesis encompassed 42 field sites, resulting in considerable variability in site characteristics and operating conditions of the facilities or interventions (e.g., turbine wicket gate opening, spillway gate opening), which would have a measurable impact on injury and mortality. Owing to this variability, we were unable to achieve sufficient sample sizes to effectively include site-specific characteristics or operating conditions as effect modifiers.
+Second, environmental factors that affect migration/emigration and physiological processes that could have a measurable impact on fish injury and mortality. Water temperature affects locomotor activity and fatigue time [57,58,59], and thus may affect a fish’s ability to avoid or navigate through infrastructure. Since fish are unable to regulate their body temperature, water temperature also affects many important physiological processes that are implicated in post-passage injury and/or mortality such as body condition and wound healing [60, 61]. For example, within the salmonid family there is variability in the emigration time of juveniles, even within the same species [62], such that there are numerous emigration events throughout the year. Juveniles emigrating during the summer may be more susceptible to injury and mortality owing to higher water temperatures at the time of emigration relative to emigrants in other seasons. Owing to the variability in environmental conditions during passage, it is unlikely that we would have been able to achieve sufficient sample sizes to effectively include environmental factors as effect modifiers.
+Third, behaviour is recognized as paramount to fish passage [56, 63], which would have a measurable effect on injury and/or mortality. Throughout the screening process many studies that had a fish behaviour component were excluded from the evidence base because there was no relevant injury and/or mortality outcome. The majority of these excluded studies examined various mechanisms to attract fish towards or deter fish from entering certain infrastructure (e.g., lights to attract to bypasses, strobe lights to deter from entering turbine intakes) (see [25, 64]) or focused on fish passage efficiency and route choice under various environmental conditions (e.g., flow regimes). Behaviour is difficult to incorporate into conservation science because there is high variation in behavioural data and behaviour studies have an individual-level focus, which often proves difficult to scale up to the population level [65, 66]. For example, fish have species-specific swimming behaviours that influence positional approaches to infrastructure (e.g., rheotaxis in juvenile salmonids; [67]), which may lead to increased entrainment risk. Behavioural commonalities do exist within and among species, so some behaviour-related heterogeneity was likely accounted for when species was included in our analyses. However, owing to the small sample size of behavioural studies within the evidence base with injury and/or mortality outcomes, we were unable to explicitly include any specific behavioural factors as a moderator in our analyses.
+Finally, fish passage issues are complex, so the studies in the evidence base employed a wide variety of assessment methodologies depending on research objectives, site characteristics, and target species. Combining data from studies that use different methodologies to assess fish injury and mortality can be problematic for meta-analyses because the data provided is not necessarily comparable among studies. Our evidence base encompasses several decades of fish passage research (1950 to 2016; Fig. 3) and vast improvements in fish tracking technology, experimental design, and statistical analyses have occurred over that timeframe. Early fish passage research employed rudimentary methodologies and lacked standardization compared to modern research, which could lead to measurable differences among older and more recent studies in the evidence base. Some tracking/marking techniques are more invasive than others, which could ultimately influence fish behaviour during downstream passage events. For example, surgically implanting an acoustic telemetry transmitter typically involves sedation and the implanted transmitter can produce an immune response, both of which may impair fish behaviour [68]. Conversely, PIT tags typically do not require sedation and are minimally invasive to implant in the fish. Furthermore, assessing mortality among the different fish identification techniques (physical marking, PIT tags, telemetry) requires varying levels of extrapolation. Injury and mortality can be directly observed and enumerated in studies that pass fish through a turbine and recapture occurs at the downstream turbine outlet. Releasing fish implanted with a transmitter relies on subsequent detection of the animal to determine the outcome, and the fate of the fish is inferred from these detections, not directly observed. Several factors can affect fish detection such as noisy environments (e.g., turbine generation, spilling water), technical issues related with different tracking infrastructure (e.g., multipath, signal collisions), and water conditions (e.g., turbidity [69]). A sensitivity analysis revealed that studies inferring fish mortality from detections histories (or survival estimates) produced lower risk ratio estimates than studies that directly measured mortality (e.g., release upstream—recapture downstream with net), suggesting disparities in mortality estimates between these two methods.
+Review conclusions
+Entrainment and impingement can occur during downstream passage at hydropower operations, causing fish injury and mortality, and these hydropower-related fish losses have the potential to contribute to decreased fish productivity [70, 71]. Even if fish survive an entrainment event, they are moved from one reach to another, influencing reach-specific productivity. Hydropower facilities differ dramatically in their infrastructure configuration and operations and each type of infrastructure presents different risks regarding fish injury and/or mortality [72]. Quantifying injury and mortality across hydropower projects and intervention types is fundamental for characterizing and either mitigating or off-setting the impact of hydropower operations on fish productivity.
+Here, we present what we believe to be the first comprehensive review that systematically evaluated the quality and quantity of the existing evidence base on the topic of the consequences of entrainment and impingement associated with hydroelectric dams for fish. We were unable to specifically address productivity per se in the present systematic review, rather our focus was on injury and mortality from entrainment/impingement during downstream passage (see “Review limitations” section above). With an exhaustive search effort, we assembled an extensive database encompassing various intervention types (i.e., infrastructure types), locations (lab, field studies), species, life stages (e.g., juveniles, adults), and sources (e.g., hatchery, wild). We identified 264 relevant studies (from 87 articles), 222 of which were eligible for quantitative analysis.
+Implications for policy/management
+The synthesis of available evidence suggests that hydropower infrastructure entrainment increased the overall risk of freshwater fish injury and immediate mortality in temperate regions, and that injury and immediate mortality risk varied among intervention types. The overall impact of hydroelectric infrastructure on delayed mortality was not evaluated due to model instability, likely because sampling variances of individual effect sizes were extremely large. Owing to variation among study designs encompassed within the overall analysis, uncertainty may be high, and thus there may be high uncertainty associated with the injury and immediate mortality risk estimates revealed in our analysis. Regardless of the wide range of studies included in our analyses contributing to high variability and our use of two different effective size metrics, the conclusions are consistent: downstream passage via hydropower infrastructure results in a greater risk of injury and mortality to fish than controls (i.e., non-intervention downstream releases).
+Bypasses were found to be the safest fish passage intervention, resulting in decreased fish injury and little difference in risk of immediate mortality relative to controls, a somewhat expected result given that bypasses are specifically designed as a safe alternative to spillway and turbine passage [13, 73]. In agreement with findings highlighted in earlier non-systematic reviews (i.e., [33, 63, 74, 75]), spillway and turbine passage resulted in the highest injury and immediate mortality risk on average, and that Francis turbines had a higher mortality risk relative to controls compared to Kaplan turbines ([56, 76, 77] but see Eicher Associates [78]). General infrastructure posed an increased risk of injury; however, this category encompassed testing on a diversity of hydropower infrastructure types (turbines, spillways, outlets) and thus is of limited use in addressing our secondary research question. Lab based turbine studies resulted in a higher risk of injury than field-based studies, suggesting that field trials may be underestimating fish injury from turbines.
+Taxonomic analyses for three economically important fish genera revealed that hydropower infrastructure increased injury and immediate mortality risk relative to controls for Alosa (river herring) and Pacific salmonids (salmon and trout), and delayed mortality risk for Anguilla (freshwater eels). Owing to small sample sizes within the evidence base, we were unable to include resident (and other underrepresented) species in our taxonomic analyses. However, we stress that the absence of these species within our evidence base and analysis does not suggest that injury and mortality risk is lower for these species, just that there is insufficient information to quantify such impacts. Furthermore, a lack of a statistically significant overall effect of injury or mortality from hydropower infrastructure for the two other genera that had ‘sufficient’ samples sizes for inclusion in our analyses (i.e., Lepomis and Salmo), does not imply they are not affected by hydropower infrastructure, only that we were not able to detect an effect (i.e., there could be an effect but we did not detect it, possibly due to low power).
+Our analyses also demonstrate that the relative magnitude of hydropower infrastructure impacts on fish appears to be influenced by study validity and the type of mortality metric used in studies. Higher risk ratios were estimated for analyses based on studies with lower susceptibility to bias and those that measured actual fish mortality, rather than inferred mortality from survival estimates or detection histories. Overall, placing an empirical value (whether relative or absolute) on the overall injury and mortality risk to fish is valuable to hydropower regulators with the caveat that our analyses encompass a broad range of hydrological variables (e.g., flow), operating conditions, and biological variables.
+Implications for research
+The evidence base of this review encompasses a small fraction of temperate freshwater fish, particularly biased towards economically valuable species such as salmonids in the Pacific Northwest of North America. As previously noted by others [56, 79], research on the impacts of hydropower infrastructure on resident fish and/or fish with no perceived economic value is underrepresented in the commercially published and grey literature. Several imperiled fishes also occupy systems with hydropower development although they have rarely been studied in the context of entrainment [80]. Therefore, studies that focus on systems outside of North America, on non-salmonid or non-sportfish target species, and on population-level consequences of fish entrainment/impingement are needed to address knowledge gaps.
+Aside from immediate (direct) mortality outcomes, which are more easily defined and measured using recapture-release methods [81], no clear guidelines or standardized metrics for assessing injuries and delayed mortality outcomes (e.g., temporal and/or spatial measurement) were overtly evident in our literature searches and screening. Consistency in monitoring and measuring fish injury and immediate mortality has been reached to some degree, but monitoring fish post-passage for delayed injury and mortality is lacking in general [74, 79]. The “gold standard” of examining the impacts of hydropower on fish should presumably include delayed mortality, which we were unable to assess in the present review. Drawing from issues we encountered during quantitative synthesis and commonalities among studies in our evidence base, some clear recommendations for standards pertaining to delayed mortality outcomes and general data analysis include: (1) assessing delayed mortality between 24 to 48 h; (2) using a paired control group (downstream release) for each treatment group (e.g., instead of a common control comparator among several treatment release groups); (3) using quantitative outcomes (instead of qualitative descriptors e.g., of the 50 fish released, most survived); (4) to the extent possible, use similar sampling methods and sampling distances between release and recapture (or survey) among treatment and control groups.
+Availability of data and materials
+Results of literature searches, a list of articles excluded at full-text, as well as the systematic review and critical appraisal databases, data preparation, and analysis details are included as additional files with this report. A ROSES form [82] for this systematic review report is included as Additional file 10.
+References
+• 1.
+International Commission on Large Dams. Register of dams—general synthesis; 2015. http://www.icold-cigb.net/GB/World_register/general_synthesis.asp. Accessed 24 Nov 2016.
+• 2.
+Bunt CM, Castro-Santos T, Haro R. Performance of fish passage structures at upstream barriers to migration. Riv Res Appl. 2012;28:457–78.
+Article  Google Scholar
+• 3.
+Calles O, Karlsson S, Hebrand M, Comoglio C. Evaluating technical improvements for downstream migrating diadromous fish at a hydroelectric plant. Ecol Eng. 2012;48:30–7.
+Article  Google Scholar
+• 4.
+Buysse D, Mouton AM, Baeyens R, Coeck J. Evaluation of downstream migration mitigation actions for eel at an Archimedes screw pump pumping station. Fish Manag Ecol. 2015;22:286–94.
+Article  Google Scholar
+• 5.
+Čada G. The development of advanced hydroelectric turbines to improve fish passage survival. Fisheries. 2001;26:14–23.
+Article  Google Scholar
+• 6.
+Larinier M, Travade F. Downstream migration: problems and facilities. Bull Fr Pêche Piscic. 2002;364(suppl):181–207.
+Article  Google Scholar
+• 7.
+Čada GF. Shaken, not stirred: the recipe for a fish friendly turbine. Oak Ridge National Laboratory; 1997. Contract No. DE-AC05-96OR22464. https://www.osti.gov/servlets/purl/510550. Accessed 24 Nov 2016.
+• 8.
+[EPRI] Electric Power Research Institute. Fish passage through turbines: application of conventional hydropower data to hydrokinetic technologies. Final Report. 2011. Report No. 1024638.
+• 9.
+Čada G, Loar J, Garrison L, Fisher R Jr, Neitzel D. Efforts to reduce mortality to hydroelectric turbine-passed fish: locating and quantifying damaging shear stress. Environ Manage. 2006;37:898–906.
+Article  Google Scholar
+• 10.
+Čada G, Ahlgrimm J, Bahleda M, Bigford T, Stavrakas SD, Hall D, et al. Potential impacts of hydrokinetic and wave energy conversion technologies on aquatic environments. Fisheries. 2007;32:174–81.
+Article  Google Scholar
+• 11.
+Brown RS, Colotelo AH, Pflugrath BC, Boys CA, Baumgartner LJ, Deng D, et al. Understanding barotrauma in fish passing hydro structures: a global strategy for sustainable development of water resources. Fisheries. 2014;39:108–22.
+Article  Google Scholar
+• 12.
+Barnthouse LW. Impacts of entrainment and impingement on fish populations: a review of the scientific evidence. Environ Sci Policy. 2013;31:149–56.
+Article  Google Scholar
+• 13.
+Katopodis C, Williams JG. The development of fish passage research in a historical context. Ecol Eng. 2012;48:8–18.
+Article  Google Scholar
+• 14.
+Jansen HM, Winter HV, Bruijs MCM, Polman HJG. Just go with the flow? Route selection and mortality during downstream migration of silver eels in relation to river discharge. ICES J Mar Sci. 2007;64:1437–43.
+Article  Google Scholar
+• 15.
+Carr JW, Whoriskey FG. Migration of silver American eels past a hydroelectric dam and through a coastal zone. Fish Manag Ecol. 2008;15:393–400.
+Article  Google Scholar
+• 16.
+Travade F, Larinier M, Subra S, Gomes P, De-Oliveira E. Behaviour and passage of European silver eels (Anguilla anguilla) at a small hydropower plant during their downstream migration. Knowl Manag Aquat Ec. 2010;398(01):1–19.
+Article  Google Scholar
+• 17.
+Besson ML, Trancart T, Acou A, Charrier F, Mazel V, Legault A, et al. Disrupted downstream migration behaviour of European silver eels (Anguilla anguilla, L.) in an obstructed river. Environ Biol Fish. 2016;99:779–91.
+Article  Google Scholar
+• 18.
+Eyler SM, Welsh SA, Smith DR, Rockey MM. Downstream passage and impact of turbine shut-downs on survival of silver American eels at five hydroelectric dams on the Shenandoah River. Tran Am Fish Soc. 2016;145:964–76.
+Article  Google Scholar
+• 19.
+Haro A, Watten B, Noreika J. Passage of downstream migrant American eels through an airlift-assisted deep bypass. Ecol Eng. 2016;91:545–52.
+Article  Google Scholar
+• 20.
+Acolas ML, Rochard E, Le Pichon C, Rouleau E. Downstream migration patterns of one-year-old hatchery-reared European sturgeon (Acipenser sturio). J Exp Mar Biol Ecol. 2012;430–431:68–77.
+Article  Google Scholar
+• 21.
+McDougall CA, Blanchfield PJ, Peake SJ, Anderson WG. Movement patterns and size-class influence entrainment susceptibility of lake sturgeon in a small hydroelectric reservoir. Tran Am Fish Soc. 2013;142:1508–21.
+Article  Google Scholar
+• 22.
+McDougall CA, Anderson WG, Peake SJ. Downstream passage of lake sturgeon through a hydroelectric generating station: route determination, survival, and fine-scale movements. N Am J Fish Manage. 2014;34:546–58.
+Article  Google Scholar
+• 23.
+Johnson GE, Dauble DD. Surface flow outlets to protect juvenile salmonids passing through hydropower dams. Rev Fish Sci. 2006;14:213–44.
+Article  Google Scholar
+• 24.
+Adams NS, Plumb JM, Perry RW, Rondorf DW. Performance of a surface bypass structure to enhance juvenile steelhead passage and survival at Lower Granite Dam, Washington. N Am J Fish Manage. 2014;34:576–94.
+Article  Google Scholar
+• 25.
+Popper AN, Carlson TJ. Application of sound and other stimuli to control fish behavior. Tran Am Fish Soc. 1998;127:673–707.
+Article  Google Scholar
+• 26.
+Ostrand KG, Simpson WG, Suski CD, Bryson AJ. Behavioural and physiological response of White Sturgeon to an electrical Sea Lion barrier system. Mar Coast Fish. 2009;1:363–77.
+Article  Google Scholar
+• 27.
+Zielinksi DP, Sorensen PW. Field test of a bubble curtain deterrent system for common carp. Fish Manag Ecol. 2015;22:181–4.
+Article  Google Scholar
+• 28.
+Marohn L, Prigge E, Reinhold H. Escapement success of silver eels from a German river system is low compared to management-based estimates. Freshw Biol. 2014;59:64–72.
+Article  Google Scholar
+• 29.
+Pullin AS, Stewart GB. Guidelines for systematic review in conservation and environmental management. Conserv Biol. 2006;20:1647–56.
+Article  Google Scholar
+• 30.
+Collaboration for Environmental Evidence. In: Pullin AS, Frampton GK, Livoreil B, Petrokofsky G, editors. Guidelines and standards for evidence syn-thesis in environmental management. Version 5; 2018. http://www.environmentalevidence.org/information-for-authors. Accessed 31 May 2018.
+• 31.
+Rytwinski T, Algera DA, Taylor JJ, Smokorowski KE, Bennett JR, Harrison PM, et al. What are the consequences of fish entrainment and impingement associated with hydroelectric dams on fish productivity? A systematic review protocol. Environ Evid. 2017;6:8.
+Article  Google Scholar
+• 32.
+Robbins TW, Mathur D. The muddy run pumped storage project: a case history. Tran Am Fish Soc. 1976;105:165–72.
+Article  Google Scholar
+• 33.
+[OTA] Office of Technology Assessment. Fish passage technologies: protection at hydropower facilities. U.S. Government Printing Office, Washington, D.C.; 1995. Report No. OTA-ENV-641.
+• 34.
+[ASCE] American Society for Civil Engineers. Guidelines for design of intakes for hydroelectric plants. Committee on Hydropower Intakes; 1995. https://ascelibrary.org/doi/pdf/10.1061/9780784400739.bm. Accessed 12 July 2018.
+• 35.
+Čada GF, Coutant CC, Whitney RR. Development of biological criteria for the design of advanced hydropower turbines; 1997. Report No. DOE/ID-10578. Prepared for United States Department of Energy.
+• 36.
+Bilotta GS, Milner AM, Boyd IL. Quality assessment tools for evidence from environmental science. Environ Evid. 2014;3:14.
+Article  Google Scholar
+• 37.
+Rohatgi A. WebPlotDigitalizer: HTML5 based online tool to extract numerical data from plot images. Version 4.1; 2015. https://automeris.io/WebPlotDigitizer/. Accessed 10 Jan 2018.
+• 38.
+Lipsey MW, Wilson DB. Practical meta-analysis. Thousand Oaks: SAGE Publications; 2001.
+Google Scholar
+• 39.
+Deeks JJ, Higgins JPT. Statistical Algorithms in Review Manager 5; 2010. http://tech.cochrane.org/revman. Accessed 6 Mar 2018.
+• 40.
+Deeks JJ, Higgins JPT, Altman DG. Analysing data and undertaking meta-analyses. In: Higgins JPT, Green S, editors. Cochrane handbook for systematic reviews of interventions. Version 5.1.0; 2011. http://www.handbook.cochrane.org. Accessed 6 Mar 2018.
+• 41.
+Borenstein M, Hedges LV, Higgins JPT, Rothstein HR. Effect sizes based on binary data (2x2 Tables). In: Borenstein M, Hedges LV, Higgins JPT, Rothstein HR, editors. Introduction to meta-analysis. Hoboken: Wiley; 2009. p. 33–9.
+Google Scholar
+• 42.
+Noordzij M, van Diepen M, Caskey FC, Jager KJ. Relative risk versus absolute risk: one cannot be interpreted without the other. Nephrol Dial Transplant. 2017;32:ii13–8.
+Article  Google Scholar
+• 43.
+Hedges LV, Olkin I. Statistical methods for meta-analysis. Cambridge: Academic Press; 1985.
+Google Scholar
+• 44.
+Light RJ, Pillemer DB. Summing up: the science of reviewing research. Cambridge: Harvard University Press; 1984.
+Google Scholar
+• 45.
+Sterne JA, Egger M, Smith GD. Systematic reviews in health care: investigating and dealing with publication and other biases in meta-analysis. Br Med J. 2001;323:101–5.
+CAS  Article  Google Scholar
+• 46.
+Egger M, Smith GD, Schneider M, Minder C. Bias in meta-analysis detected by a simple, graphical test. Br Med J. 1997;315:629–34.
+CAS  Article  Google Scholar
+• 47.
+Vittinghoff E, Glidden DV, Shiboski SC, McCulloch CE. Regression methods in biostatistics. New York: Springer; 2005.
+Google Scholar
+• 48.
+R Development Core Team. R: a language and environment for statistical computing. R foundation for Statistical Computing, Vienna, Austria; 2017. http://www.R-project.org. Accessed 25 Jan 2018.
+• 49.
+Viechtbauer W. Conducting meta-analyses in R with the metafor package. J Stat Softw. 2010;36(3):1–48.
+Article  Google Scholar
+• 50.
+Haddaway NR, Macura B, Whaley P, Pullin AS. 2017. ROSES flow diagram for systematic reviews. Version 1.0. Figshare. https://doi.org/10.6084/m9.figshare.5897389.
+• 51.
+Deng Z, Guensch GR, McKinstry CA, Mueller RP, Dauble DD, Richmond MC. Evaluation of fish-injury mechanisms during exposure to turbulent shear flow. Can J Fish Aquat Sci. 2005;62:1513–22.
+Article  Google Scholar
+• 52.
+Boys CA, Robinson W, Miller B, Pflugrath B, Baumgartner LJ, Navarro A, et al. How low can they go when going with the flow? Tolerance of egg and larval fishes to rapid decompression. Biol Open. 2016;5:786–93.
+Article  Google Scholar
+• 53.
+Bell MC, Copp HD, Delacy AC. A compendium on the survival of fish passing through spillways and conduits. U.S. Army Corps of Engineers; 1972. Contract No. DACW-57-67-C-0105.
+• 54.
+Ruggles CP, Murray DG. A review of fish response to spillways. Ottawa: Canada Department of Fisheries and Oceans; 1983. p. 153.
+Google Scholar
+• 55.
+Bradford MJ, Randall RG, Smokorowski KE, Keatley BE, Clarke KD. A framework for assessing fisheries productivity for the Fisheries Protection Program. DFO Can Sci Advis Sec Res Doc. 2014;2013/067. v + 25 p.
+• 56.
+Pracheil BM, DeRolph CR, Schramm MP, Bevelhimer MS. A fish-eye view of riverine hydropower systems: the current understanding of the biological response to turbine passage. Rev Fish Biol Fish. 2016;26:153–67.
+Article  Google Scholar
+• 57.
+Brett JR. Swimming performance of sockeye salmon (Oncorhynchus nerka) in relation to fatigue time and temperature. J Fish Res Bd Can. 1967;24:1731–41.
+Article  Google Scholar
+• 58.
+Bernatchez L, Dodson JJ. Influence of temperature and current speed on the swim-ming capacity of lake whitefish (Coregonus clueaformis) and cisco (C. artedii). Can J Fish Aquat Sci. 1985;42:1522–9.
+Article  Google Scholar
+• 59.
+Claireaux G, Couturier C, Groison A. Effect of temperature on maximum swim-ming speed and cost of transport in juvenile European sea bass (Dicentrarchus labrax). J Exp Biol. 2006;209:3420–8.
+Article  Google Scholar
+• 60.
+Anderson CD, Roberts RJ. A comparison of the effects of temperature on wound healing in a tropical and a temperate teleost. J Fish Biol. 1975;7:173–82.
+Article  Google Scholar
+• 61.
+Clarke A, Johnston NM. Scaling of metabolic rate with body mass and temperature in teleost fish. J Anim Ecol. 1999;68:893–905.
+Article  Google Scholar
+• 62.
+Bennett TR, Wissmar RC, Roni P. Fall and spring emigration of juvenile coho salmon from East Twin River, Washington. Northwest Sci. 2011;85:562–70.
+Article  Google Scholar
+• 63.
+Coutant CC, Whitney RR. Fish behavior in relation to passage through hydropower turbines: a review. Tran Am Fish Soc. 2000;129:351–80.
+Article  Google Scholar
+• 64.
+Enders EC. Behavioral responses of migrating fish to environmental changes: implications to downstream fish passage. In: SE 2012 Vienna: 9th international symposium on ecohydraulics; 2012.
+• 65.
+Caro T. The behaviour—conservation interface. Trends Ecol Evol. 1999;14:366–9.
+CAS  Article  Google Scholar
+• 66.
+Cooke SJ, Blumstein DT, Buchholz R, Caro T, Fernández-Juricic E, Franklin CE, et al. Physiology, behavior, and conservation. Phys Biochem Zool. 2014;87:1–14.
+Article  Google Scholar
+• 67.
+Enders EC, Gessel MH, Williams JG. Development of successful fish passage structures for downstream migrants requires knowledge of their behavioural response to accelerating flow. Can J Fish Aquat Sci. 2009;66:2109–17.
+Article  Google Scholar
+• 68.
+Semple SL, Mulder IM, Rodriguez-Ramos T, Power M, Dixon B. Long-term implantation of acoustic transmitters induces chronic inflammatory cytokine expression in adult rainbow trout (Oncorhynchus mykiss). Vet Immunol Immunopathol. 2018;205:1–9.
+CAS  Article  Google Scholar
+• 69.
+Kessel ST, Cooke SJ, Heupel MR, Hussey NE, Simpfendorfer CA, Vagle S, et al. A review of detection range testing in aquatic passive acoustic telemetry studies. Rev Fish Biol Fisheries. 2014;24:199–218.
+Article  Google Scholar
+• 70.
+Rosenberg DM, Berkes F, Bodaly RA, Hecky RE, Kelly CA, Rudd JWM. Large-scale impacts of hydroelectric development. Environ Rev. 1997;5:27–54.
+CAS  Article  Google Scholar
+• 71.
+Hall CJ, Jordaan A, Frisk MG. Centuries of anadromous forage fish loss: consequences for ecosystem connectivity and productivity. Bioscience. 2012;62:723–31.
+Article  Google Scholar
+• 72.
+Muir WD, Smith SG, Williams JG, Sandford BP. Survival of juvenile salmonids passing through bypass systems, turbines, and spillways with and without flow deflectors at Snake River Dams. N Am J Fish Manage. 2001;21(1):135–46.
+Article  Google Scholar
+• 73.
+Mighetto L, Ebel WJ. Saving the salmon: a history of the U.S. Army Corps of Engineers’ efforts to protect anadromous fish on the Columbia and Snake Rivers. Washington: U.S. Army Corps of Engineers, Portland and Walla Walla Districts; 1994.
+Google Scholar
+• 74.
+Federal Energy Regulatory Commission. Preliminary assessment of fish entrainment at hydropower projects—a report on studies and protective measures; 1995. Volume 1. Report No. DPR-10.
+• 75.
+Schilt CR. Developing fish passage and protection at hydropower dams. Appl Anim Behav Sci. 2007;104:295–325.
+Article  Google Scholar
+• 76.
+Electric Power Research Institute. Fish entrainment and turbine mortality review and guidelines. Final Report; 1992. Report No. TR-101231.
+• 77.
+Larinier M. Environmental issues, dams and fish migration. Dams, fish and fisheries: opportunities, challenges and conflict resolution. Quebec City: Food and Agriculture Organization of the United Nations; 2001. p. 45–90.
+Google Scholar
+• 78.
+Eicher Associates. Turbine-related fish mortality: review and evaluation of studies. 1987; Report No. EPRI AP-5480. Prepared for Electric Power Research Institute.
+• 79.
+Roscoe DW, Hinch SG. Effectiveness monitoring of fish passage facilities: historical trends, geographic patterns and future directions. Fish Fish. 2010;11:12–33.
+Article  Google Scholar
+• 80.
+Limburg KE, Waldman JR. Dramatic declines in North Atlantic diadromous fishes. Bioscience. 2009;59:955–65.
+Article  Google Scholar
+• 81.
+Burnham KP, Anderson DR, White GC, Brownie C, Pollock KH. Design and analysis methods for fish survival experiments based on release-recapture. Bethesda: American Fisheries Society; 1987.
+Google Scholar
+• 82.
+Haddaway N, Macura B, Whaley P, Pullin A. ROSES for systematic review reports. Version 1.0. Figshare. 2017. https://doi.org/10.6084/m9.figshare.5897272.
+Download references
+Acknowledgements
+The authors would like to thank Daniel Struthers for help with website searches and pdf retrieval and William Twardek for help with meta-data extraction. We also thank several collaborators who provided valuable insights and comments including: DFO staff including Brent Valere, David Gibson, and Richard Kavanagh. We also thank the reviewers for their constructive comments.
+Funding
+The study was primarily supported by Fisheries and Oceans Canada. Additional support is provided by the Natural Science and Engineering Research Council of Canada, The Canada Research Chairs Program, and Carleton University.
+Author information
+Author notes
+Dirk A. Algera and Trina Rytwinski—Shared first authorship
+Affiliations
+Fish Ecology and Conservation Physiology Laboratory, Department of Biology, Carleton University, 1125 Colonel By Drive, Ottawa, ON, Canada
+Dirk A. Algera, Trina Rytwinski, Jessica J. Taylor, Philip M. Harrison & Steven J. Cooke
+Canadian Centre for Evidence-Based Conservation, Institute of Environmental and Interdisciplinary Science, Carleton University, 1125 Colonel By Drive, Ottawa, ON, Canada
+Trina Rytwinski, Jessica J. Taylor, Joseph R. Bennett & Steven J. Cooke
+Department of Biology and Institute of Environmental and Interdisciplinary Science, Carleton University, 1125 Colonel By Drive, Ottawa, ON, Canada
+Trina Rytwinski, Jessica J. Taylor, Joseph R. Bennett & Steven J. Cooke
+Great Lakes Laboratory for Fisheries and Aquatic Science, Fisheries and Oceans Canada, 1219 Queen Street East, Sault Ste. Marie, ON, Canada
+Karen E. Smokorowski
+Department of Biology, University of Waterloo, 200 University Ave., Waterloo, ON, Canada
+Philip M. Harrison & Michael Power
+Northwest Atlantic Fisheries Centre, Fisheries and Oceans Canada, 80 East White Hills, St. John’s, NF, Canada
+Keith D. Clarke
+Freshwater Institute, Fisheries and Oceans Canada, 501 University Crescent, Winnipeg, MB, Canada
+Eva C. Enders
+Oak Ridge National Laboratory, 1 Bethel Valley Road, Oak Ridge, TN, USA
+Mark S. Bevelhimer
+Authors
+• Dirk A. Algera
+View author publications
+You can also search for this author in PubMed Google Scholar
+• Trina Rytwinski
+View author publications
+You can also search for this author in PubMed Google Scholar
+• Jessica J. Taylor
+View author publications
+You can also search for this author in PubMed Google Scholar
+• Joseph R. Bennett
+View author publications
+You can also search for this author in PubMed Google Scholar
+• Karen E. Smokorowski
+View author publications
+You can also search for this author in PubMed Google Scholar
+• Philip M. Harrison
+View author publications
+You can also search for this author in PubMed Google Scholar
+• Keith D. Clarke
+View author publications
+You can also search for this author in PubMed Google Scholar
+• Eva C. Enders
+View author publications
+You can also search for this author in PubMed Google Scholar
+• Michael Power
+View author publications
+You can also search for this author in PubMed Google Scholar
+• Mark S. Bevelhimer
+View author publications
+You can also search for this author in PubMed Google Scholar
+• Steven J. Cooke
+View author publications
+You can also search for this author in PubMed Google Scholar
+Contributions
+This review is based on a draft written by DAA and TR. TR performed searches. DAA and TR screened identified records, and DAA, TR, and WT extracted data. TR performed all quantitative analyses. All authors assisted in editing and revising the draft. All authors read and approved the final manuscript.
+Corresponding author
+Correspondence to Trina Rytwinski.
+Ethics declarations
+Ethical approval and consent to participate
+Not applicable.
+Consent for publication
+Not applicable.
+Competing interests
+The authors declare that they have no competing interests.
+Additional information
+Publisher's Note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary information
+Additional file 1. Search strategy and results. A description of our search strategy and the results of the literature searches. For each source, we provide full details on the search date(s), search strings used, search settings/restrictions, and subscriptions (if applicable), and the number of returns.
+Additional file 2. List of articles excluded on the basis of full-text assessment and reasons for exclusion. Separate lists of articles excluded on the basis of full-text assessment, articles that were unobtainable, and relevant reviews.
+Additional file 3. Data-extraction sheet. Contains the coding (extracted data) for all articles/studies included in the narrative synthesis. Includes a description of the coding form, the actual coding of all articles/studies, a codes sheet, and a list of supplementary articles.
+Additional file 4. Data preparation for quantitative synthesis. A description of data preparation for quantitative synthesis in relation to reducing multiple effect sizes estimates from the same study and handling of multiple group comparisons.
+Additional file 5. Quantitative synthesis database. This file provides the full narrative synthesis database, a database of all data sets that were excluded from quantitative synthesis, and individual databases for all global and intervention type analyses (i.e., for fish injury, immediate and delayed mortality).
+Additional file 6. Study validity assessments. Description of the study validity assessment tool and results of assessments for each article/study included in the narrative synthesis.
+Additional file 7. Global meta-analyses and publication bias. All forest (i.e., summary plot of all effect size estimates) and funnel (i.e., visual assessment for publication bias using a scatter plot of the effects sizes versus a measure of their precision) plots from global and sensitivity analyses.
+Additional file 8. Tests of independence of factors. Results of contingency analyses for independence of fish injury and immediate mortality moderators.
+Additional file 9. Forest plots for taxonomic analyses. Forest plots from taxonomic analyses for the genera: Alosa, Anguilla, Lepomis, Salmo, and Oncorhynchus.
+Additional file 10. ROSES Systematic review checklist.
+Rights and permissions
+Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated in a credit line to the data.
+Reprints and Permissions
+About this article
+Cite this article
+Algera, D.A., Rytwinski, T., Taylor, J.J. et al. What are the relative risks of mortality and injury for fish during downstream passage at hydroelectric dams in temperate regions? A systematic review. Environ Evid 9, 3 (2020). https://doi.org/10.1186/s13750-020-0184-0
+Download citation
+Received: 02 June 2019
+Accepted: 03 January 2020
+Published: 28 January 2020
+DOI: https://doi.org/10.1186/s13750-020-0184-0
+Keywords
+• Bypass
+• Evidence-based policy
+• Hydropower infrastructure
+• Injury risk
+• Mortality risk
+• Spillway
+• Turbine
+• Temperate fish
+Download PDF
+Advertisement
+Environmental Evidence
+ISSN: 2047-2382
+Contact us
+• Submission enquiries: Access here and click Contact Us
+• General enquiries: info@biomedcentral.com
+• Read more on our blogs
+• Receive BMC newsletters
+• Manage article alerts
+• Language editing for authors
+• Scientific editing for authors
+• Policies
+• Accessibility
+• Press center
+• Support and Contact
+• Leave feedback
+• Careers
+Follow BMC
+• BMC Twitter page
+• BMC Facebook page
+• BMC Weibo page
+By using this website, you agree to our Terms and Conditions, Privacy statement and Cookies policy. Manage the cookies we use in the preference centre.
+© 2020 BioMed Central Ltd unless otherwise stated. Part of Springer Nature.

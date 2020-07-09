@@ -1,0 +1,898 @@
+Macura et al. Environ Evid           (2019) 8:39
+https://doi.org/10.1186/s13750-019-0183-1                                                                                   Environmental Evidence
+  SYSTEMATIC MAP                                                                                                                                                   Open Access
+Effectiveness of ecotechnologies
+in agriculture for the recovery and reuse
+of carbon and nutrients in the Baltic
+and boreo‑temperate regions: a systematic map
+Biljana Macura1* , Mikołaj Piniewski2, Marta Księżniak2, Paweł Osuch2, Neal R. Haddaway1,3, Filippa Ek1,
+Karolin Andersson1,4 and Sirkka Tattari5
+   Abstract
+   Background: Agriculture is the main sector responsible for nutrient emissions in the Baltic Sea Region and there is
+   a growing pressure to identify cost-effective solutions towards reducing nitrogen and phosphorus loads originating
+   from farming activities. Recycling resources from agricultural waste is central to the idea of a circular economy, and
+   has the potential to address the most urgent problems related to nutrients use in the food chain, such as depletion of
+   natural phosphorus reserves, water pollution and waste management. This systematic map examined what evidence
+   exists relating to the effectiveness of ecotechnologies in agriculture for the recovery and reuse of carbon and/or nutri-
+   ents (nitrogen and phosphorus) in the Baltic Sea region and other comparable boreo-temperate systems.
+   Methods: We searched for both academic and grey literature. English language searches were performed in 5 bib-
+   liographic databases and search platforms, and Google Scholar. Searches in 36 specialist websites were performed in
+   English, Finnish, Polish and Swedish. The searches were restricted to the period 2013 to 2017. Eligibility screening was
+   conducted at two levels: title and abstract (screened concurrently for efficiency) and full text. Meta-data was extracted
+   from eligible studies including bibliographic details, study location, ecotechnology name and description, type of
+   outcome (i.e. recovered or reused carbon and/or nutrients), type of ecotechnology in terms of recovery source, and
+   type of reuse (in terms of the end-product). Findings are presented here narratively and in a searchable database, and
+   are also visualised in a web-based evidence atlas (an interactive geographical information system). In addition, knowl-
+   edge gaps and clusters have been identified in the evidence base and described in detail.
+   Results: We found 173 articles studying the effectiveness of 177 ecotechnologies. The majority of eligible articles
+   were in English, originated from bibliographic databases and were published in 2016. Most studies with reported
+   locations, and given our boreo-temperate scope, were conducted in Europe and North America. The three most
+   prevalent ecotechnologies in the evidence base (collectively 40.7%) were; soil amendments, anaerobic digestion
+   and (vermi)composting. Manure was the principal waste source used for recovery of nutrients or carbon, making up
+   55.4% of the all studies in evidence base, followed by a combination of manure and crop residues (22%). There were
+   51 studies with 14 ecotechnologies that reported on recovery of carbon and nutrients together, predominantly via
+*Correspondence: biljana.macura@sei.org; bmacura@gmail.com
+1
+  Stockholm Environment Institute, Linnégatan 87D, Stockholm, Sweden
+Full list of author information is available at the end of the article
+                                              © The Author(s) 2019. This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing,
+                                              adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and
+                                              the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material
+                                              in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material
+                                              is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the
+                                              permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creat​iveco​
+                                              mmons​.org/licen​ses/by/4.0/. The Creative Commons Public Domain Dedication waiver (http://creat​iveco​mmons​.org/publi​cdoma​in/
+                                              zero/1.0/) applies to the data made available in this article, unless otherwise stated in a credit line to the data.
+
+Macura et al. Environ Evid   (2019) 8:39                                                                            Page 2 of 18
+  (vermi)composting and anaerobic digestion. Only 27 studies focused on reuse of recovered nutrients and carbon
+  through soil amendments.
+  Conclusions: This systematic map report provides an evidence base that can be useful for researchers and decision-
+  makers in policy and practice working on transformation from linear to circular economy in the agricultural waste
+  sector. Three potential topics for future systematic reviews are: (1) effectiveness of products recovered from different
+  types of agricultural wastes as soil amendments or fertilizers; (2) effectiveness of anaerobic digestion as an ecotech-
+  nology used for recovery of nutrients and carbon; (3) effectiveness of composting and/or vermicomposting as
+  ecotechnologies used for recovery of nutrients and carbon.
+  Keywords: Circular economy, Eutrophic, Fertilisers, Manure, Nitrogen, Nutrient recycle, Phosphorus, Pollution
+Background                                                        economy [10] and has the potential to address the most
+The degradation of water quality in the Baltic Sea is con-        urgent problems related to nutrient use in the food chain,
+tinuing, despite investments in measures to mitigate              such as depletion of natural P reserves, water pollution,
+pollution from both diffuse and point sources within its          and waste management [9].
+drainage basin [1, 2]. The HELCOM report on Baltic Sea              If agricultural waste is not properly managed, it can
+ecosystem health identified inorganic, nutrient-induced           become an environmental and economic burden [11].
+increase of primary production and high organic car-              For example, the patchy geographical location of inten-
+bon (C) load as the two greatest environmental pressures          sive livestock and crop areas has led to an unbalanced
+in the Baltic Sea [3]. The high vulnerability of the Baltic       spatial distribution of manure availability, which results
+Sea to waterborne nutrient loadings is the result of three        in nutrient-deficient areas and nutrient hot-spots [12,
+main factors: its large catchment to sea area ratio; long         13]. Production of safe and stable fertilisers from organic
+freshwater renewal time; and limited water exchange               waste streams requires the implementation of cost-effec-
+with the North Sea.                                               tive manure processing technologies. Although recycling
+   The dominant pathway of total nitrogen (N) and total           nutrients back to the soil is the primary reason for appli-
+phosphorus (P) in riverine loads to the Baltic Sea is from        cation of organic materials to farmland, organic C recy-
+diffuse sources (46.5% and 35.7%, respectively), pre-             cling is also important due to reduced soil productivity
+dominantly originating from agricultural activities [4].          resulting from the long-term soil organic C decline in
+These percentages are greater than all other N and P              many areas of the world [14].
+source types (i.e. point sources, atmospheric deposition,           Apart from animal manure, the following five catego-
+forestry, scattered settlements and natural background            ries of organic soil amendments have been distinguished
+load). There is thus substantial pressure on the agricul-         [14]: (1) municipal biosolids and septage; (2) green
+tural sector to identify cost-effective solutions for reduc-      manure and crop residues; (3) food residues and waste;
+ing N and P loads originating from farming activities. A          (4) waste from manufacturing process; and (5) compost.
+recent Finish assessment has demonstrated that, to date,          This categorisation misses some important products
+investments in water protection measures have not led             that can be recovered from different agricultural waste
+to any visible reduction of diffuse nutrient loads at the         streams and applied to fields, namely: anaerobic digestate
+national scale in Finland [5]. Furthermore, a multi-ben-          and its derivatives [15] or biochar from pyrolysis process
+efit approach towards implementation of technological             [16, 17].
+and management measures is recommended instead of                   N, P and C are also ubiquitous in agricultural run-
+focusing on a single benefit such as nutrient load reduc-         off [18, 19] and in natural water bodies [20]. However,
+tion [6].                                                         the implementation of recovery technologies for non-
+   Since high-quality reserves of P in phosphate rock are         reactive P, is much less common for natural water bod-
+expected to deplete within a few 100 years [7] whilst             ies than for manure [20], due to several reasons: (1) the
+global P demand continues to grow, policy and research            presence of other constituents such as organics; (2) a
+attention is shifting towards P recovery from waste, and          lower per unit conversion efficacy; and, (3) the technical
+its reuse as fertiliser [8, 9]. There are three major types of    ease of implementation. Furthermore, pollutants in agri-
+agricultural waste: (1) livestock manure; (2) primary agri-       cultural runoff or natural waterways contaminated with
+cultural residuals (such as post-harvest crop residuals);         nutrients are usually considered as a source for nutrient
+and (3) secondary agricultural residuals (from crop pro-          removal, as in the case of constructed wetlands [21, 22],
+cessing in agricultural industries). Recycling resources          or a source for nutrient retention in streams, as in the
+from agricultural waste is central to the idea of a circular
+
+Macura et al. Environ Evid (2019) 8:39                                                                          Page 3 of 18
+case of river restoration projects [23], but not a source for Methods
+nutrient recovery.                                            The review followed the Collaboration for Environmental
+  The focus of the present study is on ecotechnologies for    Evidence Guidelines and Standards for Evidence Synthe-
+the recovery and reuse of organic C and nutrients (N and      sis in Environmental Management [25]. It was conducted
+P) in the agricultural sector. The term ‘ecotechnologies’ is  according to the peer-reviewed protocol [26] and it con-
+understood here as “human interventions in social-eco-        formed to ROSES reporting standards [27] (see Addi-
+logical systems in the form of practices and/or biological,   tional file 1).
+physical, and chemical processes designed to minimise
+harm to the environment and provide services of value to      Deviations from the protocol
+society” [24].                                                An additional source of evidence was added to the review
+                                                              that was not stated in the protocol. Parallel to this review,
+                                                              a systematic map on recovery of nutrients and C from
+Stakeholder engagement
+                                                              municipal wastewater was conducted within the same
+The topic for this review was initially proposed by the
+                                                              BONUS RETURN project (and similar review team)
+research funder BONUS (https​://www.bonus​porta​l.org/).
+                                                              [28]. This map used the same search sources, but differ-
+The scope of the project was then refined through expert
+                                                              ent search strings. Records (screened at title and abstract
+discussions as part of the process of drafting an applica-
+                                                              or full text) found in one map but relevant to the other,
+tion in response to the call by the research funder. The
+                                                              were transferred between the maps rescreened and dedu-
+scope and the search strategy were further refined by a
+                                                              plicated against the other map’s relevant full texts and
+specially formed stakeholder group, consisting of the
+                                                              included together with grey literature search results. For
+broader BONUS RETURN project consortium members
+                                                              other deviations, see “Data coding strategy” section.
+(see https​://www.bonus​retur​n.com/), which explains the
+Baltic Sea basin focus.
+                                                              Searching for articles
+Objective of the review                                       Bibliographic databases
+The primary question for this systematic map was:             We searched for evidence in following databases and
+  What evidence exists relating to effectiveness of ecotech-  platforms:
+nologies in agriculture for the recovery and reuse of carbon
+and nutrients in the Baltic and boreo-temperate regions?        1. Scopus.
+                                                                2. Web of Science Core Collections (consisting of the
+                                                                    following indexes: SCI-EXPANDED, SSCI, A&HCI,
+Definitions of the question components
+                                                                    CPCI-S, CPCI-SSH, and ESCI).
+Population(s): The boreo-temperate regions comparable           3. Electronic Theses Online Service (eThOS).
+with and including the Baltic Sea region.                       4. Digital Access to Research Theses (DART).
+  Intervention(s): Any practice undertaken for the pur-         5. Directory of Open Access Journals (DOAJ).
+poses of recovering and/or reusing C and/or nutrients (N
+or P) from agricultural waste, manure, soil or waterbod-
+                                                                Searches were performed using subscriptions of War-
+ies (including surface and ground water).
+                                                              saw University of Life Sciences and Stockholm University.
+  Comparator(s): Before ecotechnology use, a control
+                                                              These searches were conducted using English language
+site without an ecotechnology, a comparison between
+                                                              search terms. The following search string was used in
+different ecotechnologies, different intensities of the
+                                                              bibliographic databases:
+same ecotechnology, time series after ecotechnology
+                                                                (recycl* OR reus* OR circul* OR conver* OR recover*
+implementation.
+                                                              OR return*) AND (agr* OR farm* OR crop* OR live-
+  Outcome(s): Described recovery and/or reuse of C
+                                                              stock OR “live stock” OR manure OR animal OR cul-
+and/or following nutrients: N compounds (N, nitrate,
+                                                              tivat*) AND (“organic carbon” OR DOC OR “organic
+nitrite, ammonium) or P compounds (P, phosphate)
+                                                              C” OR “organic matter” OR nutrient* OR nitrogen OR
+  As requested by the stakeholders, this review had a spe-
+                                                              nitrate OR nitrite OR ammoni* OR phosphorus OR
+cific focus on the Baltic Sea region, but it also included
+                                                              phosphate) [shown as formatted for Web of Science Core
+studies from other comparable boreo-temperate regions
+                                                              Collections]
+in both hemispheres (see “Eligible population(s)” below).
+                                                                The searches were restricted to articles published dur-
+                                                              ing the period of 2013–2017 as we intended to concen-
+                                                              trate on technological innovations not yet in industrial
+
+Macura et al. Environ Evid  (2019) 8:39                                                                           Page 4 of 18
+use. Moreover, we conducted searches until 2017 as this         at full text, with each record being assessed by one expe-
+year marked the start of the BONUS RETURN project.              rienced reviewer.
+                                                                  Prior to commencing screening, consistency checking
+                                                                was performed with 3 reviewers on a subset of articles
+Search engines                                                  at both title and abstract level and full text level screen-
+Searches performed in Google Scholar were in English            ing. A subset of 700 title and abstract records and 40 full
+only and restricted to articles published between 2013          text records was independently screened by all review-
+and 2017, as above. The first 1000 search results were          ers. These numbers represent approximately 10% of each
+extracted as citations using Publish or Perish software         set of results at each level for both searches. The results
+[29] and introduced into the duplication removal and            of the consistency checking were compared between
+screening workflow alongside records from bibliographic         reviewers and all disagreements discussed in detail.
+databases.                                                      Where the level of agreement was low (below 80% agree-
+                                                                ment level), further consistency checking was performed
+Organisational websites                                         on an additional set of articles and then discussed.
+Searches were performed across a suite of 36 relevant
+organisational websites for ecotechnologies for the reuse       Eligibility criteria
+of C and/or nutrients. Each website was hand-searched           The following criteria were applied at all levels of
+for eligible publications. Searches were performed in           screening:
+English, Swedish, Finnish and Polish corresponding to             Eligible population(s): Relevant studies located in
+the case-study countries within the BONUS RETURN                the Baltic Sea Region or comparable boreal/temperate
+project as well as many of the Baltic languages. Literature     regions in both hemispheres, with fully humid temper-
+from organisational websites was screened separately            ate (Cfa, Cfb, Cfc) and fully humid boreal (Dfa, Dfb, Dfc,
+before it was combined with other records.                      Dfd) climates according to the Köppen-Geiger climate
+                                                                classification [31].
+Testing comprehensiveness of the search                           Eligible intervention(s): Any ecotechnology (see the
+Twenty articles of known relevance to the review were           definition of ‘ecotechnology’ above) undertaken for the
+screened against scoping search results to examine              purposes of recovery and/or reuse of C and/or nutrients
+whether searches could locate relevant evidence. If arti-       (N or P) in agriculture. Recovery affects either agricul-
+cles were not found during scoping, search terms were           tural waste (animal- or plant-based) or agricultural runoff
+examined to identify the reasons why articles were              (e.g. surface runoff, tile drain flow or groundwater flow).
+missed, and the search string was modified accordingly.         A study was excluded if a given recovery source was not
+  Details of all the searches including list of benchmark       directly related to agriculture (e.g. industrial/municipal
+articles can be found in Additional file 2.                     wastewater, agro-industrial wastewater, an inland or sea
+                                                                water body whose pollution level could not be directly
+Assembling library of search results                            attributed to an agricultural activity).
+Results of the searches in bibliographic databases and            Eligible comparator(s): Before ecotechnology use, a
+Google Scholar were combined, and duplicates were               control site without an ecotechnology, a comparison
+removed prior to screening. A library of search results         between different ecotechnologies, different intensities of
+was assembled in a review management software (i.e.             the same ecotechnology, time series after ecotechnology
+EPPI Reviewer [30]). These search results were ran-             implementation.
+domly divided into 5 equal sets (each containing 20% of           Eligible outcome(s): Described recovery and/or reuse
+all searches from bibliographic databases and Google            of C and/or nutrients from e.g. agricultural waste (e.g.
+Scholar), and then each set was screened and coded              crop residues, manure, agricultural runoff, etc.) within
+sequentially to facilitate rapid identification of knowledge    the Baltic Sea Region or boreo-temperate systems. C out-
+gaps and knowledge clusters.                                    comes include soil C, soil organic C, total C, dissolved
+                                                                organic C, and organic matter, but also chemical oxygen
+Article screening and study eligibility criteria                demand and biological oxygen demand, which are prox-
+Screening process                                               ies for C. Nutrient outcomes include N compounds (N,
+Screening was conducted at two levels: at title and             nitrate, nitrite, ammonium) and P compounds (P, phos-
+abstract level together, and at full text level. The full texts phate). Studies describing agricultural reuse of products,
+of potentially relevant abstracts were retrieved, tracking      such as soil amendments (including fertilizers), recovered
+those that could not be located or accessed (see Addi-          for example from wastewater or sludge were not included
+tional file 3 for details). Retrieved records were screened
+
+Macura et al. Environ Evid (2019) 8:39                                                                            Page 5 of 18
+in this map (but they are being catalogued in a separate       sufficient amount of information and no contact with
+systematic map (see [28]).                                     authors was needed.
+  A list of articles excluded at title and abstract level, and
+at full text level, with reasons for exclusion provided for    Data mapping method
+all excluded articles is in Additional file 4.                 The evidence base identified within this systematic map
+                                                               was described narratively, in the form of descriptive sta-
+Study validity assessment                                      tistics and within a systematic map database; a searchable
+The validity of articles was not be appraised as part of       database with columns containing codes and meta-data
+this systematic map in accordance with accepted system-        related to the variables described in the meta-data extrac-
+atic mapping methodological guidance [32], although            tion and coding schema, above. We produced an evi-
+particular meta-data extracted into the systematic map         dence atlas using study latitude and longitude meta-data,
+relate to internal and external validity.                      where studies are plotted on an interactive cartographic
+                                                               map. We have identified knowledge clusters and gaps by
+Data coding strategy                                           cross-tabulating different variables and inspecting the
+The following meta-data extraction and coding was per-         extent of evidence (number of studies) within each cell of
+formed for all relevant studies (which was updated after       the table.
+the protocol [26] was published):
+                                                               Results
+  • Ecotechnology name (as stated in the original arti-        The initial search (see Additional file 4 for details of
+      cle).                                                    search results) yielded 40,336 articles, that after dedu-
+  • Short description of ecotechnology (as stated in the       plication process resulted in 29,150 unique records that
+      original source).                                        were screened at title and abstract level. After screening
+  • Category of ecotechnology (e.g. struvite precipita-        titles and abstracts, we have included 1747 records for
+      tion, bioreactors, source separation).                   retrieval and full text screening, but 412 articles could
+  • Substrate used for recovery:                               not be found or accessed (see Additional file 3) and a
+                                                               total of 1335 articles was screened at full text, where 151
+       • Manure-based.                                         articles were included (see Additional file 4 for exclusion
+       • Crop-based.                                           reasons). A total of 12 articles was added from searches
+       • Manure- and crop-based combined.                      of specialist websites in relevant languages. Additional 10
+       • Other.                                                records were added from the systematic map on recovery
+                                                               of nutrients and C from municipal wastewater. A final set
+  • Outcome: recovered or reused C and/or nutrients (N         of 173 articles with relevant data was included in the sys-
+      and P).                                                  tematic map database (see Additional file 5). Three arti-
+  • Name of recovered product reused as soil amend-            cles reported more than one ecotechnology and, in total,
+      ment.                                                    the evidence base included records of 177 studies with
+  • Study country and location.                                ecotechnologies. Each separate study of ecotechnology
+  • Latitude.                                                  effectiveness was assigned a unique study ID and we refer
+  • Longitude.                                                 to it as a ‘study’ in this map. Figure 1 shows the numbers
+  • Study scale and type (laboratory experiment, field         of included and excluded articles and studies at different
+      study with micro, medium or macro scale).                stages of the mapping process.
+  The categories of ecotechnologies were assigned post         Evidence atlas
+hoc at the final coding stage, primarily based on coded        We have created an evidence atlas using the EviAtlas tool
+ecotechnology names. Short descriptions were a sup-            [33] and it is accessible at https​://bonus​retur​ntest​.githu​
+plementary source, and the full texts were used in case        b.io/ (and www.bonus​retur​n.eu/progr​am/agrie​cotec​
+of doubts. The goal was to derive relatively homogenous        hevid​ence/). The evidence atlas shows the locations from
+clusters that could be used at the synthesis stage. Meta-      the studies included in the systematic map database on a
+data extraction and coding was performed by multiple           cartographic map. Depending on the information avail-
+reviewers (3 in total) following consistency checking on a     able in the articles, we have extracted and mapped coor-
+parallel coding of subset of 21 full texts (which was about    dinates of (1) sampling locations; (2) locations where an
+10% of the evidence base), discussing all disagreements.       ecotechnology was developed or (3) where the ecotech-
+Meta-data from the remaining relevant studies were             nology was implemented. The evidence atlas is interactive
+then extracted in EPPI reviewer 4. All articles reported
+
+Macura et al. Environ Evid    (2019) 8:39                                                                                   Page 6 of 18
+  Fig. 1 ROSES flow diagram [27] showing literature sources and inclusion/exclusion process
+and can be searched for specific evidence using visual                      Review descriptive statistics
+interface (see Fig. 2 for a snapshot). Where coordinates of                 Figure 3 shows the number of relevant articles included
+study sites were not available from the included articles,                  in the map database published per year and general
+we retrieved them from Google Earth. If a study reported                    source of searches such as specialist websites and biblio-
+a country only, we have added coordinates of country’s                      graphic searches including Google Scholar. The majority
+capital (available from https​://www.latlo​ng.net) to the                   of articles in the evidence base were published in 2016
+atlas. From 27 studies (15.3%) coordinates could not be                     (23.7%) and primarily originated from bibliographic data-
+found and extracted at all, and these studies could not be                  bases (93.1%).
+displayed on the map (26 of these were experimental or                         Figure 4 shows publication type and language of
+modelling studies).                                                         included articles. Journal articles were predominant
+                                                                            publication type (80.3%) with the majority of articles
+
+Macura et al. Environ Evid                (2019) 8:39                                                                               Page 7 of 18
+ Fig. 2 A snapshot of the evidence atlas. Colours represent studies reporting different recovered elements (or their combination)
+                                                                                   Finland (16) and Belgium (13). Note that the distribution
+                                                         Specialist websites
+                                                         Bibliographic searches…   of studies across continents and countries is influenced
+                       45
+                                                                                   by the eligible population criterion (see “Methods”).
+                       40
+                       35                                                          Types of ecotechnologies
+                       30
+                                                                                   In this map, we catalogued a total of 177 studies with 25
+  NUMBER OF ARTICLES
+                                                                                   ecotechnologies that focused on recovery effectiveness of
+                       25                                                          C, P and N (Table 2).
+                       20
+                                                                                     The most frequent category in the evidence base were
+                                                                                   soil amendments (15.3%), i.e. studies describing the reuse
+                       15                                                          of products such as compost or biochar as additions to
+                       10
+                                                                                   improve the soil; followed by anaerobic digestion (12.9%)
+                                                                                   and (vermi)composting (12.4%). Here, (vermi)compost-
+                        5                                                          ing refers to composting with or without various spe-
+                        0                                                          cies of worms. Studies describing effectiveness of various
+                            2013   2014         2015         2016       2017       combinations of ecotechnologies comprised 11% of evi-
+                                          PUBLICATION YEAR                         dence base (Fig. 5). The combinations were usually two
+ Fig. 3 Number of articles (n = 173) included in the systematic map                single ecotechnologies coupled together in a sequence
+ database published per year and search source
+                                                                                   and most frequently anaerobic digestion coupled with
+                                                                                   an alternative technology, such as ammonium stripping,
+                                                                                   bioelectrochemical systems, ultrasonication, or similar.
+published in English (93.1%). There were no eligible stud-
+ies published in Swedish, and no grey literature articles
+                                                                                   Main substrate used for recovery
+published in English.
+                                                                                   Manure was the principal source used for recovery of
+                                                                                   nutrients or C (98), followed by a combination of manure
+Description of ecotechnologies
+                                                                                   mixed with crop residues (or any other plant biomass)
+Most of the studies included in the map database, which
+                                                                                   (39) and crop residues solely (29). In addition, a compara-
+specifically indicated a study country (150, 84.7%), were
+                                                                                   tively small number of studies (11) tested ecotechnologies
+in Europe (76, 42.9%), followed by North America (50,
+                                                                                   on substrates that could not fit into any of the previous
+28.3%) and specifically, the United States (36, 24%) (see
+                                                                                   categories and were classified as ‘Other’ (see Fig. 6).
+Table 1). Studies were located in 26 countries. The two
+                                                                                     Among manure-based ecotechnologies, combinations
+most frequently represented European countries were
+                                                                                   of different ecotechnologies were the most common
+
+Macura et al. Environ Evid                   (2019) 8:39                                                                            Page 8 of 18
+                                    160
+                                    140
+                                    120
+               NUMBER OF ARTICLES
+                                    100
+                                     80
+                                                                                                                          English
+                                     60                                                                                   Finnish
+                                                                                                                          Polish
+                                     40
+                                     20
+                                      0
+                                          Book or book     Conference      Dissertaon      Journal arcle   Report
+                                            chapter        proceedings
+                                                                         PUBLICATION TYPE
+ Fig. 4 Publication type and language of articles (n = 173) included in the systematic map database
+(19.4%), followed by anaerobic digestion (16.3%) and                                Recovery of C and nutrients
+struvite precipitation (13.3%). Various types of manures                            There were 51 studies (28.8%) with 14 ecotechnologies
+were reported as a recovery source including manure                                 that reported on recovery of all 3 elements (C, N and
+of swine, poultry, cattle, and horse. Manure was some-                              P) (see Table 4) and mostly using (vermi)composting
+times described as solid or liquid, but without specifica-                          and anaerobic digestion (reported by 14 and 11 studies
+tion of the exact source, and some studies did not specify                          respectively). Joint P and N recovery was also frequent
+manure type or origin at all. The most common ecotech-                              in the evidence base (39, 22%) and was mostly done via
+nologies to use a mixed substrate were soil amendments                              struvite precipitation and a combination of ecotech-
+(33.3%), (vermi)composting (28.2%) and anaerobic diges-                             nologies. The number of studies that reported only
+tion (15.4%). The majority of crop-based ecotechnologies                            N recovery (35, 19.8%) was higher than those report-
+included cover crops (23.5%) and other crop manage-                                 ing only P recovery (22, 12.4%). P and N recovery were
+ment practices (24.1%), followed by soil amendments                                 more frequently reported than C recovery. N recovery
+(20.6%) and (vermi)composting (10.3%). Two noteworthy                               was mostly achieved by soil amendments and cover
+examples of ecotechnologies applied to substrates classi-                           crops, while P recovery was mostly achieved by struvite
+fied as “Others” were (11 studies): bioreactors placed in                           precipitation and soil amendments. Only 10 studies
+drainage ditches for nutrient removal and/or recovery                               (5.6%) reported recovery of C and mostly via anaero-
+(27.3% of 11 studies) and aquaponics (recirculation sys-                            bic digestion, and only 2 studies (1.1%) reported joint
+tems typically with fish tanks and hydroponic plants, e.g.                          recovery of C and P using either pyrolysis or membrane
+vegetables) (18.2% of 11 studies). The substrate was agri-                          filtration.
+cultural drainage wastewater and liquid from the aqua-                                 The majority of ecotechnologies using manure as a
+ponic system, respectively.                                                         recovery substrate focused on recovery of P and N (26),
+   Fourteen categories of ecotechnologies used only one                             followed by C, P and N (23) and N only (20) (Table 5)
+substrate type for recovery of P, N or C. Six used two                              and they constitute the largest knowledge cluster within
+substrate types, while five were applied on three or more                           the systematic map. The second cluster was within the
+substrate types (including soil amendments, (vermi)com-                             ecotechnologies classified as manure- and crop-based,
+posting, anaerobic digestion, pyrolysis and struvite pre-                           predominately focusing on joint recovery of C, P and N
+cipitation) (Table 3).                                                              (19). Crop-based ecotechnologies very mostly focusing
+                                                                                    on N, followed by C and N and C, P and N recovery.
+
+Macura et al. Environ Evid (2019) 8:39                                                                          Page 9 of 18
+Table 1 Number of studies (n = 177) per continent           manure-based technologies clearly dominated over all
+and country included in the systematic map database         other types in boreo-temporal regions of many coun-
+Continent                     Country                 #     tries including United States, China and many European
+                                                            countries.
+Asia                          China                    7       Studies located in the United States (7 out of 36) mostly
+                              Japan                    4    reported on the effectiveness of cover crops, while soil
+                              Korea, Republic of       3    amendments were one of the top ecotechnologies in Can-
+                              Pakistan                 2    ada, Finland and Belgium (Table 7). Studies that reported
+                              India                    1    no location were mostly focusing on vermicomposting (9
+Europe                        Finland                 16    out of 27) followed by soils amendments (5 out of 27) and
+                              Belgium                 13    a combination of ecotechnologies (5 out of 27).
+                              Netherlands              9
+                              France                   7    Reuse potential
+                              Germany                  5    Only 27 studies focused on reuse of recovered nutrients
+                              Denmark                  4    and C through soil amendments (Table 8). The majority
+                              Poland                   4    of soil amendments present in the evidence base were
+                              United Kingdom           4    compost (6, 22.2%), biochar (5, 18.5%) and biogas resi-
+                              Italy                    3    dues (5, 18.5%) originating from the recovery process
+                              Sweden                   3    of N only (7, 25.9%) or a combination of C, P and N (6,
+                              Lithuania                2    22.2%).
+                              Russia                   2
+                              Czech Republic           1    Study design and scale
+                              Ireland                  1    The majority of studies (Fig. 7) were conducted in a
+                              Norway                   1    laboratory context and on a small scale (88, 49.7%), fol-
+                              Spain                    1    lowed by the medium scale field studies (34, 19.2%) and
+North America                 United States           36    medium scale laboratory experiments (22, 12.4%). Mod-
+                              Canada                  14    elling (i.e. including calculations of potential effectiveness
+South America                 Brazil                   3    under modelled conditions) and large-scale field stud-
+                              Argentina                2    ies made up with only 6.8 and 6.2% of the evidence base,
+                              Chile                    2    respectively. There were 6 (3.4%) small-scale field studies
+No location stated                                    27    (mostly composting) and 4 studies that included both
+                                                            laboratory experiments and field tests (2.3%). The scales
+                                                            were defined as follows. Small scale studies were for
+   Table 6 shows the type of ecotechnology recovery         example pot or growth experiments, or in case of waste
+source across different locations. In the evidence base,    water treatment processes, lab or bench scale operations
+Table 2 Ecotechnologies for recovery and reuse of C, P and N from agricultural waste streams included in the evidence
+base
+Category of ecotechnology                #       (%)          Category of ecotechnology                #               (%)
+Soil amendments                          27      15           Aquaponics                                 2                1
+Anaerobic digestion                      23      13           Constructed wetlands                       2                1
+(Vermi)composting                        22      12           Microbial fuel cells                       2                1
+Combination                              20      11           Scrubber for NH4 recovery                  2                1
+Struvite precipitation                   15       8           Ammonia stripping                          1                1
+Crop management                          11       6           Electrocoagulation                         1                1
+Cover crops                               9       5           Gasification                               1                1
+Membrane filtration                       9       5           Nanoparticles to control P leaching        1                1
+Manure treatment/management               8       5           Nutrient biofilters                        1                1
+Industry systems                          5       3           P removal from drainage ditches            1                1
+Pyrolysis                                 5       3           Source separation                          1                1
+Bioreactors                               4       2           Algal turf scrubber                        1                1
+Microalgae cultivation                    3       2           Number of studies                        177             100
+
+Macura et al. Environ Evid    (2019) 8:39                                                                                   Page 10 of 18
+                   ALGAL TURF SCRUBBER
+                     SOURCE SEPARATION
+                        P REMOVAL FROM…
+                    NUTRIENT BIOFILTERS
+                      NANOPARTICLES TO…
+                            GASIFICATION
+                  ELECTROCOAGULATION
+                    AMMONIA STRIPPING
+                      SCRUBBER FOR NH4…
+                   MICROBIAL FUEL CELLS
+               CONSTRUCTED WETLANDS
+                            AQUAPONICS
+              MICROALGAE CULTIVATION
+                            BIOREACTORS
+                               PYROLYSIS
+                       INDUSTRY SYSTEMS
+                  MANURE TREATMENT /…
+                 MEMBRANE FILTRATION
+                            COVER CROPS
+                     CROP MANAGEMENT
+                STRUVITE PRECIPITATION
+                           COMBINATION
+                    (VERMI)COMPOSTING
+                   ANAEROBIC DIGESTION
+                      SOIL AMENDMENTS
+                                              0              5            10           15          20          25          30
+                                                                               Number of studies
+  Fig. 5 Number of studies across different categories of ecotechnologies
+with input flows from several millilitres to up to 10 L.                    Limitations of the map
+Medium scale studies included study plots in size of 10 s                   The limitations of the map may originate from: (1) the
+of meters. In case of waste water treatment processes,                      search strategy; and (2) bias in the pool of studies found.
+studies were classed as medium scale if they were pilot                     We will address both types of limitations consecutively.
+operations with input flows from 100 to up to 5000 L. A                       Although we have used a comprehensive set of both
+study was classified as a large if study plots were in size                 general and specific search terms and we have checked
+of 100 s of meters or over an entire field. In case of waste                comprehensiveness our search using a benchmark list,
+water treatment processes, large scale studies were at full                 there is a risk that we have missed some studies. Namely,
+scale operations.                                                           our search terms were ‘open’ to any ecotechnologies for
+  Of the most frequent ecotechnologies in the evidence                      reuse/recovery/recycling of nutrients and C, but did not
+base, soil amendment and (vermi) composting were                            contain any example names/types of existing ecotech-
+examined with either small scale lab experiments or                         nologies, such as anaerobic digestion, struvite precipi-
+medium scale field studies, while studies on anaerobic                      tation, composting, etc. It may be that there exist valid
+digestion, a combination of ecotechnologies, and struvite                   articles on these ecotechnologies that do not contain
+precipitation were mostly conducted on a small scale in a                   any of our ‘reuse’ terms in their title, abstract or key-
+laboratory setting (Table 9).                                               words, but they do mention or describe the reuse aspect
+                                                                            at full text level. On the other hand, although we were
+
+Macura et al. Environ Evid       (2019) 8:39                                                                         Page 11 of 18
+                                                                    searching for different ecotechnologies, none of the stud-
+                               6.2%
+                                                                    ies we found mentioned ‘ecotechnology’ in their title or
+                                                                    abstract. Future maps should account for this limitation
+                                                                    and potentially introduce more synonyms for specific
+                                                                    ecotechnologies, or make use of emerging technological
+              16.4%                                                 developments to search for potentially relevant studies
+                                                                    via text analysis or citation connections.
+                                                                      Our grey literature searches were focused on the Bal-
+                                                                    tic Sea Region and European contexts (due to the focus
+                                                                    of the BONUS RETURN project and available language
+                                                                    skills in the review team). Future work could include
+                                                              55.4%
+                                                                    more searches for grey literature on non-European spe-
+                                                                    cialist websites. In addition, the evidence base included
+            22.0%
+                                                                    only four studies conducted in Denmark, which is sur-
+                                                                    prising since this is a country with significant manure
+                                                                    problems on the one hand and a high level of techno-
+                                                                    logical innovations on the other. In contrast, the evidence
+                                                                    base included 16 studies from Finland, but as many as 9
+                                                                    of them came from specialist website searches in using
+                  Manure      Mixed       Crop    Other             Finnish search terms. We therefore expect that, as in the
+  Fig. 6 Distribution of studies per substrates used for recovery   Finnish case, some eligible studies could be identified
+Table 3 Distribution of ecotechnologies according to the main substrate type used for recovery
+                                                      Manure-based         Manure- and crop-based   Crop-based             Other
+(Vermi)composting                                      8                   11                        3
+Algal turf scrubber                                                                                                          1
+Ammonia stripping                                      1
+Anaerobic digestion                                   16                    6                        1
+Aquaponics                                                                                                                   2
+Bioreactors                                                                                          1                       3
+Combination                                           19                    1
+Constructed wetlands                                   1                                                                     1
+Cover crops                                                                 1                        8
+Crop management                                                             4                        7
+Electrocoagulation                                     1
+Gasification                                           1
+Industry systems                                       4                    1
+Manure treatment/management                            8
+Membrane filtration                                    9
+Microalgae cultivation                                 3
+Microbial fuel cells                                   2
+Nanoparticles to control P leaching                    1
+Nutrient biofilters                                                                                                          1
+P removal from drainage ditches                                                                                              1
+Pyrolysis                                              1                    1                        3
+Scrubber for NH4 recovery                              2
+Soil amendments                                        7                   13                        6                       1
+Source separation                                      1
+Struvite precipitation                                13                    1                                                1
+Number of studies                                     98                   39                       29                     11
+
+Macura et al. Environ Evid      (2019) 8:39                                                                  Page 12 of 18
+Table 4 Recovery of C, P and N reported across different ecotechnologies in the evidence base
+                                            C     P       N          C and P        C and N       P and N      C, P and N
+(Vermi)composting                                          1                         5             2           14
+Ammonia stripping                                          1
+Anaerobic digestion                          3             4                                       5           11
+Aquaponics                                                                                         2
+Bioreactors                                  1                                       1             1             1
+Combination                                        3       4                         2             6             5
+Constructed wetlands                                       1                                                     1
+Cover crops                                  1             5                         2                           1
+Crop management                              2             3                         4             1             1
+Electrocoagulation                                 1
+Gasification                                                                                                     1
+Industry systems                                   2       1                                                     2
+Manure treatment/management                        1       1                         1             1             4
+Membrane filtration                                1       2         1                             3             2
+Microalgae cultivation                                                                             3
+Microbial fuel cells                                       1                         1
+Nanoparticles to control P leaching                1
+Nutrient biofilters                                        1
+P removal from drainage ditches                                                                                  1
+Pyrolysis                                    1     2                 1                             1
+Scrubber for NH4 recovery                                  2
+Source separation                                                                                  1
+Struvite precipitation                             6       1                                       7             1
+Soil amendments                              2     5       7                         2             5             6
+Algal turf scrubber                                                                                1
+Number of studies                           10    22      35         2              18            39           51
+Table 5 Number of studies per type of recovery and type of ecotechnology based on recovery source
+                                     C         P     N         C and P         C and N         P and N        C, P and N
+Manure-based                          3        18    20        1                7              26             23
+Crop-based                            4         1     8        1                6               3              6
+Manure- and crop-based                2         2     5                         5               6             19
+Other                                 1         1     2                                         4              3
+Number of studies                    10        22    35        2               18              39             51
+from searches in Danish language and future syntheses         improvement measures applied in countries with tem-
+should attempt these searches.                                perate climate [34] identified buffer strips and catch/
+   In this systematic map we have not focused on the          cover crops as the two most frequently studied inter-
+reduction of C and nutrient emissions from agriculture,       ventions. The size of their evidence base (410) was sig-
+but instead on their recovery and reuse, due to a pre-set     nificantly higher than the size of ours (177). In another
+context of the BONUS RETURN project. In fact, reduc-          systematic review focused on the effectiveness of con-
+tion of pollutant emissions from agriculture is often         structed or restored wetlands for nutrients removal, 93
+(traditionally) seen as a more important problem than         articles were identified with data from 203 wetlands [22].
+recovery of nutrients and C, so a larger body of evidence     Future maps could expand the scope and catalogue other
+may exist for ‘reduction ecotechnologies’. For example, a     types of removal and reduction ecotechnologies.
+recent systematic map concerning on-farm water quality
+
+Macura et al. Environ Evid     (2019) 8:39                                                                 Page 13 of 18
+Table 6 Number of studies per type of ecotechnology recovery source across different locations
+Continent                  Country            Manure-based      Manure- and crop-  Crop-based       Other        Total
+                                                                based
+Asia                       China               7                                                                   7
+                           India                                                   1                               1
+                           Japan               3                                                    1              4
+                           Korea, Republic of  2                1                                                  3
+                           Pakistan                             1                  1                               2
+Europe                     Belgium             1                5                  5                2            13
+                           Czech Republic                       1                                                  1
+                           Denmark             4                                                                   4
+                           Finland            11                4                  1                             16
+                           France              3                2                  2                               7
+                           Germany             2                2                                   1              5
+                           Ireland             1                                                                   1
+                           Italy               3                                                                   3
+                           Lithuania                                               2                               2
+                           Netherlands         5                3                  1                               9
+                           Norway              1                                                                   1
+                           Poland              4                                                                   4
+                           Russia              2                                                                   2
+                           Spain               1                                                                   1
+                           Sweden              1                2                                                  3
+                           United Kingdom      3                1                                                  4
+North America              Canada              8                2                  4                             14
+                           United States      17                3                  9                7            36
+South America              Argentina                            2                                                  2
+                           Brazil              1                1                  1                               3
+                           Chile               2                                                                   2
+No location stated                            16                9                  2                             27
+  Finally, we have limited our search to 5 years, between   from relevant geographical regions (such as boreo-tem-
+2013 and 2017 as we focused on the technological inno-      perate zones of South America or similar).
+vations, but future work should update this range to          This systematic map dealt with two different aspects
+capture research published since 2017, and potentially      of processing waste products: recovery of nutrients
+examine articles published before 2013 for a more exten-    from agricultural waste and reuse of recovered prod-
+sive evidence base.                                         ucts as soil amendments (including fertilizers). The
+  Given the scope of this map and the focus on boreo-       studies dealing with the latter (27) appeared to be much
+temperate zones, a geographical bias towards developed      less abundant than the former (150). Many studies that
+countries, especially the United States and western Euro-   dealt with nutrient or C recovery frequently mentioned
+pean countries, can be noticed in our evidence base.        the potential of the reuse of recovered products in agri-
+Studies from some large countries covering large part       culture, but they rarely evaluated its effectiveness. Tri-
+of the relevant climate zones, such as China or Russia,     als have been mostly conducted in laboratory plots, but
+have a minor contribution to the evidence base (7 and 2     evidence of their effectiveness is needed at larger spa-
+studies respectively) which may also be partly explained    tial and temporal scales [12]. It should be noted, how-
+by the lack of Russian and Chinese focus in our review.     ever, that studies that described agricultural reuse of
+Moreover, searching for and including literature pro-       products derived from municipal wastewater or sludge
+duced in more languages (in addition to English, Finnish,   were included in the parallel systematic map carried
+Polish and Swedish), may have identified more evidence      out within the BONUS RETURN project [28]. The
+                                                            effectiveness of the recovered products as fertilisers is
+
+Macura et al. Environ Evid      (2019) 8:39                                                                    Page 14 of 18
+Table 7 Ecotechnologies per top four locations (with or more than 13 studies), including studies that have not stated
+country
+Ecotechnology                               Belgium     Canada           Finland          United States           No
+                                                                                                                  stated
+                                                                                                                  country
+(Vermi)composting                           2                            1                                        9
+Ammonia stripping                                                                         1
+Anaerobic digestion                         2                                             3                       3
+Aquaponics                                  1
+Bioreactors                                             1                                 2
+Combination                                 1                            4                2                       4
+Constructed wetlands                                                                      2
+Cover crops                                             1                                 7
+Crop management                                         2                                 2                       1
+Electrocoagulation                                                                        1
+Gasification
+Industry systems                                                                          2
+Manure treatment/management                             2                2                                        1
+Membrane filtration                                     1                                 4                       1
+Microalgae cultivation
+Microbial fuel cells
+Nanoparticles to control P leaching                                                       1                       1
+Nutrient biofilters                                                                       1
+P removal from drainage ditches             1
+Pyrolysis                                                                                 2
+Scrubber for NH4 recovery                                                                 1                       1
+Source separation                                                                         1                       1
+Struvite precipitation                                  4                2                1
+Soil amendments                             4           5                5                3                       5
+Algal turf scrubber                                                                       1                       1
+Table 8 Different reuse products originating from recovered nutrients and C
+Reuse product                        C       P      N     C and P     C and N     N and P        C and P and N       Total
+Compost                                      1      3                             1              1                    6
+Biochar                              2              2                             1                                   5
+Biogas residues                                                       1           1              3                    5
+Plant residues                                      2                 1                          1                    4
+Biogas residues and compost                  1                                                   1                    2
+Algae residues                                                                    1                                   1
+Biogas residues and struvite                 1                                                                        1
+Food industry by-products                                                         1                                   1
+Nano calcium sulphate                        1                                                                        1
+Struvite                                     1                                                                        1
+Grand total                          2       5      7     0           2           5              6                   27
+
+Macura et al. Environ Evid       (2019) 8:39                                                                                   Page 15 of 18
+          100
+            90
+            80
+            70
+            60
+            50
+            40
+            30
+            20
+            10
+             0
+                     Laboratory      Field study,      Laboratory Modelling study Field study,    Field study,     Laboratory and
+                    experiment,     medium scale       experiment,                 large scale     small scale       field study,
+                     small scale                      medium scale                                                  medium scale
+  Fig. 7 Scale and design of included studies (n = 177)
+Table 9 Study scale and designs used to assess the effectiveness of ecotechnologies in the evidence base
+                                         Lab, small scale    Field,  Lab,         Modelling    Field,       Field,        Laboratory
+                                                             medium  medium       study        large scale small          and field,
+                                                             scale   scale                                  scale         medium scale
+(Vermi)composting                          9                  5        1           3                        4
+Algal turf scrubber                                                    1
+Ammonia stripping                          1
+Anaerobic digestion                      13                   1        3           3            2           1
+Aquaponics                                 1                                                                              1
+Bioreactors                                4
+Combination                              13                   1        4           1            1
+Constructed wetlands                                                   1           1
+Cover crops                                                   9
+Crop management                            1                  5                    1            3                         1
+Electrocoagulation                         1
+Gasification                                                           1
+Industry systems                                                       3                        2
+Manure treatment/management                4                  1        1                        2
+Membrane filtration                        6                           3
+Microalgae cultivation                     3
+Microbial fuel cells                       1                           1
+Nanoparticles to control P leaching        1
+Nutrient biofilters                                           1
+P removal from drainage ditches                                                                 1
+Pyrolysis                                  4                           1
+Scrubber for NH4 recovery                                     1                                                           1
+Soil amendments                          13                  10                    2                        1             1
+Source separation                                                                  1
+Struvite precipitation                   13                            2
+Number of studies                        88                  34      22           12           11           6             4
+
+Macura et al. Environ Evid (2019) 8:39                                                                                          Page 16 of 18
+still under investigation. Trials have been mostly con-      heterogenous category), three main topics that stand out
+ducted on laboratory plots, but evidence of their effec-     as potential knowledge clusters suitable for systematic
+tiveness is needed at larger temporal and spatial scales.    reviews are:
+The review team is however, trying to cover this synthe-
+sis gap [35].                                                   1. What is the effectiveness of products recovered from
+  Finally, meta-data coding within this map had to                  different types of agricultural wastes as soil amend-
+include some level of subjectivity. For example, the dis-           ments or fertilisers? The most popular products were
+tinction between different categories of eco-technologies           compost, biogas residues and biochar.
+was in some cases difficult to clearly define. The category     2. How effective is anaerobic digestion as an ecotechnol-
+“Combination” contains combinations of ecotechnolo-                 ogy used for recovery of nutrients and carbon from
+gies, of which one component was frequently anaerobic               manure and mixtures of manure with biomass waste?
+digestion, thus the true value of studies that described        3. How effective is composting and/or vermicomposting
+anaerobic digestion is higher than 23 as reported in                as an ecotechnology used for recovery of nutrients and
+Table 2. The same applies to study design, whereby it was           carbon from manure and/or biomass waste?
+difficult to provide precise estimate of the study scale and
+mostly due to lack of reporting clarity.                        There is a potentially long list of ecotechnology cat-
+                                                             egories with very low numbers of corresponding stud-
+Conclusions                                                  ies (cf. Table 2) that could be considered as knowledge
+Implication for policy/management                            gaps. However, these are knowledge gaps only within
+This systematic map sought ecotechnologies—the term          the limits of our map and would need to be further dis-
+defined strictly for the purpose of the BONUS RETURN         cussed with relevant stakeholders before being seen
+project [24]—for recovery and reuse of nutrients and C       as primary research priorities. Ecotechnologies for
+in agriculture. In the context of the Baltic Sea eutrophi-   which primary or secondary (i.e. non-manure) agri-
+cation and the role of non-point agricultural pollution      cultural residues were the sole recovery source were
+affecting it, most of the current environmental and water    not the focus of the evidence base, but this is under-
+policies at both European (e.g. Water Framework Direc-       standable given that they are not ubiquitous and their
+tive), regional (e.g. HELCOM’s Baltic Sea Action Plan)       environmental impact less severe than that of manure.
+and national levels (country-specific legislation) still     Even less studied were ecotechnologies for which con-
+focus on the reduction of emissions from agriculture         taminated water was a source for recovery, e.g. water
+rather than on recovery and reuse of nutrients in this       in closed, recirculation systems (aquaponics), or water
+sector. For example, a background document to the 2018       in the natural, open systems (constructed wetlands or
+HELCOM Ministerial Meeting [36] mentions actions for         bioreactors placed in small ditches). Future work could
+nutrient recycling in order to reduce eutrophication only    investigate these processes.
+once—in the context of P recycling in agriculture and
+wastewater treatment, whereas the HELCOM discourse           Supplementary information
+has been for a long time dominated by the country allo-      Supplementary information accompanies this paper at https​://doi.
+                                                             org/10.1186/s1375​0-019-0183-1.
+cated reduction targets (CARTs), which are the amounts
+of nutrient inputs that member states need to reduce in
+comparison to the reference period of 1997–2003 [37].          Additional file 1. ROSES form for systematic maps.
+In contrast, as the EU shifts to a circular economy [10],      Additional file 2. Search results.
+a specific action plan for nutrient recovery and reuse         Additional file 3. List of unobtainable articles.
+established at the EU level is being recommended [12].         Additional file 4. List of studies excluded at full text screening with
+This systematic map report provides evidence base that         reasons for exclusion.
+can be useful for decision-makers working on transfor-         Additional file 5. Systematic map database.
+mation from linear to circular economy in the agricul-
+tural waste sector.                                          Acknowledgements
+                                                             We thank the BONUS Secretariat for their generous funding. We are grateful
+                                                             for support provided by Jari Koskiaho (SYKE) for grey literature searches in
+Implication for research                                     Finnish, and to Dag Lorick (SEI) for meta-data extraction and cleaning of
+Future work could focus in more detail at specific ele-      database.
+ments of this map through a full systematic review (and      Authors’ contributions
+meta-analysis, where possible). Taking an arbitrary          BM and MP drafted initial version of the manuscript. NH and other authors
+number of 20 studies in each category as a threshold         edited and commented on earlier versions of the manuscript. All authors read
+                                                             and approved the final manuscript.
+(and excluding combinations of ecotechnologies as an
+
+Macura et al. Environ Evid           (2019) 8:39                                                                                                     Page 17 of 18
+Funding                                                                               waste in a circular bio-based economy. Crit Rev Environ Sci Technol.
+This review was conducted as part of BONUS RETURN project. BONUS RETURN               2018;48(6):614–54.
+project is supported by BONUS (Art 185), funded jointly by the EU and Swed-       12. Buckwell A, Nadeu E. Nutrient recovery and reuse (NRR) in European
+ish Foundation for Strategic Environmental Research FORMAS, Sweden’s                  agriculture: a review of the issues, opportunities, and actions. Brussels:
+innovation agency VINNOVA, Academy of Finland and National Centre for                 RISE Foundation; 2016.
+Research and Development in Poland. Open access funding provided by               13. Jones DL, Cross P, Withers PJA, DeLuca TH, Robinson DA, Quilliam RS,
+Stockholm University.                                                                 Harris IM, Chadwick DR, Edwards-Jones G. REVIEW: nutrient stripping:
+                                                                                      the global disparity between food security and soil nutrient stocks. J
+Availability of data and materials                                                    Appl Ecol. 2013;50(4):851–62.
+Not applicable.                                                                   14. Goss MJ, Tubeileh A, Goorahoo D. Chapter five—a review of the use of
+                                                                                      organic amendments and the risk to human health. In: Sparks DL, editor.
+Ethics approval and consent to participate                                            Advances in agronomy, vol. 120. Amsterdam: Academic Press; 2013. p.
+Not applicable.                                                                       275–379.
+                                                                                  15. Al Seadi T, Drosg B, Fuchs W, Rutz D, Janssen R. 12—Biogas digestate
+Consent for publication                                                               quality and utilization. In: Wellinger A, Murphy J, Baxter D, editors. The
+Not applicable.                                                                       biogas handbook. Cambridge: Woodhead Publishing; 2013. p. 267–301.
+                                                                                  16. Wu H, Lai C, Zeng G, Liang J, Chen J, Xu J, Dai J, Li X, Liu J, Chen M, et al.
+Competing interests                                                                   The interactions of composting and biochar and their implications for
+The authors declare that they have no competing interests.                            soil amendment and pollution remediation: a review. Crit Rev Biotech-
+                                                                                      nol. 2017;37(6):754–64.
+Author details                                                                    17. Zhang A, Liu Y, Pan G, Hussain Q, Li L, Zheng J, Zhang X. Effect of bio-
+1
+  Stockholm Environment Institute, Linnégatan 87D, Stockholm, Sweden.                 char amendment on maize yield and greenhouse gas emissions from
+2
+  Department of Hydraulic Engineering, Warsaw University of Life Sciences,            a soil organic carbon poor calcareous loamy soil from Central China
+Nowoursynowska 166, 02‑787 Warsaw, Poland. 3 Africa Centre for Evidence,              Plain. Plant Soil. 2012;351(1):263–75.
+University of Johannesburg, Johannesburg, South Africa. 4 Present Address:        18. Sutherland DL, Craggs RJ. Utilising periphytic algae as nutrient removal
+Department of Urban and Rural Development, Swedish University of Agricul-             systems for the treatment of diffuse nutrient pollution in waterways.
+tural Sciences, P.O. Box 7012, 750 07 Uppsala, Sweden. 5 Finnish Environment          Algal Res. 2017;25:496–506.
+Institute (SYKE), Helsinki, Finland.                                              19. Mayer BK, Baker LA, Boyer TH, Drechsel P, Gifford M, Hanjra MA,
+                                                                                      Parameswaran P, Stoltzfus J, Westerhoff P, Rittmann BE. Total value of
+Received: 5 September 2019 Accepted: 7 December 2019                                  phosphorus recovery. Environ Sci Technol. 2016;50:6606–20.
+                                                                                  20. Venkiteshwaran K, McNamara PJ, Mayer BK. Meta-analysis of non-
+                                                                                      reactive phosphorus in water, wastewater, and sludge, and strategies
+                                                                                      to convert it for enhanced phosphorus removal and recovery. Sci Total
+                                                                                      Environ. 2018;644:661–74.
+References                                                                        21. Newman JR, Duenas-Lopez MA, Acreman MC, Palmer-Felgate EJ,
+ 1. Lundberg C. Water quality of the Baltic Sea. In: Ahuja S, editor. Compre-         Verhoeven JTA, Scholz M, Maltby E. Do on-farm natural, restored, man-
+      hensive water quality and purification. Waltham: Elsevier; 2014. p. 251–69.     aged and constructed wetlands mitigate agricultural pollution in Great
+ 2. HELCOM. Eutrophication in the Baltic Sea—an integrated thematic                   Britain and Ireland? A systematic review. Final report WT0989. London:
+      assessment of the effects of nutrient enrichment and eutrophication             Department for Environment, Food and Rural Affairs; 2015.
+      in the Baltic Sea region. In: Baltic Sea environmental proceedings no.      22. Land M, Granéli W, Grimvall A, Hoffmann CC, Mitsch WJ, Tonderski
+      115B. Helsinki: HELCOM; 2009.                                                   KS, Verhoeven JTA. How effective are created or restored freshwater
+ 3. HELCOM. Ecosystem health of the Baltic Sea. HELCOM initial holistic               wetlands for nitrogen and phosphorus removal? A systematic review.
+      assessment, 2003–2007. In: Baltic Sea environment proceedings 122;              Environ Evid. 2016;5:9.
+      2010. p. 63.                                                                23. Newcomer Johnson TA, Kaushal SS, Mayer PM, Smith RM, Sivirichi GM.
+ 4. HELCOM. Sources and pathways of nutrients to the Baltic Sea. In: Baltic           Nutrient retention in restored streams and rivers: a global review and
+      Sea environment proceedings no. 153; 2018.                                      synthesis. Water. 2016;8:116.
+ 5. Räike A, Taskinen A, Knuuttila S. Nutrient export from Finnish rivers into    24. Haddaway N, McConville J, Piniewski M. How is the term ‘ecotechnol-
+      the Baltic Sea has not decreased despite water protection measures.             ogy’ used in the research literature? A systematic review with thematic
+      Ambio. 2019. https​://doi.org/10.1007/s1328​0-019-01217​-7.                     synthesis. Ecohydrol Hydrobiol. 2018;18:247–61.
+ 6. Powell N, Osbeck M, Larsen RK, Andersson K, Schwartz G, Davis M. The com-     25. Collaboration for Environmental Evidence. In: Pullin A, Frampton G,
+      mon agricultural policy post—2013: could reforms make baltic sea region         Livoreil B, Petrokofsky G, editors. Guidelines and standards for evidence
+      farms more sustainable? In: SEI and Baltic COMPASS policy brief; 2013.          synthesis in environmental management. Version 5.0; 2018.
+ 7. Dawson CJ, Hilton J. Fertiliser availability in a resource-limited world:     26. Haddaway NR, Piniewski M, Macura B. What evidence exists relating
+      production and recycling of nitrogen and phosphorus. Food Policy.               to effectiveness of ecotechnologies in agriculture for the recovery
+      2011;36:S14–22.                                                                 and reuse of carbon and nutrients in the Baltic and boreo-temperate
+ 8. Leinweber P, Bathmann U, Buczko U, Douhaire C, Eichler-Löbermann                  regions? A systematic map protocol. Environ Evid. 2019;8:5.
+      B, Frossard E, Ekardt F, Jarvie H, Krämer I, Kabbe C, et al. Handling the   27.      Haddaway N, Macura B, Whaley P, Pullin A. ROSES flow diagram for
+      phosphorus paradox in agriculture and natural ecosystems: scarcity,             systematic maps. Version 1.0. figshare. 2017. https​://doi.org/10.6084/
+      necessity, and burden of P. Ambio. 2018;47(1):3–19.                             m9.figsh​are.60859​40.
+ 9. Sharpley AN, Bergström L, Aronsson H, Bechmann M, Bolster CH,                 28. Haddaway NR, Johannesdottir SL, Piniewski M, Macura B. What
+      Börling K, Djodjic F, Jarvie HP, Schoumans OF, Stamm C, et al. Future           ecotechnologies exist for recycling carbon and nutrients from domes-
+      agriculture with minimized phosphorus losses to waters: research                tic wastewater? A systematic map protocol. Environ Evid. 2019;8:1.
+      needs and direction. Ambio. 2015;44(2):163–79.                              29. Harzing AW. Publish or perish. https​://harzi​ng.com/resou​rces/publi​
+ 10. European Commission. Communication from the Commission to the                    sh-or-peris​h; 2007.
+      European parliament, the Council, the European Economic and Social          30. Thomas J, Brunton J, Graziosi S. EPPI-Reviewer 4.0: software for research
+      committee and the Committee of the Regions: closing the loop—an                 synthesis. EPPI-Centre Software. 4.0 edn. London: Social Science
+      EU action plan for the Circular Economy. In: Commission E, editor.              Research Unit, Institute of Education, University of London; 2010.
+      Document 52015DC0614. vol. COM(2015) 614 final. Brussels; 2015.             31. Kottek M, Grieser J, Beck C, Rudolf B, Rubel F. World map of the Köp-
+ 11. Gontard N, Sonesson U, Birkved M, Majone M, Bolzonella D, Celli                  pen-Geiger climate classification updated. Meteorol Z. 2006;15:259–63.
+      A, Angellier-Coussy H, Jang G-W, Verniquet A, Broeze J, et al. A            32. James K, Randall N, Haddaway N. A methodology for systematic map-
+      research challenge vision regarding management of agricultural                  ping in environmental sciences. Environ Evid. 2016;5:7.
+
+Macura et al. Environ Evid          (2019) 8:39                                                                                                     Page 18 of 18
+33. Haddaway NR, Feierman A, Grainger MJ, Gray CT, Tanriver-Ayder E,           37. HELCOM. Summary report on the development of revised maximum
+    Dhaubanjar S, Westgate MJ. EviAtlas: a tool for visualising evidence            allowable inputs (MAI) and updated country allocated reduction targets
+    synthesis databases. Environ Evid. 2019;8(1):22.                                (CART) of the Baltic Sea Action Plan. In: 2013 HELCOM ministerial meet-
+34. Randall NP, Donnison LM, Lewis PJ, James KL. How effective are on-              ing; 2013.
+    farm mitigation measures for delivering an improved water environ-
+    ment? A systematic map. Environ Evid. 2015;4(1):18.
+35. Macura B, Johannesdottir SL, Piniewski M, Haddaway NR, Kvarnström E.      Publisher’s Note
+    Effectiveness of ecotechnologies for recovery of nitrogen and phospho-    Springer Nature remains neutral with regard to jurisdictional claims in pub-
+    rus from anaerobic digestate and effectiveness of the recovery products   lished maps and institutional affiliations.
+    as fertilisers: a systematic review protocol. Environ Evid. 2019;8(1):29.
+36. HELCOM. Implementation of the Baltic Sea Action Plan 2018: three
+    years left to reach good environmental status. In: Brussels Ministerial
+    Meeting 2018; 2018.
+                                                                                   Ready to submit your research ? Choose BMC and benefit from:
+                                                                                     • fast, convenient online submission
+                                                                                     • thorough peer review by experienced researchers in your field
+                                                                                     • rapid publication on acceptance
+                                                                                     • support for research data, including large and complex data types
+                                                                                     • gold Open Access which fosters wider collaboration and increased citations
+                                                                                     • maximum visibility for your research: over 100M website views per year
+                                                                                   At BMC, research is always in progress.
+                                                                                   Learn more biomedcentral.com/submissions
+

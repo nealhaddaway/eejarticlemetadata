@@ -1,0 +1,1234 @@
+Whitlock et al. Environmental Evidence 2013, 2:13
+http://www.environmentalevidencejournal.org/content/2/1/13
+  SYSTEMATIC REVIEW                                                                                                                                    Open Access
+A systematic review of phenotypic responses to
+between-population outbreeding
+Raj Whitlock1*, Gavin B Stewart2, Simon J Goodman3, Stuart B Piertney4, Roger K Butlin5, Andrew S Pullin6
+and Terry Burke5
+   Abstract
+   Background: The translocation of plants or animals between populations has been used in conservation to
+   reinforce populations of threatened species, and may be used in the future to buffer species’ ranges from the
+   anticipated effects of environmental change. This population admixture can result in outbreeding, and the resulting
+   “hybrid” offspring can be either fitter (heterosis) or less fit (outbreeding depression) than their parents. Outbreeding
+   depression has the potential to undermine conservation plans that mix populations of declining or threatened
+   species.
+   Methods: We searched for literature documenting phenotypic responses to intraspecific outbreeding between
+   natural populations of animal and plant species. Outbreeding responses were summarised as log-response ratios
+   that compared hybrid with mid-parent phenotypes (528 effect sizes from 98 studies). These data included effect
+   sizes from both fitness components (survival, viability and fecundity traits) and other traits (e.g. morphological,
+   physiological, defence), and were pooled using Bayesian mixed-effects meta-analysis.
+   Results: There was no overall effect of outbreeding on hybrid phenotypes (overall pooled effect = +2.61%
+   phenotypic change relative to parents, 95% credible interval (CI) −1.03–6.60%). However, fitness component traits
+   responded significantly more negatively to outbreeding than traits less directly linked with fitness. Our model
+   predicted a significant 6.9% F1 generation benefit to outcrossing through non-fitness traits (CI 2.7–11.2%), but no
+   significant benefit to these traits in the F2 (3.5%; CI −4.3–12.2%). Fitness component traits were predicted to suffer a
+   cost (−8.8%) relative to parents in the F2 (CI −14.1– − 2.5%), but not in the F1 (+1.3%; CI −2.1–5.4%). Between-study
+   variation accounted for 39.5% of heterogeneity in outbreeding responses, leaving 27.1% of heterogeneity between
+   effect sizes within studies and 33.4% attributable to measurement error within effect sizes.
+   Conclusions: Our study demonstrates consistent effects of trait type on responses to intraspecific outbreeding, and
+   indicates the potential for outbreeding depression in the F2. However, our analyses also reveal significant
+   heterogeneity in outbreeding responses within and among studies. Thus, outbreeding costs will not always occur.
+   Conservation practitioners may be able to anticipate when such outbreeding depression should arise using an
+   existing decision-making framework that takes into account the context of hybridising populations.
+   Keywords: Outbreeding Depression, Heterosis, Phenotypic Response, Conservation Genetics, Line-cross Analysis,
+   Outbreeding, Outcrossing, Intraspecific Hybridisation
+* Correspondence: r.whitlock@liverpool.ac.uk
+1
+ Institute of Integrative Biology, University of Liverpool, The Biosciences
+Building, Crown Street, Liverpool L69 7ZB, UK
+Full list of author information is available at the end of the article
+                                            © 2013 Whitlock et al.; licensee BioMed Central Ltd. This is an Open Access article distributed under the terms of the Creative
+                                            Commons Attribution License (http://creativecommons.org/licenses/by/2.0), which permits unrestricted use, distribution, and
+                                            reproduction in any medium, provided the original work is properly cited.
+
+Whitlock et al. Environmental Evidence 2013, 2:13                                                                 Page 2 of 21
+http://www.environmentalevidencejournal.org/content/2/1/13
+Background                                                     allopatry. Fitness often depends on the integrated func-
+The need to ensure natural populations have sufficient         tioning of alleles at different gene loci (“co-adapted gene
+genetic variation for their long-term sustainability has long  complexes”). When parent populations have been isolated
+been recognized [1,2]. Genetic diversity provides the raw      from each other for a sufficient number of generations,
+genetic material upon which natural selection can act          they can evolve to “find” different solutions to the problem
+allowing adaption to changes in the environment (includ-       of adaptation that depend upon different sets of alleles
+ing current anthropogenic changes such as eutrophication       [25]. While these co-adapted gene sets may work well
+and climate change). By definition, genetic diversity in-      within each population, their functioning can break down
+cludes allelic and genotypic variants conferring both detri-   if mixed in hybrid individuals with alleles with which they
+mental and beneficial effects on the phenotype and fitness.    have never been tested. Intrinsic outbreeding depression
+When sexual reproduction occurs among related individ-         occurs when hybrid fitness falls below that of the mid-
+uals, detrimental variation can be exposed as a decline in     parent value [15]. Theory predicts that the potential for in-
+fitness of the resulting offspring, an effect known as in-     trinsic outbreeding depression should be associated with
+breeding depression [3,4]. Inbreeding becomes more likely      genetic distance between parent populations [17,26]. How-
+as populations become smaller in size, and where this          ever, there is little consistent empirical evidence for this
+leads to inbreeding depression it may contribute to the ex-    [15,16,27].
+tinction of small populations [5,6]. However, the natural         Risks of both intrinsic and extrinsic outbreeding de-
+movement or human-aided translocation of individuals           pression are expected to be low where migration among
+into an inbred population from a separate population can       parental populations is high, or where the populations
+result in fitness recovery, or “genetic rescue” within the in- are recently isolated. This is because the genetic com-
+bred population [7-13].                                        position of the parent populations will be more homoge-
+   Despite the potential benefits of creating hybrid popula-   neous, limiting the extent of adaptive differentiation and
+tions, conservation practitioners remain cautious about        development of the divergent genetic architectures that
+applying population translocations widely as a tool to en-     lead to outbreeding depression [21,28].
+hance population sustainability [14]. This caution may be         A growing body of evidence exists on the phenotypic
+well founded, since it has been shown that in some cir-        effects of intraspecific outbreeding, and there have been
+cumstances, population admixture can lead to a reduction       several attempts to synthesise this literature. Edmands
+in fitness of hybrid individuals within the mixed popula-      reviewed the relative risks of inbreeding and outbreeding
+tion, called “outbreeding depression” [8,15,16]. The basis     [15]. She found that outbreeding responses in the F2
+of such a fitness reduction is that the populations being      may be comparable to the effects of close inbreeding,
+mixed may have become adapted to the specific environ-         and that F2 phenotypic responses to outbreeding were sig-
+ments in which they exist (extrinsic outbreeding depres-       nificantly more negative than F1 responses. McClelland
+sion), or they may have diverged genetically such that         and Naish [16] carried out a meta-analysis that focussed
+genomic incompatibilities are exposed upon population          on the phenotypic consequences of outbreeding within
+mixing (intrinsic outbreeding depression, also known as        and between fish species. They found overall positive re-
+the break up of co-adapted gene complexes [15,17,18]).         sponses to outbreeding, but were not able to identify fac-
+Hybrid viability can also be undermined by chromosomal         tors that consistently explained variation in outbreeding
+rearrangements that differentiate parent populations (in-      responses. Together, these two papers have improved our
+cluding inversions, translocations and centric fusions         understanding of responses to outbreeding, but both suffer
+[19-21]). These reductions in fitness can be observed          from problems. Edmands’ analysis was limited to study-
+readily at one extreme of the inbreeding-outbreeding con-      systems for which data were available on both responses
+tinuum, in hybrid offspring derived from mating between        to inbreeding and responses to outbreeding, and did not
+individuals of different species [20,22,23].                   consider or control for within-study measurement error.
+   Extrinsic outbreeding depression is driven by adaptation    McClelland and Naish’s work was limited in taxonomic
+of parent populations to different environments [18]. Hy-      scope. In addition, these articles neither reviewed the lit-
+brids individuals are expected on average to possess a         erature systematically nor addressed the problem of the
+phenotype intermediate to that of the parents (considering     occurrence of multiple outbreeding effect-size estimates
+only additive gene effects [24]) and so may be unfit in ei-    within each study. Thus, there is a need for an expanded
+ther or both parental environments. The potential for ex-      synthesis of the evidence on outbreeding responses, in
+trinsic outbreeding depression is thought to increase with     order to guide future conservation management that re-
+environmental distance between parental populations, and       sults in outbreeding (including translocations).
+with duration of isolation of the parent populations in           We carried out a systematic review to determine whether
+these separate environments [21]. Intrinsic outbreeding        there is a net change in fitness or phenotype in hybrid
+depression arises as a further consequence of evolution in     offspring arising from mating between individuals from
+
+Whitlock et al. Environmental Evidence 2013, 2:13                                                                                            Page 3 of 21
+http://www.environmentalevidencejournal.org/content/2/1/13
+separate populations. We also assessed whether outbreed-                            Literature search terms
+ing responses varied through the generations following                              We used the search strings listed in Table 2 to retrieve ar-
+outbreeding, varied for different trait types, or with geo-                         ticles from online databases and repositories. Where data-
+graphical, high-level phylogenetic, environmental or life his-                      base search facilities allowed, we used search strings in
+tory variables.                                                                     Table 2 as follows. Compound search strings were gener-
+                                                                                    ated by combining each of the search strings in groups (i)
+                                                                                    and (ii) with each of the strings in group (iii) for a total of
+Methods
+                                                                                    9 + 15 = 24 search strings (Table 2). Search terms in group
+Question formulation
+                                                                                    (iv) are catch-all phrases that were used to carry out
+The core question and scope of this systematic review
+                                                                                    searches without combination into more complex strings
+were refined at a review group meeting, held at Losehill
+                                                                                    (Table 2). Some databases provided only limited support
+Hall, Derbyshire 28–29 October 2008. The review group
+                                                                                    for compound search queries, or did not support Boolean
+included representation from UK conservation agencies,
+                                                                                    operators. In these cases we employed a simplified version
+conservation charities, and scientists specialising in the
+                                                                                    of the search (Additional file 1: Table S1).
+field of conservation genetics. When a draft systematic
+review protocol was developed, the review group were
+                                                                                    Study inclusion criteria
+able to feed back on the plans for the review. This a-
+                                                                                    Relevant subjects and scope
+priori review protocol [29] was also peer-reviewed and
+                                                                                    Relevant subjects were defined as individuals of any
+published on-line. This process improved the review
+                                                                                    natural population of animal or plant (or experimental
+structure and scope markedly, and helped to ensure rele-
+                                                                                    individuals derived directly therefrom), at any location
+vance to stakeholders who represented end-users of the
+                                                                                    globally, and their progeny. We defined natural popula-
+review’s results.
+                                                                                    tions as naturally occurring, naturalised or (re-) intro-
+                                                                                    duced populations that occupy natural habitat, and that
+Literature searches                                                                 persist in the absence of human intervention. Studies
+Scope of literature searches                                                        that described populations with alternative phraseo-
+On 5 October 2010 we searched computer databases and                                logy such as “provenance”, “land-race” or “cultivar” were
+online repositories (Table 1), in order to identify articles,                       retained as potentially relevant until it could be ascertained
+studies and datasets relevant to the review question.                               whether they fitted the criteria given in this section.
+Table 1 Electronic databases searched to identify literature on intraspecific outbreeding
+Database name                                        Subset of content searched           Source
+†
+  BIOSIS previews                                    All                                  http://apps.webofknowledge.com/
+†
+  Copac National, Academic, & Specialist             Search limited to theses only        http://copac.ac.uk/
+Library Catalogue
+§†
+   Countryside Council for Wales Library             All                                  https://www-library.ccw.gov.uk/
+Catalogue
+†
+  Dissertation Abstracts (Proquest dissertations     Search limited to dissertations      http://search.proquest.com/index
+and theses)                                          and theses only
+†
+  Electronic theses online service (ETHOS)           All                                  http://ethos.bl.uk/
+†
+  ISI proceedings                                    All                                  http://apps.webofknowledge.com/
+ISI Web of Science                                   All                                  http://apps.webofknowledge.com/
+§†
+   Joint Nature Conservation Committee               All                                  http://jncc.defra.gov.uk/page-2183
+publications catalogue
+§†
+   Natural England Publications and Products         All                                  http://publications.naturalengland.org.uk/
+Catalogue
+SciVerse Science Direct                              All                                  http://www.info.sciverse.com/sciencedirect
+SciVerse Scopus                                      All                                  http://www.scopus.com/home.url
+Scirus                                               Searches limited to first 50 results http://www.scirus.com/srsapp/advanced/
+                                                      from journals-only searches
+§†
+   Scottish Natural Heritage                         All                                  http://www.snh.gov.uk/publications-data-and-research/
+                                                                                          publications/search-the-catalogue/
+§ Databases or libraries held by UK public bodies (non-departmental governmental organizations).
+† Database includes grey literature.
+
+Whitlock et al. Environmental Evidence 2013, 2:13                                                                                        Page 4 of 21
+http://www.environmentalevidencejournal.org/content/2/1/13
+Table 2 Search strings used to query online databases
+Group                                                                         Search string
+(i) Outbreeding related strings                                               Outbreeding depression OR out-breeding depression OR outcrossing
+                                                                              depression OR
+                                                                              out-crossing depression OR out-mating depression OR outmating
+                                                                              depression
+(i)                                                                           (Hybridisation OR hybridization) AND (population OR interpopulation OR
+                                                                              inter-population) NOT (interspecific OR inter-specific)
+(i)                                                                           Heterosis AND population
+(ii) Search strings related to the movement of individuals for conservation Translocation AND conservation
+purposes
+(ii)                                                                          Reinforcement AND conservation
+(ii)                                                                          Augmentation AND conservation
+(ii)                                                                          Restoration AND conservation
+(ii)                                                                          Genetic rescue AND conservation
+(iii) Fitness related strings                                                 Fitness
+(iii)                                                                         Surviv* OR mortality OR longevity
+(iii)                                                                         Fecundity OR reproduc*
+(iv) Catch-all search strings                                                 Distance-dependent fitness
+(iv)                                                                          Distance-dependent crossing success
+(iv)                                                                          Distance-dependent mating success
+Boolean syntax follows the ISI Web of Knowledge template, and was adapted as necessary for use within databases using other syntax.
+     In this review we focussed exclusively on outbreeding                      stemming from intraspecific hybridisation. In addition, the
+effects on phenotype occurring within the post-zygotic                          conservation community has a greater awareness of hy-
+portion of the life cycle. This focus excluded pre-zygotic                      bridisation involving multiple species because conserva-
+mating incompatibilities from consideration, but included,                      tion actions are often arranged around particular known
+for example, progeny traits such as germination success                         species of conservation concern. Studies focussing on
+and egg hatching rate. We excluded studies documenting                          crosses or hybridisation among taxa with uncertain
+outbreeding effects resulting from crosses amongst agri-                        taxonomy at the species level were excluded, to avoid
+cultural cultivars or strains, or populations under captive                     inadvertent inclusion of studies involving interspecific
+management (e.g. zoo populations). These populations                            hybridisation.
+have been subjected to a different selective regime (e.g. di-
+rectional selection for yield and or disease resistance,                        Types of intervention
+adaptation to captivity) than may prevail in natural popu-                      We considered the “interventions” listed below:
+lations. We did, however, include studies that observed
+the effects of hybridisation between natural populations                           Outbreeding resulting from experimental
+and farmed individuals of the same species. These hybrid-                             translocation of individuals from a donor population
+isation events are relevant to the conservation of natural                            to a geographically separated recipient population.
+populations and have been known to occur in aquaculture                            Outbreeding resulting from observed natural
+and fisheries contexts, for example. We excluded studies                              migration between geographically separated
+documenting outbreeding effects in microorganisms. This                               populations.
+was because (1) many groups of microorganisms are                                  Outbreeding resulting from experimental crosses
+poorly characterised from a taxonomic point of view (2)                               between individuals from geographically separated
+the meaning of outbreeding differs for some of these mi-                              populations.
+croorganisms whose genomes may be non-recombining,                                 Outbreeding resulting from experimental crosses
+or that may engage in horizontal gene transfer, and (3)                               between individuals separated by known distances
+bacteria are not themselves the target of translocation be-                           within a single population.
+tween sites or populations within the context of conserva-
+tion plans. Studies focussing on crosses or hybridisation                       Types of comparator
+among different recognised species (but not sub-species)                        We defined the treatment group and corresponding
+were excluded. This is because the costs and benefits of                        reference (comparator) group on the basis of pedigree
+interspecific hybridisation are better known than those                         information presented within individual studies. The
+
+Whitlock et al. Environmental Evidence 2013, 2:13                                                                  Page 5 of 21
+http://www.environmentalevidencejournal.org/content/2/1/13
+treatment group common to the interventions above is            Taxon category High-level taxonomic category for
+composed of hybrid offspring arising from outcrossing              species; one of amphibian, bony fish, crustacean,
+between geographically defined populations or across               gastropod, insect, mammal, bivalve, nematode, plant,
+space within a population. The corresponding compara-              reptile, tunicate
+tor or reference group(s) are composed of less outbred            Lifespan category Description of the longevity of
+(but not deliberately inbred) individuals stemming from            an organism e.g. short-, ≤ 2 years; or long-lived, >
+either within-population crosses or such crosses occur-            2 years
+ring over a smaller physical distance than those in the           Physical distance Euclidian distance separating
+treatment group. The comparison made in this review is             outcrossed populations, km
+between the phenotype or fitness of hybrid individuals            Hybrid generation Generation following outbreeding
+and that of their less outbred parent lineages. Thus,              in which phenotype was observed; F1, F2, etc.
+regardless of the intervention type, the phenotype or fit-        Trait type Categorical descriptor of trait; one of
+ness of parent individuals or non-hybrid offspring from            defence, development, fecundity, fitness, growth-rate,
+the “source populations” and that of their hybrid off-             physiology, size, survival, viability, or other
+spring were required for inclusion of any study in the            Fitness class Categorical description of whether the
+review.                                                            phenotypic measure was a component of fitness
+                                                                   (fecundity, survival, viability, integrated/ compound
+Types of outcome                                                   measures of fitness), or was more distantly related to
+Relevant outcomes were measures of the phenotype or                fitness (all other trait types)
+traits of individuals within “reference” parental lineages        Trait timing Categorical description of the timing
+or “treatment” lineages resulting from outbreeding be-             of expression or measurement of a trait (early, mid
+tween these former. Pre-zygotic traits were excluded.              or late), relative to the life-history of the organism in
+We made the assumption that phenotypes were a func-                question
+tion of the genes of the individuals measured and their           Mating system Predominant sexual reproductive
+immediate measurement environment. Thus, we also as-               mode of the study organism; highly inbreeding,
+sumed that phenotypes were not influenced by maternal              mixed mating, highly outbreeding
+or other persistent environmental effects.                        Observation environment Categorical description
+                                                                   of the environment in which the phenotype was
+                                                                   expressed and observed; one of lab, common garden
+Types of study                                                     or natural population or habitat
+Relevant studies were defined as those with treatment
+and reference groups that could be identified using pedi-    Article screening strategy
+gree information, and that also recorded appropriate         We assessed articles for inclusion in the review based
+outcome measures. We did not include studies that used       on an hierarchical assessment of relevance. This was
+mean d-squared to infer the extent of outbreeding using      done by assessing article titles, followed by reading
+molecular markers. This is because mean d-squared may        the abstract of articles with relevant titles, followed
+not provide a reliable estimate of the position of any in-   by reading the full-text of articles with relevant ab-
+dividual on the inbreeding–outbreeding continuum [30].       stracts (Additional file 1: Text S3). The objectivity of
+We chose to exclude these studies because (1) there is       the article assessment procedure was determined
+no identifiable reference class to make a comparison         using the Kappa coefficient of agreement applied to
+with and (2) because doubt exists as to whether the          independent assessments of article subsets ([31];
+measure faithfully reflects differences in the quantity of   Additional file 1: Text S3).
+inbreeding or outbreeding that occurred to create an in-
+dividual’s genome [30]. Articles that reviewed or meta-      Data extraction
+analysed the existing literature were excluded from the      We attempted to extract data from all articles assessed
+review, although any missing records from their bibliog-     as relevant at the full-text article assessment stage. We
+raphies were added to the project database and assessed      approached the authors of articles to request raw data or
+against the criteria defined above.                          data summaries in cases where articles did not present
+                                                             the data needed for meta-analysis.
+Potential sources of heterogeneity                             Data for traits measured on a continuous scale were
+We investigated the relationship between outbreeding ef-     extracted as mean values for each outcrossing class (out-
+fect sizes and several sources of heterogeneity (i.e. effect bred treatment individuals, parental comparator lineages).
+modifiers; hereafter “explanatory variables”), as described  We also extracted standard error estimates for these
+below (see Additional file 1: Text S2 for full details).     means and recorded the number of families contributing
+
+Whitlock et al. Environmental Evidence 2013, 2:13                                                                                       Page 6 of 21
+http://www.environmentalevidencejournal.org/content/2/1/13
+to each cross class and, where the information was avail-                   attributes. The maximum possible quality score was 7
+able, the number of individuals measured per family and/                    points, one for each of the seven attributes recorded.
+or cross class. Where separate data were available for both                 Assessments of study quality are not often presented
+parent lineages, these were summarised as a mean (mid-                      in traditional reviews and meta-analyses, but their use
+parent) value for the comparator group. Data for separate                   is considered best practice in systematic reviews
+traits were extracted separately. In some studies that used                 within ecology and evolution [32].
+more than two parental comparator lineages (populations)
+trait summaries were not available for each separate par-                   Data synthesis
+ental lineage. In these studies the comparator data were                    Effect size metric
+taken as mean values (within traits) across all parent line-                We summarised outbreeding effect sizes for trait data
+ages. Equivalently, in some cases, trait data from treatment                measured on a continuous scale (e.g. growth rate, seed
+individuals (outbred offspring) were available only as mean                 mass production, lifespan) using the log response ratio
+values across crosses or population pairs.                                  [33]:
+   Data for traits measured as counts (e.g. survival) were
+extracted as successes (survival) and failures (e.g. non-                        ES ¼ logðμH =μP Þ                                               ð1Þ
+survival, death), for each of the outcrossing classes. In                   where μH and μP are trait mean values for the outbred
+cases where proportion data were presented, these were                      (hybrid) treatment group and parental comparator
+used to estimate the original counts by multiplication                      groups respectively. We estimated the study measure-
+with the sample size (number of individuals) followed by                    ment error variance as [33]:
+rounding to a whole number. Where proportions were
+                                                                                                                              
+given as a mean across families with associated standard                         mev ¼ S 2 1= nH μH 2 þ 1= nP μP 2                               ð2Þ
+error we treated these in the same way as for the con-
+tinuous data, described above. Data extraction was not                      where nH and nP are respective sample sizes (numbers
+duplicated but consistency of the extracted data was                        of families) measured for the hybrid treatment and par-
+checked and extraction of data from difficult articles was                  ental comparator groups, and S is the pooled standard
+discussed.                                                                  deviation for the hybrid treatment group and the par-
+                                                                            ental comparator group. We used nH and nP (number
+Study quality assessment                                                    of families) to convert standard errors reported within
+We assessed the quality of the relevant full-text arti-                     articles to standard deviations, separately for the treat-
+cles by determining, for each article, a score based on                     ment and comparator groups. These were then pooled
+the presence or absence of attributes that indicated                        to yield S. ([33]; p. 22).
+its internal or external validity. The attributes that                        Where trait data were binomially distributed we
+were scored are summarised in Table 3. We assigned                          calculated effect sizes as the log risk ratio [33]:
+points for each of the desired attributes possessed by
+each study and measured any studies’ overall quality
+as the sum of points scored across the component                                 ES ¼ log ðða=nH Þ=ðc=nP ÞÞ                                      ð3Þ
+Table 3 Attributes used to assess study quality
+                  Design feature                  Study attribute
+Internal validity Appropriate comparator lineages Were both parental lineages represented for each hybrid cross? 1 point for yes, 0 points
+of study          used                            otherwise
+                  Temporal controls               Were outbred and less outbred individuals studied at the same time? 1 point for yes, 0 points
+                                                  otherwise
+                                                  Were all parental lineages observed via controlled crosses? E.g. F1 parental control cross for
+                                                  comparison to F1 treatment cross, F2 for F2 etc.? 1 point for yes, 0 points otherwise
+                  Sampling strategy               Were multiple independent pairs or sets of populations/lineages studied? 1 point for yes, 0
+                                                  points for only a single pair of lineages
+External validity Environment for trait           Within what environmental context were progeny traits observed? Natural population or native
+of study          observations                    habitat (1 point); environmentally realistic common garden (0.5 points); lab environment (0
+                                                  points; includes glasshouses, labs, terraria, aquaria)
+                  Observation window for inbred/  Were phenotypic effects tracked until at least the F2 generation of progeny? 1 point for yes, 0
+                  outbred individuals             points otherwise
+                  Status of populations/lineages  Did the study include natural, naturalized, or cultivated lineages? 1 point where all populations
+                  studied                         were natural populations, 0 points where naturalized or cultivated lineages were included
+
+Whitlock et al. Environmental Evidence 2013, 2:13                                                              Page 7 of 21
+http://www.environmentalevidencejournal.org/content/2/1/13
+   In this case we estimated the study measurement error       summarising these as above. The meta-effect sizes (param-
+variance as [33]:                                              eter estimates) were considered statistically “significant”
+                                                               when their 95% credible interval did not bracket 0. Results
+     mev ¼ 1=a−1=nH þ 1=c−1=nP                             ð4Þ of the meta-analyses were presented graphically using for-
+                                                               est plots for effect sizes and pooled effect sizes. Model
+   In these equations, a and c are the numbers (counts) of     goodness of fit was assessed via the Deviance Information
+successes (e.g. survival or reproduction of tested individ-    Criterion DIC; [37]. DIC is subject to variation between
+uals) in treatment and reference groups. nH and nP in this     separate runs of identically specified MCMCGLMM models,
+case refer respectively to the total number of individuals     due to Monte Carlo error, even in a well-fitted model.
+tested in hybrid treatment and parental comparator             Therefore, we carried out three replicate model runs for
+groups. Our effect sizes represent measures of intrinsic       each model fitted to ensure that we compared the good-
+outbreeding responses, i.e. deviation of hybrid from mid-      ness of fit of competing models fairly and consistently.
+parent phenotypes, due predominantly to dominance and          Models were checked to assess the degree of mixing and
+epistatic gene effects [15,17,18].                             convergence by visual inspection of the sampled MCMC
+                                                               chains of component parameters, by evaluating chain auto-
+Meta-analysis                                                  correlation, and by determining the effective size of
+Effect size estimates were meta-analysed using the R pack-     MCMC chains. MCMCGLMM initiates a single MCMC
+age MCMCGLMM [34], which provides functions for fitting        chain during model fitting. Therefore we also assessed
+generalised linear mixed models in a Bayesian framework,       MCMC chain convergence using Gelman-Rubin diagnos-
+via a Markov chain Monte Carlo sampler. Models fitted by       tics applied to pairs of replicate model runs initiated
+MCMCGLMM extend to fixed- and random-effects meta-             independently from over-dispersed starting values.
+analyses that model and take into account the study meas-         We took two approaches to fitting explanatory vari-
+urement error variance ([35]; equivalent to weighting the      ables using MCMCGLMM. In the first we fitted models
+analysis by the inverse of the study measurement error         with only a single fixed effect (one model for each ex-
+variance in a traditional meta-analysis). All models were      planatory variable). The aim of fitting these models
+run for a total of 6 × 105 iterations, with a burn in of 105   was to explore variation in outbreeding responses
+iterations and a subsequent thin interval of 50 iterations.    with predictors of these responses. We considered
+This sampling schema leads to a total MCMC sample size         variables to be potentially relevant in explaining out-
+of 1000 for each fitted model. We used multivariate normal     breeding responses when any of their component pa-
+priors with mean 0 and variance 1010 for the fixed ef-         rameters differed significantly from zero. Trait type
+fects. Priors for random effects were uniform improper         and fitness class (fitness component and other traits)
+distributions on the standard deviation of the random          contained redundant information; levels of trait type
+effects as recommended in [36]. Measurement error              were nested within levels of fitness class. Therefore,
+variance estimates (mev) were fitted as a set of random        we fitted the fitness component vs. other traits com-
+effects, and these we assumed to be known without              parison in two ways. First as a post-hoc orthogonal
+error. Study identities (Study) were fitted as random ef-      contrast within the trait.type predictor, and second
+fects in all models, in order to capture and model variation   using the fitness class predictor. Variation in out-
+in outbreeding contexts. Explanatory variables of interest     breeding responses among trait types within the fit-
+were fitted as fixed effects. Note that the distinction be-    ness component trait class was investigated using
+tween “fixed” and random effects is arbitrary in a Bayesian    further post-hoc contrasts.
+modelling framework such as used here, where all effects          In the second approach to modelling outbreeding re-
+are random. However, we retain separate notation for           sponses we fitted multiple explanatory variables within a
+fixed and random effects specifications to facilitate con-     single maximal model, which had a fixed-effects specifi-
+ceptual distinction between explanatory variables (“fixed”     cation as follows:
+effects of primary interest) and study identities (random
+effects whose variation we wish to account for and esti-            Generation þ Trait:type þ Trait:timing
+mate). Additional file 1: Text S4 gives further details on          Taxon:category þ Lifespan:category þ Mating:system þ
+model specification.                                                Quality:score
+   In cases where individual model parameters represented                                                              ð5Þ
+pooled effects of interest, we used posterior means and
+95% credible intervals for the parameters to derive predict-      We omitted fitness class from this model because this
+ive intervals for the effect sizes. In other cases, we pre-    predictor and the trait type predictor contained redun-
+dicted pooled effect sizes by summing over the posterior       dant information. It was also necessary to omit physical
+distributions of their component parameters, and then          distance from the model reduction analysis, since we
+
+Whitlock et al. Environmental Evidence 2013, 2:13                                                               Page 8 of 21
+http://www.environmentalevidencejournal.org/content/2/1/13
+had incomplete information on this predictor across the       random effects, as alternatives to the improper flat priors
+dataset. After fitting the maximal model, we then defined     that we used. Variance component estimates were found
+a minimal model by elimination of those fixed effects that    to be insensitive to the choice of prior. Finally we tested
+did not contribute to improving the model fit (as judged      whether our model and its underlying assumptions was
+by changes in the deviance information criterion, DIC).       consistent with the observed data, using posterior predict-
+The maximal model included main effects only (no inter-       ive simulation [42]. Full details and results for the poster-
+actions among fixed effects). We carried out three repli-     ior predictive simulation are given in Additional file 1:
+cate model runs for the maximal model and each nested         Text S7 and Additional file 1: Figure S8.
+model derived from this, to ensure that fixed effects were
+eliminated or retained based on consistent changes in         Results
+DIC. Only predictors whose exclusion resulted in a con-       Review descriptive statistics
+sistent cost to model fit were retained in the model.         The primary literature search (conducted 5 October
+   We were also interested specifically in whether our        2010) yielded 9631 papers (Table 4; Additional file 2).
+minimal model implied either net costs or benefits to         The minimum set of data necessary for meta-analysis
+outbreeding in different generations. Therefore we ran        was obtained for a total of 93 articles published between
+an additional model that included an interaction be-          1987 and 2010 (Table 5; Additional file 2, and Additional
+tween the explanatory variable identified by our minimal      file 3). Over this period, articles on phenotypic responses
+model and hybrid generation. We give results for similar      to between-population outbreeding increased in publica-
+models combining generation with each of the other ex-        tion frequency roughly linearly with time (Figure 1).
+planatory variables in Additional file 1: Figure S12.         Most (58.1%) of the 93 articles in the review used plants
+   We evaluated the proportion of the heterogeneity in        as study taxa (Figure 2). Fish were also well represented
+outbreeding responses attributable to variation among         in the review dataset. The numbers of effect size estimates
+studies, and the proportion of heterogeneity associated       contributed by different taxonomic groups corresponded
+with the residual variance component using the approach       approximately with the numbers of articles focussing on
+of Sutton et al. [38]. However, we took the median of the     these groups in the review (Figure 2). 61.2% of effect sizes
+mev as our estimate of the typical measurement error vari-    were for traits that were components of fitness (fecundity,
+ance, instead of equation 9 in [39], which gave a poor esti-  survival, viability and compound measures of fitness;
+mate of central tendency of the mev for our data.             Figure 3).
+Publication bias
+We used the R package METAFOR [40] to create en-              Quantitative synthesis
+hanced funnel plots as a graphical check for the pres-        Study-mean effect sizes were evenly distributed in funnel
+ence of funnel-plot asymmetry (indicating publication         plots (Additional file 1: Figures S5, S6), and showed no
+bias). We used study-mean effect sizes to create study-       obvious signs of asymmetry indicative of publication
+level funnel plots, since publication bias is likely to oper- bias. The Egger test for funnel plot asymmetry was non-
+ate at the level of studies rather than individual effect     significant (intercept = 0.41, p = 0.166).
+sizes within studies (effect sizes within studies are likely
+to be correlated). An additional reason for doing this        Meta-analyses with a single explanatory variable
+was that the number of effect sizes per study in our data     On average, hybrid offspring experienced neither a
+was unbalanced, undermining any assessment of bias            phenotypic benefit nor a cost to outcrossing (+2.6%
+based on the full dataset. We used the median measure-        phenotypic change relative to parents; 95% credible
+ment error variance for the effect sizes within each study    interval −1.0–6.4%; pMCMC (Bayesian p-value) = 0.156;
+as a “typical” study-level measurement error variance.        Figure 4a).
+We also used the Egger regression to test for the pres-          The trait type, fitness class (whether a trait was a
+ence of funnel-plot asymmetry [41], using study-level         component of fitness or not), trait timing, generation,
+data, as above.                                               taxon category and observation environment predictors
+                                                              contained individual factor levels with which outbreed-
+Sensitivity analyses                                          ing responses varied significantly (Figure 4; Additional
+In order to understand whether outbreeding responses          file 1: Table S9). Of these, only trait type, fitness class
+were sensitive to study quality we included our study         and trait timing improved overall model goodness-
+quality variable in both a single-predictor meta-analysis     of-fit, as judged by DIC (Table 6). Physical distance
+and in the model reduction analysis, as described above.      separating parent populations improved model fit,
+We also trialled inverse gamma and “parameter expanded”       according to DIC, but parameters for this explanatory
+proper Cauchy priors for the standard deviation of the        variable did not differ significantly from 0. No other
+
+Whitlock et al. Environmental Evidence 2013, 2:13                                                                                                     Page 9 of 21
+http://www.environmentalevidencejournal.org/content/2/1/13
+Table 4 Summary of the article assessment procedure
+Stage of article                  Total number                Subset assessed in         Number passing                      Agreement level, к
+assessment                        assessed                    duplicate (% of total) assessment                              (interpretation according to [43])
+Title assessment                  9631                        600 (6.2)                  905                                 0.61 (Substantial)
+Abstract assessment               905                         200 (22.1)                 285                                 0.49 (Moderate)
+Fulltext assessment               285                         40 (14.0)                  93*                                 0.83 (Almost perfect)
+Objectivity of article assessment was determined using the Kappa coefficient of agreement via independent assessments of a subset of articles [31].
+*17 articles could not be assessed and were excluded at this stage due to being written in a language other than English, because of unanswered data requests,
+or because the original source material could not be located or no longer existed. Data were either unavailable or not extractable for a further 13 articles.
+variables were significant predictors of outbreeding re-                            experienced a net cost to outbreeding (−4.7% and −15.9%),
+sponses (Figure 4; Table 6; Additional file 1: Table S9).                           but these responses were not consistently different from
+   Outbreeding responses varied significantly with trait                            the mid-parent phenotype (Figure 4b). Results for the F3
+type. Growth-rate and “other” trait types showed the                                generation were supported by only a very small number of
+greatest hybrid benefit following outcrossing (Figure 4d;                           articles and effect sizes.
+Additional file 1: Table S9). Defence, survival and viabil-                            There was little evidence that outbreeding responses
+ity trait types showed the most negative responses to                               were explained by high-level taxonomy. Only mammals
+outbreeding. Orthogonal contrasts within the trait type                             showed outbreeding responses that differed significantly
+predictor indicated that fitness component traits (sur-                             from parent phenotypes (pMCMC = 0.01; Figure 4f ), and
+vival, viability, fecundity traits and compound measures                            this taxonomic group was represented by data from only
+of fitness) responded more negatively to outbreeding                                four articles.
+than all other traits (pMCMC = 0.024; Figure 5). This                                  The association of physical distance with outbreeding
+difference appeared to be driven by survival and viability                          responses was very small, and not significantly different
+traits, which responded significantly more negatively to                            from zero (−0.5% phenotypic change for each log unit of
+outbreeding than the remaining fitness component traits                             distance; pMCMC = 0.368). Only ~80% of articles reported
+(pMCMC = 0.004; Figure 5). The outbreeding responses                                useable data on physical distance.
+of viability traits did not differ significantly from those                            Observation environment was not a consistent pre-
+of the remaining later acting survival traits (pMCMC =                              dictor of the outbreeding response. However, we found
+0.76; Additional file 1: Table S12).                                                that phenotypic responses to outbreeding observed in
+   The more negative response of fitness components to                              lab environments were of consistently lower magnitude
+outbreeding was borne out by our fitness class predictor,                           than those observed in natural populations or habitats
+which grouped trait types depending on whether they                                 (Figure 4k; pMCMC = 0.002; Additional file 1: Table S9).
+were components of fitness or not. Outbreeding responses                            Neither population status, nor study quality score were
+were consistently less positive for traits that were compo-                         consistent predictors of outbreeding responses (Figure 4;
+nents of fitness relative to other traits (pMCMC < 0.001;                           Table 6).
+Figure 4c, Additional file 1: Table S9). Fitness component
+traits showed outbreeding responses that were close to the                          Meta-analysis with multiple explanatory variables
+mid-parent value (0.0% phenotypic change relative to the                            We used a model reduction approach to determine the set
+mid-parent), and not consistently different from zero                               of explanatory variables that best predicted the data. The
+(Figure 4c, Additional file 1: Table S9). The remaining                             best-fitting minimal model contained only the trait type
+non-fitness component traits conferred a consistent bene-                           predictor (Figure 4d; Additional file 1: Tables S10 & S11).
+fit to hybrids on outcrossing (by 6.6%).                                               Figure 6 shows outbreeding responses for different fit-
+   Traits that acted during the middle or later stages of the                       ness classes (representing trait type; fitness components
+lifecycle showed significantly more positive responses to                           or not) in different generations. We could not fit a
+outbreeding compared with early acting traits (pMCMC =                              model including an interaction between trait type and
+0.006 and 0.004 respectively). The absolute outbreeding                             generation because some trait types contained data from
+response in late-acting traits was also significantly greater                       only one generation. F1 fitness component traits showed
+than zero (the mid-parent phenotype; Figure 4e).                                    little response to outbreeding (+1.3% relative to parent
+   F1 hybrids experienced a (non-significant) benefit to                            lineages; Figure 6). However, fitness component traits
+outbreeding (3.7% benefit in phenotype relative to the                              showed a significantly negative response to outbreeding
+mid-parent value; pMCMC = 0.064;). In the F2, hybrids                               in the F2 (−8.8%). The remaining non-fitness component
+experienced a significantly lower phenotypic response to                            traits showed a consistently positive response to out-
+outbreeding than F1 hybrids (Figure 4b; pMCMC <                                     breeding during the F1 (+6.9%), and also a positive re-
+0.001; Additional file 1: Table S9). F2 and F3 hybrids                              sponse during the F2 (+3.5%; Figure 6).
+
+Whitlock et al. Environmental Evidence 2013, 2:13                                                    Page 10 of 21
+http://www.environmentalevidencejournal.org/content/2/1/13
+Table 5 Summary of species and studies included in this review
+Database record number                Species                                Taxon category Source No. effect sizes
+24                                    Litoria peronii                        Amphibian      [44]   1
+195                                   Rana temporaria                        Amphibian      [45]   2
+4211                                  Boeckella dilatata                     Crustacean     [46]   1
+214                                   Tigriopus californicus                 Crustacean     [47]   4
+258                                   Tigriopus californicus                 Crustacean     [48]   12
+458                                   Tigriopus californicus                 Crustacean     [49]   66
+31                                    Tigriopus californicus                 Crustacean     [50]   6
+10135                                 Gambusia holbrooki                     Bony fish      [51]   5
+10138                                 Heterobranchus longifilis              Bony fish      [52]   10
+10130                                 Labeo rohita                           Bony fish      [53]   2
+189                                   Micropterus salmoides                  Bony fish      [54]   8
+10150                                 Micropterus salmoides                  Bony fish      [55]   4
+209                                   Micropterus salmoides                  Bony fish      [56]   4
+802                                   Oncorhynchus gorbuscha                 Bony fish      [57]   2
+3933                                  Oncorhynchus gorbuscha                 Bony fish      [58]   2
+263                                   Oncorhynchus gorbuscha                 Bony fish      [59]   2
+10133                                 Oncorhynchus mykiss                    Bony fish      [60]   10
+239                                   Oncorhynchus mykiss                    Bony fish      [61]   14
+9192                                  Oncorhynchus mykiss                    Bony fish      [62]   8
+2400                                  Oncorhynchus tshawytscha               Bony fish      [63]   8
+10097                                 Poeciliopsis occidentalis occidentalis Bony fish      [64]   7
+10896                                 Salmo salar                            Bony fish      [65]   2
+11269                                 Salmo salar                            Bony fish      [66]   14
+10834                                 Salmo salar                            Bony fish      [67]   4
+3269                                  Salmo salar                            Bony fish      [68]   5
+10094                                 Salmo trutta                           Bony fish      [69]   2
+10154                                 Salvelinus alpinus                     Bony fish      [70]   4
+11273                                 Physa acuta                            Gastropod      [71]   4
+33                                    Physa gyrina                           Gastropod      [72]   1
+771                                   Oedipoda germanica                     Insect         [73]   2
+141                                   Ovis canadensis                        Mammal         [74]   3
+2488                                  Panthera leo                           Mammal         [12]   1
+3471                                  Peromyscus leucopus                    Mammal         [75]   4
+11140                                 Puma concolor                          Mammal         [7]    4
+2412                                  Argopecten circularis                  Bivalve        [76]   2
+2413                                  Argopecten circularis                  Bivalve        [77]   1
+3514                                  Caenorhabditis briggsae                Nematode       [78]   2
+424                                   Agrostemma githago                     Plant          [79]   2
+10860                                 Antirrhinum majus                      Plant          [80]   4
+9631                                  Arnica montana                         Plant          [81]   1
+10533                                 Aster amellus                          Plant          [82]   4
+118                                   Avena barbata                          Plant          [83]   5
+354                                   Brassica cretica                       Plant          [84]   1
+154                                   Calylophus serrulatus                  Plant          [85]   12
+54                                    Campanula americana                    Plant          [86]   6
+
+Whitlock et al. Environmental Evidence 2013, 2:13                                  Page 11 of 21
+http://www.environmentalevidencejournal.org/content/2/1/13
+Table 5 Summary of species and studies included in this review (Continued)
+9624                                  Campanula americana          Plant   [87]  3
+10095                                 Castilleja levisecta         Plant   [88]  2
+151                                   Chamaecrista fasciculata     Plant   [89]  4
+3764                                  Clarkia tembloriensis        Plant   [90]  8
+339                                   Cochlearia bavarica          Plant   [91]  3
+197                                   Dalechampia scandens         Plant   [92]  6
+3323                                  Delphinium nelsonii          Plant   [93]  12
+22                                    Digitalis purpurea           Plant   [94]  8
+11205                                 Echinacea angustifolia       Plant   [95]  2
+3373                                  Espeletia schultzii          Plant   [96]  2
+505                                   Eucalyptus globulus          Plant   [97]  5
+502                                   Eupatorium perfoliatum       Plant   [98]  5
+502                                   Eupatorium resinosum         Plant   [98]  5
+3307                                  Gentiana pneumonanthe        Plant   [99]  3
+515                                   Gentianella germanica        Plant   [100] 1
+10096                                 Gentianella germanica        Plant   [101] 6
+11035                                 Geum urbanum                 Plant   [102] 8
+10531                                 Helianthus verticillatus     Plant   [103] 7
+123                                   Hypochoeris radicata         Plant   [104] 10
+3369                                  Ipomopsis aggregata          Plant   [105] 8
+1267                                  Lobelia cardinalis           Plant   [106] 1
+488                                   Lobelia siphilitica          Plant   [107] 3
+404                                   Lotus scoparius              Plant   [108] 1
+3325                                  Lychnis flos-cuculi          Plant   [109] 5
+11152                                 Lychnis flos-cuculi          Plant   [110] 3
+10662                                 Macadamia tetraphylla        Plant   [111] 2
+10567                                 Mercurialis perennis         Plant   [112] 1
+47                                    Panax quinquefolius          Plant   [113] 4
+424                                   Papaver rhoeas               Plant   [79]  1
+4224                                  Phlox drummondii             Plant   [114] 3
+1852                                  Pinus banksiana              Plant   [115] 2
+1706                                  Pinus pinaster               Plant   [116] 3
+172                                   Piriqueta caroliniana        Plant   [117] 12
+11042                                 Plantago lanceolata          Plant   [118] 6
+64                                    Ranunculus reptans           Plant   [119] 18
+170                                   Ranunculus reptans           Plant   [120] 3
+3363                                  Sabatia angularis            Plant   [121] 9
+411                                   Sarracenia flava             Plant   [122] 2
+231                                   Scorzonera humilis           Plant   [123] 1
+9737                                  Senecio pterophorus          Plant   [124] 3
+392                                   Shorea cordifolia            Plant   [125] 6
+424                                   Silene alba                  Plant   [79]  2
+10585                                 Silene latifolia             Plant   [126] 4
+73                                    Silene latifolia             Plant   [127] 6
+167                                   Silene vulgaris              Plant   [128] 6
+332                                   Silene vulgaris              Plant   [129] 12
+
+Whitlock et al. Environmental Evidence 2013, 2:13                                                                                    Page 12 of 21
+http://www.environmentalevidencejournal.org/content/2/1/13
+Table 5 Summary of species and studies included in this review (Continued)
+392                                        Syzygium rubicundum                              Plant                [125]           6
+278                                        Thymus vulgaris                                  Plant                [130]           3
+182                                        Viola pumila                                     Plant                [131]           2
+182                                        Viola stagnina                                   Plant                [131]           2
+65                                         Zostera marina                                   Plant                [132]           2
+4539                                       Zootoca (Lacerta) vivipara                       Reptile              [133]           3
+4060                                       Botryllus schlosseri                             Tunicate             [134]           18
+The fifth column refers to the number of effect size estimates contributed by each study.
+Heterogeneity in outbreeding responses                                             outbreeding responses could be due to species-specific
+The study variance component (describing heterogeneity                             or population-specific effects, or other study-specific
+in outbreeding response among studies) was 0.0145 in the                           contexts. In other words, part of this heterogeneity may
+minimal model (Table 6), and accounted for 39.5% of total                          be attributable to unmeasured, but biologically signifi-
+heterogeneity in outbreeding responses. The within-study                           cant case-specific variables. These might include popula-
+(between effect size) variance accounted for 27.1% of het-                         tion demographic history and isolation, genetic architecture
+erogeneity. The remaining heterogeneity (33.4%) was at-                            and differential adaptation between hybridising populations
+tributable to measurement error variance (variation within                         [17,21]. This study-level contextual variation must be taken
+effect sizes).                                                                     into account when interpreting the relationships between
+                                                                                   explanatory variables and outbreeding responses described
+Discussion                                                                         in this review.
+In this review we have shown that hybrids arising from                                We found that trait type explained variation in out-
+intraspecific outbreeding express phenotypes that do not                           breeding responses, and was the single best predictor of
+differ from those expected given parent phenotypes                                 these responses. Fitness components (especially survival
+(+2.6% phenotypic change; pMCMC = 0.156). However,                                 and viability) had consistently lower outbreeding re-
+we also identified predictors with which outbreeding re-                           sponses than other traits. In the only other meta-analysis
+sponses were associated significantly, and heterogeneity                           on outbreeding responses [16], McClelland and Naish
+in responses among studies.                                                        found that overall positive responses to outbreeding in
+                                                                                   fish species were driven largely by the responses of mor-
+Reasons for heterogeneity                                                          phological traits. This observation is consistent with our
+There was significant heterogeneity in outbreeding re-                             result that non-fitness traits show a significantly more
+sponses among studies. This among-study variation in                               positive response to outbreeding than fitness component
+                                                                                   traits. Our result implies that the traits most important
+                                                                                   in regulating population size, growth rate and persist-
+                 20
+                                                                                   ence may be those affected most negatively by outbreed-
+                                                                                   ing. In animals, fitness traits are also those influenced
+                                                                                   most strongly by inbreeding depression [135]. This effect
+                 15                                                                is thought to be driven by differences in the extent of
+                                                                                   dominance variance between fitness and other traits, or
+     Frequency
+                                                                                   in the average directionality of dominance interactions
+                 10                                                                [135]. However, these arguments cannot be extended
+                                                                                   easily to explain our result. In fact, they lead to the ex-
+                                                                                   pectation that fitness traits should respond more posi-
+                 5                                                                 tively to outbreeding than other traits, at least where the
+                                                                                   source populations are inbred. We suggest that our
+                                                                                   result implies that fitness component traits are under-
+                 0                                                                 pinned to a greater extent by epistatic interactions
+                                                                                   among loci than is the case for other traits. This sugges-
+                      1985   1990   1995       2000         2005        2010
+                                                                                   tion is consistent with the observation that fitness is less
+                                        Year                                       heritable than other traits, and the idea that this lower
+  Figure 1 Publication frequency of articles presenting data on                    heritability is associated with a greater non-additive
+  phenotypic responses to outbreeding over time. The articles
+                                                                                   component to the phenotype (reviewed in [136]). More
+  shown are limited to those included in this systematic review.
+                                                                                   broadly, this finding suggests that it may be unrealistic
+
+Whitlock et al. Environmental Evidence 2013, 2:13                                                                                                                                                                 Page 13 of 21
+http://www.environmentalevidencejournal.org/content/2/1/13
+                                           (a)           60
+                                                         50
+                                                         40
+                                                         30
+                                                         20
+                                                         10
+                                                          0
+                                          (b) 300
+                                                      250
+                                                      200
+                                                      150
+                                                      100
+                                                       50
+                                                        0
+                                                                              Plant
+                                                                                        Bony fish
+                                                                                                        Crustacean
+                                                                                                                           Tunicate   Mammal
+                                                                                                                                                  Gastropod   Amphibian
+                                                                                                                                                                          Bivalve   Reptile   Insect
+                                                                                                                                                                                                       Nematode
+ Figure 2 Representation of different high-level taxonomic categories within the systematic review. (a) Frequencies of effect sizes by
+ taxonomic category. (b) Frequencies of studies by taxonomic category.
+to understand fitness responses to outbreeding by con-                                                                                         deleterious alleles that have drifted to high frequency in
+sidering only extrinsic outbreeding effects (i.e. taking                                                                                       either of the parent populations, resulting in an improved
+into account only additive genetic variation).                                                                                                 hybrid phenotype (and potentially greater fitness, i.e.
+  We found that hybrid generation was also significantly                                                                                       heterosis) relative to either parent population. In the F2
+associated with phenotypic responses to outbreeding.                                                                                           generation segregation reduces the between-source he-
+Specifically, there was a cost to outbreeding in the F2                                                                                        terozygosity by half, while recombination breaks up fa-
+and F3 relative to the F1. This shift in the hybrid out-                                                                                       vourable epistasis present in either source population.
+breeding response over generations is expected from                                                                                            Thus we expect a decrease in the expected phenotype in
+theory [17]. Between-population outbreeding creates                                                                                            F2 compared with F1 individuals. From a conservation
+between-population heterozygosity across the genome                                                                                            perspective, the crucial question is whether the absolute
+in the F1. This process can mask the expression of                                                                                             fitness of F2 or later generation hybrids is lower or greater
+                                                                                                                                               than the mid-parent value. If the hybrids are less fit than
+                                                                                                                                               their parents (outbreeding depression), then there has
+  120
+                                                                                                                                               been a true cost to hybridisation, and this may comprom-
+  100                                                                                                                                          ise conservation plans that result in population admixture
+   80                                                                                                                                          and hybridisation. Our observation that F2 individuals
+                                                                                                                                               have decreased phenotypic performance relative to F1
+   60
+                                                                                                                                               individuals is consistent with the synthesis presented
+   40                                                                                                                                          by Edmands [15]. However, in their meta-analysis,
+   20
+                                                                                                                                               McClelland and Naish found positive responses to out-
+                                                                                                                                               breeding (relative to parental lineages) in both the F1 and
+     0                                                                                                                                         F2 [16]. This result runs counter to our observation. We
+            Viability   Survival
+                                   Size
+                                          Fecundity
+                                                      Development
+                                                                    Fitness
+                                                                                Other
+                                                                                         Growth-rate
+                                                                                                       Defence
+                                                                                                                     Physiology
+                                                                                                                                               suggest that the difference arose because we were able to
+                                                                                                                                               control for between-study variation in outbreeding re-
+                                                                                                                                               sponses, by fitting study-level random effects, allowing a
+                                                                                                                                               more sensitive comparison of F1 and F2 responses. How-
+ Figure 3 Frequency of trait types within our outbreeding                                                                                      ever it may be that McClelland and Naish’s inclusion of
+ response effect size data. Bars with black shading refer to                                                                                   outbreeding between species, inclusion of outbreeding be-
+ components of fitness (viability, fecundity, survival, compound
+                                                                                                                                               tween farmed lineages, or focus on fish could also explain
+ measures of fitness); open bars refer to other traits.
+                                                                                                                                               the difference in outcomes.
+
+Whitlock et al. Environmental Evidence 2013, 2:13                                                                                                Page 14 of 21
+http://www.environmentalevidencejournal.org/content/2/1/13
+                                                                            nST     nES                                                  nST nES
+                       (a) Pooled effect size                               98      528     (e) Trait timing
+                                                                                                  Early                                  57  134
+                       (b) Hybrid generation                                                      Mid                                    49  248
+                              F1                                            96      433           Late                                   52  146
+                              F2                                            22       93
+                              F3                                             1        2     (f) Taxon category
+                                                                                                  Amphibian                               2    3
+                       (c) Fitness class                                                          Crustacean                              5   89
+                              Fitness components                            83      327           Bony fish                              20  117
+                              Other traits                                  59      201           Gastropod                               2    5
+                                                                                                  Insect                                  1    2
+                       (d) Trait type                                                             Mammal                                  4   12
+                              Defence                                        4       10           Bivalve                                 2    3
+                              Development                                    4       38           Nematode                                1    2
+                              Fecundity                                     37       79           Plant                                  59  274
+                              Fitness                                        8       16           Reptile                                 1    3
+                              Other                                          5        9           Tunicate                                1   18
+                              Growth-rate                                    5       20
+                              Physiology                                     2        6     (g) Physical distance
+                              Size                                          47      118           Intercept                              79  423
+                              Survival                                      44      116           log (Physical distance)                79  423
+                              Viability                                     49      116
+                                  -0.6    -0.4  -0.2    0.0     0.2     0.4     0.6                    -0.6 -0.4 -0.2 0.0 0.2 0.4    0.6
+                                               Outbreeding response                                             Outbreeding response
+                                                                                                          nST    nES
+                                                    (h) Lifespan category
+                                                           Short                                           24    181
+                                                           Long                                            74    347
+                                                    (i) Mating system
+                                                           Inbreeding                                      4      17
+                                                           Mixed                                           28    119
+                                                           Outbreeding                                     65    380
+                                                           Other                                           1      12
+                                                    (j) Population status
+                                                           All natural                                     80    427
+                                                           Mixed natural and non-natural                   18    101
+                                                    (k) Observation environment
+                                                           Lab                                             40    248
+                                                           Common garden                                   42    195
+                                                           Natural                                         19     85
+                                                    (l) Quality score
+                                                           Intercept                                       98    528
+                                                           Quality score                                   98    528
+                                                                     -0.6    -0.4    -0.2 0.0     0.2     0.4    0.6
+                                                                                  Outbreeding response
+  Figure 4 Variation of outbreeding responses with explanatory variables (effect modifiers). Outbreeding responses are given as proportion
+  changes in phenotype relative to the mid-parent phenotype. An outbreeding response of zero means hybrid offspring have phenotype
+  equivalent to the mid-parent value. Positive values represent phenotypic benefit relative to parent lineages. (a) Overall pooled outbreeding
+  response (for a model fitting only an intercept). (b) – (l) Variation of outbreeding responses with individual explanatory variables. Points give
+  posterior means for the pooled effect sizes (on the relative phenotypic scale). Error bars bracket the corresponding 95% credible interval. nST and
+  nES give respectively the number of studies and the number of effect sizes underpinning each estimate. See Methods and Additional file 1: Text
+  S2 for a description of the explanatory variables.
+   A breakdown of trait responses by generation indi-                                        suffered a significant net cost relative to parent fitness.
+cated approximate parity of F1 fitness with the mid-parent                                   These results suggest that there may be absolute fitness
+phenotype (Figure 6). Other (non-fitness component)                                          costs to outbreeding in the F2 (outbreeding depression).
+traits showed a consistent expected benefit following out-                                   However, we must be cautious about this suggestion
+breeding during the F1. During the F2, fitness components                                    for two reasons. First, there were only 22 studies with
+
+Whitlock et al. Environmental Evidence 2013, 2:13                                                                                                     Page 15 of 21
+http://www.environmentalevidencejournal.org/content/2/1/13
+Table 6 Model fitting summaries for meta-analyses containing a single fixed-effects explanatory variable
+Model Fixed effects               DIC      Vs        Δ       Range in Study variance                Residual variance           Min. effective     Max. auto-
+                                           DIC       DIC     DIC          component                 component                   samples            correlation
+1         ~ Intercept             −576.1 -           -       1.7          0.0200                    0.0110                      889                0.058
+2         ~ Generation            −573.4 −576.1 2.7          1.7          0.0204                    0.0110                      1000               0.027
+3         ~ Fitness class         −610.9 −576.1 −34.8 1.8                 0.0187                    0.0102                      1000               0.044
+4         ~ Trait type            −619.4 −576.1 −43.4 1.3                 0.0145                    0.0099                      908                0.032
+5         ~ Trait timing          −586.6 −576.1 −10.5 0.4                 0.0196                    0.0107                      1000               0.050
+6         ~ Taxon category        −571.0 −576.1 5.0          1.0          0.0187                    0.0111                      883                0.061
+7         ~ log(physical          −467.8 −464.6 −3.2         0.6          0.0246                    0.0107                      856                0.077
+          distance)
+8         ~ Lifespan category −575.6 −576.1 0.5              1.2          0.0194                    0.0110                      1000               0.028
+9         ~ Mating system         −574.5 −576.1 1.5          1.2          0.0205                    0.0110                      1000               0.044
+10        ~ Population status −576.7 −576.1 −0.7             1.2          0.0201                    0.0109                      770                0.041
+11        ~ Observation           −573.6 −576.1 2.4          2.4          0.0178                    0.0110                      840                0.086
+          environment
+12        ~ Quality score         −575.8 −576.1 0.3          3.4          0.0200                    0.0109                      1000               0.032
+DIC (column two) gives the deviance information criterion. “Vs. DIC” gives the DIC for the corresponding model including only an intercept term. “Δ DIC” gives the
+difference in DIC between columns two and three. Range in DIC gives the range in DIC among three replicate model runs, as an indication of the extent of Monte
+Carlo error in DIC estimates. Study and residual variance components are variance estimates for study and residual random effects. “Min. effective samples” gives
+the minimum number of effective samples for the parameters in the model. “Max. auto-correlation” gives the maximum absolute sample autocorrelation at lag 1
+for any parameter in the model.
+observations on F2 hybrid performance. Second, we                                    be consistent with the loss of between-source heterozy-
+do not know whether these 22 studies made observa-                                   gosity [17].
+tions using species and population pairs that are rep-                                  Outbreeding responses for early acting traits were sig-
+resentative of all possible intraspecific outbreeding                                nificantly lower than those for mid- and late-acting
+contexts. The effects in Figure 6 strengthen our ar-                                 traits. It is possible that this result was caused by mater-
+gument that epistasis has a relatively greater role in                               nal effects, such that F1 phenotypes are a function of
+underpinning fitness component traits. We observed                                   maternal parent phenotypes, and F2 phenotypes are a
+overall outbreeding depression (fitness costs) in the                                function of maternal F1 phenotypes [24,137]. This re-
+F2, but no such F2 costs in traits that were not fit-                                sponse to the maternal environment during outbreeding
+ness components. The former result is highly suggest-                                can result in F2 phenotypes exceeding F1 phenotypes.
+ive of a role for epistasis, whereas the generational shift in                       Early acting traits showed an F2 decline in phenotype
+hybrid phenotype for non-fitness component traits may                                (relative to F1) closely similar to that of mid and late
+    nST nES
+                                                                                                                                                  nST        nES
+     69 232         Survival traits
+                                                          pM C M C
+                                                           = 0.004                      F1, fitness components                                     81        264
+                    Other fitness
+     41   95                                                         pM C M C           F2, fitness components                                     18         61
+                 component traits                                     = 0.024
+                  Remaining traits                                                      F1, other traits                                           58        169
+     59 201
+                                                                                        F2, other traits                                           12         32
+                         -0.2     -0.1    0.0      0.1      0.2
+                               Outbreeding response                                                           -0.4      -0.2        0.0      0.2         0.4
+  Figure 5 Outbreeding responses vary between fitness
+                                                                                                                   Outbreeding response
+  component and all other traits, and between survival traits                          Figure 6 Fitness class (fitness component or remaining trait
+  (survival and viability) and other traits within the fitness                         types) and generation (F1 or F2) predict variation in
+  component category (fecundity traits and integrated or                               outbreeding responses. Fitness components were defined as
+  multiplicative measures of fitness). Posterior means and credible                    viability, survival, fecundity traits or integrated/ multiplicative
+  intervals were estimated as contrasts within the trait type predictor.               measures of fitness. Posterior means and credible intervals were
+  X-axis scale, point estimates, error bars and abbreviations as in                    estimated by fitting a fitness class × generation interaction. X-axis
+  Figure 4.                                                                            scale, point estimates, error bars and abbreviations as in Figure 4.
+
+Whitlock et al. Environmental Evidence 2013, 2:13                                                               Page 16 of 21
+http://www.environmentalevidencejournal.org/content/2/1/13
+acting traits (Additional file 1: Figure S12). These results  introgress into populations that have received managed
+indicate that maternal effects may be weak relative to        immigration. However, where internal co-adaptation is
+the effects of the decline of between-source heterozygos-     between nuclear and cytoplasmic genomes, backcrossing
+ity in the F2, or the break-up of internal co-adaptation.     may restore epistatic fitness loss only in one backcross
+Most (86.6%) of the effect sizes for early acting traits were direction [50].
+viability traits (early survival). Outbreeding responses for
+these traits did not differ significantly from those of other Sources of bias
+(mid and late acting) survival traits. Thus, an alternative   Visual inspection of funnel plots and a test of funnel plot
+explanation for the more negative outbreeding responses       asymmetry indicated little evidence for publication bias
+observed in early acting traits may be that they were         (either towards phenotypic outbreeding costs, or towards
+(almost all) survival traits.                                 outbreeding benefits). Identification of publication bias
+   The genetic divergence that underpins outbreeding re-      from funnel plots may be prone to error in smaller
+sponses depends in part on the extent of demographic          meta-analyses (e.g. containing ~ 10 studies; [138]), but our
+connectivity between the populations by migration. We         data were based on 98 studies, and should be less sensi-
+did not record migration rates per se, although we did        tive to this issue of sample size. Bias would have most
+record physical distance between crossed populations, as      effect on our results and conclusions if any studies not
+a proxy for this. We detected only very limited (and          included in our review (e.g. unpublished work, sources
+non-significant) variation in the outbreeding response        of grey literature that we did not consider) reported out-
+with physical distance. This may be because physical dis-     breeding responses that differed systematically from
+tance scales differently with dispersal ability (and hence    those in the studies that we did include. However, out-
+potential connectivity) for each species. Alternatively,      breeding responses may be biased in either of two direc-
+there may be no relationship, or a non-linear relation-       tions: towards fitness costs (outbreeding depression), or
+ship between outbreeding responses and physical separ-        towards fitness gains (heterosis), depending on assump-
+ation of inter-mating populations.                            tions made by the researcher. Thus, it is not obvious
+                                                              that any bias in outbreeding responses should influence
+Review limitations                                            our meta-analyses systematically.
+Review scope                                                     The nested structure of our meta-analytic model pre-
+The scope of our systematic review was limited to intra-      cluded an assessment of the sensitivity of the results to
+specific, post-zygotic outbreeding effects that involved at   the “file drawer problem” by traditional routes, e.g. by
+least one natural population, and excluded taxonomically      quantifying the number of missing non-significant studies
+complex outbreeding contexts. Thus, we cannot generalise      required to make the observed pooled effect sizes non-
+our results to comment on taxonomically complex sit-          significant (“fail-safe n”; [139]). The value of calculating a
+uations (hybrid swarms and speciation complexes),             fail-safe n for the significance of fixed effects within our
+outbreeding between species, outbreeding exclusively          models could, in any case, be called into question, given
+between farmed populations, agricultural or horticul-         the study-level heterogeneity in outbreeding responses.
+tural cultivars or strains, or pre-zygotic outbreeding
+barriers.                                                     Limitations of the primary research literature
+   Our effect size was a measure of intrinsic outbreeding     We found relatively few studies that followed later gener-
+responses [15,18], i.e. the deviation of hybrid phenotype     ation responses to outbreeding (F3 and later hybrid gener-
+from the mid-parent phenotype. Thus we cannot use our         ations). Thus the available evidence provides a poor basis
+results to comment on the extent or magnitude of extrin-      for understanding the longer-term consequences of intra-
+sic responses to outbreeding (deviations in hybrid per-       specific outbreeding (i.e. the outbreeding responses of
+formance from either of the parents, due to additive gene     greatest potential interest to conservation practitioners).
+effects).                                                     Only 20.4% of articles included in our review observed
+   Where populations mix under natural (uncontrolled)         outbreeding responses within natural populations. This
+conditions, a broader range of crosses would be pro-          represents a shortcoming of the literature, given that the
+duced than the set of hybrid types that we considered.        effects of outbreeding may differ between natural and lab
+For example F1 hybrids could backcross with individuals       environments (Figure 4k). Wherever possible, investiga-
+that have a pure parental ancestry. Progeny of back-          tors should seek to conduct studies on phenotypic out-
+crosses between F1 and parental lineages are expected to      breeding effects either in natural populations or habitat, or
+possess between-source heterozygosity equivalent to F2        under conditions that approximate as far as possible those
+and later generation hybrids but with a reduced epistatic     within natural populations. Many articles also lacked clarity
+cost [17]. Thus, backcrossing may allow beneficial alleles    with regard to their crossing designs, their level of replica-
+to escape deleterious hybrid genetic backgrounds, and         tion (attempted and realised), and to what hierarchical level
+
+Whitlock et al. Environmental Evidence 2013, 2:13                                                                                 Page 17 of 21
+http://www.environmentalevidencejournal.org/content/2/1/13
+in the sampling design measurement error referred (e.g. in-     Implications for research
+dividual level, family level, treatment level).                 The heterogeneity in outbreeding responses we observed
+                                                                among studies suggests that future research should strive
+                                                                to document as carefully and as fully as possible the fac-
+Review conclusions                                              tors that may lead to this variation. These could include
+Implications for managing between-population                    the level of demographic isolation (present and historical)
+outbreeding                                                     that a population has been exposed to, generation time, ef-
+The available evidence has implications for several sorts of    fective population size, the extent of cytogenetic differ-
+conservation measures that result in between-population         ences between crossing populations, and the degree of
+outbreeding. These measures include “range restoration”,        environmental differentiation between hybridising popula-
+where individuals are translocated (re-introduced) within       tions (relative to other populations in a species’ range).
+the existing native range of a species [140,141], “rein-        This would allow future reviews to model this heterogen-
+forcement” where individuals are translocated to a particu-     eity and to begin to understand the causes of between-
+lar population that is in decline, in order to bolster that     species and between-population differences in outbreeding
+population demographically [141,142], and assisted migra-       responses. In addition, researchers should aim to observe
+tion e.g. [143], in cases where the translocated individuals    hybrid offspring and parental lineages in environments
+come from multiple source populations. The conservation         that are as close to natural as possible. More generally,
+practitioner is interested in whether between-population        other aspects of study design that improve the internal
+outbreeding influences the outcome of these conservation        and external validity of line-cross analyses and investi-
+measures, increasing or decreasing population growth or         gations into phenotypic outbreeding responses (Table 3)
+viability. The results of this review do not relate directly to should be incorporated into future studies. For example,
+the effect of outbreeding on demographic sustainability.        we suggest that prospective authors of outbreeding studies
+However, our review contributes to this understanding by        should aim to follow the fitness effects of between-
+synthesising the effects of outbreeding on phenotypes of        population outbreeding into at least the F2 generation,
+hybrid offspring relative to parent lineages. These pheno-      and ideally to incorporate non-inbred backcrosses into
+types, including fitness components, are expected to con-       their designs as well. Where resources allow, researchers
+tribute to the growth and viability of populations.             should carry out control crosses within parental popula-
+   The available evidence indicates that between-population     tions (e.g. F1, F2 etc. within population controls) as the
+outbreeding may lead to phenotypic benefits in the F1, but      gold standard for comparison with hybrid offspring.
+could also lead to absolute costs to fitness in the F2 and      Ideally, researchers would also follow non-outbred crosses
+later generations (the latter result is based on 18 studies;    within both parent populations as comparators for hybrid
+Figure 6). However, not all outbreeding will lead to out-       performance. Wherever possible, investigators should
+breeding depression in the F2 generation. This is evident if    measure total fitness rather than individual components of
+we consider the study-level heterogeneity in outbreeding        fitness (i.e. the contribution to future generations resulting
+responses, which imply scatter in outbreeding responses         from the aggregate effects of survival and reproduction).
+around the typical F2 fitness response. In addition, there      These improvements to study design should yield a clearer
+are good reasons for supposing that outbreeding depression      view of the conditions under which either heterosis, or
+may be more likely for some population pairs than for           outbreeding depression may occur following between-
+others. Previous studies have suggested that outbreeding        population outcrossing.
+depression is likely when outbreeding populations have
+been isolated for many generations (especially if they          Additional files
+occupy divergent environments), are genetically diver-
+gent or are differentiated in chromosome structure or             Additional file 1: “Whitlock_outbreeding_review_supplementary_
+number [21,26]. These factors influence (or are mea-              materials”. This file contains supplementary materials (text, figures
+                                                                  and tables).
+sures of ) the underlying basis of outbreeding depres-
+                                                                  Additional file 2: “Whitlock_outbreeding_review_audit_file.xlsx”.
+sion, i.e. adaptive differentiation, and internal (epistatic)
+                                                                  This file contains details of all articles recovered through the literature
+co-adaptation within the genome. Therefore, the avail-            searches, and documents the point at which articles were excluded (title
+able evidence suggests that conservation practitioners            assessment, abstract assessment, fulltext assessment), or whether they
+                                                                  were, alternatively, included in the review.
+should avoid mixing population pairs that meet these
+                                                                  Additional file 3: “Whitlock_outbreeding_review_dataset.xlsx”. This
+conditions, since there is an enhanced risk that their
+                                                                  file contains the dataset of effect sizes and other explanatory variables,
+admixture would lead to outbreeding depression [21].              along with article identifiers to link to Additional file 2.
+Frankham et al. [21] give specific guidelines and a deci-
+sion making tool to assist in identifying population            Competing interests
+pairs whose mixture may risk outbreeding depression.            The authors declared that they have no competing interests.
+
+Whitlock et al. Environmental Evidence 2013, 2:13                                                                                                           Page 18 of 21
+http://www.environmentalevidencejournal.org/content/2/1/13
+Author’s contributions                                                                 15. Edmands S: Between a rock and a hard place: evaluating the relative
+RW lead the literature survey and assessment, carried out the data extraction,             risks of inbreeding and outbreeding for conservation and management.
+designed and carried out the statistical analysis and drafted the review                   Mol Ecol 2007, 16:463–475.
+report. All authors contributed to the design and focus of the study. ASP and          16. McClelland EK, Naish KA: What is the fitness outcome of crossing
+GBS implemented the systematic review methodology as specifically                          unrelated fish populations? A meta-analysis and an evaluation of future
+employed in this review. GBS participated in literature searches, and                      research directions. Conserv Genet 2007, 8:397–416.
+contributed to the design of the statistical analysis. TB conceived of the             17. Lynch M: The genetic interpretation of inbreeding depression and
+study. All authors read and approved the final manuscript.                                 outbreeding depression. Evolution 1991, 45:622–629.
+                                                                                       18. Allendorf FW, Leary RF, Spruell P, Wenburg JK: The problems with
+Acknowledgements                                                                           hybrids: setting conservation guidelines. Trends Ecol Evol 2001,
+This work was supported by the UK Population Biology Network, through                      16:613–622.
+funding from the Natural Environment Research Council and Natural                      19. Rieseberg LH: Chromosomal rearrangements and speciation. Trends Ecol
+England. We thank Jack Brodie, Helen Hipperson, Marie Chadburn and                         Evol 2001, 16:351–358.
+Sophie Allen for assistance with literature searching, article assessment and          20. White MJD: Modes of speciation. San Francisco, California: W. H. Freeman; 1978.
+data extraction. We also thank our review group for constructive criticism on          21. Frankham R, Ballou JD, Eldridge MDB, Lacy RC, Ralls K, Dudash MR, Fenster
+the scope, development and structure of this review, and two peer reviewers                CB: Predicting the probability of outbreeding depression. Conserv Biol
+for useful feedback on the review protocol. Finally we thank three peer                    2011, 25:465–475.
+reviewers who each provided constructive comments on this systematic                   22. Arnold ML, Hodges SA: Are natural hybrids fit or unfit relative to their
+review report.                                                                             parents? Trends Ecol Evol 1995, 10:67–71.
+                                                                                       23. Coyne JA, Orr HA: Speciation. Sunderland, MA, USA: Sinauer Associates; 2004.
+Author details                                                                         24. Falconer DS, Mackay TFC: Quantitative Genetics. Harlow, England: Prentice
+1                                                                                          Hall; 1996.
+ Institute of Integrative Biology, University of Liverpool, The Biosciences
+Building, Crown Street, Liverpool L69 7ZB, UK. 2Centre for Reviews and                 25. Orr HA: The population genetics of speciation: the evolution of hybrid
+Dissemination, University of York, York YO10 5DD, UK. 3Faculty of Biological               incompatibilities. Genetics 1995, 139:1805–1813.
+Sciences, University of Leeds, Leeds LS2 9JT, UK. 4Zoology Building, School of         26. Edmands S, Timmerman CC: Modeling factors affecting the severity of
+Biological Sciences, University of Aberdeen, Aberdeen AB24 2TZ, UK. 5UK                    outbreeding depression. Conserv Biol 2003, 17:883–892.
+Population Biology Network, Department of Animal and Plant Sciences,                   27. Edmands S: Does parental divergence predict reproductive compatibility.
+University of Sheffield, Sheffield S10 2TN, UK. 6Centre for Evidence-Based                 Trends Ecol Evol 2002, 17:520–527.
+Conservation, School of Environment and Natural Resources and Geography,               28. Storfer A: Gene flow and endangered species translocations: a topic
+Bangor University, Bangor LL57 2UW, UK.                                                    revisited. Biol Conserv 1999, 87:173–180.
+                                                                                       29. Whitlock R, Stewart GB, Pullin AS, Goodman SJ, Piertney SB, Butlin RK, Burke
+Received: 14 October 2012 Accepted: 20 May 2013                                            T, Brodie J, Hipperson H: Does translocation of individuals between
+Published: 26 June 2013                                                                    populations result in net cost to fitness in offspring of mixed populations?.
+                                                                                           Bangor, UK: Collaboration for Environmental Evidence; 2009.
+References                                                                             30. Hedrick PW: Evaluation of D2, a microsatellite measure of inbreeding and
+1. Frankel OH: Genetic conservation: our evolutionary responsibility.                      outbreeding, in wolves with a known pedigree. Evolution 2001,
+      Genetics 1974, 78:53–65.                                                             55:1256–1260.
+2. Frankel OH, Soulé ME: Conservation and evolution. Cambridge, UK:                    31. Cohen J: A coefficient of agreement for nominal scales. Educ Psychol Meas
+      Cambridge University Press; 1981.                                                    1960, 20:37–46.
+3. Crnokrak P, Roff DA: Inbreeding depression in the wild. Heredity 1999,              32. Pullin AS, Stewart GB: Guidelines for systematic review in conservation
+      83:260–270.                                                                          and environmental management. Conserv Biol 2006, 20:1647–1656.
+4. Keller LF, Waller DM: Inbreeding effects in wild populations. Trends Ecol           33. Borenstein M, Hedges LV, Higgins JPT, Rothstein HR: Introduction to
+      Evol 2002, 17:230–241.                                                               meta-analysis. Chichester, UK: John Wiley & Sons; 2009.
+5. O'Grady JJ, Brook BW, Reed DH, Ballou JD, Tonkyn DW, Frankham R:                    34. Hadfield JD: MCMC methods for multi-response generalized linear mixed
+      Realistic levels of inbreeding depression strongly affect extinction risk in         models: the MCMCglmm R package. J Stat Softw 2010, 33:1–22.
+      wild populations. Biol Conserv 2006, 133:42–51.                                  35. Hadfield JD, Nakagawa S: General quantitative genetic methods for
+6. Reed DH, Frankham R: Correlation between fitness and genetic diversity.                 comparative biology: phylogenies, taxonomies and multi-trait
+      Conserv Biol 2003, 17:230–237.                                                       models for continuous and categorical characters. J Evol Biol 2010,
+7. Hedrick PW, Fredrickson R: Genetic rescue guidelines with examples from                 23:494–508.
+      Mexican wolves and Florida panthers. Conserv Genet 2010, 11:615–626.             36. Gelman A: Prior distributions for variance parameters in hierarchical
+8. Tallmon DA, Luikart G, Waples RS: The alluring simplicity and complex                   models. Bayesian Analysis 2006, 1:515–533.
+      reality of genetic rescue. Trends Ecol Evol 2004, 19:489–496.                    37. Spiegelhalter DJ, Best NG, Carlin BP, van der Linde A: Bayesian measures of
+9. Westemeier RL, Brawn JD, Simpson SA, Esker TL, Jansen RW, Walk JW,                      model complexity and fit. J R Stat Soc Lond B 2002, 64:583–639.
+      Kershner EL, Bouzat JL, Paige KN: Tracking the long-term decline and             38. Sutton JT, Nakagawa S, Robertson BC, Jamieson IG: Disentangling the roles
+      recovery of an isolated population. Science 1998, 282:1695–1698.                     of natural selection and genetic drift in shaping variation at MHC
+10. Hogg JT, Forbes SH, Steele BM, Luikart G: Genetic rescue of an insular                 immunity genes. Mol Ecol 2011, 20:4408–4420.
+      population of large mammals. Proc R Soc Lond, Ser B: Biol Sci 2006,              39. Higgins JPT, Thompson SG: Quantifying heterogeneity in a meta-analysis.
+      273:1491–1499.                                                                       Stat Med 2002, 21:1539–1558.
+11. Madsen T, Shine R, Olsson M, Wittzell H: Restoration of an inbred adder            40. Viechtbauer W: Conducting meta-analyses in R with the metafor
+      population. Nature 1999, 402:34–35.                                                  package. J Stat Softw 2010, 36:1–48.
+12. Trinkel M, Ferguson N, Reid A, Reid C, Somers M, Turelli L, Graf J, Szykman M,     41. Egger M, Smith G, Schneider M, Minder C: Bias in metaanalysis detected
+      Cooper D, Haverman P, et al: Translocating lions into an inbred lion                 by a simple, graphical test. Br Med J 1997, 315:629–634.
+      population in the Hluhluwe–iMfolozi Park, South Africa. Anim Conserv 2008,       42. Gelman A, Carlin JB, Stern HS, Rubin DB: Bayesian Data Analysis. London,
+      11:138–143.                                                                          New York, Washington, D. C.: Chapman & Hall/CRC; 2004.
+13. Vilà C, Sundqvist A, Flagstad Ø, Seddon J, Björnerfeldt S, Kojola I, Casulli A,    43. Landis JR, Koch GG: The measurement of observer agreement for
+      Sand H, Wabakken P, Ellegren H: Rescue of a severely bottlenecked wolf               categorical data. Biometrics 1977, 33:159–174.
+      (Canis lupus) population by a single immigrant. Proc Roy Soc Lond B Biol         44. Sherman CDH, Wapstra E, Uller T, Olsson M: Male and female effects on
+      Sci 2003, 270:91–97.                                                                 fertilization success and offspring viability in the Peron's tree frog, Litoria
+14. Gregory A, Burke T, Ferris R, Robson J, Smithers R, Whitlock R: The                    peronii. Austral Ecol 2008, 33:348–352.
+      conservation of genetic diversity: science and policy needs in a changing world. 45. Sagvik J, Uller T, Olsson M: Outbreeding depression in the common frog,
+      Peterborough, UK; 2006.                                                              Rana temporaria. Conserv Genet 2005, 6:205–211.
+
+Whitlock et al. Environmental Evidence 2013, 2:13                                                                                                         Page 19 of 21
+http://www.environmentalevidencejournal.org/content/2/1/13
+46. Byrom AE, Burns CW, Wallis GP: Experimental hybridization of alpine and         68. McGinnity P, Prodohl P, Ferguson A, Hynes R, Maoileidigh NO, Baker N,
+     lowland forms of Boeckella dilata, a calanoid copepod. Heredity 1993,              Cotter D, O'Hea B, Cooke D, Rogan G, et al: Fitness reduction and potential
+     71:508–515.                                                                        extinction of wild populations of Atlantic salmon, Salmo salar, as a result
+47. Edmands S, Feaman HV, Harrison JS, Timmerman CC: Genetic                            of interactions with escaped farm salmon. Proc R Soc B-Biol Sci 2003,
+     consequences of many generations of hybridization between divergent                270:2443–2450.
+     copepod populations. J Hered 2005, 96:114–123.                                 69. Dahl J, Pettersson E, Dannewitz J, Järvi T, Löf AC: No difference in
+48. Edmands S, Deimler JK: Local adaptation, intrinsic coadaptation and the             survival, growth and morphology between offspring of wild-born,
+     effects of environmental stress on interpopulation hybrids in the                  hatchery and hybrid brown trout (Salmo trutta). Ecol Freshwat Fish
+     copepod Tigriopus californicus. J Exp Mar Biol Ecol 2004, 303:183–196.             2006, 15:388–397.
+49. Edmands S: Heterosis and outbreeding depression in interpopulation              70. Nilsson J: Arctic charr strain crosses - effects on growth and sexual
+     crosses spanning a wide range of divergence. Evolution 1999,                       maturity. J Fish Biol 1993, 43:163–171.
+     53:1757–1768.                                                                  71. Escobar JS, Nicot A, David P: The different sources of variation in
+50. Ellison CK, Burton RS: Interpopulation hybrid breakdown maps to the                 inbreeding depression, heterosis and outbreeding depression in a
+     mitochondrial genome. Evolution 2008, 62:631–638.                                  metapopulation of Physa acuta. Genetics 2008, 180:1593–1608.
+51. Leberg PL: Strategies for population reintroduction - effects of                72. McCarthy TM, Sih A: Relatedness of mates influences mating behaviour
+     genetic-variability on population growth and size. Conserv Biol 1993,              and reproductive success of the hermaphroditic freshwater snail Physa
+     7:194–199.                                                                         gyrina. Evol Ecol Res 2008, 10:77–94.
+52. Nguenga D, Teugels GG, Ollevier F: Fertilization, hatching, survival and        73. Reinhardt K, Kohler G: Conservation of the red-winged grasshopper,
+     growth rates in reciprocal crosses of two strains of an African catfish            Oedipoda germanica (Latr.): the influence of reproductive behaviour.
+     Heterobranchus longifilis Valenciennes 1840 under controlled hatchery              Biol Conserv 2002, 107:221–228.
+     conditions. Aquacult Res 2000, 31:565–573.                                     74. Hogg JT, Forbes SH, Steele BM, Luikart G: Genetic rescue of an insular
+53. Gjerde B, Reddy P, Mahapatra KD, Saha JN, Jana RK, Meher PK, Sahoo M,               population of large mammals. Proc R Soc B-Biol Sci 2006, 273:1491–1499.
+     Lenka S, Govindassamy P, Rye M: Growth and survival in two complete            75. Keane B: Dispersal and inbreeding avoidance in the white-footed mouse
+     diallele crosses with five stocks of Rohu carp (Labeo rohita). Aquaculture         Peromyscus leucopus. Anim Behav 1990, 40:143–152.
+     2002, 209:103–115.                                                             76. Cruz P, Ramirez JL, Garcia GA, Ibarra AM: Genetic differences between two
+54. Cooke SJ, Philipp DP: Influence of local adaptation and interstock                  populations of catarina scallop (Argopecten ventricosus) for adaptations
+     hybridization on the cardiovascular performance of largemouth bass                 for growth and survival in a stressful environment. Aquaculture 1998,
+     Micropterus salmoides. J Exp Biol 2005, 208:2055–2062.                             166:321–335.
+55. Cooke SJ, Kassler TW, Phillipp DP: Physiological performance of                 77. Cruz P, Ibarra AM: Larval growth and survival of two catarina scallop
+     largemouth bass related to local adaptation and interstock hybridization:          (Argopecten circularis, Sowerby, 1835) populations and their reciprocal
+     implications for conservation and management. J Fish Biol 2001,                    crosses. J Exp Mar Biol Ecol 1997, 212:95–110.
+     59:248–268.                                                                    78. Dolgin ES, Felix MA, Cutter AD: Hakuna Nematoda: genetic and
+56. Goldberg TL, Grant EC, Inendino KR, Kassler TW, Claussen JE, Philipp DP:            phenotypic diversity in African isolates of Caenorhabditis elegans and C.
+     Increased infectious disease susceptibility resulting from outbreeding             briggsae. Heredity 2008, 100:304–315.
+     depression. Conserv Biol 2005, 19:455–462.                                     79. Keller M, Kollmann J, Edwards PJ: Genetic introgression from distant
+57. Gharrett AJ, Smoker WW, Reisenbichler RR, Taylor SG: Outbreeding                    provenances reduces fitness in local weed populations. J Appl Ecol 2000,
+     depression in hybrids between odd- and even-broodyear pink salmon.                 37:647–659.
+     Aquaculture 1999, 173:117–129.                                                 80. Andalo C, Cruzan MB, Cazettes C, Pujol B, Burrus M, Thébaud C:
+58. Gharrett AJ, Smoker WW: Two generations of hybrids between even-year                Post-pollination barriers do not explain the persistence of two distinct
+     and odd-year pink salmon Oncorhynchus gorbuscha a test for                         Antirrhinum subspecies with parapatric distribution. Plant Syst Evol 2010,
+     outbreeding depression. Can J Fish Aquat Sci 1991, 48:1744–1749.                   286:223–234.
+59. Gilk SE, Wang IA, Hoover CL, Smoker WW, Taylor SG, Gray AK, Gharrett AJ:        81. Luijten SH, Kery M, Oostermeijer JGB, Den Nijs HJCM: Demographic
+     Outbreeding depression in hybrids between spatially separated pink                 consequences of inbreeding and outbreeding in Arnica montana: a field
+     salmon, Oncorhynchus gorbuscha, populations: marine survival, homing               experiment. J Ecol 2002, 90:593–603.
+     ability, and variability in family size. Environ Biol Fishes 2004, 69:287–297. 82. Raabová J, Münzbergová Z, Fischer M: Consequences of near and far
+60. Johnsson JI, Clarke WC, Withler RE: Hybridization with domesticated                 between-population crosses for offspring fitness in a rare herb. Plant Biol
+     rainbow trout (Oncorhynchus mykiss) reduces seasonal variation in                  2009, 11:829–836.
+     growth of steelhead trout (O. mykiss). Can J Fish Aquat Sci 1993,              83. Johansen-Morris AD, Latta RG: Fitness consequences of hybridization
+     50:480–487.                                                                        between ecotypes of Avena barbata: hybrid breakdown, hybrid vigor,
+61. Miller LM, Close T, Kapuscinski AR: Lower fitness of hatchery and hybrid            and transgressive segregation. Evolution 2006, 60:1585–1595.
+     rainbow trout compared to naturalized populations in Lake Superior             84. Rao GY, Andersson S, Widen B: Developmental stability in Brassica cretica:
+     tributaries. Mol Ecol 2004, 13:3379–3388.                                          the effect of crossing distance on fluctuating asymmetry in cotyledon
+62. Tymchuk WE, Sundström LF, Devlin RH: Growth and survival trade-offs                 morphology. Heredity 2002, 88:197–202.
+     and outbreeding depression in rainbow trout (Oncorhynchus mykiss).             85. Heiser DA, Shaw RG: The fitness effects of outcrossing in Calylophus
+     Evolution 2007, 61:1225–1237.                                                      serrulatus, a permanent translocation heterozygote. Evolution 2006,
+63. Bryden CA, Heath JW, Heath DD: Performance and heterosis in farmed                  60:64–76.
+     and wild Chinook salmon (Oncorhynchus tshawyacha) hybrid and                   86. Etterson JR, Keller SR, Galloway LF: Epistatic and cytonuclear interactions
+     purebred crosses. Aquaculture 2004, 235:249–261.                                   govern outbreeding depression in the autotetraploid Campanulastrum
+64. Sheffer RJ, Hedrick PW, Velasco AL: Testing for inbreeding and                      americanum. Evolution 2007, 61:2671–2683.
+     outbreeding depression in the endangered Gila topminnow. Anim                  87. Galloway LF, Etterson JR: Population differentiation and hybrid success in
+     Conserv 1999, 2:121–129.                                                           Campanula americana: geography and genome size. J Evol Biol 2005,
+65. Fraser DJ, Houde ALS, Debes PV, O'Reilly P, Eddington JD, Hutchings JA:             18:81–89.
+     Consequences of farmed-wild hybridization across divergent wild                88. Kaye TN, Lawrence B: Fitness effects of inbreeding and outbreeding on golden
+     populations and multiple traits in salmon. Ecol Appl 2010, 20:935–953.             paintbrush (Castilleja levisecta): implications for recovery and reintroduction.
+66. Fraser DJ, Cook AM, Eddington JD, Bentzen P, Hutchings JA: Mixed                    Corvallis, Oregon: Institute for Applied Ecology; 2003.
+     evidence for reduced local adaptation in wild salmon resulting from            89. Erickson DL, Fenster CB: Intraspecific hybridization and the recovery of
+     interbreeding with escaped farmed salmon: complexities in hybrid                   fitness in the native legume Chamaecrista fasciculata. Evolution 2006,
+     fitness. Evolutionary Applications 2008, 1:501–512.                                60:225–233.
+67. Houde ALS, Fraser DJ, Hutchings JA: Reduced anti-predator responses in          90. Holtsford TP: Variation in inbreeding depression among families
+     multi-generational hybrids of farmed and wild Atlantic salmon                      and populations of Clarkia tembloriensis (Onagraceae). Heredity 1996,
+     (Salmo salar L.). Conserv Genet 2010, 11:785–794.                                  76:83–91.
+
+Whitlock et al. Environmental Evidence 2013, 2:13                                                                                                          Page 20 of 21
+http://www.environmentalevidencejournal.org/content/2/1/13
+91. Paschke M, Abs C, Schmid B: Effects of population size and                     115. Bolstad SB, Kang H, Guries RP, Marty TL: Performance of interprovenance
+     pollen diversity on reproductive success and offspring size in the                 and intraprovenance crosses of jack pine in central Wisconsin. Silvae
+     narrow endemic Cochlearia bavarica (Brassicaceae). Am J Bot 2002,                  Genet 1991, 40:124–130.
+     89:1250–1259.                                                                 116. Harfouche A, Kremer A: Provenance hybridization in a diallel mating
+92. Pelabon C, Carlson ML, Hansen TF, Armbruster WS: Effects of crossing                scheme of maritime pine (Pinus pinaster). I. Means and variance
+     distance on offspring fitness and developmental stability in Dalechampia           components. Can J For Res-Rev Can Rech For 2000, 30:1–9.
+     scandens (Euphorbiaceae). Am J Bot 2005, 92:842–851.                          117. Rhode JM, Cruzan MB: Contributions of heterosis and epistasis to hybrid
+93. Waser NM, Price MV: Crossing-distance effects in Delphinium nelsonii:               fitness. Am Nat 2005, 166:E124–E139.
+     outbreeding and inbreeding depression in progeny fitness. Evolution           118. Crémieux L, Bischoff A, Müller-Schärer H, Steinger T: Gene flow from
+     1994, 48:842–852.                                                                  foreign provenances into local plant populations: fitness consequences
+94. Grindeland JM: Inbreeding depression and outbreeding depression in                  and implications for biodiversity restoration. Am J Bot 2010, 97:94–100.
+     Digitalis purpurea: optimal outcrossing distance in a tetraploid. J Evol Biol 119. Willi Y, Van Kleunen M, Dietrich S, Fischer M: Genetic rescue persists
+     2008, 21:716–726.                                                                  beyond first-generation outbreeding in small populations of a rare plant.
+95. Wagenius S, Hangelbroek HH, Ridley CE, Shaw RG: Biparental inbreeding               Proc R Soc B-Biol Sci 2007, 274:2357–2364.
+     and interremnant mating in a perennial prairie plant: fitness                 120. Willi Y, Fischer M: Genetic rescue in interconnected populations of small
+     consequences for progeny in their first eight years. Evolution 2010,               and large size of the self-incompatible Ranunculus reptans. Heredity 2005,
+     64:761–771.                                                                        95:437–443.
+96. Sobrevila C: Effects of distance between pollen donor and pollen               121. Dudash MR: Relative fitness of selfed and outcrossed progeny in a
+     recipient on fitness components in Espeletia schultzii. Am J Bot 1988,             self-compatible protandrous species Sabatia-angularis L. Gentianaceae a
+     75:701–724.                                                                        comparison in three environments. Evolution 1990, 44:1129–1139.
+97. Hardner CM, Potts BM, Gore PL: The relationship between cross success          122. Sheridan PM, Karowe DN: Inbreeding, outbreeding, and heterosis in the
+     and spatial proximity of Eucalyptus globulus ssp. globulus parents.                yellow pitcher plant, Sarracenia flava (Sarraceniaceae), in Virginia.
+     Evolution 1998, 52:614–618.                                                        Am J Bot 2000, 87:1628–1633.
+98. Byers DL: Effect of cross proximity on progeny fitness in a rare               123. Colling G, Reckinger C, Matthies D: Effects of pollen quantity and quality
+     and a common species of Eupatorium (Asteraceae). Am J Bot 1998,                    on reproduction and offspring vigor in the rare plant Scorzonera humilis
+     85:644–653.                                                                        (Asteraceae). Am J Bot 2004, 91:1774–1782.
+99. Oostermeijer JGB, Altenburg RGM, Den Nijs HCM: Effects of outcrossing          124. Caño L, Escarré J, Blanco-Moreno JM, Sans FX: Assessing the effect of
+     distance and selfing on fitness components in the rare Gentiana                    inbreeding and long-distance gene flow on the invasive potential of
+     pneumonanthe (Gentianaceae). Acta Bot Neerl 1995, 44:257–268.                      Senecio pterophorus (Asteraceae). Aust J Bot 2008, 56:539–549.
+100. Fischer M, Matthies D: Mating structure and inbreeding and outbreeding        125. Stacy EA: Cross-fertility in two tropical tree species: evidence of
+     depression in the rare plant Gentianella germanica (Gentianaceae).                 inbreeding depression within populations and genetic divergence
+     Am J Bot 1997, 84:1685–1692.                                                       among populations. Am J Bot 2001, 88:1041–1051.
+101. Paland S, Schmid B: Population size and the nature of genetic load in         126. Hathaway L, Andersson S, Prentice HC: Experimental crosses within
+     Gentianella germanica. Evolution 2003, 57:2242–2251.                               European Silene latifolia (Caryophyllaceae): intraspecific differentiation,
+102. Vandepitte K, Honnay O, Jacquemyn H, Roldán-Ruiz I: Effects of                     distance effects, and sex ratio. Botany 2009, 87:231–240.
+     outcrossing in fragmented populations of the primarily selfing forest         127. Wolfe LM, Blair AC, Penna BM: Does intraspecific hybridization contribute
+     herb Geum urbanum. Evol Ecol 2010, 24:1353–1364.                                   to the evolution of invasiveness?: an experimental test. Biol Invasions
+103. Ellis JR, McCauley DE: Phenotypic differentiation in fitness related               2007, 9:515–521.
+     traits between populations of an extremely rare sunflower:                    128. Bailey MF, McCauley DE: The effects of inbreeding, outbreeding and
+     conservation management of isolated populations. Biol Conserv 2009,                long-distance gene flow on survivorship in North American populations
+     142:1836–1843.                                                                     of Silene vulgaris. J Ecol 2006, 94:98–109.
+104. Becker U, Reinhold T, Matthies D: Effects of pollination distance on          129. Emery SN, McCauley DE: Consequences of inbreeding for offspring fitness
+     reproduction and offspring performance in Hypochoeris radicata:                    and gender in Silene vulgaris, a gynodioecious plant. J Evol Biol 2002,
+     experiments with plants from three European regions. Biol Conserv 2006,            15:1057–1066.
+     132:109–118.                                                                  130. Thompson JD, Tarayre M, Gauthier P, Litrico I, Linhart YB: Multiple genetic
+105. Waser NM, Price MV: Optimal outcrossing in Ipomopsis aggregata seed                contributions to plant performance in Thymus vulgaris. J Ecol 2004,
+     set and offspring fitness. Evolution 1989, 43:1097–1109.                           92:45–56.
+106. Schlichting CD, Devlin B: Pollen and ovule sources affect seed production     131. Eckstein RL, Otte A: Effects of cleistogamy and pollen source on seed
+     of Lobelia cardinalis (Lobeliaceae). Am J Bot 1992, 79:891–898.                    production and offspring performance in three endangered violets. Basic
+107. Mutikainen P, Delph LF: Inbreeding depression in gynodioecious Lobelia             Appl Ecol 2005, 6:339–350.
+     siphilitica: among-family differences override between-morph                  132. Billingham MR, Simoes T, Reusch TBH, Serrao EA: Genetic sub-structure and
+     differences. Evolution 1998, 52:1572–1582.                                         intermediate optimal outcrossing distance in the marine angiosperm
+108. Montalvo AM, Ellstrand NC: Nonlocal transplantation and outbreeding                Zostera marina. Mar Biol 2007, 152:793–801.
+     depression in the subshrub Lotus scoparius (Fabaceae). Am J Bot 2001,         133. Arrayago M, Bea A, Heulin B: Hybridization experiment between
+     88:258–269.                                                                        oviparous and viviparous strains of Lacerta vivipara: A new insight into
+109. Hauser TP, Loeschcke V: Inbreeding depression and mating-distance                  the evolution of viviparity in reptiles. Herpetologica 1996, 52:333–342.
+     dependent offspring fitness in large and small populations of Lychnis         134. Grosberg RK: Limited dispersal and proximity-dependent mating success
+     flos-cuculi (Caryophyllaceae). J Evol Biol 1994, 7:609–622.                        in the colonial Ascidian Botryllus-schlosseri. Evolution 1987, 41:372–384.
+110. Leimu R, Fischer M: Between-population outbreeding affects plant              135. DeRose MA, Roff DA: A comparison of inbreeding depression in life-
+     defence. PLoS One 2010, 5.                                                         history and morphological traits in animals. Evolution 1999, 53:1288–1292.
+111. Pisanu PC, Gross CL, Flood L: Reproduction in wild populations of the         136. Merilä J, Sheldon BC: Genetic architecture of fitness and non-fitness traits:
+     threatened tree Macadamia tetraphylla: interpopulation pollen enriches             empirical patterns and development of ideas. Heredity 1999, 83:103–109.
+     fecundity in a declining species. Biotropica 2009, 41:391–398.                137. Roberts RC: The effects on litter size of crossing lines of mice inbred
+112. Vandepitte K, Roldán-Ruiz I, Honnay O: Reproductive consequences of                without selection. Genet Res 1960, 1:239–252.
+     mate quantity versus mate diversity in a wind-pollinated plant. Acta          138. Terrin N, Schmid CH, Lau J: In an empirical evaluation of the funnel plot,
+     Oecol 2009, 35:548–553.                                                            researchers could not visually identify publication bias. J Clin Epidemiol
+113. Mooney EH, McGraw JB: Effects of self-pollination and outcrossing with             2005, 58:894–901.
+     cultivated plants in small natural populations of American ginseng,           139. Orwin RG: A fail-safe n for effect size in meta-analysis. J Educ Stat 1983,
+     Panax quinquefolius (Araliaceae). Am J Bot 2007, 94:1677–1687.                     8:157–159.
+114. Levin DA, Bulinska-Radomska Z: Effects of hybridization and inbreeding        140. Falk DA, Millar CI, Olwell M: Restoring diversity: strategies for reintroduction of
+     on fitness in Phlox. Am J Bot 1988, 75:1632–1639.                                  endangered plants. Washington, USA: Island Press; 1996.
+
+Whitlock et al. Environmental Evidence 2013, 2:13                                                                                  Page 21 of 21
+http://www.environmentalevidencejournal.org/content/2/1/13
+141. Seddon PJ: From reintroduction to assisted colonization: moving
+     along the conservation translocation spectrum. Restor Ecol 2010,
+     18:796–802.
+142. Allen WH: Reintroduction of endangered plants. Bioscience 1994,
+     44:65–68.
+143. McLachlan JS, Hellmann JJ, Schwartz MW: A framework for debate of
+     assisted migration in an era of climate change. Conserv Biol 2007,
+     21:297–302.
+  doi:10.1186/2047-2382-2-13
+  Cite this article as: Whitlock et al.: A systematic review of phenotypic
+  responses to between-population outbreeding. Environmental Evidence
+  2013 2:13.
+                                                                           Submit your next manuscript to BioMed Central
+                                                                           and take full advantage of:
+                                                                           • Convenient online submission
+                                                                           • Thorough peer review
+                                                                           • No space constraints or color ﬁgure charges
+                                                                           • Immediate publication on acceptance
+                                                                           • Inclusion in PubMed, CAS, Scopus and Google Scholar
+                                                                           • Research which is freely available for redistribution
+                                                                           Submit your manuscript at
+                                                                           www.biomedcentral.com/submit
+

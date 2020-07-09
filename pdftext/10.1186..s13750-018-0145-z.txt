@@ -1,0 +1,375 @@
+Haddaway et al. Environ Evid
+https://doi.org/10.1186/s13750-018-0145-z
+                                         (2019) 8:1
+                                                                                                                      Environmental Evidence
+  SYSTEMATIC MAP PROTOCOL                                                                                                                               Open Access
+What ecotechnologies exist for recycling
+carbon and nutrients from domestic
+wastewater? A systematic map protocol
+Neal R. Haddaway1, Solveig L. Johannesdottir2*, Mikołaj Piniewski3 and Biljana Macura1
+   Abstract
+   Background: Pollution of the Baltic Sea continues to be a problem. Major terrestrial sources of nutrient emissions
+   to the Baltic Sea are agriculture and wastewater, both major causes of eutrophication. Wastewater contains nutrients
+   and organic matter that could constitute valuable products such as agricultural fertilizers and source of energy. With
+   the EU’s action plan for circular economy, waste management and resource utilization is central. Thus the integra-
+   tion of resource recovery to wastewater management could create benefits beyond the wastewater sector. There is a
+   growing interest in resource recovery from wastewater. However, there is no systematic overview of the literature on
+   technologies to recover nutrients and carbon from wastewater sources done to date.
+   Methods: This systematic map will identify a representative list of studies on ecotechnologies for reusing carbon and
+   nutrients (nitrogen and phosphorus) from domestic wastewater, which includes e.g. sewage sludge and wastewater
+   fractions. Searches will be performed in five bibliographic databases, one search engine and 38 specialist websites.
+   Searches will mainly be performed in English, search for literature in specialist websites will also include Finnish, Polish
+   and Swedish. Coding and meta-data extraction will include information on ecotechnology name and short description,
+   reuse outcome (i.e. reuse of carbon, nitrogen and/or phosphorus), type of reuse (i.e. whether it is explicit or implicit),
+   study country and location, latitude and longitude. All screening and coding will be done after initial consistency check-
+   ing. The outcomes of this systematic map will be a searchable database of coded studies. Findings will be presented in a
+   geo-informational system (i.e. an evidence atlas) and knowledge gaps and clusters will be visualised via heat maps.
+   Keywords: Circular economy, Energy recovery, Nitrogen, Nutrient recovery, Phosphorus, Resource recovery, Sewage
+Background                                                                                    production as a result of increased loading of inor-
+The Baltic Sea is particularly vulnerable to waterborne                                       ganic nutrients from terrestrial sources, followed by an
+nutrient loadings because of its large catchment in rela-                                     increase in organic matter loading [1].
+tion to the sea area, a long renewal time and limited                                            The major sources of nutrient emissions to the Baltic
+water exchange with the North Sea. The ecological status                                      Sea are diffuse, mostly agricultural, followed by point
+of the open water in the Baltic Sea is poor and affected                                      sources, mostly from municipal wastewater treatment
+by eutrophication [1]. The spatial extent of open water                                       plants [3]. Both nitrogen and phosphorous biogeo-
+eutrophication in the Baltic Sea has increased in recent                                      chemical cycles are considered planetary boundaries,
+years [2], despite measures to decrease emissions. The                                        within which humans can be safely sustained by the
+primary cause of eutrophication is increased primary                                          earth systems [4]. The global nitrogen cycle has severely
+                                                                                              overstepped its threshold, and fixation of nitrogen from
+                                                                                              the atmosphere should be reduced [4, 5]. Additionally,
+*Correspondence: solveig.johannesdottir@ri.se                                                 fixation of atmospheric nitrogen by the Haber–Bosch
+2
+  Research Institutes of Sweden, Drottning Kristinas väg 61, Stockholm,
+Sweden                                                                                        process to produce nitrogen fertilizer is very energy
+Full list of author information is available at the end of the article                        consuming, leading to fossil fuel originated emissions
+                                              © The Author(s) 2019. This article is distributed under the terms of the Creative Commons Attribution 4.0 International License
+                                              (http://creat​iveco​mmons​.org/licen​ses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium,
+                                              provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license,
+                                              and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creat​iveco​mmons​.org/
+                                              publi​cdoma​in/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+
+Haddaway et al. Environ Evid  (2019) 8:1                                                                     Page 2 of 7
+[6]. Phosphorus, naturally occurring in the earths’        Stakeholder engagement
+crust, is a non-renewable resource on its way to deple-    The topic for this review was initially proposed by the
+tion [4]. The European Commission has identified           research funder BONUS (https​://www.bonus​porta​l.org/).
+phosphate rock and phosphorus as critical raw materi-      The scope of the project was then refined through expert
+als with high economic importance and supply-risk [7].     discussions as part of the process of drafting an applica-
+  Cornejo et al. [8] found that nutrient recovery from     tion in response to the call by the research funder. Stake-
+wastewater can, by substituting mineral fertilizers,       holders, consisting of the broader BONUS RETURN
+reduce the eutrophication potential by up to 8% and        consortium members, were involved in discussions of
+total carbon footprint by up to 4%, depending on the       the scope and search strategy for the map. Within the
+size of the treatment plant. The study also showed that    stakeholder group, methodological experts on systematic
+by integrating recovery of water, nutrients and energy     maps and reviews as well as experts in resource recovery
+the eutrophication potential could decrease by 18% and     technologies for waste and wastewater are represented.
+carbon footprint by 34% when treating wastewater from
+100,000 people [8]. Recycled nutrients from waste and      Objectives
+wastewater could substitute mineral nitrogen and phos-     The primary question for this systematic map is: What
+phorous fertilizers in agriculture. There are also other   ecotechnologies exist for the recovery or reuse of carbon,
+uses for nutrients in industry and other resources in      phosphorus and nitrogen from municipal and domestic
+waste that could be utilized. For example, Mihelcic et al. wastewater systems globally?
+[9] estimated, based on data for the year 2009, that phos-   This review will identify a comprehensive list of studies
+phorus in the excreta of the whole human population        on ecotechnologies for recovering or reusing carbon and
+could satisfy 22% of global phosphorous demand.            nutrients (nitrogen and phosphorus). The systematic map
+  Utilizing resources in waste is a sustainable practice   will then describe these studies in terms of the settings,
+and central in a circular economy [10]. The wastewater     the PIO elements [population(s), intervention(s) and
+treatment of today could provide multiple benefits to      outcome(s)] and methods in each study. The key outputs
+society if integrated with resource recovery [11]. There   will be as follows:
+exists a number of technologies to recover nutrients, and
+other resources, from wastewater. There is a growing         1. A comprehensive list of studied ecotechnologies.
+interest in recovering resources, such as energy and plant   2. A detailed database of studies and descriptive infor-
+nutrients, from wastewater. The conventional treatment           mation such as type of technology and reuse.
+of wastewater is focused on the removal of nutrients and     3. An evidence atlas (i.e. a geographical information
+carbon, but it seems to be shifting towards recovery [12,        system mapping studies by their locations).
+13]. However, there is no systematic overview of the lit-    4. A series of heat maps (cross tabulations of key
+erature on technologies to recover nutrients and carbon          descriptors, e.g. interventions and outcomes, inter-
+from wastewater sources done to date.                            ventions and populations/settings, and interven-
+  In order to focus the study, the concept of ecotechnol-        tions and methods) that will be used to systemati-
+ogy was used. The term ‘ecotechnology’ describes com-            cally identify knowledge clusters (subtopics that are
+binations of practices relating to the environment and           well-represented by research studies) and knowledge
+technical innovation. It has been used since the early           gaps (subtopics that are un- or under-represented by
+1970s, but a recent systematic review and thematic syn-          research studies).
+thesis of the research literature shows it has been used     5. A list of synthesis gaps/knowledge clusters that
+as a buzzword with few explicit definitions [14]. We have        would be suitable for full systematic review and a
+based our definition of ecotechnology on theirs:                 list of knowledge gaps that warrant further primary
+                                                                 research effort.
+   “Eco-technologies are human interventions in social-
+   ecological systems in the form of practices and/or
+   biological, physical, and chemical processes designed
+                                                           Definitions of the question components
+   to minimise harm to the environment and provide
+   services of value to society” [14]
+                                                           Population(s)	Domestic wastewater systems, includ-
+  We use this broad definition, which encompasses both                         ing systems for treatment and dis-
+technologies and practices, so as to remain conserva-                          posal of wastewater-derived residues
+tive and broadly relevant. For this map, we add on to the                      and products such as digestate, efflu-
+definition that the ecotechnologies should be related to                       ent water etc. Both municipal and
+wastewater management and facilitate the reuse of car-
+bon and/or nutrients.
+
+Haddaway et al. Environ Evid   (2019) 8:1                                                                       Page 3 of 7
+                      on-site systems are relevant, as well  OR nutrient* OR nitrogen OR nitrate OR nitrite OR
+                      as co-treatment of wastewater with     ammoni* OR phosphorus OR phosphate) AND (waste-
+                      other organic wastes. No industrial or water OR “waste water” OR “storm water” OR storm-
+                      agricultural wastewater systems will   water OR blackwater OR “black water” OR greywater
+                      be considered. Carbon and nutrient     OR “grey water” OR graywater OR “gray water” OR
+                      recycling from agricultural sources is sludge OR septage OR sewage OR “organic waste*” OR
+                      planned to be addressed in a related   “septic sludge” OR sewerage* OR digestate* OR “toilet
+                      map [15].                              waste”) AND (return OR recovery OR recover OR con-
+Intervention(s)	Any practice undertaken for the pur-        version OR convert OR circulate OR circular OR reuse
+                      poses of extracting/capturing and      OR recycle).
+                                                                Searches in bibliographic databases will be restricted in
+                      reusing carbon and/or nutrients in the
+                                                             timescale to the period 2013 to 2017. This is due to the
+                      wastewater management process. This
+                                                             ongoing paradigm shift in the wastewater sector towards
+                      includes wastewater, sewage sludge,
+                                                             resource recovery we are primarily interested in studies
+                      human urine etc. and recovering car-
+                                                             published in recent years.
+                      bon in the form of energy.
+Outcome(s)	Described reuse of carbon and nutri-
+                      ents from the wastewater manage-       Search engines
+                      ment process.                          Searches will be performed in Google Scholar, which
+Study type(s)	       Studies on nutrient and/or carbon      has been shown to be useful for grey literature searches
+                      recovery and/or reuse excluding        [18]. Searches will be performed in English. Searches will
+                      review studies.                        make use of terms related both to synonyms for ecotech-
+                                                             nologies (e.g. ‘eco-technology’), and combinations of
+                                                             outcome terms and reuse terms (e.g. ‘carbon reuse’). See
+Methods                                                      Additional file 2 for grey literature search terms across
+The review will follow the Collaboration for Environ-        all languages. Google Scholar searches will be restricted
+mental Evidence guidelines and standards for evidence        to articles published in the time period 2013 to 2018 as
+synthesis in environmental management [16] and it con-       with bibliographic searches above. The first 1000 search
+forms to ROSES reporting standards [17] (see Additional      results will be extracted as citations using Publish or Per-
+file 1).                                                     ish software [19] and introduced into the duplication
+                                                             removal and screening workflow alongside records from
+Searching                                                    bibliographic databases.
+Bibliographic databases
+We will search for evidence in the following bibliographic
+databases:                                                   Organisational websites
+                                                             We will apply a case study approach for searching for
+   1. Scopus.                                                grey literature relevant for the Baltic Sea catchment area.
+   2. Web of Science Core Collections (consisting of the     Searches will be performed across a suite of relevant
+      following indexes: SCI-EXPANDED, SSCI, A&HCI,          organisational websites for ecotechnologies for the reuse
+      CPCI-S, CPCI-SSH, and ESCI).                           of carbon and nutrients. Apart from searches in Eng-
+   3. Electronic Theses Online Service (eThOS).              lish, searches will be performed in Swedish, Finnish and
+   4. Digital Access to Research Theses (DART).              Polish, representing the case-study countries within the
+   5. Directory Of Open Access Journals (DOAJ).              BONUS RETURN project as well as many of the Baltic
+                                                             languages. Each website will also be hand searched for
+   Searches will be performed using English language         relevant publications. Searches will make use of terms
+search terms across all bibliographic databases. Sub-        related both to synonyms for ecotechnologies and com-
+scriptions from the Warsaw University of Life Sci-           binations of outcome terms and reuse terms. See Addi-
+ences will be used. See Additional file 2 for details of     tional file 2 for grey literature search terms across all
+the search strings and their adaptations to the data-        languages. Literature from organisational websites will be
+bases Web of Science and Scopus. The following search        screened separately for relevance before being combined
+string will be used in bibliographic databases: (“organic    with other records.
+carbon” OR DOC OR “organic C” OR “organic matter”
+
+Haddaway et al. Environ Evid           (2019) 8:1                                                                                         Page 4 of 7
+   The following websites will be searched:
+Website                                                                                                                            Search language
+1. Foundation for Applied Water Research (STOWA) (http://www.stowa​.nl)                                                            English
+2. Ekologgruppen i Landskrona AB (http://www.ekolo​ggrup​pen.com/)                                                                 English
+3. Danish Centre for Environment and Energy (DCE) (http://dce.au.dk)                                                               English
+4. European Environment Agency (EEA) (https​://www.eea.europ​a.eu/)                                                                English
+5. Finnish Environment Institute (SYKE) (http://www.syke.fi)                                                                       English
+6. Federal Environment Agency (UmweltBundesAmt, Germany) (https​://www.umwel​tbund​esamt​.de)                                      English
+7. Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB) (http://www.igb-berli​n.de)                                  English
+8. United States Environmental Protection Agency (US EPA) (https​://www.epa.gov/)                                                  English
+9. EAWAG Aquatic Research (https​://www.eawag​.ch/en/)                                                                             English
+10. Netherlands National Institute for Public Health and the Environment (RIVM) (https​://www.rivm.nl/en)                          English
+11. Swedish Environmental Protection Agency (SEPA) (http://www.natur​vards​verke​t.se)                                             English, Swedish
+12. Swedish Board of Agriculture (http://www.jordb​ruksv​erket​.se)                                                                English, Swedish
+13. The Swedish Agency for Marine and Water Management (https​://www.havoc​hvatt​en.se)                                            English, Swedish
+14. Swedish directory of Master thesis (DiVA) (http://www.diva-porta​l.org)                                                        English, Swedish
+15. The Swedish Water and Wastewater Association (SWWA) (http://www.svens​ktvat​ten.se)                                            Swedish
+16. Federation of Swedish Farmers (http://www.lrf.se)                                                                              Swedish
+17. The Swedish Environmental Institute (http://www.IVL.se)                                                                        Swedish
+18. Agro base (http://agro.icm.edu.pl/agro)                                                                                        Polish
+19. Tech base (http://bazte​ch.icm.edu.pl)                                                                                         Polish
+20. Catalog of the WULS diploma and doctoral dissertations (https​://sgw0.bg.sggw.pl)                                              Polish
+21. Archive of Diploma Theses of the University of Agriculture Hugo Kołłątaj, Krakow (https​://apd.ur.krako​w.pl/catal​ogue)       Polish
+22. Archive of Diploma Papers of the University of Technology and Life Sciences in Bydgoszcz (https​://apd.utp.edu.pl/catal​ogue)  Polish
+23. Central Catalog of Polish Journals (http://mak.bn.org.pl/cgi-bin/makww​w.exe?BM=7)                                             Polish
+24. NUKat (http://katal​og.nukat​.edu.pl)                                                                                          Polish
+25. Portal of Scientific Journals (http://www.ejour​nals.eu)                                                                       Polish
+26. Journal repository of the Nicolaus Copernicus University (http://wydaw​nictw​oumk.pl/czaso​pisma​)                             Polish
+27. Repository of the Open Science Center (http://depot​.ceon.pl)                                                                  Polish
+28. SYMPOnet (https​://gate.bg.pw.edu.pl/)                                                                                         Polish
+29. Melinda (https​://melin​da.kansa​llisk​irjas​to.fi)                                                                            Finnish
+30. ARTO (https​://arto.linne​anet.fi/vwebv​/searc​hBasi​c?sk=fi_FI)                                                               Finnish
+31. HELDA Institutional repository (https​://helda​.helsi​nki.fi)                                                                  Finnish
+32. DORIA Institutional repository (https​://www.doria​.fi)                                                                        Finnish
+33. JUKURI (http://jukur​i.luke.fi)                                                                                                Finnish
+34. TAMPUB (http://tampu​b.uta.fi)                                                                                                 Finnish
+35. THESEUS (http://www.these​us.fi)                                                                                               Finnish
+36. University of Lapland (http://lauda​.ulapl​and.fi)                                                                             Finnish
+37. Aalto University (https​://aalto​doc.aalto​.fi)                                                                                Finnish
+38. SYKE library collection (http://kirja​sto.ympar​isto.fi/syke/fi/searc​h_yha.htm)                                               Finnish
+Testing comprehensiveness                                                            Assembling a library of search results
+A benchmark list of 25 articles (see Additional file 3) of                           Results of the bibliographic searching and Google Scholar
+known relevance to the review will be screened against                               will be combined, and duplicates will be removed prior to
+scoping search results to examine whether searches are                               screening. A library of search results will be assembled in
+able to locate relevant evidence. If articles are not found                          a review management software (i.e. EPPI reviewer [20]).
+during scoping, search terms will be examined to identify
+why articles were missed and adapted where relevant. In                              Article screening and study eligibility criteria
+addition, the reference lists of all relevant reviews will be                        Screening process
+screened for relevant studies at title, abstract and full text                       Screening will be done at two levels: at title and abstract
+levels.                                                                              (screened concurrently for efficiency) and at full text.
+
+Haddaway et al. Environ Evid   (2019) 8:1                                                                        Page 5 of 7
+Potentially relevant abstracts will be retrieved, tracking                                carbon. Nutrient outcomes
+those that cannot be located or accessed and reporting                                    include: nitrogen compounds
+this in the final review. Retrieved records will then be                                  (nitrogen, nitrate, nitrite,
+screened at full text, with each record being assessed by                                 ammonium) and phospho-
+one experienced reviewer.                                                                 rus compounds (phosphorus,
+  Prior to commencing screening, consistency check-                                       phosphate).
+ing will be performed with all reviewers on a subset         Eligible study type(s)	     Studies on nutrient and/or
+of articles at both title and abstract level and full text                                carbon recovery and/or reuse
+level screening. A subset of approximately 10% of title                                   excluding reviews.
+and abstract records and full text records will be inde-
+pendently screened by all reviewers. The results of the         We will provide a list of articles excluded at title and
+consistency checking will then be compared between           abstract, and at full text, with reasons for exclusion pro-
+reviewers and all disagreements discussed in detail.         vided for all excluded articles.
+Where the level of agreement is low (below c. 0.8 agree-
+ment), further consistency checking will be performed        Study validity assessment
+on an additional set of articles and then discussed.         The validity of articles will not be appraised as part of
+                                                             this systematic map in accordance with accepted sys-
+Eligibility criteria
+                                                             tematic mapping methodological guidance [21].
+The following criteria will be applied at all levels of
+screening:
+                                                             Data coding strategy
+                                                             The following data coding and meta-data extraction
+Eligible population(s)	Wastewater systems, including
+                                                             will be undertaken for all relevant studies:
+                             systems for treatment and dis-
+                             posal of wastewater-derived
+                                                                • Ecotechnology name.
+                             residues and fractions such        • Short description.
+                             as digestate, effluent water,      • Reuse outcome.
+                             urine etc. Both municipal and
+                             on-site systems are relevant,          • Carbon.
+                             as well as co-treatment of             • Nutrients N.
+                             wastewater with other organic          • Nutrients P.
+                             wastes. Industrial and agri-
+                             cultural wastewaters are not       • Type of reuse.
+                             eligible.
+Eligible intervention(s)	   Any practice undertaken for            • Explicit, fully described reuse.
+                             the purposes of extracting/            • Implicit or potential reuse.
+                             capturing and reusing car-
+                             bon and/or nutrients in from       •  Study country.
+                             the wastewater management          •  Study location.
+                             process. See above definition      •  Latitude.
+                             of ‘ecotechnology’ for further     •  Longitude.
+                             details.
+Eligible outcome(s)	        Described reuse of carbon          Reuse outcome refers to what substance from the
+                             and nutrients from waste-       wastewater process is reused, which could be one, two
+                             water management process.       or all three of carbon, nitrogen or phosphorus. Type
+                             Carbon outcomes include:        of reuse refers to how the recovered nutrients and/or
+                             energy, methane, soil car-      carbon is used, e.g. as energy or for agricultural pur-
+                             bon, soil organic carbon, total poses. The type of reuse is explicit, fully described, if
+                             carbon, dissolved organic       it is stated in the article how the reuse outcome will be
+                                                             used, e.g. as a fertilizer. It is implicit or potential reuse
+                             carbon, and organic mat-
+                                                             if the use of the carbon or nutrients is not described, or
+                             ter, but also chemical oxygen
+                                                             reuse is stated as a possibility.
+                             demand and biological oxygen
+                             demand, which are proxies for
+
+Haddaway et al. Environ Evid          (2019) 8:1                                                                                   Page 6 of 7
+   Meta-data extraction will be performed by multiple         Authors’ contributions
+                                                              NH drafted the first version of the manuscript, SJ, MP and BM edited and final-
+reviewers following consistency checking on a parallel        ised the manuscript. All authors read and approved the final manuscript.
+coding of subset of between 23 and 45 full texts, dis-
+cussing all disagreements. The remaining full texts will      Author details
+                                                              1
+                                                                Stockholm Environment Institute, Linnégatan 87D, Stockholm, Sweden.
+then be screened. If resources allow we may contact           2
+                                                                Research Institutes of Sweden, Drottning Kristinas väg 61, Stockholm,
+authors by email with requests for missing information.       Sweden. 3 Department of Hydraulic Engineering, Warsaw University of Life
+                                                              Sciences, Nowoursynowska 166, 02‑787 Warsaw, Poland.
+Study mapping and presentation                                Acknowledgements
+Narrative synthesis strategy                                  We thank the BONUS Secretariat for their generous funding, and Mistra EviEM
+The evidence base identified within this systematic           for covering article processing fees.
+map will be described primarily within a systematic           Competing interests
+map database; a searchable spreadsheet with columns           The authors declare that they have no competing interests.
+containing codes and meta-data related to the vari-
+                                                              Availability of data and materials
+ables described in the meta-data extraction and coding        Not applicable.
+schema, above. In addition, we will produce heat maps
+that cross tabulate two variables and detail the volume       Consent for publication
+                                                              Not applicable.
+of evidence (number of studies) within each cell of the
+table. Various combinations of variables will be used         Ethics approval and consent to participate
+for these heat maps, including: the types of ecotech-         Not applicable.
+nology and the outcome(s) that can be targeted; the           Funding
+types of ecotechnology and the study setting; the types       BONUS RETURN has received funding from BONUS (Art 185), funded jointly
+of ecotechnology and the study country. We will also          by the EU and Swedish Foundation for Strategic Environmental Research
+                                                              FORMAS, Innovation Fund Denmark, Academy of Finland and National
+produce an evidence atlas using study latitude and lon-       Centre for Research and Development in Poland. Article processing fees
+gitude meta-data, where studies are plotted on an inter-      were covered by Mistra EviEM.
+active cartographic map. Groups of studies, knowledge
+gaps and knowledge clusters will be described and             Publisher’s Note
+listed.                                                       Springer Nature remains neutral with regard to jurisdictional claims in
+                                                              published maps and institutional affiliations.
+                                                              Received: 27 July 2018 Accepted: 21 December 2018
+Knowledge gap and cluster identification strategy
+Heat maps will be used to identify knowledge clusters.
+These will then be prioritised by stakeholders and the
+authors independently, with both prioritisations being        References
+provided along with listed clusters that are suitable for      1. HELCOM. Ecosystem health of the Baltic Sea 2003–2007: HELCOM
+systematic review. Knowledge gaps will be highlighted by            initial holistic assessment. Baltic Sea Environ Proc. 2010;122:63.
+                                                               2. Fleming-Lehtinen V, et al. Recent developments in assessment meth-
+identifying un- or underrepresented subtopics in the heat           odology reveal that the Baltic Sea eutrophication problem is expand-
+maps. Subtopics with zero studies will be listed together           ing. Ecol Ind. 2015;48:380–8.
+with those that feature a smaller than would be expected       3. HELCOM. Sources and pathways for nutrients to the Baltic Sea (PLC-6).
+                                                                    Baltic Sea Environment Proceedings No. 153. 2018.
+number of studies. In practice this will be performed by       4. Rockström J, et al. A safe operating space for humanity. Nature.
+visual inspection by a methodology expert of the review             2009;461:472.
+team (i.e. not a subject expert to avoid preconception         5. Steffen W, et al. Planetary boundaries: guiding human development on
+                                                                    a changing planet. Science. 2015;347(6223):1259855.
+bias). This list of knowledge gaps will then be prioritised    6. Fowler D, et al. The global nitrogen cycle in the twenty-first century.
+in the same way as knowledge clusters described above.              Philos Trans R Soc Lond B Biol Sci. 2013;368(1621):20130164.
+                                                               7. EC. On the 2017 list of critical raw materials for the EU. 2017.
+                                                               8. Cornejo PK, Zhang Q, Mihelcic JR. How does scale of implementa-
+                                                                    tion impact the environmental sustainability of wastewater treat-
+                                                                    ment integrated with resource recovery? Environ Sci Technol.
+Additional files                                                    2016;50(13):6680–9.
+                                                               9. Mihelcic JR, Fry LM, Shaw R. Global potential of phosphorus recovery
+                                                                    from human urine and feces. Chemosphere. 2011;84(6):832–9.
+  Additional file 1. ROSES form for systematic map protocols.  10. EC. Closing the loop—an EU action plan for the circular economy. In:
+  Additional file 2. Search strategy.                               COM/2015/0614 final. 2015.
+                                                               11. Trimmer JT, Cusick RD, Guest JS. Amplifying progress toward multiple
+  Additional file 3. Benchmark list.
+                                                                    development goals through resource recovery from sanitation. Environ
+                                                                    Sci Technol. 2017;51(18):10765–76.
+
+Haddaway et al. Environ Evid         (2019) 8:1                                                                                                      Page 7 of 7
+12. Guest JS, et al. A new planning and design paradigm to achieve           17. Haddaway NR, et al. ROSES RepOrting standards for systematic evi-
+    sustainable resource recovery from wastewater. Environ Sci Technol.           dence syntheses: pro forma, flow-diagram and descriptive summary
+    2009;43(16):6126–30.                                                          of the plan and conduct of environmental systematic reviews and
+13. Larsen TA, Udert KM, Lienert J. Source separation and decentralization        systematic maps. Environ Evid. 2018;7(1):7.
+    for wastewater management. London: IWA Publishing; 2013.                 18. Haddaway NR, et al. The role of Google Scholar in evidence
+14. Haddaway N, McConville J, Piniewski M. How is the term ‘ecotechnol-           reviews and its applicability to grey literature searching. PLoS ONE.
+    ogy’ used in the research literature? A systematic review with thematic       2015;10(9):e0138237.
+    synthesis. Ecohydrol Hydrobiol. (In press).                              19. Harzing AW. Publish or Perish. 2007. https​://harzi​ng.com/resou​rces/
+15. Haddaway NR, Piniewski M, Macura B. [under revision in environmental          publi​sh-orper​ish.
+    evidence]. What evidence exists relating to ecotechnologies in agri-     20. Thomas J, Brunton J, Graziosi S. EPPI-Reviewer 4.0: software for research
+    culture for the recovery and reuse of carbon and nutrients in the Baltic      synthesis. EPPI-Centre Software. London: Science Research Unit, Institute
+    and boreo-temperate regions? A systematic map protocol.                       of Education, University of London; 2010.
+16. Collaboration for Environmental Evidence. Guidelines and standards       21. James KL, Randall NP, Haddaway NR. A methodology for systematic map-
+    for evidence synthesis in environmental management. Version 5.0. In:          ping in environmental sciences. Environ Evid. 2016;5(1):7.
+    Pullin A, Frampton GK, Livoreil B, Petrokofsky G Editors. 2018. http://
+    www.envir​onmen​talev​idenc​e.org/infor​matio​n-for-autho​rs. Accessed
+    27 Dec 2018
+                                                                                 Ready to submit your research ? Choose BMC and benefit from:
+                                                                                   • fast, convenient online submission
+                                                                                   • thorough peer review by experienced researchers in your field
+                                                                                   • rapid publication on acceptance
+                                                                                   • support for research data, including large and complex data types
+                                                                                   • gold Open Access which fosters wider collaboration and increased citations
+                                                                                   • maximum visibility for your research: over 100M website views per year
+                                                                                 At BMC, research is always in progress.
+                                                                                 Learn more biomedcentral.com/submissions
+

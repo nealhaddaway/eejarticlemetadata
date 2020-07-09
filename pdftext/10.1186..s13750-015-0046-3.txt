@@ -1,0 +1,516 @@
+Boshier et al. Environ Evid (2015) 4:20
+DOI 10.1186/s13750-015-0046-3
+  SYSTEMATIC REVIEW PROTOCOL                                                                                                                          Open Access
+Is local best? Examining the evidence
+for local adaptation in trees and its scale
+David Boshier1* , Linda Broadhurst2, Jonathan Cornelius3, Leonardo Gallo4, Jarkko Koskela5, Judy Loo6,
+Gillian Petrokofsky7 and Bradley St Clair8
+  Abstract
+  Background: Although the importance of using local provenance planting stock for woodland production, habitat
+  conservation and restoration remains contentious, the concept is easy to understand, attractive and easy to ‘sell’. With
+  limited information about the extent and scale of adaptive variation in native trees, discussion about suitable seed
+  sources often emphasises “local” in a very narrow sense or within political boundaries, rather than being based on
+  sound evidence of the scale over which adaptation occurs. Concerns exist over the actual scale (magnitude and spa-
+  tial scale) of adaptation in trees and the relative dangers of incorrect seed source or restricted seed collection, leading
+  to the establishment of trees with restricted genetic diversity and limited adaptive potential. Tree provenance and
+  progeny field trials in many parts of the world have shown the existence of genotype by environment interaction in
+  many tree species, but have not necessarily looked at whether this is expressed as a home site advantage (i.e. whether
+  provenance performance is unstable across sites, and there is better performance of a local seed source).
+  Methods/design: This review will examine the evidence for local adaptation and its scale in a number of native
+  tree species from different trial sites across the globe (e.g. tropical, Mediterranean, temperate). These trials have been
+  measured and in some cases results published in a range of formats. The data have, however, usually been presented
+  in the form of which provenances grow best at which sites. The review will examine existing data (published and
+  unpublished) in the context of the scale of local adaptation, with the results being presented in two formats: (a) relat-
+  ing survival, performance of provenances (classified by seed zone/provenance region of origin) to seed zone/prov-
+  enance region of the planting site; (b) plotting survival, performance provenances against the distance (Euclidean/
+  ecological) between the provenance and the trial site.
+  Keywords: Provenance trial, Reciprocal transplant experiment, Fitness, Seed source, Local adaptation, Restoration
+Background                                                                                     determines what is planted [2], choice of seed source,
+Trees are key components not only of forests and wood-                                         both in terms of its location and genetic composition,
+lands, but also of diverse agro-ecosystem landscapes,                                          can have important consequences for the immediate suc-
+offering numerous and varied opportunities for both the                                        cess and long-term viability of plantings. Choice should
+use and conservation of native species (e.g. [1]). Planting                                    be influenced by the objective of planting (e.g. for res-
+of native tree species for forest or habitat restoration and                                   toration or production, future adaptability or past adap-
+other purposes on farms depends on a ready supply of                                           tation) and the risks associated with particular seed
+germplasm (seeds or vegetative material), which in turn                                        sources (e.g. loss of adaptation, outbreeding depression,
+requires consideration of what is the best or most appro-                                      loss of diversity—genetic bottlenecks, or contamination
+priate source of seed. Although ‘what was available’ often                                     of native gene pools prioritised for conservation). The
+                                                                                               mantra of local adaptation is one that has been widely
+                                                                                               spread and practically invoked in issues of habitat resto-
+*Correspondence: david.boshier@plants.ox.ac.uk
+1
+                                                                                               ration and more general seed sourcing. Local genotypes
+  Department of Plant Sciences, University of Oxford, South Parks Road,
+Oxford OX1 3RB, UK
+                                                                                               are assumed to be better adapted to local conditions, as
+Full list of author information is available at the end of the article                         natural selection over time increases the frequency of
+                                              © 2015 Boshier et al. This article is distributed under the terms of the Creative Commons Attribution 4.0 International License
+                                              (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium,
+                                              provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license,
+                                              and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/
+                                              publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+
+Boshier et al. Environ Evid (2015) 4:20                                                                            Page 2 of 10
+genes that improve fitness; selecting for variation that is       Consideration of some basic genetic concepts can help
+adaptive. Forest certification and timber labelling stand-     understand the extent and scale of local adaptation that
+ards require action to conserve genetic diversity and to       may apply to tree species. Natural selection may vary
+use local provenances (e.g. [3, 4]), while in some coun-       across a species distribution (divergent selection), caus-
+tries grants for tree planting may require the use of local    ing each local population to evolve traits that provide an
+material (e.g. [5]). The concept is easy to understand and     advantage under its local environmental conditions (i.e.
+the message is therefore attractive and easy to ‘sell’ (e.g.   its habitat), regardless of the consequences of these traits
+[6]).                                                          for fitness in other habitats. What should result, in the
+   The importance of local provenance in sourcing plant-       absence of other forces and constraints, is a pattern such
+ing stock for forest production, habitat conservation and      that resident genotypes in each population have on aver-
+restoration does, however, remain contentious (e.g. [7, 8]).   age a higher relative fitness in their local habitat than gen-
+Concerns exist over the actual scale (magnitude and spa-       otypes from other habitats. This pattern and the process
+tial scale) of adaptation in trees and the relative dangers of leading to it is known as local adaptation [16]. However,
+incorrect seed source or restricted seed collection, leading   local adaptation may be impeded by gene flow, coun-
+to the establishment of trees with restricted genetic diver-   tered by genetic drift or natural selection due to temporal
+sity and limited adaptive potential. An undue emphasis on      environmental variability and limited by a lack of genetic
+local seed sources or poor practice in seed collection may     variation or by the genetic structure of underlying traits.
+drive sourcing from small populations or a limited num-        Thus, although divergent natural selection is the driving
+ber of trees, producing populations that are unlikely to       force, these other forces, in particular gene flow, are inte-
+be both adapted and adaptable and therefore with limited       gral to the spatial distribution of genetic variation and
+potential for long-term persistence [9].                       local adaptation is not an inevitable outcome of evolution
+   The relative degree to which morphological and growth       under spatially divergent selection [17]. Environmental
+differences in plants are under genetic or environmen-         heterogeneity also favours evolution of adaptive phe-
+tal control has been a fertile area of study. Ecologists are   notypic plasticity. Where there are no costs of and con-
+generally familiar with the classic genecology “common         straints on plasticity, a genotype that produces a locally
+garden” transplant experiments that showed widespread          optimal phenotype in each habitat should become fixed
+occurrence of intraspecific, habitat-related, genetic          in all populations. Adaptive phenotypic plasticity would
+variation in herbaceous species [10]. Clausen et al. [11]      lead to adaptive phenotypic differentiation, but without
+extended study of the expression of population adap-           underlying genetic differentiation [17].
+tation to environmental differences, by using climati-            In summary, factors predicted to promote local adap-
+cally different sites over a range of altitudes. Subsequent    tation include: low gene flow (i.e. restricted pollen/seed
+research has shown that such genetically related adap-         dispersal or strong habitat fidelity), strong selection
+tive variation is widespread in herbaceous species with        against genotypes optimally adapted to other habitats but
+low levels of gene flow under strong selection pressures       moderate selection against intermediate genotypes (most
+(summary in [12]).                                             likely under moderate differences between habitats with
+   Discussion about suitable seed sources often empha-         respect to traits under selection), little temporal variation
+sises “local” in a very narrow sense or is based on politi-    in the forces of selection, small differences between habi-
+cal boundaries, rather than hard evidence for the scale of     tats in quality (e.g. the amount of resources), and costs of
+adaptation [13]. Across Europe countries are divided into      or constraints on adaptive plasticity [17].
+provenance regions and/or seed zones, though the scale            Most evidence of local adaptation comes from herba-
+and number varies from country to country, rather than         ceous plants with low levels of gene flow under strong
+directly with variation in climatic factors. The delinea-      selection pressures (e.g. heavy metal soil tolerance; [12]),
+tion of Britain into four provenance regions and smaller       factors which seem less likely to be present in the con-
+seed zones took a pragmatic approach based on accu-            text of many tree species. There are many key differences
+mulated summer heat, mean annual rainfall, ecological          between herbaceous plants and trees, where long life
+and physical boundaries [14]. The adjustment, within the       cycles, wide distributions and extensive gene flow (pollen
+same region, of seed zone size to account for species dif-     and seed dispersal) tend to suggest more extensive scales
+ferences in scales of adaptation and relationships to cli-     and patterns of adaptation, and that local adaptation over
+matic factors, such as in the north-west USA [15] is rare.     a small geographic scale is unlikely unless selection forces
+In Australia no such boundaries exist, but application of      are very strong e.g. very high environmental variation in
+the precautionary principle regarding seed movement            frost resistance in Eucalyptus urnigera over a 450 m alti-
+prevails and quarantine regulations limit the unrestricted     tudinal transect on Mount Wellington, Tasmania [18, 19].
+movement of germplasm between some states.                     The prevalence of extensive gene flow may counteract
+
+Boshier et al. Environ Evid (2015) 4:20                                                                          Page 3 of 10
+selection, while temporal variation in selective forces that  processes within the environment at each site, including
+trees experience (e.g. yearly variation in temperature,       competition with the native flora. They allow examina-
+rainfall, frosts) may have a stabilising effect rather than   tion of how well the scale of adaptation relates to exist-
+directional selection that would lead to highly localised     ing provenance zones and guidelines for sourcing and
+adaptation. Given the long life of trees, the environment     certifying reproductive material and whether the scale
+is also likely to have altered such that a particular site no of adaptation under natural regeneration conditions is
+longer experiences the same conditions under which the        similar to that shown in plantation provenance trials.
+trees originally evolved. Such temporal variation in envi-    Although most RTEs of herbaceous plants have identi-
+ronment may be particularly important for trees, not          fied localised adaptation at the finest scale examined (e.g.
+only with respect to past adaptation but also in the con-     [28–31]), there appear to be few truly reciprocal trans-
+text of climate change requiring more adaptive sourcing       plant experiments undertaken on trees (e.g. [32, 33]).
+strategies [20].                                                 The question arises as to what empirical scientific evi-
+   As early as 1759 Linnaeus observed that yew trees          dence exists in trees for deciding whether the local seed
+from France grown in Scandinavia were less winter             source performs best, or how local a seed source should
+hardy than indigenous Swedish yews, while du Monceau          be? In other words, what is the geographic scale at which
+planted different pine sources at common sites from           local adaptation occurs in trees? Should seed come from
+1745 to 1755, motivated by a need for material for ship-      the same wood, forest, remnant, the same watershed,
+building rather than scientific insights into intraspecific   the same county or country? Is geographical or ecologi-
+variation of pines. Such utilitarian motives led to the       cal distance more important? (e.g. [34]). There appears
+establishment of formal common garden forestry experi-        to be a rich literature, primarily genecological studies,
+ments (provenance trials) in Europe from the 1890s.           that report variation in traits expected to be of adaptive
+Such provenance and also progeny trials can provide           importance in trees and factors that influence this vari-
+information about levels and patterns of quantitative         ation. The assumption is that the adaptive traits meas-
+genetic variation and the extent of genotype-environ-         ured reflect, or are correlated with, fitness, although
+ment interaction for tree species. In temperate trees         they may not directly study adaptation (represented by
+most morphological genetic variation occurs within            long-term growth, survival, or fecundity), nor whether
+rather than between provenances, but there is evidence        the local population performs best. Indeed, considering
+for adaptive variation in a number of tree species in         some adaptive traits maybe problematic, such as consid-
+North-West America, owing to features such as aspect          ering what date of budburst is best compared to that of
+and altitude (e.g. [21–23]). The degree of risk in trans-     other populations? The response function maybe linear,
+planting across a species’ distribution is correlated more    rather than curvilinear such as in growth or survival.
+with environmental changes than with the geographi-           One review suggests that there may be few direct empiri-
+cal distance moved [21]. Geographical proximity may           cal studies of local adaptation in tree species (e.g. [35]),
+be a poor indicator of adaptive fitness (e.g. Betula spp.     although this appears to have avoided the ‘grey’ literature
+[24]) and also stability, with some provenances which         which is potentially rich in the reporting of provenance
+show stable performance across sites located adjacent to      trials of native tree species.
+unstable performers (e.g. [25]). Provenance and progeny
+field trials in many parts of the world have shown that       Objective of the review
+while genotype by environment interaction occurs in           The primary aim of this systematic review is to review the
+many tree species, this may not be expressed as a home        evidence for local adaptation and its scale in native tree
+site advantage: i.e. provenance performance is unstable       species in different parts of the world (e.g. tropical, Medi-
+across sites, but not from better performance of local        terranean, temperate, boreal). Thus we want to address
+seed source [26].                                             the following primary and secondary questions.
+   Reciprocal transplant experiments (RTEs), which test
+the performance of home and away genotypes within the         Primary review question
+sites from which the genotypes originate [27] are better      Is local best—do local trees perform better than other
+suited to test directly for local adaptation to environmen-   trees?
+tal heterogeneity in trees. The experiments can mimic
+natural regeneration by establishing in a wood, at close      Secondary question
+spacings to encourage early competition, and with mini-       Does local adaptation in trees vary with species’
+mal intervention (e.g. little or no weeding). In subjecting   characteristics?
+the plants to more natural conditions than in most prov-         We take a broad view of “species characteristics” cover-
+enance trials, it is possible to study responses to natural   ing all aspects that are detailed as effect modifiers.
+
+Boshier et al. Environ Evid (2015) 4:20                                                                                      Page 4 of 10
+Methods                                                      Table 1 Databases and websites
+This systematic review will undertake an extensive lit-      Bibliographic databases                        Grey literature
+erature search to assess the evidence for the existence
+and scale of local adaptation in tree species in different   Web of Sciencea                                Institutions
+regions of the world (tropical, Mediterranean, temper-       CAB Abstracts (with particular focus           Bioversity-EUFORGEN network
+                                                               on the Forestry & Forest Products
+ate, boreal). Data will be extracted for meta-analysis of      Abstracts subset)a
+at least a sub-set of the review questions. Findings are     Scopusa                                        FAO
+expected to help inform current and future policy on         Agricola                                       USDA Forest Service
+seed sourcing for tree planting and forest restoration in    Agris                                          ICRAF
+a variety of contexts. In particular it should provide an    JSTOR                                          CIFOR
+evidence-base for examining practice in developing seed      Web searches                                   CATIE
+zones, the extent to which the scale of adaptation relates     Google                                       IUFRO
+to existing provenance/seed zones and guidelines for           Google Scholar
+sourcing and certifying reproductive material.               a
+                                                               Relate to sources which will be searched using strategy
+Search strategy
+Although the scope of this systematic review is relatively   non-peer reviewed technical reports, there will also be
+narrow, the precise nature and type of experimental data     a heavy emphasis on the use of grey literature. Criteria
+that address the question mean that it can be difficult to   for selection will be based on documented quality of data
+identify relevant studies solely from titles and abstracts.  collection, rather than source of the data and will include
+“Adaptation” for example is a broad concept which would      consideration of suitable replications, accuracy and reli-
+produce many papers that discuss traits of potentially       ability of data analysis.
+adaptive importance, but do not present evidence for or
+against the presence of local adaptation. Similarly, “prov-  PICOs: components of the primary question
+enance trial” is too broad, as it will produce a large num-  Population undomesticated indigenous forest trees
+ber of papers that report results for species that are not   (results of trials are a function of natural selection and
+native to the trial site (i.e. exotic species) and therefore not human selection).
+say nothing about local adaptation. Such papers may also        Intervention selecting/using local trees.
+show evidence of genotype environment interaction, but          Comparator selecting/using non-local (distant) seed
+the lack of any seed source that can be considered ‘local’   sources (measured by either geographic/euclidean or
+means that there is no evidence on local adaptation.         environmental distance).
+These issues are expressed in the exclusion criteria below.     Outcomes measures of performance (survival, growth,
+   A subgroup of protocol authors tested different search    productivity).
+strategies, using combinations of key words and phrases         Relationships between PICOs are shown in Fig. 1
+compiled in a two-day scoping meeting. These strategies      which presents a ‘theory of change’ showing how inter-
+were tested against a reference list of papers (see “Appen-  ventions are thought to have an impact or cause a change
+dix”) to refine the search and achieve a balance between     in the population’s performance, depending on whether
+extracting an unmanageable set of papers which ‘might’       or not local adaptation exists. Thus where local adapta-
+contain a table of useful data and a narrow set with         tion exists use of non-local material in habitat restoration
+known useful data, but which might reflect the authors’      will lead to sub-optimal results. Changes in climate are
+bias and not represent the overall evidence base. Key-       viewed as an effect modifier in a similar context to move-
+words and phrases for searches in the main bibliographic     ment of a population, as it may place a population in a
+databases (indicated by an asterisk in Table 1) were         new environment and hence reduce the previous impor-
+derived from the PICOs listed below, with the terms and      tance of local adaptation. The effect is however not meas-
+search logic shown below.                                    urable owing to the uncertainty of future climates.
+   It is vital to consider studies published in languages
+other than English and so the search strategy will be        Definitions
+applied (and documented carefully for peer review) to        Local although central to the question, a definition of
+the following languages: English, French, Spanish, Por-      ‘local’ is problematic. One of the expected outcomes of
+tuguese and German, subject to time and resources but        the review is to be able give a more reasoned definition
+excluding Russian, Chinese, Japanese, except where they      of what constitutes a local seed source and this will be an
+have good English summaries or tables/figures with Eng-      iterative process. Initially we will test use of the following
+lish captions. Given the reporting of many field trials in   definition or criteria to decide if ‘local’ material has been
+
+Boshier et al. Environ Evid (2015) 4:20                                                                                          Page 5 of 10
+  Fig. 1 Theory of change showing how interventions may impact on or change a population’s performance, depending on whether or not local
+  adaptation exists
+included in a trial: (1) if the authors give a definition or               (provenance).
+state that a particular seed lot was included as local mate-               OR
+rial or as a control, (2) if a trial contains a seed lot from              (native or endemic or local or reciprocal or natural or
+the same seed zone/provenance zone as the trial site                     transplant or translocation).
+location (applicable where a country has defined seed/                     AND.
+provenance zones), (3) if a trial contains a seed lot from                 C: (plasticity or Adaptation or Ecotypes or “genetic
+a site with similar soil/climatic conditions to the trial                diversity” or “genetic parameters” or “genetic variability” or
+site and within a distance over which there is evidence of               “genetic variation” or “genotype environment interaction”
+extensive pollen flow for the species.                                   or genotypes or “genotypic variability” or “genotypic vari-
+                                                                         ation” or “geographic distribution” or “geographical distri-
+Other                                                                    bution” or “geographical origin” or “geographic origin” or
+In addition to systematic searching (as above), refer-                   “geographical races” or “geographic races” or “geographical
+ences in relevant books will also be searched as time and                variation” or “phenotypic variability” or “seed sources” or
+resources permit with supplementary searches such of                     “genetic differentiation” or “geographic variation”).
+bibliographies and literature provided directly by stake-                  OR
+holders/review authors. Unpublished data from trials the                   (Adaptation or Ecotypes or “genetic diversity” or
+review authors know exist that fulfil all the criteria, but              “genetic parameters” or “genetic variability” or “genetic
+not currently publically available will also be accessed.                variation” or “genotype environment interaction” or
+                                                                         genotypes or “genotypic variability” or “genotypic vari-
+Search terms and Boolean logic                                           ation” or “geographic distribution” or “geographical dis-
+Following scoping trials, searches in CAB Abstracts,                     tribution” or “geographical origin” or “geographic origin”
+Web of Science and Scopus will be based on the logic A                   or “geographical races” or “geographic races” or “geo-
+AND B AND C AND D, where A,B,C,D are the sets of                         graphical variation” or “phenotypic variability” or “seed
+terms listed below. nb CABICODE will only be used in                     sources”).
+CAB Abstracts. In Scopus and Web of Science this will                      AND
+be omitted.                                                                D: (variety trial*” or “field experiment*” or “field test*”
+  A: (tree or shrub or forest or woodland or woods) or                   or “provenance trial*” or “provenance test*”).
+KK*.cc. [CABICODE for ‘forests and forestry]).                             Tested on 4/3/2015–yielded 4497 records.
+  AND
+  B: (local or reciprocal or natural or native or reciprocal             Article screening and study inclusion criteria
+or transplant or translocation).                                         The review will involve the identification of field trials
+  OR                                                                     that fulfil the criteria to yield suitable data. This review
+
+Boshier et al. Environ Evid (2015) 4:20                                                                               Page 6 of 10
+will use existing data from established provenance tri-          distances between the Intervention and Comparators
+als to examine the evidence for local adaptation and             (strength of effect modifiers) and the scale of responses.
+its scale in a number of native tree species in different           Species distribution (latitude, longitude range, then
+parts of the world (e.g. tropical, Mediterranean, tem-           classified as widespread, narrow, continuous, disjunct,
+perate, boreal). These trials have been measured and in          soil types).
+some cases results published in a range of formats. The             Scale of sampling of the species distribution.
+data have, however usually been presented in the form               Sampling protocol for germplasm collection (genetic
+of which provenances grow best at which sites. Studies           diversity well or poorly represented).
+will be included if they are of tree species within their           Trial site(s) geographical location (latitude, longitude,
+indigenous range and include information on the inter-           continentality).
+ventions and outcomes set out in the PICO list above.               Trial site(s) altitude.
+Consequently, a complete list of interventions and out-             Trial site(s) climate (rainfall, length of dry season).
+comes will be documented iteratively as these emerge. A             Trial site soil type.
+subgroup of authors will select papers retrieved from the           Nursery conditions.
+searches, following removal of duplicates. The first stage          Trial management.
+of inclusion/exclusion will entail screening for relevance          Range of trial sites.
+of articles by title followed by screening using titles and         Family/genus.
+abstracts together; finally the assessment will be based            Species dispersal syndrome (pollen and seed).
+on reading the full text. At each stage, studies will remain        Species ecological guild (e.g. pioneer, climax).
+in the set to be included if they MAY contain relevant              Biome (e.g. boreal, temperate, tropical).
+information about the interventions or outcomes. This
+will help reduce the possibility of being overly-restrictive     Study quality assessment
+about relevant outcomes at the outset. Assessments of            Studies included in the review after full text screening will
+randomly selected sets of 100 articles will be conducted         be critically appraised for study design, the robustness of
+to test consistency between researchers’ screening judg-         their study design and the extent to which authors have
+ment at each stage of the inclusion/exclusion process.           attempted to limit bias. Variables outlined in Table 2 will
+Cohen’s Kappa metrics will be used to indicate a meas-           be used to construct a list from which the quality of indi-
+ure of consistency, with a consistency co-efficient of ≥0.6      vidual studies can be assessed. Studies will be categorised
+usually accepted as adequate [36]. Results of screening          as having high or low susceptibility to bias on the basis of
+will be documented (including reasons for exclusion)             presence/absence of replication, measures of variance and
+and available as supplementary material to the systematic        potential effect modifiers. Studies with high susceptibility
+review paper.                                                    to bias will not necessarily be excluded from the narrative
+                                                                 review, but will be subjected to sensitivity analysis follow-
+Exclusion criteria                                               ing Brooks et al. [37]. We are aware of the proposal by
+Papers will be excluded if the reported study/field trial is:    Bilotta et al. [38] that environmental systematic reviews
+                                                                 should adapt the Environmental-Risk of Bias Tool and
+   ••  of an herbaceous species, bamboo i.e. not a tree          we will check the feasibility of this approach for our set
+       (palm ‘trees’/shrubs >3 m will be included).              of studies. Studies that are scored as 0 or poor for ‘sam-
+   ••  of an exotic species. i.e. the species is not indigenous  pling of germplasm’ and ‘precision of measuring effects’
+       to the region where the trial is established.             (Table 2) will be excluded. Studies scored as poor for ‘rep-
+   ••  of an indigenous species but the germplasm sources        lication’ will be excluded if they are the only study of that
+       are of domesticated, selected, or cultivar(s), varieties. species, but could be included in meta-analysis where
+   ••  of an indigenous species, but there is no valid local     there are a number of studies of the same species.
+       seed source in the trial.                                    Although our review will include a number of older
+   ••  of an indigenous species and there is a valid local       studies, use of robust randomised complete block
+       seed source in the trial, but there is no other source    designs has been commonplace for a long time in for-
+       with which to compare.                                    estry research, such that provenance trials have gener-
+   ••  no data on performance traits.                            ally had good experimental design and replication. Bias
+                                                                 is most likely in the process of seed collection through
+Effect modifiers                                                 sampling a small number of trees within a population
+The following will be recorded, where available as poten-        and in sampling a restricted part of a species natural
+tial effect modifiers and sources of heterogeneity. These        range. Differential treatment of provenances within
+will in turn allow assessment of the relative scale of           trial (e.g. management that lead to distortions, fertiliser,
+
+Table 2 Criteria for critical appraisal and data extraction from studies selected after full text screening
+Main sections                           Criteria for critical appraisal          Assessment                                                 Data extracted
+                                                                                                                                                                                                Boshier et al. Environ Evid (2015) 4:20
+Description of the study site(s)        Are the location of trial sites known?   If not then individual provenances or trial sites within   Latitude and longitude of trial sites and germ-
+                                                                                    studies excluded. Ultimately study excluded               plasm sampling sites
+Population                              Are the location of the germplasm        If not then individual provenances or trial sites          Latitude and longitude of trial sites and germ-
+                                          sampling sites known?                     dropped. Ultimately study excluded                        plasm sampling sites
+Methods (clear and repeatable           Sampling of germplasm                    0 = no info                                                Number of trees collected from in provenance
+ methodology)                                                                    Poor <10 trees (individual provenances dropped)             seed sample
+                                                                                 Good >10
+                                        Precision of measuring effects           0 = no info                                                Plot size (no of trees)/shape, number of plots,
+                                                                                 Poor <10 trees (individual provenances or trial sites        treatments, blocks, replications and test sites
+                                                                                   dropped. Ultimately study excluded)                        (see also below)—number of trees that con-
+                                                                                 Good >10                                                     tributed to the mean
+                                        Replication                              0 = no info
+                                                                                 Poor <3 provenances and replications
+                                                                                 Good ≥3 provenances and replications
+                                        Outcome measured at relevant moment      0 = no information                                         Phenology data ≥2 years after planting
+                                                                                 Poor–younger age than data extraction criteria             Survival data ≥2 years after planting
+                                                                                 Good ≥age for data extraction criteria                     Growth data 15–25 % rotation age
+Results                                 Validity or reliability of data                                                                     Data for mean, SD/SE and or ANOVAR indicating
+                                                                                                                                             significance of differences
+                                        Variables measured allow relevance                                                                  Survival, growth (height, dbh, volume), disease/
+                                          to performance to be deduced                                                                        pest impact, frost damage, phenology of bud
+                                                                                                                                              burst/set, flower/seed production
+                                        Evidence of bias to estimates of means   Individual site or whole study excluded                    Differential treatment of provenances within
+                                                                                                                                             trial (e.g. management that lead to distortions,
+                                                                                                                                             fertiliser, thinning)
+                                                                                                                                                                                                Page 7 of 10
+
+Boshier et al. Environ Evid (2015) 4:20                                                                                                Page 8 of 10
+thinning), while less likely would result in bias that          bias, we will compare studies in the ‘grey’ literature with
+would lead to a trial be excluded from the review (see          studies in peer reviewed journals to assess whether there
+Table 2).                                                       is evidence of publication bias [39]. If data allow, we will
+                                                                assess bias using sensitivity analyses [40].
+Data synthesis and presentation
+                                                                Authors’ contributions
+A narrative synthesis of data from all studies included in      All authors discussed the review title in a 2-day workshop, agreed the scope
+the review will describe the quality of the results along       and extent of the review, and contributed to the draft. The full systematic
+with the study findings. Tables will be produced to sum-        review will be under the leadership of David Boshier. All authors read and
+                                                                approved the final manuscript.
+marise these results. The review will reanalyse existing
+data in the context of the scale of local adaptation, the       Author details
+                                                                1
+results being presented as:                                       Department of Plant Sciences, University of Oxford, South Parks Road,
+                                                                Oxford OX1 3RB, UK. 2 CSIRO National Research Collections Australia (NRCA),
+                                                                Centre for Australian National Biodiversity Research (CANBR), GPO Box 1600,
+  1. plotting survival, performance (e.g. height, diameter,     Canberra, ACT 2601, Australia. 3 World Agroforestry Centre (ICRAF), CIP, Apar-
+      productivity—volume/ha, basal area/ha) of prov-           tado 1558, Lima 12, Peru. 4 INTA, Bariloche, Argentina. 5 FAO, Viale delle Terme
+                                                                di Caracalla, 00153 Rome, Italy. 6 Bioversity International, Via dei Tre Denari,
+      enances against the transfer distance (Euclidean/         472/a, 00057 Maccarese, Rome, Italy. 7 Department of Zoology, University
+      environmental gradients) between the provenance           of Oxford, South Parks Road, Oxford OX1 3RB, UK. 8 US Forest Service, Pacific
+      and trial site (site minus source), for all combinations  Northwest Research Station, 3200 SW Jefferson Way, Corvallis, OR 97331, USA.
+      of sources planted at test sites. A transfer function     Acknowledgements
+      approach gives an idea of the scale of adaptation as      We acknowledge the financial support of the Center for International Forestry
+      measured by the width of the function, as well as an      Research (CIFOR) from their Evidence-Based Forestry programme that is
+                                                                funded primarily by the UK Department for International Development
+      effect size (e.g. 20 % decrease in height if a population (DFID) through their KNOW-FOR grant to CIFOR. We are grateful for valuable
+      moved 2 °C averaged over all test sites/provenance        comments and advice received from a number of stakeholders at the initial
+      transfers).                                               workshop, the editor and three anonymous reviewers.
+                                                                For the CAB Abstracts database, searching is limited to Title, Abstract and
+  2. pairwise comparisons—we will examine options:              keyword fields using the field limiters shown in the Search terms section. Web
+      (1) pairwise comparisons of each non-local prov-          of Science and Scopus have a default search mode that interrogates only
+      enance to the local provenance, giving proportions        those fields, which will be used. This eliminates papers that contain any of our
+                                                                keywords in, for example, journal titles, institution addresses, etc. KK100 and
+      of transfers where local are better/worse than dis-       FF020 are two of a suite of CABICODES, which are applied as additional index-
+      tant sources; (2) measuring the effect size as distant    ing categories by abstractors compiling CAB Abstracts. They relate respec-
+      minus local (standardized by local site mean).            tively to: Forests and Forest Trees (Biology and Ecology), and Plant Breeding
+                                                                and Genetics. For a full list see http://www.cabi.org/Uploads/CABI/publishing/
+                                                                training-materials/additional-resources/cabi-code-guide.pdf.
+  Where studies report for species in the same; (1) cli-
+matic region (e.g. boreal, temperate, tropical), (2) genus
+                                                                Competing interests
+(e.g. Cedrela, Picea, Pinus), (3) trial with assessments at     The authors declare that they have no competing interests.
+different age, (4) dispersal syndrome (pollen and/or seed)
+meta-analysis may be possible. Specific details of the          Appendix
+quantitative analysis will emerge once full-text screening      Reference list of papers for testing adequacy of search
+has yielded a set of studies that can be assessed for con-      strategy on local adaptation in forest trees
+tent and quality. If meta-analysis is possible, it will take    1. Alía R, Moro J, Denis JB. Performance of Pinus pin-
+the form of random-effects models, and meta-regression          aster provenances in Spain: interpretation of the gen-
+where effect modifiers cause significant heterogeneity          otype by environment interaction. Can J For Res.
+between studies in the context of (1) and (2) above.            1997;27:1548–1559.
+                                                                   2. Boyle TJB Range-wide provenance tests of black
+Publication bias                                                spruce in Ontario. Can For Serv Petawawa Natl For Inst
+There is evidence that in many research areas papers are        Inf Rep. PI-X-57; 1985.
+more likely to be published if they demonstrate clear,             3. Conkle MT. Growth data for 29 years from the Cali-
+positive results (or strong negative effects), and that         fornia elevational transect study of ponderosa pine. For
+papers that show little or no effect are less likely to be      Sci. 1973;19:31–39
+published. The use of published provenance trial results           4. Cundall EP, Cahalan CM, Connolly T. Early results
+where the original objective of reporting was to identify       of ash (Fraxinus excelsior L.) provenance trials at sites in
+the ‘best’ provenance in terms of growth, form and other        England and Wales. Forestry. 2003;76:385–400.
+variables, rather than identifying local adaptation makes          5. Eiche V. Cold damage and plant mortality in experi-
+the review less susceptible to bias than might normally         mental provenance plantations with Scots pine in north-
+be the case. To assess the possibility of such publication      ern Sweden. Stud For Suec 1966, 36:1–218.
+
+Boshier et al. Environ Evid (2015) 4:20                                                                                            Page 9 of 10
+   6. Eiche V, Andersson E. Survival and growth in Scots        20. Shutyaev AM, Giertych M: Height growth variation
+pine (Pinus sylvestris L.) provenance experiments in         in a comprehensive Eurasian provenance experiment of
+northern Sweden. Theor. Appl. Genet. 1974; 44:49–57.         Pinus sylvestris L. Silvae Genetica. 1997;46:332–349.
+   7. Giertych M. Summary of results of the IUFRO               21. Sork VL, Sork KA, Hochwender C: Evidence for
+1938 Norway spruce (Picea abies (L.) Karst.) prov-           local adaptation in closely adjacent sub-populations of
+enance experiments. Height growth. Silvae Genetica.          northern red oak (Quercus rubra L.) expressed as resist-
+1976;25:154–164.                                             ance to leaf herbivores. Am Nat. 1993;142:928–936.
+   8. Giertych M: Report on the IUFRO 1938 and 1939             22. Ying CC, Xie CY. Geographic variation of grand
+provenance experiments on Norway spruce / Picea abies        fir (Abies grandis) in the Pacific coast region: 10-year
+/ L./ Karst./. Polish Academy of Sciences, Kórnik, Poland.   results from a provenance trial. Can J For Res 1993;
+1984.                                                        23:1065–1072.
+   9. Giertych M. Summary of results on Scots pine (Pinus       23. Worrell R, Cundall EP, Malcolm DC, Ennos RA.
+sylvestris L.) height growth in IUFRO provenance experi-     Variation among seed sources of silver birch in Scotland.
+ments. Silvae Genetica. 1979; 28:136–152.                    Forestry. 2000;73:419–435.
+   10. Hamann A, Koshy MP, Namkoong G, Ying CC.
+Genotype × environment interactions in Alnus rubra:
+                                                             Received: 15 May 2015 Accepted: 25 September 2015
+developing seed zones and seed-transfer guidelines
+with spatial statistics and GIS. Forest Ecol Manag
+2000;136:107–119.
+   11. Hansen CP, Dien PQ, Tung HV: Assessment and
+analysis of two Pinus kesiya provenance trials in Vietnam:   References
+                                                             1. Manning A, Fischer J, Lindenmayer D. Scattered trees are keystone struc-
+Trial No. 1, Ba Vi, Trial No. 2, Lang Hanh. Danida Forest        tures—implications for conservation. Biol Conserv. 2006;132:311–21.
+Seed Centre, 64 p. (Results and Documentation No. 17)        2. Bozzano M, Jalonen R, Thomas E, Boshier D, Gallo L, Cavers S, Bordács S, Smith
+2003.                                                            P, Loo J, Eds: Genetic considerations in ecosystem restoration using native
+                                                                 tree species. A thematic study for the State of the World’s Forest Genetic
+   12. Krakowski J, Stoehr MU. Coastal Douglas-fir prov-         Resources. Rome: United Nations Food and Agriculture Organization; 2014.
+enance variation: patterns and predictions for British       3. Pan European Forest Certification Council: PEFC Technical document.
+Columbia seed transfer. Ann For Sci. 2009;66:811.                Geneva; 2000.
+                                                             4. UKWAS. Certification standard for UK Woodland Assurance Scheme.
+   13. Krutzsch P: The IUFRO 1964/68 provenance test             Edinburgh: UKWAS Steering Group, Forestry Commission; 2007.
+with Norway spruce (Picea abies (L.) Karst.). Silvae         5. Scottish Executive/Forestry Commission: Scottish Forestry Grants Scheme:
+Genetica 1974; 23:58–62.                                         Applicants Booklet. Edinburgh; 2003.
+                                                             6. Flora Locale Website (http://www.floralocale.org).
+   14. O’Brien E: Local adaptation and genetic variation in  7. Hamilton Sackville. NR: Is local provenance important in habitat creation?
+south-western Australian forest trees: implications for res-     A reply. J Appl Ecol. 2001;38:1374–6.
+toration. University of Western Australia, PhD thesis; 2007. 8. Wilkinson DM. Is local provenance important in habitat creation? J Appl
+                                                                 Ecol. 2001;38:1371–3.
+   15. Ouedraogo M, Ræbild A, Nikiema A, Kjær ED.            9. Hughes AR, Inouye BD, Johnson MTJ, Underwood N, Vellend M. Ecologi-
+Evidence for important genetic differentiation between           cal consequences of genetic diversity. Ecol Lett. 2008;11:609–23.
+provenances of Parkia biglobosa from the Sudano-Sahe-        10. Turesson G. The genotypical response of the plant species to the habitat.
+                                                                 Hereditas. 1922;3:211–350.
+lian zone of West Africa. Agrofor Syst. 2012; 85:489–503.    11. Clausen J, Keck DD, Hiesey WM. Experimental studies on the nature of
+   16. Ræbild A, Diallo BO, Graudal LOV, Dao M, Sanou            species. I. Effect of varied environments on western North American
+J: Evaluation of a provenance trial of Acacia nilotica and       plants. Washington: Carnegie Institute Publication No. 520; 1940.
+                                                             12. Briggs D, Walters SM. Plant variation and evolution. 3rd ed. Cambridge:
+A. tortilis at Gonsé, Burkina Faso: Trial No. 11 in the          Cambridge University Press; 1997.
+Arid Zone Series. Danida Forest Seed Centre, 2003. 40 p.     13. Broadhurst LM, Lowe A, Coates DJ, Cunningham SA, McDonald M, Vesk
+(Results and documentation no. 10); 2003.                        PA, Yates C. Seed supply for broadscale restoration: maximising evolution-
+                                                                 ary potential. Evol Appl. 2008;1:587–97.
+   17. Rice KJ, Richards JH, Matzner SL: Patterns and pro-   14. Hubert JD, Cundall EP: Choosing provenance in broadleaved trees. Edin-
+cess of adaptation in blue oak seedlings. Ogden: Intermoun-      burgh: Forestry Commission Information Note 82; 2006.
+tain Research Station, U.S. Dept. of Agriculture, Forest     15. Johnson GR, Sorensen FC, St Clair JB, Cronn RC. Pacific Northwest forest
+                                                                 tree seed zones: a template for native plants? Nat Plants J. 2004;5:131–40.
+Service; General Technical Report PSW-GTR-160; 1997.         16. Williams GC. Adaptation and natural selection. Princeton: Princeton
+   18. Russell JH, Krakowski J. Geographic variation             University Press; 1966.
+and adaptation to current and future climates of Cal-        17. Kawecki TJ, Ebert D. Conceptual issues in local adaptation. Ecol Lett.
+                                                                 2001;7:1225–41.
+litropsis nootkatensis populations. Can J For Res. 2012;     18. Barber HN, Jackson WD. Natural selection in action in Eucalyptus. Nature.
+42:2118–2129.                                                    1957;179:1267–9.
+   19. Schmidtling RC: Use of provenance tests to predict    19. Barber HN. Selection in natural populations. Heredity. 1965;20:551–72.
+                                                             20. Breed MF, Stead MG, Ottewell KM, Gardner MG, Lowe AJ. Which prov-
+response to climate change: loblolly pine and Norway             enance and where? Seed sourcing strategies for revegetation in a chang-
+spruce. Tree Physiol. 1994, 14 (7-8-9):805–817.                  ing environment. Conserv Genet. 2013;14:1–10.
+
+Boshier et al. Environ Evid (2015) 4:20                                                                                                          Page 10 of 10
+21. Adams T, Campbell RK: Genetic adaptation and seed source specificity.       30. Nagy ES, Rice KJ. Local adaptation in two subspecies of an annual plant:
+    In Proceedings of a Workshop on Reforestation of Skeletal Soils, 17–19          implications for migration and gene flow. Evolution. 1997;51:1079–89.
+    November 1981 Medford, OR, USA. Edited by Hobbs SD, Helgerson OT:           31. Waser NM, Price MV. Reciprocal transplant experiments with Delphinium
+    Forest Research Laboratory, Oregon State University; 1981:78–85.                nelsonii (Ranunculaceae): evidence for local adaptation. Am J Bot.
+22. Campbell RK, Sugano AI: Genetic variation and seed zones of Douglas-Fir         1985;72:1726–32.
+    in the Siskiyou National Forest. Portland: Pacific Northwest Research Sta-  32. Sork VL, Sork KA, Hochwender C. Evidence for local adaptation in
+    tion, U.S. Dept. of Agriculture, Forest Service; Research Paper PNW-RP-461.     closely adjacent sub-populations of northern red oak (Quercus rubra L.)
+    1993.                                                                           expressed as resistance to leaf herbivores. Am Natural. 1993;142:928–36.
+23. Sorensen FC. Genetic variation and seed transfer guidelines for Pon-        33. Rice KJ, Richards JH, Matzner SL. Patterns and process of adaptation in
+    derosa Pine in Central Oregon. Portland: Pacific Northwest Research Sta-        blue oak seedlings. Ogden: Intermountain Research Station, U.S. Dept. of
+    tion, U.S. Dept. of Agriculture, Forest Service; Research Paper PNW-RP-472;     Agriculture, Forest Service; General Technical Report PSW-GTR-160; 1997.
+    1994.                                                                       34. Montalvo AM, Ellstrand NC. Transplantation of the subshrub Lotus
+24. Blackburn P, Brown IR. Some effects of exposure and frost on selected           scoparius: testing the home-site advantage hypothesis. Conserv Biol.
+    birch progenies. Forestry. 1988;61:219–34.                                      2000;14:1034–45.
+25. Kleinschmit J, Svolba J, Enescu V, Franke A, Rau H-M, Ruetz W. Erste        35. Leimu R, Fischer M. A meta-analysis of local adaptation in plants. PLoS
+    ergebnisse des eschen-herkunftsversuches von 1982. Forstarchiv.                 One. 2008;3:1–8.
+    1996;67:114–22.                                                             36. Cohen J. A coefficient of agreement for nominal scales. Educ Psychol
+26. Broadhurst L, Boshier D: Seed provenance for restoration and manage-            Measur. 1960;20:37–46.
+    ment: conserving evolutionary potential and utility. In Bozzano M,          37. Brooks J, Waylen KA, Mulder MB. Assessing community-based conserva-
+    Jalonen R, Thomas E, Boshier D, Gallo L, Cavers S, Bordacs S, Smith P, Loo      tion projects: a systematic review and multilevel analysis of attitudinal,
+    J (editors) Genetic considerations in ecosystem restoration using native        behavioral, ecological, and economic outcomes. Environmental Evidence.
+    tree species. A thematic study for the State of the World’s Forest Genetic      2013;2:2.
+    Resources. Edited by. Rome: United Nations Food and Agriculture Organi-     38. Bilotta GS, Milner AM, Boyd IL. Quality assessment tools for evidence from
+    zation; 2014. p. 27–37.                                                         environmental science. Environ Evidence. 2014;3:14.
+27. Primack RB, Kang H. Measuring fitness and natural selection in wild plant   39. Leimu R, Koricheva J. What determines the citation frequency of ecologi-
+    populations. Annu Rev Ecol Syst. 1989;20:367–96.                                cal papers? Trends Ecol Evol. 2005;20:28.
+28. Antonovics J, Ellstrand NC, Brandon RN. Genetic variation and environ-      40. Copas JB. A likelihood-based sensitivity analysis for publication bias in
+    mental variation: expectations and experiments. In: Gottlieb LD, Jain SK,       meta-analysis. J Royal Stat Soc Series C Appl Stat. 2013;62:47–66.
+    editors. Plant evolutionary biology. London: Chapman and Hall; 1988. p.
+    275–303.
+29. Kindell CE, Winn AA, Miller TE. The effects of surrounding vegetation and
+    transplant age on the detection of local adaptation in the perennial grass
+    Aristida stricta. J Ecol. 1996;84:745–54.
+                                                                                      Submit your next manuscript to BioMed Central
+                                                                                      and take full advantage of:
+                                                                                     • Convenient online submission
+                                                                                     • Thorough peer review
+                                                                                     • No space constraints or color figure charges
+                                                                                     • Immediate publication on acceptance
+                                                                                     • Inclusion in PubMed, CAS, Scopus and Google Scholar
+                                                                                     • Research which is freely available for redistribution
+                                                                                      Submit your manuscript at
+                                                                                      www.biomedcentral.com/submit
+

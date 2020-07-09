@@ -1,0 +1,762 @@
+Hartmann et al. Environ Evid
+https://doi.org/10.1186/s13750-019-0177-z
+                                         (2019) 8:33
+                                                                                                                      Environmental Evidence
+  METHODOLOGY                                                                                                                                           Open Access
+Use of literature mining for early
+identification of emerging contaminants
+in freshwater resources
+Julia Hartmann1,2* , Susanne Wuijts1,3, Jan Peter van der Hoek2,4 and Ana Maria de Roda Husman1,5
+  Abstract
+  Chemical and microbial contaminants in the aquatic environment pose a potential threat to humans and to ecosys-
+  tems. Humans may be exposed to contaminants in water resources when used for drinking water production, agricul-
+  ture, aquaculture or recreation. Climatological, social and demographic changes, as well as the increasing sensitivity
+  of analytical techniques, may result in the augmented detection of contaminants. Recent research has shown that it
+  takes about 15 years from the time of the first scientific study mentioning the presence of a contaminant in the envi-
+  ronment for the issue to peak in scientific attention and regulatory action. One possible factor influencing this lengthy
+  period is that the first article becomes lost in the vast number of publications. In this study, we therefore developed a
+  methodology using literature mining to identify the first scientific study which reports the presence of a contaminant
+  in the aquatic environment. The developed semi-automated methodology enables health and environment agen-
+  cies to inform policy makers about contaminants in the aquatic environment that could be significant for public and
+  environmental health in national, international and river basin settings. The methodology thereby assists the proactive
+  governance of emerging contaminants in the aquatic environment. This was illustrated by a retrospective analysis of
+  the period of emergence in the Netherlands of: (1) perfluorooctanoic acid in surface water, and (2) biological indus-
+  trial wastewater treatment systems as potential infection sources for Legionnaires´ disease.
+  Keywords: Chemical, Microbial, emerging pathogen, Text mining, R-based, Early warning, Water, Health, Emergence
+Background                                                                                    which results in higher concentrations of contaminants
+Human activities result in the release of contaminants                                        in water bodies [2, 3]. The increasing sensitivity of ana-
+into the aquatic environment. Anthropogenic sources                                           lytical techniques also enables the augmented detection
+contaminating the aquatic environment include the                                             of contaminants in the aquatic environment [3, 4].
+effluents of municipal wastewater treatment plants                                               Anthropogenic contamination may contain both
+(WWTPs), industrial wastewater discharges, as well                                            chemical and microbial contaminants. For instance, the
+as runoff from agricultural land and urban areas [1].                                         effluent of municipal WWTPs, despite advanced treat-
+Moreover, demographic, social and climatological                                              ment steps, may contain pharmaceutical and personal
+changes aggravate the impact of human activities on the                                       care products [5], antibiotic resistant bacteria [6] and
+aquatic environment. Examples of these changes are the                                        antibiotic resistance genes [7]. Also, industrial wastewa-
+increased volumes and changed composition of waste-                                           ters, dependent on the type of industry, have been found
+water caused by urbanisation and the decreasing dilu-                                         to contain several chemical contaminants, such as dyes,
+tion capacities of receiving water bodies due to droughts                                     solvents and catalysts [8]. Microbial contaminants have
+                                                                                              also been detected in industrial wastewater, for instance
+                                                                                              viruses that have been accidently released during vac-
+*Correspondence: Julia.hartmann@rivm.nl                                                       cine production [9]. Chemical and microbial contami-
+1
+  National Institute for Public Health and the Environment (RIVM), PO                         nants released into the aquatic environment can not only
+Box 1, 3720 BA Bilthoven, The Netherlands
+Full list of author information is available at the end of the article                        pose a threat to human health when water resources are
+                                              © The Author(s) 2019. This article is distributed under the terms of the Creative Commons Attribution 4.0 International License
+                                              (http://creat​iveco​mmons​.org/licen​ses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium,
+                                              provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license,
+                                              and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/
+                                              publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+
+Hartmann et al. Environ Evid  (2019) 8:33                                                                         Page 2 of 15
+used for drinking water production or recreation, but can     concern about microbial contaminants is also important
+also impact aquatic organisms. In this study, we refer to     if timely mitigation actions are to be ensured.
+emerging contaminants for which the threat posed to              Currently, we believe that the first scientific article
+human health or the aquatic environment is still unclear.     about the presence of a contaminant in the aquatic envi-
+   In a recent study, we showed that the current risk gov-    ronment is not picked up by regulators due to the large
+ernance of contaminants in the aquatic environment can        number of publications. It is not until more articles are
+be improved by the more timely identification of contam-      published about the specific contaminant that the signal
+inants which are of potential concern [10]. In that study,    about the presence of the contaminant in the environ-
+we analysed the current policy on the risk governance         ment is picked up by regulators, as is shown by Halden
+of emerging contaminants in the aquatic environment           [11]. We hypothesise that the period of emergence of
+in the Netherlands, Germany, Switzerland and the state        concern about contaminants can be reduced by the sys-
+of Minnesota and found that timely identification ena-        tematic search of the universal scientific literature for
+bled, among other things, appropriate risk management         articles reporting the first detection of a contaminant in
+strategies. Furthermore, Halden [11] investigated, in ret-    the aquatic environment. As many articles about con-
+rospect, the association between the number of scien-         taminants in the aquatic environment are published
+tific publications about certain chemical environmental       every day, the manual analysis of the scientific literature
+contaminants, such as dichlorodiphenyltrichloroethane         would be too complex, subjective and time consuming.
+(DDT) and 1,4-dioxane, and the regulatory actions sub-           Text mining can be used to automate some parts of
+sequently taken. He found that it generally took about        systematic literature reviews. The term refers to the auto-
+15 years from the first scientific publication about a con-   mated extraction of (parts of ) articles that are relevant
+taminant to a peak in number of scientific publications.      to the researcher, or to the data mining of articles, which
+The peak in scientific attention was found, in many cases,    enables associations to be found between parts of texts
+to be associated with regulatory or mitigation actions.       [16, 17]. Text mining has been shown useful in biomedi-
+The period from the first scientific publication being        cal research for several applications, such as in the iden-
+released to the time at which it reaches the peak of scien-   tification of eligible studies and the allocation of a list of
+tific attention is referred to as the ‘period of emergence of genes to inform on their role in diseases [18]. Here, eligi-
+concern’ by Halden [11]. Shortening the period of emer-       ble studies refer to articles reporting on original research
+gence of concern may accelerate the introduction of reg-      that is considered relevant to the scope of the systematic
+ulatory actions to control chemical contaminants in the       literature review. Others in the field of evidence-based
+environment and thus limit environmental effects.             software engineering for systematic literature reviews
+   Although Halden [11] looked specifically at the            have used the term “primary studies” for this purpose
+emergence of concern about chemical contaminants,             [19]. Furthermore, Van de Brug et al. [20] have used text
+similar trends can be found for emerging microbial con-       mining to devise an early warning mechanism to detect
+taminants. Specific pathogens have (in retrospect) been       potential food related risks. Sjerps et al. [21] have also
+shown to be present in the environment and linked to          used text mining to identify signals of potential emerg-
+human sources long before the disease that they cause         ing chemical risks to drinking water quality by combining
+had gained attention [12]. For the Aichi Virus this has       search terms connected to chemical contaminants and
+been illustrated by Lodder et al. [13]. The Aicihi virus was  the aquatic environment. However, this approach did not
+reported in humans for the first time in 1989. However,       include microbial contaminants and was not specifically
+Lodder et al. [13] analysed environmental water samples       aimed at generating first reports on the presence of con-
+from the Netherlands from 1987 and found that the Aichi       taminants in the aquatic environment.
+virus had been circulating in the Dutch population well          Over the past years, several software tools have been
+before its initial detection in humans. The fact that the     developed which integrate text mining in the systematic
+Aichi virus was identified in water samples showed that       literature review process [22]. In this study, we assessed
+the virus was already present in humans in 1987; other-       the applicability of two such tools, namely the StArt
+wise it could not have been detected in the aquatic envi-     Tool and Adjutant. The StArt Tool automates the eligi-
+ronment. Furthermore, the properties that cause concern       ble study selection process by scoring articles based on
+among scientists and regulators about contaminants in         the number of occurrences of the search terms in the
+the aquatic environment, especially when used for the         title, abstract and keywords (open source and available
+production of drinking water, are similar for chemical        at http://lapes​.dc.ufsca​r.br/tools​/start​_tool, automates)
+and microbial contaminants. These properties include          [22]. The rationale of the StArt tool is that the high-
+pathogenicity or toxicity, persistence and mobility [14,      est scoring articles are most relevant to the performed
+15]. Therefore, decreasing the period of the emergence of     search and should thus be selected as eligible studies.
+
+Hartmann et al. Environ Evid  (2019) 8:33                                                                           Page 3 of 15
+­PubMed® database and perform unsupervised cluster-
+ Adjutant, another software tool, can be used to query the     of the identified contaminants in a national, international
+                                                               or river basin setting.
+ ing on the retrieved collection of articles [23]. Adjutant is    In this study, the first signal of the detection of a chemi-
+ available from https​://githu​b.com/amcri​san/Adjut​ant. In   cal or microbial contaminant in the aquatic environment
+this study, we assessed the applicability of two software      refers to a scientific article. In order to find this article,
+tools, namely the StArt Tool and Adjutant, to identify         we use text mining of scientific articles, from now on
+articles that report on the detection of a contaminant in      referred to as literature mining. Here, literature mining
+the aquatic environment for the first time.                    is the automated textual analysis of the combination of
+   The objective of this study is to introduce a methodol-     ‘title’ and ‘abstract’. This does not include the analysis of
+ ogy using literature mining to identify the first signal of   the data sets produced by the different articles [24]. The
+ the detection of a chemical or microbial contaminant in       developed methodology is therefore applicable to all sci-
+ the aquatic environment. To keep the search as concise as     entific literature, also when the full-text of the article can-
+ possible, we focus in this study on freshwater resources.     not be accessed. The methodology is written in R-studio,
+ First, the development of the methodology is explained        available at https​://www.r-proje​ct.org/ to make it freely
+ making use of the selected software tools (“Methodol-         accessible. All codes written in R referred to in the fol-
+ ogy development” section). Then, the application of the       lowing methodology are added as supplementary mate-
+ developed methodology to recent scientific literature is      rial in Additional file 1.
+ shown (“Results of applying methodology to recent lit-
+ erature” section). Finally, a retrospective validation of the The planning phase
+ proposed methodology is discussed using the period of         The review protocol was designed so that scientific arti-
+ emergence of concern in the Netherlands of (1) perfluo-       cles that report on the first identification of chemical
+ rooctanoic acid (PFOA) in surface water and (2) biologi-      or microbial contaminants in the aquatic environment
+                                                               ­Scopus®, the largest abstract and citation database of
+ cal industrial wastewater treatment systems as potential       could be found. The search was conducted in Elsevier’s
+ infection sources of Legionnaires´ disease (“Retrospec-
+ tive validation of the developed methodology” section).       peer-reviewed literature worldwide [25]. In order to find
+   The developed methodology adds to evidence synthesis        articles reporting on the first identification of contami-
+by combining signals of first detections of contaminants        nants in the aquatic environment, relevant search terms
+in the aquatic environment into manageable information.         and inclusion and exclusion criteria were defined.
+Health or environment agencies can use the methodol-
+ ogy to inform policy makers about signals of emerging          Search query
+ contaminants in the aquatic environment that could be          The search terms used in the review are shown in Fig. 2.
+ relevant for public or environmental health in a national,     The search query itself was a combination of four con-
+ international or river basin setting. The methodology          cepts, namely contaminant, detection, new, and aquatic
+ thereby assists the proactive governance of emerging          environment. In order to keep the search query as spe-
+ contaminants in the aquatic environment and contrib-           cific as possible, it was decided to focus on freshwater
+ utes to the objective and proactive use of scientific evi-     resources. Each concept included several synonyms and
+ dence to inform policy makers.                                 was searched for in the title, abstract and keywords. The
+                                                                search query was set up using expert opinion and a list
+ Methodology development                                        of fourteen a priori selected articles (see Table 1). The
+ A systematic literature review has three phases: plan-         fourteen articles report the identification of chemical or
+ ning, conducting and reporting. The planning phase             microbial contaminants in the aquatic environment for
+ includes identifying the need for a review and creat-          the first time and could thus be used to test the effec-
+                                                                found using a simple search in Google ­Scholar® using the
+ ing a review protocol. In the conducting phase, authors        tiveness of the proposed methodology. The articles were
+ search for literature, identify and appraise eligible stud-
+ ies, and extract and synthesise data. In the final phase the  search terms “first” and “detect* OR identif*”. Further-
+ results of the review are reported to relevant communi-        more, articles which the authors came across in previous
+ ties [19]. In this study, we have used R-based coding in       research and that reported on the first identification of
+ the conducting phase to make the review process more           chemical or microbial contaminants in the aquatic envi-
+ efficient. A graphical representation of the development       ronment were also included in Table 1.
+ of the methodology is shown in Fig. 1 and is described           Experts from different backgrounds, such as chem-
+ in this section. The reporting phase is not automated by       istry, microbiology, and hydrology, also provided input
+ the developed methodology because, in this study, the          and feedback on a list of search terms using an iterative
+ reporting phase includes the elucidation of the relevance      approach, thus ensuring that a comprehensive list of
+
+Hartmann et al. Environ Evid     (2019) 8:33                                                                                             Page 4 of 15
+ Fig. 1 A graphical representation of the steps taken to develop the proposed methodology. Here, </> is the symbol for code written in R
+
+Hartmann et al. Environ Evid      (2019) 8:33                                                                                                 Page 5 of 15
+  Fig. 2 Search terms used to search ­Scopus® for articles reporting on the first identification of chemical or microbial contaminants in the aquatic
+  environment. Search terms were searched for in title, keywords and abstracts. Additional information: _ = search term was used with, and without,
+  the use of a space, * = any combination of characters, → = AND
+search terms was obtained. In order to keep the search                          econometrics and finance, business, management and
+query as concise as possible, it was decided that a number                      accounting, dentistry, and psychology. Finally, to develop
+of specific kinds of contaminants would not be included                         the methodology, only articles published between 2006
+in concept 1 (e.g. pharmaceuticals, pesticides or E. coli).                     and 2012 were included, as the set of articles retrieved
+However, we did add the term ‘nanoparticle’ as nanopar-                         with the search query had to contain the a priori selected
+ticles are not always referred to as compounds or con-                          articles (see Table 1, publication year 2006–2012).
+taminants and records referring to nanoparticles would                             Some inclusion and exclusion criteria could not be
+otherwise be missed by the presented methodology.                               included in the search query, but were used to manu-
+                                                                                ally select eligible studies in the conducting phase.
+Inclusion and exclusion criteria                                                Although interesting, studies about new analytical
+In the query in Scopus we limited the search to scientific                      techniques, new bio indicators, new toxicity results for
+articles, reviews and articles in press written in English.                     known contaminants, new detections in the marine
+Although we were looking for original research, reviews                         environment and in soil, and new removal techniques
+were also included as authors of original research might                        for known contaminants, were outside the scope of this
+not have been aware that they had identified a con-                             study and not considered eligible studies. Studies about
+taminant for the first time, but a reviewer might have                          new detections in aquatic biota and aquatic plants were
+picked up on it. Furthermore, the search query excluded                         included as these are direct signals of aquatic contami-
+records from the following subject areas: economics,                            nation. However, first detections in terrestrial plants
+
+Hartmann et al. Environ Evid          (2019) 8:33                                                                                                            Page 6 of 15
+Table 1 List of 14 a priori selected articles that report on the identification of specific contaminants in the aquatic
+environment for the first time
+References                      Publication year First detection of                     Detection in                   Cluster                      Sorted          Total
+                                                                                                                                                    on position search
+                                                                                                                                                                    terms
+Sultan and Gabryelski [28] 2006                        Several contaminants,            Drinking water                 Not-clustered                11              17
+                                                         most intriguing Glycolic
+                                                         acid
+Terasaki et al. [29]            2008                   Five aryl hydrocarbons,          Surface water (port where Not-clustered                     241             12
+                                                         including a novel chlo-          industrial effluent from
+                                                         rinated aryl ether               paper mill is discharged)
+Conley et al. [30]              2008                   Lovastatin                       Surface water                  Not-clustered                1491            9
+Radjenović et al. [31]          2008                   Biodegradation product           Wastewater samples             Not-clustered                41              15
+                                                         of β-blocker atenolol
+Conley et al. [27]              2008                   Norfluoxetine                    Surface water                  N/A                          N/A             N/A
+Xiao et al. [32]                2008                   Gatifloxacin                     River, influent and effluent Not-clustered                  2799            8
+                                                                                          of sewage treatment
+                                                                                          plant
+Söderström et al. [33]          2009                   Oseltamivir                      Surface water                  Pharmaceut-concentr 1672                     9
+Hamza et al. [34]               2009                   Human bocavirus                  Surface water (river)          Infect-diseas                3047            8
+Ferrer and Thurman [35]         2010                   Lamotrigine and glucu-           Wastewater and drinking        Sampl-detect                 3               19
+                                                         ronide                           water samples
+Farré et al. [36]               2010                   C60 and C70 fullerenes           Effluent wastewater treat- Inf-chemic-concentr              162             13
+                                                         and N-Methylfulleropyr-          ment plant
+                                                         rolidine C60
+Zhao et al. [37]                2010                   Three new disinfection           Drinking water                 Chlorin-disinfect            997             10
+                                                         by-products (DBPs):
+                                                         2,6-dichloro-3-methyl-
+                                                         1,4-benzoquinone,
+                                                         2,3,6-trichloro-
+                                                         1,4-benzoquinone, and
+                                                         2,6-dibromo-1,4-benzo-
+                                                         quinone
+Kleywegt et al. [38]            2011                   Roxithromycin and enro-          Drinking water resource        Pharmaceut-concentr 327                      12
+                                                         floxacin
+Pereira Rde et al. [39]         2011                   Identification of new            Groundwater                    Ozon-effect                  14,570          5
+                                                         ozonation disinfec-
+                                                         tion by-products of
+                                                         17β-estradiol
+Su et al. [40]                  2012                   Three gene cassette              Surface water                  Resist-antibiot              3904            8
+                                                         arrays, aac(6′)-Ib-cr-
+                                                         aar-3-dfrA27-aadA16,
+                                                         aacA4-catB3-dfrA1 and
+                                                         aadA2-lnuF
+The 5th column, named ‘Cluster’, is the result of the data driven cluster analysis using Adjutant, which is explained in “Eligible study selection approaches” section.
+The 6th and 7th column, named ‘Sorted on position’ and ‘Total search terms’ show the ranking of the a priori selected articles based on presence of search terms, this
+approach is also explained in “The conducting phase” section. N/A not applicable (Conley et al. [27] was not found with the search query used)
+were not included as eligible studies. Articles about                                        An overview of the search query and the inclusion and
+drinking water or wastewater treatment techniques                                         exclusion criteria used is shown in Additional file 2.
+were excluded as the aim of the developed methodol-
+ogy was to identify first detections of contaminants in                                  The conducting phase
+                                                                                                          Scopus®; this generated 27,516 articles. As
+the aquatic environment and not to identify new treat-                                   The search query (shown in Additional file 2) was used
+                                                                                                    ®
+ment techniques used to treat contaminated water.                                        to search ­
+However, articles reporting the first identification of                                  ­Scopus does not have the functionality to export
+contaminants created during treatment, e.g. newly                                        more than 2000 records, including all bibliographic
+identified disinfection by-products, were included.                                      information, R-based coding was used to add abstract
+
+Hartmann et al. Environ Evid   (2019) 8:33                                                                           Page 7 of 15
+information to each record using the Rscopus package                 different values for occurrences in different parts of
+from ­Scopus® by using R, an Application Programming
+(see Fig. 1) [26]. In order to retrieve abstract information         the text, especially lower values for occurrences in
+                                                                     keywords. Occurrences of search terms in keywords
+Interface (API) key is needed which can be requested                 should be rated lower because keywords are often
+from Elsevier, using this link https​://dev.elsev​ier.com/.          not exported from search databases into the StArt
+The full script for this step of the methodology can be              tool. Also, as authors are obliged to choose a limited
+found in Additional file 1.                                          number of keywords, they might not be able to catch
+  After the code was run, the list of 27,516 articles con-           the research subject in this limited number [19].
+tained abstract information. It was found that only 13               We did not have any information on the keywords,
+                                                                     ­Scopus®. Therefore, we examined whether specific
+of the 14 a priori selected articles were included in this            as these were not in the dataset we exported from
+dataset. Conley et al. [27] was not found by the search
+query shown in Additional file 2. This is due to the fact             terms from the search query were more frequent in
+that the first detection of the contaminant was not men-              the a priori selected articles than others. In that way,
+tioned in the title or abstract. We continued developing              we were able to add more weight to those relevant
+the methodology with the other thirteen articles shown                terms when scoring articles. This was done using the
+in Table 1.                                                           tm and quanteda packages in R [29, 30].
+  The following step in a review process would be                 3. Pattern matching: the abstracts of the fourteen a
+to manually select eligible studies based on title and                priori selected articles (see Table 1) were assessed so
+abstracts. However, the high number of records makes                  that we could find a common pattern which would
+the manual selection of eligible studies unrealistic, so R            indicate the relevance of these articles to the pre-
+was used to automate the eligible study selection process.            sent study. First, the abstract and titles were split into
+                                                                      sentences and then the pattern, shown in Additional
+Eligible study selection approaches                                   file 1, was used to select relevant articles using string
+Available software tools were used to automate the eligi-             pattern matching. In Additional file 1, it is shown that
+ble study selection process in this research, namely the              the pattern checks out for a combination of different
+StArt tool [22] and Adjutant [23] (see also Fig. 1). As the           word stems (e.g. ‘new’ and ‘detect’) in one sentence.
+StArt tool was not R-based we implemented the ration-                 However, these do not need to occur next to each
+ale used in the StArt tool in R. Adjutant could be directly           other, hence the addition of 0–70 characters between
+                                                                                     ­ copus®, as S
+                                                                                                  ­ copus® is unable to search
+used in R. We also assessed whether available text mining             the word stems. This is different from the search
+functionalities within R could be used. An explanation of             query used in S
+the three approaches follows below (see also Fig. 1). Each            for specific combinations of words or word stems in
+approach has been computed into a separate R-based                    one sentence. Also, by using the pattern matching in
+code which can be found in Additional file 1.                         R, the matching sentence can be retrieved from the
+                                                                      specific abstract which makes analysis less time con-
+  1. Data driven cluster analysis using Adjutant: Adjutant            suming.
+      was originally developed to cluster articles retrieved
+      from the Pubmed database [23]. With minor adjust-           The applicability of the three approaches to automate
+                                                                the eligible study selection process was analysed using
+                    Scopus® data as well. Furthermore, the
+      ments to the package, Adjutant turned out to be
+      useful for ­                                              the fourteen a priori selected articles. However, one
+      package uses ‘stopwords’, which are words that are        of these fourteen articles was not found in any of the
+      considered to be so widely used in the collection of      approaches [27]. The first approach, namely data driven
+      articles that they are irrelevant to the content cluster- cluster analysis using Adjutant (Script 2), resulted in 48
+      ing analysis. We added additional stopwords to the        clusters. However, 12,959 records (53%) were not clus-
+      package based on our search query, namely: water,         tered. Figure 3 shows the clusters that have been con-
+      study, studies, studied, species, region, and stable.     structed and Table 1 shows the clusters in which the a
+      These words were chosen because they are widely           priori selected records were sorted by Adjutant. Five of
+      present in the set of articles exported from Scopus.      the a priori selected records were not clustered. Also,
+   2. Number of search terms as a proxy for relevance:          the eight records that were clustered, were divided over
+      the rationale of the StArt tool (as discussed in “Back-   six different clusters. Therefore, there was no clear indi-
+      ground” section) was used as a guide for working out      cation as to which of the clusters contained relevant
+      how to automatically identify eligible studies using R    information on the first detection of contaminants in
+      [19, 28]. The developers of the StArt tool advise using   the aquatic environment. Thus, data driven cluster
+                                                                analysis using Adjutant was not considered a feasible
+
+Hartmann et al. Environ Evid      (2019) 8:33                                                                                             Page 8 of 15
+ Fig. 3 Result of the data driven cluster analysis using the Adjutant package (Script 2). The names of the clusters are the two most commonly used
+ word stems in the specific cluster
+
+Hartmann et al. Environ Evid    (2019) 8:33                                                                          Page 9 of 15
+approach for the automation of the eligible study selec-            extracted as eligible studies using the pattern defined in
+tion process in this research.                                      Additional file 1. False negatives are articles which did
+   The second approach to automate the eligible study               not match the pattern although these articles reported
+selection process that was assessed was based on the clas-          on the first detection of a contaminant in the aquatic
+sification approach used in the StArt tool [19, 28]. Figure 4       environment. Often in computational linguistics, the
+shows the most used search terms in 13 of the a priori              focus is on the proportion of true and false positives
+selected articles (Conley et al. [27] was not found by the          recalled by the methodology, since no information is
+search query used). There is no clear indication which of           available on the documents that were not retrieved by
+the concepts (see “Search query”) is most distinguishably           the methodology [31]. However, here we have infor-
+present in these relevant articles. Therefore, the records          mation on the articles that were eliminated using the
+were sorted based on the presence of all the search terms           pattern defined in Additional file 1. Therefore, we used
+using the quanteda package, with no additional weights              the definitions of sensitivity and specificity as shown in
+added to any concepts or search terms. Table 1 shows that           Eqs. 1 and 2 following the Receiver Operating Charac-
+                                                                    teristics (ROC) analysis [32].
+                                        fraction of true positives
+      sensitivity =                                                                                                          (1)
+                       fraction of true positives + fraction of false negatives
+                                       fraction of true negatives
+      specificity =                                                                                                          (2)
+                      fraction of true negatives + fraction of false positives
+not all a priori selected articles are ranked high. Therefore,      Results of applying methodology to recent
+the ranking of articles that was based on the frequency of          literature
+search terms was found not to be applicable to automate             In this section, the results of applying the developed
+the eligible selection process in this study.                       methodology, as explained in (“Methodology devel-
+   The third approach assessed to automate the eligible             opment” section, to recent literature, namely articles
+selection process was pattern matching. The dataset con-            published between 2016 and 27th of August 2018, are
+tained 4299 records that matched the pattern based on               presented. Running the search query shown in Addi-
+                                                                    22,570 articles being found in ­Scopus®. A list contain-
+                                                                    tional file 2, adjusted to the new time period, resulted in
+original number of records exported from ­Scopus®. All
+the a priori selected articles. This is 15.6 percent of the
+but one, namely Conley et al. [27], of the a priori selected        ing these records was exported from S    ­ copus® and the
+articles were included in the 4299 records.                         code to add abstract information (see “The conducting
+   Because the pattern matching approach was the                    phase” section) was used. Pattern matching was run to
+only approach that clustered the a priori selected arti-            identify eligible studies, which resulted in 3650 records
+cles together, we found pattern matching to be the best             (16.0 percent of the original dataset) containing 3983
+approach to automate the eligible study selection in this           sentences that matched the pattern. These records were
+research. Using this approach the eligible study selection          exported to an excel file that contained the articles’ Elec-
+process is not yet fully automated as the list of matched           tronic Identifier (EID), authors, title, publication year,
+                                                                                                                      ­ copus®,
+records still needs to be manually checked. However, the            journal, volume, page information, citations, Digital
+number of records that is likely to include most eligible           Object Identifier (DOI), link to the article in S
+articles and thus should be prioritised for manual check-           abstract and the sentence that matched the pattern.
+ing was decreased by almost 85 percent. Therefore, pat-                Then, eligible studies were again selected by apply-
+tern matching was chosen as the approach to automate                ing additional criteria to the remaining dataset of 3650
+(part) of the screening process.                                    articles. The inclusion and exclusion criteria defined in
+                                                                    “Inclusion and exclusion criteria” section were used.
+                                                                    After manual analysis, 359 articles were selected as eligi-
+Sensitivity and specificity analysis                                ble studies, as shown in Additional file 3. The contami-
+A sensitivity and specificity analysis of the developed             nants detected for the first time in these studies were
+pattern was performed using the fraction true or false              categorised manually as chemical or microbial.
+negatives and true or false positives. Here, false posi-               Of the 359 articles, 173 were on chemical contaminants
+tives are articles that did not report the first detection          and 186 on microbial contaminants. The next step would
+of a contaminant in the aquatic environment but were
+
+Hartmann et al. Environ Evid       (2019) 8:33                                                                                                     Page 10 of 15
+                2−s2.0−33646571543                      2−s2.0−36549047400                    2−s2.0−40049101875                        2−s2.0−54349095319
+      aquatic                               drinking                            detection                                  detection
+    detected                          contaminants                               detected                                compound
+    detection                             pollutants                              surface                                metabolite
+                                       components                                                                       metabolites
+          first                                                                       new
+                                           chemical                                                                     wastewater
+   metabolite                                                                    reported
+                                         monitoring                                                                       screening
+         river                                                                         first
+                                          screening                                                                     compounds
+     sewage                                detection                        determination                                       new
+       recent                           compounds                              metabolite                                        first
+         virus                                   new                                  river                                detected
+                 1     2    3     4                         3    6    9                       1      2      3     4                    1.00 1.25 1.50 1.75 2.00
+                2−s2.0−56549084144                      2−s2.0−67649506353                    2−s2.0−70350434146                        2−s2.0−76749156103
+   metabolite                           wastewater                                drinking                                  drinking
+  wastewater                                effluents                            detected                                  detection
+          new                               analysis                          compounds                                         new
+          first                                   first                          reported                             determination
+      surface                                surface                        contaminants                                compounds
+     drinking                         nanoparticles                             detection                                  chemical
+    detected                                     new                                   first                               detected
+       report                                   novel                                 river                                   report
+    analyzed                          determination                              analyzed                                   analysis
+    detection                                  report                         occurrence                                occurrence
+                 1     2    3     4                         2      4     6                    1      2      3     4                      1     2      3      4
+                2−s2.0−77953018842                      2−s2.0−77957306688                    2−s2.0−79951811164                        2−s2.0−80051667278
+    detection                                effluent                           pollutants                                 detected
+                                           detected                                    first
+                                                                                                                                river
+                                                                                  surface
+                                             surface
+                                                                                detection                                catchment
+                                                 river                        compounds
+          new                                                                                                              detection
+                                        wastewater                                 aquatic
+                                                                                     novel                                       first
+                                           detection
+                                                                                  effluent
+                                                  first                                                                      surface
+                                                                                   stream
+      ground                                analysis                             detected                               wastewater
+              0.50 0.75 1.00 1.25 1.50                  1.0 1.5 2.0 2.5 3.0                  1.00 1.25 1.50 1.75 2.00                  1.00 1.25 1.50 1.75 2.00
+                2−s2.0−84861863606
+         river
+    detected
+     analysis
+         virus
+    detection
+          first
+      surface
+  prevalence
+                1.0 1.5 2.0 2.5 3.0
+                                                                            Frequency
+ Fig. 4 Overview of the search terms that were used most often in thirteen of the a priori selected relevant articles
+
+Hartmann et al. Environ Evid (2019) 8:33                                                                     Page 11 of 15
+be to identify the relevance of the contaminants identi-      all Americans [35]. In 2010, the major PFOA producing
+fied for the first time as potential threats to public and    company in the United States of America stated that it
+environmental health in national, international or river      had decreased its PFOA emissions by 95 percent [34].
+basin settings. The elucidation process is not automated         In the Netherlands, Dupont had been using PFOA
+by the developed methodology and therefore not within         since 1970 to produce Teflon and had replaced it volun-
+the scope of this study. However, we are planning to fur-     tarily in 2012 by a different perfluorinated compound. In
+ther develop the elucidation process in detail in future      2015, groundwater which had been used for the produc-
+research.                                                     tion of drinking water was investigated for possible con-
+                                                              taminants and found to be polluted by PFOA as the result
+Results of the sensitivity and specificity analysis           of industrial wastewater discharges and subsequent infil-
+In order to find the fraction of false and true negatives,    tration into groundwater in the period of 1970–2012 [36,
+we analysed a random selection of 1750 articles from the      37]. This investigation caused great public concern [10].
+23,217 articles (published between 2006 and 2012) that           The case of PFOA shows a long period of emergence of
+did not match the pattern. We found that 32 of the 1750       concern in the Netherlands, from the first articles report-
+articles did report on the first detection of a contaminant   ing on the presence of PFOA in the environment in the
+in the aquatic environment, resulting in a fraction of true   early 2000s and the replacement of PFOA by another per-
+and false negatives of 0.982 and 0.018, respectively. The     fluorinated compound in 2012. Lau et al. [38] reviewed
+results of the analysis are shown in Additional file 4. Out   the literature on monitoring and toxicological findings
+of the 3650 articles extracted as eligible studies, 359 arti- about perfluoroalkyl acids in 2007. Based on this review,
+cles were true positives resulting in a fraction of true and  it can be concluded that Hansen et al. [39] quantitatively
+false positives of 0.098 and 0.902, respectively. Therefore,  reported the presence of PFOA in the aquatic environ-
+using Eqs. 1 and 2, a sensitivity of 84.5% and a specificity  ment for the first time in 2002. However, we found that
+of 52.1% were found.                                          Moody et al. [40] had published research somewhat ear-
+                                                              lier in 2001, reporting the presence of PFOA in surface
+                                                              water samples. Another early paper on the presence of
+Retrospective validation of the developed
+                                                              perfluorooctane surfactants in surface water, was the
+methodology
+                                                              study by Boulanger et al. [41] who reported concentra-
+Could the developed methodology have contributed
+                                                              tions of PFOA in Great Lakes water.
+to the earlier identification of any of today´s emerging
+                                                                 The proposed methodology including the pattern
+contaminants in the aquatic environment? To answer
+                                                              shown in Additional file 1 was run for articles published
+this question, we further analysed two examples of con-
+                                                              between 2001 and 2007. The methodology did not pick
+taminants, one chemical and one microbial, which have
+                                                              up the articles by both Hansen et al. [39] (published in
+caused great concern over the past years. We ran the
+                                                              2002) and Moody et al. [40] (published in 2001), because
+methodology as defined above and assessed whether
+                                                              they did not specifically refer in either the title or the
+the use of the proposed text mining methodology would
+                                                              abstract to this being the first report of PFOA in the
+have decreased the period of emergence of concern in
+                                                              aquatic environment. However, the study by Giesy and
+the Netherlands. The chemical contaminant used as an
+                                                              Kannan [42] (published in 2001) on the presence of PFCs
+example was perfluorooctanoic acid (PFOA), which is
+                                                              in (aquatic) wildlife was picked up by the proposed meth-
+an anthropogenic chemical belonging to the group of
+                                                              odology. However, these authors focused primarily on
+per- and polyfluoroalkyl substances (PFASs) [33]. The
+                                                              providing evidence of the global distribution of perfluo-
+microbial contaminant example was the family of the
+                                                              rooctane sulphonic acid (PFOS) in biota not so much a
+Legionella bacteria.
+                                                              first reporting. Also, the article by Boulanger et al. [41]
+                                                              published 3 years later in 2004 was picked up. Thus, using
+Perfluorooctanoic acid (PFOA)                                 the proposed text mining methodology, attention could
+applications, for instance in the production of ­Teflon®. In
+Since the 1940s, PFOA has been used in many industrial        have been drawn to the potential presence of PFOA in
+                                                              the aquatic environment in the Netherlands some 8 years
+1978, it was first established that PFOA induces immu-        earlier (in 2004 instead of 2012) and proactive risk gov-
+notoxicity and other adverse effects in monkeys. How-         ernance at a national level would have been possible.
+ever, Grandjean and Clapp [34] showed that this, and
+other early toxicity information, was not published or
+was overlooked. Regulatory actions were, therefore, only      Legionella
+initiated after the analysis of blood serum samples taken     Legionella bacteria are ubiquitously present in the envi-
+in 2000 revealed that PFOS and PFOA were detectable in        ronment. Inhaling pathogenic Legionella bacteria can
+
+Hartmann et al. Environ Evid (2019) 8:33                                                                      Page 12 of 15
+cause Legionnaires´ disease (LD) resulting in severe         Discussion
+pneumonia. In 2017, the highest number of patients           To the best of our knowledge, this is the first attempt
+suffering from LD ever notified in the Netherlands was       to develop a methodology to search the scientific litera-
+reported, namely a total of 561 cases [43], and only a       ture for articles reporting the first detection of chemical
+minority of these were associated with exposure abroad.      and microbial contaminants in the aquatic environment.
+LD is often associated with manmade water systems, for       Sjerps et al. [21] used text mining in 2015 to identify
+instance, whirlpools, cooling towers and water distribu-     potential emerging risks, comparing the manual and
+tion systems. However, the infection source remains          automated analysis of scientific literature. The authors
+unknown for most of the cases that are not part of an        concluded that the manual analysis was not structured,
+outbreak of Legionnaires´ disease and that have been         poorly reproducible and labour-intensive. The automated
+infected in the Netherlands [43].                            search using the text mining tool was fast and reproduc-
+  In 2016 and 2017, two successive clusters of a total       ible but generated too many hits and an unmanageable
+of 14 cases of LD were reported in Boxtel, a town in         number of contaminants. Therefore, Sjerps et al. [21]
+the south of the Netherlands [44]. At first, no common       suggested using automated text analysis to identify eligi-
+source could be identified based on interviews and sam-      ble studies and then performing a manual analysis of the
+pling. However, after continuously investigating possible    eligible studies. Using the pattern matching approach in
+sources, an industrial biological WWTP was identified        this study is one way of implementing this as a reproduc-
+as the infection source for both clusters. The growing       ible methodology.
+trend in LD cases in another city in the south of the           In this research project, we showed the results of apply-
+Netherlands was also traced back to an industrial bio-       ing the developed methodology to literature published in
+logical WWTP. These findings illustrated the importance      the last 2.5 years (2016 until August 2018). This resulted
+of industrial biological WWTPs as potentially relevant       in 3650 records which were manually analysed using the
+sources for LD infections [43].                              additional predefined inclusion and exclusion criteria.
+  In 2018, Loenenbach et al. [44] reported identify-         Although the developed methodology minimised the
+ing industrial biological WWTPs as potential relevant        manual workload as only sentences matching the pat-
+sources of Legionnaires´ disease infections for the first    tern were analysed and not the whole abstract, this is
+time in the Netherlands. However, cases of Legionnaires´     still a time consuming step in the analysis. Therefore, in
+disease with biological WWTPs as infection source had        order to keep the number of records manageable, we sug-
+already been reported in other countries before the two      gest running the methodology twice a year. Based on the
+successive clusters in the Netherlands in 2016 and 2017      number of relevant articles published between 2016 and
+were found. Indeed, van Heijnsbergen et al. [45] also men-   August 2018 (2016 = 157, 2017 = 137 and until August
+tioned these cases in their review of potential sources of   2018 = 74), this would result in about 70 to 80 articles per
+Legionella which was published in 2015. To the best of       run.
+our knowledge, Allestam et al. [46] identified the biologi-     The effectiveness of the methodology was tested using
+cal treatment of industrial wastewater as a possible source  a priori selected articles. One of the a priori selected
+for Legionella infection for the first time in 2006.         articles, namely Conley et al. [27], was not found by the
+  The proposed methodology including the pattern             developed methodology. This is because the first detec-
+shown in Additional file 1 was run for articles published    tion of norfluoxetine was not mentioned in the abstract
+between 2006 and 2015. The methodology did not pick          or title, but only in the full text. Therefore, by using the
+up the research by Allestam et al. [46] (published in        developed methodology only those articles are identified,
+2006), because it was not published as a scientific article, in which the authors consider the first detection of a con-
+but as a book chapter. However, a Finnish report on two      taminant in the aquatic environment an important aspect
+cases of Legionnaires´ disease associated with biological    of their research and include this in the title or abstract.
+WWTPs published in 2010 [47] was identified. Thus, if
+                                                             the full text could then be retrieved from ­Scopus® instead
+                                                             Open Access publishing would remove this limitation as
+the proposed text mining methodology had been used in
+the Netherlands, the potential significance of biological    of the abstract (see code shown in Additional file 1). The
+WWTPs in Legionnaires´ disease infection could have          added-value of text mining full text articles instead of
+been identified in 2010 instead of 2015. In that case, the   abstracts has been illustrated before by Westergaard et al.
+period of concern would have been decreased by 5 years       [48]. However, a recent estimation of Open Access pub-
+and proactive risk governance would have been pos-           lishing showed that only 28 percent of scientific articles
+sible, for example, by running a monitoring campaign         are published Open Access [49]. Thus, the limitation of
+to identify relevant industrial biological WWTPs in the      mining only title and abstracts is not expected to be elim-
+Netherlands.                                                 inated any time soon.
+
+Hartmann et al. Environ Evid   (2019) 8:33                                                                         Page 13 of 15
+   The specificity analysis resulted in a low specificity            A retrospective validation of the methodology was
+(52.1%). This is due to the high fraction of false positives.     performed by evaluating the period of emergence of
+The calculation of the low specificity is once again evidence     concern for two example contaminants in the Nether-
+for the need of the additional manual analysis of the identi-     lands, one microbial and one chemical contaminant.
+fied articles, as is shown in Fig. 1. Also, words are used in     Although we are aware of the fact that the period of
+many different ways in a sentence, such as the words ‘new’        emergence of concern related to these contaminants
+and ‘first’, which leads the pattern to extract false positives.  might be very different in other countries and that early
+For example, ‘new’ could be part of a region´s or city´s          identification of contaminants is no guarantee for regu-
+name, such as ‘New Zealand’ in the abstract published by          latory actions, the retrospective validation illustrated
+Neary and Baillie [50]. The word ‘first’ is also used in many     that the methodology can be useful for the more timely
+articles as a numerical transition word, for example in the       identification of emerging contaminants.
+                                                                                                       ­ copus®, any database
+abstract by Sharma and Malaviya [51]. Most false positives           Although the methodology has been developed spe-
+are unavoidable and can easily be excluded in the manual          cifically to extract articles from S
+selection phase of eligible studies.                              of peer-reviewed literature could be used with the pro-
+   However, some of the false positives could be automati-        posed search query. In that case, the developed code
+cally eliminated by removing sentences in which “New”             could be used as is after the abstract and title informa-
+refers to a country and “first” is used in the beginning of       tion has been imported into R-studio. However, to our
+a sentence and following by a comma. These rules were             knowledge, no R-package exists for retrieving abstract
+                                                                  except for ­Scopus®.
+translated into additional lines of code (see Additional          information from databases of peer-reviewed literature
+file 1) which could be run after the pattern matching
+code. We were able to automatically eliminate 161 sen-               Furthermore, the search query and pattern can be easily
+tences by using this additional line of code on the sen-          adjusted as the codes are added as supplementary mate-
+tences shown in Additional file 3.                                rial and the additional inclusion and exclusion criteria are
+   The fraction of false negatives found was very low,            explicitly described in Additional file 2. For instance, the
+namely 0.0183. However, all false negatives reported on the       search query and additional inclusion and exclusion cri-
+first detection of a microbial contaminant indicating that        teria can be adjusted to make the methodology applicable
+the pattern is more tailored to studies reporting on chemi-       to the search for articles identifying contaminants for the
+cal contaminants than to studies reporting on microorgan-         first time in soil or air. Identifying early signals of con-
+isms in the aquatic environment. This can be due to the           taminants in soil might also be interesting when it comes
+fact that the a priori selected articles comprised only two       to the quality of freshwater resources due to potential
+articles reporting on the first detection of microbial con-       leaching. Also, by replacing all search terms in concept 1
+taminants in the aquatic environment [52, 53]. Therefore,         of the search query (see Fig. 2) by a specific contaminant
+we suggest an addition to the pattern shown in Additional         group, such as “pharmaceuticals” or “personal care prod-
+file 1, namely a combination of the words ‘novel’, ‘new’ or       ucts”, the methodology could be used to identify a spe-
+‘undescribed’ and ‘species’, ‘first outbreak’ and ‘first descrip- cific type of new chemicals. Finally, one might consider
+tion’. The extended pattern is also available in Additional       including studies on new toxicity results for known con-
+file 1 and eliminates 29 out of the 32 false negatives.           taminants, and compare these to the results of national
+   The methodology was made as straightforward as                 monitoring studies. In these cases, the pattern could be
+possible and coded in R to make it widely applicable.             used as it is as long as the search terms are adapted.
+However, as the methodology is R-based, some prior                   When textual data were imported into the R environ-
+knowledge of programming is needed to be able to run              ment, some characters were not properly encrypted and
+it. Therefore, we suggest researchers use the methodol-           were thus replaced by random signs. Examples of char-
+ogy to inform policy makers. For example, researchers             acters that the R environment was unfamiliar with, even
+working in close collaboration with national or interna-          after an encryption comment was run, were Greek let-
+tional government agencies, such as employees of health           ters and characters in subscript or superscript. This phe-
+agencies. Another option is to build a user interface as          nomenon has caused some contaminants in the abstracts
+                                                                                     ­ copus® link to the original research is
+has been done previously for complicated computational            shown in Additional file 3 to be named incorrectly.
+analysis tools such as QMRAspot [54, 55]. These tools             However, as the S
+include data, assumptions and calculations which make             included in Additional file 3, the name of the contami-
+them more user-friendly for non-mathematicians. How-              nant can always be checked.
+ever, it should be noted that, in order to interpret the             Finally, the developed methodology can be used to
+results of these tools, discipline related knowledge is still     identify signals in any national, international or river
+required.                                                         basin setting since the search query and inclusion and
+
+Hartmann et al. Environ Evid              (2019) 8:33                                                                                                   Page 14 of 15
+exclusion criteria are not country or area specific. How-                          Acknowledgements
+                                                                                   We would like to thank all members of the project team of PS-DRINK for their
+ever, it is recognised that the elucidation of the relevance                       valuable comments during the development process of the methodology.
+of the signals in the national, international or river basin                       Also, we thank Els Smit, Saskia Rutjes and Theo Traas (RIVM) for their useful
+setting is a crucial part of the proactive governance of                           suggestions on an earlier draft of this manuscript.
+emerging contaminants in the aquatic environment. Only                             Authors’ contributions
+when the identified signals are analysed effectively, is                           JH developed the theory, performed the analysis and took the lead in writ-
+proactive governance possible.                                                     ing the manuscript. SW, JPvdH, and AMdRH supervised the project. AMdRH
+                                                                                   helped to carry out the retrospective validation of the microbial contaminant.
+                                                                                   All the authors provided critical feedback and helped shape the research,
+Conclusions                                                                        analysis and manuscript. All authors read and approved the final manuscript.
+In this study, we hypothesised that the period of emer-
+                                                                                   Funding
+gence of concern of contaminants could be reduced                                  This research was funded by the RIVM Strategic Research Project PS-DRINK
+by performing a systematic search for articles which                               (S/121014).
+reported the first detection of a contaminant in the
+                                                                                   Availability of data and materials
+aquatic environment. For this purpose, we developed                                The dataset(s) supporting the conclusions of this article are included within
+a methodology using literature mining. The technical                               the article (and its additional file(s)).
+aspects of the developed methodology were described
+                                                                                   Ethics approval and consent to participate
+as well as its implementation for the screening of recent                          Not applicable.
+scientific literature. The hypothesis was tested by retro-
+spectively analysing the period of the emergence of con-                           Consent for publication
+                                                                                   Not applicable.
+cern related to two contaminants in the Netherlands.
+The retrospective analysis showed that the methodology                             Competing interests
+is able to extract early signals of a contaminant in the                           The authors declare that they have no competing interests.
+aquatic environment. However, the further elucidation                              Author details
+of the relevance of the identified signals, here referred to                       1
+                                                                                     National Institute for Public Health and the Environment (RIVM), PO Box 1,
+as the reporting phase, is crucial in order to decrease the                        3720 BA Bilthoven, The Netherlands. 2 Delft University of Technology, PO
+                                                                                   Box 5, 2600 AA Delft, The Netherlands. 3 Copernicus Institute of Sustainable
+period of emergence of future contaminants. We there-                              Development, P.O. Box 80125, 3508 TC Utrecht, The Netherlands. 4 Waternet,
+fore conclude that the developed methodology is a first                            PO Box 94370, 1090 GJ Amsterdam, The Netherlands. 5 Institute for Risk Assess-
+step towards the proactive systematic identification of                            ment Sciences, P.O. Box 80178, 3508 TD Utrecht, The Netherlands.
+emerging contaminants in the aquatic environment.                                  Received: 10 May 2019 Accepted: 28 September 2019
+Supplementary information
+Supplementary information accompanies this paper at https​://doi.
+org/10.1186/s1375​0-019-0177-z.
+                                                                                   References
+                                                                                    1. Gavrilescu M, Demnerova K, Aamand J, Agathos S, Fava F. Emerging pollut-
+  Additional file 1. Scripts mentioned in manuscript Use of literature                   ants in the environment: present and future challenges in biomonitoring,
+  mining for early identification of emerging contaminants in freshwater                 ecological risks and bioremediation. New Biotechnol. 2015;32(1):147–56.
+  resources by Hartmann et al. R-based codes.                                       2. Moritz S, Bunke D, Brack W, López Herráez D, Posthuma L. Developments in
+                                                                                         society and implications for emerging pollutants in the aquatic environ-
+  Additional file 2. Overview of the search query and the inclusion and                  ment. Oeko-Institut Working Paper 1/2017; 2017.
+  exclusion criteria. Table including search query, inclusion and exclusion         3. Vouga M, Greub G. Emerging bacterial pathogens: the past and beyond.
+  criteria.                                                                              Clin Microbiol Infect. 2016;22(1):12–21.
+  Additional file 3. Results of applying the developed methodology to               4. Richardson SD, Kimura SY. Water Analysis: emerging Contaminants and Cur-
+  recent literature, namely articles published between 2016 and 27th of                  rent Issues. Anal Chem. 2016;88(1):546–82.
+  August 2018. Table containing the articles’ Electronic Identifier (EID),          5. Boxall AB, Rudd MA, Brooks BW, Caldwell DJ, Choi K, Hickmann S, et al.
+                                                                                         Pharmaceuticals and personal care products in the environment: what are
+  Digital Object Identifier (DOI), link to the article in ­Scopus®, abstract,
+  authors, title, publication year, journal, volume, page information, citations,
+                                                                                         the big questions? Environ Health Perspect. 2012;120(9):1221–9.
+  sentence matching the pattern, whether or not the article was considered          6. Bouki C, Venieri D, Diamadopoulos E. Detection and fate of antibiotic resist-
+  to be eligible or not and why.                                                         ant bacteria in wastewater treatment plants: a review. Ecotoxicol Environ Saf.
+                                                                                         2013;91:1–9.
+  Additional file 4. Analysis for false negatives of random selection of 1750       7. Sabri NA, Schmitt H, Van der Zaan B, Gerritsen HW, Zuidema T, Rijnaarts
+  articles from the 23,217 articles (published between 2006 and 2012) that               HHM, et al. Prevalence of antibiotics and antibiotic resistance genes in a
+  did not match the pattern. Table containing the articles’ Electronic Identi-           wastewater effluent-receiving river in the Netherlands. J Environ Chem Eng.
+  citations, Digital Object Identifier (DOI), link to the article in ­Scopus®,
+  fier (EID), authors, title, publication year, journal, volume, page information,       2018. https​://doi.org/10.1016/j.jece.2018.03.004.
+                                                                                    8. van Wezel AP, van den Hurk F, Sjerps RM, Meijers EM, Roex EW, ter Laak TL.
+  abstract, the sentence that matched the pattern and whether the articles               Impact of industrial waste water treatment plants on Dutch surface waters
+  is considered to be a false negative or not.                                           and drinking water sources. Sci Total Environ. 2018;640:1489–99.
+                                                                                    9. Duizer E, Rutjes S, de Roda-Husman AM, Schijven JJE. Risk assessment, risk
+                                                                                         management and risk-based monitoring following a reported accidental
+                                                                                         release of poliovirus in Belgium, September to November 2014. Eurosurveil-
+                                                                                         lance. 2016;21(11):30169.
+
+Hartmann et al. Environ Evid             (2019) 8:33                                                                                                       Page 15 of 15
+10. Hartmann J, van der Aa M, Wuijts S, de Roda Husman AM, van der Hoek                    data from the national health and nutrition examination survey (NHANES).
+    JP. Risk governance of potential emerging risks to drinking water quality:             Environ Sci Technol. 2007;41(7):2237–42.
+    analysing current practices. Environ Sci Policy. 2018;84:97–104.                   36. Zeilmaker MJ, Janssen P, Versteegh A, van Pul A, de Vries W, Bokkers B, et al.
+11. Halden RU. Epistemology of contaminants of emerging concern and litera-                RIVM report 2016-0049 Risk assessment of the emission of PFOA (in Dutch).
+    ture meta-analysis. J Hazard Mater. 2015;282:2–9.                                      2016, p. 68.
+12. Blaak H, van den Berg HHJL, Docters van Leeuwen AE, Italiaander R, Schalk          37. Bokkers BGH, Versteegh JFM, Janssen PJCM, Zeilmaker MJ. Risk assessment
+    JAC, Rutjes SA, et al. Emerging pathogenen in oppervlaktewater. RIVM rap-              of the exposure to PFOA via drinking water at two Locations (in Dutch). In:
+    port 703719049. 2010:47.                                                               RIVM, editor. Letter 0150/2016/M&V/EvS/AV to the Ministery of Infrastructure
+13. Lodder WJ, Rutjes SA, Takumi K, de Roda Husman AM. Aichi virus in sewage               and the Environment; 2016.
+    and surface water, the Netherlands. Emerg Infect Dis. 2013;19(8):1222–30.          38. Lau C, Anitole K, Hodes C, Lai D, Pfahles-Hutchens A, Seed J. Perfluoro-
+14. La Rosa G, Fratini M, della Libera S, Iaconelli M, Muscillo M. Emerging and            alkyl acids: a review of monitoring and toxicological findings. Toxicol Sci.
+    potentially emerging viruses in water environments. Annali dell’Istituto               2007;99(2):366–94.
+    superiore di sanità. 2012;48:397–406.                                              39. Hansen KJ, Johnson HO, Eldridge JS, Butenhoff JL, Dick LA. Quantitative
+15. Reemtsma T, Berger U, Arp HPH, Gallard H, Knepper TP, Neumann M, et al.                characterization of trace levels of PFOS and PFOA in the Tennessee river.
+    Mind the gap: persistent and mobile organic compounds - water contami-                 Environ Sci Technol. 2002;36(8):1681–5.
+    nants that slip through. Environ Sci Technol. 2016;50:10308–15.                    40. Moody CA, Kwan WC, Martin JW, Muir DCG, Mabury SA. Determination of
+16. Paynter R, Bañez LL, Berliner E, Erinoff E, Lege-Matsuura J, Potter S, et al. EPC      perfluorinated surfactants in surface water samples by two independent
+    methods: an exploration of the use of text-mining software in systematic               analytical techniques: liquid chromatography/tandem mass spectrometry
+    reviews 2016. https​://www.ncbi.nlm.nih.gov/books​/NBK36​2045/#metho​                  and 19F NMR. Anal Chem. 2001;73(10):2200–6.
+    ds.s1. Accessed 26 Mar 2018.                                                       41. Boulanger B, Vargo J, Schnoor JL, Hornbuckle KC. Detection of per-
+17. O’Mara-Eves A, Thomas J, McNaught J, Miwa M, Ananiadou S. Using text                   fluorooctane surfactants in great lakes water. Environ Sci Technol.
+    mining for study identification in systematic reviews: a systematic review of          2004;38(15):4064–70.
+    current approaches. Syst Rev. 2015;4(1):5.                                         42. Giesy JP, Kannan K. Global distribution of perfluorooctane sulfonate in
+18. Fleuren WW, Alkema W. Application of text mining in the biomedical                     wildlife. Environ Sci Technol. 2001;35(7):1339–42.
+    domain. Methods (San Diego, Calif ). 2015;74:97–106.                               43. Reukers D, van Asten L, Brandsema P, Dijkstra F, Donker G, van Gageldonk-
+19. Octaviano FR, Felizardo KR, Maldonado JC, Fabbri SCPF. Semi-automatic                  Lafeber A, et al. Annual report Surveillance of influenza and other respiratory
+    selection of primary studies in systematic literature reviews: is it reasonable?       infections: Winter 2017/2018. 2018.
+    Empir Softw Eng. 2015;20(6):1898–917.                                              44. Loenenbach AD, Beulens C, Euser SM, van Leuken JP, Bom B, van der Hoek
+20. Van de Brug F, Luijckx NL, Cnossen H, Houben G. Early signals for emerging             W, et al. Two community clusters of Legionnaires’ disease directly linked to
+    food safety risks: from past cases to future identification. Food Control.             a biologic wastewater treatment plant, the Netherlands. Emerg Infect Dis.
+    2014;39:75–86.                                                                         2018;24(10):1914.
+21. Sjerps R, Puijker L, Brandt A, ter Laak T. BTO 2015.059 Signals of emerging        45. van Heijnsbergen E, Schalk JA, Euser SM, Brandsema PS, den Boer JW, de
+    compounds (2014–2015) (in Dutch). KWR; 2015.                                           Roda Husman AM. Confirmed and potential sources of Legionella reviewed.
+22. Marshall C, Brereton P, editors. Tools to support systematic literature reviews        Environ Sci Technol. 2015;49(8):4797–815.
+    in software engineering: a mapping study. Empirical software engineering           46. Allestam G, de Jong B, Långmark J. Biological treatment of industrial
+    and measurement, 2013 ACM/IEEE International Symposium on; 2013: IEEE.                 wastewater: a possible source of Legionella infection. Legionella: American
+23. Crisan A, Munzner T, Gardy JL. Adjutant: an R-based tool to support topic              Society of Microbiology; 2006. p. 493–6.
+    discovery for systematic and literature reviews. bioRxiv. 2018. https​://doi.      47. Kusnetsov J, Neuvonen L-K, Korpio T, Uldum SA, Mentula S, Putus T, et al.
+    org/10.1093/bioin​forma​tics/bty72​2.                                                  Two Legionnaires’ disease cases associated with industrial waste water treat-
+24. Sarma G. Scientific literature text mining and the case for open access. J             ment plants: a case report. BMC Infect Dis. 2010;10(1):343.
+    Open Eng. 2017. https​://doi.org/10.7287/peerj​.prepr​ints.2566v​2.                48. Westergaard D, Stærfeldt HH, Tønsberg C, Jensen LJ, Brunak SJPcb. A
+25. Elsevier. 2019. https​://www.elsev​ier.com/solut​ions/scopu​s. Accessed 1 Aug          comprehensive and quantitative comparison of text-mining in 15 million
+    2018.                                                                                  full-text articles versus their corresponding abstracts. PLoS Comput Biol.
+26. Muschelli J. Gathering Bibliometric Information from the Scopus API using              2018;14(2):e1005962.
+    rscopus. R Journal. 2018. http://works​.bepre​ss.com/john_musch​elli/7/.           49. Pirmez C, Brandão AA, Momen H. Emerging infectious disease and fast-track
+27. Conley JM, Symes SJ, Schorr MS, Richards SM. Spatial and temporal analysis             publication: when public health gets priority over the formality of scholarly
+    of pharmaceutical concentrations in the upper Tennessee River basin.                   publishing. Mem Inst Oswaldo Cruz. 2016;111(5):285.
+    Chemosphere. 2008;73(8):1178–87.                                                   50. Neary DG, Baillie BR. Cumulative effects analysis of the water quality risk
+28. Fabbri S, Hernandes E, di thommazo A, Belgamo A, Zamboni A, Silva C. Man-              of herbicides used for site preparation in the Central North Island, New
+    aging Literature reviews information through visualization. In: ICEIS 2012 -           Zealand. Water. 2016;8(12):573.
+    Proceedings of the 14th international conference on enterprise information         51. Sharma S, Malaviya P. Bioremediation of tannery wastewater by chromium
+    systems, vol. 2; 2012. p. 36–45.                                                       resistant novel fungal consortium. J Ecol Eng. 2016;91:419–25.
+29. Feinerer I. Introduction to the tm package text mining in R. 2018. https​://       52. Su H-C, Ying G-G, Tao R, Zhang R-Q, Zhao J-L, Liu Y-S. Class 1 and 2 integrons,
+    cran.r-proje​ct.org/web/packa​ges/tm/vigne​ttes/tm.pdf. Retrieved 1 Mar                sul resistance genes and antibiotic resistance in Escherichia coli isolated
+    2019.                                                                                  from Dongjiang River, South China. Environ Pollut. 2012;169:42–9.
+30. Benoit K, Watanabe K, Wang H, Nulty P, Obeng A, Müller S, et al. quanteda:         53. Hamza IA, Jurzik L, Wilhelm M, Überla K. Detection and quantification of
+    an R package for the quantitative analysis of textual data. J Open Source              human bocavirus in river water. J Gen Virol. 2009;90(11):2634–7.
+    Softw. 2018;3(30):774.                                                             54. Schijven JF, Teunis PF, Rutjes SA, Bouwknegt M, de Roda Husman AM.
+31. Powers DM. Evaluation: from precision, recall and F-measure to ROC,                    QMRAspot: a tool for quantitative microbial risk assessment from surface
+    informedness, markedness and correlation. J Mach Learn Technol.                        water to potable water. Water Res. 2011;45(17):5564–76.
+    2011;2(1):37–63.                                                                   55. Schijven J, Derx J, de Roda Husman AM, Blaschke AP, Farnleitner AHJJ.
+32. Fawcett T. An introduction to ROC analysis. Pattern Recognit Lett.                     QMRAcatch: microbial quality simulation of water resources including infec-
+    2006;27(8):861–74.                                                                     tion risk assessment. J Environ Qual. 2015;44(5):1491–502.
+33. Buck RC, Franklin J, Berger U, Conder JM, Cousins IT, DeVoogt P, et al. Per-
+    fluoroalkyl and polyfluoroalkyl substances in the environment: terminology,
+    classification, and origins. Integr Environ Assess Manag. 2011;7(4):513–41.       Publisher’s Note
+34. Grandjean P, Clapp R. Changing interpretation of human health risks from          Springer Nature remains neutral with regard to jurisdictional claims in pub-
+    perfluorinated compounds. Public Health Rep. 2014;129(6):482–5.                   lished maps and institutional affiliations.
+35. Calafat AM, Kuklenyik Z, Reidy JA, Caudill SP, Tully JS, Needham LL. Serum
+    concentrations of 11 polyfluoroalkyl compounds in the U.S. population:
+

@@ -1,0 +1,333 @@
+Skip to main content
+Advertisement
+Search
+• Explore journals
+• Get published
+• About BMC
+• My account
+Search all BMC articles
+Search
+Environmental Evidence
+• Home
+• About
+• Articles
+• Submission Guidelines
+Download PDF
+• Systematic Map Protocol
+• Open Access
+• Published: 16 August 2019
+What evidence exists for landbird species-environment relationships in eastern temperate and boreal forests of North America? A systematic map protocol
+• Casey A. Lott  ORCID: orcid.org/0000-0002-1130-38891,2,
+• Michael E. Akresh3,
+• Andrew J. Elmore4,
+• Cameron J. Fiss5,
+• Matthew C. Fitzpatrick4,
+• Cara J. Joos6,
+• David I. King7,
+• Darin J. McNeil8,
+• Scott H. Stoleson9 &
+• Jeffery L. Larkin10,11
+Environmental Evidence volume 8, Article number: 31 (2019) Cite this article
+939 Accesses
+4 Altmetric
+Metrics details
+Abstract
+Background
+Eastern temperate and boreal forests of North America contain declining populations of several migratory bird species. Breeding season habitat loss and degradation, and lack of structural complexity, have been proposed as potential drivers of declines. Forest management has moved toward balancing multiple age classes to support sustainable harvest and meet the needs of wildlife associated with different forest types, structural conditions, and landscape configurations. Extensive research on forest bird species-environment relationships has occurred in direct reference to, and outside of, this management context. In this systematic map, we propose to answer the review question: what evidence exists for bird species-environment relationships in eastern temperate and boreal forests of North America? The map will outline the available science for developing spatially-explicit forest management plans to benefit multiple bird species at regional scales. A global review recently found little evidence to support either positive or negative effects of systematic conservation planning on real-world management systems. This result was driven by the widespread absence of measureable criteria to evaluate plan performance and pervasive disconnects between conservation planners and management program evaluators. Successful evaluation of forest management requires, at minimum, the specification of metrics that clearly relate vegetation attributes (predictors) to bird-related outcomes (responses). This systematic map should aid in the selection of evaluation metrics that can be used across the entire planning-implementation-evaluation cycle to: (1) characterize baseline conditions, (2) specify target conditions, (3) and evaluate progress toward achieving targets.
+Methods
+This protocol describes methods to search for, identify, screen, and extract meta-data from primary research studies that report on bird species-environment relationships in eastern temperate and boreal forests of North America. Searches will be conducted using bibliographic databases and grey literature sources suggested by a technical oversight team comprised of practicing foresters and land managers. Inclusion and exclusion criteria will be specified to identify articles containing relevant information for meta-data extraction. Meta-data will be extracted from all eligible studies, summarized in a narrative systematic map report, and made available online as a searchable geodatabase.
+Background
+Many species of Nearctic-Neotropical migrant birds that breed in eastern temperate and/or boreal forests of North America have regional populations that have been declining for several decades [1, 2]. Forest loss and degradation have been implicated as major contributing factors to these declines [3]. In these areas, a number of best forest management practices documents have been published with the stated purpose of benefiting different forest bird species or species groups [4,5,6,7,8,9,10,11,12,13,14,15]. Collectively, these documents contain a variety of qualitative and quantitative forest management recommendations to benefit birds that range in scale from nest site microhabitat to stand characteristics to landscape configuration.
+In theory, if breeding season management recommendations are related to avian reproductive performance or survival and if management recommendations are tied to forest attributes that can be manipulated by managers, the implementation of best management practices at large spatial extents could result in the deceleration, or perhaps even reversal, of bird population declines (if breeding season habitat loss is driving declines). In practice, landscape-scale forest management is subject to multiple constraints. These constraints include, but are not limited to: land ownership, land use policies and regulations, management area accessibility, competing stakeholder objectives, economic pressures that affect demand for forest supplies, and the fact that no single entity has the authority to manage all property types [16, 17]. These constraints make bird habitat conservation inherently dependent on spatial planning, because regional targets for habitat conditions can only be met by understanding the current distribution of forest conditions, how and where conditions have changed over time, and which specific areas are available for management to meet different types of habitat goals.
+For many decades, spatially-explicit harvest scheduling models have been used by entities with large areas of management authority to develop long-term, regional forest management plans, with embedded annual work plans, to meet multiple forestry-related objectives (e.g., cost-effective harvest, sustainable regeneration, fuels reduction) given any set of constraints that can be represented spatially (e.g., maximum percent harvest within a watershed, avoidance of critical habitat units for listed species, limiting the impacts of harvest on a specific viewshed) [18]. When scheduling models are combined with dynamic forest landscape simulation models [19], these decision support tools can be used to compare management alternatives to meet multiple stakeholder objectives over very large areas by comparing alternative sets of parcels (limited by real-world constraints) to be subjected to different types of management [20].
+Regional forest bird conservation planning based on active forest management requires at least four types of information: (1) spatially-explicit measurements of baseline forest conditions; (2) a dynamic forest simulation model that can be used to predict changes in forest composition and structure over time; (3) maps of management constraints that limit the subset of properties, or stands/management units within properties where specific management treatments can occur; and (4) quantitative, accurate descriptions of bird-habitat relationships using identical input variables as forest landscape simulation models. Initial forest management planning, management program implementation, effectiveness monitoring, and adaptive management (using monitoring results to inform new decisions) are practiced to varying degrees throughout eastern and boreal forests in North America [21]. However, these same forest management planning systems have rarely been used for bird conservation planning, despite obvious advantages in terms of: (1) developing bird habitat management targets that link directly to measurements of baseline forest conditions and predictions of future forest conditions; (2) leveraging monitoring associated with current forest management decision support systems to track progress toward reaching bird habitat management targets; and (3) allowing for collaboration with entities that have management authority across the largest extents of forest in most regions (e.g., national forests, state forests, production forests on private lands). This review will help bridge the gap between avian research and conservation scientists and the forest managers that are in position to actively manage forests for bird-related objectives.
+Block and Brennan [22] proposed that “habitat” was the unifying concept in ornithology. Indeed, a topic search of the WOS on May 21, 2019, using the string (bird* OR avian) AND habitat* returned nearly 27,000 articles. A number of review papers have attempted to describe all of the different ways that scientists have used the term “habitat” [23,24,25]. Several recent reviews have suggested that the term “habitat” has been used in so many different ways, to refer to so many different concepts and/or suites of measurements, that rather than providing a unifying framework, it has been a major source of confusion and misunderstanding [26, 27]. Gaillard et al. [28] suggested that there have been two major types of definitions of the term “habitat” in ecology: “functional” and “structural”. Functional definitions see habitat as something that can only be defined relative to a single species. Functional definitions usually include descriptions of specific biotic and/or abiotic resources that are necessary to support the reproduction and survival of a given species. In contrast, structural definitions of habitat are generally NOT species-specific and tend to refer primarily to vegetation associations that exist on their own without reference to their use by wildlife (e.g., “deciduous forest” or “oak forest” habitats) and/or distinct categories of vegetation communities (e.g., “sapling ponderosa pine forest habitat” or “riparian forest habitat”).
+Gaillard et al. [28] suggested that “as long as one recognizes the definition with which one is working” both functional and structural definitions of habitat can lead to useful insights. We agree; however, we also recognize the many challenges that imprecise habitat-related terminology could present to a systematic review. Consequently, we will provide a glossary of terms in our final narrative report that explicitly defines all terminology used in the review. In an attempt to avoid some of the confusion associated with ambiguous habitat-related terminology, we have decided to focus this review on identifying quantitative descriptions of “species-environment relationships”. We prefer this terminology over the more commonly used terms “wildlife habitat relationships” or “species habitat relationships,” since the functional definition of habitat makes clear that “habitat” can include both biotic and abiotic elements or resources in the environment that can be measured independently, without first labeling them as “habitat” or “non-habitat”. In this vein, the term “species-environment relationship” is equally clear when describing quantities as diverse as “the probability of occurrence of bird species x in response to minimum winter temperature”, “the relative abundance of bird species y associated with canopy tree height”; or “nesting success of bird species z as a function of alder-stem density”. In each of these cases, environmental variables that might be used to describe species-environment relationships are specified clearly enough that: (1) they can be directly quantified in the field (without requiring observations for a given bird species) and (2) measurements could be used to describe bird species-environment relationships for any combination of forest attribute and bird species (e.g., “residual basal area values < x relate to high nesting success for species z and are present in 47 patches > 10 acres within our study extent”). This approach may help to clarify which forest attributes could be manipulated by a forest manager to achieve target measurement ranges to benefit bird species x, y, or z.
+Objective of the map
+This systematic map protocol has been informed by a recent global review of systematic conservation planning that demonstrated a widespread failure to directly link the planning and evaluation phases of the adaptive management cycle [29]. Due to pervasive disconnects between plan developers and plan evaluators, the entities that have commissioned systematic conservation and/or management plans have found it difficult to determine whether or not systematic planning has led to real-world benefits that plans were designed to achieve. To avoid this problem during the development of forest bird conservation and management plans, we have structured this review to identify quantitative metrics for both forest attributes and bird responses that could be used to directly link planning and evaluation phases. Specifically, the objective of this systematic map is to describe the evidence base for quantitative relationships between metrics that describe environmental attributes in forests and metrics that describe bird responses to these conditions. This information will increase overlap between the communities of scientists that are involved with conservation planning and follow-up monitoring and the communities of land managers and stakeholders that need to evaluate (and often re-evaluate) management performance.
+Primary question
+The primary question of this systematic map protocol is: What evidence exists for landbird species-environment relationships in eastern temperate and boreal forests of North America?
+Components of the primary question
+Systematic reviews are often described by question components that define the review’s population (e.g., patients with cancer), a specific intervention or exposure (e.g., a clinical trial), and an outcome (e.g., survival or death) [30]. Our primary question does not follow this exact formulation since we are interested in summarizing a broad and heterogeneous evidence base for forest bird species-environment relationships, regardless of whether or not a specific management intervention has occurred. Studies on forest bird species-environment relationships have been conducted using many different study designs and inferences have been drawn from evidence types as diverse as the analysis of empirical data, expert opinion, and many different types of model outputs (Additional file 4). We will summarize this whole evidence base, documenting study designs and evidence types for all relevant studies, with the intention of informing future interventions of conservation planning and management program evaluation at any of the following steps: (1) Characterizing baseline conditions; (2) Setting desired target conditions; and (3) evaluating progress toward targets. However, these interventions are not explicit components of the primary question itself, which is based on two simple components: population and species-environment relationship.
+Population
+Bird species that occur widely across eastern temperate and/or boreal forests of North America. Note: this definition includes two linked components: birds and forests (see Additional file 3 for more details on included bird species and ecological contexts).
+Quantitative relationship
+The relationship between: (1) any measureable attribute in a forest (e.g., vegetation composition, basal area, minimum winter temperature, slope, insect abundance, etc.) and (2) any bird-related response to the forest attribute (e.g., abundance, survival, occurrence, or fitness correlates, etc.). Note: this definition includes two linked components: environmental attributes that can be used as predictors and bird response variables.
+Secondary questions
+We will describe this evidence base relative to which information is available to address the following real-world conservation planning and management program evaluation applications:
+Which pairs of environmental attribute and bird response metrics have been documented with enough frequency, in enough contexts, that their narrative summary or meta-analysis may provide information useful for setting conservation planning or evaluation targets?
+Which pairs of metrics have most frequently been documented in direct association with forest management evaluations?
+Methods
+Searching for articles
+Search terms
+Based on the review team’s knowledge of literature in ornithology, forest ecology, forest management, and habitat conservation, we created preliminary term lists for the bird and forest components of the population. For both lists we started by listing the most general terms that might appear in an abstract (e.g., forest, woodland, bird, avian). We then added slightly more specific terms related to forest types (e.g., hardwood, deciduous) or bird groups (e.g., landbirds, songbirds). Next, for both forests and birds, we added the minimum number of common group names that were necessary to capture the full taxonomic diversity of trees and birds in our study extent (e.g., pine, oak, warbler, vireo). This approach required far fewer terms than a full list of species names. In preliminary tests, searches using common group names found more unique articles than searches using only scientific names (e.g., families or genera). This was because all articles that used scientific names in titles and/or abstracts included common group names as well. The opposite was not true, as searches using scientific names only, and not common group names, routinely missed articles due to the absence of scientific names in many titles and/or abstracts. Searches using both common group names and scientific names rarely found unique references that were not found in searches using group names only. Consequently, we used common group name search terms only. To ensure relevance of this review to the community of practitioners, our initial list of search terms was reviewed by a technical oversight team consisting of public and private lands foresters and management agency biologists. During this review, a suggestion was made to include terms on the forest side of our search string related directly to forest management (e.g., silvicultural treatments or damaging insects) to find articles that may include terms related to forest management in their titles and/or abstracts that may lack terms related to specific forest types or tree species.
+Search strings
+Individual bird or forest terms were connected by OR operators and then combined into a search string using the AND operator with the following basic form:
+((forest population terms) AND (bird population terms)).
+This formulation enforced the dependency of our study population definition where relevant articles must include both forest and bird population elements. While our study question requires both a population element and a quantitative relationship element, we decided not to include a second set of paired search terms related to species-environment relationships that explicitly listed specific forest attributes or bird-related outcomes. We made this decision after preliminary tests showed that title-abstract searches restricted to specific environmental attributes or bird-related outcomes (e.g., “forest patch size and reproductive success”), often failed to find many relevant articles, particularly with information sources where we could only search titles (and not abstracts or keywords). This information was simply not available in many titles, and even in some abstracts. Consequently, we chose the increased sensitivity (and larger number of documents to screen) of a search that did not restrict results to specific species-environment relationships. This decision was designed to reduce the number of relevant articles missed by our search, leading to a more comprehensive summary of the evidence base than we would obtain with a more specific search string.
+Languages
+Across nearly the entire spatial extent of our study population, English is the primary language for scientific publication. English is also the primary language of each of this systematic map’s coauthors. Consequently, we will conduct searches in English and only papers written in English will be screened for eligibility. Our approach may miss relevant articles published in French, which is the primary spoken language in parts of Canada (e.g., Quebec). However, we suspect we will only miss a small number of articles because English is still the primary language of scientific publications in these areas.
+Scoping search
+We conducted a preliminary scoping search on May 21, 2019, using the WOS Core Collection’s Science Citations Index Expanded (SCI-Expanded)—1900-present. This is the academic search engine we are most familiar with and it is commonly used for searches across the subject areas of this review. We did not restrict our search to specific research categories or subjects, as this choice can easily result in the unintended exclusion of relevant articles. We did, however, search only a limited set of 11 out of 41 available document types in WOS: Article, Book, Book Chapter, Correction, Correction: addition, Data Paper, Early Access, Note, Proceedings Paper, Retracted Publication, Retraction, or Review (see WOS’ online help documentation for the full list of document types). This was necessary to exclude articles from clearly non-scientific sources like ‘Dance Performance Review’ or ‘Creative Prose: Fiction’. Using our initial search term list, we conducted sequential queries using the base string (forest) AND (bird), while adding one bird or forest term at a time. We discarded all search terms that did not locate at least 1 new relevant article when added to the base string. A final list of search terms is included as Additional file 1.
+Our initial searches returned many articles related to poultry science or predation on birds by primates outside of North America. Consequently, we added the following small set of 6 exclusion terms related to these two topics to our search string: NOT (poultry OR chicken OR broiler OR primate OR monkey OR chimpanzee). As the inclusion of NOT operators can have the unintended consequences of excluding relevant articles, we used the “Analyze Results” feature in Web of Science to explore the subset of articles that were excluded when these terms were added to our base search string to see if they resulted in the loss of relevant articles. We did not find any relevant articles within the first 300 results (sorted by search relevance) of the subset of articles that were removed from our search results using exclusion terms. Therefore, we included the NOT string in our final searches as it did exclude irrelevant references.
+Given our geographically specific study extent and the global nature of literature related to forest birds, we experimented with using geographic terms as exclusion criteria to limit search results to articles within our geography of interest. In doing so, we found that many potentially useful references were missed due to two main reasons. First, when studies were conducted as part of an international research collaboration, the address of one or more of the coauthors was often from outside of our desired study area extent, resulting in the exclusion of an article from within our desired geography (e.g., abstract searches would locate the address of a coauthor with an institutional address in China that was working on a study in North America). Second, the inclusion of terms for common invasive exotic species (e.g., Japanese knot-weed) in an abstract also resulted in the exclusion of relevant articles from within our study extent. Consequently, we did not use geographic modifiers as exclusion terms in our final search string. This decision resulted in a large number of references from outside of North America to screen. However, many of these were easily excluded based on geographic terms in titles or abstracts. Removing these articles during the screening phase, rather than with our search string, required considerable extra work, but it was the safest way to ensure that we did not exclude useful references from our study population. We note that review articles that have used geographic exclusion terms in search strings may have inadvertently excluded relevant articles for this reason.
+Databases, search engines, and organizational websites
+Additional file 2 lists 51 different information sources that we will search for potentially relevant articles. These sources fell into 4 broad categories: (1) 22 bibliographic databases requiring subscriptions through University Libraries (e.g., WOS, ProQuest); (2) 2 general purpose, web-based search tools (Google Scholar and Microsoft Academic) with minimal transparency regarding their coverage or search algorithms; (3) 4 different web-based search engines for government agency documents (e.g., US Forest Service, Canadian Forest Service); and (4) 22 organizational websites (primarily hosted by NGOS) with limited search capabilities. This list was compiled by all coauthors based on our professional experience locating articles related to the systematic map’s subject areas and was subsequently reviewed and expanded upon by the technical oversight team to ensure comprehensive coverage of grey literature closely associated with forestry.
+At least one member of the review team has access to each of the subscription databases listed in Additional file 2. As we search new subscription databases, we will solicit the advice of library scientists at our sponsoring institutions on how to modify search terms and/or syntax from the search string reported in Additional file 1 (based on the Web of Science) to efficiently retrieve references from other bibliographic sources. Final, database-specific search strings for different bibliographic search engines will be included in the RoSES forms associated with the final systematic map report. We will attempt to use web-crawling software (e.g., Import.io), following documentation in [31] to consolidate results from web-based searches that are not designed to export large lists of search results that are often generated by systematic searches. Additionally, we will use built-in features of the free software Publish or Perish [32] to export search results from Google Scholar and Microsoft Academic to EndNote bibliographic management software.
+Additional search techniques
+Only primary research papers reporting original results will be summarized in our systematic map. However, review papers that are discovered during searches will be stored in our final article library (flagged as reviews) and their bibliographies will be inspected for any primary research papers that we may have missed in the extensive searches above. Review paper bibliographies will be searched after primary sources for each of the information sources listed in Additional file 2 have been located. Any article identified by searching review paper bibliographies will be recorded as such in the RoSES documentation. Similarly, we will read the habitat-related sections of individual species accounts in the Birds of North America (BNA) online reference series for each of our included species. BNA accounts are often the authoritative source of information for North American bird species, although some have not been updated recently. We will check references in habitat-related sections of BNA accounts and add any to our pool of articles to screen that we had not identified previously and meet our eligibility criteria. References identified through these pathways will be recorded as such in our RoSES documentation.
+Ensuring comprehensiveness of the search
+We will summarize source-specific search results in the final systematic report document using RoSES templates [33]. We will also use Venn Diagrams to illustrate overlap or uniqueness of bibliographic sources in terms of how many relevant articles were found in each. To ensure the comprehensiveness of our search we will combine references from at least 50 review papers with relevance to our study question with references from the habitat-related sections of BNA accounts for each of our included species and then remove duplicates. This will generate a list of “test” references that we could have discovered during our search. We will then compare this list to our final list of references identified across all searches. If our search strategy located ≥ 90% of the articles listed in the pooled literature cited list, we will simply add each of the papers that we missed to our list of articles for screening. If our search strategy located < 90% of the articles on this list, we will make a list of the articles we did not find during our searches, and meet as a team to discuss how we might broaden our search (e.g., by searching additional information sources or adding terms to searches we have already completed) to find these references. We will continue searching in this way until we have located ≥ 90% of all references identified in our test set via our independent search.
+Article screening and exclusion criteria
+Screening strategy
+Titles and abstracts for all articles identified by the search strategy above will be imported into EndNote reference management software. Articles will be screened for review eligibility in two steps. First, eligibility will be evaluated using information from article titles and abstracts against eligibility criteria presented below. Articles that clearly do not meet eligibility criteria during title-abstract screening will be recorded as ineligible. When not enough information is available in the title or abstract to make a clear eligibility determination given these criteria, articles will be passed along for full-text screening using the same criteria.
+Study exclusion criteria
+Each study must pass ALL of the eligibility criteria listed below to be included. Six explicit criteria are listed below that could result in an articles exclusion:
+Relevant study type
+Primary research studies only. Review papers will be excluded, but retained for subsequent use in evaluating the comprehensiveness of our search. The same data reported in more than one article will only be reported in association with a single study. Articles will be excluded if they: (1) are review papers or (2) report data that are redundant with data presented in another article.
+Relevant population
+Information must be presented for at least one bird species listed in Additional file 3. Studies must occur within at least one of the eastern temperate and boreal forest ecoregions illustrated in the map in Additional file 3. Articles will be excluded if they: (3) do not include information for any of the study species listed in Additional files 3, 4) do not occur within the study extent defined in Additional file 3.
+Species-environment relationship
+Articles must include quantitative or qualitative information for at least one specific environmental metric and at least one specific bird response metric. Studies will be excluded if they: (5) do not present information on at least one environmental metric, or (6) do not present information on at least one bird response metric.
+Why we did not exclude studies based on study design or evidence type
+In addition to the six exclusion criteria listed above, we considered using criteria related to study design (e.g., spatial comparison, before/after comparison) or evidence type (e.g., empirical, expert opinion, model output) as inclusion/exclusion criteria. However, we found that key information was often missing from titles and/or abstracts that would allow for accurate classification of an article to pre-defined study designs or evidence types (Additional file 4). Consequently, we elected not to use these study characteristics as inclusion/exclusion criteria, but rather to extract this information for each study during full-text metadata extraction (see Data coding strategy). While this will result in more references to extract meta-data from, it will allow us to describe the evidence base for forest bird species-environment relationships by both study design and evidence type in our systematic map report.
+Relevant language
+English.
+Locating full text articles
+We will apply the following 5 methods, sequentially, to locate full-text articles for full-text eligibility screening and meta-data extraction (from eligible articles): (1) internet search using the built in “Find Full Text” feature of EndNote; (2) direct download from subscription journals available via university libraries where members of the review team have affiliations; (3) internet search and download using Google Scholar; (4) direct pdf reprint request from authors; and (5) inter-library loan. We will provide a list of studies excluded at full text with reasons for exclusion as a additional file to our systematic map report.
+Assessing consistency in eligibility screening
+We expect that the corresponding author will be responsible for the majority of screening decisions at both the title-abstract stage and full-text stage (30–50%). However, all authors will participate in both title-abstract and full-text screening. At the beginning of the title-abstract screening process, a random subset of 100 articles will be independently screened for inclusion/exclusion by each member of the review team. Each reviewer will be blind to the decisions made by other reviewers. Paired kappa tests will be conducted to evaluate the agreement of decisions related to inclusion/exclusion criteria among all pairs of reviewers. All reviewers will meet to discuss discrepancies in their assessments and inclusion/exclusion criteria will be adjusted to promote greater agreement. For example, all authors participated in a pilot title-abstract screening consistency test prior to finalizing this protocol. The meeting to discuss inclusion/exclusion discrepancies led to clarification of criteria for defining our study population, reported here, and the decision to treat evidence type as a field for meta-data extraction instead of using it as an eligibility criterion. Any deviations from this protocol that emerge from subsequent reviewer meetings to discuss screening tests will be reported in the systematic map report. If any pair of reviewers has a kappa score < 0.6 during subsequent consistency tests for the title-abstract screening phase, an additional 100 articles will be randomly selected and evaluated for eligibility by each coauthor and paired kappa statistics will be recalculated. This process will continue until the kappa statistic > 0.6 is obtained for all pairs of reviewers. At this point, eligibility criteria will be finalized and all articles will be evaluated at the title-abstract stage. At the beginning of the full-text review process, the same type of consistency test, using 50 randomly selected full-text articles, will be repeated in order to determine if eligibility determinations are consistent among all pairs of reviewers at the full text scale, with additional meetings to discuss potential reasons for any discrepancies and to refine eligibility criteria to achieve greater agreement among screeners.
+Data coding strategy
+Extraction and coding of study findings
+Data extraction and coding will occur for all studies that have met eligibility criteria once both the title-abstract and full-text screening phases have been completed. Metadata will be extracted to Excel spreadsheets (Additional file 4) with picklists specified for many data fields to ensure consistent sets of categories are used by all reviewers. The fundamental recording unit for metadata extraction will be each unique combination of a study and a forest bird species-environment relationship. Given this reporting unit, individual studies may contribute > 1 species-environment relationship to this database if they provide data on multiple relationships.
+In addition to basic citation information (e.g., author, title, journal, publication year), meta-data for 14 different fields be extracted for each unique study × relationship combination during data coding (Additional file 4). This includes 2 fields describing the species-environment relationship, 4 fields with information on study characteristics (e.g., evidence type, study design), 1 field for listing bird species, and 5 fields related to study location. The full review team will meet to discuss the metadata extraction process and develop a common understanding for the different classification schemes involved. This will result in the creation of guidance text that will be approved by all authors prior to metadata extraction. This text will be provided as a additional file in the final systematic map narrative report text. Because our objective is to characterize the current evidence base in published or publically available sources, we do not intend to contact study authors to obtain missing information.
+Consistency in metadata extraction and coding
+We expect that a large fraction of metadata extraction (30–50%) will be done by the corresponding author and that at least 3 additional coauthors will participate in metadata extraction. Consequently, before data extraction begins in earnest, a random selection of 30 articles will be subjected to independent data extraction by the corresponding author and each of the additional members of the review team that will be extracting study metadata. Individuals will not communicate with each other during this pilot metadata extraction. After independent metadata coding has been completed by each of the participating members of the review team, it will be sent to the remaining members of the review team that did not participate in metadata extraction. These individuals will meet and compare study metadata forms among independent review team members. Due to the large number of fields associated with metadata extraction, there will be no statistical comparison of coding results by different members of the review team. Rather, the members of the review team that participate in this evaluation will develop consensus as to whether or not data extraction is consistent among individuals and consistent with the metadata extraction guidance document. This team will identify cases where metadata extraction is not consistent and the full review team will meet to resolve these discrepancies; resulting in the revision of metadata extraction guidance text if necessary. At this point, if metadata extraction is deemed inconsistent, an additional 20 articles will be subjected to coding by each of the review team members participating in metadata extraction. Results from this second set of independent metadata extraction will be subjected to the same evaluation as above. This process (re-coding of 20 new randomly selected references) will continue until all members of the review team are satisfied that metadata extraction is consistent. Then, all coauthors will meet to finalize the metadata extraction guidance document. At this point, metadata extraction will commence for all eligible articles. The members of the review team that do not participate in metadata extraction, but who participate in evaluating consistency, will write a short report describing this process that will be presented as a additional file in the final narrative systematic map report document.
+Study validity assessment
+We will not complete a critical validity assessment of this evidence base for this systematic map. However, several different study characteristics (evidence type, study design, etc.) will be recorded during meta-data extraction (Additional file 4) to help describe the characteristic qualities of this evidence base that may help to give a preliminary idea of the rigor applied.
+Study mapping and presentation
+We will present results in a systematic map narrative report, following RoSES templates and CEE guidelines, with tables, figures, and narrative text summarizing the evidence base relative to different species-environment relationships with consideration of the study characteristics recorded during metadata extraction (Additional file 4). In addition to the narrative report, we will provide an open-access interactive map online, with study locations represented as geographic coordinates, which will be recorded during data extraction. Our final data extraction form will provide the input for this interactive map, allowing users to explore the full evidence base for bird species-environment relationships by filtering on species, relationship, study design, evidence type, geography, or any other metadata fields in Additional file 4. This map will be available for download as a file geodatabase. The systematic map protocol document and the systematic map report will accompany both the online map tool and the file geodatabase as metadata. Standard metadata for this systematic map protocol is included in Additional file 5.
+Availability of data and materials
+In addition to the data summarized in the online map and the supporting narrative report, additional information on datasets used and/or analyzed during the current study will be available from the corresponding author on reasonable request.
+References
+• 1.
+Askins RA, Lynch JF, Greenberg R. Population declines in migratory birds in eastern North America. Curr Ornithol. 1990;7:1–57.
+Google Scholar
+• 2.
+Rich TD, Beardmore CJ, Berlanga H, Blancher PJ, Bradstreet MSW, Butcher GS, et al. Partners in flight North American Landbird conservation plan. Ithaca: Cornell Lab of Ornithology; 2004.
+Google Scholar
+• 3.
+Rappole JH, MacDonald MV. Cause and effect in population declines of Migratory Birds. Auk. 1994;111(3):652–60.
+Google Scholar
+• 4.
+Rosenberg KV, Rohrbaugh RW, Barker SE, Lowe JD, Hames RS, Dhondt AA. A land managers guide to improving habitat for scarlet tanagers and other forest-interior birds. Ithaca: Cornell Lab of Ornithology; 1999.
+Google Scholar
+• 5.
+Rosenberg KV, Hames RS, Rohrbaugh RW, Swarthout SB. A land manager’s guide to improving habitat for forest thrushes. Ithaca: Cornell Lab for Ornithology; 2003.
+Google Scholar
+• 6.
+Institute WM. Best management practices for Woodcock and associated Bird Species: Upper Great Lakes Woodcock and Young Forest Initiative. Washington: Wildlife Management Institute; 2009.
+Google Scholar
+• 7.
+Institute WM. American Woodcock habitat: best practices for the Central Appalachian Mountains region. Washington: Wildlife Management Institute; 2008.
+Google Scholar
+• 8.
+Institute WM. Young forest guide. Washington: Wildlife Management Institute; 2014.
+Google Scholar
+• 9.
+Burke D, Elliott K, Falk KH, Piraino T. A land manager’s guide to conservating habitat for forest birds in southern Ontario. Manotick: Ontario Ministry of Natural Resources; 2011.
+Google Scholar
+• 10.
+Bakermans MH, Larkin JL, Smith BW, Fearer TM, Jones BC. Golden-winged Warbler habitat best management practices for forestlands in Maryland and Pennsylvania. Virginia: The Plains; 2011.
+Google Scholar
+• 11.
+Wood PB, Sheehan J, Keyser P, Buehler D, Larkin J, Rodewald AD, et al. Management guidelines for enhancing Cerulean Warbler breeding habitat in Appalachian hardwood forests. The Plains: American Bird Conservancy; 2013.
+Google Scholar
+• 12.
+Rodewald AD. Managing forest birds in southeast Ohio: a guide for land managers. Columbus: Ohio State University; 2013.
+Google Scholar
+• 13.
+Lambert JD, McFarland KP, Rimmer CC. Guidelines for managing Bicknell’s Thrush habitat in the United States. Hartland: High Branch Conservation Services; 2017.
+Google Scholar
+• 14.
+Group G-WWW. Best management practices for Golden-Winged Warbler habitat in the Appalachian Mountains: a guide for land managers and land owners. Ithaca: Cornell Lab of Ornithology; 2013.
+Google Scholar
+• 15.
+Group G-WWW. Best management practices for Golden-Winged Warbler habitats in the Great Lakes region. Ithaca: Cornell Lab of Ornithology; 2013.
+Google Scholar
+• 16.
+Rands MRW, Adams WM, Bennun L, Butchart SHM, Clements A, Coomes D, et al. Biodiversity conservation: challenges beyond 2010. Science. 2010;329(5997):1298–303.
+CAS  Article  Google Scholar
+• 17.
+Ciuzio E, Hohman WL, Martin B, Smith MD, Stephens S, Strong AM, et al. Opportunities and challenges to implementing bird conservation on private lands. Wildl Soc Bull. 2013;37(2):267–77.
+Article  Google Scholar
+• 18.
+Bettinger P, Boston K, Sessions J, McComb WC. Intergrating wildlife species habitat goals and quantitative land management planning processes. In: Johnson DH, O’Neil TA, editors. Wildlife-habitat relationships in Oregon and Washington. Corvallis: Oregon State University Press; 2001. p. 567–79.
+Google Scholar
+• 19.
+Shifley SR, He HS, Lischke H, Wang WJ, Jin W, Gustafson EJ, et al. The past and future of modeling forest dynamics: from growth and yield curves to forest landscape models. Landscape Ecol. 2017;32(7):1307–25.
+Article  Google Scholar
+• 20.
+Michanek G, Bostedt G, Ekvall H, Forsberg M, Hof AR, de Jong J, et al. Landscape planning-paving the way for effective conservation of forest biodiversity and a diverse forestry? Forests. 2018;9(9):15.
+Article  Google Scholar
+• 21.
+Millspaugh JJ, Thompson FR. Models for planning wildlife conservation in large landscapes. Cambridge: Academic Press of Elsevier; 2009.
+Google Scholar
+• 22.
+Block WM, Brennan LA. The habitat concept in Ornithology. Curr Ornithol. 1993;11:35–91.
+Article  Google Scholar
+• 23.
+Hall LS, Krausman PR, Morrison ML. The habitat concept and a plea for standard terminology. Wildl Soc Bull. 1997;25:173–82.
+Google Scholar
+• 24.
+Johnson DH, O’Neil TA. Wildlife habitat relationships in Oregon and Washington. Corvallis: Oregon State University Press; 2001.
+Google Scholar
+• 25.
+Morrison ML, Marcot BG, Mannan RW. Wildlife-habitat relationships: concepts and applications. 2nd ed. Washington: Island Press; 2006.
+Google Scholar
+• 26.
+Guthery FS, Stickland BK. Exploration and critique of habitat and habitat quality. In: Morrison ML, Mathewson HA, editors. Wildlife habitat conservation: concepts, challenges, and solutions. Baltimore: Johns Hopkins University Press; 2015. p. 9–18.
+Google Scholar
+• 27.
+Morrison ML, Mathewson HA. The misunderstanding of habitat. In: Morrison ML, Mathewson HA, editors. Wildlife habitat conservation: concepts, challenges, and solutions. Baltimore: Johns Hopkins University Press; 2015. p. 3–8.
+Google Scholar
+• 28.
+Gaillard JM, Hebblewhite M, Loison A, Fuller M, Powell R, Basille M, et al. Habitat-performance relationships: finding the right metric at a given spatial scale. Philos Trans R Soc Lond B Biol Sci. 2010;365(1550):2255–65.
+Article  Google Scholar
+• 29.
+McIntosh EJ, Chapman S, Kearney SG, Williams B, Althor G, Thorn JPR, et al. Absence of evidence for the conservation outcomes of systematic conservation planning around the globe: a systematic map. Environ Evid. 2018;7(22):1–23.
+Google Scholar
+• 30.
+Evidence CfE. Guidelines and standards for evidence synthesis in environmental management, version 5.0. 2018. http://www.environmentalevidence.org/information-for-authors. Accessed 3 Dec 2018.
+• 31.
+Haddaway NR, Collins AM, Coughlin D, Kirk S. A rapid method to increase transparency and efficiency in web-based searches. Environ Evid. 2017;6(1):22.
+Article  Google Scholar
+• 32.
+Harzing AW. Publish or Perish 2007. https://harzing.com/resources/publish-or-perish.
+• 33.
+ROSES. RepOrting standards for Systematic Evidence Syntheses in environmental research 2017. https://www.roses-reporting.com/.
+• 34.
+Haddaway NR, Macura B, Whaley P, Pullin AS. ROSES for systematic review protocols. Version 1.0. 2017. https://doi.org/10.6084/m9.figshare.5897269.v4.
+Download references
+Acknowledgements
+The authors thank all members of the 7-member Technical Oversight Team for this systematic map, including: Bridgett Costanzo, Eunice Padley, Matthew Duvall, and Don Riley of NRCS; Daniel Rider of the Maryland Department of Natural Resources; Joseph Petroski of Pennsylvania Department of Conservation and Natural Resources and Christine Cadigan of the American Forest Foundation.
+Funding
+This systematic map was commissioned and partially funded by the United States Department of Agriculture-Natural Resources Conservation Service (NRCS).
+Author information
+Affiliations
+Conservation Science & Data Visualization, Boise, ID, USA
+Casey A. Lott
+Indiana University of Pennsylvania-Research Institute, Indiana, PA, USA
+Casey A. Lott
+Department of Environmental Conservation, University of Massachusetts, Amherst, MA, USA
+Michael E. Akresh
+Appalachian Laboratory, University of Maryland Center for Environmental Science, Frostburg, MD, USA
+Andrew J. Elmore & Matthew C. Fitzpatrick
+Department of Environmental and Forest Biology, State University of New York College of Environmental Science and Forestry, Syracuse, NY, USA
+Cameron J. Fiss
+Central Hardwoods Joint Venture, American Bird Conservancy, Columbia, MO, USA
+Cara J. Joos
+USDA Forest Service, Northern Research Station, University of Massachusetts, Amherst, MA, USA
+David I. King
+Dep’t of Natural Resources and Lab of Ornithology, Cornell University, Ithaca, NY, USA
+Darin J. McNeil
+USDA Forest Service, Northern Research Station, Irvine, PA, USA
+Scott H. Stoleson
+Department of Biology, Indiana University of Pennsylvania, Indiana, PA, USA
+Jeffery L. Larkin
+American Bird Conservancy, The Plains, VA, USA
+Jeffery L. Larkin
+Authors
+• Casey A. Lott
+View author publications
+You can also search for this author in PubMed Google Scholar
+• Michael E. Akresh
+View author publications
+You can also search for this author in PubMed Google Scholar
+• Andrew J. Elmore
+View author publications
+You can also search for this author in PubMed Google Scholar
+• Cameron J. Fiss
+View author publications
+You can also search for this author in PubMed Google Scholar
+• Matthew C. Fitzpatrick
+View author publications
+You can also search for this author in PubMed Google Scholar
+• Cara J. Joos
+View author publications
+You can also search for this author in PubMed Google Scholar
+• David I. King
+View author publications
+You can also search for this author in PubMed Google Scholar
+• Darin J. McNeil
+View author publications
+You can also search for this author in PubMed Google Scholar
+• Scott H. Stoleson
+View author publications
+You can also search for this author in PubMed Google Scholar
+• Jeffery L. Larkin
+View author publications
+You can also search for this author in PubMed Google Scholar
+Contributions
+CAL, JLL, AJE, and MCF conceived of the review topic. All coauthors collaborated to produce Additional files 1 and 3. CL created an initial draft of Additional file 2, which was reviewed by all coauthors. CLL and MEA collaborated to produce Additional file 4. The technical oversight committee reviewed and provided comments on Additional files 1 and 2. All authors read and approved the final manuscript.
+Corresponding author
+Correspondence to Casey A. Lott.
+Ethics declarations
+Ethics approval and consent to participate
+Not applicable.
+Consent for publication
+Not applicable.
+Competing interests
+The authors declare that they have no competing interests.
+Additional information
+Publisher's Note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Additional files
+Additional file 1. Web of Science search string and settings.
+Additional file 2. Information sources to be searched for relevant articles.
+Additional file 3. Study population map and description listing all included bird species and ecoregions.
+Additional file 4. List of fields for metadata extraction from relevant articles.
+Additional file 5. RoSES reporting form [34].
+Rights and permissions
+Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+Reprints and Permissions
+About this article
+Cite this article
+Lott, C.A., Akresh, M.E., Elmore, A.J. et al. What evidence exists for landbird species-environment relationships in eastern temperate and boreal forests of North America? A systematic map protocol. Environ Evid 8, 31 (2019). https://doi.org/10.1186/s13750-019-0170-6
+Download citation
+Received: 17 December 2018
+Accepted: 15 June 2019
+Published: 16 August 2019
+DOI: https://doi.org/10.1186/s13750-019-0170-6
+Keywords
+• Wildlife-habitat relationships
+• Silviculture
+• Forestry
+• Adaptive management
+• Evaluation
+• Migratory birds
+• Systematic conservation planning
+Download PDF
+Advertisement
+Environmental Evidence
+ISSN: 2047-2382
+Contact us
+• Submission enquiries: Access here and click Contact Us
+• General enquiries: info@biomedcentral.com
+• Read more on our blogs
+• Receive BMC newsletters
+• Manage article alerts
+• Language editing for authors
+• Scientific editing for authors
+• Policies
+• Accessibility
+• Press center
+• Support and Contact
+• Leave feedback
+• Careers
+Follow BMC
+• BMC Twitter page
+• BMC Facebook page
+• BMC Weibo page
+By using this website, you agree to our Terms and Conditions, Privacy statement and Cookies policy. Manage the cookies we use in the preference centre.
+© 2020 BioMed Central Ltd unless otherwise stated. Part of Springer Nature.

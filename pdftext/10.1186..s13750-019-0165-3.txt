@@ -1,0 +1,378 @@
+Berger‑Tal et al. Environ Evid 2019, 8(Suppl 1):18
+https://doi.org/10.1186/s13750-019-0165-3                                                                             Environmental Evidence
+  SYSTEMATIC REVIEW PROTOCOL                                                                                                                            Open Access
+What evidence exists on the effects
+of anthropogenic noise on acoustic
+communication in animals? A systematic map
+protocol
+Oded Berger‑Tal1* , Bob B. M. Wong2, Ulrika Candolin3 and Jesse Barber4
+  Abstract
+  Background: Noise pollution is an intense, widespread anthropogenic disturbance that can have highly detrimental
+  impacts on natural populations, communities, and ecosystems across the globe. One major way through which noise
+  can affect wildlife is by masking acoustic signals that animals rely on and, in doing so, hindering inter- and intraspe‑
+  cific communication among individuals. In response, many animals change their vocal behavior in an attempt to
+  overcome the signal- and cue-masking effects of noisy environments. This can be done by changing the amplitude of
+  the vocal output, shifting its frequency, or changing its temporal structure. However, to date, we still know very little
+  about the ecological contexts of signal modifications in animals or their fitness consequences. We present a protocol
+  for a systematic map aiming to collect and characterize all research done on animals’ signal modification in response
+  to anthropogenic noise. The map will increase our understanding of the consequences of noise pollution on animal
+  communication and may guide the development of new mitigation tools to alleviate any negative effects. The map
+  will also allow us to identify gaps in the literature and highlight possible future research areas.
+  Methods: We will collect information about different types of acoustic modifications in response to noise as well as
+  information about the noise’s source and properties. The map will also include the ecological context of the signal
+  modification and the fitness consequences of the modification, if measured. We will search both commercially pub‑
+  lished literature and grey literature, and conduct the searches in academic journal databases, online search engines,
+  and specialist websites. Articles will be screened for inclusion at title, abstract and full-text levels and will then be
+  critically appraised for study robustness and validity. Data will then be extracted and coded according to categories
+  informed by consultation with stakeholders. Data will be summarized in a quantitative manner, accompanied with a
+  narrative review that will map our knowledge on how animals change their vocalizations in response to noise pollu‑
+  tion as a function of their taxa, geographic location, noise pollution source, and vocalization type.
+  Keywords: Acoustic adaptation, Conservation behavior, Frequency shift, Lombard effect, Noise pollution,
+  Soundscape, Vocal modification
+*Correspondence: bergerod@bgu.ac.il
+1
+  Mitrani Department of Desert Ecology, Ben-Gurion University
+of the Negev, 8499000 Midreshet Ben Gurion, Israel
+Full list of author information is available at the end of the article
+                                              © The Author(s) 2019. This article is distributed under the terms of the Creative Commons Attribution 4.0 International License
+                                              (http://creat​iveco​mmons​.org/licen​ses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium,
+                                              provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license,
+                                              and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creat​iveco​mmons​.org/
+                                              publi​cdoma​in/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+
+Berger‑Tal et al. Environ Evid 2019, 8(Suppl 1):18                                                                Page 2 of 7
+Background                                                    the temporal structure of the call (timing of modula-
+Anthropogenic noise has dramatically increased over           tions, notes, and syllables within the calls, [21]); and
+the last decades as a result of population growth, urbani-    (iv) altering the timing of the call delivery (e.g., changes
+zation, globalization of transportation networks, and         to the repetition rates of the call).
+expansion of resource extractions [1, 2], making noise an        While there is already considerable evidence on
+intense, widespread anthropogenic disturbance. A grow-        how animals modify their vocalizations in response
+ing body of evidence suggests that this noise may have        to anthropogenic noise, we still have large gaps in our
+highly detrimental impacts on natural populations, com-       knowledge. So far, most reviews or studies on signal
+munities, and ecosystems [3, 4]. Notably, these deleteri-     modification in response to noise pollution seem to
+ous effects are not limited to densely populated areas,       have mostly ignored the grey literature on the subject
+such as cities, but may also have negative consequences       and have focused almost exclusively on one type of
+for animal populations in natural, protected areas [5].       modification (such as changes to amplitude, or changes
+  Recent reviews have sought to gain mechanistic              to frequency) even though the probable interactions
+insights into the direct and indirect effects of noise pol-   among the different call components are likely to be
+lution on animals in order to provide wildlife managers       important [22]. Moreover, the ecological context of
+and policy makers with effective mitigation tools [3, 6,      the calls has often been ignored, which may have cre-
+7]. Noise pollution can be directly perceived by animals      ated a bias towards some type of calls (e.g., territo-
+as a threat, causing them to increase costly anti-preda-      rial or mating calls) over others (e.g., parent–offspring
+tory behaviors (at the expense of foraging) or to flee the    calls or alarm calls) [21, 23]. Lastly, we know very little
+area altogether [8]; noise can distract foragers, reducing    about the fitness consequences of signal modifications.
+their efficiency of finding and handling food [9]; noise      On the one hand, these modifications are a supposedly
+may increase physiological stress levels [6]; and noise       adaptive response to the masking effect of noise. On
+may have indirect effects, such as scaring away prey or       the other, they can impose various fitness costs, such
+attracting predators [3, 10]. Another major mechanism         as increasing the energetic demands on the caller, and
+that has been suggested to drive the deleterious impact of    reducing the effectiveness of the call itself by reduc-
+noise pollution on wildlife populations—and which may         ing the ability of conspecifics to effectively detect and
+be particularly disruptive for acoustically communicat-       respond appropriately to the signal [21]. This has led
+ing species, such as birds, frogs or marine mammals—is        many researchers to pinpoint the fitness effects of sig-
+interference with signal and cue detection, i.e., mask-       nal modifications as a vital avenue for future research
+ing acoustic communication between individuals or the         (e.g., [20, 21, 23]). The following protocol for a system-
+sounds of an approaching predator or potential prey [3,       atic map aims to address the abovementioned needs
+11]. Noise can hinder animal communication by reduc-          and limitations of the current state of evidence.
+ing the distance at which a signal can be detected [12],
+limiting the ability of the signal to reach its intended
+receiver, and decreasing the amount of information that       Stakeholder engagement
+can be extracted from a signal [13, 14]. For example, it      Understanding the fitness consequences of signal
+has been shown that noise pollution can reduce the abil-      modification due to noise pollution was raised as a
+ity of birds to collect information on their surroundings,    top priority among wildlife managers and behavioural
+increase their predation risk (by masking the sounds of       ecologists during a recent international workshop
+predators), and interfere with signals that are crucial for   designed to develop the first set of discipline guidelines
+their breeding success and parental care (e.g., [3, 15, 16]). for using evidence synthesis as a tool for applying ani-
+  Animals can behaviorally react to anthropogenic             mal behaviour research to management and policy [24].
+noise in various ways, such as by moving away from the        We contacted relevant stakeholders both from within
+source of the noise (either temporarily or permanently),      (behavioral ecologists, conservation biologists, sensory
+temporally adjusting their own activities to avoid the        ecologists), and outside of, (birders, wildlife manag-
+noisiest times of the day, or increasing their anti-pred-     ers, and conservation biologists from various birding
+ator behavior [3]. In addition, many animals change           or conservation organizations) academia (Additional
+their vocal behavior in an attempt to overcome the cue-       file 1), and asked them for information about the topic,
+masking effects of the noisy environment (both natu-          as well as for their advice regarding important avenues
+ral and anthropogenic) [1]. The most noticeable vocal         for investigation. We used the stakeholders input to
+adjustments made by animals are: (i) changing the             define the scope of the evidence synthesis, identify rel-
+amplitude of the call (the Lombard effect, [17, 18]); (ii)    evant data-bases for our searches, and refine the search
+shifting the frequency of the call [19, 20]; (iii) changing   terms.
+
+Berger‑Tal et al. Environ Evid 2019, 8(Suppl 1):18                                                            Page 3 of 7
+Objectives                                                   checked whether the keywords successfully returned
+We aim to systematically map all research done on            the reviews and a selection of their key references
+acoustic signal modification in response to anthropo-        (Additional file 3). We will use the search string using
+genic noise by all animals in both terrestrial and marine    Boolean operators which will be modified in accord-
+environments. We will consider all types of signal modi-     ance with the specific database we will be searching.
+fications: changes in amplitude, frequency, temporal         The search string keywords represent the exposure
+structure, and phenology of any type of vocalization (e.g.,  (anthropogenic noise) and the outcome of the primary
+courtship calls, territorial calls, alarm calls, etc.). The  question (change in vocalization). Population and com-
+resulting map will increase our understanding of the con-    parator will be screened from the results (i.e. studies
+sequences of noise pollution on animal communication         focusing on the effects of noise on humans or that have
+and may guide the development of new mitigation tools        no comparator will be excluded). All searches will be
+to alleviate any negative effects. The map will also allow   conducted using Ben-Gurion University’s institutional
+us to identify gaps in the literature and highlight possible subscription. In cases when this subscription will not
+future research areas.                                       provide access to the full text of an article, we will use
+                                                             one of the other authors’ university subscriptions, or
+Primary question                                             contact the paper’s author directly. The search string is
+How do animal modify their vocalizations in response to      as follows (in a Web of Science format):
+anthropogenic noise?                                           Exposure: ts = (noise OR acoust* OR soundscape*)
+                                                             AND (pollut* OR artificial* OR anthropogen* OR urban
+Components of the primary question                           OR disturb* OR *sonar OR “air gun*” OR vehicle* OR
+                                                             road* OR transportation OR *plane* OR turbine* OR
+      Population All animal species.                         ship* OR broadcast OR playback OR “white noise”)
+      Exposure Anthropogenically produced noise                AND
+      (regardless of its source).                              Outcome: ts = (signal* NEAR/3 modif*) OR (signal*
+      Outcome Changes to the amplitude, frequency, tem-      NEAR/3 change*) OR (signal* NEAR/3 alter*) OR (signal*
+      poral structure, and phenology (timing) of any type    NEAR/3 shift*) OR (signal* NEAR/3 modulat*) OR (sig-
+      of vocalizations.                                      nal* NEAR/3 increas*) OR (signal* NEAR/3 decreas*) OR
+      Comparator Animals not exposed to anthropogenic        (call* NEAR/3 modif*) OR (call* NEAR/3 change*) OR
+      noise.                                                 (call* NEAR/3 alter*) OR (call* NEAR/3 shift*) OR (call*
+                                                             NEAR/3 modulat*) OR (call* NEAR/3 increas*) OR (call*
+                                                             NEAR/3 decreas*) OR (song* NEAR/3 modif*) OR (song*
+Methods                                                      NEAR/3 change*) OR (song* NEAR/3 alter*) OR (song*
+The map protocol follows CEE guidelines [25] and com-        NEAR/3 shift*) OR (song* NEAR/3 modulat*) OR (song*
+plies with the ROSES reporting standards (Additional         NEAR/3 increas*) OR (song* NEAR/3 decreas*) OR
+file 2).                                                     (vocal* NEAR/3 modif*) OR (vocal* NEAR/3 change*)
+                                                             OR (vocal* NEAR/3 alter*) OR (vocal* NEAR/3 shift*)
+Searching for articles                                       OR (vocal* NEAR/3 modulat*) OR (vocal* NEAR/3
+Languages                                                    increas*) OR (vocal* NEAR/3 decreas*) OR (whistle*
+All searches will be conducted using English search          NEAR/3 modif*) OR (whistle* NEAR/3 change*) OR
+terms, but no restriction will be placed on result lan-      (whistle* NEAR/3 alter*) OR (whistle* NEAR/3 shift*)
+guage. We will aim to find translators for any relevant      OR (whistle* NEAR/3 modulat*) OR (whistle* NEAR/3
+article (or report) written in a language other than Eng-    increas*) OR (whistle* NEAR/3 decreas*) OR (frequency
+lish that will pass through all screening stages (the        NEAR/3 modif*) OR (frequency NEAR/3 change*) OR
+authors themselves are able to translate results from        (frequency NEAR/3 alter*) OR (frequency NEAR/3
+Hebrew, Spanish, Swedish, Norwegian, Danish, Finnish,        shift*) OR (frequency NEAR/3 modulat*) OR (frequency
+German, and French).                                         NEAR/3 increas*) OR (frequency NEAR/3 decreas*) OR
+                                                             (amplitude NEAR/3 modif*) OR (amplitude NEAR/3
+Search string
+                                                             change*) OR (amplitude NEAR/3 alter*) OR (amplitude
+We conducted a scoping exercise in Web of Science            NEAR/3 shift*) OR (amplitude NEAR/3 modulat*) OR
+in which we tested the impact of adding or modifying         (amplitude NEAR/3 increas*) OR (amplitude NEAR/3
+relevant keywords in terms of the number of papers           decreas*) OR “signal* plasticity” OR “call* plasticity”
+added to the search results and their relevance. We also     OR “song* plasticity” OR “vocal* plasticity” OR lom-
+chose three key reviews [18, 20, 21] on the subject and      bard OR “acoustic adaptation” OR “frequenc* shift*” OR
+
+Berger‑Tal et al. Environ Evid 2019, 8(Suppl 1):18                                                                Page 4 of 7
+phenolog* OR “nocturnal sing*” OR “nocturnal call*” OR       Specialist sources
+“evoked vocal response*”)                                    Websites of the following organizations will be searched
+  When possible, the search will be limited to journals on   for any relevant literature.
+the broad topics of biology (including ecology and zool-
+ogy), environmental sciences, urban studies, acoustic,          • IUCN general publications (https​://porta​ls.iucn.org/
+and multidisciplinary studies.                                      libra​r y/dir/publi​catio​ns-list).
+                                                                • IUCN Conservation Planning Specialist Group
+Abbreviated search                                                  (http://www.cpsg.org/docum​ent-repos​itory​).
+Where a complex search string is not accepted, searches         • Conservation Evidence (https​://www.Conse​r vati​
+will aim to include at least one term for exposure and              onEvi​dence​.com).
+one for outcomes. All modified search strings will be           • US Federal Science database (https​://www.scien​
+recorded.                                                           ce.gov/).
+                                                                • National Parks Service (https​://www.nps.gov/).
+                                                                • US Fish & Wildlife Service (http://www.fws.gov/).
+Estimating comprehensiveness of search                          • Wildlife Conservation Society (http://libra​r y.wcs.
+To evaluate the performance of the search strategy, we              org/).
+compared the results of our search with a test list of 42
+articles compiled from three recent published reviews
+                                                                All methods of retrieval for grey literature will be doc-
+on different specific signal modifications in response to
+                                                             umented and presented in a supplementary file for the
+anthropogenic noise (i.e., changes in amplitude, changes
+                                                             final publication.
+in frequency) [18, 20, 21]. The search string was then
+amended and tweaked to maximize the inclusion of rel-
+evant papers. Following the search, six papers were found
+                                                             Article screening and study eligibility criteria
+to be not relevant for the map’s topic. Out of the remain-
+                                                             Study screening process
+ing 36 articles, the final search yielded 27. The missing
+                                                             We will conduct the screening process through the online
+nine were articles without abstracts (an inherent bias
+                                                             open source platform of CADIMA (https​://www.cadim​
+of the search in ISI); however going over these papers
+                                                             a.info/). CADIMA’s platform facilitates extraction of arti-
+revealed that in all of them, our keywords were found in
+                                                             cles, removal of duplicate studies, a three-stage screen-
+the text, and thus they are expected to come up in a one
+                                                             ing process (at the title, abstract, and full text levels), and
+of the searches in the other databases.
+                                                             measuring inter-screener reliability. Review articles will
+                                                             not be included, but their reference lists will be checked
+Publication databases                                        to ensure that all relevant literature they cover is included
+The search will be conducted using the following online      in our searches.
+databases:                                                      We will use CADIMA’s three-stage screening process
+                                                             to evaluate all articles found using our search string. First,
+  •   ISI Web of Science Core Collection                     we will evaluate the articles’ relevance based on their
+  •   Scopus                                                 title, with those deemed outside the scope of the review
+  •   JSTOR                                                  excluded from further evaluation stages. To check con-
+  •   PubMed                                                 sistency, a subset of 200 article titles or 10% (whichever is
+  •   Agricola                                               greater) will be assessed by an additional reviewer (i.e. by
+  •   Environmental Sciences and pollution management        a total of two reviewers chosen from the authors of this
+  •   Sustainability science abstracts                       protocol). Cohen’s kappa coefficient will be calculated
+  •   Wiley Online Library                                   to determine the level of agreement between the two
+  •   BioOne                                                 reviewers and a value above 0.6 will indicate adequate
+  •   WildPro Electronic Library                             consistency. In case of inconsistency, discrepancies will
+  •   ProQuest                                               be discussed and the inclusion criteria will be clarified or
+                                                             modified. Second, we will repeat the process for all arti-
+                                                             cles that have passed the title stage, reading their abstract
+Internet searches                                            to assess their relevance. Lastly, we will evaluate the rel-
+The following search engine will also be used for finding    evance of all studies identified as relevant at the abstract
+studies (we will include only the first 200 search results): and title stages by studying their full text. Full texts will
+                                                             be retrieved via open source platforms and institutional
+  • Google Scholar (https​://www.Googl​eScho​lar.com)        access where possible. If the full text of a given study
+
+Berger‑Tal et al. Environ Evid 2019, 8(Suppl 1):18                                                                       Page 5 of 7
+cannot be found through those means, authors will be              • The temporal extent of the study (a score of 1 repre-
+contacted to request a copy. Any reviewer who is the                  senting a study conducted over several days only, and
+author of a study will not decide on the inclusion of that            a score of 5 representing a study taking place over an
+study and, in cases of uncertainty, the reviewer will err             entire season or even multiple seasons).
+towards inclusion.
+  At the third stage, a subset of 20 articles or 10% (which-      Whenever information on the study design or results is
+ever is greater) will be assessed by two different review-     unclear from the text, we will contact the authors directly
+ers. As in stage one, Cohen’s kappa coefficient will be        and ask them for the information. The overall quality of
+calculated to determine the level of agreement between         the study will be determined by the average score across
+reviewers and a value above 0.6 will indicate adequate         the parameters. To ensure repeatable estimation of qual-
+consistency. In case of inconsistency, discrepancies will      ity, a subset of 10% of studies will be assessed by two
+be discussed and the inclusion criteria will be clarified      reviewers (chosen, as before, from the authors of this pro-
+or modified. In cases where there is uncertainty about         tocol). Any reviewer who is the author of a study will not
+the relevance of a study, the reviewers will lean towards      decide on the ranking of that study and any disagreement
+inclusion. All articles screened at full text that are         between the reviewers will be solved through discussion
+excluded will be recorded with the reason as to why they       and, if necessary, consultation with a third reviewer.
+are excluded.
+                                                               Data coding and extraction strategy
+Eligibility criteria                                           We will extract descriptive data from all studies meeting
+For an article to be included it must fulfil the following     our inclusion criteria. All data extracted will be coded
+criteria:                                                      and recorded in an Excel spreadsheet.
+                                                                  Extracted information will include:
+      Eligible subjects Any animal or group of animals
+      (excluding humans).                                         •   Date of data extraction
+      Eligible exposure Anthropogenically produced noise,         •   Animal species
+      regardless of its source (e.g., roads, urban environ-       •   Sex composition
+      ment, industry, etc.)                                       •   Age composition
+      Eligible outcomes The study must report changes             •   Life history stage
+      to the amplitude, frequency, temporal structure, or         •   Study location
+      phenology of any type of vocalizations by the subject       •   Study date (season, year)
+      animals in response to the anthropogenic noise.             •   Study setting (lab/field)
+      Eligible comparator The study must compare                  •   Study design (observational, BA, CI, BACI)
+      between the vocal behavior of individuals that are          •   Source of anthropogenic noise
+      exposed to anthropogenic noise and individuals that         •   Properties of anthropogenic noise (when available)–
+      are not exposed to anthropogenic noise.                         intensity (dBA), frequency (Hz), and temporal struc-
+                                                                      ture
+                                                                  •   Acoustic metric used to measure vocalizations
+Study validity assessment                                         •   Sample size
+All studies that pass the full-text screening stage will          •   Type of change(s) in vocalization (Amplitude, fre-
+undergo a critical appraisal of the quality and validity of           quency, temporal structure)
+the study on a 1–5 scale (1 being the lowest quality, and 5       •   Call type (e.g., territorial call, mating call, alarm call)
+being the highest) for the following parameters:                  •   Mean level of recorded change
+                                                                  •   Measures of variation such as standard error, stand-
+  • Study design (a score of 1 representing observational             ard deviation and confidence intervals
+      study, and a score of 5 representing a Before-After-        •   Fitness outcomes of signal modification (if available)
+      Control-Impact (BACI) study design).                        •   Any other recorded behavioral changes in response
+  • Replication (a score of 1 representing no replication,            to anthropogenic noise (if available)
+      and a score of 5 representing over 6 replications).
+  • Study setting (a score of 1 representing a closed labo-       If relevant data are not easily decipherable, we will seek
+      ratory setting, a score of 5 representing a field study, the data in online data repositories or, when needed, con-
+      and intermediate scores representing semi-natural        tact the lead and corresponding authors via e-mail and
+      laboratory conditions).                                  ask for the missing data or information.
+
+Berger‑Tal et al. Environ Evid 2019, 8(Suppl 1):18                                                                                                         Page 6 of 7
+    To ensure that data are extracted in a way that is                             Authors’ contributions
+                                                                                   OB-T wrote the first draft of the paper. All authors contributed to the writing of
+repeatable and consistent, two reviewers will extract                              the final draft. All authors read and approved the final manuscript.
+information from a subset of 10% of articles. Any incon-
+sistencies in the extracted information will be discussed                          Funding
+                                                                                   Publication costs are funded by a collaborative fund for joint research
+and the extraction methodology refined.                                            between Ben-Gurion University of the Negev, Israel and Monash University,
+                                                                                   Australia.
+Study mapping and presentation
+                                                                                   Availability of data and supporting materials
+We will synthesize the data from all included studies into                         No datasets were generated or analyzed during the preparation of the proto‑
+a narrative review. The narrative review will be accompa-                          col. All data that will be used for the review will be made freely available upon
+                                                                                   the publication of the review.
+nied by at least four heat maps in which we will quantify
+the relative number of studies on changes to the vocali-                           Ethics approval and consent to participate
+zation behavior of animals in response to noise pollu-                             Not applicable.
+tion as a function of the taxa of the subject animals, the                         Consent for publication
+geographic location of the study (i.e., creating an atlas of                       Not applicable.
+the available evidence on the subject), the noise pollu-
+                                                                                   Competing interests
+tion source, and the vocalization type (i.e. whether it is                         The authors declare that they have no competing interests.
+a mating call, and alarm call, or some other call). These
+heat maps will serve us to recognize knowledge gaps                                Author details
+                                                                                   1
+                                                                                     Mitrani Department of Desert Ecology, Ben-Gurion University of the Negev,
+and knowledge clusters. We will further synthesize each                            8499000 Midreshet Ben Gurion, Israel. 2 School of Biological Sciences, Monash
+knowledge cluster to analyze the vocalization modifi-                              University, Victoria 3800, Australia. 3 Department of Biosciences, University
+cation types that have been studied (and whether more                              of Helsinki, 00014 Helsinki, Finland. 4 Department of Biological Sciences, Boise
+                                                                                   State University, Boise, ID 83725, USA.
+than one type of modification has been studied in the
+same species or system), and the quality of the analysis                           Published: 13 June 2019
+(in terms of study design and statistical robustness). In
+addition to the narrative synthesis and the heat maps, the
+full Excel spreadsheet with all the extracted data coded                           References
+will be made available for download.                                               1. Shannon G, McKenna MF, Angeloni LM, Crooks KR, Fristrup KM, Brown E,
+                                                                                         et al. A synthesis of two decades of research documenting the effects of
+                                                                                         noise on wildlife. Biol Rev. 2016;91:982–1005.
+                                                                                   2. Sordello R, De Lachapelle FF, Livoreil B, Vanpeene S. Evidence of the envi‑
+Additional files                                                                         ronmental impact of noise pollution on biodiversity: a systematic map
+                                                                                         protocol. Environ Evid. 2019;8:8.
+                                                                                   3. Francis CD, Barber JR. A framework for understanding noise impacts
+  Additional file 1. List of stakeholders contacted.                                     on wildlife: an urgent conservation priority. Front Ecol Environ.
+                                                                                         2013;11:305–13.
+  Additional file 2. ROSES form.
+                                                                                   4. Swaddle JP, Francis CD, Barber JR, Cooper CB, Kyba CCM, Dominoni DM,
+  Additional file 3. List of benchmark studies used to create search string.             et al. A framework to assess evolutionary responses to anthropogenic
+                                                                                         light and sound. Trends Ecol Evol. 2015;30:550–60.
+                                                                                   5. Buxton RT, McKenna MF, Mennitt D, Fristrup K, Crooks K, Angeloni
+Abbreviations                                                                            L, et al. Noise pollution is pervasive in US protected areas. Science.
+BA: A before/after experimental design. An experimental design that com‑                 2017;356:531–3.
+pares parameter values before and after a particular treatment or disturbance;     6. Kight CR, Swaddle JP. How and why environmental noise impacts ani‑
+CI: A control/intervention experimental design. An experimental design that              mals: an integrative, mechanistic view. Ecol Lett. 2011;14:1052–61.
+compares parameter values between groups that have been exposed to a               7. Blumstein DT, Berger-Tal O. Understanding sensory mechanisms to
+certain intervention and control groups that have not been exposed to the                develop effective conservation and management tools. Curr Opin Behav
+intervention; BACI: A before/after, control/intervention experimental design,            Sci. 2015;6:13–8.
+which combines the two prior study designs.                                        8. Ware HE, McClure CJW, Carlisle JD, Barber JR. A phantom road experiment
+                                                                                         reveals traffic noise is an invisible source of habitat degradation. Proc Natl
+Acknowledgements                                                                         Acad Sci USA. 2015;112:12105–9.
+We sincerely thank Biljana Macura for training the authors in the methods of       9. Chan AA, Giraldo-Perez YH, Smith P, Blumstein DT. Anthropogenic noise
+systematic evidence synthesis. This training was made possible with support              affects risk assessment and attention: the distracted prey hypothesis. Biol
+from the Jacob Blaustein Center for Scientific Cooperation, The Swiss Institute          Let. 2010;6:458–61.
+for Dryland Environmental & Energy Research, the Mitrani Department of             10. Bunkley JP, McClure CJW, Kawahara AY, Francis CD, Barber JR. Anthropo‑
+Desert Ecology, Ben-Gurion University of the Negev, and Monash University.               genic noise changes arthropod abundances. Ecol Evol. 2017;7:2977–85.
+This is publication number 1022 of the Mitrani Department of Desert Ecology.       11. Barber JR, Crooks KR, Fristrup KM. The costs of chronic noise exposure for
+                                                                                         terrestrial organisms. Trends Ecol Evol. 2010;25:180–9.
+About this supplement                                                              12. Slabberkoorn H, Peet M. Ecology: birds sing at a higher pitch in urban
+This article has been published as part of Environmental Evidence Volume 8               noise. Nature. 2003;424:267.
+Supplement 1, 2019: Using animal behavior in conservation management.              13. Read J, Jones G, Radford AN. Fitness costs as well as benefits are impor‑
+The full contents of the supplement are available online at https​://envir​onmen​        tant when considering responses to anthropogenic noise. Behav Ecol.
+talev​idenc​ejour​nal.biome​dcent​ral.com/artic​les/suppl​ement​s/volum​e-8-suppl​       2014;25:4–7.
+ement​-1.
+
+Berger‑Tal et al. Environ Evid 2019, 8(Suppl 1):18                                                                                                       Page 7 of 7
+14. Rosa P, Koper N. Integrating multiple disciplines to understand effects      21. Patricelli GL, Blickley JL. Avian communication in urban noise: causes and
+    of anthropogenic noise on animal communication. Ecosphere.                        consequences of vocal adjustment. Auk. 2006;123:639–49.
+    2018;9:e02127.                                                               22. Brumm H, Bee MA, et al. A meta-analytic castle built on sand? A com‑
+15. Halfwrek W, Holleman LJM, Lessells CM, Slabbekoorn H. Negative impacts            ment on Roca et al. Behav Ecol. 2016;27:1275–9.
+    of traffic noise on avian reproductive success. J Appl Ecol. 2011;48:210–9.  23. Wong BBM, et al. The struggle to be heard in an increasingly noisy world:
+16. Schroeder J, Nakagawa S, Cleasby IR, Burke T. Passerine birds breed‑              a comment on Roca et al. Behav Ecol. 2016;27:1275–6.
+    ing under chronic noise experience reduced fitness. PLoS ONE.                24. Greggor AL, Berger-Tal O, Blumstein DT, Angeloni L, Bessa-Gomes C,
+    2012;7:e39200.                                                                    Blackwell BF, et al. Research priorities from animal behaviour for maximis‑
+17. Junqua JC, Fincke S, Field K. 1999. The Lombard effect:a reflex to better         ing conservation progress. Trends Ecol Evol. 2016;31:953–64.
+    communicate with others in noise. In: IEEE International Conference          25. Collaboration for Environmental Evidence. 2018. Guidelines and Stand‑
+    Acoustics, speech, and signal processing conference proceedings. 1999.            ards for Evidence synthesis in Environmental Management. Version 5.0
+    Phoenix, AZ: IEEE Vol. 4, p. 2083–6.                                              (Pullin AS, Frampton GK, Livoreil B, Petrokofsky G, Eds) www.envir​onmen​
+18. Hotchkin C, Parks S. The Lombard effect and other noise-induced vocal             talev​idenc​e.org/infor​matio​n-for-autho​rs. Accessed 2 April 2019.
+    modifications: insight from mammalian communication systems. Biol
+    Rev. 2013;88:809–24.
+19. Potvin DA, Mulder RA. Immediate, independent adjustment of call pitch       Publisher’s Note
+    and amplitude in response to varying background noise by silvereyes         Springer Nature remains neutral with regard to jurisdictional claims in pub‑
+    (Zosterops laterallis). Behav Ecol. 2013;24:1363–8.                         lished maps and institutional affiliations.
+20. Roca IT, Desrochers L, Giacomazzo M, Bertolo A, Bolduc P, Deschesnes
+    R, et al. Shifting song frequencies in response to anthropogenic noise: a
+    meta-analysis on birds and anurans. Behav Ecol. 2016;27:1269–74.
+                                                                                     Ready to submit your research ? Choose BMC and benefit from:
+                                                                                       • fast, convenient online submission
+                                                                                       • thorough peer review by experienced researchers in your field
+                                                                                       • rapid publication on acceptance
+                                                                                       • support for research data, including large and complex data types
+                                                                                       • gold Open Access which fosters wider collaboration and increased citations
+                                                                                       • maximum visibility for your research: over 100M website views per year
+                                                                                     At BMC, research is always in progress.
+                                                                                     Learn more biomedcentral.com/submissions
+

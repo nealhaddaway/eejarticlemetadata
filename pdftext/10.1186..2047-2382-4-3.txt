@@ -1,0 +1,747 @@
+Land et al. Environmental Evidence 2015, 4:3
+http://www.environmentalevidencejournal.org/content/4/1/3
+  SYSTEMATIC REVIEW PROTOCOL                                                                                                                          Open Access
+What is the effect of phasing out long-chain
+per- and polyfluoroalkyl substances on the
+concentrations of perfluoroalkyl acids and their
+precursors in the environment? A systematic
+review protocol
+Magnus Land1*, Cynthia A de Wit2, Ian T Cousins2, Dorte Herzke3, Jana Johansson2 and Jonathan W Martin4
+  Abstract
+  Background: There is a growing concern in Sweden and elsewhere that continued emissions of per- and polyfluoroalkyl
+  substances (PFASs) may cause environmental as well as human health effects. PFASs are a broad class of man-made
+  substances that have been produced and used in both commercial products and industrial processes for more than
+  60 years. Although the production and use of some PFASs has been phased-out in some parts of the world, it is not
+  known what effect these actions to date have had on PFAS concentrations in the environment. Owing to the wide
+  diversity of PFASs, it is difficult to generalize their properties, environmental fate and production histories. However,
+  the strength and stability of the C-F bond renders the perfluoroalkyl moieties resistant to heat and environmental
+  degradation. Several PFASs are now occurring even in very remote areas in large parts of the world, but the
+  environmental transport and fate of substances within this group is not well understood. A systematic review
+  may be able to determine whether the concentrations of these substances in different environments are
+  changing in any particular direction with time, and whether the phase-outs have had any effects on the
+  concentration trends.
+  Methods: Searches for primary research studies reporting on temporal variations of PFAS concentrations in
+  the environment will be performed in the scientific literature as well as in other reports. Relevant samples
+  include both abiotic and biological samples including humans. No particular time, document type, language
+  or geographical constraints will be applied. Two authors will screen all retrieved articles. Double screening of
+  about 10% of the articles will be performed by all authors at both title/abstract and full-text levels. Kappa tests
+  will be used to test if the screening is consistent. Relevant articles will be critically appraised by four authors
+  (double checking of 25% of the articles). Quality assessment will focus on selection bias, dating of samples,
+  sample integrity and analytical procedures. Data synthesis will be based on statistical analysis of temporal
+  concentration trends.
+  Keywords: Perfluoroalkyl acids, Perfluoroalkane acids, PFOA, PFOS, Temporal trends, Phase-out, Source,
+  Emission, Environmental fate, Regulation, Concentration
+* Correspondence: magnus.land@eviem.se
+1
+ Mistra EviEM, The Royal Swedish Academy of Sciences, Box 50005, SE-104 05
+Stockholm, Sweden
+Full list of author information is available at the end of the article
+                                            © 2015 Land et al.; licensee BioMed Central. This is an Open Access article distributed under the terms of the Creative
+                                            Commons Attribution License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and
+                                            reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain
+                                            Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article,
+                                            unless otherwise stated.
+
+Land et al. Environmental Evidence 2015, 4:3                                                                  Page 2 of 13
+http://www.environmentalevidencejournal.org/content/4/1/3
+Background                                                    in 2002, other companies continued to manufacture
+Per- and polyfluoroalkyl substances (PFASs) are a broad       PFOA mainly through the telomerization process which
+class of man-made substances that have been produced          produces only linear isomers. For a thorough description
+and used in commercial products and industrial pro-           of the sources of PFCA homologues and their precursors
+cesses for over 60 years [1]. For example, PFASs have         see the reviews of Prevedouros et al. [3], Wang et al. [4]
+been used in water-, soil-, and stain-resistant coatings      and Wang et al. [5].
+for clothing, leather, upholstery, and carpets; oil-resistant    The most common PFCA measured in the abiotic en-
+coatings for food contact paper; aviation hydraulic fluids;   vironment is PFOA. Once present in the environment,
+fire-fighting foams; paints, adhesives, waxes, polishes,      the PFCAs have no significant known mode of environ-
+and other products; and industrially as surfactants,          mental degradation and are thus highly persistent. For
+emulsifiers, wetting agents, additives, and coatings [2-7].   example, in wastewater treatment plants PFOA did not
+The perfluoroalkyl moieties (CnF2n+1 –) of PFAS mole-         degrade, but actually increased in the outflow owing to
+cules are both hydrophobic and lipophobic [2], and the        degradation of unidentified PFCA precursors [10]. En-
+extreme strength and stability of the C-F bond [8]            gineering solutions using oxidants and catalysts have
+renders the perfluoroalkyl moieties resistant to heat         been developed to degrade PFCAs on a small scale in
+and environmental degradation processes. Nevertheless,        the lab. For example, UV photo-oxidation with indium
+owing to the wide diversity of PFASs (i.e. chain-lengths,     oxide (In2O3) as the catalyst is effective for PFOA deg-
+molecular weight, degree and pattern of fluorination,         radation [11], but these processes will not occur in the
+presence of polar functional groups), it is difficult to      natural environment.
+generalize their properties, environmental fate, and pro-        PFCAs have an acid dissociation constant (pKa) in the
+duction histories [9]. For purposes of this document we       range 0–1 and are thus completely dissociated anions in
+have separated the discussion into two broad categories,      environmental media which typically have pH above 4
+which will be the focus of our study:                         [12-15]. Once discharged into the environment, unlike
+                                                              typical persistent organic substances, the majority of
+   1) Perfluoroalkyl carboxylic acids (PFCAs) and their       PFCAs do not sorb appreciably on particles but are in-
+      precursors                                              stead present mainly in the dissolved phase in surface
+   2) Perfluoroalkane sulfonic acids (PFSAs) and their        waters. Sorption to the organic fraction of particles in-
+      precursors                                              creases with the length of the perfluoroalkyl chain [16],
+                                                              but the organic-carbon water partition coefficient (KOC)
+   We decided to focus on PFCAs and PFSAs because             of a long-chain PFCA (C8 and higher) such as PFOA
+these are by far the two most widely studied PFAS clas-       [16] is still orders of magnitude lower than for typical
+ses, and multiple temporal trend datasets were known to       persistent organic substances. Their low sorption and
+be available. PFCAs and PFSAs are well studied due to         high prevalence in surface waters is evident from field
+their persistence and ubiquity in the environment and         investigations demonstrating that PFOA in biosolids ap-
+biota as well as their potentially harmful effects (see brief plied to agricultural land can be re-mobilized by rainfall
+review below). We use the terminology recommended             [17], and it has been shown that the sediment/water par-
+by Buck et al. [9] throughout this document. A list of        tition coefficient is low (PFOA KOC = 2.4 ± 0.12 cm3 g−1)
+abbreviations used in this protocol is provided in            [18]. As a result, PFCAs can be transported long dis-
+Additional file 1: List of abbreviations.                     tances by rivers and ocean currents and now occur in
+                                                              the open marine environment, even in the remote
+Perfluoroalkyl carboxylic acids (PFCAs) and their             Northern Atlantic, Pacific, and Arctic Oceans [19,20].
+precursors                                                    PFCAs can also be detected at low concentration in the
+PFCAs occur in the environment due to emission from           ambient atmosphere, where they may be directly emitted
+intentional manufacturing, as impurities in commercial        [21], and/or formed in situ by oxidation of semivolatile
+products containing other PFASs, or as environmental          PFCA-precursors such as the fluorotelomer alcohols
+degradation products of other PFASs [3-5]. The PFCA           (FTOH) [22].
+manufactured in the largest quantity, perfluorooctanoic          Overall, the direct and indirect sources of PFCAs to
+acid (PFOA), was produced mainly by electrochemical           the environment are various, and the relative importance
+fluorination (ECF) by 3M until 2002 (3M had >80% of           of each source is temporally variable, PFCA-specific and
+global market) and was primarily used as a processing         not well quantified. For a given environmental medium
+aid (emulsifier) in the manufacture of polytetrafluoro-       in a given region, it is challenging to determine the
+ethylene (PTFE). The ECF manufacturing process pro-           source contribution to the PFCA contamination profile
+duces a mixture of linear (70%) and branched (30%)            because in addition to uncertainties in the relative im-
+isomers. After 3M phased-out the production of PFOA           portance of multiple source types, the contamination
+
+Land et al. Environmental Evidence 2015, 4:3                                                                  Page 3 of 13
+http://www.environmentalevidencejournal.org/content/4/1/3
+profile will be transformed as a result of differences in      PFCAs are not acutely toxic based on standard toxicity
+the fate and transport of the individual PFCAs after re-     endpoints. However, they have been reported to have
+lease. The relative importance of atmospheric versus         endocrine disrupting properties [38-40]. PFAAs are
+marine transport of PFCAs, of direct atmospheric emis-       structurally similar to natural long-chain fatty acids and
+sion versus atmospheric oxidation of PFCA-precursors,        may displace them in biochemical processes and at
+or of telomerization versus electrochemical manufactur-      receptors, such as peroxisome proliferator-activated re-
+ing of PFCAs and their precursors is the subject of          ceptor alpha (PPARα) and the liver-fatty acid binding
+much recent and ongoing research. For PFCAs and their        protein (L-FABP). PFCAs, particularly the long-chain
+precursors, the perfluoroalkyl chain-length can have a       PFOA, PFNA (perfluorononanoic acid) and PFDcA but
+considerable effect on their environmental fate and par-     not the short-chain PFHxA (perfluorohexanoic acid), are
+titioning [16,23].                                           highly potent peroxisome proliferators in rodent livers
+   Occurring to a large extent in the dissolved phase in     and affect mitochondrial, microsomal, and cytosolic en-
+surface waters, PFCAs are relatively bioavailable com-       zymes and proteins involved in lipid metabolism [41-44].
+pared to typical hydrophobic organic substances. PFCAs       PFCAs cause hepatomegaly in rodents [42] which is
+have been detected in numerous biological samples, e.g.,     an indicator for hepatotoxicity. Perfluorobutanoic acid
+fish [24], bird eggs [25-27], invertebrates, reptiles and    (PFBA) has a less pronounced effect on indicators of
+marine mammals including polar bear [28], as well as         peroxisome proliferation [41].
+humans [29,30].                                                Starting in 2000, various actions were undertaken by
+   Bioaccumulation has been shown to occur in mam-           industry and regulators to reduce the release of PFCAs
+mals and birds, increasing with perfluoroalkyl chain         and precursors. In 2000, 3M announced a global phase-
+length [31]. A limited number of field-Biomagnification      out by 2002 of its production of products based on
+Factors (BMFs) and Trophic Magnification Factors (TMFs)      perfluoroalkyl chains containing 6, 8 and 10 carbons, in-
+are available for long-chain PFCAs (and perfluorooctane      cluding PFOA [45]. In 2006, eight major PFCA, fluoro-
+sulfonate, PFOS) and they provide evidence that biomagni-    polymer and fluorotelomer manufacturers joined the US
+fication of these substances takes place. Tomy et al. [32]   EPA 2010/15 Stewardship Program to work towards the
+reported bioaccumulation of perfluoroalkyl acids (PFAAs,     elimination of long-chain PFCAs and their precursors
+including PFCAs and PFSAs) occurring in Arctic marine        from emissions and products by 2015 [46]. On the
+food webs. Kelly et al. [33] compared different parts of the regulatory front, PFOA, its ammonium salt ammonium
+marine food web, showing that the TMF is below one in        perfluorooctanoate (APFO), and C11–C14 PFCAs were
+the case of piscivorous food webs if air breathing organisms included in the Candidate List of Substances of Very
+are excluded but becomes larger than one if air breathing    High Concern under the European chemicals regulation,
+organisms are taken into account. Loi et al. [34] observed   REACH [47]. Although long-chain PFCAs are being
+trophic magnification for long-chain PFCAs (perfluorode-     stepwise phased out by the major manufacturers and
+canoic acid (PFDcA), perfluoroundecanoic acid (PFUnA),       heavily regulated in Japan, Western Europe and the United
+perfluorododecanoic acid (PFDoA)) and PFOS in a sub-         States (US) [45,46,48], new manufacturers (largely in con-
+tropical food web. In freshwater systems, Martin et al. [35] tinental Asia) have begun to produce long-chain PFCAs
+found BMFs of long-chain PFCAs to vary from 0.4 to           and their precursors. As a result of the phase out of many
+3.4 between lake trout and prey organisms in Canada          long-chain PFASs in recent years, many alternative fluori-
+(PFOA had the lowest BMF and PFUnA the highest).             nated products have been introduced [49] and these new,
+In terrestrial samples, Muller et al. [36] reported          alternative industrial processes and products have resulted
+BMFs and TMFs from caribou to lichen for PFAAs.              in new sources of PFCAs and other fluorinated sub-
+Highest BMFs of 75 and 46 were found for PFDcA and           stances. For example, there has likely been increasing
+PFUnA, respectively. TMFs of the food chain wolf –           emissions of PFHxA due to the increasing use of side-
+caribou – lichen varied between 2.4 and 7.1 for all long-    chain polymers based on 6:2 FTOHs in surface treatment
+chain PFAAs with PFDcA and PFOS showing the high-            products [49]. A time-series of key production events and
+est TMFs of 7.1 and 6.7 respectively. In summary, BMFs       regulatory actions for PFCAs is shown in Figure 1.
+and TMFs above 1 indicate trophic biomagnification for
+PFAAs with a perfluoroakyl chain length containing 8         Perfluoroalkane sulfonic acids (PFSAs) and their
+or more perfluorinated carbons in the terrestrial and        precursors
+freshwater ecosystems studied. Some short-chain (e.g.        Similar to PFCAs, sources of PFSAs include release
+butane- and hexane-based) alternatives also appear to        during manufacture and use of the PFSAs as well as
+be persistent but to not bioaccumulate to the same ex-       from the degradation of various precursor substances
+tent, as they are excreted rapidly from the organisms        [6,50]. Commercial scale manufacture of perfluorooctane
+studied [37].                                                sulfonyl fluoride (POSF)-based products began by 3M in
+
+Land et al. Environmental Evidence 2015, 4:3                                                                                            Page 4 of 13
+http://www.environmentalevidencejournal.org/content/4/1/3
+  Figure 1 Timeline of production, commercialization and legislation of PFCAs. APFO (ammonium perfluorooctanoate) and NaPFO (sodium
+  perfluorooctanoate) are salts of PFOA. Red flags represent events and actions that may have resulted in increased concentrations in the
+  environment. Green flags represent important findings and phase-outs that may result in decreased concentrations in the environment.
+the late 1950s with product lines based on N-methyl                          historically, PFOS is usually found to be the most abun-
+perfluorooctane sulfonamido ethanols (N-MeFOSEs)                             dant PFSA. PFSAs are stronger acids than PFCAs with
+used in surface treatment applications (e.g., carpets,                       pKa’s < 0 and are thus fully dissociated anions in envir-
+upholstery and textiles) and in the late 1960s product                       onmental media [15]. Although properties vary with
+lines based on N-ethyl perfluorooctane sulfonamido                           chain-length, the environmental fate and bioaccumu-
+ethanols (NEtFOSEs) were introduced for use in paper                         lation behavior of PFSAs is broadly similar to that of
+and board packaging applications. PFOS and various                           PFCAs; PFSAs are persistent, are mostly distributed to
+salts were manufactured for direct use in a variety of                       surface waters [50], bind weakly to organic phases [16]
+products (e.g. aqueous film-forming foams (AFFFs) for                        compared to other persistent organic substances, are
+firefighting and mist suppressants in acids baths used                       shown to bioaccumulate in the laboratory [71,72] and
+for metal plating (for a more complete list of uses of                       biomagnify in food webs [73,74]. Also similar to
+PFOS and its salts see Paul et al. [6])). Commercial                         PFCAs, the global distribution of PFSAs is governed
+use of PFOS and its salts first started around 1970 [6].                     by a combination of direct release and transport as
+Uses and emissions of PFSAs and their precursors                             well as release and transport of precursors that subse-
+have been estimated to have steadily risen after manu-                       quently degrade to PFSAs [50]. One difference in
+facture started until a maximum usage was reached at                         behavior is that PFSAs with perfluoroalkyl chains of
+the end of the 20th century [6]. PFSAs and precursors                        the same length tend to sorb [16] and bioaccumulate
+have been manufactured by ECF which produced a                               [31,75,76] more strongly than PFCAs, [31,75,77] which
+mixture of linear (70%) and branched (30%) isomers                           is an effect of the different anionic head groups. Con-
+[51]. 3M also historically made products based on per-                       sequently, PFSAs with perfluoroalkyl chain lengths of
+fluorohexane and perfluorodecane sulfonyl fluoride                           C6 (i.e. perfluorohexane sulfonate) and higher are consid-
+[50]. For a more thorough description of sources of                          ered to be long-chain (http://www.oecd.org/ehs/pfc/),
+PFSA homologues and their precursors see the reviews                         whereas for PFCAs those with perfluoroalkyl chain lengths
+of Paul et al. [6] and Armitage et al. [50].                                 of C8 (i.e. PFOA) and higher are considered to be
+   PFOS and other PFSAs are widely distributed in the                        long-chain.
+global environment [52-56], biota [57-62] and humans                            In 2000 the major manufacturer of PFOS in the US
+[29,63-70]. Due to the dominance of POSF-based products                      (3M) announced their plan to cease the production of
+
+Land et al. Environmental Evidence 2015, 4:3                                                                                          Page 5 of 13
+http://www.environmentalevidencejournal.org/content/4/1/3
+C6, C8 and C10 perfluoroalkane sulfonyl fluoride (PASF)-                   production events and regulatory actions for PFSAs is
+based products and completed the phase out in 2002                         shown in Figure 2.
+[78]. In 2006 the EU adopted a Marketing and Use
+Directive (2006/122/EC) that bans the use of PFOS in                       Genesis of the systematic review
+semi-finished products (maximum content of PFOS:                           A systematic review on PFASs in the environment was
+0.005% by weight) as of summer 2008. In 2009, PFOS                         originally suggested by the Swedish Chemicals Agency at
+(and related substances derived from the POSF) were                        a general stakeholder meeting arranged by Mistra EviEM
+listed under Annex B (restriction of production and use)                   in January 2012, to which a broad spectrum of organiza-
+of the Stockholm Convention on Persistent Organic                          tions were invited and encouraged to suggest topics for
+Pollutants. After 2000, China filled the gap created be-                   systematic reviews. The Swedish Chemicals Agency is
+tween global supply and demand of PFOS (and related                        responsible for the Swedish environmental quality ob-
+products) caused by the 3M phase out. According to                         jective “A non-toxic environment” [85]. There is a grow-
+Zhang et al. [79], the production volume of PFOS in-                       ing concern in Sweden that continued discharges of
+creased from 30 t in 2002 to 247 t in 2006. Since then,                    PFASs may cause environmental as well as human
+caused by international legislation to restrict or elimin-                 health effects. Borg and Håkansson [86] performed a risk
+ate PFOS production, the production volume of PFOS                         assessment consisting of an exposure assessment based
+has declined to about 100 t/y in 2008.                                     on Swedish biomonitoring data, a hazard assessment
+   Since 2003, 3M has commercialized new surface treat-                    with toxicological data from studies on mammals, birds
+ment products based on perfluorobutane sulfonate                           and fish, and a risk characterization. The result of the
+(PFBS, C4 sulfonate) [80]. Although likely to be as envir-                 environmental risk characterization indicated a cause for
+onmentally persistent as PFOS, PFBS is thought to be                       concern for seals and otters for hepatotoxicity and re-
+less bioaccumulative and toxic. It is likely that PFBS is                  productive toxicity. For reproductive toxicity in birds, a
+released during manufacture and use of 3M’s new sur-                       cause for concern was indicated for PFOS where the
+face treatment products and that increasing usage will                     highest level in peregrine falcons eggs (sampled in 2006)
+lead to increasing levels in the environment. Evidence                     exceeded the toxic effect level identified in a study by
+for the environmental release of PFBS can be found                         Molina et al. [87]. Regarding human health effects, at
+from its reported presence in the aquatic environment                      least three different municipal drinking water plants in
+[81,82], biota [83] and humans [84]. A time-series of key                  Sweden have been shut down due to high concentrations
+  Figure 2 Timeline of production, commercialization and legislation of PFSAs. POSF (perfluorooctane sulfonyl fluoride) is the major raw
+  material used to manufacture PFOS. Red flags represent events and actions that may have resulted in increased concentrations in the
+  environment. Green flags represent important findings and phase-outs that may result in decreased concentrations in the environment.
+
+Land et al. Environmental Evidence 2015, 4:3                                                                   Page 6 of 13
+http://www.environmentalevidencejournal.org/content/4/1/3
+of PFOS in the groundwater source. It is believed that the        important. Among replacement substances, the most
+high concentrations are caused by spills of fire-fighting         toxic (if that is known) should be prioritized.
+foam at adjacent airports or firefighting training sites.      Time trends in both biotic and abiotic samples
+   A specific question regarding PFASs was not formu-             should be included
+lated at the general stakeholder meeting arranged by           Contaminated areas as point sources are important
+Mistra EviEM, but it emerged in later discussions with            to study. In what way will contaminated areas
+the Swedish Chemical Agency that increasing concentra-            influence future time trends of concentrations in the
+tions of short-chain substances such as PFBS have been            surrounding environment?
+observed [84], and that such trends are of great concern.      If time trends of replacement substances are scarce,
+There is a need to find out whether this is a local or glo-       the mere information on occurrences in the
+bal trend and whether similar trends have been observed           environment is also interesting.
+for additional PFASs with recently increased production
+volumes.                                                      The last point is out of the scope of this review and
+   Another stakeholder that Mistra EviEM has consulted      will not be considered. Additional questions that the
+is the Swedish Agency for Marine and Water Manage-          stakeholders were seeking more information about
+ment (SWAM), which is responsible for the Swedish en-       included
+vironmental quality objectives “Flourishing Lakes and
+Streams” and “A Balanced Marine Environment, Flour-            Are PFASs distributed differently between
+ishing Coastal Areas and Archipelagos”. Even though               environmental media due to varying properties?
+SWAM’s major interest in this topic is the toxic effects,      How far should mitigation of contaminated areas be
+the Agency is also interested in more information on              pushed? Is it possible to establish global or regional
+sources, transportation processes and environmental fate          baseline or background concentrations?
+of PFASs in general.                                           Can important knowledge gaps be identified?
+   Since the consultations resulted in several conceivable
+review questions, the main stakeholders and a few scien-      One additional stakeholder that Mistra EviEM has
+tists were invited to a discussion where the goal was to    consulted is the FluoroCouncil, which is a global
+find a common ground and agree on the most relevant         organization representing a range of different fluoro-
+question. It was concluded that there is little or no con-  technology companies that manufacture, formulate or
+troversy regarding the properties of PFCAs and PFSAs;       process fluoropolymer products, fluorotelomer-based
+they are in many cases persistent, bioaccumulative and      products, fluoro-surfactants, and fluoro-surface prop-
+toxic (PBT) and some of them are classified and treated     erty modification agents. The FluoroCouncil is in-
+as such. It is however less clear how new compounds         volved in the 2010/2015 PFOA Stewardship Program,
+with shorter carbon chains should be treated. Even          a global partnership between U.S. EPA and industry
+though they may be toxic and extremely persistent they      based on voluntary goals to eliminate PFOA from fa-
+may not be bio-accumulative enough to be classified         cility emissions and product content by 2015.
+as PBT-compounds or vPvB compounds. The Swedish
+Chemicals Agency needs more information on the envir-       Objective of the review
+onmental fate of both phased-out and replacement com-       Although compounds such as PFOS and PFOA have
+pounds. To compile and evaluate that information is not     been phased out in some parts of the world, for many
+necessarily an easy task since, e.g., the results in moni-  reasons it cannot be taken for granted that this will lead
+toring studies can appear to be somewhat contradictory.     to swift declines in environmental or human exposure. If
+In some cases one particular compound has shown op-         new emissions of a PFAS were to cease, the high persist-
+posite temporal trends in different sample types even       ence of PFCAs and PFSAs may lead to delayed and very
+within the same region.                                     slow declines in exposure. In addition, existing environ-
+   In order to make the review as relevant as possible to   mental burdens of precursor substances (including fluo-
+as many people as possible, a wider group of Swedish        rinated polymers) might continue to act as an indirect
+stakeholders were invited to discuss what the review        pseudo-source of PFCAs and PFSAs in the future,
+should focus on. This group of stakeholders included        depending on their stability. Furthermore, continued
+governmental agencies, municipal drinking water pro-        production and use of these compounds in parts of the
+ducers, environmental consultants and NGOs. Some of         world where phase-out policies have yet to be imple-
+the key points put forward at the meeting included          mented could influence human and environmental
+                                                            exposure in regions far from this production, owing to
+    PFOS and PFOA are the two most important               long-range transport or exporting of commercial prod-
+       phased-out substances, but their precursors are also ucts containing PFASs. An additional complication is
+
+Land et al. Environmental Evidence 2015, 4:3                                                                                Page 7 of 13
+http://www.environmentalevidencejournal.org/content/4/1/3
+the vast spatial heterogeneity of current PFCA and PFSA      Table 1 Suggested search strategy
+burdens in the world’s oceans. For example, despite all              Term 1               AND        Term 2
+recent regulatory actions (Figures 1 and 2), remote mar-             perfluor*                       ((trend OR variation) NEAR (time OR
+ine ecosystems in the Arctic are predicted to receive in-                                            temporal))
+creased exposure to PFOS and PFOA in the future as           OR      polyfluor*           OR         ((change OR increase OR decrease)
+ocean currents slowly transport relatively contaminated                                              NEAR/5 (level or concentration))
+ocean water from mid-latitudes northwards to remote          OR      fluorotelomer*       OR         “time series”
+regions where current ocean concentrations are lower         OR      PF?S                 OR         ((snow OR ice OR sediment) NEAR
+[50,88,89]. With all these complexities, uncertainties,                                              (core OR column OR cap))
+and global spatial heterogeneity, it is difficult to predict OR      PF?A                 OR         archive*
+the future of human and environmental exposure to            OR      PFC                  OR         “specimen bank”
+PFASs. For this reason, an objective and systematic re-
+                                                             OR      PFT                  OR         “long-term monitoring”
+view of temporal trends reported in the literature was
+                                                             OR      PFHxS                OR         ”repeated measurements”
+deemed a high priority.
+  In summary, PFCAs and PFSAs have unique environ-           OR      FOSE                 OR         historic*
+mental chemistry and much of the environmental fate of       OR      FOSA
+substances within these groups is still poorly understood.   OR      PAPS
+The objective of the proposed systematic review is to        Search terms are connected with the Boolean operator AND, and words within
+find out whether the concentrations of these substances      each term is connected by OR. Truncation is denoted by *. Question mark is a
+                                                             wildcard that represents exactly one character.
+in the environment are changing in any particular direc-
+tion, and whether any spatial differences or changes in
+temporal concentration trends can be related to the
+implemented phase-outs. In addition, any temporal            ((snow OR ice OR sediment) NEAR (core OR column OR
+changes in the distribution of linear vs branched per-       cap)) OR archive* OR “specimen bank” OR “long-term
+fluoroalkyl chains for individual PFCAs and PFSAs will       monitoring” OR “repeated measurements” OR historic*)
+be explored to determine if isomer pattern changes can          The search string shown above and in Table 1 is de-
+be associated with the phase-outs.                           signed for Web of Science. Other literature databases
+  The review team has phrased the review question as         may use other wildcards or require less complex search
+“What is the effect of phasing out long-chain per- and       strings. Adjusted search strings used in individual data-
+polyfluoroalkyl substances on the concentrations of per-     bases are shown in Additional file 2: Search strings used
+fluoroalkyl acids and their precursors in the environ-       in individual literature databases. No particular con-
+ment?” The question builds on the following elements:        straints regarding time, document type, or language
+                                                             will be applied when searching for literature. At a later
+   Population/Subject: abiotic and biological samples       stage some languages may however be excluded due to
+       including general human populations.                  limitations in translation resources. Literature databases
+   Intervention: Legislative or voluntary phase-out of pro- that will be used for searching are listed in Table 2. The
+       duction and use of long-chain PFASs                   table also indicates the fields that will be searched and
+   Comparator: Before intervention                          number of hits obtained in preliminary searches.
+   Outcome: Change of concentrations of the phased-out         The comprehensiveness of the searches will be tested
+       substances and their precursors and substitutes.      by cross-checking the hits with 1) a list of papers that
+                                                             the review team a priori think should be found by the
+                                                             searches, and 2) bibliographies in review articles. The list
+Methods                                                      of papers that should be found is shown in Additional
+Searches                                                     file 3: List of relevant articles that should be found in
+Searches in literature databases will be made using the      searches for literature.
+search terms displayed in Table 1. Using the Boolean opera-     In addition to data in the scientific literature it is an-
+tors indicated this translates into the search string below, ticipated that data will be found also in the grey litera-
+where * is a wildcard that can be any number of characters,  ture. Such data will be searched for using the search
+and a question mark is exactly one arbitrary character.      engines Google and Google Scholar on the internet. For
+  (perfluor* OR polyfluor* OR fluorotelomer* OR PF?S         these search engines the search string below will be
+OR PF?A OR PFC OR PFT OR PFHxS OR FOSE OR                    used. The same search string translated to Scandinavian
+FOSA OR PAPS) AND (((trend OR variation) NEAR (time          languages and to German will also be used.
+OR temporal)) OR ((change OR increase OR decrease)              (pfas or pfaa or pfos or pfoa) (change or trend or tem-
+NEAR/5 (level or concentration)) OR “time series” OR         poral or increase or decrease).
+
+Land et al. Environmental Evidence 2015, 4:3                                                                                     Page 8 of 13
+http://www.environmentalevidencejournal.org/content/4/1/3
+Table 2 Electronic databases used for searching                              Study inclusion criteria
+Database                      Searched field       No of hits3) Date         The interventions relevant for the systematic review
+ISI Web of Science1)          topic                3938 (3891)    2014-05-13 (phase-outs of long-chain PFASs) are intended to have a
+Science Direct                title, abstract and  3272 (2869)    2014-05-13
+                                                                             global rather than a local impact, and therefore the con-
+                              keywords                                       centrations at one location may be impacted by a com-
+Engineering Village2)         subject/title/       1217 (728)     2014-05-14 bination of more than one phase-out. Consequently,
+                              abstract                                       measured concentrations are in most studies not directly
+Scopus                        title, abstract and  2502 (639)     2014-05-14 related to any particular phase-out. In fact, useful time
+                              keywords                                       trends may even be found in studies where the purpose
+Academic search premier title/abstract/            851 (815)      2014-05-14 of the study was completely unrelated to any phase-out
+                              subject/keyword                                of PFASs at all. This means that studies qualified for the
+Wiley Online Library          abstract or title or 641 (548)      2014-05-14 systematic review will not be restricted to intervention
+                              keywords                                       studies, but will potentially include any study reporting
+Directory of Open             all fields           42 (39)        2014-05-14 on at least one temporal PFAS concentration trend.
+Access Journals                                                              Since it is known when and where the interventions
+1)
+  Including Web of Science™ Core Collection, Medline® and SciELO             have been implemented it may be possible to relate these
+Citation Index.
+2)
+  Including Geobase and Georef.                                              to the changes in concentrations, and hence, interven-
+3)
+  Values in parentheses indicate number of items remaining after removal of  tion should still be a justified question element.
+duplicates when all databases are combined.
+                                                                               Relevant temporal trends may be obtained by recur-
+                                                                             ring measurements at a given location (monitoring) or
+    In addition, websites of relevant specialist organisations               by means of environmental archives (e.g. dated sedi-
+(listed below) will be searched. In this case the search                     ment cores, ice cores) or specimen banks (e.g. biota,
+strings will be website specific. All searches will however                  human diet, human samples). There will be no geo-
+be reported in the systematic review. If no reports are                      graphic limitations. However, to be included in the
+found on the website, but the organisation still is thought                  systematic review, the articles must pass each of the
+to have relevant results, a letter will be sent to the appro-                following relevance criteria.
+priate person to try to obtain the information.
+                                                                                Relevant population or subject: abiotic and
+      Swedish Environmental Protection Agency (SEPA)                              biological samples, including general human
+      US Environmental Protection Agency (USEPA)                                  populations, exposed to ambient loads of PFASs and
+      FluoroCouncil                                                               their precursors. Populations with occupational
+      Society of the Plastics Industry                                            exposures related to manufacturing of PFASs, or
+      Arctic Monitoring and Assessment Programme                                  with deliberate exposures in controlled trials, will be
+       (AMAP)                                                                      excluded.
+      Danish Environmental Protection Agency                                   Types of outcome: time trends in concentrations of
+      Norwegian Environment Agency                                                PFASs covering at least two years. Ideally the studies
+      Finnish Environment Institute (SYKE)                                        should provide concentration data from both before
+      German Umweltsbundesamt                                                     and after an intervention. In that case it is possible
+      UK Environment Agency                                                       to compare the concentrations before and after the
+      HELCOM                                                                      intervention. This is however not a prerequisite for
+      EEA                                                                         inclusion in the systematic review since there are
+      Stockholm Convention GMP report to COP                                      other means of evaluating temporal trends (see
+      Netherlands RIVM                                                            section Data synthesis and presentation).
+      National food agencies
+      Environment Canada                                                      At the title and abstract level all retrieved articles will
+      Canadian Northern Contaminants Program                                be screened by two reviewers. To check that the screen-
+      US CDC, National Health and Nutrition                                 ing is consistent and complies with the agreed inclusion/
+       Examination Survey (NHANES)                                           exclusion criteria, a small subset (10%) of the retrieved
+      Other relevant organisations we identify                              articles will also be double screened by the other re-
+                                                                             viewers. In case it cannot be decided whether the article
+    The reviewers will also send a standardized email to                     should be included or excluded on the title and abstract
+their scientific networks asking for information on pos-                     level, the article will pass to the full text level. To evalu-
+sible studies that are soon to be available or in the grey                   ate the consistency of the screening, Kappa tests will be
+literature.                                                                  used. When screening at the full-text level the articles
+
+Land et al. Environmental Evidence 2015, 4:3                                                                    Page 9 of 13
+http://www.environmentalevidencejournal.org/content/4/1/3
+will be screened in the same manner as at the title and       studies, where different people are studied every year,
+abstract level. A subset of at least 10% of the articles will and prospective/longitudinal studies, where the same in-
+be double screened. Again, Kappa tests will be used to        dividuals are followed over time.
+test the consistency between the reviewers. If any Kappa        Analytical quality may also be a reason for heterogen-
+test shows unacceptable discrepancies (κ < 0.6) the inclu-    eity. In the early years standards were not always available
+sion/exclusion criteria will be revisited by all reviewers    for accurate calibration of the analytical instruments. Both
+and defined in a more unambiguous way. At both title/         accuracy and precision have been improved in recent
+abstract and full text levels, excluded articles will be      years, and the detection limits for PFASs were in general
+coded with a reason for exclusion. A list of all articles     100 times higher in 2000 than in 2014. The ability to dis-
+excluded at full text screening, with reasons for exclu-      tinguish between linear and branched perfluroalkyl chains
+sion, will be provided in the systematic review.              and to analyse a wider range of substances have helped to
+                                                              improve our understanding of heterogeneities between
+Potential effect modifiers and reasons for heterogeneity      studies.
+The outcome may to a large extent be a function of              In summary, potential effect modifiers and reasons for
+time, and one obvious factor influencing the outcome is       heterogeneity may include:
+the timing of the study relative to the interventions. A
+study with data from just a few years directly after the        Timing of the study relative to the interventions
+intervention is likely to show a smaller effect than a          Proximity to past and present sources
+more recent study covering a longer study period.               Geographical differences
+   Although the interventions are intended to have a glo-       Mode of predominant transport
+bal impact, the outcome may for several reasons vary            Type of sample e.g. sampling method, matrix,
+considerably depending on the location of the studies.          individual vs pooled
+Since the interventions are not yet implemented globally,       For human data, design of study (e.g. cross-sectional,
+it is reasonable to assume that the effect will be smaller      prospective, age, sex)
+in regions close to present sources compared to regions         Analytical quality in relation to time of the study (e.g.
+close to past sources where the interventions have been         availability of standards)
+implemented.                                                    Food web changes over time
+   Contaminated areas may also be a significant factor. In      Species differences
+areas where the phase-out has been implemented, con-
+taminated areas may still be present and leaching the         Study quality assessment
+phased-out substances to the surrounding environments.        During critical appraisal of relevant studies, information
+   In more remote regions, such as the Arctic, the out-       that directly affects the internal validity of each study
+come may depend on the predominating mode of trans-           will be recorded in a pre-designed Excel spreadsheet.
+port. In terrestrial or high-altitude areas where the PFAS    The assessment of the internal validity will focus on the
+source is dominated by long-range transport of volatile       following aspects:
+precursors, the response to the interventions may be
+quicker compared to coastal areas where the PFAS                 Selection bias. In this case the comparison groups
+source is dominated by direct long-range transport in               are formed by samples taken at different times. The
+the aquatic environment. The measured outcome may                   information about samples and what they represent
+also depend on sample type.                                         must be sufficient to determine whether samples
+   Food web dynamics, e.g. temporal shifts in diet and/or           from different sampling occasions are comparable.
+growth rates over the time-scale of decades, can influ-          Dating of samples. In most cases it is known when
+ence long-term temporal trends of persistent organic                samples are collected, but samples from
+contaminants. For example, in the northern Baltic Sea,              environmental archives such as sediment or ice
+herring have been shown over the long term to grow                  cores are more complicated to date accurately.
+more slowly which is related to shift in feeding at one             Dating by means of e.g. isotope techniques that give
+trophic level higher than they did in the past. Bioener-            an absolute age to each individual sample may be
+getics modelling undertaken by Peltonen et al. [90] sug-            regarded as high quality dating. Dating by means of
+gests that changes in the feeding behaviour of herring              historical markers (e.g. peak concentrations of other
+can explain the “levelling off” of the downward temporal            contaminants) providing relative ages may be
+trends of polychlorinated dibenzo-p-dioxins and poly-               regarded as acceptable dating. Post-depositional
+chlorinated dibenzofurans (PCDD/Fs) in herring from                 perturbations caused by for instance thawing-freezing
+the northern Baltic Sea [91]. Among studies of human                cycles in snow or bioturbation in sediments should be
+samples, the results may vary between cross-sectional               discussed and assessed.
+
+Land et al. Environmental Evidence 2015, 4:3                                                                     Page 10 of 13
+http://www.environmentalevidencejournal.org/content/4/1/3
+    Sample integrity. Are sample pre-treatment, sample          Critical appraisal of relevant studies will be carried out
+       preservation, prevention of contamination and           by four of the reviewers. To ensure a high consistency
+       storage methods suitable for the sample type?           between the reviewers at least 25% of the relevant arti-
+    Analytical quality. Are analytical procedures             cles will be double-checked and Kappa tests will be used
+       appropriate? Did instrumentation, internal              to test the consistency. In addition to this, any articles
+       standards, procedural blanks, LOD/LOQ or field          that for some reason are difficult to critically appraise
+       blanks change over time? If so, what is the risk that   will be discussed by the entire review team before any
+       these parameters have influenced the measured           decisions are made.
+       temporal trends?
+                                                               Data extraction strategy
+   Study length and sampling frequency will be recorded        Data (concentrations and other important study infor-
+but will generally not be part of the regular quality as-      mation) will be extracted from relevant studies and re-
+sessment since these parameters presumably will be             corded in pre-designed Excel data sheets. Information
+reflected by the standard errors and confidence intervals      directly relevant to the internal validity of the studies
+of the effect sizes in each study. Study length and sam-       will be extracted and recorded by the reviewers that
+pling frequency will thus affect the weighting of each         carry out the critical appraisal, while the rest of the data
+study in the quantitative synthesis. The number of indi-       will be extracted and recorded by two other reviewers.
+vidual or pooled samples will also be recorded. Standard       However, the design of the data extraction sheets and
+errors are likely to be smaller in studies with multiple       how they should be filled will be approved in advance by
+and individually analysed samples at each sampling occa-       all reviewers, and double-checking by all reviewers will
+sion than studies with just one sample from each time          be done for at least 25% of the articles. Data will always
+point. A high number of pooled samples at each sam-            be recorded as reported in the primary studies. All ne-
+pling occasion may increase the chance of obtaining re-        cessary transformations and calculations will be per-
+sults representative for these time points and may             formed at the analysis stage.
+therefore decrease the scatter along a regression line. In       The outcome data that will be recorded is the PFAS
+this way the number of pooled samples is also likely to        concentrations in the studied samples at different times
+affect the weighting of each study in the quantitative         and/or slopes of trends during specified time periods.
+synthesis.                                                     The location of these data within each article, as well as
+   Information important for the assessment of external        an indication whether the data have been graphically ex-
+validity, or how transferable the studies are to the           tracted from figures, will be recorded. The types of data
+context of the question, will be recorded as well. As          that will be compiled include sample type (air, sediment,
+indicated by the study inclusion criteria, relatively few      species etc.), matrix (filter, 2 cm slice, liver, dissolved vs
+restrictions regarding populations/subjects and geo-           total water etc.), number of pooled or individual sam-
+graphical locations will be applied. The external validity     ples, covariates (sampling time, age, sex etc.), statistical
+is therefore mainly related to subgroup analysis that will     variates (concentrations, slope of trend, linear-non-linear
+be performed. Information about environmental setting          etc.), geographical location, time period covered, number
+and important sample covariates should be reported to          of years covered. Data extraction may include contact
+such an extent that each study confidently can be grouped      with individual scientists for complementary information
+with other studies or be judged to stand alone. Also, the      or for raw data or unpublished data.
+study should cover a time period that is possible to relate
+to any known relevant phase-out.                               Data synthesis and presentation
+   Relevant studies that are judged to have low risk for       Meta-analyses for each PFAS will be performed using
+selection bias, have accurately dated samples, ensured         random effect models [92]. One possible effect size will
+good sample integrity, have used appropriate analytical        be based on average concentrations during specified pe-
+procedures, and provide sufficient information regarding       riods before and after the implementation of an inter-
+external validity will meet the quality criteria and hence be  vention, respectively. All studies do however not use the
+included in the quantitative synthesis. Any reason for not     same scale. Different units for concentration are used
+including a study based on quality will be recorded in the     for different sample types (e.g. water and sediment),
+data spreadsheet and a list of all articles excluded during    and different sample types show different concentration
+critical appraisal, with reasons for exclusion, will be pre-   levels depending on the partition coefficient between the
+sented in the systematic review. However, studies that fail    sample types. Different units for concentration may also
+to qualify for the quantitative synthesis will be used in sen- be used for a certain sample type. For example, the con-
+sitivity analyses where it will be tested if the inclusion or  centrations in sediment samples are sometimes given as
+exclusion of these studies influence the overall results.      ng/g bulk sediment and sometimes as ng/g TOC (Total
+
+Land et al. Environmental Evidence 2015, 4:3                                                                                                   Page 11 of 13
+http://www.environmentalevidencejournal.org/content/4/1/3
+Organic Carbon). All of this means that raw differences in                 Authors’ contributions
+average concentrations cannot be used as effect size.                      This systematic review protocol is based on a draft written by ML. All authors
+                                                                           discussed the draft and suggested improvements. The major part of the
+Therefore response ratios will be used as the effect size.                 background section is written by JWM, ITC and DH. All authors read and
+The response ratio R is calculated according to equation 1,                approved the final manuscript.
+where C   0 and C    I are the average concentration during a
+specified period before and after the implementation of                    Acknowledgements
+                                                                           The preparation of this protocol and the forthcoming review is financed by
+the intervention, respectively.                                            the Mistra Council for Evidence-based Environmental Management (Mistra
+                                                                           EviEM). EviEM is funded by the Swedish Foundation for Strategic Environmental
+           
+     R ¼ CI                                                            ð1Þ Research (Mistra) and hosted by the Royal Swedish Academy of Sciences. The
+           
+                                                                          authors wish to thank two anonymous reviewers for their insightful comments.
+           C0                                                              We are also grateful for the comments made by stakeholders during a public
+                                                                           review of an earlier version of this protocol.
+   Another effect size that will be explored is the normal-
+                                                                           Author details
+ized rate of change in concentration. It is possible that                  1
+                                                                            Mistra EviEM, The Royal Swedish Academy of Sciences, Box 50005, SE-104 05
+even though there is no significant difference in average                  Stockholm, Sweden. 2Department of Environmental Science and Analytical
+concentrations, there can be a significant trend in some                   Chemistry (ACES), Stockholm University, SE-106 91 Stockholm, Sweden.
+                                                                           3
+                                                                            Norwegian Inst Air Res, FRAM High North Res Ctr Climate & Environm, Tromso,
+direction after the intervention. Moreover, although the                   Norway. 4Division of Analytical and Environmental Toxicology, 10-102C Clinical
+evidence for a causal relationship between the outcome                     Sciences, Edmonton, Alberta T6G 2G3, Canada.
+and the intervention will be weaker, the rate of change
+                                                                           Received: 2 September 2014 Accepted: 24 November 2014
+in concentration can be evaluated when pre-intervention                    Published: 27 January 2015
+data is missing or when more than one intervention
+influence the outcome. This means that also non-                           References
+intervention studies can be included. The rate of change                   1. Lindstrom AB, Strynar MJ, Libelo EL. Polyfluorinated compounds: past,
+                                                                                present, and future. Environ Sci Technol. 2011;45:7954–61.
+will be calculated by means of regression analyses. Again,                 2. Kissa E. Fluorinated Surfactants and Repellents. 2nd ed. New York (NY):
+since different scales are used in different studies, the rate                  Marcel Dekker, Inc.; 2001.
+of change needs to be normalized. If the rate of change is                 3. Prevedouros K, Cousins IT, Buck RC, Korzeniowski SH. Sources, fate and
+                                                                                transport of perfluorocarboxylates. Environ Sci Technol. 2006;40:32–44.
+normalized to the average concentration before the inter-                  4. Wang Z, Cousins IT, Scheringer M, Buck RC, Hungerbühler K. Global
+vention the effect size C’ is calculated as                                     emission inventories for C4–C14 perfluoroalkyl carboxylic acid (PFCA)
+                                                                                homologues from 1951 to 2030, Part I: production and emissions from
+              1 ∂C                                                              quantifiable sources. Environ Int. 2014;70:62–75.
+     C′ ¼  ⋅                                                          ð2Þ 5. Wang Z, Cousins IT, Scheringer M, Buck RC, Hungerbühler K. Global
+             C 0 ∂t                                                             emission inventories for C4–C14 perfluoroalkyl carboxylic acid (PFCA)
+                                                                                homologues from 1951 to 2030, part II: the remaining pieces of the puzzle.
+                                                                                Environ Int. 2014;69:166–76.
+where C0 is concentration at time t = 0. It may also be                    6. Paul AG, Jones KC, Sweetman AJ. A first global production, emission, and
+possible to compare the normalised rates of change in                           environmental inventory for perfluorooctane sulfonate. Environ Sci Technol.
+concentration before and after the intervention, respect-                       2009;43:386–92.
+                                                                           7. Armitage JM, MacLeod M, Cousins IT. Modeling the Global Fate and
+ively, if that data exist.                                                      Transport of Perfluorooctanoic Acid (PFOA) and Perfluorooctanoate (PFO)
+   Obviously, with such a wide range of subjects or popu-                       Emitted from direct sources using a multispecies mass balance model.
+lations that potentially can be included in the systematic                      Environ Sci Technol. 2009;43:1134–40.
+                                                                           8. Smart BE, Dixon DA. Bond-energies and stabilities of poly(perfluoroethers).
+review it will be necessary to perform subgroup analyses.                       Abstr Pap Am Chem Soc. 1994;207:31-FLUO.
+It is envisaged that for each PFAS analysed, the splitting                 9. Buck RC, Franklin J, Berger U, Conder JM, Cousins IT, de Voogt P, et al.
+into subgroups will be based on e.g. sample type, species                       Perfluoroalkyl and polyfluoroalkyl substances in the environment:
+                                                                                terminology, classification, and origins. Integr Environ Assess Manag.
+and geographical region. A narrative synthesis will be                          2011;7:513–41.
+prepared using tables of study characteristics and results.                10. Becker AM, Gerstmann S, Frank H. Perfluorooctane surfactants in waste
+Visualisation of results may be done using forest plots                         waters, the major source of river pollution. Chemosphere. 2008;72:115–21.
+                                                                           11. Li XY, Zhang PY, Jin L, Shao T, Li ZM, Cao JJ. Efficient photocatalytic
+and other graphical representations.                                            decomposition of perfluorooctanoic acid by indium oxide and its
+                                                                                mechanism. Environ Sci Technol. 2012;46:5528–34.
+Additional files                                                           12. Igarashi S, Yotsuyanagi T. Homogeneous liquid-liquid-extraction by ph
+                                                                                dependent phase-separation with a fluorocarbon ionic surfactant and its
+                                                                                application to the preconcentration of porphyrin compounds. Mikrochim
+  Additional file 1: List of abbreviations.                                     Acta. 1992;106:37–44.
+  Additional file 2: Search strings used in individual literature          13. Lopez-Fontan JL, Sarmiento F, Schulz PC. The aggregation of sodium
+  databases.                                                                    perfluorooctanoate in water. Colloid Polym Sci. 2005;283:862–71.
+  Additional file 3: List of relevant articles that should be found in     14. Wang ZY, MacLeod M, Cousins IT, Scheringer M, Hungerbuhler K. Using
+  searches for literature.                                                      COSMOtherm to predict physicochemical properties of poly- and
+                                                                                perfluorinated alkyl substances (PFASs). Environ Chem. 2011;8:389–98.
+                                                                           15. Vierke L, Berger U, Cousins IT. Estimation of the acid dissociation constant of
+Competing interests                                                             perfluoroalkyl carboxylic acids through an experimental investigation of
+The authors declare that they have no competing interests.                      their water-to-air transport. Environ Sci Technol. 2013;47:11032–9.
+
+Land et al. Environmental Evidence 2015, 4:3                                                                                                           Page 12 of 13
+http://www.environmentalevidencejournal.org/content/4/1/3
+16. Higgins CP, Luthy RG. Sorption of perfluorinated surfactants on sediments.     39. Joensen UN, Veyrand B, Antignac JP, Jensen MB, Petersen JH, Marchand P,
+     Environ Sci Technol. 2006;40:7251–6.                                              et al. PFOS (perfluorooctanesulfonate) in serum is negatively associated with
+17. Gottschall N, Topp E, Edwards M, Russell P, Payne M, Kleywegt S, et al.            testosterone levels, but not with semen quality, in healthy men. Hum
+     Polybrominated diphenyl ethers, perfluorinated alkylated substances, and          Reprod. 2013;28:599–608.
+     metals in tile drainage and groundwater following applications of municipal   40. Kjeldsen LS, Bonefeld-Jorgensen EC. Perfluorinated compounds affect the
+     biosolids to agricultural fields. Sci Total Environ. 2010;408:873–83.             function of sex hormone receptors. Environ Sci Pollut Res. 2013;20:8031–44.
+18. Ahrens L, Yeung LWY, Taniyasu S, Lam PKS, Yamashita N. Partitioning of         41. Ikeda T, Aiba K, Fukuda K, Tanaka M. The induction of peroxisome
+     perfluorooctanoate (PFOA), perfluorooctane sulfonate (PFOS) and                   proliferation in rat-liver by perfluorinated fatty-acids, metabolically inert
+     perfluorooctane sulfonamide (PFOSA) between water and sediment.                   derivatives of fatty-acids. J Biochem. 1985;98:475–82.
+     Chemosphere. 2011;85:731–7.                                                   42. Kudo N, Bandai N, Suzuki E, Katakura M, Kawashima Y. Induction by
+19. Benskin JP, Ahrens L, Muir DCG, Scott BF, Spencer C, Rosenberg B, et al.           perfluorinated fatty acids with different carbon chain length of peroxisomal
+     Manufacturing Origin of Perfluorooctanoate (PFOA) in Atlantic and                 beta-oxidation in the liver of rats. Chem Biol Interact. 2000;124:119–32.
+     Canadian Arctic Seawater. Environ Sci Technol. 2012;46:677–85.                43. Upham BL, Deocampo ND, Wurl B, Trosko JE. Inhibition of gap junctional
+20. Yamashita N, Taniyasu S, Petrick G, Wei S, Gamo T, Lam PKS, et al.                 intercellular communication by perfluorinated fatty acids is dependent on
+     Perfluorinated acids as novel chemical tracers of global circulation of ocean     the chain length of the fluorinated tail. Int J Cancer. 1998;78:491–5.
+     waters. Chemosphere. 2008;70:1247–55.                                         44. Vanden Heuvel JP. Perfluorodecanoic acid as a useful pharmacologic tool
+21. Barton CA, Zarzecki CJ, Russell MH. A site-specific screening comparison of        for the study of peroxisome proliferation. Gen Pharmacol Vasc Syst.
+     modeled and monitored air dispersion and deposition for                           1996;27:1123–9.
+     perfluorooctanoate. J Air Waste Manage Assoc. 2010;60:402–11.                 45. 3M. Letter to US EPA Re: phase-out plan for POSF-based products (226–0600).
+22. Ellis DA, Martin JW, De Silva AO, Mabury SA, Hurley MD, Sulbaek Andersen           US EPA Adm Rec. 2000;226:1–11.
+     MP, et al. Degradation of fluorotelomer alcohols: a likely atmospheric source 46. 2010/2015 PFOA Stewardship Programme. http://www.epa.gov/oppt/pfoa/
+     of perfluorinated carboxylic acids. Environ Sci Technol. 2004;38:3316–21.         pubs/stewardship/index.html.
+23. Armitage JM, MacLeod M, Cousins IT. Comparative Assessment of the              47. ECHA. Candidate list of substances of very high concern for authorisation.
+     Global Fate and Transport Pathways of Long-Chain Perfluorocarboxylic              2014; http://echa.europa.eu/web/guest/candidate-list-table.
+     Acids (PFCAs) and Perfluorocarboxylates (PFCs) Emitted from Direct Sources.   48. Ritter S. Fluorochemicals go short. Chem Eng News. 2010;88:12–7.
+     Environ Sci Technol. 2009;43:5830–6.                                          49. Wang ZY, Cousins IT, Scheringer M, Hungerbuhler K. Fluorinated alternatives
+24. EFSA. Opinion of the Scientific Panel on Contaminants in the Food chain on         to long-chain perfluoroalkyl carboxylic acids (PFCAs), perfluoroalkane
+     Perfluorooctane sulfonate (PFOS), perfluorooctanoic acid (PFOA) and their         sulfonic acids (PFSAs) and their potential precursors. Environ Int.
+     salts. FSA J. 2008;653:1–131.                                                     2013;60:242–8.
+25. Ahrens L, Herzke D, Huber S, Bustnes JO, Bangjord G, Ebinghaus R.              50. Armitage JM, Schenker U, Scheringer M, Martin JW, MacLeod M, Cousins IT.
+     Temporal trends and pattern of polyfluoroalkyl compounds in tawny owl             Modeling the global fate and transport of perfluorooctane sulfonate (PFOS)
+     (Strix aluco) eggs from Norway, 1986–2009. Environ Sci Technol.                   and precursor compounds in relation to temporal trends in wildlife
+     2011;45:8090–7.                                                                   exposure. Environ Sci Technol. 2009;43:9274–80.
+26. Holmstrom KE, Johansson AK, Bignert A, Lindberg P, Berger U. Temporal          51. Martin JW, Asher BJ, Beesoon S, Benskin JP, Ross MS. PFOS or PreFOS? Are
+     trends of perfluorinated surfactants in swedish peregrine falcon eggs             perfluorooctane sulfonate precursors (PreFOS) important determinants of
+     (Falco peregrinus), 1974–2007. Environ Sci Technol. 2010;44:4083–8.               human and environmental perfluorooctane sulfonate (PFOS) exposure?
+27. Vicente J, Bertolero A, Meyer J, Viana P, Lacorte S. Distribution of               J Environ Monit. 2010;12:1979–2004.
+     perfluorinated compounds in Yellow-legged gull eggs (Larus michahellis)       52. Benskin JP, Muir DCG, Scott BF, Spencer C, De Silva AO, Kylin H, et al.
+     from the Iberian Peninsula. Sci Total Environ. 2012;416:468–75.                   Perfluoroalkyl acids in the Atlantic and Canadian Arctic Oceans. Environ Sci
+28. Houde M, De Silva AO, Muir DCG, Letcher RJ. Monitoring of perfluorinated           Technol. 2012;46:5815–23.
+     compounds in aquatic biota: an updated review PFCs in aquatic biota.          53. Filipovic M, Berger U, McLachlan MS. Mass balance of perfluoroalkyl acids in
+     Environ Sci Technol. 2011;45:7962–73.                                             the Baltic sea. Environ Sci Technol. 2013;47:4088–95.
+29. Lindh CH, Rylander L, Toft G, Axmon A, Rignell-Hydbom A, Giwercman A,          54. Hu JY, Yu J, Tanaka S, Fujii S. Perfluorooctane Sulfonate (PFOS) and
+     et al. Blood serum concentrations of perfluorinated compounds in men              Perfluorooctanoic Acid (PFOA) in water environment of Singapore. Water
+     from Greenlandic Inuit and European populations. Chemosphere.                     Air Soil Pollut. 2011;216:179–91.
+     2012;88:1269–75.                                                              55. Kwok KY, Yamazaki E, Yamashita N, Taniyasu S, Murphy MB, Horii Y, et al.
+30. Sturm R, Ahrens L. Trends of polyfluoroalkyl compounds in marine biota             Transport of Perfluoroalkyl substances (PFAS) from an arctic glacier to
+     and in humans. Environ Chem. 2010;7:457–84.                                       downstream locations: implications for sources. Sci Total Environ.
+31. Conder JM, Hoke RA, De Wolf W, Russell MH, Buck RC. Are PFCAs                      2013;447:46–55.
+     bioaccumulative? A critical review and comparison with regulatory             56. Wang X, Halsall C, Codling G, Xie Z, Xu B, Zhao Z, et al. Accumulation of
+     lipophilic compounds. Environ Sci Technol. 2008;42:995–1003.                      perfluoroalkyl compounds in tibetan mountain snow: temporal patterns
+32. Tomy GT, Pleskach K, Ferguson SH, Hare J, Stern G, Macinnis G, et al.              from 1980 to 2010. Environ Sci Technol. 2014;48:173–81.
+     Trophodynamics of some PFCs and BFRs in a Western Canadian Arctic             57. Ahrens L. Polyfluoroalkyl compounds in the aquatic environment: a review
+     Marine Food Web. Environ Sci Technol. 2009;43:4076–81.                            of their occurrence and fate. J Environ Monit. 2011;13:20–31.
+33. Kelly BC, Ikonomou MG, Blair JD, Surridge B, Hoover D, Grace R, et al.         58. Braune BM, Letcher RJ. Perfluorinated sulfonate and carboxylate compounds in
+     Perfluoroalkyl contaminants in an arctic marine food web: trophic                 eggs of seabirds breeding in the Canadian Arctic: temporal trends (1975–2011)
+     magnification and wildlife exposure. Environ Sci Technol. 2009;43:4037–43.        and interspecies comparison. Environ Sci Technol. 2013;47:616–24.
+34. Loi EIH, Yeung LWY, Taniyasu S, Lam PKS, Kannan K, Yamashita N. Trophic        59. Giesy JP, Kannan K. Global distribution of perfluorooctane sulfonate in
+     magnification of poly- and perfluorinated compounds in a subtropical food         wildlife. Environ Sci Technol. 2001;35:1339–42.
+     web. Environ Sci Technol. 2011;45:5506–13.                                    60. Hart K, Gill VA, Kannan K. Temporal trends (1992–2007) of perfluorinated
+35. Martin JW, Whittle DM, Muir DCG, Mabury SA. Perfluoroalkyl contaminants            chemicals in northern sea otters (Enhydra lutris kenyoni) from South-Central
+     in a food web from lake Ontario. Environ Sci Technol. 2004;38:5379–85.            Alaska. Arch Environ Contam Toxicol. 2009;56:607–14.
+36. Muller CE, De Silva AO, Small J, Williamson M, Wang XW, Morris A, et al.       61. Lofstrand K, Jorundsdottir H, Tomy G, Svavarsson J, Weihe P, Nygard T, et al.
+     Biomagnification of perfluorinated compounds in a remote terrestrial food         Spatial trends of polyfluorinated compounds in guillemot (Uria aalge) eggs
+     chain: lichen-caribou-wolf. Environ Sci Technol. 2011;45:8665–73.                 from North-Western Europe. Chemosphere. 2008;72:1475–80.
+37. Russell MH, Nilsson H, Buck RC. Elimination kinetics of perfluorohexanoic      62. Shi YL, Pan YY, Yang RQ, Wang YW, Cai YQ. Occurrence of perfluorinated
+     acid in humans and comparison with mouse, rat and monkey.                         compounds in fish from Qinghai-Tibetan Plateau. Environ Int.
+     Chemosphere. 2013;93:2419–25.                                                     2010;36:46–50.
+38. Du GZ, Huang HY, Hu JL, Qin YF, Wu D, Song L, et al. Endocrine-related         63. Calafat AM, Kuklenyik Z, Caudill SP, Reidy JA, Needham LL.
+     effects of perfluorooctanoic acid (PFOA) in zebrafish, H295R steroidogenesis      Perfluorochemicals in pooled serum samples from United States residents
+     and receptor reporter gene assays. Chemosphere. 2013;91:1099–106.                 in 2001 and 2002. Environ Sci Technol. 2006;40:2128–34.
+
+Land et al. Environmental Evidence 2015, 4:3                                                                                                             Page 13 of 13
+http://www.environmentalevidencejournal.org/content/4/1/3
+64. Chen CL, Lu YL, Zhang X, Geng J, Wang TY, Shi YJ, et al. A review of spatial    86. Borg D, Håkansson H. Environmental and Health Risk Assessment of
+     and temporal assessment of PFOS and PFOA contamination in China. Chem               Perfluoroalkylated and Polyfluoroalkylated Substances (PFASs) in Sweden. In:
+     Ecol. 2009;25:163–77.                                                               Book Environmental and Health Risk Assessment of Perfluoroalkylated and
+65. Ericson I, Gomez M, Nadal M, van Bavel B, Lindstrom G, Domingo JL.                   Polyfluoroalkylated Substances (PFASs) in Sweden (Editor ed.^eds.), vol.
+     Perfluorinated chemicals in blood of residents in Catalonia (Spain) in              6513. City: Swedish Environmental Protection Agency; 2012.
+     relation to age and gender: A pilot study. Environ Int. 2007;33:616–23.        87. Molina ED, Balander R, Fitzgerald SD, Giesy JP, Kannan K, Mitchell R, et al.
+66. Fromme H, Midasch O, Twardella D, Angerer J, Boehmer S, Liebl B.                     Effects of air cell injection of perfluorooctane sulfonate before incubation
+     Occurrence of perfluorinated substances in an adult German population in            on development of the white leghorn chicken (Gallus domesticus) embryo.
+     southern Bavaria. Int Arch Occup Environ Health. 2007;80:313–9.                     Environ Toxicol Chem. 2006;25:227–32.
+67. Ji K, Kim S, Kho Y, Paek D, Sakong J, Ha J, et al. Serum concentrations of      88. Dietz R, Bossi R, Riget FF, Sonne C, Born EW. Increasing perfluoroalkyl
+     major perfluorinated compounds among the general population in Korea:               contaminants in east Greenland polar bears (Ursus maritimus): a new toxic
+     dietary sources and potential impact on thyroid hormones. Environ Int.              threat to the Arctic bears. Environ Sci Technol. 2008;42:2701–7.
+     2012;45:78–85.                                                                 89. Wania F. A global mass balance analysis of the source of perfluorocarboxylic
+68. Karrman A, Domingo JL, Llebaria X, Nadal M, Bigas E, van Bavel B, et al.             acids in the Arctic ocean. Environ Sci Technol. 2007;41:4529–35.
+     Biomonitoring perfluorinated compounds in Catalonia, Spain:                    90. Peltonen H, Kiljunen M, Kiviranta H, Vuorinen PJ, Verta M, Karjalainen J.
+     concentrations and trends in human liver and milk samples. Environ Sci              Predicting effects of exploitation rate on weight-at-age, population dynamics,
+     Pollut Res. 2010;17:750–8.                                                          and bioaccumulation of PCDD/Fs and PCBs in herring (Clupea harengus L.) in
+69. Kato K, Calafat AM, Wong LY, Wanigatunga AA, Caudill SP, Needham LL.                 the Northern Baltic Sea. Environ Sci Technol. 2007;41:1849–55.
+     Polyfluoroalkyl compounds in pooled sera from children participating in the    91. Miller A, Hedman JE, Nyberg E, Haglund P, Cousins IT, Wiberg K, et al.
+     national health and nutrition examination survey 2001–2002. Environ Sci             Temporal trends in dioxins (polychlorinated dibenzo-p-dioxin and
+     Technol. 2009;43:2641–7.                                                            dibenzofurans) and dioxin-like polychlorinated biphenyls in Baltic herring
+70. Volkel W, Genzel-Boroviczeny O, Demmelmair H, Gebauer C, Koletzko B,                 (Clupea harengus). Mar Pollut Bull. 2013;73:220–30.
+     Twardella D, et al. Perfluorooctane sulphonate (PFOS) and perfluorooctanoic    92. Borenstein M, Hedges LV, Higgins JPT, Rothstein HR. Introduction to
+     acid (PFOA) in human breast milk: results of a pilot study. Int J Hyg Environ       meta-analysis. John Wiley & Sons, Ltd; 2009.
+     Health. 2008;211:440–6.
+71. Fernandez-Sanjuan M, Faria M, Lacorte S, Barata C. Bioaccumulation and            doi:10.1186/2047-2382-4-3
+     effects of perfluorinated compounds (PFCs) in zebra mussels (Dreissena           Cite this article as: Land et al.: What is the effect of phasing out long-chain
+     polymorpha). Environ Sci Pollut Res. 2013;20:2661–9.                             per- and polyfluoroalkyl substances on the concentrations of perfluoroalkyl
+72. Lasier PJ, Washington JW, Hassan SM, Jenkins TM. Perfluorinated chemicals         acids and their precursors in the environment? A systematic review protocol.
+     in surface waters and sediments from northwest georgia, usa, and their           Environmental Evidence 2015 4:3.
+     bioaccumulation in lumbriculus variegatus. Environ Toxicol Chem.
+     2011;30:2194–201.
+73. Fang S, Chen X, Zhao S, Zhang Y, Jiang W, Yang L, et al. Trophic
+     magnification and isomer fractionation of perfluoroalkyl substances in the
+     food web of Taihu Lake, China. Environ Sci Technol. 2014;48:2173–82.
+74. Kannan K, Tao L, Sinclair E, Pastva SD, Jude DJ, Giesy JP. Perfluorinated
+     compounds in aquatic organisms at various trophic levels in a Great Lakes
+     food chain. Arch Environ Contam Toxicol. 2005;48:559–66.
+75. Martin JW, Mabury SA, Solomon KR, Muir DCG. Bioconcentration and tissue
+     distribution of perfluorinated acids in rainbow trout (Oncorhynchus mykiss).
+     Environ Toxicol Chem. 2003;22:196–204.
+76. Martin JW, Mabury SA, Solomon KR, Muir DCG. Dietary accumulation of
+     perfluorinated acids in juvenile rainbow trout (Oncorhynchus mykiss).
+     Environ Toxicol Chem. 2003;22:189–95.
+77. Zhao S, Zhu L, Liu L, Liu Z, Zhang Y. Bioaccumulation of perfluoroalkyl
+     carboxylates (PFCAs) and perfluoroalkane sulfonates (PFSAs) by earthworms
+     (Eisenia fetida) in soil. Environ Pollut. 2013;179:45–52.
+78. Olsen GW, Mair DC, Church TR, Ellefson ME, Reagen WK, Boyd TM, et al.
+     Decline in perfluorooctanesulfonate and other polyfluoroalkyl chemicals in
+     American Red Cross adult blood donors, 2000–2006. Environ Sci Technol.
+     2008;42:4989–95.
+79. Zhang L, Liu JG, Hu JX, Liu C, Guo WG, Wang Q, et al. The inventory of
+     sources, environmental releases and risk assessment for perfluorooctane
+     sulfonate in China. Environ Pollut. 2012;165:193–8.
+80. Renner R. The long and the short of perfluorinated replacements. Environ
+     Sci Technol. 2006;40:12–3.
+81. Kirchgeorg T, Weinberg I, Dreyer A, Ebinghaus R. Perfluorinated compounds
+     in marine surface waters: data from the Baltic Sea and methodological                 Submit your next manuscript to BioMed Central
+     challenges for future studies. Environ Chem. 2010;7:429–34.                           and take full advantage of:
+82. Zhou Z, Liang Y, Shi Y, Xu L, Cai Y. Occurrence and transport of
+     perfluoroalkyl acids (PFAAs), including short-chain PFAAs in Tangxun Lake,
+                                                                                           • Convenient online submission
+     China. Environ Sci Technol. 2013;47:9249–57.
+83. Persson S, Rotander A, Karrman A, van Bavel B, Magnusson U. Perfluoroalkyl             • Thorough peer review
+     acids in subarctic wild male mink (Neovison vison) in relation to age,                • No space constraints or color ﬁgure charges
+     season and geographical area. Environ Int. 2013;59:425–30.
+84. Glynn A, Berger U, Bignert A, Ullah S, Aune M, Lignell S, et al. Perfluorinated        • Immediate publication on acceptance
+     alkyl acids in blood serum from primiparous women in Sweden: serial                   • Inclusion in PubMed, CAS, Scopus and Google Scholar
+     sampling during pregnancy and nursing, and temporal trends 1996–2010.                 • Research which is freely available for redistribution
+     Environ Sci Technol. 2012;46:9071–9.
+85. The environmental objectives portal. http://www.miljomal.se/Environmental-
+     Objectives-Portal/.                                                                   Submit your manuscript at
+                                                                                           www.biomedcentral.com/submit
+

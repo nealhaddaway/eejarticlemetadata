@@ -1,0 +1,1219 @@
+Land et al. Environ Evid (2016) 5:9
+DOI 10.1186/s13750-016-0060-0                                                                                          Environmental Evidence
+  SYSTEMATIC REVIEW                                                                                                                                   Open Access
+How effective are created or
+restored freshwater wetlands for nitrogen
+and phosphorus removal? A systematic review
+Magnus Land1*, Wilhelm Granéli2,3,5, Anders Grimvall4, Carl Christian Hoffmann5, William J. Mitsch3,
+Karin S. Tonderski6 and Jos T. A. Verhoeven7
+  Abstract
+  Background: Eutrophication of aquatic environments is a major environmental problem in large parts of the world.
+  In Europe, EU legislation (the Water Framework Directive and the Marine Strategy Framework Directive), international
+  conventions (OSPAR, HELCOM) and national environmental objectives emphasize the need to reduce the input of
+  nutrients to freshwater and marine environments. A widely used method to achieve this is to allow water to pass
+  through a created or restored wetland. However, the large variation in measured nutrient removal rates in such wet-
+  lands calls for a systematic review.
+  Methods: Searches for primary studies were performed in electronic databases and on the internet. One author per-
+  formed the screening of all retrieved articles at the title and abstract level. To check that the screening was consistent
+  and complied with the agreed inclusion/exclusion criteria, subsets of 100 articles were screened by the other authors.
+  When screening at full-text level the articles were evenly distributed among the authors. Kappa tests were used to
+  evaluate screening consistency. Relevant articles remaining after screening were critically appraised and assigned to
+  three quality categories, from two of which data were extracted. Quantitative synthesis consists of meta-analyses and
+  response surface analyses. Regressions were performed using generalized additive models that can handle nonlinear
+  relationships and interaction effects.
+  Results: Searches generated 5853 unique records. After screening on relevance and critical appraisal, 93 articles
+  including 203 wetlands were used for data extraction. Most of the wetlands were situated in Europe and North Amer-
+  ica. The removal rate of both total nitrogen (TN) and total phosphorus (TP) is highly dependent on the loading rate.
+  Significant relationships were also found for annual average air temperature (T) and wetland area (A). Median removal
+  rates of TN and TP were 93 and 1.2 g m−2 year−1, respectively. Removal efficiency for TN was significantly correlated
+  with hydrologic loading rate (HLR) and T, and the median was 37 %, with a 95 % confidence interval of 29–44 %.
+  Removal efficiency for TP was significantly correlated with inlet TP concentration, HLR, T, and A. Median TP removal
+  efficiency was 46 % with a 95 % confidence interval of 37–55 %. Although there are small differences in average val-
+  ues between the two quality categories, the variation is considerably smaller among high quality studies compared
+  to studies with lower quality. This suggests that part of the large variation between studies may be explained by less
+  rigorous study designs.
+  Conclusions: On average, created and restored wetlands significantly reduce the transport of TN and TP in treated
+  wastewater and urban and agricultural runoff, and may thus be effective in efforts to counteract eutrophication.
+  However, restored wetlands on former farmland were significantly less efficient than other wetlands at TP removal.
+*Correspondence: magnus.land@eviem.se
+1
+  Mistra EviEM, Stockholm Environment Institute, Box 24218,
+10451 Stockholm, Sweden
+Full list of author information is available at the end of the article
+                                              © 2016 Land et al. This article is distributed under the terms of the Creative Commons Attribution 4.0 International License
+                                              (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium,
+                                              provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license,
+                                              and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/
+                                              publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+
+Land et al. Environ Evid (2016) 5:9                                                                                Page 2 of 26
+  In addition, wetlands with precipitation-driven HLRs and/or hydrologic pulsing show significantly lower TP removal
+  efficiencies compared to wetlands with controlled HLRs. Loading rate (inlet concentrations × hydraulic loading rates)
+  needs to be carefully estimated as part of the wetland design. More research is needed on the effects of hydrologic
+  pulsing on wetlands. There is also a lack of evidence for long-term (>20 years) performance of wetlands.
+  Keywords: Nitrogen, Phosphorus, Nutrient, Removal rate, Removal efficiency, Wetland creation, Restored wetland,
+  Constructed wetland, Pond, Eutrophication
+Background                                                       permeable filter material (“soil”) planted with emergent
+In Europe, like in many other parts of the world, nutri-         wetland plants. Water flows horizontally in and beneath
+ent enrichment of water bodies is a major environmental          their rhizosphere, which creates a mix of saturated
+problem [1]. Several EU directives emphasize the need            anaerobic, and unsaturated aerobic zones. A VF wetland
+to reduce the input of nutrients to both freshwater and          is similarly constructed, but water is applied on the sur-
+marine ecosystems (e.g., the Water Framework Directive,          face of the filtering material, and percolates through the
+the Marine Strategy Framework Directive and the Nitrate          rhizosphere. This results in a typically unsaturated aer-
+Directive). This is also an important part of the Helsinki       ated “soil”. When wetlands are restored, interventions
+Commission (HELCOM) Baltic Sea Action Plan, which                are typically made to recreate previously drained, or by
+contains several suggested measures targeting nutrient           other means altered, natural wetlands. There are numer-
+losses from agricultural land. Wetland creation is one of        ous studies of the physical and biogeochemical processes
+these, as it is known that the biogeochemical transforma-        involved in the removal of both nitrogen and phospho-
+tions that occur in wetlands generally result in a reduc-        rus. These are therefore relatively well known. When
+tion in the nutrient content of the water flow.                  comparing different studies, the removal efficiency varies
+  Wetland creation has been practiced, e.g., in Sweden,          considerably, which makes it difficult to assess the extent
+where wetlands have been constructed and restored on             to which wetland creation is an efficient measure to
+a fairly large scale since the 1990s—initially focused on        reduce eutrophication. Several previous studies [10–18]
+nitrogen removal and biodiversity enhancement. Nitro-            (cited in the protocol for this systematic review [19]) have
+gen was usually assumed to limit primary production in           indicated that removal differences between wetlands are
+marine ecosystems [2, 3], and also in the brackish-water         related to a number of different factors such as inflow
+Baltic Sea [4] which catchment includes most of Swe-             concentration, load variations, hydraulic retention time,
+den. However, this is a disputed assumption, and some            temperature, hydraulic efficiency, and type of wetland.
+scientists have the opinion that phosphorus is ultimately        This calls for a systematic review of removal rates and
+limiting production in the Baltic Sea [5–7]. In freshwater       how they are influenced by the wetland characteristics,
+bodies eutrophication is usually thought to be controlled        loading differences, and environmental factors.
+by phosphorus inputs only [6], although this is also               In Sweden, thousands of hectares of wetlands have
+somewhat controversial and some scientists argue that            been financed through various governmental funds and
+nitrogen inputs to lakes have to be reduced as well [5].         created as a means of reaching the Environmental objec-
+Thus, singling out one nutrient or the other as limiting in      tives “Thriving wetlands” and “Zero eutrophication”, and
+the marine and freshwater system, respectively, may sim-         to meet the commitments made in the Baltic Sea Action
+plify reality too far. In many systems both nitrogen and         Plan (BSAP) [20]. The nutrient removal effects of those
+phosphorus are limiting depending on time of year and            investments have been estimated using both statistical
+location [8]. Therefore, whether the major concern is the        models and a catchment hydro-chemical model [21–24].
+marine environment or freshwater ecosystems, quantify-           In general, surprisingly low mean removal rates have
+ing the effect of measures to remove both nitrogen and           been reported, and this is mainly attributed to the fact
+phosphorus from water is very relevant.                          that many wetlands were created as part of biodiversity
+  Created wetlands can be of different types, and are usu-       conservation efforts and thus receive low nutrient loads.
+ally classified as free water surface constructed wetlands         In a recent evaluation, Weisner et al. [25] assessed the
+(FWS), horizontal subsurface flow constructed wetlands           nutrient removal effects of around 5300 ha wetlands cre-
+(HSF), and vertical flow constructed wetlands (VF) [9].          ated within the Rural Development Program 2007–2013.
+FWS wetlands are usually between 0.1 and 2 m deep,               Previously used calculation models were modified based
+with a plant community that can be composed of algae,            on new monitoring data, and it was estimated that those
+and submersed, floating or emergent wetland plants.              wetlands would remove 0.35–0.6 g m−2 year−1 of phos-
+HSF constructed wetlands are typically designed with a           phorus and 3.2–4.6 g m−2 year−1 of nitrogen. If only
+
+Land et al. Environ Evid (2016) 5:9                                                                           Page 3 of 26
+looking at the group of wetlands that were created with     of nitrogen and phosphorus in the water phase. Removal
+nutrient removal as the main goal, the removal was about    processes imply transformation of the nutrients to other
+ten times higher or 3–4.5 g m−2 year−1 for phosphorus       forms; for nitrogen this often means nitrogen gas and a
+and 30–34 g m−2 year−1 for nitrogen. Based on the rela-     smaller proportion of the greenhouse gas nitrous oxide,
+tively small number of monitoring data sets that exist, the which will be emitted to the atmosphere.
+authors concluded that it would be possible to achieve a      Secondary questions are related to how various effect
+removal of around 10 g m−2 year−1 of phosphorus and         modifiers, such as environmental conditions and wetland
+100 g m−2 year−1 of nitrogen in individual wetlands,        characteristics, influence the nutrient removal rates. For
+provided they are located in optimal locations and with     that reason this review covers a fairly wide range of cli-
+a design adapted to achieve high nutrient removal rates.    matic conditions, although the performance of wetlands
+For non-point source (mostly agricultural and urban         in temperate and boreal regions is most relevant to the
+runoff ) nutrient removal in eastern USA, Mitsch et al.     stakeholders in Sweden. The review will not engage in
+[26] suggested that sustainable removal rates would be      detailed investigations of various removal processes and
+10–40 g m−2 year−1 for nitrogen and 0.5–5 g m−2 year−1      mechanisms but rather treat each wetland as a “black
+for phosphorus, and based this on wetland studies in the    box”. This of course introduces some uncertainties. How-
+last quarter of the 20th century.                           ever, when assessing study quality, studies presenting
+  The different models used in the cited evaluations are    complete nutrient budgets where removal by individual
+all based on assumed relationships between removal          processes had been quantified were rated higher than
+rates and loads. Although not directly comparable, the      studies merely providing inlet/outlet data. A fairly bal-
+results clearly indicate that the removal rates for nitro-  anced budget may indicate that the numbers are reason-
+gen and phosphorus in created or restored wetlands span     ably accurate and/or that no major source or sink have
+over a wide range. Published research studies also show     been overlooked. The structure of the primary question
+that even though there is a generally positive relationship is further discussed in the section Study Criteria, where
+between removal rate and loading rate, the variation is     information on relevant subjects, interventions, compar-
+quite large between wetlands with similar loads. It is thus ator and outcomes is given in more detail.
+unclear to what degree created wetlands will contribute
+to fulfilling the different Swedish environmental goals     Methods
+related to eutrophication. In this context, the Swedish     Searches
+Board of Agriculture and the Swedish Agency for Marine      Searches for literature were made in ten different lit-
+and Water Management were interested in obtaining a         erature databases. The searched fields and search date
+comprehensive evaluation of measured retention rates in     are shown for each database in Table 1. Specific search
+individual wetlands. They were also interested in obtain-   strings for each database is shown in Additional file 1. No
+ing a coherent picture of how different wetlands function   particular time, document type or language constraints
+in a variety of conditions to facilitate planning of more   were applied. However, at a later stage it was decided that
+effective water pollution control. In addition, the waste-  articles in Chinese should be excluded due to the lack of
+water treatment industries are important stakeholders,      translation resources.
+as they will most likely be expected to have to comply        Grey literature was searched for using the search
+with even stricter regulations on nutrient emissions than   engine Google where simplified search strings were used.
+today. Created wetlands may prove to be a cost-efficient    In addition to searches where English search terms were
+polishing step to reach those regulation demands.           used, searches were also performed using Swedish, Dan-
+                                                            ish, and Dutch search terms. Search terms used for the
+Objective of the review                                     Google search engine are shown in Additional file 1.
+The objective of this review is to quantify observed        Searches were performed 2014-03-03.
+removal rates of nutrients in created or restored wet-        In addition, the websites of relevant specialist organisa-
+lands, and to examine the distribution of these rates and   tions (listed below) were also searched. Where possible
+quantify the variation between different studies. The pri-  the same search string as for Google was used (in relevant
+mary question this review seeks an answer to is “How        language). Generally, the first 100 hits were examined in
+effective are created or restored freshwater wetlands for   the searches using Google and on specialist websites.
+nitrogen removal and phosphorus retention?” This ques-
+tion implicitly includes the relationship between removal     ••  Swedish Environmental Protection Agency (SEPA)
+and load, as effectiveness can be expressed both as           ••  Swedish Board of Agriculture
+removal rates (g m−2 year−1) and relative removal (% of       ••  The Swedish Agency for Marine and Water Manage-
+load). In this review, removal refers to a reduced amount         ment
+
+Land et al. Environ Evid (2016) 5:9                                                                                      Page 4 of 26
+Table 1 Electronic databases used for searching
+Database                                      Searched field                                    No of hits                Date
+ISI web of science                            Topic                                             3249                      2013-02-26
+Georef and geobase                            Subject/title/abstract                            2249                      2013-02-26
+Scopus                                        Title, abstract and keywords                      2842                      2013-02-26
+Agricola                                      Keyword anywhere                                   524                      2013-02-26
+ASFA                                          All fields (no full text)                         1933a                     2013-02-27
+Academic search                               Title/abstract/subject/keyword                    1131                      2013-02-27
+Biological abstracts                          Keywords                                           401                      2013-02-27
+Wiley online library                          Abstract or title or keywords                      174                      2013-02-27
+Directory of open access journals             All fields                                          84a                     2013-03-05
+ScienceDirect                                 Abstract or title or keywords                      876                      2013-07-02
+a
+  After removal of duplicates
+    ••  Swedish directory of Master thesis (DiVA)                       ••  Relevant subject: Secondary or tertiary treated
+    ••  South Florida Water Management District                             domestic wastewater, urban storm water, stream/
+    ••  U.S. Environmental Protection Agency (EPA)                          river water, freshwater aquaculture effluents, and
+    ••  North American Data Base (NADB)                                     runoff from agricultural fields. To be able to make
+    ••  U.S. Department of Agriculture (USDA)                               a distinction between treated and untreated waste-
+    ••  Foundation for Applied Water Research (STOWA)                       water, a guideline value of 100 mg/l was used for
+    ••  Ekologgruppen i Landskrona AB                                       the highest acceptable concentration of BOD in the
+    ••  Norwegian Institute for Agricultural and Environ-                   water entering the wetland.
+        mental Research (Bioforsk)                                      ••  Types of intervention: Creation or restoration of wet-
+    ••  Danish Centre for Environment and Energy (DCE)                      lands. In this review, creation of a wetland refers to
+    ••  European Environment Agency (EEA)                                   the construction of a wetland on a site that never
+    ••  Wetland Solutions Inc.                                              was a wetland, regardless of the main purpose of the
+    ••  Wetlands International                                              wetland. Sometimes the term Constructed wetland
+    ••  Finnish Environment Institute (SYKE)                                is used for a wetland with the specific aim of treat-
+    ••  Federal Environment Agency (UmweltBundesAmt,                        ing wastewater, storm water, acid mine drainage, or
+        Germany)                                                            agricultural runoff. Such wetlands are thus regarded
+    ••  Stichting Toegepast Waterbeheer (STOWA, The                         as Created wetlands. Created wetlands include both
+        Netherlands)                                                        horizontal and vertical subsurface flow systems and
+                                                                            free water surface systems. Restoration refers to
+    To test the comprehensiveness of the searches, bibliog-                 recovery of ecological and hydrological processes
+raphies of review articles were examined and compared                       as well as geomorphology in areas where natural
+with the search results.                                                    wetlands previously have been drained or by other
+                                                                            means altered. In this review the term restoration
+Study inclusion criteria                                                    does not imply any specific purpose of the wetland.
+In this review some constraints regarding the type of                       To be included the created or restored wetlands must
+water entering the wetlands have been applied. Untreated                    host some type of vegetation.
+wastewater was not considered since it is not permissi-                 ••  Types of comparator: No intervention (inlet condi-
+ble to discharge such water into the environment in most                    tions can serve as control).
+European countries. Industrial or agricultural wastewater               ••  Types of outcome: Mass removal of total nitrogen
+can vary considerably in composition, and was therefore                     (TN) or total phosphorus (TP) from the water body
+also excluded. Farmyard runoff was in most cases classi-                    per unit wetland area and year. Removal efficiency of
+fied as agricultural wastewater, and thus excluded, since                   TN or TP (% of load).
+it is often mixed with untreated parlour washings and                   ••  Types of study: The most common way to evaluate
+silage/farmyard manure effluents, among other things.                       the overall retention rate in a wetland is to compare
+    The inclusion criteria below were developed in col-                     the nitrogen or phosphorus loads in the inlet and
+laboration with stakeholders during development of the                      outlet water, respectively. Quite often the retention
+review protocol [19].                                                       in wetlands is evaluated in experiments where effect
+
+Land et al. Environ Evid (2016) 5:9                                                                             Page 5 of 26
+      modifiers such as loading rate or vegetation type       Thus, we checked the consistency between the main
+      are varied. This is a version of a control-impact (CI)  screener and the other authors as well as between the
+      study where inlet conditions serve as control. In rare  authors within each screening pair. To evaluate the con-
+      cases, nutrient loads in a river or stream have been    sistency Kappa tests were used.
+      recorded both before and after the establishment of a      Full-text articles were randomly and evenly distributed
+      wetland, which corresponds to a typical before–after    for screening among six authors. However, before full-
+      (BA) study. Both types of studies are eligible.         text screening at full scale, three subsets of 34 articles in
+                                                              each were double-screened in the same manner as at the
+   The removal rates and efficiencies may show large sea-     title and abstract level. Again, Kappa tests were used to
+sonal variation. Therefore, to be included in the review,     test the consistency between the authors. Kappa values of
+it is a prerequisite that the wetland is established in field 0.6 or higher were considered acceptable both at title and
+conditions and exposed to the ambient climate. This           abstract screening and at full-text screening.
+means that laboratory and greenhouse studies were
+excluded and that each study must cover at least one          Potential effect modifiers and reasons for heterogeneity
+complete annual cycle. Also, in order to reflect realis-      The nutrient retention may vary considerably between
+tic conditions the wetland must be of a reasonable size.      different studies. The anticipated large variation is easy to
+While typical microcosm studies were excluded, meso-          understand in the light of the fact that the removal rate
+cosm studies were included since they potentially provide     is a result of several independent processes. Nitrogen
+valuable information on the variability of the outcomes       removal takes place through: (1) sedimentation and sedi-
+based on true replicates. A cut-off wetland size of 1 m2      ment accretion, (2) plant uptake, and (3) denitrification
+was applied.                                                  and volatilization. The processes involved in phosphorus
+   This systematic review is focused on boreal and tem-       removal are: (1) sedimentation and sediment accretion,
+perate regions, but for comparison sub-tropical regions       (2) plant uptake (3) sorption and (4) precipitation/co-
+have also been included. In the Köppen-Geiger climate         precipitation. The success of each of these mechanisms
+classification system [27] this corresponds roughly to        may depend on factors such as:
+group D (snow climates), group C (warm temperate cli-
+mates) and parts of group A (Equatorial climates with             Loading characteristics
+one dry season, i.e., As and Aw). Studies on wetlands
+located in other climates were excluded. Furthermore, to             Hydraulic loading rate (HLR)
+be included the studies must have taken all removal pro-             Concentration and speciation of nitrogen and phos-
+cesses into account. Studies that only report results for            phorus at the inlet
+selected processes were excluded.
+   Wetlands may be created or restored for purposes               Wetland characteristics
+other than nutrient removal. Although some wetlands
+serve multiple purposes [28], the main purpose is in                 Type of wetland
+some cases to promote biodiversity or reduce flood risks.            Size and shape (area, depth, length)
+In this review wetlands have been considered regardless              Flow pattern and hydraulic efficiency
+of the main purpose of the wetland, i.e., inclusion and              Hydroperiod
+exclusion was not based on the reasons for constructing              Age
+or restoring the wetlands. However, the main purpose of              Sediment/soil type
+the wetland was recorded during data extraction.                     Oxygen concentration and redox potential
+                                                                     Vegetation type and coverage
+Screening process                                                    Fauna
+Articles found in the searches were checked for rele-                Management methods and frequency
+vance at (1) title and abstract, and (2) full text levels. At
+the title and abstract level, the first author of this review     Climate characteristics
+performed the screening of all articles. To check that the
+screening was consistent and complied with the agreed                Mean temperature
+inclusion/exclusion criteria, a subset of 106 articles was           Ice coverage
+also screened by another author. A second subset of 106
+articles was screened by two other authors, and a third       Study quality assessment
+subset of 107 articles was screened by a third pair of        Studies included after the full text screening were sub-
+authors. In this way 319 articles were double-screened.       ject to critical appraisal. Bilotta et al. [29] suggested a
+
+Land et al. Environ Evid (2016) 5:9                                                                                     Page 6 of 26
+systematic method for critical appraisal using an Envi-     full text level) were observational studies, predominantly
+ronmental-Risk of Bias Tool for assessing the internal      control-impact (CI) studies where inlet conditions served
+validity, and an Environmental-GRADE tool for assessing     as control. Based on this study design, all studies were
+the overall quality of a study. Although the major part of  by default assumed to be of acceptable quality (assigned
+our critical appraisal was performed before the article by  to category 2). A set of quality criteria (see Table 2) were
+Bilotta et al. [29] was published, we have applied a fun-   then used to justify upgrading to category 3, downgrad-
+damentally similar approach. Concerning risk of bias the    ing to category 1, or keeping the study in category 2.
+following conditions specific to this review should be        True replication is unusual in studies of nutrient
+noted. (1) Wetland studies included in the review have      removal in wetlands. In most cases just one wetland, or a
+been designed in such a way that selection bias due to      set of different wetlands, were studied. However, repeat-
+inadequate randomisation or inadequate allocation con-      ing the measurements in the same wetland during several
+cealment is not an issue. However, another type of selec-   complete years may be regarded as quasi-replication. We
+tion bias could potentially be introduced if samples were   regarded this form of quasi-replication acceptable for
+to be taken only at certain favourable (or unfavourable)    meta-analysis.
+conditions, e.g., at low hydrological loading rates or dur-   The criteria for assigning the studies to either of the
+ing growing seasons. To assess the risk for this type of    three quality categories are shown in Table 3.
+selection bias the study length and sampling frequency        Four reviewers performed the critical appraisal. To
+were evaluated. Studies should cover complete annual        check the consistency between the reviewers a small
+cycles and, as a guideline value, include at least 12 sam-  number of articles were critically appraised by all review-
+pling occasions. Furthermore, it has to be taken into       ers. Differences were then discussed by all reviewers and,
+account that the investigated wetlands do not form a ran-   as a result of that discussion, the quality criteria were
+dom sample of a well-defined population of potential cre-   clarified. During the remainder of the critical appraisal
+ated wetlands. (2) Performance bias is mainly caused by     the reviewers had an option to code studies as “uncer-
+exposure to factors other than the intervention and may     tain”. All studies with that code were then discussed at a
+be related to e.g., hydrological flow paths not accounted   meeting where consensus was reached.
+for or use of chemicals added to the water or soil in order
+to promote certain processes in the wetland. To assess
+the risk of bias caused by hydrological processes the       Table 2 Quality criteria and requirements for fulfillment
+hydrological mass balance was evaluated. (3) Detection      Quality criteria               Requirements
+bias is mainly related to sampling and analytical methods,
+                                                            1 Moderate risk of bias        The study covered at least one com-
+and using different methods for treated and untreated                                        plete annual cycle and included at
+water is most unusual. (4) Attrition bias may occur if                                       least 12 sampling occasions evenly
+there for some reason are fewer samples of either treated                                    distributed in time
+                                                                                           The hydrologic data obtained in the
+or untreated water compared to the other group. In some                                      study was adequate for calculating
+cases differing number of samples may however be justi-                                      hydraulic loads at inlet and outlet
+fied. For example, during dry conditions it is not unusual                                 There were no obvious deficiencies in
+                                                                                             the water balance
+that the hydraulic loading rate at the outlet is zero due
+                                                            2 High sampling frequency      Samples were flow proportional
+to e.g., evapotranspiration while there still is an active                                   composites or grab samples with a
+water inflow to the wetland. This could potentially result                                   reasonably high sampling frequency
+in fewer samples of treated water than of untreated water.                                   (at least twice a month)
+Provided that the water mass balance adds up reasonably     3 Hydraulic control            All major water flow paths were
+                                                                                             quantified and considered in the
+well, attrition bias may not occur in such cases since the                                   calculations of the outcomes
+outcome measure is based on total nutrient mass trans-      4 Removal processes quantified At least one important removal pro-
+port during complete annual cycles. (5) The risk of selec-                                   cess was quantified independently,
+tive reporting bias is fairly easy to assess by comparing                                    and the result was reasonable in
+                                                                                             relation to the inlet/outlet difference
+e.g., study length with the number of years reported, or
+                                                            5 Effect modifiers             Sufficient information related to
+the measured outcomes with the reported outcomes.                                            potential effect modifiers was
+   When assessing the overall quality of the studies they                                    reported
+were assigned to either of three quality categories: (1)    6 Replication                  Replicate wetlands were studied,
+Does not meet the quality criteria, (2) Acceptable, and                                      or the same wetland was studied
+                                                                                             for two or more complete annual
+(3) High standard. Studies in category 1 did not qualify                                     cycles. If not reported it should be
+for data extraction and quantitative synthesis. All stud-                                    possible to calculate the variance of
+ies relevant for this review (i.e., passed the screening at                                  the replicates
+
+Land et al. Environ Evid (2016) 5:9                                                                                                                     Page 7 of 26
+Table 3 Quality categories and criteria for assignment                                  however quite possible that nutrient cycling and reten-
+Quality categories Criteria                                                             tion are influenced by, e.g., benthic organisms through
+                                                                                        bioturbation [30] or by birds [31, 32]. Also, planktivo-
+Category 1               High risk of bias (quality criteria 1 is not fulfilled)        rous fish species can feed intensively on zooplankton and
+Category 2               Moderate risk of bias (quality criteria 1 is fulfilled)        thereby protect phytoplankton from being grazed, lead-
+Category 3               (1) Moderate risk of bias (quality criteria 1 is fulfilled)    ing to turbid water [33]. The parameters for which data
+                           and
+                         (2) At least four of the six quality criteria listed in        was extracted from all included studies are indicated in
+                           Table 2 are fulfilled and                                    Table 4 with underscored text.
+                         (3) Quality criteria 3 and 6 are fulfilled                        The four reviewers who performed the critical appraisal
+                                                                                        extracted data related to wetland characteristics. A
+                                                                                        fifth reviewer extracted all other data. To make the data
+                                                                                        extraction as consistent as possible the data was entered
+Data extraction strategy
+                                                                                        into a pre-designed Excel spreadsheet. All reviewers
+The outcomes evaluated in this review are the removal
+                                                                                        tested the spreadsheet and after some minor modifica-
+rate and removal efficiency of total nitrogen and phos-
+                                                                                        tions it was used throughout the entire data extraction
+phorus; typically the results are reported quantitatively
+                                                                                        process.
+as g m−2 year−1 and as % of load, respectively. Results
+reported in other units were recalculated where pos-
+                                                                                        Data synthesis and presentation
+sible. In cases where multiple-year studies just reported
+                                                                                        The studies with true or temporal replication were sub-
+an overall average without the inter-annual variance, we
+                                                                                        jected to meta-analyses. Log response ratios (ln R) where
+extracted data for each sampling occasion and calculated
+                                                                                        R = Loadout/Loadin were used to quantify effect sizes, and
+annual values for each separate year and the inter-annual
+                                                                                        random effects models [34] were used to calculate sum-
+variance where possible.
+                                                                                        mary effects and uncertainty bounds of such effects. The
+   In order to assess the quality of the studies and to be
+                                                                                        between-study variance (τ2) was estimated by calculation
+able to evaluate the importance of various effect modi-
+                                                                                        of T2 using the DerSimonian and Laird method, and to
+fiers, additional data was recorded as well (see Table 4).
+                                                                                        estimate the ratio of true heterogeneity to total variance
+Not all studies provided information on all parameters
+                                                                                        in observed effects, the I2 statistic was calculated [35]. In
+shown in Table 4. For instance, a very small number
+                                                                                        subgroup analyses, separate estimates of τ2 were made
+of studies reported data on fauna in the wetland. It is
+                                                                                        for each individual subgroup. The results were presented
+Table 4 Type of extracted data (underscored parameters were recorded for all included studies)
+Loading characteristics            Wetland characteristics               Climate characteristics      Study design parameters          Results
+Type of water                      Type of wetland                       Annual mean air tempera- Study length                         Annual average removal
+                                                                            tureb                                                        rates (g m−2 year−1)
+Concentrations of TN and/          Length, width, depth                  Annual mean water            Number of replicates             Annual average removal
+  or TP at inlet                                                            temperature                                                  efficiency (% of load)
+Speciation of N and/or P           Area                                  Ice coverage                 Sampling frequency               Variance of annual removal
+  at inlet                                                                                                                               rate
+Average nutrient loading           Hydroperiod (d year−1)                GPS coordinates              Flow proportional sampling       Variance of annual removal
+  rates                                                                                                 (Y/N)                            efficiency
+Average hydraulic loading          Dominant plant species and            Climate typec
+  rates                               coverage
+Average residence time (d)         Sediment/soil type
+Hydrologic regime                  Land use history and wetland
+                                      age
+pH                                 O2 concentration and redox
+                                      potential
+                                   Fauna
+                                   Management methods
+                                   Main purpose of wetland
+                                   Other characteristicsa
+a
+  Examples are, e.g., specific substrates, soil amendments, configuration of multiple wetlands, or other means of enhancing the outcome
+b
+  Extracted from WorldClim database (http://www.worldclim.org/)
+c
+  According to the Köppen-Geiger climate classification. This type of data was in most cases not provided by the primary studies and was therefore extracted from the
+map database referred to by [26]
+
+Land et al. Environ Evid (2016) 5:9                                                                                      Page 8 of 26
+in forest plots and in tables where the log response ratios
+                                                                                                                        
+                                                                         Removal_rate = f LOG hydraulic_loading
+had been back-transformed and recalculated to median                                                                           
+                                                                                           + g(LOG inflow_concentration )
+removal efficiencies and confidence intervals of median
+removal efficiencies.                                                                      + h(airtemperature)
+   To examine how the removal of nitrogen of phospho-                 Potential pairwise interaction effects of the predictors
+rus was influenced by effect modifiers all included stud-          were taken into account by allowing thin plate splines
+ies, even those without replication, were subjected to             (TPS) in the GAM models. Such splines encompass a
+response surface analyses using various regression mod-            very large class of smooth functions (response surfaces)
+els. The removal of nitrogen and phosphorus, expressed             that enable a very flexible description of both main effects
+as removal efficiency and removal rate, were the primary           and interaction effects of any pair of predictors. The error
+target variables. The removal efficiency was defined as            terms for different wetlands were assumed to be statis-
+                                                                   tically independent and normally distributed with mean
+Removalefficiency = 100 ×
+                                Substanceflowin − Substanceflowout zero and constant variance.
+                                        Substanceflowin               GAM models with or without thin plate splines were
+                                
+                                     Substanceflowout
+                                                                  fitted to the collected data using standard least squares
+                     = 100 × 1 −                                   algorithms in the software package SAS. Fitted values
+                                      Substanceflowin
+                                                                   of the removal efficiency were obtained by first using
+which is a monotonic function of the response ratio R.             LOG(Output_input_ratio) as target variable and then back-
+   The removal rate was defined as                                 transforming the fitted values to the Percentage_removed.
+                                                                   Because this transformation is nonlinear the back-trans-
+       Removal_rate = Load_in − Load_out
+                                                                   formed surfaces should be interpreted as estimates of the
+i.e., the mass removed per unit time and per wetland               median removal efficiency. Fitted values of the removal rate
+area.                                                              were obtained by directly fitting GAM models to this target
+   The hydraulic loading rate and concentrations of nitro-         variable and various sets of effect modifiers.
+gen and phosphorus in the inflow to the wetlands were                 Unless otherwise stated, the target variables as well
+considered to be the primary predictors or effect modi-            as the predictors in the response surfaces analyses were
+fiers. Attention was also paid to type of wetland, type of         temporal mean values for each of the studied wetlands.
+inflow, climate zone, average air temperature, and wet-            This simplified the modelling and justified the assump-
+land area. Cross-validations were not carried out because          tion that the underlying data were statistically independ-
+the number of wetlands included in our analysis turned             ent. Separate analyses of studies with temporal replicates
+out to be smaller than expected.                                   were carried out to reveal potential drawbacks of GAM
+   The relationships between the mean output-input ratio           modelling.
+and potential predictors were assumed to have a multipli-
+cative structure, e.g.,                                            Results
+                                                                   Review descriptive statistics
+Output_input_ratio
+                                                                   The searches were performed in February 2013. A flow
+  = a(Hydraulic_loading) b(Concentration_in) c(Climate)
+                                                                   chart of the screening process is shown in Fig. 1. The
+that after taking logarithms can be rewritten as a general         search in literature databases generated 13,463 records,
+additive model (GAM) of the form                                   of which 5853 records were unique.
+                                                                      At the title and abstract level 4630 articles were
+LOG(Output_input_ratio) = f (LOG(Hydraulic_loading))
+                                                                   excluded while 1223 articles were included for full text
+                                    + g(LOG(Concentration_in))
+                                                                   screening. However, 135 of the included articles were in
+                                    + h(Climate)                   Chinese and had to be excluded due to lack of translation
+where a, b, f and g are assumed to be smooth func-                 resources. Also, 180 of the articles could not be retrieved
+tions, and c(Climate) and h(Climate) are functions of              due to limitations in library resources. This resulted in
+climate zone indicators or average air temperature. The            908 articles available for full text screening. Searches
+error terms on the log scale for different wetlands were           for grey literature using Google, specialist websites, and
+assumed to be statistically independent and normally dis-          stakeholder contacts added another 27 reports that were
+tributed with mean zero and constant variance.                     screened at full text level. As a result of full text screening
+   The removal rate was assumed to be a smooth function            685 articles were excluded. A list of these articles, with an
+of the magnitude of the hydraulic loading and the con-             indication of the reason for exclusion, is shown in Addi-
+centration of the chemical element or species under con-           tional file 2. Note however that only one reason for exclu-
+sideration. The basic model had an additive structure              sion is shown for each article, although in many cases
+
+Land et al. Environ Evid (2016) 5:9                                                                            Page 9 of 26
+  Fig. 1 Chart of results from screening and critical appraisal
+there were actually multiple reasons. The most common           wetlands in each state or country is shown for nitro-
+reason for exclusion was that the studied subject (type of      gen and phosphorus separately. The climate at these
+water) did not conform to the inclusion criteria, followed      locations ranges from subtropical (climate zone Aw) in
+by a lack of desired outcome data (Table 5). A total of 252     Florida to snow climate in parts of Scandinavia, north-
+articles were subject to critical appraisal, and 93 of these    ern USA and Canada (zone Df ) and South Korea (zone
+passed to full data extraction.                                 Dwa).
+  The oldest article included in this review was published        The number of specific wetland types, inlet water
+in 1981. The number of articles from each year was fairly       types, water regimes, vegetation types, and climate
+constant between 1993 and 1999, after which it started to       zones are shown in Tables 6, 7, 8, 9 and 10. The most
+increase from 1 to 2 articles per year to around 5–9 arti-      common wetland in this review is a free water sur-
+cles per year (Fig. 2).                                         face (FWS) wetland with emergent vegetation treating
+  In total, 203 wetlands are included in this systematic        agricultural runoff with a variable hydraulic loading
+review. Consecutive wetlands in series were treated as          rate. All of the included wetlands were primarily cre-
+separate wetlands if removal rates and efficiencies were        ated or restored for the purpose of nutrient removal,
+reported or could be calculated for each individual wet-        although a small number of of them were multi-pur-
+land. In other cases the train of wetlands was treated as       pose wetlands.
+one single wetland. Most of the wetlands are located in           The size of the included wetlands ranges from 1 to
+USA (n = 110) and Europe (n = 64). Seventeen wetlands           107 m2. As shown in Fig. 4, most of the studied wetlands
+are located in Sweden. The locations of the wetlands are        were between 103 and 105 m2, but smaller wetlands in the
+shown in Fig. 3, and in Additional file 3 the number of         range 1–10 m2 are also well represented.
+
+Land et al. Environ Evid (2016) 5:9                                                                                     Page 10 of 26
+Table 5 Number of articles (n) excluded at title and                  recent and comprehensive article was chosen for quality
+abstract screening and full text screening                            assessment and potential data extraction.
+Title and abstract screening      n     Full text screening       n      Critical appraisal resulted in 143 articles in Category 1,
+                                                                      i.e., articles that were not used for data extraction. From
+Exclude on intervention           1655  Exclude on subject        191 some of these articles it was not possible to calculate an
+Exclude on outcome                1432  Exclude on outcome        164 annual total P and/or total N removal, expressed as mass/
+Exclude on subject                 719  Exclude on study length   143 unit area/year. Even if removal rates were presented, or
+Exclude on process study           467  Exclude on secondary data  81 could be calculated, several articles were assigned to the
+Exclude on study length            156  Exclude on intervention    69 lowest quality category due to deficiencies in the water
+Exclude on secondary data          116  Exclude on process study   22 budget. We deemed a high quality water budget (no large
+Exclude on location                 75  Exclude on location        16 water flows unaccounted for) to be a necessary prereq-
+Exclude on no annual data            9  Abstract only               9 uisite for the study to be useful for data extraction. This
+                                        Exclude on no annual data   4 is because calculations of nutrient removal are sensitive
+                                                                      to uncertainties in water flow measurements. Another
+                                                                      important reason to reject studies was measurements
+                                                                      lasting less than a year, or more than a year, but without
+                                                                      possibilities to break down measurements into a full year
+                                                                      or several individual years. To be able to compare the
+                                                                      annual efficiency of wetlands as nutrient traps, at least
+                                                                      one annual cycle was demanded. The annual removal
+                                                                      capacity is of main interest for stakeholders.
+                                                                         One of the reasons why quite a number of studies had
+                                                                      to be excluded was the lack of a detailed description of
+                                                                      the study design and sampling methodologies. Stud-
+  Fig. 2 Distribution of included studies by publication year
+                                                                      ies, which at first glance were expected to be suitable for
+                                                                      extraction, proved to have insufficient detail for a proper
+                                                                      quality appraisal and could not be included in the high-
+Study quality assessment                                              est quality classes. Such shortcomings in methodologi-
+After full-text screening 252 articles remained for qual-             cal descriptions have been reported commonly in other
+ity appraisal (Fig. 1). Some (15) articles described the              systematic reviews and metadata analyses as well [36]. A
+same wetland study more than once, adding more data                   more critical attitude of authors, reviewers and editors of
+after the first study was published. In such cases the most           scientific publications is desirable.
+  Fig. 3 Location of included wetland studies
+
+Land et al. Environ Evid (2016) 5:9                                                                                       Page 11 of 26
+Table 6 Number of included wetlands by wetland type                        The difference between quality category 2 and 3 lies
+Wetland type                  Description                           n   mainly in the demand for either two or more full years of
+                                                                        measurements, or replicate wetlands, and that all major
+Free water surface            Wetland with visible water flowing    163 water flows should be quantified. For the studies in cat-
+                                horizontally
+                                                                        egory 3 an annual mean value for nutrient removal, with
+Horizontal subsurface flow Wetland where water flows horizontally    17
+                                below the soil/substrate surface        standard deviation, is thus possible to calculate. A small
+Vertical subsurface down      Wetland where water flows vertically    9 number of studies (4) reported data from replicate wet-
+                                downwards through a soil/substrate      lands, thus the majority of figures on variation in nutrient
+Combined horizontal           FWS wetland combined with other         8 removal come from multiple year studies. This is a kind
+                                units such as sedimentation pond or     of pseudo replication, and variation in nutrient removal
+                                overflow unit
+                                                                        for the same wetland during different years may of course
+Riparian                      Any wetland at the interface between    5
+                                land and a river or stream
+                                                                        not reflect the true variation between replicate wetlands.
+Vertical subsurface up        Wetland where water flows vertically    1
+                                                                        On the other hand, compared to a 1-year study with true
+                                upwards through a soil/substrate        replicate wetlands, this pseudo replication is more likely
+                                                                        to reflect changes in climatic conditions (e.g., tempera-
+                                                                        ture and precipitation), which may be equally important.
+Table 7 Number of included wetlands by inflow type                      Unfortunately, due to practical constraints, replication
+                                                                        has only been done for mesocosm-size or experimental
+Inflow type                                                         n
+                                                                        wetlands in wetland research parks. There were 41 stud-
+Agricultural runoff                                                 100 ies of wetlands ≤10 m2. For these, variation among rep-
+River/lake water                                                     38 licates is likely to be smaller than for replicate “full-size”
+Secondary domestic wastewater                                        29 wetlands, i.e., wetlands restored or created not primarily
+Tertiary domestic wastewater                                         24 for research purposes, but to reduce nutrient transport
+Urban storm water/runoff                                              7 in a catchment. Such “full-size” wetlands are expected to
+Agricultural + urban runoff                                           4 produce more realistic figures on nutrient removal, but
+Secondary domestic wastewater + urban runoff                          1 will lack replication. Some studies report major individ-
+                                                                        ual nutrient removal processes. If these match the total
+                                                                        removal, based on a black box approach, then the qual-
+                                                                        ity of the study is strengthened. However, there were only
+Table 8 Number of included wetlands by water regime
+                                                                        a small number of studies (≈10) providing full nutrient
+Water regime             Description                                 n  budgets. Thus, from this review we cannot draw conclu-
+Continuous, variable     Continuous flow with varying hydrologic     72 sions with respect to nutrient removal mechanisms, only
+                           loading rate (HLR)                           the magnitude of nutrient removal, using a black box
+Precipitation-driven     HLR driven by precipitation, continuous or  61 approach. Some indirect evidence on removal mecha-
+                           intermittent but always variable             nisms may be indicated through statistical evaluations of
+Constant                 Continuous and constant HLR                 43 effect modifiers, e.g., temperature and vegetation.
+Intermittent, constant Periods with HLR = 0. When HLR > 0 it is      14    All studies included at the quality appraisal stage had
+                           constant and fixed at one value
+                                                                        at least one potential effect modifier reported, or such
+Intermittent, variable   Periods with HLR = 0. When HLR > 0 it is    13
+                           variable                                     a modifier could be quantified from other sources (e.g.,
+                                                                        mean temperature from climate databases). However,
+                                                                        many of the potential effect modifiers were reported in
+                                                                        only a small number of articles, or were only semi quan-
+Table 9 Number of included wetlands by vegetation type                  titative. Thus a limited number of potential effect modi-
+Vegetation type                                                     n   fiers (c.f. Table 4) could be used in the final statistical
+                                                                        meta-analysis and response surface analysis.
+Emergent                                                            117
+                                                                           Of the 93 articles placed in category 2 and 3, 39 were
+Mixed                                                                28
+                                                                        in the highest quality category (3) and 54 in the sec-
+Submerged                                                            24
+                                                                        ond highest (2). Critical appraisal of individual studies,
+Unspecified                                                          23
+                                                                        including assessments of internal validity (risk of bias) is
+Trees                                                                 6
+                                                                        reported in Additional file 4.
+Filamentous algae                                                     4    Although there remained a reasonable number (39) of
+Floating                                                              1 studies in quality category 3 with low susceptibility to
+
+Land et al. Environ Evid (2016) 5:9                                                                                                 Page 12 of 26
+Table 10 Number of included wetlands in different climate zones
+Climate zone              Description                                                      Example location                                    n
+Aw                        Equatorial savannah with dry winter                              Southern Florida                                    58
+Cfa                       Warm temperate climate, fully humid, hot summer                  Northern Florida, Washington DC, Bucharest          28
+Cfb                       Warm temperate climate, fully humid, warm summer                 London, Paris, Berlin, Southern Sweden              50
+Csa                       Warm temperate climate with dry summer, hot summer               Barcelona, Rome, Athens (Mediterranean)             20
+Csb                       Warm temperate climate with dry summer, warm summer              Ankara, Genoa, Seattle, San Francisco               10
+Cwb                       Warm temperate climate with dry winter, warm summer              Kunming                                              4
+Dfa                       Snow climate, fully humid, hot summer                            Chicago, Boston                                     18
+Dfb                       Snow climate, fully humid, warm summer                           Stockholm, Ottawa, Moscow                           13
+Dfc                       Snow climate, fully humid, cool summer and cool winter           Northern Scandinavia, Anchorage                      1
+Dwa                       Snow climate, dry winter, hot summer                             Beijing, Pyongyang                                   1
+                                                                             in Florida and other states in Southern USA, which have
+                                                                             a climate quite different from Sweden (Additional file 3).
+                                                                               The size distribution of included wetlands may also be
+                                                                             biased. Whereas most created or restored wetlands in
+                                                                             Sweden range from 102 to 105 m2 (Fig. 6), the wetlands
+                                                                             included in this review show a much broader distribution
+                                                                             with more of both smaller and larger wetlands. Almost
+                                                                             40 % of the included wetlands in this systematic review
+                                                                             range between 1 and 102 m2, and 17 % of the wetlands are
+  Fig. 4 Size distribution (m2) of wetlands included in the evaluation
+                                                                             between 105 and 107 m2. The largest included wetland is
+                                                                             6.7 × 107 m2.
+                                                                               Most studies of nutrient removal in wetlands have been
+bias (high internal validity), there is a risk of various types              made during the years following wetland restoration or
+of bias of the body of evidence, affecting conclusions                       creation. Median wetland age at the start of study peri-
+from this review. One of these is publication bias which                     ods was 1 year for the included wetlands, whereas the
+may arise if results in a particular direction are less likely               median age at the end of the studies was 3 years. Thus
+to be published. Figure 5 shows funnel plots for TN and                      our systematic review may be biased towards short-term
+TP. For TN there may be a small number of studies miss-                      nutrient removal effects. The performance of wetlands
+ing in the lower right corner, indicating that some studies                  as nutrient traps after several decades (the expected
+showing net releases of TN from the wetland, albeit most                     minimum lifespan of a restored or created wetland) in
+probably insignificant, may have been overlooked or not                      comparison to the first years after restoration/construc-
+reported. The distribution for TP is more symmetric but                      tion has been studied in a very small number of cases.
+does also reveal a small number of studies showing very                      It might be that nutrient removal changes over time. It
+large effect sizes with small standard errors. Thus, in the                  has, e.g., been reported that P removal decreases [17] and
+present case publication bias seems not to be a major                        may even become negative with time. In a more recent
+concern. This finding is not surprising since both positive                  study, Mitsch et al. [18] combined the data reported by
+and negative results are scientifically interesting, and also                Mitsch et al. [17] with data for two subsequent years and
+of importance for stakeholders.                                              showed that although there was a significant declining
+   Another source of bias affecting the external validity,                   trend for the entire period (1994–2010), there was also
+or the generalizability of the included studies, is uneven                   a significant improving trend at the end of the period
+geographical distribution of wetlands (Fig. 3). Indeed                       (2003–2010). One explanation for this pattern could be
+studies are clustered in two geographical regions: most                      that the wetlands were created on former agricultural soil
+studies are from Europe and North America. In so far as                      and that it took a decade or so to wash the accumulated
+the bias is towards North Europe, especially Scandina-                       P out of the soil. Chen et al. [37] studied long-term (up to
+via, North America and areas with similar climate, geo-                      17 years) TP removal in wetlands in Florida. The authors
+graphical bias may, from a Swedish stakeholder point of                      did not report any temporal trend but concluded that
+view, not be a problem. However, a fairly large number of                    performance, in terms of outflow TP concentration and/
+studies, especially for phosphorus, have been conducted                      or k value (first order removal constant, which could be
+
+Land et al. Environ Evid (2016) 5:9                                                                                                          Page 13 of 26
+  Fig. 5 Funnel plots showing relations between effect sizes and standard errors for TN (left) and TP (right). An asymmetric distribution suggests the
+  possibility of publication bias or a systematic difference between small and large studies (with large and small standard errors, respectively). In the
+  absence of publication bias and systematic heterogeneity, 95 % of the data might be expected to lie within the green funnel-shaped delineation. The
+  blue vertical lines indicate summary effect sizes
+                                                                                climates, sizes of wetlands from one to more than 105 m2,
+                                                                                various types of created wetlands, wetlands receiving a
+                                                                                wide variety of influent water quality, etc. On the other
+                                                                                hand the statistically significant general trends found for
+                                                                                all these different types of wetlands should represent a
+                                                                                high quality outcome from the review.
+                                                                                  With respect to the secondary questions about influ-
+                                                                                ence of effect modifiers, the results of the review for
+                                                                                some effect modifiers are statistically solid, e.g., wet-
+                                                                                land size, hydraulic loading, temperature, water type,
+  Fig. 6 Cumulative frequencies of wetland areas (m2) in this review
+                                                                                and substance concentration. However, for other
+  (SR) and created or restored (with a known area) in Sweden before
+  2013 according to SMHI [20]                                                   potential effect modifiers (e.g., soil type, vegetation
+                                                                                type and coverage, harvest, and fauna) there were not
+                                                                                enough studies to make solid predictions (models).
+interpreted as the settling rate for TP removal), depended                        We have chosen to include a rather wide variety of
+primarily on HLR, inflow TP concentration, and TP                               wetlands and water types. Thus the material is very het-
+loading rate. In addition, the impacts of these variables                       erogeneous, which increases variation. An alternative
+on P removal are often confounded by soil and vegeta-                           approach could have been to review only one wetland
+tion conditions, regional rainfall, management activities,                      type and only one source of water in a more restricted
+and other factors. In another study conducted in Florida,                       geographical area, e.g., wetlands in agricultural areas in N
+Moustafa et al. [38] showed that the TP removal effi-                           Europe, receiving drainage from agricultural fields. This
+ciency remained relatively constant during their 9-year                         would probably have produced less variation, although
+study. Also N removal may be expected to change, e.g.,                          the number of studies qualifying for the highest quality
+due to succession in aquatic vegetation and accumulation                        category would have been very small. Also, the possibility
+of organic matter in wetland sediments.                                         to generalize would have become reduced.
+   Given the large number of studies fulfilling our rigor-
+ous quality criteria, we feel confident that the review has                     Narrative synthesis
+answered the primary question about wetland effective-                          Most studies on nutrient removal in wetlands do not
+ness (see section “Objective of the review”) in a general                       report any variance in annual removal rates or efficien-
+sense. However, the heterogeneity is high, so that it is not                    cies. In some cases this is a consequence of the fact that
+possible to use the graphs to estimate nutrient removal                         only one wetland was studied and that the study only
+for an individual wetland. This was not unexpected                              lasted for one year. There is thus neither any true repli-
+since we have included studies from subtropical to cold                         cation nor any quasi-replication. In other cases the study
+
+Land et al. Environ Evid (2016) 5:9                                                                                               Page 14 of 26
+of one wetland lasted for several years but only a long-                      average loading rate and removal rate were 36 and
+term average was reported with no information about the                       13 g m−2 year−1, respectively. The average loading rate
+inter-annual variance. Only four of the included studies                      was considerably lower in category 3 studies compared
+investigated multiple wetlands that were similar enough                       to category 2 studies, even though the range was similar
+to be regarded as replicates and also reported the results                    in both categories. There is no significant difference in
+in such a way that it was possible to calculate the vari-                     average TP removal efficiencies between category 2 stud-
+ance, while 60 wetlands were quasi-replicated through                         ies and category 3 studies but, as with TN, the variabil-
+measurements for more than one year and reported in                           ity between wetlands was smaller among the category 3
+such a way that the inter-annual variance could be calcu-                     studies compared to the category 2 studies.
+lated. Total nitrogen was measured in two of the studies                        Negative removal rates of TP were reported in 17 of
+with replicated wetlands and TP was measured in three                         the 146 wetlands. Six of these were created on former
+of them. Among the quasi-replicated wetlands, TN and                          cropland and one on previous cattle pasture [41]. The soil
+TP were measured in 37 and 49 wetlands, respectively.                         in such areas is usually rich in phosphorus that may be
+                                                                              released after construction of the wetland. The other ten
+Removal of TN                                                                 wetlands with reported negative TP removal rates were
+The annual loading rates of TN in the included wetlands                       all FWS wetlands created 0–2 years before the start of
+ranged from 2.1 to 2486 g m−2 year−1, and averaged                            the study, which means that release of P from initially P
+505 g m−2 year−1. The average removal rate of TN was                          rich sediments could have contributed to the results. For
+181 g m−2 year−1, whereas the average removal efficiency                      example, Bass, Evans [42] argued that mineralization of
+was 39 %. Summary statistics for included wetlands are                        phosphorus from formerly anoxic organic layers uncov-
+shown in Table 11. Results and data for individual wet-                       ered during the excavation could have caused the nega-
+lands are shown in Additional file 5. The ranges in load-                     tive TP removal rate. Release of phosphorus associated
+ing and removal rates between wetlands are quite wide,                        with iron complexes under anaerobic conditions can also
+and the distributions are skewed to the right, i.e., the                      contribute to low or negative removal rates, as suggested
+median values are lower than the arithmetic means. The                        by Healy, Cawley [43] as an explanation for the observed
+distribution of removal efficiencies is more likely to be                     low TP removal rates.
+normally distributed. Although there is no significant dif-
+ference in average removal efficiencies between category                      Quantitative synthesis
+2 studies and category 3 studies, the variability is smaller                  Meta‑analysis
+among category 3 studies. It is worth noting that none of                     Data from studies with replication were subjected to
+the wetlands among the category 3 studies had negative                        meta-analyses. The results obtained for individual wet-
+removal rates.                                                                lands are summarized in Figs. 7 and 8, which show forest
+   One included wetland showed a small (non-significant)                      plots of log response ratios (Ln (load out/load in)) for TN
+negative TN removal rate [39]. This was a multi-purpose                       and TP, respectively.
+FWS wetland that had been restored on formerly drained                          The forest plot for TN removal shows an overall net
+cropland. Other studies, e.g., by Koskiaho et al. [40], have                  removal with reasonably narrow confidence limits
+also shown negative TN removal rates but these were                           (Fig. 7). Only three out of 38 studies reported a strong
+judged to be highly susceptible to bias and assigned to                       variability, and it can be noted that two of them also had
+quality category 1.                                                           the highest removal rates. For 21 cases, the confidence
+                                                                              limits indicate a statistically significant TN removal. For
+Removal of TP                                                                 the remaining 17 cases, the confidence limits encompass
+As in the case of TN, the spans in the loading and                            the zero-effect line (including one case where the average
+removal rates of TP are quite large (Table 12). The                           indicate a release of TN). The overall average summary
+Table 11 Summary statistics for TN
+Quality            na           TN loading rate (g m−2 year−1)           TN removal rate (g m−2 year−1)         TN removal Efficiency (%)
+category
+                                Av. ± 1SE (range)                Med     Av. ± 1SE (range)           Med.       Av. ± 1SE (range)         Med.
+2 and 3            112          505 ± 579 (2.12–2486)            255     181 ± 251 (−0.3–1270)        93        39 ± 21 (−12.8–93)        38
+2                   88          578 ± 608 (2.12–2486)            378     207 ± 269 (−0.3–1270)       120        39 ± 23 (−12.8–93)        38
+3                   24          237 ± 353 (12.3–1424)            113      85 ± 128 (1.7–584)          43        39 ± 16 (14.8–87)         36
+n number of wetlands, Av. arithmetic mean, SE standard error, Med median
+a
+  Some articles have reported results for more than one wetland
+
+Land et al. Environ Evid (2016) 5:9                                                                                                 Page 15 of 26
+Table 12 Summary statistics for TP
+Quality            na          TP loading rate (g m−2 year−1)            TP removal rate (g m−2 year−1)         TP removal efficiency (%)
+category
+                               Av. ± 1SE (range)            Median       Av. ± 1SE (range)         Median       Av. ± 1SE (range)        Median
+2 and 3            146         36 ± 73 (0.03–373)           3.2          13 ± 38 (−16.8–240)       1.2          41 ± 52 (−422–99)        50
+2                   85         54 ± 83 (0.08–373)           14           19 ± 46 (−16.8–240)       2.9          39 ± 60 (−422–98)        51
+3                   61         10 ± 43 (0.03–307)           1.4           4 ± 18 (−7.3–133)        0.63         44 ± 38 (−104–99)        49
+n number of wetlands, Av. arithmetic mean, SE standard error, Med median
+a
+  Some articles have reported results for more than one wetland
+effect ± 1 SE is −0.46 ± 0.05. The between-study vari-                         confidence intervals overlap each other. It should also
+ance (T2) was estimated to 0.06, and the I2 statistic was                      be noted that some groups include only a small number
+86 %. The heterogeneity of the evidence base may thus                          of studies, and hence the confidence intervals are quite
+be regarded as high. The overall average summary effect                        broad. Subdivided by wetland type (Fig. 9b), the pattern
+represents a median TN removal ratio (R) of about                              is remarkably similar for the four types of wetlands: the
+0.63. This means that the median TN load reduction, or                         summary effects all differ significantly from zero and the
+removal efficiency, is 37 %, with a 95 % confidence inter-                     averages are relatively close to each other with confidence
+val of 29–44 %.                                                                levels showing a strong overlap. Separated by water type,
+   The forest plot for TP removal generally shows wider                        all four averages are again significantly different from
+confidence intervals, and a higher number of cases were                        zero, while river/lake water and agricultural runoff show
+reported with an average net release rather than removal                       quite similar averages and confidence limits (Fig. 9c). The
+of TP (Fig. 8). For 29 out of 51 wetlands a significant                        secondarily treated domestic wastewater showed a higher
+net removal was reported. Among the remaining cases,                           removal efficiency as well as wider confidence interval.
+13 exhibited a non-significant net TP removal and nine                            The subgroup analyses demonstrate that wetlands have
+a non-significant net TP release. The overall summary                          a robust capacity to remove TN from through-flowing
+effect size is highly significant with rather narrow confi-                    water. Except for the observation that the removal of TN
+dence limits. The average ± 1 SE is −0.62 ± 0.08, which is                     seems to be more efficient for secondarily treated waste-
+even lower than that for TN. Similar to TN, the heteroge-                      water than for tertiary treated wastewater, no significant
+neity among the studies is high also for TP. The estimated                     effect modifier could be identified in the subgroup analy-
+between-study variance (T2) was 0.24, while the I2 statis-                     sis. Numerical values of TN removal efficiency for each
+tic was 97 %. The overall average summary effect repre-                        subgroup are shown in Table 13.
+sents a median TP removal ratio (R) of about 0.54, which                          The forest plots for TP for the various wetland group-
+can be recalculated to a median TP removal efficiency of                       ings show different patterns than those for TN. Two out of
+46 %, with a 95 % confidence interval of 37–55 %.                              the six climate zones had wetlands with TP removal non-
+   Summarizing, there is strong evidence that created                          significantly different from zero, i.e., Mediterranean (Csa)
+wetlands generally remove TN and TP and that the over-                         and Snow climate with hot summers (Dfa) (Fig. 10a).
+all removal efficiency is roughly 40 %. An annual release                      However, the effect sizes in these climates are based on
+rather than removal of TN has been shown in a very                             only 1 and 3 studies, respectively, and the 95 % confidence
+small number of studies, whereas negative TP removal                           intervals are broad. Subdivided by water type, there was a
+rates are less uncommon. Also, TP removal ratios gener-                        TP removal significantly different from zero in wetlands
+ally show a larger variance.                                                   receiving four out of five water types (Fig. 10b). The aver-
+   The high heterogeneity of the evidence base calls for                       ages are not significantly different from each other, and the
+subgroup analyses that could potentially identify effect                       narrowest confidence interval was observed for agricul-
+modifiers. Results of such subgroup analyses, i.e., where                      tural runoff (also by far represented by the highest num-
+the studies were divided into different climate zones,                         ber of studies). The grouping based on wetland history
+wetland types, water types, hydrologic regimes etc., are                       shows a TP removal significantly different from zero in
+shown in Figs. 9 and 10. The forest plot for TN removal                        all cases except for restored wetlands on formerly drained
+with wetland studies grouped per climate zone shows                            cropland, for which there was an insignificant net release
+that TN removal is significantly different from zero in                        of phosphorus. Wetlands in all the other history groups
+all climate zones (Fig. 9a). The removal tends to be more                      had a significant removal, with no further differences
+efficient (i.e., the effect size tends to be more negative) for                among the types (Fig. 10c). Also, the grouping by water
+wetlands in groups with hot summers, although the 95 %                         regime suggests that wetlands with precipitation-driven
+
+Land et al. Environ Evid (2016) 5:9                                                                                        Page 16 of 26
+  Fig. 7 Forest plot showing average Effect sizes and 95 % confidence intervals
+HLR are less effective than wetlands with other water                           The subgroup analyses show that wetlands have a
+regimes, although all subgroups significantly differed                        robust capacity to remove TP, although the 95 % confi-
+from zero. This is true also when the restored wetlands on                    dence intervals of the means are generally wider, and
+former drained cropland are removed (Fig. 10d). If such                       there are more cases not significantly different from
+wetlands are included the difference between precipita-                       zero, than for TN. There is evidence that cases with a
+tion-driven and other wetlands would appear to be even                        net TP release do occur, but mostly in wetlands that
+larger (data not shown). Inclusion or exclusion of restored                   were restored on formerly drained cropland without
+wetlands on formerly drained cropland does not alter the                      excavating or isolating the soil. Water regime seems to
+general patterns shown in the other subgroup analyses.                        be an additional significant effect modifier. Wetlands
+Numerical values of TP removal efficiency for each sub-                       with a precipitation-driven HLR are less efficient than
+group are shown in Table 14.                                                  wetlands with a controlled HLR. Wetlands in warmer
+
+Land et al. Environ Evid (2016) 5:9                                                                                         Page 17 of 26
+  Fig. 8 Forest plot showing average Effect sizes and 95 % confidence intervals
+climates (tropical savanna and warm temperate) tend to                       was based on mean values per wetland study, and the
+have a more reliable TP removal than in colder climates,                     response surfaces derived illustrate how estimates of
+although the 95 % confidence intervals overlap each                          median removal efficiency and median removal rate are
+other.                                                                       influenced by various effect modifiers. Preliminary analy-
+                                                                             ses demonstrated that, after both main effects and pos-
+Response surface analysis                                                    sible interaction effects of the two most relevant effect
+In this section, the results obtained by response surface                    modifiers had been taken into account, introduction of
+analyses are presented. This type of regression analyses                     additional explanatory variables or interaction usually
+
+Land et al. Environ Evid (2016) 5:9                                                                                                    Page 18 of 26
+  Fig. 9 Summary effects for TN in wetland subgroups based on a climate zone, b wetland type, and c water type. Error bars show the 95 % confi-
+  dence interval (where number of wetlands (n) is one it is based on the within study variance only)
+had a rather low impact on the goodness-of-fit of the                            Using both hydraulic loading rate and air temperature
+model. Moreover, we noticed that the statistical signifi-                     as predictors in a general additive model (GAM) (Model
+cance of individual components of complex response                            7) improved the model fit (reduced the deviance) and
+surface models could be strongly influenced by the                            demonstrated that the linear response to air tempera-
+inclusion/exclusion of a small number of observations                         ture was significant also in the presence of a function of
+representing rather unusual levels of the moderators.                         hydraulic loading. The model fit was further improved
+Therefore, we decided to focus on parsimonious models                         when the one-dimensional splines in log hydraulic load-
+and present the results of a forward selection of explana-                    ing and air temperature, respectively, were substituted
+tory variables and interactions. Detailed statistical out-                    for a thin plate spline that allowed interaction effects
+puts for different models are shown in Additional file 6.                     between hydraulic loading and air temperature without
+  TN removal efficiency (% load reduction) was sig-                           changing the degrees of freedom of the model (Model
+nificantly negatively related to hydraulic loading rate.                      10). The fitted removal efficiency according to model 10
+According to a combined linear/spline model (Model 2,                         is shown in Fig. 11. Adding a cubic spline for wetland
+see Additional file 6) the linear component was strongly                      area resulted in an even better fit (Model 12) and dem-
+significant (p < 0.0001), whereas the non-linear compo-                       onstrated that the linear response to log wetland area was
+nent was less significant (p = 0.034). TN removal effi-                       statistically significant also in the presence of a thin plate
+ciency was also found to be positively correlated with                        spline in log hydraulic loading and air temperature.
+annual average air temperature (Model 4). Other inves-                           The TN removal rate expressed as g m−2 day−1 was
+tigated predictors showed non-significant (p > 0.05) rela-                    found to be positively correlated with the inflow con-
+tionships to TN removal efficiency.                                           centration, with a steeper increase in removal rate at
+
+Land et al. Environ Evid (2016) 5:9                                                                                                      Page 19 of 26
+  Fig. 10 Summary effects for TP in wetland subgroups based on a climate zone, b water type, c wetland history, and d hydrologic regime. Error
+  bars show the 95 % confidence interval (where number of wetlands (n) is one it is based on the within study variance only). *Restored wetlands on
+  formerly drained cropland are not included (five precipitation-driven and one wetland with continuous flow and variable HLR)
+concentrations higher than about 18 mg/l (Model 14).                          wetland size appeared to be somewhat lower at areas
+The TN removal rate was also positively correlated with                       above approximately 1 ha (Model 16).
+hydraulic loading, at least up to about 650 l m−2 day−1 at                      When both hydraulic loading and TN concentration at
+which level the TN removal rate started to slowly decline                     inlet were used as predictors in a GAM the deviance was
+(Model 15). However, the non-linear component was                             substantially reduced (Model 18), and a further reduc-
+not quite statistically significant (p = 0.080). Further-                     tion was achieved when the two one-dimensional splines
+more, the TN removal rate was negatively correlated                           were substituted for a thin plate spline allowing interac-
+with wetland area, but the decline in removal rate with                       tion effects without increasing the degrees of freedom
+
+Land et al. Environ Evid (2016) 5:9                                                                                          Page 20 of 26
+Table 13 Results of subgroup analyses for TN
+                                                        na      Ln R ± 1 SE            R            Median              95 % confidence
+                                                                                                    removal             interval
+                                                                                                    efficiency (%)
+All wetlands                                            38       −0.46 ± 0.05          0.63         37                    29–43
+Climate zone
+  Aw (equatorial savannah, dry winter)                  1        −0.49 ± 0.21          0.61         39                     7–60
+  Cfa (warm, fully humid, hot summer)                   6        −0.47 ± 0.15          0.63         37                    15–54
+  Cfb (warm, fully humid, warm summer)                  19       −0.44 ± 0.08          0.64         36                    23–46
+  Csa (warm, dry and hot summer)                        3        −0.63 ± 0.02          0.53         47                    44–50
+  Dfa (snow, fully humid, hot summer)                   5        −0.61 ± 0.12          0.54         46                    30–58
+  Dfb (Snow, fully humid, warm summer)                  4        −0.31 ± 0.11          0.73         27                     9–42
+Wetland type
+  Combined horizontal                                   2        −0.33 ± 0.05          0.72         28                    19–36
+  Free water surface                                    30       −0.46 ± 0.07          0.63         37                    27–46
+  Horizontal subsurface flow                            3        −0.56 ± 0.1           0.57         43                    31–54
+  Riparian                                              3        −0.47 ± 0.11          0.63         37                    22–50
+Water type
+  Agricultural runoff                                   18       −0.45 ± 0.08          0.64         36                    25–46
+  River/lake water                                      10       −0.39 ± 0.08          0.68         32                    20–43
+  Sec. domestic Wastewater                              6        −0.67 ± 0.1           0.51         49                    38–59
+  Tert. domestic Wastewater                             4        −0.29 ± 0.05          0.75         25                    17–34
+Wetland history
+  Created, formerly cropland                            3        −0.45 ± 0.05          0.64         36                    29–43
+  Created, formerly other land use                      25       −0.49 ± 0.06          0.61         39                    30–46
+  Restored, formerly drained cropland                   6        −0.33 ± 0.12          0.72         28                     9–44
+  Restored, formerly other land use                     3        −0.49 ± 0.36          0.61         39                  −23–70
+Water regime
+  Continuous, variable                                  21       −0.54 ± 0.06          0.58         42                    33–49
+  Intermittent, variable                                1        −0.67 ± 0.27          0.51         49                    12–70
+  Precipitation-driven                                  15       −0.43 ± 0.09          0.65         35                    22–46
+  Intermittent, constant                                1        −0.42 ± 0.1           0.66         34                    19–47
+R = load out/load in
+a
+  Where n = 1 the SE is based on the within study variance only
+of the model (Model 21). A plot of predicted removal                        to inlet concentration was primarily nonlinear. Closer
+rates according to this model is shown in Fig. 12, and the                  examination of the removal efficiency indicated that it
+overall positive response to hydraulic loading and inflow                   had a maximum for intermediate concentrations (0.05–
+concentration is clearly visible. When cubic splines for                    0.5 mg/l) at wetland inlet.
+wetland area and temperature were added on top of the                         When GAM models with two predictors were exam-
+thin plate spline in inflow concentration and hydrau-                       ined the best fit (lowest deviance) was obtained for a
+lic loading the deviance was further reduced and the                        thin plate spline model with log inlet concentration and
+response to wetland size (log area) was statistically sig-                  log hydraulic loading rate (Model 36; Fig. 13). However,
+nificant (Model 26).                                                        the removal efficiency exhibited a substantial random
+   According to combined linear/spline regression mod-                      variation and the deviance of model 36 was only slightly
+els, the removal efficiency of TP was influenced by all                     lower than that of model 28, which was the best one-
+four of the investigated predictors, i.e., TP inlet concen-                 dimensional spline model. Neither, was there any statisti-
+tration, hydraulic loading, wetland area, and air tempera-                  cally significant linear response to air temperature or log
+ture (Models 27–30, respectively). More specifically, the                   area when model 36 was extended with one-dimensional
+response to the log-transformed values of inlet concen-                     splines in these variables.
+tration, hydraulic loading, and wetland area had both                         The TP removal rate was positively correlated with TP
+linear and non-linear components, whereas the response                      concentration at inlet with a steeper increase in removal
+
+Land et al. Environ Evid (2016) 5:9                                                                                             Page 21 of 26
+Table 14 Results of subgroup analyses for TP
+                                                        na          Ln R ± 1 SE            R           Median              95 % confidence
+                                                                                                       removal             interval
+                                                                                                       efficiency (%)
+All wetlands                                            51           −0.62 ± 0.08           0.54       46                  37–55
+Climate zone
+  Aw (equatorial savannah, dry winter)                  18           −0.89 ± 0.14           0.41       59                  46–69
+  Cfa (warm, fully humid, hot summer)                    7           −0.53 ± 0.16           0.59       41                  19–58
+  Cfb (warm, fully humid, warm summer)                  16           −0.39 ± 0.15           0.68       32                  9–50
+  Csa (warm, dry and hot summer)                         1           −0.85 ± 0.54           0.43       57                  −22 to 86
+  Dfa (snow, fully humid, hot summer)                    3           −0.14 ± 0.24           0.87       13                  −38 to 46
+  Dfb (snow, fully humid, warm summer)                   6           −0.57 ± 0.19           0.57       43                  17–62
+Wetland type
+  Combined horizontal                                    2           −1.22 ± 0.29           0.3        70                  47–84
+  Free water surface                                    47           −0.64 ± 0.08           0.53       47                  37–56
+  Riparian                                               2             0.31 ± 0.25          1.36       −36                 −122 to 17
+Water type
+  Agricultural runoff                                   35           −0.58 ± 0.1            0.56       44                  31–54
+  Agricultural + urban runoff                            1           −0.18 ± 0.5            0.84       16                  −120 to 69
+  River/lake water                                       6           −0.49 ± 0.24           0.61       39                  1–63
+  Sec. domestic wastewater                               4           −1.13 ± 0.28           0.32       68                  43–82
+  Tert. domestic wastewater                              5           −0.66 ± 0.18           0.52       48                  26–64
+Wetland history
+  Created, formerly cropland                            13           −0.79 ± 0.08           0.45       55                  46–62
+  Created, formerly other land use                      29           −0.69 ± 0.10           0.50       50                  38–60
+  Restored, formerly drained cropland                    6             0.15 ± 0.21          1.16       −16                 −77 to 24
+  Restored, formerly other land use                      3           −0.45 ± 0.15           0.64       36                  14–53
+Water regimeb
+  Constant                                               8           −0.92 ± 0.25           0.4        60                  34–76
+  Continuous, variable                                  17           −0.79 ± 0.11           0.45       55                  43–64
+  Intermittent, constant                                 6           −0.81 ± 0.1            0.44       56                  45–64
+  Precipitation-driven                                  14           −0.23 ± 0.07           0.79       21                  8–31
+R = load out/load in
+a
+  Where n = 1 the SE is based on the within study variance only
+b
+   Restored wetlands on former drained cropland have been removed from these calculations
+                                                                                 rate at concentrations above approximately 0.55 mg/l
+                                                                                 (model 40). In contrast, the TP removal rate was nega-
+                                                                                 tively correlated with wetland area, especially at areas
+                                                                                 below 2 × 104 m2, above which the removal rate was
+                                                                                 fairly constant (model 42). A statistically significant
+                                                                                 spline function was found for air temperature (model 43),
+                                                                                 and a maximum in removal efficiency appeared at inter-
+                                                                                 mediate annual average temperatures (approximately
+                                                                                 14–19 °C).
+                                                                                    When both inlet concentration and hydraulic loading
+                                                                                 rate were used as predictors of removal rate and inter-
+                                                                                 action effects between these predictors were taken into
+                                                                                 account using a thin plate spline function (model 47)
+   Fig. 11 Median removal efficiency of TN (% of load) according to              an ordinary F-test indicated that the deviance was sig-
+   model 10 (see Additional file 6)                                              nificantly lower than in the best one-dimensional spline
+
+Land et al. Environ Evid (2016) 5:9                                                                                                     Page 22 of 26
+  Fig. 12 Median removal rate of TN (g m−2 day−1) according to model 21 (see Additional file 6). The surface has been truncated at 0 g m−2 day−1
+                                                                           increased with some caution since the removal efficiency
+                                                                           decreases with increasing HLR (Figs. 11, 13). When
+                                                                           a wetland is being designed, a balance should thus be
+                                                                           found between an HLR that is high enough to allow for
+                                                                           a meaningful removal rate at a given inlet concentration,
+                                                                           and an HLR that is low enough to keep the removal effi-
+                                                                           ciency sufficiently high to make a significant difference to
+                                                                           the total transport of nutrients. However, periods with
+                                                                           none or very low removal rates will inevitably occur in
+                                                                           wetlands with precipitation driven, intermittent, and to
+                                                                           some extent variable continuous water flow. In all cases
+                                                                           the removal rate increases with increasing concentration
+                                                                           at inlet. The removal efficiency for TP generally increases
+                                                                           with increasing inlet concentrations, primarily at low to
+                                                                           intermediate HLRs, whereas the removal efficiency for
+  Fig. 13 Median removal efficiency of TP (% of load) according to
+  model 36 (see Additional file 6)
+                                                                           TN is less influenced by the inlet concentration.
+                                                                              Because the number of wetlands included in our review
+                                                                           is too small to allow sophisticated modelling of mean val-
+                                                                           ues per wetland, it is tempting to extract several effect
+model (model 40). Fitted TP removal rates according to                     sizes from the same study, for example by using data for
+model 47 are shown in Fig. 14. Further analysis showed                     individual years as model inputs. In principle, such data
+that adding a one-dimensional spline for air temperature                   can be analysed by using hierarchical generalized linear
+made the deviance even lower and that there was a statis-                  models. However, the data collected in the present study
+tically significant non-linear component of air tempera-                   were far from ideal for such models. First, less than half of
+ture in this extended model (model 50).                                    the included wetland studies had any temporal replicates.
+  Figures 12 and 14 suggest that the removal rates are                     Second, it was difficult to identify a suitable covariance
+very low at low nutrient concentrations at the inlet and                   structure for the study-specific random components;
+low HLRs. To obtain an appreciable removal rate either                     some of the studies exhibited a large inter-annual varia-
+the inlet concentration or the HLR (or both) need to                       tion, whereas others exhibited a very small within-study
+be increased. On the other hand, the HLR should be                         variation.
+
+Land et al. Environ Evid (2016) 5:9                                                                                                     Page 23 of 26
+  Fig. 14 Median removal rate of TP (g m−2 day−1) according to model 47 (see Additional file 6). The surface has been truncated at 0 g m−2 day−1
+Discussion                                                                 In these areas sedimentation of suspended solids and
+Reasons for heterogeneity and review limitations                           particulate phosphorus is often high [15, 44–47] making
+Although the water quality criteria set for this review are                sedimentation the most important process for retention
+narrowed to secondarily treated domestic wastewater,                       of phosphorus in such wetlands.
+tertiary treated domestic wastewater, urban water run-                        This review is limited to only one function of created
+off, agricultural drainage water, and river or lake water,                 and restored wetlands—, namely their role in catch-
+these water types differ considerably in composition and                   ment nutrient losses. This function should be seen only
+thus also the processes needed for removal of nitrogen                     as complementary to all the measures that can be under-
+and phosphorus differs between the water types. It would                   taken to improve nutrient use and management on agri-
+have been desirable to look at the different N and P spe-                  cultural land and in fields. In reality, created and restored
+cies in connection with these removal and retention pro-                   wetlands provide multiple ecosystem services, such
+cesses, as e.g., nitrate in connection with denitrification                as biodiversity enhancement, reservoirs for water and
+or particulate-P in connection with retention of phos-                     recreation that are difficult to value. Wetlands are also
+phorus. This might have improved the analysis of water                     important ecosystems in the global cycles of greenhouse
+type divided into subgroups (Figs. 11, 13). However, in                    gases, as potential sources of CH4, CO2 and N2O emis-
+many cases the articles only reported TN and TP results,                   sions and for their role in carbon sequestration and as
+and therefore further analysis was impossible.                             possible sinks for N2O in drainage water from farmland.
+  Especially for phosphorus, it might have been benefi-                    These aspects are outside the scope of this review, but are
+cial to look into different P-species because it has been                  potential subjects for other systematic reviews.
+documented that some created wetlands retain large                            Hydrological processes and especially hydraulic load-
+amounts of particulate P (PP) when there are high loads                    ing are inadequately measured in many papers: 45 out
+of this species due to the upland characteristics [16]. Fur-               of the 143 category 1 papers only included inlet meas-
+thermore, phosphorus retention in wetlands is depend-                      urements, had incomplete water balances, or lacked
+ent on several factors, such as age, past history of P (i.e.,              hydrological data, making it impossible or too uncer-
+P load, P fertilizer addition, P saturation in soil), redox                tain to calculate mass balances. For created wetlands
+conditions, climate conditions (e.g., frost–thaw), which                   with a lining and constant load, it is relatively simple
+are not always included in the information.                                to set up a water balance. In contrast, for wetlands with
+  Excluded from this review due to limitations in sam-                     varying or event driven hydraulic loading the meas-
+pling frequency are restored and created floodplains and                   urements need to be much more comprehensive and
+other riparian areas subjected to flooding and inundation.                 require much higher temporal resolution to cover the
+
+Land et al. Environ Evid (2016) 5:9                                                                           Page 24 of 26
+variation. For restored wetlands it is difficult to set up  range of climatic conditions, although the performance
+and measure all variables in the water balance (surface     of wetlands in temperate and boreal regions is empha-
+water flow, groundwater flow, precipitation, evapo-         sized. Overall, data from 203 wetlands has been used in
+transpiration). In some wetland studies there are large     our analyses.
+deficits in the water balance due to unaccounted contri-
+butions from e.g., groundwater inflow and/or because          ••  Our survey found that, on average, created or
+all budget terms in the water balance have not been               restored wetlands removed 184 g m−2 year−1 of total
+measured. Thus especially for restored or recreated               nitrogen and 15 g m−2 year−1 of total phosphorus.
+wetlands it may be needed to carry out measurements               These average retentions are three to four times the
+with high spatial and temporal replication. For exam-             retention rates suggested 15 years ago as sustain-
+ple, to calculate groundwater flow through a riparian             able for nonpoint source treatment wetlands (10–
+meadow it is necessary to measure hydraulic potentials,           40 g m−2 year−1 for nitrogen and 0.5–5 g m−2 year−1
+hydraulic conductivity in different soil layers or at least       for phosphorus). However, the median values for TN
+to assign hydraulic conductivities according to soil pro-         and TP removal rates, respectively, are lower and in
+file descriptions.                                                line with the earlier recommendations.
+   In individual studies, measurement errors of the pre-      ••  Restored and created wetlands remain appropri-
+dictor loading rate may make the response variable                ate and potentially sustainable ecological engineer-
+removal efficiency correlated with the predictor irre-            ing approaches for removing nutrients from treated
+spective of any underlying causality. This is one of the          wastewater and urban and agricultural runoff. Load-
+short-comings of treating a studied wetland as a black            ing rates (inlet concentrations × hydraulic loading
+box (which most of the included studies do). From this            rates) need to be carefully estimated as part of the
+point of view it would have been better if a larger num-          design of these wetlands. In general, high nutrient
+ber of studies used multiple measurements of the load-            loading rates result in high removal rates (expressed
+ing rate and removal processes (denitrification, plant            in g m−2 year−1). However, high hydraulic load-
+uptake, chemical adsorption etc.). On the other hand,             ing rates may result in reduced removal efficiency
+removal processes are variable in space and time, poten-          (expressed in %).
+tially leading to even higher experimental errors than        ••  Seventeen of 146 wetlands were shown as phospho-
+input–output balance studies and difficulty to scale up           rus sources; six of those had been restored on former
+for the whole wetland and an entire year. On the con-             drained cropland. The studies included in this sys-
+trary, input and output fluxes can be measured with               tematic review suggest that TP removal is less effi-
+more precision because hydraulic flow measurements                cient in such wetlands compared to other wetlands.
+combined with frequent concentration measurements                 Six out of nine restored wetlands on former drained
+of N and P are relatively straightforward, and we have            cropland released more phosphorus than they
+selected the studies for state-of the –art techniques in          received. However, one long-term study suggests that
+our critical appraisal. The input–output approach is              the performance of wetlands may be enhanced and
+therefore quite robust. Furthermore, while measure-               that such wetlands can become significant phospho-
+ment errors in loading rates may be in the range 0–30 %,          rus sinks after several years of operation.
+this review has included studies where the loading rates      ••  Water regime seems to be another factor that can
+span three orders of magnitude for TN and four orders             influence phosphorus removal efficiency. Wetlands
+of magnitude for TP. Measurement errors in loading                where the hydraulic loading rate is driven by precipi-
+rates in individual studies should thus play a minor role         tation show a lower phosphorus removal efficiency
+for the correlation between loading rate and removal              than wetlands with a controlled hydraulic loading
+efficiency shown by the response surface analyses per-            rate.
+formed in this systematic review.                             ••  Removal efficiency of total nitrogen in wetlands was
+                                                                  positively correlated with average annual air tem-
+Conclusions                                                       perature and negatively correlated with hydraulic
+Implications for policy/practice                                  loading rate. The model fit was better if interaction
+The objective of this review was to quantify observed             effects between these variables were allowed. The
+retention rates of nutrients in created or restored wet-          total nitrogen removal rate was positively correlated
+lands and to quantify the variability between different           with the inflow concentration and was also found to
+studies. We also investigated importance of environmen-           be positively correlated with hydraulic loading.
+tal conditions and wetland characteristics for nutrient       ••  The removal efficiency of total phosphorus was cor-
+removal rates. This study examined wetlands in a wide             related with total phosphorus concentrations at the
+
+Land et al. Environ Evid (2016) 5:9                                                                                                               Page 25 of 26
+        inlet, hydraulic loading, wetland area, and air tem-                  Acknowledgements
+                                                                              This systematic review was financed by the Mistra Council for Evidence-based
+        perature. The total phosphorus removal rate was                       Environmental Management (Mistra EviEM). EviEM is funded by the Swedish
+        positively correlated with concentration at inlet and                 Foundation for Strategic Environmental Research (Mistra) and hosted by
+        hydraulic loading rate. In contrast, the total phos-                  Stockholm Environment Institute.
+        phorus removal rate was negatively correlated with                    Competing interests
+        wetland area, especially for wetlands smaller than                    The authors declare that they have no competing interests.
+        2 × 104 m2.
+                                                                              Received: 25 November 2015 Accepted: 20 April 2016
+Implications for research
+   ••  Hydrological processes are inadequately measured in
+        many papers: 45 of the papers excluded during criti-
+        cal appraisal only included inlet measurements, had                   References
+        incomplete water balances or lacked hydrological                      1. Smith VH. Eutrophication of freshwater and coastal marine ecosystems—
+                                                                                    a global problem. Environ Sci Pollut Res. 2003;10(2):126–39.
+        data, making it impossible or too uncertain to calcu-                 2. Nixon SW, Ammerman JW, Atkinson LP, Berounsky VM, Billen G, Boicourt
+        late mass balances.                                                         WC, et al. The fate of nitrogen and phosphorus at the land sea margin of
+   ••  Only total nitrogen or total phosphorus was meas-                            the North Atlantic Ocean. Biogeochemistry. 1996;35(1):141–80.
+                                                                              3. Ryther JH, Dunstan WM. Nitrogen, phosphorus, and eutrophication in
+        ured or reported in many studies. This prevented                            coastal marine environment. Science. 1971;171(3975):1008.
+        us from evaluating the influence of the speciation of                 4. Graneli E, Wallstrom K, Larsson U, Graneli W, Elmgren R. Nutrient limitation
+        these elements on the removal.                                              of primary production in the baltic sea area. Ambio. 1990;19(3):142–51.
+                                                                              5. Conley DJ, Paerl HW, Howarth RW, Boesch DF, Seitzinger SP, Havens KE,
+   ••  Long-term performance of wetlands as nutrient sinks                          et al. Controlling eutrophication: nitrogen and Phosphorus. Science.
+        is poorly investigated.                                                     2009;323(5917):1014–5.
+   ••  More research is needed on the effects of seasonality,                 6. Schindler DW, Hecky RE, Findlay DL, Stainton MP, Parker BR, Paterson MJ,
+                                                                                    et al. Eutrophication of lakes cannot be controlled by reducing nitrogen
+        particularly in wet/dry climates, and on hydrologic                         input: results of a 37-year whole-ecosystem experiment. Proc Natl Acad
+        pulsing on wetlands used to treat agricultural and                          Sci USA. 2008;105(32):11254–8.
+        urban runoff. More research is also needed on the                     7. Boesch D, Hecky R, O’Melia C, Schindler D, Seitzinger S. Eutrophication
+                                                                                    of Swedish Seas. Stockholm: Swedish Environmental Protection Agency,
+        ecosystem services of carbon sequestration and flood                        Report 5509; 2006.
+        mitigation that these wetlands could and do provide                   8. Danielsson Å, Papush L, Rahm L. Alterations in nutrient limitations—sce-
+        in addition to their primary role in water purification.                    narios of a changing Baltic Sea. J Mar Syst. 2008;73(3–4):263–83.
+                                                                              9. Kadlec RH, Wallace SD. Treatment wetlands. Boca Raton: CRC Press; 2009.
+   ••                                                                               p. 965.
+Additional files                                                              10. Mitsch WJ, Day JW, Zhang L, Lane RR. Nitrate-nitrogen retention in wet-
+                                                                                    lands in the Mississippi river basin. Ecol Eng. 2005;24(4):267–78.
+   Additional file 1. Searches.                                               11. Carleton JN, Grizzard TJ, Godrej AN, Post HE. Factors affecting the perfor-
+                                                                                    mance of stormwater treatment wetlands. Water Res. 2001;35(6):1552–62.
+   Additional file 2. Articles not used in the review.                        12. Vymazal J. Removal of nutrients in various types of constructed wetlands.
+   Additional file 3. Geographical representation.                                  Sci Total Environ. 2007;380(1–3):48–65.
+                                                                              13. Vymazal J, Kroepfelova L. Removal of nitrogen in constructed wetlands
+   Additional file 4. Critical appraisal.                                           with horizontal sub-surface flow: a review. Wetlands. 2009;29(4):1114–24.
+   Additional file 5. Narrative synthesis table.                              14. Kadlec RH. Nitrogen farming for pollution control. J Environ Sci Health
+                                                                                    Part A-Toxic/Hazard Subst Environ Eng. 2005;40(6–7):1307–30.
+   Additional file 6. Response surface analyses.                              15. Hoffmann CC, Kjaergaard C, Uusi-Kamppa J, Hansen HCB, Kronvang B.
+                                                                                    Phosphorus retention in riparian buffers: review of their efficiency. J
+                                                                                    Environ Qual. 2009;38(5):1942–55.
+                                                                              16. Braskerud BC, Tonderski KS, Wedding B, Bakke R, Blankenberg AGB,
+Authors’ contributions                                                              Ulen B, et al. Can constructed wetlands reduce the diffuse phosphorus
+The writing of this report was shared between KT (Introduction), ML (Methods        loads to eutrophic water in cold temperate regions? J Environ Qual.
+and results), JV (Results), WG (Results), CCH (Discussion), and WM (Conclu-         2005;34(6):2145–55.
+sions). Searches were performed by ML. Screening of literature was performed  17. Mitsch WJ, Zhang L, Stefanik KC, Nahlik AM, Anderson CJ, Bernal B, et al.
+by ML, KT, JV, WG, CCH, and WM. Critical appraisal was undertaken by KT,            Creating wetlands: primary succession, water quality changes, and self-
+JV, WG, CCH, and WM. Meta-analysis and response surface analysis were               design over 15 years. Bioscience. 2012;62(3):237–50.
+performed by ML and AG, respectively. All authors read and approved the final 18. Mitsch WJ, Zhang L, Waletzko E, Bernal B. Validation of the ecosystem
+manuscript.                                                                         services of created wetlands: two decades of plant succession, nutrient
+                                                                                    retention, and carbon sequestration in experimental riverine marshes.
+Author details                                                                      Ecol Eng. 2014;72:11–24.
+1
+  Mistra EviEM, Stockholm Environment Institute, Box 24218, 10451 Stockholm,  19. Land M, Granéli W, Grimvall A, Hoffmann CC, Mitsch WJ, Tonderski KS,
+Sweden. 2 Department of Biology, Lund University, 22362 Lund, Sweden.               et al. How effective are created or restored freshwater wetlands for
+3
+  Everglades Wetland Research Park, Florida Gulf Coast University, 4940             nitrogen and phosphorus removal? A systematic review protocol. Environ
+Bayshore Drive, Naples 34112, FL, USA. 4 Swedish Institute for the Marine           Evid. 2013;2(1):1–8.
+Environment, Box 260, 405 30 Gothenburg, Sweden. 5 Department of Biosci-      20. SMHI Vattenwebb (in Swedish) [database on the internet]. Available from:
+ence, Aarhus University, 8600 Silkeborg, Denmark. 6 Department of Physics,          http://vattenwebb.smhi.se/wetlands/. Accessed 25 Feb 2013.
+Chemistry and Biology, Linköping University, 581 83 Linköping, Sweden.        21. Svensson JM, Strand J, Sahlén G, Weisner S. Utvärdering av våtmarker
+7
+  Department of Biology, Utrecht University, 3584 CA Utrecht, Netherlands.          anlagda inom lokala investeringsprogram och med LBU-stöd avseende
+
+Land et al. Environ Evid (2016) 5:9                                                                                                              Page 26 of 26
+    närsaltsretention och biologisk mångfald. Rikare mångfald och mindre        34. Borenstein M, Hedges LV, Higgins JPT, Rothstein HR. Random-effects
+    kväve, Utvärdering av våtmarker skapade med stöd av lokala investering-         model. In: Introduction to meta-analysis. Chichester: Wiley; 2009. p.
+    sprogram och landsbygdsutvecklingsstöd (in Swedish). Naturvårdsverket,          69–75.
+    Rapport 5362; 2004.                                                         35. Borenstein M, Hedges LV, Higgins JPT, Rothstein HR. Identifying and
+22. Tonderski KS, Arheimer B, Pers CB. Modeling the impact of potential             quantifying heterogeneity. In: Introduction to meta-analysis. Chichester:
+    wetlands on phosphorus retention in a Swedish catchment. Ambio.                 Wiley; 2009. p. 107–25
+    2005;34(7):544–51.                                                          36. Haddaway NR, Verhoeven JTA. Poor methodological detail precludes
+23. Brandt M, Arheimer B, Gustavsson H, Pers C, Rosberg J, Sundström M              experimental repeatability and hampers synthesis in ecology. Ecol Evol.
+    et al. Uppföljning av effekten av anlagda våtmarker i jordbrukslandskap.        2015;5(19):4451–4.
+    Belastning av kväve och fosfor (in Swedish). Naturvårdsverket, Rapport      37. Chen HJ, Ivanoff D, Pietro K. Long-term phosphorus removal in the Ever-
+    6309; 2009.                                                                     glades stormwater treatment areas of South Florida in the United States.
+24. Weisner S, Thiere G. Mindre fosfor och kväve från jordbrukslandskapet (in       Ecol Eng. 2015;79:158–68.
+    Swedish). Jordbruksverket, Rapport. 2010;2010:21.                           38. Moustafa MZ, Chimney MJ, Fontaine TD, Shih G, Davis S. The response
+25. Weisner S, Johannesson K, Tonderski K. Näringsavskiljning i anlagda             of a freshwater wetland to long-term “low level” nutrient loads—marsh
+    våtmarker i jordbruket. Analys av mätresultat och effekter av landsbygd-        efficiency. Ecol Eng. 1996;7(1):15–33.
+    sprogrammet (in Swedish). Jordbruksverket, Rapport 2015:7.                  39. Kieckbusch JJ, Schrautzer J. Nitrogen and phosphorus dynamics of a re-
+26. Mitsch WJ, Horne AJ, Nairn RW. Nitrogen and phosphorus retention in             wetted shallow-flooded peatland. Sci Total Environ. 2007;380(1–3):3–12.
+    wetlands-ecological approaches to solving excess nutrient problems.         40. Koskiaho J, Ekholm P, Räty M, Riihimäki J, Puustinen M. Retaining agri-
+    Ecol Eng. 2000;14(1–2):1–7.                                                     cultural nutrients in constructed wetlands—experiences under boreal
+27. Kottek M, Grieser J, Beck C, Rudolf B, Rubel F. World map of the Koppen-        conditions. Ecol Eng. 2003;20(1):89.
+    Geiger climate classification updated. Meteorol Z. 2006;15(3):259–63.       41. Kovacic DA, David MB, Gentry LE, Starks KM, Cooke RA. Effectiveness of
+28. Thiere G, Milenkovski S, Lindgren PE, Sahlen G, Berglund O, Weisner SEB.        constructed wetlands in reducing nitrogen and phosphorus export from
+    Wetland creation in agricultural landscapes: biodiversity benefits on local     agricultural tile drainage. J Environ Qual. 2000;29(4):1262–74.
+    and regional scales. Biol Conserv. 2009;142(5):964–73.                      42. Bass KL, Evans RO. Water quality improvement by a small in-stream con-
+29. Bilotta GS, Milner AM, Boyd IL. Quality assessment tools for evidence from      structed wetland in North Carolina’s Coastal plain. Watershed Manage-
+    environmental science. Environ Evid. 2014;3(1):1–14.                            ment and Operations Management 2000. Fort Collins: American Society
+30. Mermillod-Blondin F, Lemoine D, Boisson JC, Malet E, Montuelle B.               of Civil Engineers; 2000.
+    Relative influences of submersed macrophytes and bioturbating fauna         43. Healy M, Cawley AM. Nutrient processing capacity of a constructed
+    on biogeochemical processes and microbial activities in freshwater sedi-        wetland in western Ireland. J Environ Qual. 2002;31(5):1739–47.
+    ments. Freshw Biol. 2008;53(10):1969–82.                                    44. Walling DE. Linking land use, erosion and sediment yields in river basins.
+31. Hahn S, Bauer S, Klaassen M. Quantification of allochthonous nutrient           Hydrobiologia. 1999;410:223–40.
+    input into freshwater bodies by herbivorous waterbirds. Freshw Biol.        45. Walling DE, Owens PN. The role of overbank floodplain sedimentation in
+    2008;53(1):181–93.                                                              catchment contaminant budgets. Hydrobiologia. 2003;494(1–3):83–91.
+32. Andersen DC, Sartoris JJ, Thullen JS, Reusch PG. The effects of bird use    46. Fink DF, Mitsch WJ. Hydrology and nutrient biogeochemistry in a created
+    on nutrient removal in a constructed wastewater-treatment wetland.              river diversion oxbow wetland. Ecol Eng. 2007;30(2):93–102.
+    Wetlands. 2003;23(2):423–35.                                                47. Mitsch WJ, Zhang L, Fink DF, Hernandez ME, Altor AE, Tuttle CL,
+33. Bernes C, Carpenter SR, Gårdmark A, Larsson P, Persson L, Skov C, et al.        et al. Ecological engineering of floodplains. Ecohydrol Hydrobiol.
+    What is the influence of a reduction of planktivorous and benthivorous          2008;8(2–4):139–47.
+    fish on water quality in temperate eutrophic lakes? A systematic review.
+    Environ Evid. 2015;4(1):1–28.
+                                                                                    Submit your next manuscript to BioMed Central
+                                                                                    and we will help you at every step:
+                                                                                      • We accept pre-submission inquiries
+                                                                                      • Our selector tool helps you to find the most relevant journal
+                                                                                      • We provide round the clock customer support
+                                                                                      • Convenient online submission
+                                                                                      • Thorough peer review
+                                                                                      • Inclusion in PubMed and all major indexing services
+                                                                                      • Maximum visibility for your research
+                                                                                      Submit your manuscript at
+                                                                                      www.biomedcentral.com/submit
+

@@ -1,0 +1,238 @@
+Skip to main content
+Advertisement
+Search
+• Explore journals
+• Get published
+• About BMC
+• My account
+Search all BMC articles
+Search
+Environmental Evidence
+• Home
+• About
+• Articles
+• Submission Guidelines
+Download PDF
+• Commentary
+• Open Access
+• Published: 26 November 2018
+Open Synthesis: on the need for evidence synthesis to embrace Open Science
+• Neal R. Haddaway1,2
+Environmental Evidence volume 7, Article number: 26 (2018) Cite this article
+1507 Accesses
+5 Citations
+43 Altmetric
+Metrics details
+Abstract
+The Open Science movement can be broadly summarised as aiming to promote integrity, repeatability and transparency across all aspects of research, from data collection to publication. Systematic reviews and systematic maps aim to provide a reliable synthesis of the evidence on a particular topic, making use of methods that seek to maximise repeatability and comprehensives whilst minimising subjectivity and bias. The central tenet of repeatability is operationalised by transparently reporting methodological activities in detail, such that all actions could be replicated and verified. To date, evidence synthesis has only partially embraced Open Science, typically striving for Open Methodology and Open Access, and occasionally providing sufficient information to be considered to have Open Data for some published reviews. Evidence synthesis communities needs to better embrace Open Science not only to balance knowledge access and increase efficiency, but also to increase reliability, trust and reuse of information collected and synthesised within a review: concepts fundamental to systematic reviews and maps. All aspects of Open Science should be embraced: Open Methodology, Open Data, Open Source and Open Access. In doing so, evidence synthesis can be made more equal, more efficient and more trustworthy. I provide concrete recommendations of how CEE and others can fully embrace Open Synthesis.
+Background
+The Open Science movement can be broadly summarised as aiming to promote integrity, repeatability and transparency across all aspects of research, from data collection to publication [1]. According to Fecher and Friesike [2], these issues (the democratic and pragmatic schools of thought) relate to a desire to correct the unequal distribution of access to knowledge and increase the efficiency of knowledge creation. Here, I emphasise that evidence synthesis communities needs to better embrace Open Science not only to balance knowledge access and increase efficiency, but also to increase reliability, trust and reuse of information collected and synthesised within a review: concepts fundamental to systematic reviews and maps.
+Repeatable evidence syntheses
+Systematic reviews and systematic maps aim to provide a reliable synthesis of the evidence on a particular topic, making use of methods that seek to maximise repeatability and comprehensives whilst minimising subjectivity and bias [3, 4]. The central tenet of repeatability is operationalised by transparently reporting methodological activities in detail, such that all actions could be replicated and verified [5]. Typically, research transparency might be considered to relate to experimental methods, but the increasingly complex analytical methods used to analyse data should also be reported in detail. As such, the data analysed in a synthesis should be provided along with analytical methods, such that the reader could replicate the analysis to verify the results.
+Reporting standards, such as the PRISMA statement [6] and ROSES [7], help to ensure that the methods are described in sufficient detail in systematic reviews and systematic maps, increasing the quality of reporting and conduct [8]. But beyond transparent reporting of methods, an additional problem exists in how reviews are reported and published: that of closed data.
+Closed data in evidence syntheses
+In a recent article in BMJ, Shokraneh et al. [9] point out that Cochrane does not have an open data policy requiring data extracted during systematic reviews to be made publicly available. Whilst methods in Cochrane reviews are typically reported in sufficient detail, the ‘raw’ data that are extracted from studies to synthesised are not provided. Shokraneh et al. [9] state that whilst results data are made available for Cochrane reviews, these cannot readily be re-used, they may be an incomplete set of study results, the data are not readily extractable/usable, and are only accessible to those with full Cochrane Library access. These issues are equally as important in other fields of evidence synthesis.
+The benefits of Open Synthesis
+According to Kraker et al. [10] the Open Science movement has four main principles: open methodology, open data, open source and open access (see Box 1). Open Science aims to make all aspects of research accessible, usable, modifiable and sharable by everyone [11].
+Systematic reviews can and should embrace Open Science across Kraker et al.’s four dimensions: (1) open methodology—the methods used in systematic reviews should be reported in sufficient detail that all actions taken can be understood, verified and repeated; (2) open data—all data and meta-data (descriptive information) extracted from each included study should be provided in a review (making use of supplementary files where necessary); (3) open source—any code or tools used to prepare or synthesise data should be provided as supplementary information; and (4) open access—publishers of systematic reviews should ensure that all relevant information is made freely accessible, without the need for requests for information being lodged with corresponding authors.
+Box 1. What is the Open Science movement?
+Open Science refers to efforts to increase transparency and availability of information and data in an attempt to mitigate limitations and biases found in modern research, including publication bias, research waste, the reproducibility crisis, According to Kraker et al. [10], “open science means opening up the research process by making all of its outcomes, and the way in which these outcomes were achieved, publicly available on the World Wide Web”. According to Kraker et al., there are four key principles of Open Science, summarised from their paper as follows:
+• 1.
+Open Access
+This refers to making research literature freely available on the publicly accessible internet, where it may be read, downloaded, copied, distributed, printed, searched, crawled for indexing and text analysis without legal or financial repercussions or barriers.
+• 2.
+Open Data
+This refers to publication of data associated with research activities freely available for use (as above) without legal or financial barriers.
+• 3.
+Open Source
+This refers to software or code being made freely available for use (as above) under a license that allows use and modification of the code, and may allow for distribution (depending on the nature of the license).
+• 4.
+Open Methodology
+This refers to detailed methods explaining how a study was planned, undertaken and data analysed in sufficient detail to allow it to be reproduced, via making the methods freely available (as above).
+Other authors have proposed also including Open Education [12], but for the purposes of conducting evidence syntheses these are the commonly cited and relevant aspects. For a full rationale of Open Science, please see Kraker et al. [10].
+Openness has a range of benefits for systematic reviews. Open syntheses may:
+• 1.
+Allow full transparency to be achieved, providing a framework for ensuring and policing transparent approaches within reviews (Kraker et al.’s four dimensions, above);
+• 2.
+Permit verification of the results and conclusions of a review to maximise accountability;
+• 3.
+Increase the reliability of systematic reviews by improving trust in their methods and findings, and in turn trust in publishers of systematic reviews (e.g. Cochrane);
+• 4.
+Allow for researchers to reuse data extracted during a systematic review for novel purposes, such as meta-research activities investigating evidence synthesis practices themselves;
+• 5.
+Increase the efficiency of the conduct of systematic reviews and maps that have an overlap in subject with published reviews, by making use of extracted meta-data, data and coding from studies within a completed review with shared content;
+• 6.
+Reduce effort associated with individual requests for information from corresponding authors of published reviews;
+• 7.
+Permit research-on-research (i.e. investigations of research synthesis methodology) to be conducted using data relating to review conduct;
+• 8.
+Facilitate the improvement of primary and secondary research using detailed data relating to critical appraisal conducted within all systematic reviews. By standardising meta-data extracted during critical appraisal, for example, some aspects of this assessment of internal validity could be performed across reviews;
+• 9.
+Increase the impact of systematic reviews by permitting reuse (and citation) and through increased trust.
+How open are environmental evidence syntheses?
+The Collaboration for Environmental Evidence (CEE) appears to have somewhat higher standards than Cochrane in its openness, since all CEE publications are made Open Access. Box 2 outlines the current minimum reporting standards for results of systematic reviews and maps published by CEE. This enforcement includes ‘Data extraction tables’, but exactly what must be reported here is somewhat unclear. Beyond this, the level of openness is relatively minimal, however: both in terms of the results of the reviewing process itself and the data extracted, summarised and analysed from included studies.
+Box 2. Current data reporting standards for results (as opposed to methods) for systematic reviews and systematic maps published by the Collaboration for Environmental Evidence, based on the CEE Guidelines and Standards for Evidence Synthesis in Environmental Management [4] and Environmental Evidence journal guidelines for submitting authors [13]
+Currently enforced:
+Regarding the review process
+List of included studies
+List of studies excluded at full text with reasons
+List of studies that could not be retrieved
+Regarding the extracted results and review synthesis
+‘Data extraction tables’ (containing data extracted from each included study)
+Summary data (effects sizes) for all studies (often only provided for those studies that can be meta-analysed)
+Summary outputs of meta-analyses conducted (statistical results, forest plots, funnel plots, etc.)
+Currently not enforced:
+Regarding the review process
+Search results (before or after duplicate removal)
+List of records deemed relevant after title or abstract screening (possibly with reasons, where appropriate)
+List of studies that could not be translated
+Standardised descriptive information (meta-data) on characteristics of each study (e.g. PICO elements, methods, study designs)
+Breakdown of critical appraisal coding
+Regarding the extracted results and review synthesis
+Statistical code for analyses performed
+Possible barriers to Open Synthesis
+Wolfenden et al. [14] summarise a number of potential barriers that might challenge openness in systematic reviews. I provide a list of these and other challenges in Box 3. Generally speaking, these issues either relate to concerns or fears of the review authors, or institutional barriers.
+Box 3. Possible barriers to open systematic reviews
+Perceived additional costs/time
+Concern over how data might be used (and possibly misinterpreted)
+Fear over lost opportunity for further analysis (being ‘scooped’)
+Reviewers may not use standardised software to support SRs, making it harder to provide data/meta-data (and not in standardised formats)
+Lack of guidelines, standards and templates for meta-data/data extraction
+Reporting standards are not particularly effective unless enforced (as opposed to endorsed), and ROSES reflects minimum CEE standards that lack full openness
+Despite these issues, in the field of healthcare, support for Open Synthesis (or at least open data) is generally high: the majority of Cochrane’s Individual Participant Data Review Group reviewers have been found to support systematic review data sharing in a single repository [14]. Given sufficient incentive and without institutional barriers, authors of systematic reviews, in general, should support openness given the benefits listed above.
+Who pays for Open Synthesis
+There are potential implications of Open Synthesis on the cost model of research publication. Traditionally, Open Access publication switches from a reader pays model to an author pays model, although free Open Access publication models also exist [15]. The CEE journal Environmental Evidence charges article processing fees for all protocols and review or map reports published, which are then made Open Access under the Creative Commons Attribution License 4.0. Open Methods and Open Data can be supported through making use of supplementary file publication, either as part of the publication process (i.e. Additional files) or through Open Access repositories for documents and data, such as the Open Science Framework [16], figshare [17], and Dryad [18]. Open Source can be supported by sharing code, either using the aforementioned repositories, or via code repositories such as GitHub [19]. Whilst publication through review endorsing bodies, such as CEE, may incur a publication fee, alternative options for publication exist, but they may not carry the same weight and reliability as publication by a global leading organisation in evidence synthesis (and may also lack rigorous peer-review). Securing affordable and fair (or free) Open Synthesis will thus be a key priority for organisations like CEE in the future.
+Ways forward
+Most importantly, there must be institutional and behavioural changes in how review authors, editors, peer-reviewers and funders think about transparency and openness. Although organisations such as CEE may aim for true openness (i.e. transparency), there is a lack of appreciation for what this really means. Current standards for reporting and openness (see Box 2) fall short of true openness and do not go far enough to support full access to data from a systematic review. I propose three areas where action is needed to add momentum to the Open Synthesis movement.
+• 1.
+Awareness and use The systematic review community should become familiar with the Open Science movement and consider using Kraker et al.’s framework [10] as a basis for achieving openness. Where not supported by publishers, systematic review authors can achieve openness by making use of online data repositories, such as the Open Science Framework developed by the Centre for Open Science (https://osf.io). Data and meta-data extracted from systematic reviews can be accompanied by important descriptive information explaining the data in sufficient detail to allow reuse and link the data to the published systematic review.
+• 2.
+Support Actors working in evidence synthesis methodology can support openness by helping to develop methods and tools for more transparent reporting of methods, data and meta-data using standard and interoperable forms and formats. The establishment and enforcing of ROSES [7] by multiple journals that previously did not use reporting standards has gone some way in increasing open methodology in evidence syntheses, but more work is needed to adapt these forms to the many types of synthesis available. I agree with Shokraneh et al. [9] who state that “Cochrane could act as a hub, harmonising data collected across groups and sharing these widely”, sharing “machine-readable curated data, in archived, citable, accessible, inter-operable and re-usable formats, as set out in the FAIR Principles”. Organisations and networks such as CEE, the Society for Research Synthesis Methods, and the International Collaboration for Automation of Systematic Reviews could work together to develop standardised tools for reporting within systematic review projects in a truly open way.
+• 3.
+Enforcement CEE and other systematic review coordinating bodies should recognise the importance of Open Science and ensure a minimum level of reporting of meta-data and data extracted from studies in published reviews. In short, all activities and outputs should be reported with a systematic review or map (including usable lists of studies), and all extracted information should be provided in machine-readable formats (i.e. spreadsheets or databases rather than PDFs or documents). Furthermore, efforts to track data reporting practices in primary research (e.g. The Trials Tracker Project [20]) could also be a useful blueprint for those wishing to track Open Synthesis outside the review coordinating bodies. This could perhaps be supported by the establishment of standard templates and worksheets for reporting data in CEE reviews. In the field of healthcare, the Systematic Review Data Repository (SDSR) was established [21] for this purpose, and the extracted data from 1455 reviews has been deposited to date. A similar repository in environmental sciences, or indeed across disciplines would be extremely useful for the review community.
+Conclusions
+I echo the calls by others [9, 14] to fully embrace open data in systematic reviews. I argue that using an Open Science lens adds a layer of transparency and verifiability, in turn increasing efficiency, trust and accountability, and facilitating reuse of data and analyses. As this is an equal concern to all disciplines, I encourage different evidence synthesis communities to join together to tackle this problem as a key priority for the future of evidence synthesis.
+References
+• 1.
+Centre for Open Science. The Centre for Open Science 2018. https://cos.io/. Accessed 9 Oct 2018.
+• 2.
+Fecher B, Friesike S. Open science: one term, five schools of thought. Opening science: Springer; 2014. p. 17–47.
+Google Scholar
+• 3.
+Higgins JPT, Green S. Cochrane Handbook for Systematic Reviews of Interventions Version 5.1. 0. London: The Cochrane Collaboration; 2015.
+Google Scholar
+• 4.
+CEE. Guidelines and Standards for Evidence Synthesis in Environmental Management. Version 5.0. Johannesburg: Collaboration for Environmental Evidence; 2018.
+Google Scholar
+• 5.
+Haddaway N, Woodcock P, Macura B, Collins A. Making literature reviews more reliable through application of lessons from systematic reviews. Conserv Biol. 2015;29(6):1596–605.
+CAS  Article  Google Scholar
+• 6.
+Moher D, Shamseer L, Clarke M, Ghersi D, Liberati A, Petticrew M, Shekelle P, Stewart LA. Preferred reporting items for systematic review and meta-analysis protocols (PRISMA-P) 2015 statement. Syst Rev. 2015;4(1):1.
+Article  Google Scholar
+• 7.
+Haddaway NR, Macura B, Whaley P, Pullin AS. ROSES RepOrting standards for Systematic Evidence Syntheses: pro forma, flow-diagram and descriptive summary of the plan and conduct of environmental systematic reviews and systematic maps. Environ Evid. 2018;7(1):7.
+Article  Google Scholar
+• 8.
+Panic N, Leoncini E, De Belvis G, Ricciardi W, Boccia S. Evaluation of the endorsement of the preferred reporting items for systematic reviews and meta-analysis (PRISMA) statement on the quality of published systematic review and meta-analyses. PLoS ONE. 2013;8(12):e83138.
+Article  Google Scholar
+• 9.
+Shokraneh F, Adams CE, Clarke M, Amato L, Bastian H, Beller E, Brassey J, Buchbinder R, Davoli M, Del Mar C. Why cochrane should prioritise sharing data. BMJ. 2018;362:k3229.
+Article  Google Scholar
+• 10.
+Kraker P, Leony D, Reinhardt W, Beham G. The case for an open science in technology enhanced learning. Int J Technol Enhanced Learn. 2011;3(6):643–54.
+Article  Google Scholar
+• 11.
+Open Knowledge International. The Open Definition 2018. https://opendefinition.org/. Accessed 9 Oct 2018.
+• 12.
+SPARC*. Setting the Default to Open: SPARC*; 2018. https://sparcopen.org/. Accessed 13 Nov 2018.
+• 13.
+Environmental Evidence. Submission guidelines: BMC; 2018. https://environmentalevidencejournal.biomedcentral.com/submission-guidelines. Accessed 13 Nov 2018.
+• 14.
+Wolfenden L, Grimshaw J, Williams CM, Yoong SL. Time to consider sharing data extracted from trials included in systematic reviews. Syst Rev. 2016;5(1):185.
+Article  Google Scholar
+• 15.
+UCL IOE Press. Research for All: UCL IOE Press; 2018. https://www.ucl-ioe-press.com/research-for-all/. Accessed 13 Nov 2018.
+• 16.
+Centre for Open Science. Open Science Framework: Centre for Open Science; 2018. https://osf.io/. Accessed 13 Nov 2018.
+• 17.
+figshare. fishare - credit for all your research: figshare; 2018. https://figshare.com/. Accessed 13 Nov 2018.
+• 18.
+DRYAD. Dryad Digital Repository - Dryad: Dryad; 2018. https://datadryad.org/. Accessed 13 Nov 2018.
+• 19.
+Github. The world’s leading software development platform. GitHub: GitHub, Inc; 2018. https://github.com/. Accessed 13 Nov 2018.
+• 20.
+EBM DataLab. The Trails Tracker Project: EBM DataLab, University of Oxford; 2018. https://trialstracker.net/. Accessed 13 Nov 2018.
+• 21.
+Lo B. Sharing clinical trial data: maximizing benefits, minimizing risk. JAMA. 2015;313(8):793–4.
+CAS  Article  Google Scholar
+Download references
+Authors’ contributions
+NRH conceptualised, drafted and edited the manuscript. The author read and approved the final manuscript.
+Acknowledgements
+I thank Ben Goldacre for discussion about the topic.
+Competing interests
+The author declares no competing interests.
+Availability of data and materials
+Not applicable.
+Consent for publication
+Not applicable.
+Ethics approval and consent to participate
+Not applicable.
+Funding
+No funding was available.
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Author information
+Affiliations
+Stockholm Environment Institute, Linnégatan 87D, Stockholm, Sweden
+Neal R. Haddaway
+Africa Centre for Evidence, University of Johannesburg, Johannesburg, South Africa
+Neal R. Haddaway
+Authors
+• Neal R. Haddaway
+View author publications
+You can also search for this author in PubMed Google Scholar
+Corresponding author
+Correspondence to Neal R. Haddaway.
+Rights and permissions
+Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+Reprints and Permissions
+About this article
+Cite this article
+Haddaway, N.R. Open Synthesis: on the need for evidence synthesis to embrace Open Science. Environ Evid 7, 26 (2018). https://doi.org/10.1186/s13750-018-0140-4
+Download citation
+Received: 09 October 2018
+Accepted: 19 November 2018
+Published: 26 November 2018
+DOI: https://doi.org/10.1186/s13750-018-0140-4
+Keywords
+• Open research
+• Openness
+• Transparent
+• Reproducibility crisis
+• Reliability
+Download PDF
+Advertisement
+Environmental Evidence
+ISSN: 2047-2382
+Contact us
+• Submission enquiries: Access here and click Contact Us
+• General enquiries: info@biomedcentral.com
+• Read more on our blogs
+• Receive BMC newsletters
+• Manage article alerts
+• Language editing for authors
+• Scientific editing for authors
+• Policies
+• Accessibility
+• Press center
+• Support and Contact
+• Leave feedback
+• Careers
+Follow BMC
+• BMC Twitter page
+• BMC Facebook page
+• BMC Weibo page
+By using this website, you agree to our Terms and Conditions, Privacy statement and Cookies policy. Manage the cookies we use in the preference centre.
+© 2020 BioMed Central Ltd unless otherwise stated. Part of Springer Nature.

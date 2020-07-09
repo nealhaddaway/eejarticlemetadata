@@ -1,0 +1,799 @@
+Skip to main content
+Advertisement
+Search
+• Explore journals
+• Get published
+• About BMC
+• My account
+Search all BMC articles
+Search
+Environmental Evidence
+• Home
+• About
+• Articles
+• Submission Guidelines
+Download PDF
+• Systematic Review
+• Open Access
+• Published: 20 August 2018
+What is the effect of prescribed burning in temperate and boreal forest on biodiversity, beyond pyrophilous and saproxylic species? A systematic review
+• Jacqualyn Eales1 na1 nAff2,
+• Neal R. Haddaway  ORCID: orcid.org/0000-0003-3902-22341,3 na1,
+• Claes Bernes1,
+• Steven J. Cooke4,
+• Bengt Gunnar Jonsson5,
+• Jari Kouki6,
+• Gillian Petrokofsky7 &
+• Jessica J. Taylor4
+Environmental Evidence volume 7, Article number: 19 (2018) Cite this article
+4342 Accesses
+9 Citations
+24 Altmetric
+Metrics details
+Abstract
+Background
+While the effects of prescribed burning on tree regeneration and on pyrophilous and/or saproxylic species are relatively well known, effects on other organisms are less clear. The primary aim of this systematic review was to clarify how biodiversity is affected by prescribed burning in temperate and boreal forests, and whether burning may be useful as a means of conserving or restoring biodiversity, beyond that of pyrophilous and saproxylic species.
+Methods
+The review examined primary field studies of the effects of prescribed burning on biodiversity in boreal and temperate forests in protected areas or under commercial management. Non-intervention or alternate levels of intervention were comparators. Relevant outcomes were species richness and diversity, excluding that of pyrophilous and saproxylic species. Relevant studies were extracted from a recent systematic map of the evidence on biodiversity impacts of active management in forests set aside for conservation or restoration. Additional searches and a search update were undertaken using a strategy targeted to identify studies focused on prescribed burning interventions. Grey literature and bibliographies of relevant published reviews were also searched for evidence. Studies were assessed for internal and external validity and data were extracted, using validity assessment and data extraction tools specifically designed for this review. Studies were presented in a narrative synthesis and interactive map, and those which were suitable were quantitatively synthesised using meta-analyses, subgroup analysis and meta-regression.
+Results
+Searches generated a total of 12,971 unique records. After screening for relevance, 244 studies (from 235 articles) were included in this review. Most studied forests were located in the USA (172/244), with the rest located in Canada, Europe and Australia. Eighty-two studies reporting 219 comparisons were included in the quantitative synthesis. Within the meta-analyses for each group of taxa, we identified a small to moderate volume of evidence, and heterogeneity was ubiquitous. Prescribed burning had significant positive effects on vascular plant richness, non-native vascular plant richness, and in broadleaf forests, herbaceous plant richness. Time since the burn, forest type and climate zone were significant moderators predicting the effect of burning on herbaceous plant richness. No other significant relationships were identified.
+Conclusions
+Knowledge gaps exist for studies outside North America, in mixed forests and for non-plant organism outcomes. We identify a need to apply study designs consistently and appropriately, minimising the impact of confounding factors wherever possible, and to provide extensive detail in study reports. We recommend that researchers build long-term datasets charting the impacts of prescribed burning on succession. The lack of consistent findings was likely due to high inter-study heterogeneity, and low numbers of comparable studies in each quantitative synthesis. We found no consistent effects of moderators, and were unable to test the effect of many potential moderators, due to a lack of reporting. Rather than making any general recommendations on the use of prescribed burning for biodiversity restoration, we provide an evidence atlas of previous studies for researchers and practitioners to use. We observe that outcomes are still difficult to predict, and any restoration project should include a component of monitoring to build a stronger evidence base for recommendations and guidelines on how to best achieve conservation targets. Prescribed burning may have harmful effects on taxa that are conservation-dependent and careful planning is needed.
+Background
+In boreal and temperate regions, the biodiversity of forests set aside from forestry practice is often considered best preserved by non-intervention [1]. However, in many protected forests, remaining biodiversity values are legacies of past disturbances, e.g. recurring fires, grazing, or small-scale felling [2]. These forests may require active management to enhance or maintain the biodiversity characteristics that were the reason for protecting them [1, 3]. Such management can be particularly relevant where the aim is to restore lost ecological values, such as to restore particular seral stages or vegetation mosaics, upon which certain taxa depend [4].
+Naturally occurring fires (wildfires) are considered to be an essential part of boreo-temperate forest disturbance dynamics [5]. It is well documented that in some regions wildfires have always occurred and have long-term patterns (fire regimes), probably related to large-scale and long-term climate and vegetation changes [6,7,8]. It is also recognised that humans have, for thousands of years, managed or altered ecosystems with fire, for example, the Maori colonization of the southern island of New Zealand around 700–800 years ago was characterized by widespread destruction of tropical forests by burning [9]. In general, fires modify the structure of a forest in a way that many forest-dwelling species find beneficial and are specifically adapted to [10]. Historical fire regimes are challenging to characterise but are clearly variable in their frequency, extent, and intensity [11]. This inherent variability is likely to have important consequences for forest biodiversity, but it also makes it highly challenging to explore the ecological consequences in a systematic and detailed way.
+Fire suppression is a management practice to minimise the negative impacts of wildfires, particularly on commercially managed forests, and on human lives and livelihoods. Such practices, which began at least 100 years ago in the United States [12], have been increasingly common due to the desire to minimise catastrophic fire events [13]. Fire suppression can halt fires altogether, leading to a lack of specific habitats or resources for those species that are associated with fires and other natural disturbances [14]. This anthropogenic fire suppression has been shown to affect native forest biodiversity negatively [15], notably for pyrophilous (fire-loving) species and several saproxylic species (those dependent on dead wood) [16]. Furthermore, fire suppression has the potential to change many aspects of forest structure, disturbance dynamics, and succession, with equally clear consequences for forest-dwelling biota. In particular, northern Europe has seen drastic reductions in the extent and severity of forest fires [17, 18]. There has been debate in the literature regarding whether fire suppression has contributed to the accumulation of dense woody vegetation which could have implications for biodiversity and lead to increased fire risk, areas burned and fire intensity (debate summarised in [19]). This debate extends to peatlands [20]. Active, policy-driven fire suppression since the late nineteenth century, particularly in managed areas, and changed landscape structure are likely key factors behind changes in fire regimes [21].
+Prescribed burning, also known as controlled burning or planned burning is currently used in some protected areas as an active management tool to enhance and maintain habitats for biodiversity outcomes in boreo-temperate forests [22, 23]. Prescribed burning is also commonly used for the purpose of mitigating wildfire risk by managing the accumulation of fuel in forests when and where necessary. Historically, this has been the primary purpose in Australia, where the practice is widely applied [24, 25]. In this region, there is also recognition by management authorities that planned burns can have positive effects on native biota [22]. In North America, recognition of the ecological and hazard reduction benefits has been slow, particularly when fire has been publicly viewed as incompatible with timber production [16]. Thus, the extent and purpose of prescribed burning varies in this region. As acceptance of prescribed burning grows, there is interest in investigating how the amount and distribution of fuel will impact forest structural complexity and the biota associated with this complexity, following fires [22]. Prescribed burning for wildlife in southern Europe is far less developed than in other areas of the world, and the environmental implications remain poorly understood [26]. Across all boreo-temperate regions, it is clear that where prescribed burning is undertaken, it requires engagement with local and regional communities, since the practice typically involves potentially contentious trade-offs [21].
+Forest burning can impact organisms and habitats directly and/or indirectly via beneficial effects on pyrophilous or saproxylic species. In general, the direct effects appear to be clear and quick, with overall positive effects on forest biodiversity [27,28,29]. The immediate effects of fire on pyrophilous and saproxylic species, and also tree regeneration, are well documented [22]. However, the impact of prescribed burning on other components of biodiversity are less clear and/or consistent. The relative importance of the frequency, extent, and intensity of burns on restoration success also remains undetermined.
+Identification of review topic
+A systematic map published in 2015 identified studies on a variety of active management interventions that could be useful for conserving or restoring forest biodiversity in boreal and temperate regions [30]. A total of 812 studies describing a variety of interventions were identified as relevant to the map. Since the map was based on evidence relevant to the Swedish environment, it focused on forest types that are represented in Sweden (i.e. boreal and temperate), but such forests exist in many parts of the world (e.g., Russia, northern North America, southern parts of Australia). In accordance with accepted systematic mapping guidance [31], the map gives an overview of the evidence base by providing a database with descriptions of relevant studies, but it does not synthesise reported results.
+The map identified four potential subtopic areas that were sufficiently covered by existing studies to be included in a full systematic review. The selection of topics was also based on their significance for managers of forest reserves and other stakeholders, and on their relevance to Swedish forests. Two of the suggested systematic reviews are currently in progress (the impact of dead wood on biodiversity [32]; the impacts of grazing on biodiversity [33]).
+A third suggested review topic was the effects of prescribed burning on the diversity of species other than those directly dependent on fire and dead wood. The direct impacts of fire on tree regeneration, pyrophilous and saproxylic species have been well studied, and one of the systematic reviews in progress is investigating the effect of dead-wood manipulation (e.g. through burning) on biodiversity in forests [32]. Furthermore, one recent systematic review investigated the impact of restoration burning on tree regeneration in boreal forests [34]. However, the systematic review described herein focuses on the effects of prescribed burning on other aspects of biodiversity.
+It would be valuable to broaden knowledge of how prescribed burning affects forest biodiversity, particularly because such effects could be viewed as either negative or positive. Additionally, the practice of prescribed burning is now fairly common in temperate and boreal forests worldwide, further indicating the need for thorough investigation of its impacts on species other than those that can be considered as pyrophilous or saproxylic. For example, the Life + Taiga project is a 5-year European Union funded programme (2015–2019) ongoing in Sweden [35]. The project involves 14 regional County Administrative Boards and aims to perform 120 controlled fires in boreal forests, with the aim of conserving and restoring biodiversity.
+A total of 227 studies in the systematic map of management interventions in temperate or boreal forests [30] described effects of prescribed burning. Additional studies in the topic area have become available more recently, since the last search for evidence was undertaken by the map authors in 2015. The current literature lacks an up-to-date systematic review assessing the full evidence base on the impact of prescribed burning on biodiversity of temperate and boreal forests worldwide. This review addresses this need by exploring the often-ignored wider impacts of prescribed burning.
+Stakeholder engagement
+We established the scope and focus of the review in close cooperation with stakeholders, following the outputs provided by the systematic map [30]. The stakeholders were based primarily in Sweden and included researchers (e.g. academic researchers from the University of Umeå), practitioners and managers, forestry companies (e.g. Bergvik Skog), local and governmental administration boards (e.g. the Swedish Environmental Protection Agency), and global conservation charities (e.g. World Wildlife Fund). Before submission, peer review, and final publication of the protocol, a draft version was open for public review at the website of the Mistra Council for Evidence-Based Environmental Management (Mistra EviEM) in July 2016. The draft was also sent directly to stakeholders. The draft protocol was revised in response to appropriate comments.
+Objective of the systematic review
+The primary aim of this systematic review was to clarify if, and how, the diversity and richness of non-pyrophilous and non-saproxylic species in boreal and temperate forests is affected by prescribed burning. We searched not only for studies of interventions in actual forest reserves and other kinds of set-asides, but also for appropriate evidence from non-protected and commercially managed forests, since some of the practices applied in commercial forestry may be relevant to conservation or restoration. Quantitative synthesis of selected studies and a narrative synthesis were used to fulfil this aim.
+The secondary aim of this systematic review was to provide an overview of available evidence on how biodiversity of boreal and temperate forests (apart from that of pyrophilous and saproxylic species) is affected by prescribed burning. A systematic map of the evidence base was used to provide this overview.
+The ultimate purpose of the review was to investigate whether prescribed burning may be used as a means of conserving or restoring biodiversity in forest set-asides, and if so, what conditions increase its effectiveness.
+Primary question
+What is the effect of prescribed burning in temperate and boreal forest on biodiversity, not including pyrophilous and saproxylic species?
+Components of the question
+Population: boreal and temperate forests.
+Intervention: prescribed burning.
+Comparator: no burning or alternative levels of burning, before burning.
+Outcomes: diversity and richness of species (excluding pyrophilous and saproxylic species) as one of a number of measures of biodiversity reported in the literature.
+Methods
+This review follows the methods outlined in an a priori protocol [36]. It has been conducted according to CEE’s Guidelines for Systematic Reviews [37]. Due to the large volume of evidence identified that was not suitable for quantitative synthesis we deviate from the protocol in that we added an extra first step before full synthesis: we initially produced a detailed systematic map database describing all studies, followed by a quantitative synthesis of all studies that provided sufficient data for meta-analysis.
+Searches for literature
+A subset of the evidence base examined in this systematic review was identified by a systematic map of management interventions in temperate or boreal forests [30]. Searches for the map were performed in May–August 2014, with an update in March 2015. Of the 812 studies included in the map, 227 reported on impacts of prescribed burning and were therefore potentially relevant to this review. However, we also conducted additional searches for evidence, both to find recently published literature and because the searches for the systematic map were focused on forest types occurring in Sweden, whilst we aimed to be more inclusive in this review.
+Search string
+The search string for the additional literature searches was based on a subset of the search terms used for the systematic map [30], focusing on terms related to prescribed burning. We conducted a scoping exercise in May 2016 to assess alternative search terms, testing them against a set of articles suggested by review team members and known to be relevant. Searches were undertaken in July 2016. Details of the scoping exercise and search string development are provided in the protocol for this review [36].
+During article screening a small number of additional synonyms were added to the search string and used in a set of supplementary searches in December 2016. The additional population terms were “stand*”, “plantation*”, “wood*”, “tree*”, “clone*”, “tract*” and “savanna*”. The additional intervention terms were “prescri*”, “introduce*” and “broadcast”. The additional outcome term was “richness”. The search string was adapted to specific databases using appropriate syntax. Details of the July 2016 and December 2016 strings are given in Additional file 1 together with search dates and the number of articles found. The search string is summarised in Table 1. This string differs from that presented in the protocol due to the supplementary searches conducted in December 2016.
+Table 1 The search string to which the combined database searches are equivalent
+Full size table
+Bibliographic databases
+Searches were conducted in the following online bibliographic databases:
+• 1.
+Web of Science Core Collections (Stockholm University Library subscription).
+• 2.
+Scopus (Stockholm University Library subscription).
+• 3.
+CAB abstracts (Oxford University library subscription).
+Searches were made using topic words or title, abstract and keywords. No subject category limitations were used. No language or document type restrictions were applied, but searches were performed using English search terms only.
+Search engines
+An internet search was performed using Google Scholar (scholar.google.com) and a subset of the search terms described above (see Additional file 1 for details). Search results were extracted using the software Publish or Perish [38] (up to 1000 results viewable and extractable). Duplicates within sets of search results were removed within EndNote. Citations were then uploaded to the review management software EPPI Reviewer (eppi.ioe.ac.uk/eppireviewer4) and screened together with bibliographic database search results.
+Specialist websites
+The websites of 28 specialist organisations (listed below) were searched for relevant evidence. These websites were searched using both the built-in search facilities where available and by hand searching for research studies. The search terms used were based on the search string described in Table 1, adjusted for the searching capabilities of each website. The search terms used across all websites are listed in Additional file 1. All potentially relevant evidence was recorded. Searches were performed in Danish, English, Finnish, French, Norwegian, and Swedish according to the language of the website (see Additional file 1).
+• 1.
+Ancient Tree Forum (www.ancient-tree-forum.org.uk).
+• 2.
+Australian Department of Environment and Energy (www.australia.gov.au/directories/Australia/environment).
+• 3.
+Bureau of Land Management, US Dept. of the Interior (www.blm.gov).
+• 4.
+Environment Canada (www.ec.gc.ca).
+• 5.
+European Commission Joint Research Centre (ec.europa.eu/dgs/jrc).
+• 6.
+European Environment Agency (www.eea.europa.eu).
+• 7.
+Food and Agriculture Organization of the United Nations (www.fao.org).
+• 8.
+Finland’s environmental administration (www.ymparisto.fi).
+• 9.
+International Union for Conservation of Nature (www.iucn.org).
+• 10.
+Metsähallitus (www.metsa.fi).
+• 11.
+Natural Resources Canada (www.nrcan.gc.ca).
+• 12.
+The Nebraska Prescribed Fire conference (outdoornebraska.gov/prescribedfire).
+• 13.
+New Zealand Ministry for the Environment (www.mfe.govt.nz).
+• 14.
+Nordic Council of Ministers (www.norden.org).
+• 15.
+Norwegian Environment Agency (www.miljødirektoratet.no).
+• 16.
+Norwegian Forest and Landscape Institute (www.skogoglandskap.no).
+• 17.
+Norwegian Institute for Nature Research (www.nina.no).
+• 18.
+Parks Canada (www.pc.gc.ca).
+• 19.
+Society for Ecological Restoration (www.ser.org).
+• 20.
+Swedish County Administrative Boards (www.lansstyrelsen.se).
+• 21.
+Swedish Environmental Protection Agency (www.naturvardsverket.se).
+• 22.
+Swedish Forest Agency (www.skogsstyrelsen.se).
+• 23.
+Swedish University of Agricultural Sciences (www.slu.se).
+• 24.
+UK Environment Agency (www.environment-agency.gov.uk).
+• 25.
+United Nations Environment Programme (www.unep.org).
+• 26.
+United States Environmental Protection Agency (www.epa.gov).
+• 27.
+United States National Parks Service (www.nps.gov).
+• 28.
+US Forest Service (www.fs.fed.us).
+Supplementary searches
+During screening of evidence, we identified a number of relevant literature reviews that did not contain primary data for inclusion in the review. We searched for evidence in the bibliographies of these reviews to identify potentially relevant studies that had been missed by other targeted searches.
+We recognise that data and studies from commercially valuable forests held by private companies is a source of potentially relevant evidence. However, we did not make efforts to include this evidence in our review since access is likely to be difficult and unevenly distributed [39]. Moreover, such an approach is unlikely to be repeatable or comprehensive, due to differences between companies in allowing third-party access to data. To establish a rough estimate of the amount of data missed, BGJ contacted two major forest companies in Sweden and was informed that although they do undertake regular prescribed burning, no structured data on the effects is collected.
+Estimating comprehensiveness of the search
+Since our review followed the same basic search strategy and used a very similar search string to the original systematic map published by Bernes et al. [30], we have not repeated tests of the comprehensiveness of the search that were originally performed therein.
+Screening of literature
+The evidence was screened for relevance within EPPI Reviewer. Search results from the bibliographic databases and search engines were added to the software. Prior to screening, duplicates were removed using the “fuzzy matching” function followed by additional manual removal (by JE and JT).
+Screening process
+Search results were evaluated for inclusion at two successive levels; title and abstract, and full text. This represents a change from the protocol, where we planned to assess titles and abstracts separately in two successive stages. This change reflected a decision that it was more efficient to screen titles and abstracts in EPPI Reviewer together. Sets of search results were allocated to reviewers (JE and JT) randomly. At no stage was a reviewer responsible for screening an article of which they were an author. In cases of uncertainty about inclusion decisions (for example where information was missing or unclear), the reviewer erred on the side of caution, choosing inclusion rather than exclusion.
+Articles were assessed by a single reviewer (JE or JT). As a check of consistency, a random sample of 10% (377/3764) of the articles retrieved by the July 2016 search were screened for relevance at title and abstract by both reviewers, prior to screening of the full set of results. Reviewers agreed on 80% of decisions. All disagreements were discussed in detail and inclusion criteria were annotated and further clarified verbally before the title and abstract screening continued. A third reviewer (NH) was brought into discuss borderline studies.
+Following title and abstract screening, attempts to retrieve full texts were made. Additional file 2 contains a list of 56 articles (10% of all articles potentially relevant at title and abstract level), that were not found in full text.
+Each obtained full text was screened by one reviewer following consistency checking, where a random sample of 10% (51/534) of the full texts retrieved were assessed by both reviewers at full text. This consistency checking showed a relatively high consistency rate of 74%. Following detailed discussion of all agreements it was ascertained that one reviewer was overly conservative in their inclusions. Discussions of these discrepancies between reviewers resulted in additional specifications of how the inclusion criteria were to be interpreted. Some doubtful cases, where the two reviewers could not include or exclude an article with certainty even after having read the full text, were discussed and decided on by the entire review team (all authors). Following removal of these non-relevant articles the consistency rate increased to > 90% (50/51 agreements). Of the remaining full texts, 50% were dual screened and discussed prior to the final set of 50% being screened by one reviewer (JE).
+Articles found using specialist websites (searches undertaken by JT and JK) or bibliographies of reviews (searches undertaken by JE), and those supplied by members of the review team (JK) were also entered at this stage in the screening process.
+A list of all articles excluded from the systematic review on the basis of full-text assessment is provided in Additional file 3 together with the reasons for exclusion.
+Study inclusion criteria
+Every study had to pass each of the following criteria in order to be included, either by providing all the required data itself or by referring to other articles where necessary information was presented.
+Relevant populations
+Forests in the boreal or temperate vegetation zones. Any habitat with a tree layer (canopy cover at least 10% and canopy height capable of reaching at least 5 m) was regarded as forest [40]. As an approximation of the boreal and temperate vegetation zones we used the cold Köppen–Geiger climate zones (the D zones) and a subset of the temperate zones (Cfb, Cfc and Csb), as defined by Peel et al. [41], shown in Fig. 1. Forest stands dominated by ponderosa pine (Pinus ponderosa) were considered relevant even if located outside the climate zones mentioned above. These forests constitute a well-studied North American habitat type that shares several characteristics with the pine forests in boreal and temperate regions. Studies of the South African Fynbos region were excluded due to the ecosystem being a shrubland system that generally does not fulfil the tree-layer criteria. Studies of stands where authors reported that 75% or more of the basal area or timber volume had been harvested or naturally lost were also excluded.
+Fig. 1
+(The map is modified from Peel et al. [41])
+Köppen–Geiger climate zones relevant to this systematic review. Relevant zones include all of the cold climate types (D) and some of the temperate ones (C)
+Full size image
+Relevant types of intervention
+Prescribed burning. Studies of intentional burning in the field were included, except where the primary purpose of burning was to control invasive species, because the characteristics of such burnings (extent, duration, intensity) are likely to be fundamentally different from other burns (typically for restoration or fuel reduction). Studies on wildfires were not included even if relevant control sites were available.
+Relevant type of comparator
+Non-intervention or alternative levels of intervention. Both temporal and spatial comparisons of how prescribed burning affects biodiversity were considered to be relevant. This means that we included both ‘BA’ (before/after) studies, i.e. comparisons of the same site prior to and following an intervention, and ‘CI’ (control/impact) studies, i.e. comparisons of treated and untreated sites (or sites that had been subject to different kinds of treatment). Studies combining these types of comparison, i.e. those with a ‘BACI’ (before/after/control/impact) design, were also included.
+Relevant types of outcome
+Diversity (e.g. Shannon and Simpson’s index of diversity) and richness of plants, animals, lichen, and fungi, except pyrophilous and saproxylic species. Studies of cavity-nesting birds and tree-roosting bats were included, as these species are not fully dependent on dead wood or fire. Studies which reported a representative list of species in the study area based on standard survey methods suitable for the taxa of study were included in the review, and the outcome was used as a measure of species richness, even if authors did not provide a total of the number of species listed or refer to species richness explicitly. Diversity or richness that was transformed or corrected, for example using jackknife estimates, was also regarded as relevant. In addition to diversity and richness, our review protocol listed abundance of communities or species as a relevant outcome [36], but we decided to focus the review on the former outcomes, since these are more direct measures of biodiversity [42, 43]. The protocol also listed community composition as a relevant outcome, but this was rarely reported in the studies we encountered, and the review team decided to focus on the most commonly reported biodiversity measures. The following specific outcomes were not considered eligible since they are measures of beta diversity: Jaccard’s diversity index (a measure of species turnover rather than diversity); similarity indices, such as Sorensen’s similarity index (not a measure of diversity). Seed bank diversity and richness were excluded because the seed bank represents a source of colonisation, rather than an established plant community, the latter being the focus of our review. Although we have chosen not to review seed bank diversity, we recognise that this is a topic of interest that may warrant a separate evidence synthesis.
+Relevant type of study
+Primary field studies (observational or manipulative). Based on this criterion, we excluded simulation studies, reviews, commentaries and policy discussions.
+Language
+Full text written in English, French, Swedish or Finnish. This selection reflects the language capabilities of the review team and their respective institutions, from which assistance could be provided.
+Critical appraisal of study validity
+Since the focus of this review is a combination of systematic mapping and quantitative synthesis, and since available resources were limited, only studies eligible for meta-analyses were subject to study validity assessment (see “Eligibility for meta-analysis” below). This deviates from the protocol, which stated that all studies would be critically appraised.
+Critical appraisal of study validity was conducted on all quantitatively synthesised studies to ensure that: (1) all data used in meta-analyses was of sufficient quality to be reliable and generalisable across the evidence base; and (2) studies that were of the highest reliability could be identified to examine possible influences of bias on the results of meta-analyses (via sensitivity analysis, see below). The criteria used for study validity assessment are presented in Table 2. These criteria reflect what the review team deemed to be critical variables influencing the reliability of study findings. They relate to both internal validity (methodological quality) and external validity (generalisability), and include: efforts by study authors to measure and control for baseline differences before intervention; the level of replication and representativeness of samples; allocation of samples and matching of control and intervention sites; the presence of severe confounders; appropriateness and suitability of the application of the intervention; and, the suitability of the outcome measurement methods. For each of these domains, studies were categorised as to how well they fulfilled the criteria: yes, partly, no, or unclear. Based on these categories for individual domains in Table 2, each study was then given an overall rating of high, medium, medium (unclear), or low validity, using the procedure presented in Table 3. The category of medium (unclear) was given to studies that were assigned “unclear” and not “partly” for one or more domains and “yes” for all other domains, as detailed in Table 3. This does not relate to study validity directly (unclear studies are not necessarily less valid), but we believe it is dangerous to assume that information that is missing would otherwise relate to high validity in our review. Thus, we treat studies without the highest reporting quality in the same way as we do those without the highest methodological quality or generalisability. These studies are clearly separated in all reporting within this review.
+Table 2 Study validity assessment criteria
+Full size table
+Table 3 Overall assessment of study validity/risk of bias
+Full size table
+Where necessary, detailed reasoning concerning validity assessment was recorded alongside the categorisations. Each study undergoing validity assessment was appraised by two reviewers. Cases where reviewers (JE and JT) disagreed were discussed, with a third reviewer (NH) involved in the discussions for cases which were borderline. In no case was a reviewer responsible for critically appraising a study of which they were an author.
+Studies categorised as being of low validity were excluded from meta-analyses. A list of these studies is provided in Additional file 4 together with the reasons for exclusion.
+Data extraction strategy
+Extraction of meta-data
+Meta-data (descriptive information regarding the study context and methods) were extracted for all studies in the review and used to populate a systematic map database of relevant research relating to the impacts of prescribed burning on biodiversity. Additional file 5 displays a schema of the meta-data extracted from all studies. Meta-data relating to study location were extracted from the included articles where possible, but if no geographical coordinates were given, we recorded approximate coordinates based on reported site names, maps or textual descriptions of study locations (or coordinates provided in another article describing the same site). Where coordinates given by study authors were clearly incorrect, we recorded coordinates based on other information provided by the study (e.g. distance from a named place or point of interest).
+We recorded the number of independent burn/control areas and the number of replicate samples within burn/control areas. Spatial replication was recorded as the number of samples measured within each independent burn unit (intervention or comparator site). If treated sites and controls were not replicated to the same extent, we recorded each number separately. If the number of replicates within independent burn or control areas varied, we recorded the range in the number of replicate samples.
+In cases where some of the data reported by a study fell outside the scope of our review (e.g. where some of the study sites were located outside relevant vegetation zones), we recorded information only for those parts of the study that fulfilled our inclusion criteria.
+The meta-data coding was undertaken by JT and JE. A consistency check was undertaken on 8% (20/244) of the studies, with subsequent discussion to maximise the consistency of coding between reviewers. Meta-data on these studies were extracted by both reviewers. Discrepancies were discussed, and the meta-data recording sheet refined to improve clarity before the rest of the meta-data coding was undertaken.
+Eligibility for meta-analysis
+Studies were considered unsuitable for meta-analysis (and no outcome data were extracted from them) if any of the following applied:
+The study provided quantitative data that were already provided in another relevant article (in cases of such redundant data, studies providing more information were selected for further synthesis, but missing information was filled in from linked studies).
+Measures of outcome variability and/or data on sample sizes were not available (and not possible to calculate from raw data)—effect sizes could not be calculated.
+Effects of burning were compared with effects of alternative levels of burning (rather than no burning). These studies were of limited value because they could not be compared with other studies in a quantitative analysis.
+Multiple interventions were applied concurrently in comparison with no intervention, e.g. thinning and burning compared with no intervention.
+Additional interventions (such as thinning or manipulation of grazing) had been carried out across the study areas (in both burned and unburned plots).
+Two studies reported natural levels of grazing in both burned and unburned plots and were included in the meta-analysis. Some other studies in our review may have included study plots subject to grazing, despite not explicitly reporting it. In such cases, it was assumed that any such grazing was likely to represent natural levels. Studies in which all sites were subject to non-natural/domestic/high grazing were not included in the meta-analysis.
+Extraction of quantitative data suitable for meta-analysis
+For studies with medium or high validity and with outcomes considered suitable for meta-analysis (see “Data synthesis and presentation”—“Eligibility for meta-analysis”) we undertook full data extraction (i.e. we extracted quantitative results and effect modifier data in addition to meta-data). We extracted data relating to comparisons between burned and unburned sites only in order to focus on the impact of burning as a sole intervention.
+Outcome means, measures of variability (standard deviation, standard error, confidence intervals, etc.), and sample sizes were extracted from text, tables and graphs, using image analysis software [44] where necessary. Data on interventions and other potential effect modifiers were extracted from the included articles. We also recorded, where reported, the reason for burning, i.e. burn intention.
+Some studies were unclear about the level of replication used. Where possible for these studies, we extracted two measures of sample size: the total number of subsamples and the number of true replicates (the number of replicates we deemed to represent independent samples).
+Where data were reported by authors as a range, for example a range of burn frequencies, we used the mid-point value of the range to represent the data. Where a study reported outcomes for multiple time points, we only extracted data from the final sampling, but we recorded cases where time series data were available.
+The burn season was reported in different ways across studies, and we therefore coded this variable as “dormant” (autumn/winter) or “growing” (spring/summer). For studies in the northern hemisphere, autumn/winter started from September and lasted 6 calendar months. For studies undertaken in the southern hemisphere, autumn/winter started from March.
+We recognise that the terms “saproxylic” and “pyrophilous” may be used differently by different authors, and whether an organism can be classed as one of the above is also likely to depend upon landscape or regional elements. Where reported in studies included in our meta-analyses, the maximum percentage of saproxylic/pyrophilous species within a studied community was approximately 25%. Since it was not reported whether these species groups were present in the surveyed communities for most comparisons in the quantitative synthesis (207/219), the review team decided to include the 12 comparisons that stated that they included saproxylic/pyrophilous species as part of the surveyed community. As stated in the inclusion criteria, studies where only saproxylic/pyrophilous species were recorded were not eligible for this systematic review.
+A further check was undertaken by JT and JE on 9% (8/98) of the studies, with all decisions discussed in order to maximise the consistency of coding between reviewers. Data from these studies were extracted by both JE and JT. All discrepancies were discussed, and the data extraction sheet was refined to improve clarity before the rest of the data extraction was undertaken (see Additional file 5). In a deviation from the protocol, extracted data were double-checked, but not always by a different reviewer, due to time constraints.
+If raw data (rather than means) were provided, we calculated and recorded summary statistics ourselves. Where data or information were missing or unclear we attempted to contact authors via email to retrieve the missing or unclear data.
+At no stage was a reviewer responsible for extracting information from a study of which they were an author.
+Potential effect modifiers and reasons for heterogeneity
+To the extent that data were available, the following potential effect modifiers were recorded for all studies included in the review:
+Geographical coordinates (latitude and longitude).
+Altitude.
+Forest type (coniferous, broadleaf, or mixed).
+Dominant tree species.
+Forest stand age and origin.
+Fire history.
+Burning frequency (either single or serial burning).
+Burn season.
+Other details regarding the burn (as described by authors).
+Other interventions at study sites (harvesting, thinning, understorey removal, grazing etc.)
+The following additional potential effect modifiers were recorded for all studies included in the meta-analyses:
+Climate zone.
+Forest disturbance history.
+Study duration.
+Number of burn events during the study.
+Burn frequency (number of burns per year across the study period).
+Burn intention (e.g. fuel reduction, habitat maintenance).
+Time between last burn and last outcome measure.
+Method of sampling (e.g. point count, litter samples).
+Area of study units (sampling plots).
+Share of saproxylic and/or pyrophilous species in outcome measure (e.g. percentage).
+Data synthesis and presentation
+The systematic map database and narrative synthesis
+All relevant studies were included in a systematic map database of evidence relating to the impacts of prescribed burning on biodiversity in boreo-temperate forests. We also produced an evidence atlas, an interactive geographical information system (GIS). The evidence atlas plots study locations on a world map, and data on the studies can be displayed by clicking on the symbols in the map. Both the evidence atlas and the database allow data to be filtered and sorted. The meta-data were used to collate descriptive statistics and a narrative synthesis of the evidence.
+In addition to the evidence atlas, the evidence base was summarised in a series of tables describing the nature of the study setting and methods, and the type of burning intervention employed.
+Members of the review team independently identified key knowledge gaps (underrepresented subtopics that warrant further primary research) and knowledge clusters (well-represented subtopics that are amenable to synthesis via systematic review) by independently assessing the evidence in the review and discussing gaps and clusters as a team.
+Some studies possessed sufficient data for meta-analysis but could not be meta-analysed because there were too few similar effect size estimates to allow meaningful quantitative synthesis (i.e. < 4 studies). Thus, the effect estimates and their variability for these studies and all other studies in the meta-analyses below were plotted visually using forest plots that combined all related outcome measures (e.g. all vegetation outcomes). Summary effect estimates were not plotted for these forest plots, since no actual meta-analysis was performed.
+Quantitative synthesis—data preparation
+In preparation for meta-analyses, we made a number of initial conversions and transformations of data extracted from included studies. BACI outcomes were converted to CI by subtraction of data sampled before intervention from those sampled after intervention. Measures of variability reported as standard errors or confidence intervals were converted to standard deviations. In cases where study authors had reported data according to taxonomic categories more specific than those used in our analyses, we combined different outcomes from the same plots (e.g. merging separate data on grasses and herbaceous plants to obtain data on understorey plants). In these cases, to maintain biological appropriateness, we combined richness data by summing, and combined diversity data by using the arithmetic mean (see Additional file 6: 2b, “Variability measure plan”).
+Effect size calculation
+Standardised effect sizes were calculated for all outcomes using Hedges’ g statistic [45], i.e. the difference between the mean response to burning and the mean response to no burning, divided by the pooled standard deviation, and with an adjustment for small sample sizes:
+$$Hedges'\;g = \frac{{M_{1} - M_{2} }}{{SD_{Pooled}^{*} }} \times \left( {\frac{N - 3}{N - 2.25}} \right) \times \sqrt {\frac{N - 2}{N}} ,$$
+where M1 and M2 are the intervention and comparator mean values, respectively, \({\text{SD}}_{\text{Pooled}}^{*}\) is the pooled standard deviation, and N is the sample size. Positive effect sizes thus indicate that the response parameter (species richness or diversity) was higher in burned areas than in non-burned areas.
+Simpson’s index
+Where authors reported diversity as “Simpson’s D”, we converted it to “Simpson’s diversity index 1-D”. This was necessary because when using “Simpson’s D”, which ranges from 0 to 1, a positive effect size indicates lower diversity, which is the opposite direction to the other indices used in our meta-analysis, such as Shannon diversity. The definition of Simpson’s index used was generally poorly reported. Because Simpson’s can also be reported as a reciprocal, i.e. 1/D, wherever authors reported Simpson’s index with a value greater than 1, we made the assumption that the authors used the reciprocal.
+We combined Shannon and Simpson indices from different studies in the same meta-analyses, since these indices are standardised and we are comparing differences between scale-free values. Although it would have been informative to determine the influence of the choice of diversity index on the effect size, the low number of studies prevented us from undertaking such a sensitivity analysis.
+Separation of studies
+For the purposes of this review, we defined a study as an experiment or observation that was undertaken over a specific time period at a particular site or set of sites. If multiple articles reported data for the same study site(s), they were given the same “Site ID” and were essentially considered as reports of the same study. If a single article reported data separately for different sites that we considered to be ecologically independent, we assigned a separate Site ID to each site. For the rest of this report we refer to independent effect estimates used in meta-analyses as ‘comparisons’. Hence, one article and one location could be represented in multiple outcomes in the same meta-analysis. Similarly, one study could be represented by multiple comparisons across multiple meta-analyses of different outcomes.
+Adjustment accounting for pseudoreplication
+Where we were aware (based on information in publications or from contact with authors) or had reason to assume that published outcomes were based on partly subsampled data (i.e. averaged samples were not from independent replicates), we calculated effect sizes using a modified equation to avoid overestimation of effect sizes. First, standard errors were converted to standard deviations using total numbers of subsamples as sample sizes (so as to be conservative). Hedges’ g effect sizes (based on Equations 4.19 and 4.22 in Borenstein et al. [45]) were also calculated using the total number of subsamples, but each pooled standard error was calculated using both the number of true replicates and the total number of subsamples as sample sizes. This method gives the most conservative estimate of variability.
+Quantitative synthesis—meta-analysis
+We ran random effects meta-analysis models in R [46] using the rma.mv function in the metafor package [47]. For each model, we declared Site ID (a unique code for each independent study site or set of sites) as a random factor to account for multiple outcomes being reported from the same location. We only performed meta-analysis where more than three comparisons could be combined. We produced forest plots to visualise effect sizes from individual comparisons and summary effect estimates across groups of comparable studies.
+After producing unmoderated models and forest plots, we analysed the influence of the following moderators within studies with sufficient data, also assessing the influence of the moderator on residual heterogeneity:
+Time since burning (time between last burn and outcome measure).
+Burn frequency: the number of burns per year across the study period, defined as the time between first burn and last sampling. A frequency of 1 was used when a study lasted < 1 year.
+Burn season (“dormant” or “growing”).
+Climate zone (Köppen–Geiger zones Cf, Cs, Df, Ds).
+Forest type (broadleaf, coniferous, mixed).
+We investigated the influence of moderators individually rather than combining all moderators in one model because many studies did not report all information.
+We examined the robustness of our results in several ways. First, we produced funnel plots to identify cases where publication bias might be present [48]. We did this using 1/(square root of sample size) as a measure of precision, since standard errors are inappropriate for funnel plots of standardised effect sizes [18]. Secondly, we examined the influence of the validity of studies as judged during validity assessment. We repeated our unmoderated model calculations using only ‘high validity’ studies (where n > 3) and examined whether our findings altered. Thirdly, we calculated and plotted Cook’s distance for each unmoderated model to identify highly influential studies or groups of studies. Finally, we calculated fail-safe numbers for meta-analyses showing significant summary effect estimates (fsn function within the metafor package in R [47]). The fail-safe number represents the number of studies with null effect necessary to change a model’s significance level to α (0.05) and shows how robust the results would be to additional studies. The script used to run models in R is provided in Additional file 7 and the data used in these models is provided in Additional file 8.
+Results
+The evidence base
+Our systematic review included a total of 244 studies from 235 articles. A flow diagram presenting the number of articles (and studies) included and excluded at each stage of this review is presented in Fig. 2.
+Fig. 2
+Flow diagram showing the number of studies at each stage of the review
+Full size image
+A total of 108 studies (from 106 articles) came from the systematic map that preceded this review [30]. The remaining 121 studies from the systematic map identified as relating to prescribed burning were not eligible for inclusion, primarily due to ineligible outcomes (n = 116), such as measures of abundance but not diversity or richness. The searches undertaken in July and December 2016 identified a further 117 studies (from 113 articles); 81 studies (79 articles) from the July searches and 36 studies (34 articles) from December searches. In review bibliographies we also found 19 relevant studies (from 18 articles) that had not been retrieved by our online searches. No relevant studies were identified through searches of organisational websites. The number of articles excluded after full text screening is presented by exclusion reason in Table 4. All articles excluded from the review at full-text assessment are listed in Additional file 3 together with the reason for exclusion.
+Table 4 Total numbers of articles excluded listed by primary exclusion reason
+Full size table
+We have produced an evidence atlas (https://maps.esp.tl/maps/_SR15-Evidence-Atlas/pages/map.jsp?geoMapId=450603&TENANT_ID=198852) that shows the geographical location and meta-data from the systematic map database for each study. Figure 3 is a static image of part of the interactive evidence atlas.
+Fig. 3
+Screenshot of the evidence atlas showing details for one study in a pop-up box
+Full size image
+The 244 studies considered relevant for the review are detailed in the systematic map database (Additional file 9). Of these studies in the map, 98 had sufficient data to be eligible for meta-analysis. From the remaining studies, 146 did not have sufficient information or data to allow inclusion in the quantitative synthesis. Details of these studies excluded from further synthesis can be found along with all the other included studies in Additional file 9.
+Following validity assessment, 82 studies were deemed to be of sufficient validity for meta-analysis and 16 studies were excluded from the quantitative synthesis due to low validity (see Additional file 4 and “Narrative synthesis” below).
+Narrative synthesis
+Study location
+An overview of the 244 studies included in the review is provided in the systematic map database (Additional file 9). Most of the studies were conducted in North America (182/244 studies): 172 in the USA and 10 in Canada (Fig. 3). The other studies were from Europe (28/244 studies), with 12 in Finland, 5 in Sweden, 2 each in Spain, France and Portugal and 1 each in Estonia, Lithuania, Norway, Poland and the UK. The remaining 34 studies were from Australia. Thus, while parts of the temperate and boreal zones were well covered by studies, gaps exist in other areas, particularly Russia, Kazakhstan, Northern China, Eastern Europe and New Zealand.
+Publication year
+There was a peak in publication of studies on biodiversity effects of prescribed burning between 2005 and 2009 (Fig. 4). The data suggest a plateau in the publication of studies since 2012.
+Fig. 4
+Number of articles published per year in CAB abstracts returned from a search using the forest population terms described in Table 1 (undertaken in November 2017), and the number of articles included in this review of prescribed burning on biodiversity
+Full size image
+Study language
+Almost all of the 244 studies were published in English. The only exceptions were one study in Finnish and one in French.
+Study design
+A total of 39 of 244 studies presented before–after (BA) data, 152 presented control–impact (CI) data, and 85 studies included before–after–control–impact (BACI) data. One study did not clearly report its design. Since some studies included data based on more than one study design, the sum of the numbers above exceeds the total number of studies.
+Investigated forests
+We found studies focusing on coniferous, broadleaf and mixed forests (Table 5). Coniferous forests were the most commonly represented type (126/244 studies), followed by broadleaf forests (54/244 studies). Further details on forest types and dominant tree species are provided in Additional file 9 and the evidence atlas. Generally, information regarding stand age and management history was poorly reported (either missing or not clearly described) across the evidence base.
+Table 5 Number of studies of different forest types in our review
+Full size table
+The prescribed burning interventions
+Details about the burn intervention were typically not reported or reported inconsistently across studies. Often, burns were described only as being “prescribed burning” with limited additional information. Where provided, further details included measures of fire intensity or severity, flame height, or type of ignition used.
+A total of 59 of 244 studies undertook serial burning (i.e. burning an area/site more than once) and recorded data after the final burn. Ninety-four of 244 studies provided time series data (richness or diversity data recorded at multiple time points in a treatment area) with the aim of tracking the response to the treatment over time.
+Additional interventions alongside burning (either investigated on separate sites or combined with burning on the same site) included: thinning; partial harvesting; understorey harvesting; creation of dead wood; grazing/grazing exclusion; planting understorey vegetation; and complete removal of tree layer. These are listed for each study in the database provided in Additional file 9.
+Measured outcomes
+The numbers of studies with data for different outcomes are presented in Table 6. The majority of studies (144/244) contained data for plant richness and/or diversity. A large number of studies also reported data on richness or diversity of invertebrate groups (60/244), such as arthropods, insects or beetles. Fewer studies reported fungal (16/244), mammal (6/244), amphibian (3/244) or reptile (4/244) richness or diversity. Data on lichens and bryophytes were poorly represented (5 and 2 studies, respectively).
+Table 6 Outcome categories as defined in this review and number of reports per outcome
+Full size table
+Quantitative synthesis
+Study validity critical appraisal results
+Sixteen studies were excluded from full synthesis due to low validity (see Additional file 4). The main reasons for exclusion were: intervention was not externally valid (7 studies, e.g. extremely high intensity burning); likely high heterogeneity between treatment and control sites (3 studies); inappropriate outcome measurement method (3 studies) and confounders present (3 studies, confounded by previous burning or pest outbreaks).
+Of the remaining 82 studies eligible for full quantitative synthesis, only 19 were categorised as having high validity (Additional file 10). The other 63 studies were considered to have medium validity, most commonly because they were either BA or CI studies, not BACI, or because they only partially accounted for spatial heterogeneity in treatment allocation. Three studies of potentially “high validity” were downgraded to “medium validity (unclear)” because of a lack of information on their methods, warranting a conservative approach.
+Justification for burning
+We found that for most studies from the USA the burns were conducted for multiple purposes; both for fuel reduction and for promotion of biodiversity. Finnish studies (from two projects) investigated burning to promote biodiversity, as did one Canadian study. All Australian studies (n = 4) and the Spanish study had the aim of fuel reduction. The remaining studies did not report the intention of the burn.
+Quantified outcomes
+From the 82 studies, we identified 219 comparisons (i.e. effect size estimates) for use in our quantitative synthesis (Additional file 8). Thirty-one comparisons referred to diversity using Shannon diversity index, 8 used Simpson’s index and 1 employed the Brillouin diversity index. Most of these comparisons referred to species diversity, but 1 comparison was of the diversity of species or genera, 4 comparisons were made at the order level and 2 comparisons referred to family- or order-level diversity. Most richness comparisons were made at the species level (173 comparisons), but 6 comparisons were of the richness of species or genera and 2 were of the richness of orders or families.
+Study duration and timing
+The duration of study (time between the first burn and the last outcome measurement) and the time since burning (time between the last burn and the last outcome measurement) for the 219 comparisons in the quantitative syntheses are presented in Figs. 5 and 6. We found a large number of comparisons in studies that covered long time periods, with 71/219 comparisons referring to effects at least 10 years after the initial burning. Shorter-term prescribed burning studies were also common, with 34/219 comparisons from studies lasting less than 1 year, and 33/219 comparisons from studies lasting between 1 and 2 years.
+Fig. 5
+Duration of comparisons in quantitative synthesis. Data for a total of 219 comparisons across 82 studies
+Full size image
+Fig. 6
+Time since last burn for comparisons in quantitative synthesis. A total of 219 comparisons across 82 studies
+Full size image
+Across the evidence base described here, most burns were undertaken in the growing season (120/219 comparisons).
+Most comparisons referred to short-term impacts of prescribed burning, with 61/219 comparisons measuring biodiversity impacts less than 1 year after the most recent fire, and 67/219 comparisons measuring impacts between 1 and 2 years after the last burning event. 19/219 comparisons (from 3 studies) referred to data sampled at least 10 years after the last burn.
+Of the 219 comparisons, 64 also included outcome data sampled at intermediate time points, i.e. prior to the last time point in a time series. The intermediate time point data themselves were not extracted or analysed in this review (although they were described in meta-data in the systematic map database): we only extracted and used the last time point.
+Summary forest plots
+The summary forest plots showing effect sizes from all studies reporting the richness and diversity of plants and non-plant organisms (including those that could not be meta-analysed) are presented in Additional file 11. There are no clear visual patterns in response to prescribed burning across taxonomic groups, and so it is clear that further quantitative synthesis is necessary, where appropriate.
+Meta-analyses
+All outputs of the meta-analyses, including forest plots, funnel plots and Cook’s distance plots, are presented in Additional file 12. We present the key outputs and plots in this section and summarise the main outputs in Table 7. The upper and lower limits provided with Hedges’ g and regression estimates are 95% confidence intervals.
+Table 7 Summary of main results of meta-analyses
+Full size table
+1. All vascular plant richness
+The unmoderated model shows a significant, positive overall effect of burning on total vascular plant richness (Hedges’ g = 0.397 [0.049–0.744], n = 63, p = 0.025, Fig. 7). Significant heterogeneity was detected across studies (Q62 = 176.368, p < 0.001).
+Fig. 7
+Forest plot of the effect of prescribed burning on species richness of vascular plants
+Full size image
+None of the moderators (forest type, burn frequency, time since burning, burn season and climate zone) showed a significant impact (see Additional file 12 and Table 7).
+There is no clear indication of asymmetry in the funnel plot (see Additional file 12). The fail-safe number is 331, indicating that the significance of the result is robust. The Cook’s distance plot indicates a number of influential effect sizes but no outliers of concern.
+The sensitivity analysis using only high-validity data resulted in a non-significant summary effect estimate (0.097 [− 0.180 to 0.380], n = 11, p = 0.500). This could suggest that the significance of the full unmoderated model was affected by study validity. However, the non-significant result may be, in part, a consequence of the fact that nine of the 11 comparisons were from coniferous forest, a group with a non-significant effect size (see Additional file 12).
+2. Non-native vascular plant richness
+Prescribed burning was found to have a significant, positive impact on non-native vascular plant richness (0.386 [0.154–0.619], n = 10, p = 0.001, Fig. 8), and there was no significant heterogeneity (Q9 = 12.936, p = 0.166).
+Fig. 8
+Forest plot of the effect of prescribed burning on richness of non-native vascular plants
+Full size image
+None of the moderators (forest type, burn frequency, time since burning, burn season and climate zone) showed a significant impact (see Additional file 12 and Table 7).
+There is no indication of publication bias in the funnel plot. The fail-safe number is 23, showing that a relatively large number of studies is required to remove significance of the summary effect. The Cook’s distance plot does not indicate any clear outliers (see Additional file 12).
+The high-validity sensitivity analysis showed a similar effect estimate (0.317 [0.042–0.591], n = 4, p = 0.024), suggesting that the full meta-analysis result was robust (see Additional file 12).
+3. Herbaceous plant richness
+Prescribed burning was found not to have a significant effect on herbaceous plant species richness (0.357 [− 0.176 to 0.891], n = 22, p = 0.189, Fig. 9). There was significant heterogeneity (Q21 = 73.377, p < 0.001).
+Fig. 9
+Forest plot of the effect of prescribed burning on richness of herbaceous plants
+Full size image
+Forest type was found to have a significant effect on the impact of burning (QM2 = 10.167 p = 0.006), with a significant positive impact in broadleaf forests (0.956 [0.4954 to 1.417], n = 9, p < 0.001), but not for other forest types (Fig. 10).
+Fig. 10
+Boxplot showing the impact of prescribed burning on herbaceous plant richness by forest type
+Full size image
+Time since burn was found to have a significant effect on herbaceous plant richness (regression slope of − 0.130 [− 0.248 to − 0.011], n = 22, p = 0.032, Fig. 11). This figure suggests a complex relationship clouded by remaining heterogeneity (QE20 = 60.387, p < 0.001). This heterogeneity disguises both positive and negative effects, and some aspect of context thus remains that we cannot account for.
+Fig. 11
+Meta-regression of time since burn against herbaceous plant richness
+Full size image
+There was also a significant difference between studies in different climate zones (QM3 = 15.434, p = 0.002), but this is likely the result of the only study in the Cf zone being a negative outlier.
+Burn frequency and burn season were not found to have significant effects (see Additional file 12 and Table 7).
+There is a slight indication of asymmetry in the funnel plot, suggesting possible publication bias and a more positive result for smaller studies. The Cook’s distance plot indicates the presence of one outlier (see Additional file 12); this is also clear in the forest plot (Fig. 9).
+Only two studies were high-validity, precluding validity sensitivity analysis.
+4. Woody plant richness
+There was no significant effect of prescribed burning on woody plant richness (− 0.253 [− 0.743 to 0.237], n = 23, p = 0.312, Fig. 12). There is significant heterogeneity present (Q22 = 63.882, p < 0.001).
+Fig. 12
+Forest plot of the effect of prescribed burning on richness of woody plants
+Full size image
+None of the moderators (forest type, burn frequency, time since burning, burn season and climate zone) showed a significant impact (see Additional file 12 and Table 7).
+There is no indication of publication bias based on the funnel plot. The Cook’s distance plot shows that the only significant positive effect size in the meta-analysis is an outlier (see Additional file 12).
+Sensitivity analysis using only high-validity studies was not conducted due to low number of studies (n = 3).
+5. Tree richness
+Prescribed burning was not found to have a significant effect on tree species richness (− 1.035 [− 2.095 to 0.026], n = 13, p = 0.056, Fig. 13). There was significant heterogeneity (Q12 = 54.355, p < 0.001).
+Fig. 13
+Forest plot of the effect of prescribed burning on richness of trees
+Full size image
+None of the moderators (forest type, burn frequency, time since burning, burn season and climate zone) showed a significant impact (see Additional file 12 and Table 7).
+There is no indication of publication bias in the funnel plot, and the Cook’s distance plot does not indicate any significant outliers (see Additional file 12).
+Only one study had high validity, precluding sensitivity analysis.
+6. All vascular plant diversity
+The impact of prescribed burning on vascular plant diversity was non-significant (− 0.065 [− 0.343 to 0.224], n = 13, p = 0.649, Fig. 14). There was no significant heterogeneity in effect sizes (Q12 = 8.938, p = 0.708).
+Fig. 14
+Forest plot of the effect of prescribed burning on diversity of vascular plants
+Full size image
+None of the moderators (forest type, burn frequency, time since burning, burn season and climate zone) showed a significant impact (see Additional file 12 and Table 7).
+There is no clear evidence of publication bias in the funnel plot. The Cook’s distance plot indicates that one study may be an outlier (see Additional file 12).
+The sensitivity analysis with high-validity studies revealed a non-significant summary effect size, indicating a robust result (see Additional file 12).
+7. Fungal richness
+Prescribed burning was found not to have a significant effect on fungal richness (− 1.163 [− 2.420 to 0.095], n = 5, p = 0.070, Fig. 15). There was significant overall heterogeneity (Q4 = 12.956, p = 0.012).
+Fig. 15
+Forest plot of the effect of prescribed burning on richness of fungi
+Full size image
+None of the moderators (forest type, burn frequency, time since burning, burn season and climate zone) showed a significant impact (see Additional file 12 and Table 7).
+The funnel plot is uninformative due to the small sample size, and the Cook’s distance plot did not indicate clear outliers (see Additional file 12).
+There were too few studies (n = 5) to permit a sensitivity analysis of the impact of validity.
+8. Bird richness
+Prescribed burning was not found to affect bird richness (− 0.169 [− 0.695 to 0.356], n = 6, p = 0.528, Fig. 16). There was no significant heterogeneity (Q5 = 5.857, p = 0.320).
+Fig. 16
+Forest plot of the effect of prescribed burning on species richness of birds
+Full size image
+None of the moderators (forest type, burn frequency, time since burning, burn season and climate zone) showed a significant impact (see Additional file 12 and Table 7).
+The Cook’s distance plot gave no indication of a clear outlier and the funnel plot is uninformative due to the small sample size (see Additional File 12).
+There were too few studies (n = 6) to permit a sensitivity analysis of the impact of validity.
+9. Beetle richness
+Beetle richness was not found to be affected by prescribed burning (0.398 [− 0.097 to 0.892], n = 10, p = 0.115, Fig. 17). There was significant heterogeneity among the comparisons (Q10 = 18.850, p = 0.027).
+Fig. 17
+Forest plot of the effect of prescribed burning on beetle richness
+Full size image
+None of the moderators (forest type, burn frequency, time since burning, burn season and climate zone) showed a significant impact (see Additional file 12 and Table 7).
+One study can be seen to be a clear outlier on both the forest plot and the Cook’s distance plot. The funnel plot is uninformative due to the small sample size (see Additional file 12).
+Only one study was considered to have high validity, precluding sensitivity analysis.
+Discussion
+Pyrophilous and saproxylic species are known to benefit from prescribed burning in forests, particularly in the context of biodiversity conservation [23]. However, prescribed burning may also have a wide spectrum of effects on other species, implying the presence of effects on ecosystem characteristics [49] that need to be understood while planning and evaluating burning. Occasionally, such effects on non-pyrophilous species result from deliberate practices, for example to control invasive species. More often, however, they are side-effects that may also be in conflict with other goals in maintaining biodiversity or ecosystem services (e.g. [50]).
+This review focused on the effects of prescribed burning on species that are not directly fire-associated (pyrophilous or saproxylic). We identified 244 studies on these effects, including 82 studies eligible for meta-analysis. We found significant positive impacts of burning on vascular plant richness, non-native plant richness and herbaceous plant richness (broadleaved forest). In all other quantitative analyses, we found no consistent effects on species richness and diversity on non-pyrophilous and non-saproxylic species from prescribed burning. This was likely due to large inter-study variation in outcomes, due to high heterogeneity between studies, and low numbers of comparable studies in each quantitative synthesis. We found no consistent effects of moderators and were unable to test the effect of many potential moderators, due to a lack of reporting.
+Generally, the effect of fire is believed to be marked, and directly related to the intense and abrupt disturbance associated with burning. However, the evidence base that we have uncovered suggests that there is also significant heterogeneity with respect to how prescribed burning affects different groups of organisms. While burning has often been shown to favour pyrophilous (e.g. [51, 52]) and saproxylic species (e.g. [32, 53,54,, 54]) either immediately or after a time lag, the effects of burnings on richness and diversity of other species have been previously shown to vary from strongly positive (e.g. [55,56,57]) to negative (e.g. [58, 59]), depending on which species is studied. Interestingly, based on our results, this variation was not primarily a between-species phenomenon but rather a between-study phenomenon, meaning that separate studies on the same taxonomic or ecological groups revealed contrasting outcomes.
+We contend that our observation that the effects of burning on species richness and diversity are highly variable across studies is ecologically valid. This is supported by studies that have simultaneously analysed multiple species and verified variable responses also at a more detailed scale (e.g. [29, 50]). In ecological systems, there is typically quite a high level of idiosyncrasy, depending on variable biotic and abiotic circumstances as well as historical events. When studies from highly variable contexts are combined in a meta-analysis, the influence on the outcome of a given treatment (burning in our case) is also expected to be variable [60]. We attempted to account for some contextual moderators, such as forest type and climate zone. Three moderators were found to have a significant impact on the effects of burning on herbaceous plant richness; for instance, richness increased significantly after burning in broadleaf forests but not in coniferous and mixed forests. However, in many of our analyses the small number of comparable studies combined with the substantial heterogeneity limited the power of moderators to explain the variability in outcomes.
+As well as ecological context, differences in the application of the intervention are likely to have a strong influence on the study results. We attempted to account for the following moderators: season of burning, the time since the area was burned, and the frequency of burn events. There are other factors that we were unable to incorporate into the analysis that may also influence outcomes (e.g. soil type and moisture, humidity, wind, etc.; see below). In addition, the reason for conducting the prescribed burn may also influence outcomes. In our review, only two of 82 studies in the quantitative analysis [61, 62] specified that the objective of burning was control of species rather than biodiversity/restoration (33 studies) or fuel reduction (19 studies). The remaining studies did not report the objective, a recognised potential source of bias in reporting ecological research [63].
+We focused our review on biodiversity outcomes and acknowledge that prescribed burning will have a wider impact on ecosystem services, such as carbon cycling, soil nutrient cycles and water quality. The importance of the impact on these services and their contextual dependence are worthy of exploration, possibly in a systematic review.
+Reasons for heterogeneity
+At least four main factors contribute to the high level of heterogeneity in the observed effects of prescribed burning.
+First, although the review was restricted to boreal and temperate forests, there was noticeable regional variation among the study systems. In terms of regional coverage, the availability of studies was clearly biased towards North America: in total, out of the 219 comparisons that were eligible for the meta-analysis, 197 were from North America, which encompasses a large area with heterogeneity in biotic and abiotic composition within our specified climate zones. Some studies (7 comparisons) were conducted in Australian eucalypt forests that appear to have distinctive fire regimes not found in other regions, possibly because of the particular characteristics of eucalypt trees, such as oil in leaves encouraging an intense fire that is more damaging to less fire-attuned species [64,65,66].
+Second, a prescribed burn is rarely an event that can be applied in a standardised way even if initiated deliberately and controlled. Weather conditions, topography, and the amount of combustible biomass may considerably affect the severity and, thus, the ecological consequences of prescribed burning. For example, Gundale et al. [67] reported on burnings that were conducted using the same procedures but where variation in weather conditions and in the volume and distribution of fuels led to variation in the behaviour and effects of the fire. This variation is an inherent feature of most controlled burns. The prescribed burn area studied by Elliot et al. [68] had recorded temperatures of < 80 °C on lower slopes but > 800 °C on upper slopes and ridges. The burns with the highest intensity were described as stand-replacing fire which consumed understorey vegetation and ignited crowns. Similarly, there is likely great variability in the training and experience of the fire team and the proximity to human structures which may influence aversion to “risk”. Assessing the comparability of controlled burns is hindered by the often brief reporting of burn characteristics.
+Third, the review covered species that are both taxonomically and ecologically highly heterogeneous and, thus, may be expected to show variable responses to fire. Our meta-analyses of taxonomic groups necessarily combined studies focusing on different subgroups which may have responded in different ways to burning, thus reducing the accuracy of the summary effect size and resulting in a less meaningful summary. Pyrophilous and saproxylic species may be expected to benefit from fires where there is mortality of trees during and after a fire event, though in situations where trees are not killed, saproxylics can suffer because of a net loss of dead wood. Other species respond in a range of different ways according to, for example, their motility, habitat preference, germination requirements or seed release mechanisms. A meta-analysis of such diverse taxa could benefit from arranging them into groups based on other characteristics than their taxonomic status. For example, separate analyses of species sharing specific life-history characteristics, such as r- or K-selected species, could provide more detailed understanding of causal factors. Unfortunately, studies usually do not provide such data, and it is often impossible to classify species in this way afterwards, particularly where studies report richness or diversity of mixed groups.
+Finally, the sampling methods used to quantify the impacts of prescribed burning varied widely across studies. Methods are chosen by authors to be relevant for the focal species groups, but such methods do not necessarily provide comparable data when combined (in a meta-analysis) across different species groups. For example, taxonomic groups that are very diverse (such as beetles) and hence a significant part of biodiversity are often challenging to sample efficiently and representatively [69]. Depending on the exact method used to capture beetles, such as widely used window-traps or pitfall traps, quite different patterns of the community may be revealed even if samples are assumed to represent communities from the same forest stand [69]. A related problem is that our reviewed studies rarely report beta-diversity across samples and sites. Hence, if an effect of the fire is to increase variability in species composition it might not be captured by plot-based species richness or diversity estimates. This clearly mirrors the concern raised by Socolar et al. [70] that conservation research needs to better take beta-diversity issues into consideration.
+Another methodological issue of concern relates to study duration. Although a fire event is always abrupt, its consequences have long-lasting impacts, and many ecological effects may only be revealed by time series data that cover at least a few decades following a fire [24, 27]. Only rarely have studies been able to assess such long-term effects and hence capture the successional dynamics after the fire [28]. The length of the monitoring period is likely to have a major influence on the heterogeneity of the patterns observed in the reviewed studies. For example, short-term studies may be able to capture data on how different species colonise burned areas, but to reveal if species are also able to reproduce and establish populations on these sites requires studies that cover multiple generations for species of interest. We have recorded where studies measured time-series, but due to low comparability across studies, we did not extract or analyse such data for this review. Instead, our analysis has focused on the data reported for the maximum time since fire.
+Whilst we recognise that the limited number of studies available for meta-analyses limits the ability of moderators to explain heterogeneity, the moderators tested generally had little effect. The only exception is for herbaceous plant species richness. In this case, the effect size was found to decrease with time since burning and also differ between climate zones. There was also a significant effect of forest type, with herbaceous plant richness in broadleaf forests showing a positive response to prescribed burning. Reasons why increased time since burn may have a negative effect on herbaceous plant richness could include gap dynamics leading to initial colonisation followed by competitive exclusion of some species [71, 72], or the influence of early-successional non-native herbs [28]. It is also possible that some early plant colonisers originated from long-term seed banks and established only for a short period after fire before entering the next seed bank period [73].
+Burn season is another temporal moderator that could be important. However, as the dormant and growing seasons may span across the calendar cut-offs (which we used in most cases) and since authors generally did not report burn seasons clearly, the burn season moderator is subject to inconsistencies. This is likely to contribute to noise and limits the ability of the moderator to explain heterogeneity in our datasets.
+Knowledge gaps and clusters
+We identified knowledge gaps and clusters across all of the 244 studies in the review (including both meta-analysed studies as well as in the systematic map) to determine the representation of topics in the evidence base.
+Forest types and locations
+The low number of mixed forest studies represents a clear knowledge gap. We also note the lack of studies from the relevant climate zones in Russia, Kazakhstan, Northern China, Eastern Europe and New Zealand, and the seemingly low number of studies from Canada and Fennoscandia. Within the included European studies (15 comparisons, from Western Europe), coverage was incomplete. The dominance of North American studies is a clear knowledge cluster (75% of the evidence base in the entire review and 90% of comparisons in the quantitative synthesis). It is plausible that there is relevant literature from some of the underrepresented regions in other languages that we could not include, or alternatively evidence that has not been referenced in broadly accessible literature sources. It appears that studies on prescribed burnings from Fennoscandia mainly focus on pyrophilous and saproxylic species, and such studies were excluded from this review.
+Biodiversity outcome
+Whilst 74% of comparisons eligible for our quantitative synthesis referred to plant taxa, only 26% referred to other taxa. Some 83% of total comparisons reported on richness, whilst 17% comparisons reported diversity, demonstrating a strong skew towards richness reporting in the evidence base for the quantitative synthesis. Diversity studies typically reported Shannon diversity (76% of comparisons) rather than Simpson’s diversity (21% of comparisons). This may reflect the situation in the ecological literature, where the Shannon index is the one most commonly used [74].
+Prescribed burning intervention
+Only 15% of studies reported data for more than 5 years since burning, representing a knowledge gap on the long-term effects of fire. Long-term studies have often revealed that the effects of prescribed burning in forest ecosystems may become visible only after decades rather than years. The lack of long-term studies limits the ability to explore whether prescribed fires can meet their (often-cited) target to initiate typical post-fire successions and to restore forest structures typical of areas with natural fire regimes.
+Limitations of the review and evidence base
+Publication bias
+We cannot rule out the risk of publication bias, because of the small number of effect sizes in many of the meta-analyses. We did attempt to source grey literature from organisations and web searching, but further grey literature may exist that was not locatable with our search strategy.
+Lack of reporting of population, interventions or confounders
+Many study authors provided limited or no documentation of stand age, management history, previous fire events or the prescribed burning program. Although, documenting fire severity quantitatively can be challenging, we call on authors to better report this kind of data, since it is expected that severity has a major influence on ecosystems, including biodiversity [75, 76].
+Heterogeneity in methods used to calculate outcomes
+There was notable heterogeneity in diversity and richness estimation methods across studies included in the review. Effect sizes that are calculated based on percentage cover, species abundance, basal area, etc. can differ in magnitude or direction. Studies also employed sampling at different spatial scales (i.e. plot sizes), which can inherently lead to different results. Especially small plot sizes can increase the risk of missing low-abundance species with direct implication for observed differences among treatments.
+Influence of the presence of saproxylic/pyrophilous species within data
+Saproxylic and pyrophilous species were generally not the target of studies included in this review, but study authors may have included such species in estimates of overall richness and diversity without documenting their presence explicitly. This may to some extent have affected our findings, although we focused on non-saproxylic and non-pyrophilous species groups. It is also likely that in some cases the classification of species to saproxylics and pyrophilous may not be well-established. Thus, we cannot rule out the possibility that some studies in this review included these species groups.
+Conclusions
+Implications for policy, practitioners and researchers
+We found that prescribed burning had a significant positive effect on vascular plant richness, non-native plant richness and herbaceous plant richness (in broadleaved forest). In all other quantitative analyses, we found no consistent positive or negative effects on species richness and diversity of non-pyrophilous and non-saproxylic species. This was likely due to high inter-study heterogeneity, and low numbers of comparable studies in each quantitative synthesis. We found no consistent effects of moderators and were unable to test the effect of many potential moderators, due to a lack of reporting. We note that the actual outcomes in any particular case are still difficult to predict, and any forest restoration or management project using burning should include a component of monitoring in order to build a stronger evidence base for recommendations and guidelines on how to best achieve identified conservation targets. There are situations where prescribed burning can have harmful effects on taxa that are conservation-dependent, such as epiphytic lichens [77], and these require that prescribed burning is planned carefully to avoid harmful effects.
+In general, we expect that many non-saproxylic and non-pyrophilous taxa, such as those covered by this review, may be systematically slow to respond to fire, particularly when exposed to low-severity burning. Thus, for these groups especially, a longer monitoring period would be highly justified and we call on funders and researchers to undertake such long-term investigation. We also call for increased research focusing on the impacts of prescribed burning on non-plant organisms, in particular fungi, birds, herpetofauna, and mammals.
+A large number of studies (96/244) could not be included in the quantitative synthesis due to an unfortunate lack of replication or reporting of measures of variability within their data. We thus call on researchers to better report variability in summary data or provide access to raw data so that these statistics can be calculated by meta-analysts.
+We therefore identify three needs, which, if addressed, would improve the usability of results both in a review like this and for management: (1) document burning severity and fire behaviour and, if possible, conduct experimental burnings where the severity of fire can be manipulated; (2) if possible, replicate treatments in units that are independent of each other; and, (3) monitor the response over long time periods, i.e. decades rather than a few years. Though similar recommendations have been proposed by authors of previous reviews of prescribed burning impacts [25, 78, 79], it appears that they are yet to be widely heeded. Possible barriers to uptake may include difficulty/danger in documenting fire severity, and management or ecological constraints in the assignment of fully replicated experimental plots. The resources required for long-term monitoring and staffing turnover combined with differences in monitoring capacity of staff are also a likely constraint on experimental design and reporting. Co-designed or co-implemented research, whereby the skills and resources of practitioners and researchers are used to implement robust prescribed burning experiments, may be a way to overcome these barriers.
+Burning of a forest system is a management practice that requires long-term commitment to implementation and monitoring of outcomes. Given that a large number of relevant prescribed burning experiments have been initiated, the ground has been set for long-term studies. Coming generations of researchers may be best advised to make use of existing study systems, some of which are identified in this review, thereby enabling outcomes to be monitored over very long periods.
+References
+• 1.
+Lindenmayer D, Franklin J, Fischer J. General management principles and a checklist of strategies to guide forest biodiversity conservation. Biol Conserv. 2006;131(3):433–45.
+Google Scholar
+• 2.
+Bengtsson J, Nilsson SG, Franc A, Menozzi P. Biodiversity, disturbances, ecosystem function and management of European forests. For Ecol Manag. 2000;132(1):39–50.
+Google Scholar
+• 3.
+Lindenmayer DB, Franklin JF. Conserving forest biodiversity: a comprehensive multiscaled approach. Washington, D.C: Island Press; 2002.
+Google Scholar
+• 4.
+Lindenmayer DB, Margules CR, Botkin DB. Indicators of biodiversity for ecologically sustainable forest management. Conserv Biol. 2000;14(4):941–50.
+Google Scholar
+• 5.
+Agee JK. Fire ecology of Pacific Northwest forests. Washington DC: Island press; 1996.
+Google Scholar
+• 6.
+Pyne SJ. Burning bush: a fire history of Australia. Basingstoke: Macmillan; 1991.
+Google Scholar
+• 7.
+Rius D, Vannière B, Galop D. Holocene history of fire, vegetation and land use from the central Pyrenees (France). Quatern Res. 2012;77(1):54–64.
+CAS  Google Scholar
+• 8.
+Stähli M, Finsinger W, Tinner W, Allgöwer B. Wildfire history and fire ecology of the Swiss National Park (Central Alps): new evidence from charcoal, pollen and plant macrofossils. Holocene. 2006;16(6):805–17.
+Google Scholar
+• 9.
+Bowman DM, Balch JK, Artaxo P, Bond WJ, Carlson JM, Cochrane MA, D’Antonio CM, DeFries RS, Doyle JC, Harrison SP. Fire in the Earth system. Science. 2009;324(5926):481–4.
+CAS  Google Scholar
+• 10.
+Abrams MD. Fire and the development of oak forests. Bioscience. 1992;42(5):346–53.
+Google Scholar
+• 11.
+Conedera M, Tinner W, Neff C, Meurer M, Dickens AF, Krebs P. Reconstructing past fire regimes: methods, applications, and relevance to fire management and conservation. Quatern Sci Rev. 2009;28(5–6):555–76.
+Google Scholar
+• 12.
+Van Wagtendonk JW. The history and evolution of wildland fire use. Fire Ecol. 2007;3(2):3–17.
+Google Scholar
+• 13.
+Aplet GH. Evolution of wilderness fire policy. Int J Wilderness. 2006;12(1):9–13.
+Google Scholar
+• 14.
+Baker WL. Restoration of landscape structure altered by fire suppression. Conserv Biol. 1994;8(3):763–9.
+Google Scholar
+• 15.
+Falcucci A, Maiorano L, Boitani L. Changes in land-use/land-cover patterns in Italy and their implications for biodiversity conservation. Landscape Ecol. 2007;22(4):617–31.
+Google Scholar
+• 16.
+Ryan KC, Knapp EE, Varner JM. Prescribed fire in North American forests and woodlands: history, current practice, and challenges. Front Ecol Environ. 2013;11(s1):e15–24.
+Google Scholar
+• 17.
+Wallenius T. Major decline in fires in coniferous forests-reconstructing the phenomenon and seeking for the cause. Silva Fennica. 2011;45(1):139–55.
+Google Scholar
+• 18.
+Zackrisson O. Influence of forest fires on the North Swedish boreal forest. Oikos. 1977;29(1):22–32.
+Google Scholar
+• 19.
+Johnson E, Miyanishi K, Bridge S. Wildfire regime in the boreal forest and the idea of suppression and fuel buildup. Conserv Biol. 2001;15(6):1554–7.
+Google Scholar
+• 20.
+Davies GM, Kettridge N, Stoof CR, Gray A, Ascoli D, Fernandes PM, Marrs R, Allen KA, Doerr SH, Clay GD. The role of fire in UK peatland and moorland management: the need for informed, unbiased debate. Philos Trans R Soc B. 2016;371(1696):20150342.
+Google Scholar
+• 21.
+Russell-Smith J, Thornton R. Perspectives on prescribed burning. Front Ecol Environ. 2013;11(s1):e3.
+Google Scholar
+• 22.
+Burrows N, McCaw L. Prescribed burning in southwestern Australian forests. Front Ecol Environ. 2013;11(s1):e25–34.
+Google Scholar
+• 23.
+Halme P, Allen KA, Auniņš A, Bradshaw RH, Brūmelis G, Čada V, Clear JL, Eriksson A-M, Hannon G, Hyvärinen E. Challenges of ecological restoration: lessons from forests in northern Europe. Biol Conserv. 2013;167:248–56.
+Google Scholar
+• 24.
+Bradstock RA, Williams JE, Gill MA. Flammable Australia: the fire regimes and biodiversity of a continent. Cambridge: Cambridge University Press; 2002.
+Google Scholar
+• 25.
+Fernandes PM, Botelho HS. A review of prescribed burning effectiveness in fire hazard reduction. Int J Wildland Fire. 2003;12(2):117–28.
+Google Scholar
+• 26.
+Fernandes PM, Davies GM, Ascoli D, Fernández C, Moreira F, Rigolot E, Stoof CR, Vega JA, Molina D. Prescribed burning in southern Europe: developing fire management in a dynamic landscape. Front Ecol Environ. 2013;11(s1):e4–14.
+Google Scholar
+• 27.
+Burrows N. Linking fire ecology and fire management in south-west Australian forest landscapes. For Ecol Manag. 2008;255(7):2394–406.
+Google Scholar
+• 28.
+Wittkuhn RS, McCaw L, Wills AJ, Robinson R, Andersen AN, Van Heurck P, Farr J, Liddelow G, Cranfield R. Variation in fire interval sequences has minimal effects on species richness and composition in fire-prone landscapes of south-west Western Australia. For Ecol Manag. 2011;261(6):965–78.
+Google Scholar
+• 29.
+Hyvärinen E, Kouki J, Martikainen P. Prescribed fires and retention trees help to conserve beetle diversity in managed boreal forests despite their transient negative effects on some beetle groups. Insect Conserv Divers. 2009;2(2):93–105.
+Google Scholar
+• 30.
+Bernes C, Jonsson BG, Junninen K, Lõhmus A, Macdonald E, Müller J, Sandström J. What is the impact of active management on biodiversity in boreal and temperate forests set aside for conservation or restoration? A systematic map. Environ Evid. 2015;4(1):25.
+Google Scholar
+• 31.
+James KL, Randall NP, Haddaway NR. A methodology for systematic mapping in environmental sciences. Environ Evid. 2016;5(1):7.
+Google Scholar
+• 32.
+Bernes C, Jonsson BG, Junninen K, Lõhmus A, Macdonald E, Müller J, Sandström J. What are the impacts of dead-wood manipulation on the biodiversity of temperate and boreal forests. A systematic review protocol. Environ Evid. 2016;4(1):1.
+Google Scholar
+• 33.
+Bernes C, Jonsson BG, Junninen K, Lõhmus A, Macdonald E, Müller J, Sandström J. What are the impacts of manipulating grazing and browsing by ungulates on plants and invertebrates in temperate and boreal forests? A systematic review protocol. Environ Evid. 2016;5(1):17.
+Google Scholar
+• 34.
+Matheis M. Does restoration fire enhance the regeneration of deciduous trees in boreal forests? A systematic review. Sundsvall: Mituniversititet; 2015.
+Google Scholar
+• 35.
+Life + Taiga. Om Taiga: Life + Taiga; 2016. http://lifetaiga.se/om-taiga/. Accessed 25 June 2016.
+• 36.
+Eales J, Haddaway NR, Bernes C, Cooke SJ, Jonsson BG, Kouki J, Petrokofsky G. What is the effect of prescribed burning in temperate and boreal forest on biodiversity, beyond tree regeneration, pyrophilous and saproxylic species? A systematic review protocol. Environ Evid. 2016;5(1):24.
+Google Scholar
+• 37.
+The Collaboration for Environmental Evidence. Guidelines for systematic reviews in environmental management; 2013.
+• 38.
+Harzing A. Publish or Perish. http://www.harzing.com/pop.htm. 2007.
+• 39.
+Haddaway NR, Collins AM, Coughlin D, Kohl C. Including non-public data and studies in systematic reviews and systematic maps. Environ Int. 2017;99:351–5.
+Google Scholar
+• 40.
+Food and agriculture organisation of the United Nations. Forest Resources Assessment Working Paper 180. 2015. Available from: http://www.fao.org/forest-resources-assessment/en/. Accessed 14 Aug 2018.
+• 41.
+Peel M, Finlayson B, McMahon T. Updated world map of the Köppen–Geiger climate classification. Hydrol Earth Syst Sci. 2007;11:1633–44.
+Google Scholar
+• 42.
+Magurran AE. Measuring biological diversity. New York: Wiley; 2013.
+Google Scholar
+• 43.
+Marrugan A. Ecological diversity and its measurement. London: Croom Helm; 1988.
+Google Scholar
+• 44.
+Rohatgi A. WebPlotDigitalizer: HTML5 based online tool to extract numerical data from plot images. Version; 2015.
+• 45.
+Borenstein M, Hedges L, Higgins JP, Rothstein H. Introduction to Meta–analysis. Chichester: Wiley; 2009. ISBN 9780470743386.
+Google Scholar
+• 46.
+R Core Team. R: A language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria, 2016; 2017.
+• 47.
+Viechtbauer W. Conducting meta-analyses in R with the metafor package. J Stat Softw. 2010;36(3):1–48.
+Google Scholar
+• 48.
+Light RJ, Pillemer DB. Summing up: the science of reviewing research. Cambridge: Harvard University Press; 1984.
+Google Scholar
+• 49.
+Shorohova E, Kneeshaw D, Kuuluvainen T, Gauthier S. Variability and dynamics of old-growth forests in the circumbolear zone: implications for conservation, restoration and management. Silva Fennica. 2011;45(5):785–806.
+Google Scholar
+• 50.
+Granath G, Kouki J, Johnson S, Heikkala O, Rodríguez A, Strengbom J. Trade-offs in berry production and biodiversity under prescribed burning and retention regimes in Boreal forests. J Appl Ecol. 2018. https://doi.org/10.1111/1365-2664.13098.
+Article  Google Scholar
+• 51.
+Heikkala O, Martikainen P, Kouki J. Prescribed burning is an effective and quick method to conserve rare pyrophilous forest-dwelling flat bugs. Insect Conserv Divers. 2017;10(1):32–41.
+Google Scholar
+• 52.
+Kouki J, Hyvärinen E, Lappalainen H, Martikainen P, Similä M. Landscape context affects the success of habitat restoration: large-scale colonization patterns of saproxylic and fire-associated species in boreal forests. Divers Distrib. 2012;18(4):348–55.
+Google Scholar
+• 53.
+Hyvärinen E, Kouki J, Martikainen P, Lappalainen H. Short-term effects of controlled burning and green-tree retention on beetle (Coleoptera) assemblages in managed boreal forests. For Ecol Manag. 2005;212(1–3):315–32.
+Google Scholar
+• 54.
+Toivanen T, Kotiaho JS. Burning of logged sites to protect beetles in managed boreal forests. Conserv Biol. 2007;21(6):1562–72.
+Google Scholar
+• 55.
+Bowles ML, Jacobs KA, Mengler JL. Long-term changes in an oak forest’s woody understory and herb layer with repeated burning. J Torrey Bot Soc. 2007;134(2):223–37.
+Google Scholar
+• 56.
+Welch N, Waldrop TA, Buckner E. Response of southern Appalachian table mountain pine (Pinus pungens) and pitch pine (P. rigida) stands to prescribed burning. For Ecol Manag. 2000;136(1–3):185–97.
+Google Scholar
+• 57.
+White AS. The effects of thirteen years of annual prescribed burning on a Quercus ellipsoidalis community in Minnesota. Ecology. 1983;64(5):1081–5.
+CAS  Google Scholar
+• 58.
+Collins BM, Moghaddas JJ, Stephens SL. Initial changes in forest structure and understory plant communities following fuel reduction activities in a Sierra Nevada mixed conifer forest. For Ecol Manag. 2007;239(1–3):102–11.
+Google Scholar
+• 59.
+Ducherer K, Bai Y, Thompson D, Broersma K. Dynamic responses of a British Columbian forest-grassland interface to prescribed burning. West North Am Nat. 2009;69(1):75–87.
+Google Scholar
+• 60.
+Gurevitch J, Hedges LV. Statistical issues in ecological meta-analyses. Ecology. 1999;80(4):1142–9.
+Google Scholar
+• 61.
+Nuzzo VA, McClain W, Strole T. Fire impact on groundlayer flora in a sand forest 1990–1994. Am Midl Nat. 1996;136:207–21.
+Google Scholar
+• 62.
+Larsen AL, Jacquot JJ, Keenlance PW, Keough HL. Effects of an ongoing oak savanna restoration on small mammals in Lower Michigan. For Ecol Manag. 2016;367:120–7.
+Google Scholar
+• 63.
+Parker TH, Nakagawa S, Gurevitch J, IIEE. Promoting transparency in evolutionary biology, ecology, and ornithology. Auk. 2016;133(4):779–82.
+Google Scholar
+• 64.
+Fairman TA, Nitschke CR, Bennett LT. Too much, too soon? A review of the effects of increasing wildfire frequency on tree mortality and regeneration in temperate eucalypt forests. Int J Wildland Fire. 2016;25(8):831–48.
+Google Scholar
+• 65.
+Cruz M, Sullivan A, Gould J, Sims N, Bannister A, Hollis J, Hurley R. Anatomy of a catastrophic wildfire: the Black Saturday Kilmore East fire in Victoria, Australia. For Ecol Manag. 2012;284:269–85.
+Google Scholar
+• 66.
+Bowman D. Rainforests and flame forests: the great Australian forest dichotomy. Geogr Res. 2000;38(3):327–31.
+Google Scholar
+• 67.
+Gundale MJ, Metlen KL, Fiedler CE, DeLuca TH. Nitrogen spatial heterogeneity influences diversity following restoration in a ponderosa pine forest, Montana. Ecol Appl. 2006;16(2):479–89.
+Google Scholar
+• 68.
+Elliott K, Vose J, Hendrick R. Long-term effects of high intensity prescribed fire on vegetation dynamics in the Wine Spring Creek Watershed, western North Carolina, USA. Fire Ecol. 2009;5(2):66–85.
+Google Scholar
+• 69.
+Martikainen P, Kouki J. Sampling the rarest: threatened beetles in boreal forest biodiversity inventories. Biodivers Conserv. 2003;12(9):1815–31.
+Google Scholar
+• 70.
+Socolar JB, Gilroy JJ, Kunin WE, Edwards DP. How should beta-diversity inform biodiversity conservation? Trends Ecol Evol. 2016;31(1):67–80.
+Google Scholar
+• 71.
+Hansson L. Boreal ecosystems and landscapes: structures, processes and conservation of biodiversity. Ecol Bull. 1997;46:203.
+Google Scholar
+• 72.
+Uotila A, Kouki J. Understorey vegetation in spruce-dominated forests in eastern Finland and Russian Karelia: successional patterns after anthropogenic and natural disturbances. For Ecol Manag. 2005;215(1–3):113–37.
+Google Scholar
+• 73.
+Wienk CL, Sieg CH, McPherson GR. Evaluating the role of cutting treatments, fire and soil seed banks in an experimental framework in ponderosa pine forests of the Black Hills, South Dakota. For Ecol Manag. 2004;192(2–3):375–93.
+Google Scholar
+• 74.
+Morris EK, Caruso T, Buscot F, Fischer M, Hancock C, Maier TS, Meiners T, Müller C, Obermaier E, Prati D. Choosing and using diversity indices: insights for ecological applications from the German Biodiversity Exploratories. Ecol Evol. 2014;4(18):3514–24.
+Google Scholar
+• 75.
+Salo K, Kouki J. Severity of forest wildfire had a major influence on early successional ectomycorrhizal macrofungi assemblages, including edible mushrooms. For Ecol Manag. 2018;415–416:70–84. https://doi.org/10.1016/j.foreco.2017.12.044.
+Article  Google Scholar
+• 76.
+Martin RE, Sapsis DB, editors. Fires as agents of biodiversity: pyrodiversity promotes biodiversity. In: Proceedings of the conference on biodiversity of northwest California ecosystems Cooperative Extension, University of California, Berkeley; 1992.
+• 77.
+Hämäläinen A, Kouki J, Lõhmus P. The value of retained Scots pines and their dead wood legacies for lichen diversity in clear-cut forests: the effects of retention level and prescribed burning. For Ecol Manag. 2014;324:89–100.
+Google Scholar
+• 78.
+Gill AM, McCarthy MA. Intervals between prescribed fires in Australia: what intrinsic variation should apply? Biol Conserv. 1998;85(1–2):161–9.
+Google Scholar
+• 79.
+Keeley JE. Fire intensity, fire severity and burn severity: a brief review and suggested usage. Int J Wildland Fire. 2009;18(1):116–26.
+Google Scholar
+• 80.
+Haddaway N, Macura B, Whaley P, Pullin A. ROSES for systematic review reports. Version 1.0. 2017. https://doi.org/10.6084/m9.figshare.5897272.
+Download references
+Authors’ contributions
+This review was conducted by JE, JJ and NRH. The report was drafted by JE and NRH. All authors assisted in editing and revising the report. All authors read and approved the final manuscript.
+Acknowledgements
+We would like to thank Steve Norman, Elsa Field and Julia Koricheva for providing advice and/or comments on our methodological approach. We thank all study authors who provided additional information and/or data on direct request. We also thank all stakeholders who provided input into this review or the systematic map that preceded this review.
+Competing interests
+The authors declare that they have no competing interests. Efforts were made to ensure that authors of research studies included in this review were not involved in any decisions regarding their own work.
+Availability of data and materials
+A list of excluded studies at full text, a list of unobtainable and un-translated articles, the systematic map database, and the raw data and R scripts for analysing them are included as Additional files with this report. A ROSES form [80] for this systematic review report is included as Additional file 13.
+Consent for publication
+Not applicable.
+Ethics approval and consent to participate
+Not applicable.
+Funding
+This review report is financed by the Mistra Council for Evidence-Based Environmental Management (EviEM).
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Author information
+Author notes
+Jacqualyn Eales
+Present address: European Centre for Environment and Human Health, University of Exeter Medical School, Knowledge Spa, Royal Cornwall Hospital, Truro, TR1 3HD, UK
+Jacqualyn Eales and Neal R. Haddaway contributed equally to the manuscript
+Affiliations
+Mistra EviEM, Stockholm Environment Institute, Box 24218, 104 51, Stockholm, Sweden
+Jacqualyn Eales, Neal R. Haddaway & Claes Bernes
+Africa Centre for Evidence, University of Johannesburg, Johannesburg, South Africa
+Neal R. Haddaway
+Canadian Centre for Evidence-Based Conservation and Environmental Management, Department of Biology and Institute of Environmental Science, Carleton University, 1125 Colonel By Drive, Ottawa, ON, K1S 5B6, Canada
+Steven J. Cooke & Jessica J. Taylor
+Department of Natural Sciences, Mid Sweden University, 851 70, Sundsvall, Sweden
+Bengt Gunnar Jonsson
+School of Forest Sciences, University of Eastern Finland-Joensuu, Yliopistokatu 7, PO Box 111, 80101, Joensuu, Finland
+Jari Kouki
+Department of Zoology, University of Oxford, South Parks Road, Oxford, OX1 3PS, UK
+Gillian Petrokofsky
+Authors
+• Jacqualyn Eales
+View author publications
+You can also search for this author in PubMed Google Scholar
+• Neal R. Haddaway
+View author publications
+You can also search for this author in PubMed Google Scholar
+• Claes Bernes
+View author publications
+You can also search for this author in PubMed Google Scholar
+• Steven J. Cooke
+View author publications
+You can also search for this author in PubMed Google Scholar
+• Bengt Gunnar Jonsson
+View author publications
+You can also search for this author in PubMed Google Scholar
+• Jari Kouki
+View author publications
+You can also search for this author in PubMed Google Scholar
+• Gillian Petrokofsky
+View author publications
+You can also search for this author in PubMed Google Scholar
+• Jessica J. Taylor
+View author publications
+You can also search for this author in PubMed Google Scholar
+Corresponding author
+Correspondence to Neal R. Haddaway.
+Additional files
+Additional file 1. Literature searches.
+Additional file 2. Unobtainable articles following title and abstract screening.
+Additional file 3. Articles excluded from the review at full text.
+Additional file 4. Studies excluded from the review due to low validity.
+Additional file 5. Meta-data extraction and coding schema.
+Additional file 6. Preparation of data for quantitative synthesis.
+Additional file 7. R script for meta-analyses.
+Additional file 8. Data used in meta-analyses.
+Additional file 9. Systematic map database.
+Additional file 10. Data extraction and validity assessment of quantitative synthesis studies.
+Additional file 11. Narrative synthesis plots.
+Additional file 12. Quantitative synthesis outputs (including forest, funnel and Cook’s distance plots).
+Additional file 13. ROSES form for the systematic review report.
+Rights and permissions
+Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+Reprints and Permissions
+About this article
+Cite this article
+Eales, J., Haddaway, N.R., Bernes, C. et al. What is the effect of prescribed burning in temperate and boreal forest on biodiversity, beyond pyrophilous and saproxylic species? A systematic review. Environ Evid 7, 19 (2018). https://doi.org/10.1186/s13750-018-0131-5
+Download citation
+Received: 28 February 2018
+Accepted: 28 July 2018
+Published: 20 August 2018
+DOI: https://doi.org/10.1186/s13750-018-0131-5
+Keywords
+• Fire regime
+• Disturbance
+• Forest conservation
+• Controlled burn
+• Forest set-aside
+• Forest reserve
+• Habitat management
+• Prescribed burn
+Download PDF
+Advertisement
+Environmental Evidence
+ISSN: 2047-2382
+Contact us
+• Submission enquiries: Access here and click Contact Us
+• General enquiries: info@biomedcentral.com
+• Read more on our blogs
+• Receive BMC newsletters
+• Manage article alerts
+• Language editing for authors
+• Scientific editing for authors
+• Policies
+• Accessibility
+• Press center
+• Support and Contact
+• Leave feedback
+• Careers
+Follow BMC
+• BMC Twitter page
+• BMC Facebook page
+• BMC Weibo page
+By using this website, you agree to our Terms and Conditions, Privacy statement and Cookies policy. Manage the cookies we use in the preference centre.
+© 2020 BioMed Central Ltd unless otherwise stated. Part of Springer Nature.

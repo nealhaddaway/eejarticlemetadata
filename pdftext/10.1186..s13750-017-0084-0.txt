@@ -1,0 +1,316 @@
+Guy‑Haim et al. Environ Evid (2017) 6:6
+DOI 10.1186/s13750-017-0084-0                                                                                         Environmental Evidence
+  SYSTEMATIC REVIEW PROTOCOL                                                                                                                          Open Access
+What are the type, direction,
+and strength of species, community,
+and ecosystem responses to warming in aquatic
+mesocosm studies and their dependency
+on experimental characteristics? A systematic
+review protocol
+Tamar Guy‑Haim1,2* , Harriet Alexander3, Tom W. Bell4, Raven L. Bier5, Lauren E. Bortolotti6,
+Christian Briseño‑Avena7, Xiaoli Dong8, Alison M. Flanagan9, Julia Grosse10, Lars Grossmann11,
+Sarah Hasnain12, Rachel Hovel13, Cora A. Johnston14, Dan R. Miller15, Mario Muscarella16, Akana E. Noto17,
+Alexander J. Reisinger18, Heidi J. Smith19 and Karen Stamieszkin20
+  Abstract
+  Background: Mesocosm experiments have become increasingly popular in climate change research as they bridge
+  the gap between small-scale, less realistic, microcosm experiments, and large-scale, more complex, natural systems.
+  Characteristics of aquatic mesocosm designs (e.g., mesocosm volume, study duration, and replication) vary widely,
+  potentially affecting the magnitude and direction of effect sizes measured in experiments. In this global systematic
+  review we aim to identify the type, direction and strength of climate warming effects on aquatic species, communi‑
+  ties and ecosystems in mesocosm experiments. Furthermore, we will investigate the context-dependency of the
+  observed effects on several a priori determined effect moderators (ecological and methodological). Our conclusions
+  will provide recommendations for aquatic scientists designing mesocosm experiments, as well as guidelines for inter‑
+  pretation of experimental results by scientists, policy-makers and the general public.
+  Methods: We will conduct a systematic search using multiple online databases to gather evidence from the scien‑
+  tific literature on the effects of warming experimentally tested in aquatic mesocosms. Data from relevant studies will
+  be extracted and used in a random effects meta-analysis to estimate the overall effect sizes of warming experiments
+  on species performance, biodiversity and ecosystem functions. Experimental characteristics (e.g., mesocosm size and
+  shape, replication-level, experimental duration and design, biogeographic region, community type, crossed manipu‑
+  lation) will be further analysed using subgroup analyses.
+  Keywords: Climate change, Global warming, Mesocosm, Microcosm, Aquatic, Marine, Estuarine, Freshwater,
+  Experimental design, Methodology
+*Correspondence: tguy‑haim@geomar.de
+1
+  GEOMAR, Helmholtz Centre of Ocean Research Kiel, Benthosökologie,
+Düsternbrooker Weg 20, 24105 Kiel, Germany
+Full list of author information is available at the end of the article
+                                              © The Author(s) 2017. This article is distributed under the terms of the Creative Commons Attribution 4.0 International License
+                                              (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium,
+                                              provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license,
+                                              and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/
+                                              publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+
+Guy‑Haim et al. Environ Evid (2017) 6:6                                                                        Page 2 of 6
+Background                                                   eutrophication and hypoxia on shallow coastal ecosys-
+Since the beginning of the industrial era, anthropogenic     tems while allowing for natural fluctuations, thus increas-
+activities have led to increased atmospheric concentra-      ing realism [11].
+tions of greenhouse gases, which are currently reaching         Despite their widespread use in ecological studies,
+their highest levels in the last 800,000 years [1]. This has mesocosm experiments have been criticized as unrealis-
+resulted in a measureable increase in both global air and    tic and simplistic representations of ecological processes,
+water temperatures—a trend that is projected to intensify    producing results with limited relevance and applicabil-
+through the end of the twenty first century [2]. Global      ity to natural ecosystems [12]. Mesocosm dimensions
+warming is poised to be one of the most serious threats      (volume), shape, settings, experimental duration, rep-
+to aquatic ecosystems, both marine [1] and freshwater        lication-level, and other design characteristics serve as
+[3]. Various ecological responses to warming have been       confounding factors that can strongly influence the meas-
+documented and demonstrated experimentally at all lev-       ured experimental effect [13]. To date, the most compre-
+els of biological organization, including changes in spe-    hensive review of mesocosm experiments as a tool for
+cies distribution, phenology, growth, and metabolism, as     ecological climate change research was conducted by
+well as in community structure, biodiversity and ecosys-     Stewart et al. in 2013 [5]. This extensive review covers
+tem functions [1, 3].                                        terrestrial, marine and freshwater experiments, describes
+   Understanding and predicting the consequences of cli-     advantages and caveats of mesocosm methodologies, and
+mate change on species, communities, and ecosystems          illustrates the number of mesocosm studies in different
+is challenging. It can be difficult to disentangle climate-  categories. However, it does not provide quantitative
+driven signals from natural variability, especially when     measures of how ecological and methodological charac-
+combined with other environmental stressors such as          teristics may influence the effect sizes measured in these
+eutrophication and pollution [1]. Despite these difficul-    studies, both in magnitude and direction. Therefore, a
+ties, major scientific efforts (i.e., substantial research   new quantitative evaluation of the contribution of experi-
+investments in the form of experiments) have been made       mental mesocosms to climate change research is both
+to elucidate the ecological effects of climate change using  timely and vital to better understanding the limitations
+a range of methods: extrapolation, experiments, game-        and caveats associated with such an approach.
+theory population models, phenomenological models,
+expert opinion, and outcome-driven modelling and sce-        Objective of this review
+narios [4]. Among experimental approaches, mesocosms         This systematic review is aimed at identifying the type,
+have become progressively more popular as they narrow        direction, and strength of species, community, and eco-
+the gap between smaller-scale, less realistic, microcosm     system responses to experimental warming in aquatic
+experiments, and larger-scale, more complex, natural         mesocosms. We will also investigate the context-depend-
+systems, in which mechanistic relationships are often dif-   ency of observed effects on several a priori ecological
+ficult to identify [5].                                      and methodological moderators. This global review will
+   Eugene P. Odum first coined the term ‘mesocosm’ to        cover existing studies conducted in aquatic ecosystems
+describe replicated experimental setups of a moderate        (i.e., marine, estuarine, and freshwater), across all bio-
+size, where ‘parts (populations) and wholes (ecosystems)     geographical regions, and with all species. Studies will be
+can be investigated simultaneously by a team of research-    considered included based upon the criteria described
+ers’ [6]. Over the years, the term ‘mesocosm’ has been       below.
+arbitrarily used to specify experimental enclosures of var-
+ied shape and volume, from one to thousands of litres [7].   Primary question
+Today, aquatic mesocosms are used in marine, estuarine,      What are the type, direction, and strength of species,
+and freshwater systems. Enclosures of pelagic waters, in     community, and ecosystem responses to warming in
+the laboratory (e.g., [8]), outdoors, or in situ (e.g., [9]) aquatic mesocosm studies?
+have been used to test the effects of warming on plankton
+communities. Benthic mesocosms have long been used in        Secondary question
+shallow freshwater ecosystems to establish mechanistic       How do experimental characteristics of aquatic meso-
+relationships between various stressors and population,      cosms change the direction and magnitude of effect sizes
+community, or ecosystem dynamics [10]. More recently,        in climate change research?
+benthic mesocosms have also been developed for marine           The list of components that will help guide the search
+environments to test the effect of warming, acidification,   and analysis of the extracted data is shown in Table 1.
+
+Guy‑Haim et al. Environ Evid (2017) 6:6                                                                                           Page 3 of 6
+Table 1 Guiding criteria for the literature search
+Populations                         Exposure and intervention      Outcomes (response variables)       Comparators
+Marine, estuarine and freshwater    Warming (heating) manipulation Species richness, species even‑     Warmed vs control (ambient) treatments
+  species and communities              AND mesocosm experiment       ness, biodiversity, total com‑
+                                                                     munity biomass, single species
+                                                                     abundance (cover, count), single
+                                                                     species biomass, survival rate,
+                                                                     mortality rate, growth rate, com‑
+                                                                     munity productivity, nutrient
+                                                                     cycling, nutrient flux, metabo‑
+                                                                     lism, decomposition, respiration,
+                                                                     resilience, temporal stability,
+                                                                     resistance
+Methods                                                                 Article screening and study inclusion criteria
+Search strategy                                                         The eligibility of the articles obtained by the aforemen-
+We will use a pre-determined list of keywords to search                 tioned search for the final analysis will be assessed via a
+for relevant studies in the academic databases Web of                   set of inclusion criteria at three successive levels: title,
+Science, Scopus and Google Scholar, and in non-aca-                     abstract and full-text. First, we will evaluate articles
+demic websites using Google Custom International                        by title to remove citations spuriously returned by our
+Governmental Organizations (IGO) search (https://cse.                   search. Next, we will evaluate the remaining citations
+google.com/cse/home?cx=006748068166572874491:                           based on their abstracts to further remove unrelated cita-
+55ez0c3j3ey) and Google Custom Non-Governmental                         tions. At this stage, all participating reviewers will assess
+Organizations (NGO) search (https://cse.google.com/                     an identical subset of the articles (5%), and a Kappa inter-
+cse/home?cx=012681683249965267634:q4g16p05-ao).                         rater agreement statistic [15] will be calculated based on
+The list of search terms and Boolean operators that will                the assessments. If the statistic indicates that reviewers
+be used to identify relevant aquatic mesocosm studies is                are inconsistent in their assessment of article relevance,
+provided in Table 2. Within each category (population,                  discrepancies will be discussed and the inclusion crite-
+exposure and intervention, outcomes), the search terms                  ria will be clarified or revised to ensure that consistent
+will be combined in parentheses and separated using the                 methods are utilized by all authors. We will iterate this
+Boolean operator ‘OR’. These categories will then be com-               process until the computed Kappa statistic exceeds 0.6
+bined using the Boolean operator ‘AND’. An asterisk (*)                 [15]. Finally, the full text of the remaining articles will be
+indicates a ‘wildcard’, which allows databases to include               evaluated for the meta-analysis. If it is unclear whether
+multiple words with different prefixes or suffixes; for                 an article meets the inclusion criteria at an initial level of
+example, estuar* captures [estuary OR estuaries OR estu-                screening, it will be included for evaluation at the next
+arine]. Quotation marks (“”) around two or more words                   level of the systematic review. A table listing all articles
+restrict the search to instances where that exact phrase                excluded at full text stage with reasons for exclusion
+occurs.                                                                 (based on the inclusion criteria) will be provided as a
+   While reading the full-text publications we will look                supplementary for the systematic review.
+for further relevant material (e.g., cited papers) that may                Selected publications must contain the following infor-
+include useful data for this systematic review that were                mation: (1) replication level/sample size, (2) averages
+missed in our search of publication databases. In the                   (arithmetic means) of control and treatment groups, and
+case of papers reporting incomplete information, we will                (3) variance estimates (as standard deviation, standard
+attempt to obtain the relevant information by contacting                error or confidence interval). Further evaluations will be
+the authors. The resulting list of publications will be man-            based on whether populations, exposures, comparators,
+aged using reference management software (Mendeley),                    outcomes, and study types meet the following criteria:
+which will be used to eliminate redundant publications.
+   The degree of comprehensiveness of the search strat-                 Relevant populations
+egy and its ability to identify all relevant articles will be           Any aquatic species, population or community, including
+assessed using sensitivity analyses [14].                               marine, brackish, and freshwater systems.
+
+Guy‑Haim et al. Environ Evid (2017) 6:6                                                                                                       Page 4 of 6
+Table 2 The search strings that will be used for the review
+Search terms                            Exposure and intervention                Outcomes (response variables)
+Populations
+(marine OR brackish OR estuar* OR       (“climate change” OR “global change”     ((“species richness” OR diversity OR “community structure” OR
+  coastal OR sea OR lagoon* OR pelagic     OR warm* OR temperatur* OR heat*         evenness OR biodiversity OR bio-diversity OR “biological diver‑
+  OR benth* OR demersal OR plankt*         OR thermal*) AND (mesocosm*              sity” OR Shannon* OR “Simpson index” OR “abundance-biomass
+  OR shore* OR intertidal OR subtidal      OR microcosm* OR chamber* OR             curve*” OR “species abundance distribution*” OR “community
+  OR ocean* OR bay* OR cove* OR            container* OR enclosure* OR tank* OR     similarity” OR “community dissimilarity” OR “genetic variation”) OR
+  harbo* OR lake* OR pond* OR bog*         flow-through* OR benthocosm* OR          (“energy flow*” OR “energy flux*” OR “flow* of energy” OR “Flux*
+  OR stream* OR river* OR freshwa‑         experiment* OR test*)                    of energy” OR biogeochemical OR “nutrient cycl*” OR “cycling of
+  ter* OR creek* OR lotic OR lentic OR                                              nutrient*” OR “Nutrient dynamics” OR “nutrient flux*” OR “nutrient
+  headwater* OR reservoir* OR brook*                                                flow*” OR “Flow* of nutrient*” OR “Flux* of nutrient*” OR “nutrient
+  OR wetland* OR *pool* OR marsh* OR                                                retention” OR “cycling of carbon” OR “carbon cycl*” OR “carbon
+  watershed* OR catchment* OR limnol*                                               stor*” OR “carbon flow*” OR “carbon flux*” OR “flow* of carbon” OR
+  OR glacial* OR “inland waters”)                                                   “flux* of carbon” OR “cycling of sul*ur” OR “Sul*ur cycl*” OR “flow*
+                                                                                    of sul*ur” OR “flux* of sul*ur” OR “sul*ur flux*” OR”sul*ur flow*” OR
+                                                                                    “hydrogen sul*ide” OR “cycling of nitrogen” OR “nitrogen cycl*”
+                                                                                    OR “flow* of nitrogen” OR “flux* of nitrogen” OR “nitrogen flux*”
+                                                                                    OR “nitrogen flow*” OR *nitrification OR anammox OR dnra OR
+                                                                                    “cycling of phosphorus” OR “ phosphorus cycl*” OR “flow* of
+                                                                                    phosphorus” OR “flux* of phosphorus” OR “phosphorus flux*”
+                                                                                    OR “phosphorus flow*” OR “cycling of oxygen” OR “oxygen cycl*”
+                                                                                    OR “flow* of oxygen” OR “flux* of oxygen” OR “oxygen flux*” OR
+                                                                                    “oxygen flow*” OR anoxi* OR hypoxi* OR bioturbation OR graz‑
+                                                                                    ing OR foraging OR herbivory OR predation OR scavengers OR
+                                                                                    scavenging OR respiration OR ecosystem metabolism OR “sedi‑
+                                                                                    ment stabili*” OR “sediment mixing” OR resilience OR stability OR
+                                                                                    resistance) OR (“primary product*” OR chlorophyll OR “secondary
+                                                                                    product*” OR “bacterial productivity” OR “carbon fixation” OR
+                                                                                    “community respiration” OR “ecosystem respiration” OR “com‑
+                                                                                    munity metabolism” OR “ecosystem metabolism” OR “abundance”
+                                                                                    OR “productivity” OR “biomass” OR “metabolism” OR mortalit*
+                                                                                    OR survival OR growth OR cover OR densit* OR resilience OR
+                                                                                    “temporal stability” OR resistance))
+Relevant exposures                                                         Study quality assessment
+An experiment that manipulates water temperature                           Studies that have passed the inclusion criteria described
+(warming) and is conducted in a mesocosm setup. We                         above will be subject to an evaluation for bias. Suscepti-
+will deem all replicated experimental setups whose                         bility to bias will be defined by any of the following fac-
+volume is equal to or larger than 1 L as mesocosms                         tors: lack of true replication, lack of methodological
+[7].                                                                       information (e.g. sample size), uninterpretable outcomes,
+                                                                           and difficulty in interpreting exposure (mesocosm setup)
+Relevant comparators                                                       and intervention (warming treatment) data. Based on
+(1) Experiments comparing “treated” (warmed) and “con-                     assessing these criteria, studies will be categorised as
+trol” (ambient temperature) conditions (CI); (2) Experi-                   having high, medium or low susceptibility to bias. Studies
+ments comparing “before” (ambient temperature) and                         with high susceptibility will be excluded from the review.
+“after” (warmed) conditions (BA).                                          The list of studies, their level of susceptibility to bias
+                                                                           (high, medium, low) and the categorization justification
+Relevant outcomes                                                          will be provided in the systematic review.
+We will search for a broad range of outcomes (i.e., eco-
+logical responses): (1) changes in species richness, even-                 Data extraction and effect size calculation
+ness, and diversity, (2) changes in species and community                  Means, sample sizes and variance estimators will be
+metabolism (productivity, respiration, calcification), (3)                 extracted directly from the text and tables, or from fig-
+changes in species survival, mortality, size and growth,                   ures using image analysis software (e.g., ImageJ). All
+(4) changes in nutrient flux (carbon, nitrogen, phospho-                   three data components must be reported for a study to
+rus, sulfur), and (5) changes in species and communities                   be included. Hedges’ g [16] will be used to calculate the
+resilience, stability or resistance.                                       effect size. Hedges’ g is the unbiased mean difference
+
+Guy‑Haim et al. Environ Evid (2017) 6:6                                                                                              Page 5 of 6
+estimator, which estimates the difference in the response    Authors’ contributions
+                                                             The work presented here was carried out in collaboration between all authors.
+variable between the ‘treatment’ (i.e., warmed mesocosm      TGH initiated and wrote the manuscript, designed the protocol, and discussed
+units) and control (ambient temperature) groups. This        its components. HA, RB, LB, CBA, TB, XD, AF, JG, LG, SH, RH, CJ, DM, AM, MM,
+measure is standardized by the within-group standard         AN, AJR, HS and KS contributed to the design of the protocol and text of the
+                                                             manuscript. All authors read and approved the final manuscript.
+deviation, penalizing studies with large variances and/or
+few observations. In substance, this estimator transforms    Author details
+all effect sizes to a common metric, thus enabling the cal-  1
+                                                               GEOMAR, Helmholtz Centre of Ocean Research Kiel, Benthosökologie,
+                                                             Düsternbrooker Weg 20, 24105 Kiel, Germany. 2 Israel Oceanographic
+culation of summary effects across data that may have        and Limnological Research, National Institute of Oceanography, P.O. Box 8030,
+been captured on different scales [17]. All extracted data   31080 Haifa, Israel. 3 Department of Population Health and Reproduction,
+records will be made available as additional files.          University of California, Davis, Davis, CA 95616, USA. 4 Earth Research Institute,
+                                                             University of California, Santa Barbara, Santa Barbara, CA 93106, USA. 5 Depart‑
+                                                             ment of Ecology and Genetics/Limnology, Uppsala University, Norbyvägen
+Potential effect modifiers and reasons                       18D, 75236 Uppsala, Sweden. 6 Institute for Wetland and Waterfowl Research,
+for heterogeneity                                            Ducks Unlimited Canada, P.O. Box 1160, Stonewall, MB R0C 2Z0, Canada.
+                                                             7
+                                                               Oregon State University, Hatfield Marine Science Center, 2030 SE Hatfield
+Study-level modifiers may contribute to the variation in     Drive, Newport, OR 97365, USA. 8 Nicholas School of the Environment, Duke
+effect size and can thus be regarded as potential effect-    University, 450 Research Drive, Durham, NC 27708, USA. 9 School of Marine
+moderators [18]. These modifiers can be related to either    and Atmospheric Sciences, Stony Brook University, Stony Brook, NY 11794,
+                                                             USA. 10 Biological Oceanography, GEOMAR, Helmholtz Centre of Ocean
+the characteristics of the studied species/habitats/regions  Research Kiel, Düsternbrooker Weg 20, 24105 Kiel, Germany. 11 Biodiver‑
+or the methodology used. For each outcome category           sity Department, Centre for Water and Environmental Research, University
+we will define “characteristic” categorical moderators,      of Duisburg-Essen, Universitaetstrasse 5, 45239 Essen, Germany. 12 Depart‑
+                                                             ment of Biology, Queen’s University, 116 Barrie Street, Kingston, ON KJL 3N6,
+e.g., system type (lentic, lotic, marine, estuarine), com-   Canada. 13 School of Aquatic and Fishery Sciences, University of Washington,
+munity type (benthic/pelagic/both), mesocosm size            Box 355020, Seattle, WA 98195, USA. 14 University of Maryland, College Park,
+(volume), experimental duration, replication type and        College Park, MD 20782, USA. 15 Mina and Everard Goodman Faculty of Life
+                                                             Sciences, Bar Ilan University, 52900 Ramat Gan, Israel. 16 Department of Plant
+level (gradient, repeated treatment), mesocosm settings      Biology, University of Illinois at Urbana-Champaign, Champaign, IL, USA.
+(indoors/outdoors/in situ), experimental design (closed/     17
+                                                                W.M. Keck Science Department, 925N. Mills Ave, Claremont, CA 91711,
+open/semi-open-system), water source (natural, artifi-       USA. 18 Cary Institute of Ecosystem Studies, Box AB, Millbrook, NY 12545, USA.
+                                                             19
+                                                                Center for Biofilm Engineering, Montana State University, Bozeman, MT
+cial), focal taxa, focal taxa size, number of trophic lev-   591717, USA. 20 Bigelow Laboratory for Ocean Sciences, 60 Bigelow Drive, E.
+els, number of species, biogeographic region (marine)        Boothbay, ME 04544, USA.
+or ecoregion (freshwater and estuarine), latitude, longi-
+                                                             Acknowledgements
+tude, crossed manipulation (none, acidification, nutrient    We are grateful to Paul Kemp and Lydia Baker for valuable feedback on this
+addition/depletion, exposure to invasive species, oxygen     project, and to Gil Rilov, Jacob Silverman, Eyal Rahav and Martin Wahl for their
+depletion, toxins/pollutants, feeding regime, exposure to    valuable comments on an earlier draft of this manuscript.
+disease/parasites, salination, flow, precipitation and sea   Competing interests
+level). Each of these attributes will be identified for each The authors declare that they have no competing interests.
+study, as relevant.
+                                                             Availability of data and materials
+                                                             Should the manuscript be accepted, the data supporting the results will be
+Data synthesis and presentation                              archived in an appropriate public repository and the data DOI will be included
+The effect size estimates from individual studies will       in the article.
+be aggregated using the ‘metafor’ package in R [19],         Funding
+and presented in forest plots. Assuming heterogene-          This systematic review protocol originated from discussions that took place
+ous studies, the summary effect in each category will        at the Ecological Dissertations in Aquatic Sciences (EcoDAS) XII Symposium in
+                                                             October 2016, which was hosted by the Center for Microbial Oceanography
+be calculated using a random-effects model. Fun-             (C-MORE) and the University of Hawaii. Funding for EcoDAS XII was provided
+nel plots and the Trim and Fill algorithm [20] will be       by the NSF biological oceanography program (Award OCE-1356192) and the
+used to evaluate publication bias. To assess the rela-       Association for the Sciences of Limnology and Oceanography (ASLO).
+tionship between potential effect-moderators and the         Received: 5 December 2016 Accepted: 16 February 2017
+effect size within each category, we will perform sub-
+group analyses using a mixed-effects model structure.
+These subgroup analyses will show which moderators,
+if any, have the most impact on mesocosm experimen-
+tal design, thereby informing aquatic scientists wishing     References
+                                                              1. Gattuso J-P, Magnan A, Bille R, Cheung W, Howes E, Joos F, Allemand D,
+to plan mesocosm experiments. Our results will also                Bopp L, Cooley S, Eakin C. Contrasting futures for ocean and soci‑
+provide guidelines for interpretation of climate warm-             ety from different anthropogenic CO2 emissions scenarios. Science.
+ing experiments by scientists, policy-makers, and the              2015;349(6243):4722.
+                                                              2. IPCC. Climate Change 2014: synthesis report. Contribution of working
+general public.                                                    groups I, II and III to the fifth assessment report of the intergovernmental
+
+Guy‑Haim et al. Environ Evid (2017) 6:6                                                                                                                    Page 6 of 6
+    panel on climate change. In: Core Writing Team, Pachauri, R.K., Allen, M.R.,      11. Wahl M, Buchholz B, Winde V, Golomb D, Guy-Haim T, Müller J, Rilov G,
+    Barros, V.R., Broome, J., Cramer, W., Christ, R., Church, J.A., Clarke, L., Dahe,     Scotti M, Böttcher ME. A mesocosm concept for the simulation of near-
+    Q., Dasgupta, P. and Dubash, N.K. Meyer LA, editors. Geneva: IPCC; 2014. p.           natural shallow underwater climates: the Kiel Outdoor Benthocosms
+    151.                                                                                  (KOB). Limnol Oceanogr Methods. 2015;13(11):651–63.
+3. Firth P, Fisher SG. Global climate change and freshwater ecosystems.               12. Carpenter SR. Microcosm experiments have limited relevance for com‑
+    Berlin: Springer Science & Business Media; 2012.                                      munity and ecosystem ecology. Ecology. 1996;77(3):677–80.
+4. Sutherland WJ. Predicting the ecological consequences of environmental             13. Spivak AC, Vanni MJ, Mette EM. Moving on up: can results from simple
+    change: a review of the methods. J Appl Ecol. 2006;43(4):599–616.                     aquatic mesocosm experiments be applied across broad spatial scales?
+5. Stewart RI, Dossena M, Bohan DA, Jeppesen E, Kordas RL, Ledger                         Freshw Biol. 2011;56(2):279–91.
+    ME, Meerhoff M, Moss B, Mulder C, Shurin JB. Mesocosm experi‑                     14. Copas JB. A likelihood-based sensitivity analysis for publication bias in
+    ments as a tool for ecological climate-change research. Adv Ecol Res.                 meta-analysis. J R Stat Soc Ser C (Appl Stat). 2013;62(1):47–66.
+    2013;48:71–181.                                                                   15. Landis JR, Koch GG. The measurement of observer agreement for cat‑
+6. Odum EP. The mesocosm. Bioscience. 1984;34(9):558–62.                                  egorical data. Biometrics. 1977;33:159–74.
+7. Odum EP, Sala OE, Jackson RB, Mooney HA, Howarth R. Methods in eco‑                16. Hedges LV. Distribution theory for Glass’s estimator of effect size and
+    system science. Berlin: Springer Science & Business Media; 2013.                      related estimators. J Educ Behav Stat. 1981;6(2):107–28.
+8. Sommer U, Aberle N, Engel A, Hansen T, Lengfellner K, Sandow M,                    17. Borenstein M, Hedges LV, Higgins J, Rothstein HR. A basic introduction
+    Wohlers J, Zöllner E, Riebesell U. An indoor mesocosm system to study                 to fixed-effect and random-effects models for meta-analysis. Res Synth
+    the effect of climate change on the late winter and spring succession of              Methods. 2010;1(2):97–111.
+    Baltic Sea phyto- and zooplankton. Oecologia. 2007;150(4):655–67.                 18. Hedges LV, Pigott TD. The power of statistical tests for moderators in
+9. Riebesell U, Czerny J, Bröckel KV, Boxhammer T, Büdenbender J, Deckel‑                 meta-analysis. Psychol Methods. 2004;9(4):426.
+    nick M, Fischer M, Hoffmann D, Krug S, Lentz U. Technical note: a mobile          19. Viechtbauer W. Conducting meta-analyses in R with the meta for pack‑
+    sea-going mesocosm system—new opportunities for ocean change                          age. J Stat Softw. 2010;36(3):1–48.
+    research. Biogeosciences. 2013;10(3):1835–47.                                     20. Duval S, Tweedie R. Trim and fill: a simple funnel plot—based method of
+10. Bott T, Brock J, Cushing C, Gregory S, King D, Petersen R. A comparison of            testing and adjusting for publication bias in meta-analysis. Biometrics.
+    methods for measuring primary productivity and community respiration                  2000;56(2):455–63.
+    in streams. Hydrobiologia. 1978;60(1):3–12.
+                                                                                          Submit your next manuscript to BioMed Central
+                                                                                          and we will help you at every step:
+                                                                                            • We accept pre-submission inquiries
+                                                                                            • Our selector tool helps you to find the most relevant journal
+                                                                                            • We provide round the clock customer support
+                                                                                            • Convenient online submission
+                                                                                            • Thorough peer review
+                                                                                            • Inclusion in PubMed and all major indexing services
+                                                                                            • Maximum visibility for your research
+                                                                                            Submit your manuscript at
+                                                                                            www.biomedcentral.com/submit
+

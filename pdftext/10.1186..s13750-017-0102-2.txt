@@ -1,0 +1,723 @@
+Frampton et al. Environ Evid (2017) 6:27
+DOI 10.1186/s13750-017-0102-2                                                                                         Environmental Evidence
+  METHODOLOGY                                                                                                                                         Open Access
+Eligibility screening in evidence
+synthesis of environmental management topics
+Geoff K. Frampton1* , Barbara Livoreil2 and Gillian Petrokofsky3
+   Abstract
+   The eligibility screening step of a systematic review or systematic map (sometimes referred to as ‘study selection’,
+   ‘evidence selection’ or ‘inclusion screening’) determines the scope of the evidence that may answer the review or
+   map question. Eligibility screening involves the development, testing and application of eligibility criteria (inclusion
+   and exclusion criteria) by an evidence synthesis review team, based on methods pre-specified in the review or map
+   protocol. Some parts of the process require judgement, meaning that consistent and transparent reporting of the
+   eligibility criteria and the process for applying them are essential in order to reduce the risk of introducing errors or
+   bias. The existing Collaboration for Environmental Evidence (CEE) Guidelines for Systematic Reviews in Environmen-
+   tal Management (version 4.2, March 2013) give relatively limited guidance on how to conduct eligibility screening.
+   In this paper we provide more in-depth information on good practice methods for this step of evidence synthesis,
+   based on a critical consideration of existing guidance and current practice. Our aim is to provide recommendations
+   to support those conducting CEE systematic reviews or systematic maps for environmental management questions;
+   however, the methods we describe are generic and should be broadly applicable across a wide range of environmen-
+   tal research topics.
+   Keywords: Eligibility criteria, Inclusion criteria, Study selection, Systematic review, Systematic map, Quality, Bias,
+   Reviewer agreement
+Background                                                                                    searches are usually designed to have high sensitivity,
+Systematic reviews follow a structured process in order                                       that is, to identify as many relevant articles (or other
+to answer specific questions whilst minimising the                                            items of evidence) as possible. However, highly sen-
+risks of errors or bias [1–4]. Systematic maps also fol-                                      sitive searches tend to have low specificity, meaning
+low a structured process, to determine the extent and                                         poor discrimination of information that is truly irrel-
+characteristics of a specified evidence base, but pro-                                        evant (note that sensitivity is sometimes called recall
+vide answers which are more descriptive [5]. Although                                         or exhaustivity and specificity is sometimes called pre-
+these approaches to evidence synthesis have different                                         cision) [7]. Consequently, sensitive searches typically
+objectives, they both need to identify all information                                        return large numbers of irrelevant articles (e.g. exceed-
+relevant to the questions they are addressing, so as to                                       ing 20,000 in an evidence synthesis on the impacts of
+reduce the risk of selective inclusion or exclusion of                                        alternative livelihood projects [8]. The challenge for
+evidence [6]. In both approaches an extensive search                                          those of us conducting systematic reviews or system-
+for evidence should therefore have been carried out                                           atic maps is to separate the evidence from the large
+using as wide a range of information sources as pos-                                          amount of irrelevant information without introducing
+sible [7]. To ensure that key evidence is not missed,                                         errors or bias.
+                                                                                                 In this paper we provide a guide to good practice in
+                                                                                              planning, conducting and reporting the eligibility screen-
+*Correspondence: gkf1@soton.ac.uk                                                             ing step for systematic reviews or systematic maps in
+1
+  Southampton Health Technology Assessments Centre (SHTAC), Faculty                           environmental research. This is based on: (1) critical con-
+of Medicine, University of Southampton, Southampton, UK                                       sideration of the existing CEE Guidelines for Systematic
+Full list of author information is available at the end of the article
+                                              © The Author(s) 2017. This article is distributed under the terms of the Creative Commons Attribution 4.0 International License
+                                              (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium,
+                                              provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license,
+                                              and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/
+                                              publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+
+Frampton et al. Environ Evid (2017) 6:27                                                                        Page 2 of 13
+Reviews in Environmental Management (version 4.2,             Preparing for eligibility screening
+March 2013); (2) observation of current practice in envi-     Bibliographic searches may produce thousands or some-
+ronmental evidence synthesis, as indicated by the most        times tens of thousands of references that require screen-
+recent systematic review and systematic map protocols         ing for eligibility and so it is important to ensure that
+published in Environmental Evidence journal (January–         search results are organised in such a way that they can
+July 2017; n = 11 protocols); and (3) relevant guidance       be screened efficiently for their eligibility for an evi-
+publications on the application of systematic reviews and     dence synthesis. Key actions that will be necessary before
+systematic maps in environmental research [2, 9–12], as       screening can commence are to assemble the references
+well as in the health and social sciences [4, 13–17]. The     into a library, using one or more bibliographic reference
+present paper goes beyond providing a summary of exist-       management tools; and to identify and remove any dupli-
+ing guidance and practice; we indicate where current          cate references.
+practice in eligibility screening in environmental evi-
+dence synthesis could be further improved to reduce the       Assembling references
+risks of introducing errors or bias.                          A range of bibliographic reference management tools are
+   The eligibility screening step of a systematic review or   available into which search results may be downloaded
+systematic map (which may also be referred to as ‘study       directly from bibliographic databases or imported manu-
+selection’, ‘evidence selection’ or ‘inclusion screen-        ally, and these vary in their complexity and functionality.
+ing’) involves the specification of eligibility criteria that Some tools, such as Eppi Reviewer [19] and Abstrackr
+determine which of the primary research studies iden-         [20] include text mining and machine learning function-
+tified in searches are relevant for answering the review      ality to assist with some aspects of eligibility screening.
+or map question; and the use of a systematic screening        According to recently-published evidence syntheses and
+process for applying the eligibility criteria to the search   protocols, the most frequently-used reference manage-
+results in such a way as to minimise the risk of intro-       ment tools in CEE evidence syntheses are Endnote and
+ducing selection bias [18]. Both the eligibility criteria     Eppi Reviewer (sometimes used in combination with
+and the screening process should be specified in the          Microsoft Excel), although others such as Mendeley and
+evidence synthesis protocol [1]. Development of the           Abstrackr are also used. Given that reference manage-
+protocol is an iterative process in which a draft ver-        ment tools have diverse functionality and are continually
+sion is refined based on pilot-testing and the meth-          being developed and upgraded, it is not possible to rec-
+ods are updated if necessary until they are considered        ommend any one tool as being ‘better’ than the others.
+adequately reproducible, efficient and objective to be        An efficient reference management tool should:
+applied in the full evidence synthesis. For CEE evidence
+syntheses the final version of the protocol should be           ••  enable easy removal of duplicate articles (see
+peer reviewed and published prior to the systematic                 “Removing duplicates” below), which can reduce
+review or systematic map being conducted [1].                       substantially the number of articles;
+   The following pages summarise the preparatory steps          ••  readily locate and import abstracts and full-text ver-
+of eligibility screening, then explain the rationale and            sions for articles where available;
+methods for determining the eligibility criteria and the        ••  enable the review team to record their screening
+screening process. We then discuss pilot-testing the                decisions for each article;
+eligibility criteria and screening process, before provid-      ••  enable articles, and any screening decisions accom-
+ing an overall summary of recommendations for good                  panying them, to be grouped and analysed to assist
+practice. Note that the eligibility criteria and the screen-        the team in checking progress with eligibility screen-
+ing process are described in separate sections for clar-            ing and in identifying any disagreements between
+ity, although in practice they are intrinsically linked and         screeners.
+would be iteratively developed and pilot-tested together
+when preparing an evidence synthesis protocol. We have          Other features of reference management tools that
+used the existing CEE guidelines for Systematic Reviews       review teams may find helpful to consider are: whether
+in Environmental Management (version 4.2, March               the software is openly accessible (e.g. Mendeley) or may
+2013; section 4.2 ‘Screening articles for relevance’) [1]     require payment (e.g. Endnote, Eppi Reviewer); the num-
+and a related report [10] as a basis for our recommenda-      ber of references that can be accommodated; the number
+tions, but in some cases our recommendations for good         of screeners who can use the software simultaneously; and
+practice differ, as explained below.                          how well suited the tool is for project management tasks,
+
+Frampton et al. Environ Evid (2017) 6:27                                                                           Page 3 of 13
+such as allocating eligibility screening tasks among the       question is shown in Box 1, for the question ‘What are
+review team members and monitoring project progress.           the environmental and socioeconomic effects of China’s
+                                                               Conversion of Cropland to Forest Programme (CCFP)
+Removing duplicates                                            after the first 15 years of implementation?’ [23]. As the
+Duplicate articles are common in search results and            example illustrates, eligibility criteria may be expressed
+should be removed where possible before eligibility            as inclusion criteria and, if helpful, also as exclusion
+screening starts. Inclusion of duplicates in an evidence       criteria.
+synthesis could lead to double-counting of data, which           Ideally, the eligibility criteria should be specified in
+might introduce bias [21], as well as creating unneces-        such a way that they are easy to interpret and apply by
+sary additional screening effort. Many reference manage-       the review team with minimal disagreement. For some
+ment tools enable automated identification and removal         systematic review or systematic map questions the eli-
+of duplicate articles (e.g. ‘fuzzy matching’ of references     gibility criteria may be very similar to or identical to the
+in Eppi Reviewer) and this may be particularly helpful if      question key elements and the question itself, whereas in
+large numbers of duplicates are present. However, care         other cases (e.g. as in the example in Box 1) the eligibil-
+should be taken to avoid inadvertently removing articles       ity criteria may need to be more specific, to provide ade-
+which are not duplicates. If an automated process is used      quate information for the review team to make selection
+for identifying duplicates it should not be assumed that       decisions.
+this will always classify the articles accurately.               In the example systematic review question (Box 1) it is
+                                                               clear that if an article describing a primary research study
+The eligibility criteria                                       did not provide information on the intervention (i.e. the
+Rationale for eligibility criteria                             Conversion of Cropland to Forest Programme) then it
+The use of pre-specified and explicit eligibility criteria     would not be appropriate for answering the review ques-
+ensures that the inclusion or exclusion of articles or stud-   tion. As such, the article could be excluded. Similarly, an
+ies from a systematic review or systematic map is done in      article that did not report any environmental or socio-
+a transparent manner, and as objectively as possible. This     economic outcomes would not be relevant and could
+reduces the risk of introducing errors or bias which could     be excluded. The example question illustrates that arti-
+occur if decisions on inclusion or exclusion are selective,    cles can be efficiently excluded if they fail to meet one
+subjective, or inconsistent. An objective and transpar-        or more inclusion criteria; they are included only if they
+ent approach also helps to ensure reproducibility of eli-      meet all the eligibility criteria.
+gibility screening. Failing to consistently apply eligibility    Keeping the list of eligibility criteria short and explicit,
+criteria, or using criteria which are not relevant to the evi- and specifying the criteria such that an article would be
+dence synthesis question, can lead to inconsistent conclu-     excluded if it fails one or more of the criteria is a useful
+sions from different evidence syntheses (e.g. illustrated by   approach since this minimises the range of information
+Englund et al. 1999 [22] for stream predation experiments      that members of the review team would need to locate
+and McDonagh et al. 2013 [18] for health research studies).    in an article and means that if an article is clearly seen
+  The eligibility criteria for a systematic review or sys-     not to meet one of the criteria then the remaining cri-
+tematic map should reflect the question being asked            teria would not have to be considered. Since a single
+and therefore follow logically from the ‘key elements’         failed eligibility criterion is sufficient for an article to be
+that describe the question structure. Many environmen-         excluded from an evidence synthesis, it may be helpful
+tal questions are of the ‘PICO’ type, where the inter-         to assess the eligibility criteria in order of importance (or
+est is on determining effects of an intervention within a      ease of finding them within articles), so that the first ‘no’
+specified population. For a PICO-type question the key         response can be used as the primary reason for exclu-
+elements (P, I, C, O) would specify which population(s),       sion of the study, and the remaining criteria need not be
+intervention(s), comparator(s) and outcome(s) must be          assessed [3].
+reported in an article describing a primary research study       The example in Box 1 is for a relatively broad system-
+in order for that article to be eligible for inclusion in the  atic review question. For a systematic map the question
+evidence synthesis (examples of PICO and other types           may be even broader since the objective of a map is to
+of question structure are given by EFSA 2010 [2], James        provide a descriptive output. Irrespective of how broad
+et al. 2016 [5] and Aiassa et al. 2015 [9]).                   the question is, the process for developing eligibility cri-
+  An example of eligibility criteria for an environmen-        teria which we have outlined here applies both to system-
+tal intervention (i.e. PICO-type) systematic review            atic reviews and systematic maps [5].
+
+Frampton et al. Environ Evid (2017) 6:27                                                                                                     Page 4 of 13
+                                                                                      Study design as an eligibility criterion
+  Box 1: Example of eligibility criteria in relation
+                                                                                      The types of primary research study design (e.g. observa-
+  to question key elements for an intervention
+                                                                                      tional or experimental; controlled or uncontrolled) that can
+  (PICO‑type) environmental systematic review question
+                                                                                      answer an evidence synthesis question will vary accord-
+  (from Rodriguez et al. [23])
+                                                                                      ing to the type of question. The study design is sometimes
+                                                                                      made explicit in the key elements (e.g. ‘PICO’-type ques-
+  Question: “What are the environmental and socioeconomic effects of                  tions may be stated as ‘PICOD’ or ‘PICOS’ in the scientific
+    China’s Conversion of Cropland to Forest Programme (CCFP) after
+    the first 15 years of implementation?”                                            literature, where ‘D’ (design) or ‘S’ (study) indicates that
+  Question key elements               Eligibility criteria                            study design is being considered) [11]. Even if study design
+  Populations (P):                    Included: Both human populations and            is not explicit in the question structure it should be consid-
+  CCFP enrolled lands (crop-             land resources, including CCFP par-          ered as an eligibility criterion. This is particularly important
+    land/ wasteland/ ecological ticipant households, their individual                 for systematic reviews since the designs of studies that are
+    trees/ economic trees)               members and their CCFP enrolled
+  CCFP households and their              lands (cropland, wasteland, ecologi-         included should be compatible with the planned approach
+    individual members                   cal trees, and economic trees)               for the data synthesis step (e.g. some meta-analysis meth-
+                                      Excluded: Grasslands, since they                ods may specifically require controlled studies). The type of
+                                         no longer form part of the CCFP
+                                         and because they contribute to               study design may also be indicative of the likely validity of
+                                         significantly different environmental        the evidence, since some study designs may be more prone
+                                         outcomes as compared with forests            to bias than others. Note that in systematic reviews the
+  Interventions (I):                  Included: CCFP compensation subsi-              full assessment of risks of bias and other threats to valid-
+  CCFP (subsidies, skill-training, dies, skill training for local farmers,
+    and enforcement with field and enforcement work with field                        ity takes place at the critical appraisal step, and this should
+    checks)                              checks, and all information on other         always be conducted irrespective of whether any quality-
+                                         types of subsidies that might have an        related eligibility criteria have been specified.
+                                         impact on household livelihoods and
+                                         the environment.
+                                      Excluded: Natural Forest Protection             The screening process
+                                         Programme, as this does not overlap          Rationale and overview of the screening process
+                                         with the CCFP
+                                                                                      The process of eligibility screening aims to ensure that the
+  Comparators (C):                    Included: Non-enrolled sloping lands,
+  Non-enrolled sloping lands,            and lands prior to CCFP imple-               eligibility criteria are applied consistently and impartially so
+    and lands prior to CCFP              mentation; and non-participant               as to reduce the risk of introducing errors or bias in an evi-
+    implementation                       households, and households prior             dence synthesis. Articles identified in searches are typically
+  Non-participant households, to CCFP implementation. Included
+    and households prior to              ‘before-and-after’ comparators in            structured in having a title, an abstract (or summary), and/or
+    CCFP implementation                  both human populations (i.e. the             a ‘full text’ version such as an academic journal paper, agency
+                                         socioeconomic status of both par-            report, or internet pages. Eligibility screening can be applied
+                                         ticipant and non-participant house-
+                                         holds before and after the CCFP              at these different levels of reading to impose a number of fil-
+                                         interventions) and land resources            ters of increasing rigor and thus screening is normally a step-
+                                         (i.e. the environmental status of both       wise process. The exact approach is a matter of preference,
+                                         enrolled and non-enrolled lands
+                                         before and after the CCFP interven-          although CEE guidelines recommend that at least two filters
+                                         tion)                                        are applied: (a) a first reading of titles and abstracts to effi-
+  Outcomes (O):                       Included: Soil erosion and flood pre-           ciently remove articles which are clearly irrelevant; and (b)
+  Environmental outcomes                 vention, reconversion of forestland to       assessment of the full-text version of the article [1].
+    (changes in water discharge, cropland, land-use and forest cover
+    soil erosion, flood risk, local change, tree survival rates, biomass                 Depending on the nature of the evidence synthesis
+    biodiversity, etc.)                  and carbon storage, and biodiversity.        question and the number of articles requiring screen-
+  Socioeconomic outcomes                 Income, employment, food security,           ing, titles and abstracts may be screened separately or
+    (changes in household                land access and social equality, and
+    income structure, migration, migration                                            together. If only an insignificant number of articles can
+    etc.)                             Excluded: Studies assessing potential           be excluded on title alone (e.g. as found in a systematic
+                                         or future outcomes of the CCFP,              review of the environmental impacts of poverty rights
+                                         including model projections or other
+                                         predictions of program impact, as            regimes by Ojanen et al. 2017 [24]), then combining the
+                                         the review only sought to assess the         title and abstract screening in a single step may be more
+                                         actual impacts of CCFP implementa-           efficient. In cases where insufficient information is avail-
+                                         tion (i.e. those which have already
+                                         taken place)                                 able in the title or abstract to enable an eligibility decision
+                                                                                      to be made, or if the abstract is missing, then the full-text
+  Study design eligibility criteria were also specified by Rodriguez et al. [23]; for
+  brevity these are not reproduced here                                               version should be obtained and examined. An overview
+                                                                                      of the eligibility screening process is shown in Fig. 1.
+
+Frampton et al. Environ Evid (2017) 6:27                                                                                            Page 5 of 13
+   As shown in Fig. 1, the screening process starts out with                    detailed full set of eligibility criteria for the screening of
+individual articles but final eligibility decisions are made                    full-text articles. Whichever approach is used, the eligi-
+at the level of studies, taking into account any linked arti-                   bility criteria applied at each step should be clearly stated
+cles that refer to the same study (see “Identifying linked                      in the protocol.
+articles” below). The evidence selection decision process
+is conservative at each step so that only articles which                        Identifying linked articles
+do not meet the inclusion criteria are excluded [1]; in                         If the same data are included more than once in an evi-
+any cases of doubt, articles proceed to the next step for                       dence synthesis this can introduce bias [21, 25, 26].
+further scrutiny. If after full-text screening the eligibility                  Therefore, the unit of analysis of interest in a systematic
+of a study remains unclear, further information should                          review or map is usually individual primary research
+be sought, if feasible (e.g. by contacting the authors), to                     studies (e.g. observational studies, surveys, or experi-
+enable the study to be included or excluded. Any studies                        ments), rather than individual articles.
+whose eligibility still remains unclear after this process                         Investigators often report the same study in more
+should be listed in an appendix to the systematic review                        than one article (e.g. the same study could be reported
+or systematic map report. In systematic reviews, an                             in different formats such as conference abstracts,
+option could be to include studies of unclear relevance in                      reports or journal papers, or in several different jour-
+a sensitivity analysis. The approach for handling unclear                       nal papers [27], and we refer to these as ‘linked articles’.
+studies should be considered during protocol develop-                           Although there is often a single article for each study, it
+ment and specified in the systematic review or systematic                       should never be assumed that this is the case [3]. Linked
+map protocol.                                                                   articles may range from being duplicates (i.e. they fully
+   A single set of eligibility criteria can be used to screen                   overlap and do not contribute any new information) to
+titles, abstracts and full-text articles (e.g. Rodriguez                        having very little overlap. Articles which are true dupli-
+et al. [23] used the eligibility criteria shown in Box 1 for                    cates should be removed to avoid double-counting
+screening titles and abstracts and then applied the same                        of data. The remaining linked articles which refer to a
+criteria to full-text articles). However, if the informa-                       study should be grouped together and screened for
+tion reported in titles and abstracts is limited it may be                      eligibility as a single unit so that all available data per-
+efficient to use a smaller subset of the eligibility criteria                   tinent to the study can be considered when making eli-
+to screen the titles and/or abstracts, and apply the more                       gibility decisions.
+  Fig. 1 The eligibility screening process for systematic reviews or systematic maps
+
+Frampton et al. Environ Evid (2017) 6:27                                                                                  Page 6 of 13
+   It may be difficult to determine whether articles are           articles providing guidance on conducting systematic
+linked, as related articles do not always cite each other          reviews in environmental research [2, 11, 12] and health
+[28, 29] or share common authors [30]. Some ‘detec-                research [14, 15, 18] recommend that eligibility screening
+tive’ work (e.g. checking whether the same data appear             should be performed where possible by at least two peo-
+in more than one article, or contacting authors) may               ple. The screeners need not necessarily be the same two
+therefore be needed by the review team. Although it                people for all articles or for all screening steps. Options
+would be ideal to identify linked articles that refer to the       could be for one person to screen the articles and the sec-
+same study early on the screening process, it may only             ond person to then check the first screener’s decisions; or
+become clear at the full-text screening stage that articles        both screeners may independently perform the selection
+are linked. Once the links between articles and studies            process and then compare their decisions. Independ-
+have been identified, a clear record will need to be kept          ent screening is preferable since it avoids the possibility
+of all articles which relate to each study. This may be            that the second screener could be influenced by the first
+done using a separate document or spreadsheet, or using            screener’s decision.
+grouping or cross-referencing functions available in bib-             The current CEE Guidelines for Systematic Reviews
+liographic reference management tools.                             in Environmental Management (version 4.2, March
+                                                                   2013) [1] do not provide recommendations for the num-
+Number and expertise of screeners                                  ber of people who should conduct eligibility screen-
+Eligibility decisions involve judgement and it is possible         ing, although the Guidelines implicitly suggest that
+that errors or bias could be introduced during eligibility         a single screener may be acceptable provided that an
+screening if the process is not conducted carefully.               assessment of screener reliability is conducted. Accord-
+   Possible problems that could arise at the eligibility           ing to the latest CEE evidence synthesis protocols pub-
+screening step are:                                                lished in Environmental Evidence journal (January–July
+                                                                   2017), screening by a single person, subject to a check of
+   ••  Some articles might be misclassified due to the way         screener reliability using a subset of articles, is the cur-
+       members of the review team interpret the informa-           rently practised approach in most cases.
+       tion given in them in relation to the eligibility criteria;    A potential problem with eligibility screening being
+   ••  One or more articles might be missed altogether, due        conducted by a single screener is that any errors in the
+       to human error;                                             classification of articles by the screener, or any articles
+   ••  Review team members may (knowingly or not) intro-           missed from classification, may go undetected, if check-
+       duce bias into the selection process, since human           ing by a second screener is not done on an adequate
+       beings are susceptible to implicit bias and experts         number of articles. This is why the use of a minimum
+       in a particular topic often have pre-formed opinions        of two screeners is now considered mandatory in some
+       about the relevance and validity of articles [3, 31].       health research systematic reviews [16, 17]. Reliabil-
+                                                                   ity checking can be done (e.g. using screener agreement
+   Appropriate allocation of the review team to the eligi-         statistics) but this has limitations which should be taken
+bility screening task, in terms of the number and exper-           into consideration, as we explain below (see “Assessing
+tise of those involved, is important to ensure efficiency          screener agreement”).
+[10] and can help to minimise the risk of errors or bias.             Eligibility screening can be a time-consuming process,
+If any members of the review team are authors of articles          typically taking an hour or more for a screener to assess 200
+identified in the searches then the allocation of screening        titles or 20 abstracts [10]. If the evidence base is extensive
+tasks should ensure that members of the review team do             such that large numbers (e.g. tens of thousands) of articles
+not influence decisions regarding the eligibility of their         would need to be screened, it might not always be feasible
+own articles.                                                      for two or more screeners to work on all screening steps.
+                                                                   Consideration may then need to be given as to whether the
+Number of screeners                                                systematic review or systematic map question, or the eligi-
+It has been estimated that when eligibility screening is           bility criteria, should be refined (e.g. narrowing the scope)
+done by one person, on average 8% of eligible studies              to make the evidence synthesis manageable within the avail-
+would be missed, whereas no studies would be missed                able resources. Discussion with relevant stakeholders, e.g.
+when eligibility screening is done by two people work-             research commissioners, may be helpful in resolving any
+ing independently [32]. The same authors also suggested            difficulties if the level of rigor expected of eligibility screen-
+that use of two reviewers to screen eligibility increased          ing will be difficult to achieve within the available resources.
+the number of randomised studies identified by 9%. To              Employing a single screener at one or more steps of the
+ensure reliability of the eligibility screening process,           eligibility screening process, subject to checking screener
+
+Frampton et al. Environ Evid (2017) 6:27                                                                            Page 7 of 13
+reliability, is a pragmatic approach which may be justifiable     ••  evidence of the reliability of the approach (i.e. the
+on a case-by-case basis depending on the nature of the topic          reliability of the screener’s decisions should be tested
+and how critical it is to minimise the risk of selection bias         and reported; see “Assessing screener agreement”
+[33], but should not be considered as being reflective of best        below);
+practice (see “Assessing screener agreement” below).              ••  acknowledgement that the use of one screener to
+  It may be tempting to consider employing a single                   screen all and a second to screen only a sample at one
+screener for titles, since the information available in               or more steps of eligibility screening is a limitation
+a title is usually relatively limited and titles can often            (this should be stated in the conclusions section, crit-
+indicate that an article is irrelevant without the need to            ical reflection or limitations section, and, if possible,
+expend detailed effort in screening [10]. However, selec-             also in the abstract).
+tion bias could arise at title screening (just as it could at
+abstract or full-text screening) if a screener is not impar-      Ultimately, it is the review team’s responsibility to
+tial, and this could be especially important for evidence      ensure that, where possible, methods are used which
+syntheses on contentious topics. Furthermore, in our           minimise risks of introducing errors and bias, and that
+experience it is not uncommon for a small proportion           any limitations are justified and transparently reported.
+(~1%) of articles to be completely missed from screening
+by a single reviewer, due to human error (e.g. screener        Expertise of screeners
+fatigue when assessing thousands of articles). For these       There is no firm ‘rule’ about how many of the screeners
+reasons, good practice would be to employ a minimum of         should be topic experts. Given the complexity of environ-
+two screeners at the title screening as well as abstract and   mental topics it is important that the team has adequate
+full-text screening steps.                                     expertise in evidence synthesis and the question topic
+  For systematic maps the need to minimise selection           to ensure that important factors relating to the evidence
+bias may seem less critical than for systematic reviews,       synthesis question are not missed [10]. However, topic
+since the output and conclusions of systematic maps are        experts may lack impartiality as they are likely to be very
+often descriptive. Nevertheless, an underlying expecta-        familiar with the literature relevant to the evidence syn-
+tion of systematic maps is that the searching and eligibil-    thesis question which may risk selective screening deci-
+ity screening steps should be conducted with the same          sions being made [31]. A pragmatic approach to reduce
+rigor as for systematic reviews [5]. It is therefore good      the risks of any conflicts of interest within a review
+practice in all types of evidence synthesis that at least      team could be to include screeners with different back-
+two people conduct eligibility screening of each article.      grounds and expertise, to ensure diversity of stakeholder
+We recommend that deviations from this should only be          perspectives.
+made as exceptions, where clear justification can be pro-
+vided, and is agreed among all relevant stakeholders. This     Assessing screener agreement
+is important for maintaining the integrity of systematic       An assessment of agreement between screeners during
+evidence synthesis as a ‘gold standard’ or ‘benchmark’         pilot-testing can help to ensure that the eligibility screen-
+approach for minimising the risk of introducing errors         ing process is reproducible and reliable. If necessary, the
+or bias, and to avoid creating confusion as to whether         eligibility criteria and/or screening process may be modi-
+the methods employed in specific evidence syntheses            fied and re-tested to improve the agreement between
+truly constitute those of a systematic review or system-       screeners. Agreement can be assessed by: recording the
+atic map, rather than, for example, a traditional literature   observed proportions of articles where pairs of screeners
+review or rapid evidence assessment [10].                      agree or disagree on their eligibility decisions; calculating
+  If a pragmatic decision is made by the review team           a reviewer agreement statistic; and/or descriptively tabu-
+to proceed with a systematic review or systematic map          lating and discussing any disagreements.
+involving a large number of articles to screen and to use         A widely used statistic for assessing screener agree-
+only one screener for some of the articles then, for con-      ment is Cohen’s kappa [34], which takes into account the
+sistency with good practice as defined above, the follow-      level of agreement between screeners that would occur
+ing information should be provided in the protocol and         by chance. But interpretation of kappa scores is subjec-
+final evidence synthesis report:                               tive since there is no consensus as to which scores indi-
+                                                               cate ‘adequate’ agreement, and the concept of ‘adequate’
+  ••  a clear justification for using one screener to screen   agreement is itself subjective. CEE’s Guidelines for Sys-
+      all and a second to screen only a sample, stating        tematic Reviews in Environmental Management (ver-
+      which steps of the screening process this will be        sion 4.2) [1] suggested a minimum Kappa value of 0.5
+      applied to;                                              should be achieved, which was interpreted as indicating
+
+Frampton et al. Environ Evid (2017) 6:27                                                                         Page 8 of 13
+‘substantial agreement’. However, when interpreting
+                                                               Box 2: Example of screener agreement interpretation
+screener agreement it should be borne in mind that
+                                                               Screener agreement is illustrated, for two screeners
+potentially important discrepancies between screeners
+                                                               making three possible eligibility decisions (include,
+can occur even if screener agreement statistics indicate
+                                                               exclude or unclear) on 8000 articles. Data are hypo-
+high overall rates of agreement (Box 2).
+                                                               thetical but are reflective of a typical evidence synthe-
+   To assess screener agreement, a sample (as large as
+                                                               sis scenario in which the majority of articles identified
+possible) of the articles identified in searches should
+                                                               in searches are excluded during screening. The overall
+be screened by at least two people and their agreement
+                                                               observed agreement between screeners for these data
+determined. The size of the sample should be justified by
+                                                               is 99.4% and Cohen’s kappa is 0.62.
+the review team and the articles comprising the subset
+should be selected randomly to avoid bias towards cer-         Screener 1   Screener 2
+tain authors, topics, years or other factors.                               Include      Exclude     Unclear     Total
+   Use of a kappa statistic to guide pilot-testing of eligi-
+bility screening where two or more people will screen          Include      35             15        3             53
+each article is a pragmatic approach to optimise effi-         Exclude      18           7911        4           7933
+ciency of the process, in which case the limitations           Unclear        7             5        2             14
+of the agreement statistic and its somewhat arbitrary          Total        60           7931        9           8000
+interpretation are not critical. However, recently-pub-        The data illustrate that, despite good overall agree-
+lished evidence syntheses and protocols indicate that          ment as indicated by the observed agreement and
+the kappa statistic is increasingly being used for a differ-   the kappa score, discrepancies exist in the include/
+ent purpose: to demonstrate high reviewer agreement            exclude decisions made by screener 1 and screener 2
+in support of employing only one screener to assess the        which could be critical for a systematic review or sys-
+majority of articles. The potential insensitivity of over-     tematic map (where the aim should be not to miss any
+all screener agreement measures to specific discrepan-         relevant articles). In this example, screener 1 excluded
+cies in screener agreement (Box 2) suggests that a kappa       18 of the 60 articles which screener 2 included (30%),
+statistic might not be adequate as a justification that a      whilst screener 2 excluded 15 of the 53 articles which
+single screener has sufficient reliability in their screen-    screener 1 included (28%). At these rates of agree-
+ing decisions to protect against the risk of introducing       ment, employing either screener alone could result in
+errors or selection bias.                                      different sets of articles being selected for inclusion.
+   According to the most recently-published proto-
+cols, CEE evidence syntheses often assess screener
+agreement based on a subset of 10% of articles or 100        Resolving disagreements
+abstracts (whichever is the larger), although some have      A process for resolving any disagreements between
+used 5% of articles or an unspecified ‘small propor-         screeners should be agreed by the review team and to
+tion’ of articles. These subsets seem rather small, and it   ensure consistency this should be pre-specified in the
+could be questioned how a review team would be confi-        protocol. An approach which appears to be commonly
+dent in minimising the risk of selection bias if as many     used [35], and which works efficiently in our experience,
+as 90% of articles are not checked. Therefore, we rec-       is that the screeners meet to discuss their disagreements
+ommend that as large a subgroup of articles as possible      to reach a consensus; if consensus is not reached a third
+is screened by at least two reviewers—the ideal would        opinion could then be sought, from another member of
+be 100%.                                                     the review team or the project advisory group. The exact
+   As there is no consensus on what ‘adequate’ rates of      approach is a matter of preference; for example, abstracts
+agreement are (unless reaching 100%), the review team        over which there is disagreement could be discussed by
+should justify the level of agreement reached and explain    the screeners before proceeding to the full-text screen-
+in the evidence synthesis report whether relying on a        ing step (to avoid obtaining full-text articles unnecessar-
+single screener may have led to any relevant studies         ily), or the articles could be directly passed to the full-text
+being excluded. If so, an explanation should be given as     screening step (to enable decisions to be based on all
+to how this would affect interpretation of the evidence      available information). Records of all screening decisions
+synthesis conclusions. Presentation of a decision matrix     should be kept to ensure that, if necessary, the review
+showing the combinations of screener agreements (e.g.        team can justify their study selection. Screening deci-
+as in Box 2) may be helpful to support any discussion        sions can often be recorded conveniently in user-defin-
+and interpretation of screener reliability.                  able fields in reference management tools. Pilot-testing
+
+Frampton et al. Environ Evid (2017) 6:27                                                                             Page 9 of 13
+the screening process, described below, can be helpful          including in the abstract or summary. An explana-
+to identify whether some screeners differ systematically        tion must be provided in the final report if the methods
+from others in the eligibility decisions they make.             employed differed from those specified in the proto-
+                                                                col. It is particularly important to consider whether any
+Pilot testing the eligibility criteria and process              changes to the protocol could have introduced errors or
+Pilot testing is important for validating reproducibility       bias.
+and reliability of the method. Pilot testing can:                  We recommend that, where possible, the final evidence
+                                                                synthesis report should, as a minimum, provide informa-
+  ••  Check that the eligibility criteria correctly classify    tion as specified in the PRISMA (Preferred Reporting
+      studies;                                                  Items for Systematic Reviews and Meta Analyses) check-
+  ••  Provide an indication of how long the screening pro-      lists for systematic reviews [36] and for abstracts [37].
+      cess takes, thereby assisting with planning the full      The PRISMA checklists are endorsed by over 200 aca-
+      evidence synthesis;                                       demic journals and by several organisations dedicated to
+  ••  Enable agreement between screeners to be checked;         improving standards in evidence synthesis, as well as the
+      if agreement is poor this should lead to a revision of    Council of Science Editors. Although most of the jour-
+      the eligibility criteria or the instructions for applying nals endorsing the PRISMA checklists are currently in
+      them;                                                     the health area (reflecting that this is where the checklists
+  ••  Provide training for the review team in how to inter-     were originally developed), the criteria in the checklists
+      pret and apply the eligibility criteria, to ensure con-   are in principle generic and applicable across disciplines.
+      sistency of understanding and application;                The PRISMA checklists ensure that key aspects of sys-
+  ••  Identify unanticipated issues and enable these to be      tematic reviews or systematic maps are reported consist-
+      dealt with before the methods are finalised.              ently. In summary, the items in the PRISMA checklists
+                                                                [36, 37] that relate to eligibility screening are:
+  The eligibility screening process should be tested on a
+sample of articles. There is no firm ‘rule’ about how many         ••  Abstract: specify the criteria for inclusion.
+articles should be tested, but the review team will need to        ••  Methods: eligibility: specify the eligibility criteria,
+satisfy themselves that the eligibility criteria will correctly        giving the rationale.
+identify articles that can answer the evidence synthesis           ••  Methods: study selection: state the process for select-
+question without needing any further amendments. Hig-                  ing studies.
+gins and Green [3] suggested using around 10–12 arti-              ••  Results: study selection: give the numbers of studies
+cles, including ones which are thought by one screener                 screened, assessed for eligibility, and included in the
+to be definitely eligible, definitely ineligible, and doubt-           review, with reasons for exclusions at each stage, ide-
+ful, and can be screened by one or more further members                ally with a flow diagram.
+of the review team to assess consistency. Pilot testing
+should be performed for each separate step of the screen-          It is good practice to include a flow diagram in the evi-
+ing process that will be conducted, i.e. the title, abstract    dence synthesis report to show how many unique articles
+(or title plus abstract) and full-text screening steps.         were identified (i.e. after removing any duplicates), and
+  If relevant articles are found to have been excluded,         to indicate how many of these were excluded at the title,
+irrelevant articles are included, or a large number of          abstract and full-text screening steps [2, 3, 11, 14, 18,
+‘unclear’ judgements are being made by the review team,         36]. The flow diagram should also clarify the relationship
+then the eligibility criteria should be revised and re-         between articles and studies so that it is clear how many
+tested until an acceptable discrimination between rele-         articles and unique studies were included in the system-
+vant and irrelevant articles is achieved. The finally-agreed    atic review or systematic map; and should give reasons
+eligibility criteria should then be specified in the evidence   why any studies were excluded at the full-text selection
+synthesis protocol.                                             step. A template for a flow diagram based on PRISMA
+                                                                principles [36] is shown in Fig. 2.
+Recording and documenting eligibility screening                    The flow diagram template (Fig. 2) may be adjusted to
+Reporting the eligibility criteria, screening process           display how the eligibility screening was conducted. For
+and screening results                                           example, the diagram may be expanded to accommo-
+The final evidence synthesis report may refer to the pro-       date further panels if titles and abstracts are screened
+tocol for a description of most of the methods followed         separately. In addition to the flow diagram, a list of the
+[1]. A concise summary of the eligibility criteria and          studies which were excluded at the full-text screen-
+screening process should also be given in the final report,     ing step should be provided, indicating the reasons for
+
+Frampton et al. Environ Evid (2017) 6:27                                                                                    Page 10 of 13
+                                                                         employed for resolving any screener disagreements; and
+                                                                         how any missing or unclear information was handled.
+                                                                            Any limitations in the eligibility screening process
+                                                                         should be mentioned in the Discussion (or Critical
+                                                                         Reflection) section of the final evidence synthesis report
+                                                                         so that readers can consider them when interpreting the
+                                                                         overall findings of the evidence synthesis [36]. If there are
+                                                                         any serious limitations in the eligibility screening criteria
+                                                                         or the screening process which could affect the overall
+                                                                         conclusions of the systematic review or systematic map
+                                                                         these should, where possible, also be mentioned in the
+                                                                         abstract or summary.
+                                                                         Keeping an archive of screening decisions
+                                                                         It is important that a record is kept of all eligibility
+                                                                         screening decisions so that judgements made during
+                                                                         conduct of the systematic review or systematic map are
+                                                                         transparent and, if necessary, defensible (e.g. if any read-
+                                                                         ers query why a particular study was not included). A
+                                                                         record of the screening decisions should be saved (e.g. in
+                                                                         a reference management tool or relational database) that
+                                                                         can easily be interrogated to display articles which were
+                                                                         included, excluded, or deemed unclear at each selec-
+                                                                         tion step. The tool or database containing the full set of
+                                                                         screening decisions should be archived in such a way that
+                                                                         it can be made available if requested by any readers of the
+                                                                         systematic review or systematic map report.
+                                                                         Improving current reporting practice
+                                                                         Evidence synthesis protocols published in Environmen-
+  Fig. 2 Flow diagram for reporting the results of eligibility screening
+                                                                         tal Evidence journal during January–July 2017 (n = 11),
+                                                                         which we assume reflect current practice, suggest that
+exclusion (e.g. as an appendix to the evidence synthesis                 there are some improvements that could be made in
+report). Whilst the template in Fig. 2 indicates the mini-               the reporting of eligibility screening in CEE evidence
+mum information on the results of eligibility screening                  syntheses:
+that should be reported, some authors advocate specify-
+ing further information. For example, the flow diagram                      ••  most of the publications did not specify the number
+could include an indication of how many of the included                         of screeners for one or more of the screening steps;
+studies contributed to any meta-analyses (e.g. [38]), or                    ••  most of the publications did not state which of the
+an indication of how many studies informed quantitative                         screening steps their reported screener agreement
+and qualitative analyses for the primary outcome of inter-                      assessment would be applied to; or whether screener
+est [3, 36].                                                                    agreement would be assessed for all steps;
+  Any definitions and instructions on interpretation of                     ••  none of the publications provided a justification for
+the eligibility criteria used by the review team should be                      the size of the sample of articles to be used in assess-
+reported at least in the protocol. Details of the screen-                       ing screener agreements; and nearly half (45%) of
+ing process which should be documented in the proto-                            the publications did not report whether the sample
+col and also stated concisely in the evidence synthesis                         would be selected randomly.
+report are: the number of screeners involved at each eli-
+gibility screening step; whether screening decisions were                   As these aspects of reporting relate to important com-
+independent; the expertise of the screeners; the pilot-                  ponents of the evidence synthesis methods, review teams
+testing process; any assessments of screener agreement,                  should ensure they are fully reported in evidence synthe-
+with justification for the methods chosen; the process                   sis protocols and final reports.
+
+Frampton et al. Environ Evid (2017) 6:27                                                                              Page 11 of 13
+Summary and recommendations                                             conducted; it should not be assumed that automated
+The eligibility screening step of a systematic review or                processes will be reliable at identifying or classifying
+systematic map is a well-structured process that deter-                 information.
+mines which evidence will be available for answering a              ••  Pilot-test the eligibility criteria using the specified
+systematic review or systematic map question. Adher-                    screening process and if necessary revise and re-test
+ence to good practice in eligibility screening reduces                  the criteria and/or process to improve efficiency and
+the risk of introducing errors or bias into the evidence                accuracy;
+synthesis. Some parts of the process require judgement,             ••  Report the final eligibility criteria and screening pro-
+meaning that consistent and transparent reporting of the                cess in the protocol.
+eligibility criteria and the process for applying them are
+needed to ensure a clear understanding of how eligibility         Applying eligibility screening
+decisions were made by the review team.                             ••  Identify and remove duplicates from the search
+  Eligibility screening can be divided into planning,                   results; if appropriate, follow up any ambiguous or
+application and reporting phases, although there may be                 missing information with study authors.
+some overlap of these during pilot-testing and protocol             ••  Apply the protocol-specified eligibility criteria and
+development, as iterative improvements are made to the                  screening process to titles, abstracts and/or full-
+eligibility criteria and screening process. To optimise the             text articles, whilst checking for links between arti-
+efficiency of eligibility screening and minimise the risk of            cles and studies; resolve any disagreements between
+introducing errors or bias, the following approaches for                screeners.
+planning, conducting and reporting the eligibility screen-          ••  Retain a copy of the screening decisions (e.g. in a ref-
+ing step are recommended as good practice.                              erence management tool or relational database).
+Planning eligibility screening                                    Reporting eligibility screening
+  ••  Consider how and whether stakeholders may be                Information on eligibility screening should be reported
+      involved in the eligibility screening process and how       in the protocol and the final evidence synthesis report, as
+      the expertise of the review team will influence deci-       follows.
+      sions; ensure that screeners do not influence eligibil-
+      ity decisions for any articles on which they appear as      In the protocol
+      authors.                                                      ••  State the eligibility criteria and any accompanying
+  ••  Draft a set of eligibility criteria that reflect the struc-       instructions that will be provided to screeners on how
+      ture of the evidence synthesis question; consider                 to apply them.
+      using a standard template specifying the eligibility          ••  Specify the number of screeners intended to conduct
+      criteria, with instructions, to ensure that screeners             screening at each step, with justification.
+      are consistent in their interpretation and application        ••  Report how any screener agreement assessments will
+      of the criteria.                                                  be conducted at each step of the process, with a justi-
+  ••  Decide how many screeners will conduct eligibil-                  fication for the size of samples of articles and whether
+      ity screening at each step, and whether this will be              they were selected randomly.
+      the same for title, abstract and full-text steps (good        ••  State the intended processes for handling screener dis-
+      practice is that at least two screeners conduct each              agreements and any missing or unclear information.
+      screening step).
+  ••  Decide how to assess screener agreement and justify         In the final evidence synthesis report
+      the approach, using as large as possible a randomly-          ••  Include a statement of whether there were any devia-
+      selected sample of references, taking into considera-             tions from the protocol in the eligibility criteria or
+      tion the potential limitations of screener agreement              the screening process, with explanations.
+      statistics discussed above.                                   ••  Specify the eligibility criteria, and any relevant
+  ••  Decide how to resolve any screener disagreements                  instructions used by screeners to interpret them (e.g.
+      and how to handle any ambiguous or missing infor-                 in a template, if used).
+      mation.                                                       ••  State the number of people who conducted screening
+  ••  If automation of any processes will be employed (e.g.             at each of the title, abstract and full-text screening
+      automated de-duplication in reference management                  steps, and whether they worked independently.
+      software, or text-mining to assist eligibility screen-        ••  Provide results of any screener reliability assessments
+      ing, ensure that the limitations of these approaches              that were conducted at each of the title, abstract and
+      are considered and adequate checks for reliability are            full-text screening steps.
+
+Frampton et al. Environ Evid (2017) 6:27                                                                                           Page 12 of 13
+   ••  Provide the eligibility screening results, presented in a evidence synthesis, and this would apply irrespective
+       flow diagram, preferably following PRISMA standards.      of whether eligibility screening is conducted by human
+   ••  Provide a list (e.g. in an appendix) of all articles      beings and/or machine processes.
+       excluded at the full-text screening step, giving the
+                                                                 Authors’ contributions
+       reason(s) that each article was excluded.                 GF drafted the manuscript. GF, BL and GP read, commented on, and revised
+   ••  Provide a list of any articles which had unclear eligi-   the manuscript. All authors read and approved the final mansucript.
+       bility status after completion of full-text screening,
+                                                                 Author details
+       with explanation why they could not be classified.        1
+                                                                   Southampton Health Technology Assessments Centre (SHTAC), Faculty
+   ••  Provide a statement of any limitations of the eligibil-   of Medicine, University of Southampton, Southampton, UK. 2 Fondation pour
+       ity criteria or the screening process, including the      la Recherche sur la Biodiversité, Paris, France. 3 Department of Zoology, Biodi-
+                                                                 versity Institute, University of Oxford, Oxford, UK.
+       implications of any deviations from the protocol, and
+       how these would influence the overall conclusions of      Acknowledgements
+       the evidence synthesis.                                   We thank the Editor and three anonymous reviewers for their constructive
+                                                                 comments on the submitted manuscript.
+   Review teams should follow good practice in eligibility       Competing interests
+screening, to maintain the integrity of systematic review        The authors declare that they have no competing interests.
+and systematic mapping as robust benchmark approaches            Availability of data and materials
+for minimising the introduction of errors and bias in            Data sharing is not applicable to this article as no datasets were generated or
+evidence synthesis. Quicker and cheaper ways to con-             analysed during the current study.
+duct evidence synthesis, such as ‘quick scoping reviews’         Consent for publication
+and ‘rapid evidence assessments’ [10] are increasingly in        Not applicable.
+demand, driven by the needs both of review teams and
+                                                                 Ethics approval
+end-users of evidence syntheses [33]. The detailed rec-          Not applicable.
+ommendations we provide in the current paper serve
+to define good practice if the aim is to minimise risks of       Funding
+                                                                 CEE kindly provided travel support and Oxford Martin School, University of
+introducing errors and bias in evidence synthesis. If the        Oxford, kindly provided a room, to support a 2-day workshop in which all
+requirement is to conduct a more rapid synthesis whilst          authors discussed and revised the manuscript.
+being as rigorous as possible then our recommendations
+may serve to assist pragmatic, transparent, discussions          Publisher’s Note
+as to which part(s) of the eligibility screening methods         Springer Nature remains neutral with regard to jurisdictional claims in pub-
+                                                                 lished maps and institutional affiliations.
+could be adjusted to expedite more rapid syntheses.
+   Recently published evidence synthesis protocols suggest       Received: 4 January 2017 Accepted: 30 August 2017
+that there may be opportunities to improve current prac-
+tice in eligibility screening and reporting, and we have
+considered this in the recommendations presented above.
+In particular, we suggest review teams should consider           References
+carefully: whether employing fewer than two screeners             1. CEE (Collaboration for Environmental Evidence). Guidelines for systematic
+would adequately protect against the risk of introducing               review and evidence synthesis in environmental management. Ver-
+                                                                       sion 4.2. 2013. http://www.environmentalevidence.org/wp-content/
+errors or bias; and the possible limitations of reviewer               uploads/2014/06/Review-guidelines-version-4.2-final.pdf.
+agreement statistics when applied in eligibility screening.       2. EFSA (European Food Safety Authority). Application of systematic review
+   Finally, we acknowledge that evidence synthesis is                  methodology to food and feed safety assessments to support decision
+                                                                       making. EFSA J. 2010;8(6):1637.
+a dynamic area in which new methods are emerging.                 3. Higgins JPT, Green S, editors. Cochrane handbook for systematic reviews
+In particular, automated approaches such as text min-                  of interventions. Chichester: Wiley-Blackwell; 2011.
+ing and machine learning appear to offer consider-                4. Petticrew M, Roberts H. Systematic reviews in the social sciences. A
+                                                                       practical guide. Oxford: Blackwell; 2006.
+able promise for making eligibility screening quicker             5. James KL, Randall NP, Haddaway NR. A methodology for systematic map-
+and less onerous [20]. If using automated approaches,                  ping in environmental sciences. Environ Evid. 2016;5:7.
+review teams will need to demonstrate that the eligibil-          6. Bayliss HR, Beyer FR. Information retrieval for ecological syntheses. Res
+                                                                       Synth Methods. 2015;6(2):136–48.
+ity screening process is reliable and does not put system-        7. Livoreil B, Glanville G, Haddaway NR, Bayliss H, Bethel A, Flammerie de la
+atic evidence syntheses at increased risk of errors or bias.           Chapelle F, Robalino S, Savilaakso S, Zhou W, Petrokofsky G, Frampton G.
+A basic principle underpinning our recommendations                     Systematic searching for environmental evidence using multiple tools
+                                                                       and sources. Environ Evid. 2017;6:23.
+is that studies should not be selectively excluded from
+
+Frampton et al. Environ Evid (2017) 6:27                                                                                                             Page 13 of 13
+8.  Roe D, Booker F, Day M, Zhou W, Allebone-Webb S, Hill NAO, Kumpel             23. Rodriguez LG, Hogarth NJ, Zhou W, Xie C, Zhang K, Putzel L. China’s
+    N, Petrokofsky G, Redford K, Russell D, Shepherd G, Wright J, Sunder-             conversion of cropland to forest program: a systematic review of the
+    land TCH. Are alternative livelihood projects effective at reducing               environmental and socioeconomic effects. Environ Evid. 2016;5:21.
+    local threats to specified elements of biodiversity and/or improving or       24. Ojanen M, Zhou W, Miller DC, Nieto SH, Mshale B, Petrokofsky G. What are
+    maintaining the conservation status of those elements? Environ Evid.              the environmental impacts of property rights regimes in forests, fisheries
+    2015;4:22.                                                                        and rangelands? Environ Evid. 2017;6:12.
+9.  Aiassa E, Higgins JPT, Frampton GK, Greiner M, Alfonso A, Amzal B, Deeks      25. Choi WS, Song SW, Ock SM, Kim CM, Lee J, Chang WJ, Kim SH. Duplicate
+    J, Dorne JL, Glanville J, Lovei GL, Nienstedt K, O’Connor AM, Pullin A, Rajic     publication of articles used in meta-analysis in Korea. Springer Plus.
+    A, Verloo D. Applicability and feasibility of systematic review for perform-      2014;3:182.
+    ing evidence-based risk assessment in food and feed safety. Crit Rev Food     26. von Elm E, Tramer MR, Jüni P, Egger M. Does duplicate publication of trials
+    Sci Nutr. 2015;55:1026–34.                                                        introduce bias in systematic reviews? A systematic review [abstract]. In:
+10. DEFRA (Department for Environment Food and Rural Affairs). Emerg-                 11th Cochrane Colloquium: 2003 Oct 26–31; Barcelona, Spain.
+    ing tools and techniques to deliver timely and cost effective evidence        27. von Elm E, Poglia G, Walder B, Tramer MR. Different patterns of duplicate
+    reviews. London: DEFRA; 2015.                                                     publication: an analysis of articles used in systematic reviews. JAMA.
+11. Rooney AR, Boyles AL, Wolfe MS, Bucher JR, Thayer KA. Systematic review           2004;291:974–80.
+    and evidence integration for literature-based environmental health sci-       28. Bailey BJ. Duplicate publication in the field of otolaryngology-head and
+    ence assessments. Environ Health Perspect. 2014;122(7):711–8.                     neck surgery. Arch Otolaryngol. 2002;126:211–6.
+12. Sargent JM, O’Connor AM. Conducting systematic reviews of intervention        29. Barden J, Edwards JE, McQuay HJ, Moore RA. Oral valdecoxib and injected
+    questions II: relevance screening, data extraction, assessing risk of bias,       parecoxib for acute postoperative pain: a quantitative systematic review.
+    presenting the results and interpreting the findings. Zoonoses Public             BMC Anesthesiol. 2003;3:1.
+    Health. 2014;61(suppl 1):39–51.                                               30. Gøtzsche P. Multiple publication of reports of drug trials. Eur J Clin Phar-
+13. Campbell Collaboration. Systematic reviews: policies and guidelines ver-          macol. 1989;36:429–32.
+    sion 1.2. Oslo: The Steering Group of the Campbell Collaboration; 2014.       31. Gøtzsche PC, Ioannidis JPA. Content area experts as authors: helpful or
+14. CRD (Centre for Reviews and Dissemination). Systematic reviews. CRD’s             harmful for systematic reviews and meta-analyses? BMJ. 2012;345:e7031.
+    guidance for undertaking reviews in health care. York: University of York;    32. Edwards P, Clarke M, DiGuiseppi C, Pratap S, Roberts I, Wentz R. Identifica-
+    2009.                                                                             tion of randomized controlled trials in systematic reviews: accuracy and
+15. Higgins JPT, Deeks JJ. Selecting studies and collecting data. In: Higgins         reliability of screening records. Stat Med. 2002;21:1635–40.
+    JPT, Green S, editors. Cochrane handbook for systematic reviews of inter-     33. Langer L, Erasmus Y, Tannous N, Stewart R. How stakeholder engage-
+    ventions. Chichester: Wiley-Blackwell; 2011. p. 151–86.                           ment has led us to reconsider definitions of rigour in systematic reviews.
+16. Higgins JPT, Lasserson T, Chandler J, Tovey D, Churchill R. Methodologi-          Environ Evid. 2017;6:20.
+    cal expectations of Cochrane intervention reviews (MECIR). London:            34. Altman DG. Measuring agreement. In: Altman DG, editor. Practical statis-
+    Cochrane; 2016.                                                                   tics for medical research. London: Chapman and Hall; 1991.
+17. Institute of Medicine. Finding what works in health care. Standards for       35. Petersen K, bin Ali N. Identifying strategies for study selection in system-
+    systematic reviews. Washington DC: Institute of Medicine of the National          atic reviews and maps. Proceedings of the 5th International Symposium
+    Academies; 2011.                                                                  on Empirical Software Engineering and Measurement (ESEM), Banff, AB,
+18. McDonagh M, Peterson K, Raina P, Chang S, Shekelle P. Avoiding bias in            Canada, September 2011.
+    selecting studies—methods guide for comparative effectiveness reviews.        36. Liberati A, Altman DG, Tetzlaff J, Mulrow C, Goetzsche PC, Ioannidis JPA,
+    Rockville: Agency for Healthcare Research and Quality (AHRQ); 2013.               Clarke M, Devereaux PJ, Kleijnen J, Moher D. The PRISMA statement for
+19. Social Science Research Unit. Eppi Reviewer 4. London: Social Science             reporting reviews and meta-analyses of studies that evaluate healthcare
+    Research Unit, Institute of Education, University of London; 2016. https://       interventions: explanation and elaboration. BMJ. 2009;339:b2700.
+    eppi.ioe.ac.uk/cms/Default.aspx?alias=eppi.ioe.ac.uk/cms/er4. Accessed        37. Beller EM, Glasziou PP, Altman DG, Hopewell S, Bastian H, Chalmers I, et al.
+    July 2017.                                                                        PRISMA for abstracts: reporting systematic reviews in journal and confer-
+20. Rathbone J, Hoffman T, Glasziou P. Faster title and abstract screening?           ence abstracts. PLoS Med. 2013;10(4):e1001419. doi:10.1371/journal.
+    Evaluating Abstrackr, a semi-automated online screening program for               pmed.1001419.
+    systematic reviewers. Syst Rev. 2015;4:80.                                    38. Sagoo GS, Little J, Higgins JPT. Systematic reviews of genetic association
+21. Tramer MR, Reynolds DJ, Moore RA, McQuay HJ. Impact of covert dupli-              studies. PLoS Med. 2009;6(3):e1000028.
+    cate publication on meta-analysis: a case study. BMJ. 1997;315:635–40.
+22. Englund G, Sarnelle O, Cooper SD. The importance of data-selection
+    criteria: meta-analyses of stream predation experiments. Ecology.
+    1999;80(4):1132–41.
+                                                                                      Submit your next manuscript to BioMed Central
+                                                                                      and we will help you at every step:
+                                                                                        • We accept pre-submission inquiries
+                                                                                        • Our selector tool helps you to find the most relevant journal
+                                                                                        • We provide round the clock customer support
+                                                                                        • Convenient online submission
+                                                                                        • Thorough peer review
+                                                                                        • Inclusion in PubMed and all major indexing services
+                                                                                        • Maximum visibility for your research
+                                                                                        Submit your manuscript at
+                                                                                        www.biomedcentral.com/submit
+

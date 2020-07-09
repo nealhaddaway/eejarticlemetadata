@@ -1,0 +1,958 @@
+Rytwinski et al. Environ Evid           (2020) 9:7
+https://doi.org/10.1186/s13750-020-00190-z                                                                                  Environmental Evidence
+  SYSTEMATIC MAP                                                                                                                                                   Open Access
+What are the effects of flow‑regime changes
+on fish productivity in temperate regions?
+A systematic map
+Trina Rytwinski1,2,3*, Meagan Harper1,2,3, Jessica J. Taylor1,2, Joseph R. Bennett1,3, Lisa A. Donaldson1,2,
+Karen E. Smokorowski4, Keith Clarke5, Michael J. Bradford6, Haitham Ghamry7, Julian D. Olden8, Daniel Boisclair9
+and Steven J. Cooke1,2,3
+   Abstract
+   Background: There is growing evidence of the potential negative consequences of altered flow regimes, in terms
+   of magnitude, frequency, timing, duration or season pattern, on fluvial ecosystems and the fisheries they support.
+   The scientific and policy communities have acknowledged the need for a better understanding of the effects of flow
+   alteration on fish productivity. We conducted a systematic map to provide an overview of the existing literature base
+   on the effects of flow-regime changes on direct outcomes of freshwater or estuarine fish productivity in temperate
+   regions to inform stakeholders and policy makers.
+   Methods: To identify relevant articles for inclusion in this systematic map, we searched six bibliographic databases,
+   29 organizational websites, one search engine, and 297 reviews, and solicited grey literature through relevant sources.
+   We screened articles at title and abstract, then by full-text using predefined inclusion criteria. Included studies were
+   coded for key variables of interest, along with a very basic critical appraisal for internal validity (i.e., susceptibility to
+   bias). The quantity and characteristics of the available evidence, knowledge gaps and subtopics with sufficient cover-
+   age for full systematic reviewing are reported in a narrative synthesis. The distribution and frequency of examined
+   effects of flow-regime changes on fish productivity outcomes are presented in visual heatmaps.
+   Review findings: A total of 1368 studies from 1199 articles were included in the systematic map database and used
+   to identify a number of interesting themes in the evidence base: (1) large evidence bases were found in temperate
+   regions of United States of America (USA), Canada, and Australia; (2) most studies either used a temporal or spatial
+   trend design i.e., lacking a ‘true’ before intervention time period, or no intervention control sites; (3) the most studied
+   causes of altered flow regime were natural (e.g., floods, droughts, climate change), hydroelectric facilities (hydro),
+   and dams with no hydro; and (4) there were clear clusters of studies evaluating effects of changes in magnitude and
+   surrogate measures (e.g., velocity, water depth) on fish productivity outcomes, in particular abundance and diversity
+   metrics. A number of potential knowledge gaps were identified: including geographic (Northern Africa, and possibly
+   parts of Asia), causes of altered flow regime (restoration, land-use change, and water abstraction/extraction/diver-
+   sion), interventions (flow duration, frequency, rate of change, or timing), outcomes (population viability) and specific
+   intervention/cause/outcome groups (e.g., changes in flow magnitude due to hydro or natural causes and fish survival,
+*Correspondence: trytwinski@hotmail.com
+1
+  Canadian Centre for Evidence‑Based Conservation, Institute
+of Environmental and Interdisciplinary Science, Carleton University,
+Ottawa, ON, Canada
+Full list of author information is available at the end of the article
+                                              © The Author(s) 2020. This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing,
+                                              adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and
+                                              the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material
+                                              in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material
+                                              is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the
+                                              permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creat​iveco​
+                                              mmons​.org/licen​ses/by/4.0/. The Creative Commons Public Domain Dedication waiver (http://creat​iveco​mmons​.org/publi​cdoma​in/
+                                              zero/1.0/) applies to the data made available in this article, unless otherwise stated in a credit line to the data.
+
+Rytwinski et al. Environ Evid (2020) 9:7                                                                           Page 2 of 26
+  performance, and reproduction). A few aspects in methodology were also identified across studies, primarily a lack of
+  true comparators (e.g., temporal or spatial trend designs).
+  Conclusions: This map suggests subtopics warranting future evidence synthesis include, examinations into how
+  changes in flow magnitude affects: (1) fish abundance for dams with no hydro causes; (2) fish abundance, diversity/
+  richness, migration, and growth for hydro causes; and (3) fish abundance, diversity/richness, growth, community
+  structure, recruitment, and migrating fish abundance for natural causes. More comprehensive evidence is needed
+  to understand how: (1) fish productivity metrics are affected by changes in flow regime due to restoration, land-use
+  change, and water withdrawal/diversion activities; (2) how fish productivity is affected by changes to components of
+  flow regime other than magnitude (e.g., flow duration, frequency); and (3) changes in flow magnitude due to hydro
+  or natural causes affect fish survival, performance, and reproduction; and (4) changes in flow regime (all causes, all
+  interventions) affect population viability.
+  Keywords: Dam, Evidence-based policy, Fish biomass, Fish abundance, Fish density, Flow modification, Hydroelectric,
+  Reservoirs, River regulation, Stream
+Background                                                      in response to flow alterations resulting from a host of
+The importance of the hydrologic regime for shap-               human activities.
+ing the biophysical attributes and function of rivers              Changes to extreme hydrologic events (e.g., floods and
+is well recognized [1–5]. The natural flow paradigm             droughts) can cause significant effects on freshwater eco-
+stresses that intra- and interannual patterns in river          systems. Increases in flow magnitude due to flooding
+discharge—the flow regime describing the magnitude,             result in the displacement or death of stream biota and
+frequency, duration, timing, and rate of change of flow         can alter their habitat in numerous ways, but can also
+events—play a direct or indirect role in maintaining            provide increased connectivity between isolated water-
+the ecological integrity of the aquatic system [2]. Over        bodies [13, 14]. Decreases in flow magnitude in response
+evolutionary time, aquatic communities, including fish          to drought causes inhabitants to occupy smaller more
+populations, have adapted to the inherent natural vari-         isolated areas of habitat where biotic interactions may
+ability of rivers and streams [6] and selected for differ-      intensify, and changes to fish communities may ensue
+ent life history strategies over many generations [7].          [14]. Effects of hydrological extreme events are noted
+The importance of this natural flow variability in main-        to be highly variable and context dependent, and reli-
+taining healthy fluvial ecosystems has recently become          ant upon event magnitude, duration, pattern, and tim-
+a primary focus for water resource managers, indicat-           ing relative to life cycles of the resident species [14–16].
+ing the need for a better understanding of flow-ecosys-         For example, McManamay et al. [17] reported mostly
+tem response relationships for effective management of          negative responses of fish and invertebrates to droughts,
+these systems [8].                                              and variable and non-consistent responses to floods in a
+  Many freshwater ecosystems are under increasing               meta-analysis of studies from the South Atlantic Region
+threat from anthropogenic activities and escalating             of the United States (USA). By contrast, Piniweski et al.
+human demands for water, which has led to alterations           [18] found a lack of significance for the effect of floods on
+and changes of natural flow regimes [9]. Flow alterations       fish metrics (abundance, density, diversity and richness)
+can result from many human modifications, including             in Europe, but was unable to synthesize fish responses to
+the construction of dams, hydroelectric facilities, water       drought due to a lack of available evidence. Understand-
+extraction for agriculture, water abstraction, drinking,        ing the ecological effects of these natural extremes is nec-
+industry, and recreation, and flood-control measures [10,       essary for effective management of freshwater systems.
+11]. Such changes of the natural flow regime may impact            Ecosystem changes from altered or changed flows
+various chemical, physical, hydraulic, geomorphologi-           can have multiple effects on freshwater fishes, including
+cal, and biological attributes of rivers leading to declines    changes to physical habitat, habitat access, food supplies,
+in water quality, water supply, and the ecological integ-       behaviour, community composition, energy expendi-
+rity of river and stream ecosystems [3]. For example, in        ture, and population dynamics [19, 20]. Fish abundance,
+a review of the ecological effects of altered flow regimes,     demographic parameters, and diversity were found to
+Poff and Zimmerman [12] reported that 92% of studies            consistently decline in response to both increases and
+reported reductions in ecological metrics (e.g., changes        decreases in flow magnitude (reviewed in Poff and Zim-
+in species or population abundance, demographic rates           merman [12] but also see Webb et al. [21]). Modifica-
+or community diversity for various taxonomic groups)            tions of flows from natural regimes were associated with
+
+Rytwinski et al. Environ Evid (2020) 9:7                                                                          Page 3 of 26
+reduced abundance of fluvial specialists but not habitat       Objective of the review
+generalists (reviewed in Haxton and Findlay [22]). Fish        The systematic map was intended to provide an overview
+productivity is also affected by management actions            of the existing body of literature addressing the effects
+that seek to restore or control flow to rivers impacted by     of flow alteration on fish productivity in freshwater and
+hydroelectric facilities. For example, in Newfoundland,        estuarine fluvial environments. Our primary research
+the placement of hydraulic control structures on a 1.2 km      question was: what are the effects of flow-regime changes
+long natural high flow, flood bypass channel of the Rose       on fish productivity in temperate regions? Through this
+Blanche River provided constant regulated flow to an           systematic mapping exercise, we describe the quantity
+area that was previously only wetted during snow melt          and key characteristics (e.g., study design types, interven-
+events. Monitoring of the effects of this controlled flow      tions examined, outcomes measured, geographical loca-
+over 3 years showed a steady increase in total fish bio-       tions, and fish taxonomic groups studied) of the available
+mass (an indicator of productivity) in the channel each        evidence, identify evidence clusters, and knowledge gaps.
+year [23].                                                     The systematic map also identifies subtopics that are suf-
+                                                               ficiently covered by existing studies to allow full system-
+Topic identification and stakeholder input                     atic reviewing.
+Given mounting evidence for the effects of altered flow           To address our primary question, the systematic map
+regimes on fish, there is currently a strong consensus         was based on the following study components:
+within the scientific and policy communities that main-
+taining or restoring, as close as possible, natural flow          • Subject (population): Freshwater and estuarine fish in
+variability, is important for sustaining ecological health           temperate regions.
+of rivers ecosystems and the fisheries they support (e.g.,        • Intervention/exposure: Changes to (or manipulations
+[2, 24–26]). However, for water resource managers, deci-             of ) flow regime.
+sions on the potential effects of flow alterations on fish        • Comparator: No intervention or alternative levels of
+productivity are difficult because there are still uncer-            intervention (broadly defined).
+tainties in our understanding of flow-fish productiv-             • Outcomes: Change in a component of fish productiv-
+ity relationships. As a result, a review of the effects of           ity (broadly defined in terms of: biomass, abundance,
+flow alteration on fish productivity has been explicitly             density, yield, diversity, growth, survival, individual
+proposed by Canadian stakeholders [i.e., Fisheries and               performance, migration, reproduction, recruitment,
+Oceans Canada (DFO)]. Due to the wide scope of such                  or a surrogate thereof ).
+a review, and the diversity of fish productivity outcomes
+used to evaluate flow alteration effects, the potential set
+of studies to consider was quite heterogeneous. There-         Methods
+fore, prior to undertaking a comprehensive and quantita-       This map followed detailed methods described in the a
+tive synthesis, we begin with a systematic map to provide      priori systematic map protocol Rytwinski et al. [27], and
+an overview of the existing literature base on the effects     was performed according to the guidelines provided by
+of flow-regime changes on fish productivity in fresh-          the Collaboration for Environmental Evidence [28]. Any
+water and estuarine fluvial environments. We also use          deviations from the protocol are highlighted in the sec-
+this systematic map to identify subtopics that are suffi-      tions below.
+ciently covered by existing studies to allow full systematic
+reviewing.                                                     Search for articles
+   During the formulation of the review question, an           This systematic map was based on literature searches
+Advisory Team made up of stakeholders and experts was          conducted in July 2017 using six publication databases
+established and consulted. This team included academic         accessed using Carleton University’s institution subscrip-
+scientists from Canada and USA, and staff from DFO,            tions: (1) Web of Science (Core Collection), (2) ProQuest
+specifically the Fish and Fish Habitat Protection Program      Dissertations & Theses Global, (3) Scopus, (4) Federal
+(FFHPP), and Science Branch. The Advisory Team guided          Science Library (DFO and others library catalogue only;
+the focus of this review to ensure the primary question        formally known as WAVES), (5) Science.gov, and (6)
+was both answerable and relevant, and suggested search         AGRICOLA (see Additional file 1 for detailed search
+terms to capture the relevant literature. The Advisory         methods, including citation indices considered in each
+Team was also consulted in the development of the inclu-       database, and results). We searched one search engine
+sion criteria for article screening and the list of specialist (Google Scholar; using the first 500 results in July 2017),
+websites for searches, and provided feedback on the final      and 29 websites (Feb 2017). Search terms were limited
+manuscript.
+
+Rytwinski et al. Environ Evid (2020) 9:7                                                                         Page 4 of 26
+to English language due to project resource restrictions.    made among reviewers in regards to which articles got
+In addition, we hand searched reference sections of          screened out and which went on in the process to be fur-
+accepted articles and 297 relevant reviews (see Additional   ther reviewed. In a deviation from the protocol, Kappa
+file 2) for any relevant titles that were not found using    statistics were not calculated between reviewers since
+the search strategy. A call for evidence was also issued to  there were more than two reviewers; instead, the percent-
+target sources of grey literature through relevant mail-     age of agreements among reviewers was calculated. The
+ing lists (Canadian Conference for Fisheries Research,       reviewers agreed on 86% of the articles. Of the disagree-
+American Fisheries Society), and through social media        ments, 86% (i.e., 154/180 disagreements) were because
+(Twitter, Facebook) in February and November 2017. The       one reviewer was more inclusive than the other reviewers
+Advisory Team also distributed the call for evidence to      (i.e., the one included the article when the other review-
+relevant networks and colleagues. To ensure the relevant     ers excluded it). Any disagreements in coding between
+articles were captured by the search, our search results     reviewers were discussed with a fifth reviewer (TR) and a
+were checked against a benchmark list of relevant papers     consensus decision made before moving forward. When
+provided by the Advisory Team (see Additional file 1).       necessary, uncertainties were discussed and resolved by
+                                                             the broader review team. Reviewers did not screen arti-
+Assembling a library of search results                       cles (at title and abstract or full-text) for which they were
+After all searches were completed and references found       an author.
+using the publication databases and Google Scholar were         A consistency check was also conducted prior to
+compiled, the results from each were imported into the       screening articles at full-text on 150/2417 articles (6.2%
+software EPPI-Reviewer (eppi.ioe.ac.uk/eppireviewer4)        of the articles included in EPPI-Reviewer; does not
+as one database. Due to restrictions in exporting search     include specialist websites or other sources of literature,
+results, the database results from the Federal Science       or Federal Science Library and the AGRICOLA spread-
+Library and the AGRICOLA were screened in sepa-              sheets). Full-texts were screened by five reviewers (SC,
+rate Excel spreadsheets. Prior to screening, duplicates      EWN, TL, Laura Elmer [LE], and Jill Brooks [JB]), with
+were identified using a function in EPPI-Reviewer and        a coding agreement on 81% of articles. After discussing
+then were manually removed by one reviewer (TR). One         inconsistencies, the remaining articles were split between
+reviewer manually identified and removed any dupli-          the five reviewers and allowed to proceed. Any query
+cates in the Federal Science Library and the AGRICOLA        made by a reviewer was discussed with a sixth reviewer
+spreadsheets (TR). All references regardless of their per-   (TR) and a consensus decision made, and conferred to
+ceived relevance to this systematic map were included in     all reviewers. If a decision for a given query could not
+the database.                                                be made by TR, uncertainties were discussed and rec-
+                                                             onciled with the broader research team. In these cases,
+Article screening and study eligibility criteria             more detailed refinements were made to the eligibility
+Screening process                                            criteria to improve clarity for screening (see Table 1 for
+Articles found by searches in databases and Google           considerations identified in italic font). Lists of all arti-
+Scholar were screened at two distinct stages: (1) title and  cles excluded on the basis of full-text assessment with the
+abstract, and (2) full-text. Articles found by other means   reasons for exclusion, and unobtainable articles are pro-
+than database or search engine searches (i.e., special-      vided in Additional file 2.
+ist website or other literature searches) were entered at
+the full-text stage of this screening process but were not   Eligibility criteria
+included in consistency checks. Any doubt over the pres-     All articles were screened according to the established
+ence of a relevant inclusion criterion (or if information is eligibility criteria developed in consultation with the
+absent) resulted in the articles being retained for assess-  Advisory Team (Table 1). Articles were included only
+ment at a later stage. Titles and abstracts were screened    when all six criteria were met.
+by four reviewers (Shannon Clarke [SC], Daniel Struthers
+[DS], Emily Way-Nee [EWN], and Teah Lizee [TL]). Prior       Study validity assessment
+to screening title and abstracts, all reviewers screened     Study validity assessment
+1309/13,055 articles (10% of the articles from publica-      No formal in-depth critical appraisal was made of stud-
+tion databases included in EPPI-Reviewer; not including      ies subsequent to their inclusion in the systematic map
+results from Google Scholar, specialist websites or other    because the scope of the topic and the highly heterogene-
+sources of literature, or Federal Science Library and the    ous nature of the studies made this challenging. However,
+AGRICOLA spreadsheets) for consistency checks to             meta-data on aspects of study setting and design were
+ensure consistent and repeatable decisions were being        extracted from included studies to provide a very basic
+
+                                                                                                                                                                                                                          Rytwinski et al. Environ Evid
+Table 1 Article inclusion and exclusion criteria, summarized from the protocol [27]
+Screening criteria        Included                                                                                       Excluded
+Subject (population)      Any fish species in North (23.5° N to 66.5° N) or South (23.5° S to 66.5° S) temperate     Studies that evaluated the effects of altered flows in (1) aquaculture, fish farms, or
+                           regions. Fish can be resident (i.e., non-migratory) or migratory, including diadro-         hatcheries (usually in the form of changes in water velocity), or (2) a completely marine          (2020) 9:7
+                           mous species (e.g., fish that migrate between fresh and salt water), and at any life        ecosystem or if in a waterbody that does not have moving water via gravity (e.g.,
+                           stage. This can also include species that have been stocked (but are no longer being        irrigation ponds)
+                           stocked) or invasive, and are now established in a waterbody. Only studies located
+                           in freshwater or estuarine fluvial (i.e., water moving via gravity) ecosystems, includ-
+                           ing lakes, rivers, and streams were considered. Studies that evaluated the effect of
+                           water diversion (into irrigation ponds) i.e., reduced flow on fish from the source stream
+Intervention/exposure Articles that describe a change in, or modification to, a component of flow regime,                Studies evaluating other environmental drivers in relation to fish and did not also include
+                        including: magnitude, frequency, duration, timing (seasonality), rate of change, or                an evaluation of a component of flow. Other environmental interventions included: (1)
+                        surrogate thereof (e.g., water velocity or depth) (see Table 2 for definitions). Articles          changes in physical (hydraulic) habitat (e.g., width–depth ratio, wetted perimeter, pool
+                        that (1) do not specify a flow component [e.g., the study compare an unregulated                   volume, bed substrate); (2) changes in flow-mediated water quality (e.g., sediment trans-
+                        stream (or section of a stream) to a regulated stream (i.e., regulated via a hydro dam)],          port, dissolved oxygen, temperature); (3) changes in in-stream cover (e.g., bank undercuts,
+                        or (2) report unspecified multiple components affecting flow (i.e., do not report effects of       root masses, woody debris, fallen timber, overhanging vegetation); or (4) changes in the
+                        components separately to isolate individual effects of components). Relevant causes of             freshwater inflow or input. Studies that focused on effects of altered flows related to road
+                        a change in/modification to flow regime include: (1) anthropogenic causes: dams,                   culverts (separate systematic review on this topic, see Rytwinski et al. [29])
+                        reservoirs (impoundments), hydroelectric facilities, locks, levees, water withdrawal
+                        (abstraction), water diversion, and land-use changes; (2) natural causes: climate
+                        change (possible indirect anthropogenic cause as well), floods, droughts, seasonal
+                        changes; or (3) restoration activities (i.e., water input into the study waterbody for resto-
+                        ration of flow, dam removal, etc.)
+Outcome                   The reported measured outcome should indicate some change in a component of                  Studies that only evaluated an indirect response to altered flow i.e., authors make
+                            fish productivity, broadly defined to include any measurement related to: biomass,           an indirect link between the measured outcome of altered flow (e.g., growth of
+                            abundance, yield, diversity, density, growth, survival, individual performance, migra-       aquatic plants) and its “potential” affect on fish (e.g., spawning habitat availability),
+                            tion, reproduction, recruitment, sustainability, population viability, persistence,          were excluded. Indirect outcomes included, for example: (1) nutrients (e.g., amount/
+                            stress, or surrogate thereof. Only studies that evaluated a direct response (outcome)        concentration), food supply (e.g., amount of plankton), infection/disease rate (e.g.,
+                            of some aspect of fish productivity listed above. Studies that evaluated fish movement parasites). Studies that evaluated: (1) fish habitat preference/use/selection or used habitat
+                            behaviour in relation to flow (e.g., movement in areas of high and low flow) and (1)         suitability indices (HIS); (2) migratory behavior in relation to flow and used timing of river
+                            related this to activity level or energy expenditure, or (2) reported numbers or abundance   entry as an outcome measure; or (3) stranding (e.g., probability of stranding or numbers of
+                            of fish entering river (i.e., river entry)                                                   stranded fish)
+                                                                                                                                                                                                                          Page 5 of 26
+
+Table 1 (continued)
+                                                                                                                                                                                                                       Rytwinski et al. Environ Evid
+Screening criteria          Included                                                                                      Excluded
+Comparator                  Relevant comparators included: (1) similar sections of the same waterbody with                Studies that evaluated: (1) a single point in time, with no comparison to another site; or
+                             no intervention (i.e., upstream or downstream condition); (2) separate but similar             (2) a single impact site, with no before-treatment data
+                                                                                                                                                                                                                       (2020) 9:7
+                             waterbodies with no intervention; (3) before intervention data within same water-
+                             body (i.e., pre-construction/modification); (4) an alternative level of intervention
+                             on the same or different study waterbody, or (5) controlled flume study. Studies
+                             that look at trends without true comparators: (1) temporal trends that look at the
+                             relationship/correlation between fish productivity and changes to flow across time
+                             but without a ‘true’ before intervention time period; or (2) spatial trends that do not
+                             include “zero-control” sites: (a) across waterbodies [e.g., surveyed fish abundance in
+                             6 different streams (i.e., not all similar in morphology) and related to flow magni-
+                             tude]; or (b) within a waterbody [e.g., survey fish abundance in different sections of
+                             the same stream that differed in morphology (e.g., riffle and run) and related to flow
+                             frequency]; were included but subgrouped together (TRENDS). Also, studies that
+                             evaluated: (1) > 1 after-treatment time periods but there was no change/modification to
+                             flow across time periods [i.e., repeat visits with no before-treatment data or control site;
+                             After-only (A-only)]; (2) > 1 impact sites but there was no change/modification to flow
+                             across impact sites [multiple impact sites but no control sites or before-treatment data;
+                             Impact-only (I-only)]
+Study design                Study designs with appropriate comparators including Before/After (BA), Control/              Theoretical studies, review papers and policy discussions
+                              Impact (CI) including a gradient of intervention intensity that included a “zero-con-
+                              trol” site (CI-gradient), an alternate level of intervention (ALT-CI), as well as Before/
+                              After/Control/Impact (BACI) studies and Randomised Controlled Trials (RCT; e.g., lab
+                              or small in field manipulations) were included. Studies that used a reference condi-
+                              tional approach or a normal range design were included and coded as CI designs.
+                              Studies that look at temporal or spatial (within or across waterbodies) trends with
+                              a change in, or modification to, a component of flow regime but that do not have
+                              true comparators (TRENDS). Also, studies that look at multiple after-treatment time
+                              periods (A-only) or impact sites (I-only) but there was no change/modification to flow
+                              across time periods or impact sites and that do not have true comparators
+Language                    English at full-text                                                                          Any study that is not in English at full-text
+Further criteria considerations developed post-publication of the protocol are identified in italic font
+                                                                                                                                                                                                                       Page 6 of 26
+
+Rytwinski et al. Environ Evid (2020) 9:7                                                                               Page 7 of 26
+overview of the robustness and relevance of the evidence               Sample-selection methods: Studies that stated purpo-
+(i.e., internal validity). The primary purpose of extract-          sive selection or those that were clearly purposive (i.e., no
+ing this meta-data was to aid future study validity assess-         replication).
+ments and synthesis of studies on sub-topics of interest               Other sources of bias: Clear confounder (bias).
+identified from our systematic map exercise.
+   Study validity assessments were based on a modified              Unclear
+list of variables used by Haddaway et al. [30] and com-                If information on any variable (i.e., study design, sam-
+bined with topic specific quality measures used by Cress-           ple-selection methods, other sources of bias) was com-
+well et al. [31]. Terms including ‘yes’, ‘partially’, ‘not at all’, pletely absent or could not be clearly determined. Note,
+or ‘unclear’ were applied to each study based on study              an N/A term was applied for an individual-based study
+design (i.e., type of comparator), sample-selection meth-           with a single sampling location (for sample-selection
+ods, and other sources of bias as outlined below. Review-           methods).
+ers did not critically appraise studies for which they were
+an author. No studies were excluded from the database               Additional study validity assessment considerations
+based on the study validity assessment criteria.                    We could not assess studies for their degree of true rep-
+                                                                    lication using a single quality measure because the levels
+Yes                                                                 of replication were not comparable across the diversity of
+   Study design: Before/After/Control/Impact design                 fish productivity outcomes evaluated in relation to flow
+(BACI) or Randomised controlled trial (RCT) (e.g., lab or           alteration effects. For example, the level of replication at
+small field manipulations).                                         which the intervention was administered/the exposure
+   Sample-selection methods: Randomised selection pro-              experienced could be at the level of: (1) individuals (e.g.,
+cedures of any form or studies that deliberately spread             metrics related to growth and performance); (2) spa-
+samples evenly across clear potential confounders.                  tial units (e.g., productivity metrics measured in entire
+   Other sources of bias: No evidence of bias.                      waterbodies or in reaches/sections of a waterbody); or (3)
+                                                                    temporal periods (e.g., productivity metrics measured at
+Partially                                                           different time periods before and after the intervention
+   Study design: Studies with one comparator i.e., Before/          was administered/the exposure experienced in a single
+After (BA), Control/Impact (CI) designs including a                 waterbody). However, we did attempt to capture some
+gradient of intervention intensity that included a “zero-           information on replication in the form of collecting: (1)
+control” site (CI-gradient) or incomplete BACI (INCOM-              the unit of analysis (i.e., spatial, temporal, spatial + tem-
+BACI) designs (i.e., data is missing for one component              poral, or individual fish); (2) a free form description of
+of the BACI design), or an alternate level of intervention          the unit of analysis (sample size used by authors); and
+(ALT-CI).                                                           (3) type of replication(s) [i.e., likely true spatial replica-
+   Sample-selection methods: Studies that did not state             tion, clearly pseudoreplicated, within year, between year,
+they used a form of randomised selection procedure but              unclear, number of fish, or none (if no true comparator:
+implied random or blocked designs.                                  TRENDS, ALT-CI, A-only, or I-only study designs)] (see
+   Other sources of bias: Potential confounder, includ-             Additional file 3 for further details).
+ing, for example: (1) clear differences in environmental
+conditions or other factors that differ between interven-           Data coding strategy
+tion and comparator sites and/or times, that occur after            Following full-text screening of articles by the review
+sample selection and/or study initiation (e.g., unplanned           team, relevant studies were extracted from the included
+human alterations, floods, droughts), or (2) substantial            articles i.e., when multiple studies were reported within
+spatial separation between intervention and control sites.          one article they were entered as independent lines in
+                                                                    the database. Here, we define a study to be an experi-
+Not at all                                                          ment or observation that was undertaken over a specific
+   Study design: Studies that do not have true comparators          time period at a particular site reported as separate: (1)
+but use temporal or spatial (within or across waterbodies)          waterbodies that were not treated as replicates or used
+trends with a change in, or modification to, a component            for spatial trend analysis within the article, or (2) labo-
+of flow regime (TRENDS), or that look at multiple after-            ratory experiments. Attempts were made to identify
+treatment time periods (A-only) or impact sites (I-only)            supplementary articles (i.e., articles that reported data
+but there was no change/modification to flow across the             that could also be found elsewhere or contained por-
+time periods or impact sites.                                       tions of information that could be used in combination
+                                                                    with another more complete source), and combine them
+
+Rytwinski et al. Environ Evid        (2020) 9:7                                                                                                      Page 8 of 26
+with the most comprehensive article (i.e., primary study                           decision for a given query could not be made by MH and
+source) during data extraction.                                                    TR, uncertainties were discussed and reconciled with the
+   In developing the map data extraction form and code-                            broader research team, and refinements to coding and
+book, the following key variables of interest were identi-                         validity assessments were made to the extraction code-
+fied through scoping activities and discussion with the                            book when necessary. The finalised extraction form and
+advisory team: (1) bibliographic information; (2) study                            codebook for the map is shown in Additional file 4.
+location and details (e.g., geographic location, waterbody
+name and type, etc.); (3) broad objectives of the study;                           Data mapping method
+(4) study design and length; (5) intervention/exposure                             A systematic map database was developed to describe
+type (see Table 2 for definitions); (6) cause of interven-                         the existing literature base on the effects of flow-regime
+tion; (7) comparator type; (8) outcome type; (9) sampling                          changes on fish productivity in freshwater and estuarine
+method(s); (10) species (or species groups) (common                                fluvial environments (see Additional file 4). The search-
+and Latin names crosschecked with FishBase [32] or                                 able and accessible database was created in Microsoft
+Eschemeyer’s Catalog of Fishes [33]) and life stage(s)                             Excel and provides the quantity and key characteristics
+studied; and (11) the study validity assessment decisions                          of the research on this topic, detailing location, method-
+on study design, sample selection, other sources of bias,                          ology, types and causes of altered flow regimes, fish pro-
+and replication. Coding options within these key vari-                             ductivity outcomes, and target taxonomic groups. The
+ables were then compiled in a partly iterative process,                            distribution and frequency of the evidence base was also
+expanding the range of options as they were encountered                            compiled into a structured heatmap showing linkages
+during scoping and extraction.                                                     between examined effects of flow-regime changes (rows)
+   To ensure that information for both coding and study                            and fish productivity outcomes (columns). As stud-
+validity assessments were being extracted in a consist-                            ies within individual articles can examine links between
+ent and repeatable manner, two reviewers (TR and MH)                               more than one intervention and outcome type, indi-
+piloted the extraction form by coding and assessing                                vidual studies were mapped to more than one cell when
+information from 15 of the same articles at the begin-                             applicable (i.e., referred to as cases; see the “Mapping the
+ning of the process. Any disagreements were discussed                              quantity and quality of studies relevant to the question”
+and additional, more detailed guidance was added to                                section below for further details). Note, the systematic
+the extraction codebook to improve clarity. Coding and                             map does not quantify or validate direction of effects for
+study validity assessments then proceeded with one                                 fish outcomes examined but rather aims to describe the
+reviewer (MH) and any queries were discussed with a                                distribution of research effort. Specifically, the systematic
+second reviewer (TR) and a consensus decision made. If a                           map database and heatmap were used to identify possible
+Table 2 Relevant intervention/exposure types assessed along with definitions
+Intervention/     Definition
+exposure
+type
+Magnitude         A change in the amount of water moving past a fixed location per unit time (e.g., m    ­ 3/s): (1) peak flow (reported as alterations in
+                    flood, peak, or high flow); (2) base flow (reported as alteration in base flow, low flow or drought conditions); (3) average discharge
+                    (reported as alteration in total flow or mean flow); and (4) short-term variation (reported as a change in magnitude that occurred
+                    over a period of hours or less than 1 day)
+Frequency         The number of flow occurrences during a specified time period, where the magnitude of flow is either above or below a given thresh-
+                    old. Frequency could be defined as the count or average of high or low flows per time period (e.g., the number of high pulses that
+                    are three times the median daily flow per year, or the number of low flows where flow is below the 25th percentile per season), or as
+                    the probability of occurrence of a flow (e.g., the probability of a 100-year flood)
+Duration          Period of time associated with a specific flow condition. Duration could be defined relative to a particular flow event (e.g., a floodplain
+                    may be inundated for a specific number of days by a 10-year flood), or as a composite expressed over a specified time period (e.g.,
+                    the number of days in a year when flow exceeds some value). Antecedent flow, defined as the measure of time since a specific flow
+                    level, was also included in the context of the number of dry days (form of duration of low flow)
+Timing            Timing, seasonality, or predictability of flows of defined magnitude (referring to the regularity with which they occur)
+Rate of change Rate of change, refers to how quickly flow changes from one magnitude to another
+Surrogate         Surrogate of flow alteration e.g., water depth, flow stage (water level above an arbitrary point), water velocity, water area
+Unspecified       An unspecified component of flow i.e., the study does not specify a flow component. For example, (1) the study compares an
+                    unregulated stream (or section of a stream) to a regulated stream (i.e., regulated via a hydro dam) but does not include an actual
+                    component of flow as outlined above); or (2) reports unspecified multiple components affecting flow (i.e., do not report effects of
+                    components separately to isolate individual effects of components)
+
+Rytwinski et al. Environ Evid (2020) 9:7                                                                      Page 9 of 26
+knowledge gaps (i.e., subtopics requiring further primary    described narratively below at the level of study (not arti-
+research) and knowledge clusters (i.e., subtopics that are   cle; see definitions outlined in the “Data coding strategy”
+sufficiently covered by existing studies to allow full sys-  section above). When reporting the number of individual
+tematic reviewing).                                          studies (out of 1368 studies) for a given description i.e.,
+                                                             in-text descriptive statistic or within figure(s)/table(s),
+Results                                                      we use the term studies. However, in some descriptions,
+Literature searches and screening                            we included multiple counts within a given study (e.g.,
+Our literature search yielded 25,464 hits from the six       multiple study designs, or species evaluated). In such
+databases and Google Scholar (see Additional file 1).        instances, the number of studies will exceed the total
+This resulted in 18,231 unique records after duplicate       number of studies included (i.e., > 1368 studies). We still
+removal. At title and abstract screening, 15,793 arti-       refer to these as studies when speaking generally about
+cles were excluded, leaving 2438 for full-text screen-       descriptions (e.g., “Most studies were performed in
+ing (Fig. 1). At full-text screening, 1204 articles were     North America…”; however, to distinguish these counts
+excluded, 26 articles were unobtainable due to either        from individual study counts, we use the term cases when
+insufficient citation information provided within search     providing in-text descriptive statistics (e.g., “Of the 43
+hits, or they could not be located through internet, Carle-  included countries, the most studied were USA (50%
+ton University library subscriptions, or inter-library loan  of cases)…”, and in figure/table captions/legends where
+sources (see Additional file 2), and one further article was applicable. Counts of cases are thus situationally defined,
+removed as a missed duplicate. The majority of articles      meaning the total number of cases is not similar for all
+were excluded at full-text because of an irrelevant inter-   descriptions.
+vention (i.e., the article did not describe a change in, or
+modification to, a component of flow regime), outcome        Studies per decade
+(i.e., article did not evaluate a direct response of some    Study publication dates ranged from 1940 to 2017, with
+aspect of fish productivity), or population (i.e., article   the majority published after the year 2000 (72%). From
+reported data for non-temperate fish, or fish related to     1940 to 1979, grey literature made up a larger proportion
+altered flows in aquaculture, fish farms, or hatcheries).    of the total studies than in more recent years (Fig. 2).
+All articles excluded at full-text along with reasons for
+their exclusion can be found in Additional file 2. From      Study location
+the databases and Google Scholar, 1207 articles were         Studies included in this systematic map spanned a
+included at full-text.                                       range of North and South temperate regions (Fig. 3).
+   In addition, 218 relevant articles were included after    Most studies were performed in North America, Oce-
+full-text screening from specialist websites (79 articles),  ania, and Europe, although there were clear gaps in geo-
+bibliographies of relevant reviews (131 articles from 297    graphic coverage for studies in Northern Africa, and
+reviews; see Additional file 5 for a list of reviews) and    parts of Western, Central and South Asia (Fig. 3). Of the
+included articles (2), and other searches (6). Combin-       43 included countries, the most studied were USA (50%
+ing all relevant articles, a total of 1425 articles met our  of cases), Canada (11% of cases), and Australia (7% of
+inclusion criteria after full-text screening (Fig. 1). Of    cases) (Fig. 3), with the majority of studies conducted in
+these, 32 were considered supplemental (redundant)           states/provinces along the west coast of North America
+articles because they overlapped with other included         [i.e., California, Washington, Oregon (USA) and British
+articles providing only additional information (e.g., extra  Columbia (Canada)], and the southeastern coast of Aus-
+years of data, intervention information), 10 were missed     tralia (i.e., New South Wales) (Fig. 4). The majority of
+duplicates, and a further 184 were excluded after closer     studies were field-based studies conducted in rivers (79%
+evaluation because they did not meet our inclusion cri-      of studies), with some in estuaries (4% of studies), reser-
+teria (Fig. 1). A total of 1368 studies from 1199 articles   voirs (3% of studies), lakes (1% of studies), and wetlands
+were included in the final map (Fig. 1). Coded data for      (< 1% of studies), whereas the remaining were lab-based
+all included studies are included in Additional file 4. A    studies conducted in research facilities (6% of studies),
+ROSES reporting form is included in Additional file 6.       mixed locations (6% of studies; e.g., lab + field-based
+                                                             locations, or different waterbody types), or the waterbody
+Mapping the quantity and quality of studies relevant         type was not reported (< 1% of studies).
+to the question
+The quantity and quality of the available evidence base      Study design
+on the effects of flow-regime changes on fish productiv-     The vast majority of studies either used a temporal
+ity in freshwater and estuarine fluvial environments is      or spatial trend design (e.g., correlation) that lacked a
+
+Rytwinski et al. Environ Evid    (2020) 9:7                                                                               Page 10 of 26
+  Fig. 1 ROSES flow diagram [34] showing literature sources and inclusion/exclusion process
+true comparator (64% of cases) (Fig. 5). The next most                      alternative level of intervention comparator [i.e., before
+common study design was a BA design (14% of cases)                          intervention data within same waterbody but the inter-
+which used a temporal intervention comparator (i.e.,                        vention was not no intervention nor the base flow level
+before intervention data within same waterbody) or an                       (e.g., comparison of current discharge rate of a hydro
+
+Rytwinski et al. Environ Evid      (2020) 9:7                                                                                               Page 11 of 26
+  Fig. 2 Period of publication for the 1368 studies (from 1199 articles) in relation to source
+  Fig. 3 Geographic distribution of evidence, displaying the number of cases per country. In this context, since some studies were undertaken across
+  more than one country, counts were the number of cases (not studies). Note, most of the countries receiving ‘0’ are in areas that are not temperate
+dam vs. a faster discharge rate)] (Fig. 5). A number of                           similar waterbodies with no intervention/base level
+studies employed a CI design (6% of cases) using a spa-                           (e.g., nearby unregulated waterbody)]. Some studies also
+tial comparator [i.e., similar sections of the same water-                        used a gradient of intervention intensity design includ-
+body with no intervention or the base flow level (i.e.,                           ing “zero-control”-sites (CI-gradient; 4% of cases), with a
+upstream or downstream condition), or separate but                                similar proportion of comparator types as with CI design
+
+Rytwinski et al. Environ Evid       (2020) 9:7                                                                                             Page 12 of 26
+  Fig. 4 Geographical distribution of evidence, displaying the number of cases per province/state, within the three most studied countries a
+  Australia, b Canada, and c USA
+  Fig. 5 The number of cases per study design in relation to the type of comparator used. Comparator type: NONE: no comparator; NOINT: no
+  intervention (i.e., no change in a flow component or the base level of a flow component); ALT: alternative intervention; ALTUNSPEC: alternative
+  intervention for studies that do not specify a particular component of flow; UNREG: an unregulated waterbody for studies that do not specify a
+  particular component of flow; UNCLEAR: unclear comparator type. Codes for study designs are detailed in Table 1. Data labels are placed on study
+  designs that accounted for < 1% of included cases
+
+Rytwinski et al. Environ Evid    (2020) 9:7                                                                                             Page 13 of 26
+studies, or an alternative level CI design (ALT-CI; 7% of                        spread samples evenly across clear potential confound-
+cases) using a comparator that was not no intervention or                        ers, and over half (55% of cases) reported no other
+base flow level but a different flow condition (an isolated                      evident sources of bias (e.g., unplanned human altera-
+or unspecified component of flow) (Fig. 5). Relatively few                       tions, floods, droughts, or substantial spatial separation
+studies used a BACI (both temporal and spatial compara-                          between impact and control sites) (Fig. 7). Overall, few
+tors; 3% of cases), an incomplete BACI (either a tempo-                          cases (20%) received a ‘yes’ or ‘partially’ for all criteria.
+ral or spatial comparator; < 1% of cases), or multiple time                         The most common unit of analysis for which the inter-
+periods after a change/modification of flow (A-only; < 1%                        vention was administered/the exposure experienced
+of cases) or multiple impact sites (I-only) that had no                          was at the level of temporal periods (47% of cases), the
+comparators (Fig. 5).                                                            majority of which were trends across time with no true
+   Study duration (i.e., years for which outcome data were                       before intervention time period(s) and therefore consid-
+collected/evaluated) varied across studies included in the                       ered unreplicated (72% of temporal cases; Fig. 8). When
+map (Fig. 6). Most of the studies reported outcome data                          temporal comparators were used (i.e., BA designs), most
+for ≤ 4 years (58% of studies), the majority of which were                       were between year comparison (e.g., outcome means and
+for 2 years. A number of studies either failed to report                         variances were from averaging across before and after
+study duration (3% of studies) or study length/dates were                        year time periods; sample size was the number of years
+reported in some manner but were exceptionally unclear                           for each group) versus within year (e.g., daily or monthly
+(2% of studies). Note, only study duration was captured                          outcome averages, usually within a single season/year)
+here, not the interval for which collections/evaluations                         (18% vs. 6% of cases, respectively). Studies used spatial
+were taken.                                                                      units of analysis in 25% of cases, and most often without
+                                                                                 true comparators (i.e., spatial TRENDS, ALT-CI) (68%
+Study validity assessment                                                        of spatial cases; Fig. 8). More studies used true spatial
+Relatively few studies used both spatial and temporal                            replication (e.g., the level of replication was at the entire
+comparators (i.e., BACI; 3% of cases) or one comparator                          waterbody) rather than pseudoreplication [e.g., outcome
+(i.e., BA, CI, CI-gradient, INCOM-BACI, ALT-CI; 31% of                           means and variances were obtained from averaging
+cases); most used study designs with no true compara-                            across multiple (relatively) small areas in close proximity
+tors (i.e., TRENDS, A-only, I-only; 65% of cases) (Fig. 7).                      to each other within a single waterbody; see Additional
+Close to one-third (31%) of cases deployed some form                             file 3 for further details] (17% vs. 12% of cases, respec-
+of a randomised selection procedure or deliberately                              tively; Fig. 8). When both spatial and temporal units
+  Fig. 6 The number of studies (out of 1368) in relation to study duration (i.e., years for which outcome data was collected/evaluated)
+
+Rytwinski et al. Environ Evid   (2020) 9:7                                               Page 14 of 26
+  Fig. 7 Outcome of the study validity assessment
+  Fig. 8 The number of cases per unit of analysis in relation to the type of replication
+
+Rytwinski et al. Environ Evid (2020) 9:7                                                                        Page 15 of 26
+of analyses were used (i.e., BACI designs), most cases        naturally caused changes in flow regime) (Fig. 11), often
+used true spatial and between year temporal replication       in USA, Australia, and France (Fig. 12). Comparatively,
+(Fig. 8). A number of studies also used individual fish       few studies focused on causes related to experimental
+as the unit of analysis (e.g., when outcome metrics were      manipulations often conducted in a laboratory setting
+related to growth and performance) (23% of cases; Fig. 8).    (‘Other’ causes in Fig. 11), water abstraction or diver-
+                                                              sions, restoration activities (e.g., dam removal, water
+Population                                                    input for restoration of flow) and land-use changes (e.g.,
+Studies that were included in the map investigated the        highway construction, forest clear cutting). Additionally,
+effect of flow-regime changes on 2115 fish species from       there were many studies that did not provide clear infor-
+787 genera and 195 families (see Additional file 7 for a      mation on the cause of altered flows (Fig. 11).
+list of associated synonyms of species names used in            The majority of evidence was centered on evaluating
+included studies). Salmonidae were the most common            changes in fish productivity due to changes in magni-
+family studied including most frequently Oncorhynchus,        tude of flow caused by natural (e.g. flood, drought) and
+Salmo, Salvelinus, Thymallus, and Prosopium (Fig. 9).         anthropogenic (e.g. dams, hydroelectric) agents (Fig. 11).
+Many studies also targeted fish from the Cyprinidae fam-      Other commonly studied intervention types were surro-
+ily, most often from genera Cyprinus, Notropis, Pime-         gate measures of flow regime change [e.g., water depth,
+phales, Cyprinella, and Carassius (Fig. 9).                   velocity, area, flow stage (water level above an arbitrary
+   The vast majority of studies conducted species-specific    point)], and unspecified component(s) of flow regime,
+investigations i.e., provided data for individual species     where for example, a study compared an unregulated
+rather than grouped/pooled species into broader catego-       stream (or section of a stream) to a regulated stream but
+ries [94% of studies (1292/1368)]. Of those studies that      did not include an actual component of flow such as mag-
+conducted species-specific investigations, most targeted      nitude or rate of change, or there were multiple compo-
+1 species [48% of studies (622/1292)], but the number of      nents affecting flow (i.e., the study did not report effects
+focal species ranged from 1 to 913 (8.24 ± 0.809 SE). Of      of components separately to isolate individual effects of
+those studies that targeted a single focal species, most      components) (Fig. 11). Relatively fewer studies focused
+species were Atlantic Salmon (Salmo salar, 69/622 stud-       on changes to (or manipulations of ) flow duration, fre-
+ies), Sea Trout (S. trutta morpha trutta, 69 studies), Chi-   quency, rate of change, or timing (Fig. 11).
+nook Salmon (Oncorhynchus tshawytscha, 53 studies),
+Rainbow Trout/Steelhead (O. mykiss, 30 studies), Euro-        Measured outcomes
+pean Eel (Anguilla anguilla, 19 studies), and Brook Trout     Reported outcome measures were numerous and quite
+(Salvelinus fontinalis, 17 studies).                          variable. As a result, responses were grouped into six
+   When reported, most studies were conducted on              broad outcome categories related to fish productiv-
+adult fish (378 cases), followed by juveniles (e.g., age 1+,  ity: growth, survival, individual performance, migra-
+smolts, 317 cases) and age 0 fish (e.g., fry, YOY, 228 cases) tion, reproduction, and productivity (Table 3). Within
+(Fig. 10).                                                    each outcome category, metrics were grouped into more
+                                                              closely related outcome sub-categories (Table 3). Out-
+Causes of and changes in/modifications to flow regime         come metrics related most directly to fish productivity
+(intervention/exposure types)                                 or production in general were the most frequently stud-
+A number of natural and anthropogenic causes of modi-         ied (59% of cases), with the majority focusing on abun-
+fication in flow regimes were described in the literature     dance and diversity sub-category metrics. There were
+(Fig. 11). The most studied causes were natural (e.g.,        also a number of studies that focused on metrics related
+floods, droughts, seasonal changes, climate change),          to growth (e.g., changes in fish mass or length, somatic
+hydroelectric facilities, and dams with no hydroelectric      condition), migration (e.g., number of migrants, fish pas-
+facilities (Fig. 11). Natural and dam with no hydro causes    sage success), and reproduction (e.g., number of spawn-
+were most frequently studied in USA, Canada, Australia,       ing adults, egg abundance, egg-to-fry survival) (Table 3).
+and the United Kingdom (UK), whereas changes in flow          Comparatively, few studies focused on outcome metrics
+from hydroelectric facilities were examined most often        related to survival (e.g., beyond age 0 survival or mor-
+in USA, Canada, Russia, and China (Fig. 12). There were       tality) and individual performance [e.g., swimming per-
+also a number of studies that examined flow-regime            formance, activity level or measures of metabolic rate,
+changes due to multiple causes (e.g., land-use changes        sub-lethal stress indicators (e.g., vent rate, glutathione-S-
+along with water extraction, hydroelectric facilities with    transferase (GST) activity)] (Table 3).
+
+Rytwinski et al. Environ Evid    (2020) 9:7                                                                                           Page 16 of 26
+  Fig. 9 The number of cases for the five most commonly studied families and genera therein. The number of cases per family is shown in brackets
+  adjacent to the family name
+
+Rytwinski et al. Environ Evid        (2020) 9:7                                                                                                   Page 17 of 26
+  Fig. 10 The number of cases in relation to fish life history stage. Egg: eggs, nests/redds; Larval: larvae, alevins, free embryos; Age 0: fry, parr (0+),
+  Age 0+, YOY; Juvenile: age 1+, parr (1+), juvenile, fingerling, smolt; Adult: adult, spawner, kelt; Mixed: assortment of life stages (combined);
+  Various: > 2 life stages reported separately for at least one outcome
+  Fig. 11 The number of cases per cause of a change in/modification to flow regime in relation to intervention/exposure types. Other: experimental
+  manipulations that were not related to any other cause of a change in/modification to flow regime
+
+Rytwinski et al. Environ Evid      (2020) 9:7                                                                                                Page 18 of 26
+  Fig. 12 The number of cases performed in different countries separated by the cause of a change in/modification to flow regime within a Europe/
+  Asia, Africa, Asia, and South America, b Europe, c North America and Oceania. Note, the x-axis difference in scales between (a, b) and (c)
+Intersection of flow‑regime changes and fish productivity                    diversity, age-class structure), migration (i.e., number
+outcomes                                                                     of migrants, fish passage success, speed), and growth
+Figures 13 and 14 present visual heatmaps of the dis-                        (i.e., mass) (Fig. 13). Natural causes of changes in flow
+tributions and frequencies of examined effects of flow-                      showed similar patterns in study focus as hydroelectric
+regime changes (grouped by the cause of such change)                         causes, but had higher occurrence of evidence for these
+on fish productivity outcomes. In this matrix of counts                      concentrations (Fig. 14).
+(cases), darker coloured cells indicate higher frequency                         Studies examining changes in flow regime due to mul-
+of occurrences of evidence, while lighter colours show                       tiple causes primarily focused on relationships between
+lower occurrences.                                                           changes in magnitude, surrogate measures, and unspeci-
+   Focusing on dam (with no hydroelectric facili-                            fied components of flow, and fish abundance and diver-
+ties) related changes in flow, most studies examined                         sity metrics (Fig. 14).
+the effects of changes in magnitude and unspecified                              Overall relatively few studies focused on examining
+components of flow on fish productivity metrics, in                          changes in fish productivity due to other forms of experi-
+particular abundance and diversity outcomes, with                            mental flow manipulations (e.g., most often studies con-
+comparatively few exploring relationships between                            ducted in a laboratory setting) (Fig. 14). However, there
+altered flows (any intervention types) and fish survival                     was a high occurrence of studies that investigated changes
+or performance outcomes (Fig. 13).                                           in surrogate measures, frequently water velocity and/
+   Of all causes of altered flows, hydroelectric related                     or depth, and outcomes measured at the individual fish
+flow-regime changes appeared to have the largest                             level such as growth and performance metrics, in particu-
+distribution of studies across interventions and fish                        lar, swimming performance (Fig. 14). Studies focusing on
+outcomes (Figs. 13 and 14). There were clear concen-                         effects of alterations of flow regime on fish outcomes due
+trations of evidence for alterations in magnitude and                        to water abstraction or diversions, restoration activities
+fish productivity outcomes (i.e., abundance, biomass,                        and land-use changes were less studied (Fig. 13).
+
+Rytwinski et al. Environ Evid       (2020) 9:7                                                                                                    Page 19 of 26
+Table 3 Outcome categories and sub-categories used to measure a change in fish productivity
+Outcome categories                Outcome sub-categories and definitions
+Growth (576)                      Mass (414)                        Mass, length; by age class
+                                  Condition (125)                   Condition (somatic)
+                                  Foraging (37)                     Foraging success e.g., mean energy intake, % stomach fullness
+Survival (159)                    Survival (95)                     Survival (beyond age 0)
+                                  Mortality (64)                    Mortality (beyond age 0)
+Performance (individual) (114) Stress (16)                          Sub-lethal stress (only if direct response to altered flow) e.g., vent rate/respiration
+                                                                      frequency, glutathione-S-transferase activity, catalase activity, activity of 7-ethoxyre-
+                                                                      sorufin O-deethylase, cortisol/glucose levels
+                                  Energy (48)                       Activity level, energy expenditure (fish behaviour–movement in high/low flow), costs
+                                                                      of swimming, any measure of metabolic rate (e.g., rate of energy expenditure per
+                                                                      unit time) or indicator thereof in order to include changes in metabolism (e.g., field
+                                                                      metabolism measured in carbon isotope 13)
+                                  Swimming (50)                     Swimming performance including ability to maintain position in different flows e.g.,
+                                                                      magnitude of thrust, swim speed/velocity
+Migration (474)                   Passage (101)                     Metrics related to fish passage or success, including probability of migration over a
+                                                                      dam or through migration route
+                                  Passage (survival) (12)           Studies that consider loss or survival during passage
+                                  Speed (83)                        Migration speed, net ground speed
+                                  Abundance (211)                   Abundance or numbers of fish e.g., number of migrants (river entry), or number of
+                                                                      successful migrants
+                                  Abundance (escapement) (67) Biological definition of escapement i.e., number of fish in a run/migration that are
+                                                                      able to return to the spawning ground or other important habitat, that do not get
+                                                                      stopped/removed by any barriers during migration and are available to support the
+                                                                      population into future years
+Reproduction (332)                Maturation (13)                   Adult maturation success
+                                  Survival (84)                     Redds/nest, egg, larval, fry, age 0, YOY survival (inclusive)
+                                  Spawning (106)                    Spawning events e.g., number of spawning days, spawning periods, number of
+                                                                      spawning adults
+                                  Spawning (abundance) (96)         Egg abundance, number of eggs deposited/spawned, egg density during spawning
+                                                                      (may include other age groups if directly linked to spawning)
+                                  Fecundity (33)                    Metrics related to fecundity
+Productivity (2402)               Biomass (239)                     Metrics related to biomass, yield
+                                  Abundance (1031)                  Abundance, density, CPUE (total numbers, of just 1 age class), presence/absence,
+                                                                      number of eggs when eggs are considered an age class and not part of a spawning
+                                                                      event
+                                  Abundance (escapement) (1)        Fisheries definition of escapement i.e., the number of fish in a fishery that manage to
+                                                                      get out of the fishery (leave the lake and are unavailable to fishers)
+                                  Diversity (567)                   Diversity, richness, composition
+                                  Structure (266)                   Age class structure of population (numbers for > 1 age class) or length-frequency
+                                                                      distribution i.e., replication is not individuals
+                                  Population viability (22)         Population viability, persistence, sustainability, genetic diversity (within species),
+                                                                      number of hybrids (if linked to genetic diversity, otherwise hybrids are included like
+                                                                      any other fish under abundance)
+                                  Recruitment (197)                 Recruitment metrics e.g., density of fry recruiting into adult population
+                                  Other (79)                        E.g., production, turn-over
+The number of cases per category and sub-category are shown in brackets
+Limitations of the map                                                             outcomes was such that this review may not be consid-
+Limitations of the map due to the search strategy                                  ered completely exhaustive (i.e., some terms may have
+The search strategy used to generate this map was                                  been missed that could result in bias in our evidence
+designed to capture the breadth of relevant topics;                                map). For example, in general, there were relatively
+however, the diversity of terminology used for measur-                             few studies evaluating effects of changes in duration,
+ing changes in flow regime as well as fish productivity                            frequency, rate of change or timing on any outcome
+
+Rytwinski et al. Environ Evid    (2020) 9:7                                                                                           Page 20 of 26
+  Fig. 13 Distribution and frequency of cases examining effects of flow-regime changes (grouped by the cause of such change; 5 of the 9 possible
+  causes—see Fig. 14 for remaining causes) on fish productivity outcome categories and sub-categories
+category. In our search string, we used relatively few                       articles were relevant, the included terms were found to
+intervention/exposure terms (i.e., Flow* OR Discharg*).                      be redundant with the terms flow and/or discharge that
+However, we did carefully scope our search string for                        were also used in the same article’s title, abstract, and/or
+intervention terms by including terms such as: Regime$,                      key words.
+Magnitude, Ramp*, Frequenc*, Duration$, Flash*, Peak*.                         Additionally, there were relatively few studies captured
+Although these inclusions of terms resulted in more hits,                    in the map on restoration, land-use change, or water
+more often than not, these articles were irrelevant. When                    extraction/diversion. Two of these relevant causes of flow
+
+Rytwinski et al. Environ Evid     (2020) 9:7                                                                                        Page 21 of 26
+  Fig. 14 Continued distribution and frequency of cases examining effects of flow-regime changes (grouped by the 4 remaining causes of such
+  change) on fish productivity outcome categories and sub-categories
+regime change were identified during the review process                     therefore, it is likely that this represents a ‘real’ gap in
+(i.e., restoration and land-use change), which did not have                 knowledge.
+specific terms originally considered in our search string.                      An obvious consideration of this map is that the search
+Including these terms in a post hoc test in Web of Science                  was limited to English language literature. We recog-
+Core Collection (WoSCC) added 68 hits to the original                       nize that a substantial volume of literature likely exists in
+10,160 hits. With a final inclusion rate of 6.3% relative to                other languages, for example in French, Chinese, Spanish;
+the WoSCC search results, we might predict 4 of these                       however, we did not have the resources to conduct these
+articles could be relevant to the review. Therefore, it does                searches. A total of 62 non-English articles were identi-
+not appear that our search omitted a large proportion of                    fied by our search strategy (i.e., had English abstracts) but
+the available literature. However, future updates to this                   were excluded (French, 19; Chinese 15; Spanish, 7; Ger-
+map may consider including these additional terms in                        man, 5; Japanese, 5; Norwegian, 5, Russian, 2; Greek, Pol-
+search for novel evidence. For water abstraction/extrac-                    ish, Portuguese, Slovak, 1 each respectively). It is unclear
+tion/diversion, search terms where included and scoped                      how many of these articles would have met all the inclu-
+in our original search (i.e., Withdraw* OR Diversion$);                     sion criteria; however still, the ability to include these
+
+Rytwinski et al. Environ Evid (2020) 9:7                                                                         Page 22 of 26
+untranslated articles would add strength to the accuracy        freshwater and estuarine fluvial environments in temper-
+of the map and any resultant syntheses.                         ate regions. We identified a total of 1199 articles describ-
+                                                                ing 1368 studies of changes to (or manipulations of) flow
+Limitations of the evidence base                                regime. Documented changes of flow regime were a result
+Due to the scope of the topic and the highly heteroge-          of various anthropogenic and natural causes, spanning a
+neous nature of the studies, this systematic map did not        range of north and south temperate regions (43 countries).
+conduct a formal in-depth critical appraisal of internal        Studies aimed at assessing the potential effect of flow alter-
+validity. Instead, meta-data on aspects of study design         ations on fish productivity outcomes focused on 2115 spe-
+and site selection were extracted from included studies         cies from 787 genera and 195 families, and the reported
+to provide a very basic overview of the robustness of the       outcomes were numerous and heterogenous, with 6 broad
+evidence. It should be noted that the primary purpose of        outcome groups and 26 sub-categories identified. This
+extracting this meta-data was to aid future more in-depth       map reveals a number of knowledge gaps and biases in the
+study validity assessments and synthesis of studies on          current evidence base, including clear concentrations of
+sub-topics of interest identified from this systematic map      research efforts on particular geographical locations, and
+exercise. Nevertheless, a few aspects of the evidence base      measured effects between intervention and outcome types.
+were highlighted during this process.
+   For example, many studies lacked true comparators            Implication for policy and management
+(Figs. 5 and 7). The vast majority of studies either used a     The outputs from this systematic map (i.e., the map data-
+temporal or spatial trend design i.e., looked at the rela-      base and heatmap) provide an up-to date global picture of
+tionship (e.g., correlations) between fish productivity and     the available evidence on the measured effects between
+changes to flow across time but without a ‘true’ before         flow-regime changes and fish productivity outcomes.
+intervention time period, or spatial trends that do not         Given that the importance of flow management to achieve
+include no intervention (“zero-control”) sites. Without an      ecosystem goals has recently become a primary focus for
+appropriate comparator, it is unclear whether any observed      water resource managers [8], these outputs provide a first
+change in an outcome can be attributed to the interven-         step towards improving our understanding of the flow-
+tion. Also, relatively few studies used a randomised selec-     ecosystem response for fish populations. Water resource
+tion procedure or deliberately spread samples evenly across     and fish habitat managers may find the map useful to: (1)
+clear potential confounders (Fig. 7). Random selection or       provide an indication of the extent of the current evidence
+site selection to reduce potential confounders is critical for  base and help in deciding whether to further extract rel-
+the correct interpretation of the impact of the intervention    evant information on more specific aspects of the subject
+[28, 35–37]. Without this, it is unclear whether the appar-     for questions of national or regional importance and/
+ent intervention effect is due to the intervention itself or to or urgency (e.g., time-sensitive issues that need answers
+differences between sampled sites.                              quickly or species-specific questions); and (2) help identify
+   This limited information on study validity only pro-         areas where there may be sufficient coverage on a specific
+vides hints of methodological deficiencies. Without hav-        policy-relevant question to permit a full systematic review
+ing done an in-depth study validity assessment on the           (see “Knowledge clusters” section below).
+included studies, we cannot provide a clear picture of the
+overall reliability of the evidence base or discern whether     Implication for research
+there are sufficient high-quality quantitative data to allow    Knowledge gaps
+for meta-analyses in any future resultant syntheses.            This map identifies a number of understudied subtopics
+   We estimated 12% (167 out of the 1368 studies) of the        of relevant concern to water resource managers that may
+included studies would require contacting authors to            correspond to knowledge gaps, which could benefit from
+obtain necessary data for quantitative analysis because         primary research (presented in no particular order).
+the authors combined outcome data for species, sites,
+and/or years. This estimate does not consider miss-                1. Clear gaps in geographic coverage for studies in
+ing quantitative data such as variances or samples sizes              Northern Africa, and parts of Western, Central and
+needed for effect size measures as this information was               South Asia; however, we are unclear whether gaps
+not noted with the map.                                               in Asia are true knowledge gaps or due to a language
+                                                                      bias in the map.
+Conclusions                                                        2. Effects of flow-regime changes (all intervention
+The systematic map presented here provides an overview                types) due to restoration, land-use change, and water
+of existing evidence evaluating the effects of flow altera-           abstraction/extraction/diversion activities on fish
+tion, changes, or modifications on fish productivity in               productivity (all outcomes categories).
+
+Rytwinski et al. Environ Evid (2020) 9:7                                                                         Page 23 of 26
+  3. Effects of changes to (or manipulations of ) flow dura-      7. How do natural changes in flow magnitude affect
+     tion, frequency, rate of change, or timing on fish pro-          fish diversity and richness? (68 cases, ~ 78% lacking
+     ductivity (all causes, all outcomes).                            true comparators).
+  4. Effects of changes to (or manipulations of ) flow mag-       8. How do natural changes in flow magnitude affect
+     nitude due to dams (no hydro) on metrics related to              fish structure (i.e., age-class or length frequency
+     fish growth, survival, performance, migration, and               distribution)? (45 cases, ~ 82% lacking true compar-
+     reproduction.                                                    ators).
+  5. Effects of changes to (or manipulations of ) flow            9. How do natural changes in flow magnitude affect
+     magnitude due to hydroelectric facilities and natu-              fish recruitment? (52 cases, ~ 98% lacking true
+     ral causes on metrics related to fish survival, perfor-          comparators).
+     mance, and reproduction.                                    10. How do natural changes in flow magnitude affect
+  6. Effects of changes to (or manipulations/alterations              the abundance of migrating fish? (41 cases, ~ 98%
+     of ) flow (all causes, all interventions) on population          lacking true comparators).
+     viability.                                                  11. How do natural changes in flow magnitude
+                                                                      affect fish growth (i.e., mass/length by age)? (81
+Knowledge clusters                                                    cases, ~ 85% lacking true comparators).
+This map suggests a number of subtopics that may war-
+rant future evidence synthesis. The following questions,         For identified subtopics 1–5, studies were primarily
+grouped by cause of flow-regime changes, have suitable        concentrated in North America, and to a lesser extent in
+numbers to permit full systematic reviewing, although         Europe, whereas for subtopics 6–11, studies were primar-
+the majority relate to evidence that, in general, has been    ily concentrated in North America, and to a lesser extent
+coarsely assessed as being susceptible to bias (i.e., used    in Europe and Oceania, with relatively few studies con-
+trend designs that lack true comparators):                    ducted elsewhere, limiting geographical scope of subtop-
+                                                              ics beyond these areas.
+Dams with no hydroelectric facilities                            For identified subtopics related to natural causes (i.e.,
+                                                              6–11), most studies use a temporal trends design that
+  1. How do changes in flow magnitude due to dams with        looked at the relationship (e.g., correlations) between
+     no hydroelectric facilities affect fish abundance? (46   fish productivity and changes to flow across time but
+     cases, ~ 50% lacking true comparators).                  without a ‘true’ before intervention time period. While
+                                                              quantitative study designs using comparators are criti-
+Hydroelectric facilities                                      cally important to ensure reliability and robustness
+                                                              of evidence for impacts of interventions, arguments
+  2. How do changes in flow magnitude due to hydro-           can be made regarding potentially important insights
+     electric dams affect fish abundance? (74 cases, ~ 40%    that could be gained from studies that look at trends
+     lacking true comparators).                               over time that do not have proper comparators (when
+  3. How do changes in flow magnitude due to hydro-           accompanied with an appropriate consideration for
+     electric dams affect fish diversity and richness? (36    study validity). For example, there been several cases
+     cases, ~ 25% lacking true comparators).                  in which relatively unstructured, long-term monitor-
+  4. How do changes in flow magnitude due to hydro-           ing has led to the discovery of ecological change or
+     electric dams affect fish migration metrics? [metrics    corroboration of hypotheses for a variety of ecologi-
+     related to Passage (32 cases), Speed (29), Abundance     cal phenomena and conservation issues (e.g., [38–40]).
+     (42) with ~ 65%, 62% and 67% lacking true compara-       Here, for example, one could explore changes in flow
+     tors respectively].                                      magnitude over time in different regions with time
+  5. How do changes in flow magnitude due to hydroelec-       series analysis to address the question: What is the rela-
+     tric dams affect fish growth (i.e., mass/length by age)? tionship between natural changes in flow magnitude
+     (39 cases, ~ 40% lacking true comparators).              and fish abundance? Potential sources of heterogeneity
+                                                              related to regional climatic differences and/or physi-
+Natural causes                                                cal characteristics of the catchment at these locations
+                                                              could also be investigated. We acknowledge there are
+   6. How do natural changes in flow magnitude affect         possible logistical challenges involved with such an
+        fish abundance? (188 cases, ~ 81% lacking true        undertaking. First, this would require obtaining raw
+        comparators).                                         data from most studies for proper assessment, and pos-
+                                                              sibly limit the number of studies that can be included if
+
+Rytwinski et al. Environ Evid (2020) 9:7                                                                                              Page 24 of 26
+the response rate from authors is low. Second, extreme        Supplementary information
+flow characteristics are often influenced substantially       Supplementary information accompanies this paper at https​://doi.
+by the temporal and spatial extent of the observation         org/10.1186/s1375​0-020-00190​-z.
+records [41, 42], and definitions and quantifications of
+flow events are highly variably (see Garner et al. [43]),        Additional file 1. Search strategy and results. A description of our search
+                                                                 strategy and the results of the literature searches. For each source, we pro-
+making standardization across studies challenging.               vide full details on the search date(s), search strings used, search settings/
+Nevertheless, with careful consideration for these chal-         restrictions, and subscriptions (if applicable), and the number of returns.
+lenges, these studies could further contribute useful            Additional file 2. Lists of articles excluded on the basis of full-text assess-
+information and provide a more comprehensive knowl-              ment with reasons for exclusion and unobtainable articles. Separate lists
+edge base on the subject.                                        of articles excluded on the basis of full-text assessment and articles that
+                                                                 were unobtainable.
+  It should also be noted that the choice of outcome
+                                                                 Additional file 3. Additional study validity assessment details related to
+(Table 3) to act as a surrogate or indicator of fish produc-     degree of replication. We provide additional information as to how we
+tivity is typically based on project objectives (e.g., impact    evaluated studies for their degree of true replication for study validity
+on individuals, population, community), the site char-           assessments.
+acteristics (e.g., open or closed system, stream vs. river),     Additional file 4. Systematic map database. Contains the coding
+                                                                 (extracted data) for all articles/studies included in the map. Includes a
+and the species or community to be sampled. Indicators           description of the coding form, the actual coding of all articles/studies,
+vary in their sensitivity or response to a change in the         and a codes sheet.
+environment, and in their specificity, natural variability,      Additional file 5. List of relevant reviews. A full list of all relevant reviews.
+response time, ease of measurement and cost, all factors         Additional file 6. ROSES Systematic map checklist.
+which should be considered in their selection for an indi-       Additional file 7. List of associated synonyms of species names and
+vidual study [44]. Thus, when conducting a comparative           irregularities used in included studies. Here we provide lists of associ-
+analysis among disparate studies (such as in a meta-anal-        ated synonyms of species names used in included studies as well as
+                                                                 irregularities.
+ysis), a range of indicators could be available that may or
+may not be suitable for combination. For example, com-
+bining indicators of individual components of productiv-      Acknowledgements
+                                                              The authors would like to thank Daniel Struthers for help with website
+ity such as growth, survival, reproduction, or individual     searches and pdf retrieval. We also thank Shannon Clarke, D. Struthers, Emily
+performance (see Bradford et al. [45]) in a meta-analysis     Way-Nee, Teah Lizee, Jill Brooks, and Laura Elmer for assisting with screening
+with indicators of fish populations (e.g., abundance, bio-    of articles and websites. We also thank the reviewers for their constructive
+                                                              comments.
+mass, diversity) would not be suitable. In addition, even
+when dealing with similarly-scaled indicators, care must      Authors’ contributions
+be taken to ensure they are suitable for comparison. For      TR undertook the searches, screening, and TR and MH conducted coding of
+                                                              articles and study validity assessments. This review is based on a draft written
+example, the population level metric of ‘abundance’ could     by TR. MH participated in the drafting and revision of the manuscript. All
+include simple count data with no correction for effort or    authors assisted in the design of protocol methodology, editing and revising
+detection probability, relative count data such as catch-     the manuscript. All authors read and approved the final manuscript.
+per-unit-effort, or absolute density estimated from a         Funding
+mark-recapture study (i.e., #/unit area). These measures      The study was primarily supported by Fisheries and Oceans Canada. Addi-
+have different levels of precision in their relationship to   tional support is provided by the Natural Science and Engineering Research
+                                                              Council of Canada, The Canada Research Chairs Program, and Carleton
+productivity. Therefore, all of the factors listed above      University.
+should be carefully considered when combining data into
+a quantitative analysis.                                      Availability of data and materials
+                                                              All data generated or analysed during this study are included in this published
+  In general, with this map a significant proportion of       article and additional files. A ROSES form [46] for this systematic map report is
+the work has been completed towards producing full            included as Additional file 6.
+systematic reviews; the time-consuming stages of full
+                                                              Ethics approval and consent to participate
+systematic review have been completed (i.e., search-          Not applicable.
+ing, screening, and meta-data extraction of full-texts).
+Remaining work for the above questions: (1) updated           Consent for publication
+                                                              Not applicable.
+search, including calls for evidence in search of novel
+evidence pertinent to the review questions above;             Competing interests
+(2) screening of novel evidence found from updated            The authors declare that they have no competing interests.
+search; (3) full data extraction (to supplement extracted     Author details
+meta-data from map); (4) full study validity assessment;      1
+                                                                Canadian Centre for Evidence‑Based Conservation, Institute of Environ-
+and (5) quantitative synthesis when possible.                 mental and Interdisciplinary Science, Carleton University, Ottawa, ON,
+                                                              Canada. 2 Fish Ecology and Conservation Physiology Laboratory, Department
+                                                              of Biology, Carleton University, Ottawa, ON, Canada. 3 Department of Biology
+
+Rytwinski et al. Environ Evid            (2020) 9:7                                                                                                   Page 25 of 26
+and Institute of Environmental and Interdisciplinary Science, Carleton Univer-   21. Webb JA, Miller KA, King EL, de Little SC, Stewardson MJ, Zimmerman
+sity, Ottawa, ON, Canada. 4 Great Lakes Laboratory for Fisheries and Aquatic         JKH, Poff NL. Squeezing the most out of existing literature: a systematic
+Sciences, Fisheries and Oceans Canada, Sault Ste. Marie, ON, Canada.                 re-analysis of published evidence on ecological responses to altered
+5
+  Northwest Atlantic Fisheries Centre, Fisheries and Oceans Canada, St. John’s,      flows. Freshw Biol. 2013;58:2439–51.
+NF, Canada. 6 West Vancouver Laboratory, Fisheries and Oceans Canada, West       22. Haxton T, Findlay CS. Meta-analysis of the impacts of water management
+Vancouver, BC, Canada. 7 Freshwater Institute, Fisheries and Oceans Canada,          on aquatic communities. Can J Fish Aquat Sci. 2010;65(3):437–47.
+501 University Cres, Winnipeg, MB, Canada. 8 School of Aquatic and Fishery       23. Scruton DA, Clarke KD, Roberge MM, Kelly JF, Dawe MB. A case study of
+Sciences, University of Washington, Seattle, WA, USA. 9 Départment de sci-           habitat compensation to ameliorate impacts of hydroelectric develop-
+ences biologiques, Université de Montréal, Montréal, QC, Canada.                     ment: effectiveness of re-watering and habitat enhancement of an
+                                                                                     intermittent flood overflow channel. J Fish Biol. 2005;67:244–60.
+Received: 1 November 2019 Accepted: 7 April 2020                                 24. King J, Brown C. Environmental flows: striking the balance between
+                                                                                     development and resource protection. Ecol Soc. 2006;11:26.
+                                                                                 25. Pittock J, Lankford BA. Environmental water requirements: demand man-
+                                                                                     agement in an era of water scarcity. J Integr Environ Sci. 2010;7:75–93.
+                                                                                 26. Tonkin JD, Poff NL, Bond NR, Horne A, Merritt DM, Olden JD, et al. Prepar-
+References                                                                           ing river ecosystems for an uncertain future. Nature. 2019;570:301–3.
+1. Power ME, Sun A, Parker G, Dietrich WE, Wootton JT. Hydraulic food-chain      27. Rytwinski T, Taylor JJ, Bennett JR, Smokorowski KE, Cooke SJ. What are the
+      models. Bioscience. 1995;45:159–67.                                            impacts of flow regime changes on fish productivity? A systematic map
+2. Poff NL, Allan JD, Bain MB, Karr JR, Prestegaard KL, Richter BD, et al. The       protocol. Environ Evid. 2017;6:13.
+      natural flow regime: a paradigm for river conservation and restoration.    28. Collaboration for Environmental Evidence. In: Pullin AS, Frampton GK,
+      Bioscience. 1997;47:769–84.                                                    Livoreil B, Petrokofsky G, editors. Guidelines and standards for evidence
+3. Bunn SE, Arthington AH. Basic principles and ecological consequences              synthesis in environmental management. Version 5.0. 2018. http://www.
+      of altered flow regimes for aquatic biodiversity. Environ Manag.               envir​onmen​talev​idenc​e.org/infor​matio​n-for-autho​rs. Accessed 31 May
+      2002;30:492–507.                                                               2018.
+4. Olden JD, Poff NL. Redundancy and the choice of hydrologic indices for        29. Rytwinski T, Taylor JJ, Donaldson LA, Bennett JR, Hinch SG, Cooke SJ. Do
+      characterizing streamflow regimes. River Res Appl. 2003;19:101–21.             fish passage facilities and culverts promote fish movement at barriers? A
+5. Naiman RJ, Latterell JJ, Pettit NE, Olden JD. Flow variability and the bio-       systematic review protocol. Open Science Framework. 2018. https​://osf.
+      physical vitality of river systems. CR Geosci. 2008;340:629–43.                io/xvzbf​/. Accessed 30 Oct 2018.
+6. Lytle DA, Poff NL. Adaptation to natural flow regimes. Trends Ecol Evol.      30. Haddaway NR, Styles D, Pullin AS. Evidence on the environmental
+      2004;19:94–100.                                                                impacts of farm land abandonment in high altitude/mountain regions: a
+7. Mims MC, Olden JD. Life history theory predicts streamflow effects                systematic map. Environ Evid. 2014;3:17.
+      on fish assemblage response to hydrologic regimes. Ecology.                31. Cresswell CJ, Cunningham HM, Wilcox A, Randall NP. What specific plant
+      2012;2012(93):35–45.                                                           traits support ecosystem services such as pollination, bio-control and
+8. Gillespie BR, Desmet S, Kay P, Tillotson MR, Brown LE. A critical analysis of     water quality protection in temperate climates? a systematic map. Envi-
+      regulated river ecosystem responses to managed environmental flows             ron Evid. 2018;7:2.
+      from reservoirs. Freshw Biol. 2015;60:410–25.                              32. Froese R, Pauly D, editors. FishBase. 2019. http://www.fishb​ase.org.
+9. Grill G, Lehner B, Thieme M, Geenen B, Tickner D, Antonelli F, et al. Map-        Accessed June 2019.
+      ping the world’s free-flowing rivers. Nature. 2019;569:215–21.             33. Fricke R, Eschmeyer WN, Van der Laan R, editors. Eschemeyer’s catalog of
+10. Gleick PH. Global freshwater resources: soft-path solutions for the 21st         fishes: genera, species, references (electronic version). 2019. http://resea​
+      century. Science. 2003;302:1524–8.                                             rchar​chive​.calac​ademy​.org/resea​rch/ichth​yolog​y/catal​og/fishc​atmai​
+11. Enders EC, Scruton DA, Clarke KD. The ‘Natural Flow Paradigm’ and                n.asp. Accessed June 2019.
+      Atlantic salmon—moving from concept to practice. River Res Appl.           34. Haddaway NR, Macura B, Whaley P, Pullin AS. ROSES flow diagram for
+      2009;25:2–15.                                                                  systematic maps. Version 1.0. figshare. 2017. https​://doi.org/10.6084/
+12. Poff NL, Zimmerman JKH. Ecological responses to altered flow regimes: a          m9.figsh​are.60859​40.
+      literature review to inform the science and management of environmen-      35. Kunz R, Oxman AD. The unpredictability paradox: review of empiri-
+      tal flows. Freshw Biol. 2010;55:194–205.                                       cal comparisons of randomised and non-randomised trials. Br Med J.
+13. Junk WJ, Bayley PB, Sparks RE. The flood pulse concept in river-floodplain       1998;317:1185–90.
+      systems. In: Proceedings of the international large river symposium        36. Rytwinski T, van der Ree R, Cunnington G, Fahrig L, Findlay S, Houlahan
+      (LARS)—Can Spec Publ Fish Aquat Sci, vol. 106. 1989; p. 110–27.                J, Jaeger JAG, Soanes K, van der Grift EA. Experimental study designs to
+14. Lake PS. Disturbance, patchiness, and diversity in streams. J N Am Benthol       improve the evaluation of road mitigation measures for wildlife. J Environ
+      Soc. 2000;19:573–92.                                                           Manag. 2015;154:48–64.
+15. Resh VH, Brown AV, Covich AP, Gurtz ME, Li HW, Minshall GW, et al.           37. Cooke SJ, Birnie-Gauvin K, Lennox RJ, Taylor JJ, Rytwinski T, Rummer JL,
+      The role of disturbance in stream ecology. J N Am Benthol Soc.                 Franklin CE, Bennett JR, Haddaway NR. How experimental biology and
+      1988;7:433–55.                                                                 ecology can support evidence-based decision-making in conservation:
+16. Ledger ME, Milner AM. Extreme events in running waters. Freshw Biol.             avoiding pitfalls and enabling application. Conserv Physiol. 2017;5:1.
+      2015;60:2455–60.                                                           38. Doak DF, Estes JA, Halpern BS, Jacob U, Lindberg DR, Lovvorn J, et al.
+17. McManamay RA, Orth DJ, Kauffman J, Davis MM. A database and meta-                Understanding and predicting ecological dynamics: are major surprises
+      analysis of ecological responses to stream flow in the South Atlantic          inevitable? Ecology. 2008;89:952–61.
+      Region. Southeast Nat. 2013;12:1–36.                                       39. Wintle BA, Runge MC, Bekessy SA. Allocating monitoring effort in the face
+18. Piniewski M, Prudhomme C, Acreman MC, Tylec L, Oglȩcki P, Okruszko T.            of unknown unknowns. Ecol Lett. 2010;13:1325–77.
+      Responses of fish and invertebrates to floods and droughts in Europe.      40. Lindermayer DB, Likens GE, Andersen A, Bowman D, Bull CM, Burns E,
+      Ecohydrology. 2017;10:e1793.                                                   et al. Value of long-term ecological studies. Austral Ecol. 2012;37:745–57.
+19. Clark KD, Pratt TC, Randall RG, Scruton DA, Smokorowski KE. Validation of    41. Hannaford J, Buys G, Stahl K, Tallaksen LM. The influence of decadal-scale
+      the flow management pathway: effects of altered flow on fish habitat           variability on trends in long European streamflow records. Hydrol Earth
+      and fishes downstream from a hydropower dam. DFO CanTech Rep Fish              Syst Sci. 2013;17:2717–33.
+      Aquat Sci. 2008. http://www.dfo-mpo.gc.ca/Libra​ry/33211​3.pdf. Accessed   42. Hall J, Arheimer B, Borga M, Brázdil R, Claps P, Kiss A, et al. Understanding
+      6 Oct 2016.                                                                    flood regime changes in Europe: a state-of-the-art assessment. Hydrol
+20. Murchie KJ, Hair KPE, Pullen CE, Redpath TD, Stephens HR, Cooke SJ. Fish         Earth Syst Sci. 2014;18:2735–72.
+      response to modified flow regimes in regulated rivers: research methods,   43. Garner G, Van Loon AF, Prudhomme C, Hannah DM. Hydroclimatology of
+      effects and opportunities. River Res Appl. 2008;24:197–217.                    extreme river flows. Freshw Biol. 2015;60:2461–76.
+
+Rytwinski et al. Environ Evid       (2020) 9:7                                                                                                        Page 26 of 26
+44. Braun DC, Smokorowski KE, Bradford MJ, Glover L. A review of functional      46. Haddaway N, Macura B, Whaley P, Pullin A. ROSES for systematic map
+    monitoring methods to assess mitigation, restoration, and offsetting              reports. Version 1.0. figshare. 2017. https​://doi.org/10.6084/m9.figsh​
+    activities in Canada. Department of Fisheries and Oceans, Canadian Sci-           are.58972​99.
+    ence Advisory Secretariat Research Document; 2019. p. 57 vii + 75 p.
+45. Bradford MJ, Randall RG, Smokorowski KS, Keatley BE, Clarke KD. A
+    framework for assessing fisheries productivity for the Fisheries Protection Publisher’s Note
+    Program. Department of Fisheries and Oceans, Canadian Science Advi-         Springer Nature remains neutral with regard to jurisdictional claims in pub-
+    sory Secretariat Research Document; 2014. p. 67 v + 25 p.                   lished maps and institutional affiliations.
+                                                                                     Ready to submit your research ? Choose BMC and benefit from:
+                                                                                       • fast, convenient online submission
+                                                                                       • thorough peer review by experienced researchers in your field
+                                                                                       • rapid publication on acceptance
+                                                                                       • support for research data, including large and complex data types
+                                                                                       • gold Open Access which fosters wider collaboration and increased citations
+                                                                                       • maximum visibility for your research: over 100M website views per year
+                                                                                     At BMC, research is always in progress.
+                                                                                     Learn more biomedcentral.com/submissions
+

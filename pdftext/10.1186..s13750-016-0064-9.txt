@@ -1,0 +1,1441 @@
+Thorn et al. Environ Evid (2016) 5:13
+DOI 10.1186/s13750-016-0064-9                                                                                         Environmental Evidence
+  SYSTEMATIC MAP                                                                                                                                      Open Access
+What evidence exists for the
+effectiveness of on‑farm conservation land
+management strategies for preserving
+ecosystem services in developing countries? A
+systematic map
+Jessica P. R. Thorn1*, Rachel Friedman2, David Benz1, Kathy J. Willis1,4,5 and Gillian Petrokofsky1,3
+   Abstract
+   Background: An extensive body of evidence in the field of agro-ecology claims to show the positive effects that
+   maintenance of ecosystem services can have on meeting future food demand by making farms more sustainable,
+   productive and resilient, which then contributes to improved nutrition and livelihoods of farmers. However, inconsist-
+   ent effects have commonly been reported, while empirical evidence to support assumed improvements is largely
+   lacking. Overall, a coherent synthesis and review of the evidence of these claims is largely absent from the literature.
+   Methods: Systematic searches of peer-reviewed research were conducted in bibliographic databases of Web of
+   Science, SCOPUS, AGRICOLA, AGRIS databases and CAB abstracts, and grey literature from Google Scholar, and 32
+   subject-specific websites. Searches identified 21,147 articles. After screening, 746 studies were included in the final
+   map.
+   Results: Of the 19 conservation land management practices considered, soil fertilisation (24 %), tillage (23 %), agro-
+   forestry (9 %), and water conservation (7 %) were most commonly studied. Ecosystem services most commonly stud-
+   ied were supporting (55 %) and regulating (33 %), particularly carbon sequestration/storage, nutrient cycling and soil/
+   water regulation/supply. Key data gaps identified included the absence of long-term records (with datasets spanning
+   >20 years), studies located in North and Central Africa, research that focuses on smallholder landscapes, and studies
+   that span different scales (regional and landscape levels).
+   Conclusions: The study employs systematic mapping combined with an online interactive platform that geographi-
+   cally maps results, which allows users to interrogate different aspects of the evidence through a defined database
+   field structure. While studies are not directly comparable, the database of 746 studies brings together a previously
+   fragmented and multidisciplinary literature base, and collectively provides evidence concerning a wide range of con-
+   servation land management practices impacting key ecosystem services. The systematic map is easily updatable, and
+   may be extended for additional coding, analysed to assess the quality of studies, or used to inform future systematic
+   reviews.
+   Keywords: Agro-ecology, Conservation agriculture, Sustainable intensification, Ecosystem services, In-field
+   assessment, Site-specific management, Land sharing, Evidence-based environmental policy
+*Correspondence: jessica.thorn@zoo.ox.ac.uk
+1
+  Long‑term Ecology Laboratory, Department of Zoology, University
+of Oxford, Oxford, UK
+Full list of author information is available at the end of the article
+                                              © 2016 The Author(s). This article is distributed under the terms of the Creative Commons Attribution 4.0 International License
+                                              (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium,
+                                              provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license,
+                                              and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/
+                                              publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+
+Thorn et al. Environ Evid (2016) 5:13                                                                            Page 2 of 29
+Background                                                     are now examining the impact of ecosystem service con-
+Over the last 80 years, the industrial agricultural revo-      servation strategies on agricultural productivity [11], and
+lution has made significant advances in food produc-           associated with this, the implementation of a variety of
+tion. For example, in developing regions as a whole, the       alternative practices to conventional or intensive agricul-
+share of undernourished people in the total population         ture. The Millennium Ecosystem Assessment (MA) [6]
+decreased from 24 % in 1990–92 to 13 % by 2012 [1].            and other more recent frameworks [12, 13] have asked
+However, this transition also created a technology-reliant     the question: what agricultural practices are effective,
+global food system and associated long-term vulnerabili-       practical, affordable, and scalable? For the purpose of
+ties, such as dependence on crop monocultures, chemi-          this study, ‘conservation land management practices’ are
+cal fertilisers, pesticides, petroleum and antibiotic feed     those practices that are adopted with the aim of preserv-
+supplements [2]. The agricultural system also causes a         ing or enhancing ecosystem services without compromis-
+complex interaction of environmental deterioration [2]         ing farm production, and may be adopted before, during,
+by accounting for: 70 % of water extraction worldwide          or after cultivation [14]. These conservation land man-
+[2], consumption of one-third of all available energy [3],     agement strategies may be active, such as surface crop
+75 % of all deforestation [3], 19–29 % of global green-        residue management, or passive, such as the preservation
+house gas (GHG) emissions [4], the largest contribution        of native vegetative patches in fields [15]. Practices may
+of non-CO2 GHG emissions [5], and the leading cause of         incorporate principles of multifunctional agriculture (e.g.
+biodiversity loss [2]. Moreover, these trends are increas-     simultaneously producing food and non-food commodi-
+ing as agriculture intensifies and expands. For example,       ties, maintaining wild crop varieties, traditional landraces
+between 1961 and 2005 agricultural production doubled          and local culture [16]), sustainable intensification (i.e.
+in Sub-Saharan Africa [5], and was one of the main driv-       relieving pressure on land expansion and limiting for-
+ers of degradation in 65 % of natural ecosystems globally      est encroachment [5]), and conservation agriculture (i.e.
+[6]. In the years leading up to 2040, an estimated increase    including practices of no-tillage, permanent soil cover
+of 50–70 % in food production and availability is needed       using crop residues or cover crops, and crop rotation
+to keep pace with the demands of a global population           [17]), amongst others. As conservation land management
+expected to reach 8–10 billion and a concurrent decline        practices often require minimal capital investment and
+in available arable land [6, 7]. As the population grows,      inputs, provide multiple benefits (e.g. food, fodder, and
+per capita supply of farmland is increasingly in compe-        enhanced soil quality), and show significant effects over
+tition with accelerated urbanisation [8]. Income growth        short periods [14], they have opportunities for enhancing
+has also led to expansion of the global demand for meat,       smallholder production.
+which has tripled in the last 50 years [9] so that livestock     Despite a growing interest in this area, there still
+now consume 40 % of the global feedstock. The threat           appears to be a lack of a coherent evidence base showing
+of climate disruption poses further biophysical barriers       how effectively these management strategies preserve or
+to enhancing yields, particularly in rain-fed regions. It is   enhance ecosystem services overall. This may in part be
+therefore increasingly evident that industrial agriculture     because identifying accurate quantitative measurements,
+is not sustainable at its current level of expansion [2, 3,    interpreting interrelations, and synthesising how the out-
+6, 10]. This view has been supported by a recent study         put can translate into practical management techniques
+by Ehrlich and Ehrlich [2], who describe these intercon-       is exceedingly complex for four main reasons. First,
+nected challenges as having the potential to lead to a         changes in conservation land management may affect
+global collapse in the food system, comprising of produc-      various ecosystem services differently, and management
+tion, processing, packaging, storage, distribution, retail,    requires making judgments about trade-offs depending
+consumption and disposal. Other international bodies,          on the service, temporal horizon, spatial scale or geogra-
+including the Global Alliance for Climate Smart Agri-          phy [18]. Second, there is an apparent deficiency of indi-
+culture, the UK Government Foresight Committee [3],            cators or proxies of ecosystem processes. Those that are
+and the Oxford Martin Commission [10] have argued              available often have incomplete datasets or the benefits
+that one of the greatest challenges for the 21st century is    and/or disservices of particular practices are inconsist-
+finding the balance between providing enough food for a        ently reported. For example, some studies report that
+growing population and maintaining healthy ecosystems,         long-term no-till can improve soil fertility, recovery and
+while meeting the livelihood and nutritional require-          decrease erosion, but conflicting reports state that no-till
+ments of the most vulnerable in a changing climate.            also leads to soil compaction, can limit water infiltration
+   To address the challenge of identifying how to close the    and hinders seed germination [19, 20]. Third, the issue of
+‘yield gap’ (i.e. raise yields in less productive systems than scale brings another level of complexity, because some
+those typical of industrial agriculture [2, 7]), many studies  benefits are often only measurable at larger scales. For
+
+Thorn et al. Environ Evid (2016) 5:13                                                                                 Page 3 of 29
+example, the impacts of conservation land management             measurable indicators assessed in studies. Developing coun-
+practiced on a local level may only be visible over a large      tries are the focus of the review for three key reasons. Firstly,
+area or over a long period of time, whereas they may only        developing regions are where much of the world’s agricul-
+have been measured at the farm scale, and the reported           tural expansion is occurring [3], yet 80 % of arable land is
+results are therefore incomplete. Fourth, much of the evi-       already used [30] and croplands yield well below their
+dence is spread across different disciplinary ‘silos’, with      potential [31]. Secondly, in some cases, developing regions
+very limited synthesis. Some studies may also overstate          may also depend on ecosystem services rather than techno-
+the benefits of land management strategies.                      logical inputs to support agriculture, due to lower financial,
+   When evidence is so extensive and disparate, a first          technical and credit-borrowing capacity [1]. Thirdly, accord-
+step in an informational synthesis is a systematic map: a        ing to the FAO, of the 795 million people classified as under-
+rigorous methodological tool for data extraction of peer-        nourished worldwide, 780 million are in developing regions
+reviewed and grey literature [21–23]. Systematic maps            [1]. We anticipate four key end-users for the information
+can be used to describe the nature, volume and character-        that results from this systematic map: land owners and
+istics of research in a broad topic area, and may be used        managers; local decision makers and programme managers;
+to identify trends in the literature and knowledge gaps for      national and international policy makers; and researchers.
+future analysis. Systematic maps follow the same rigorous        The information highlights important research directions
+systematic processes as systematic reviews, being trans-         which can help to develop monitoring baselines, diagnose
+parent and repeatable to search for and collate evidence.        environmental problems, identify systems close to environ-
+However, critical appraisal of the quality of the evidence       mental thresholds, and thus evaluate the benefits and trade
+is often either absent or limited in depth, and results from     offs of strategies to implement at the farm level.
+studies are not extracted or synthesised [24, 25].
+   Previous attempts to synthesise the body of research that     Methods
+examines on-farm conservation management practices               The systematic map followed a published a priori pro-
+have focused on particular regions (particularly Africa [26,     tocol [32]. Definitions of terms were developed collabo-
+27]), a limited set of practices [17], or the evaluation of      ratively during the work (Additional file 1). These were
+management outcomes purely in terms of crop responses            used principally for searches and screening, to improve
+[26]. Our systematic map builds on this research both geo-       rigour and overcome possible ambiguity between review-
+graphically, being the first effort to synthesise the evidence   ers. Full details are provided in Additional file 2 of the
+in developing countries broadly and in terms of the range        search terms, the number of records generated for spe-
+of management strategies and ecosystem services studied.         cific searches, and the name, location, date of searches
+This study is among the first (see also [28, 29]) to present     in bibliographic databases, online searches, key interna-
+the results of a synthesis of environmental evidence using       tional peer-reviewed journals, and specialist organisa-
+an online interactive geographic map.                            tions and online databases.
+   The aim of this systematic map is to review the state of
+evidence that reports on the effectiveness of on-farm conser-    Search strategy
+vation land management for protecting or enhancing ecosys-       Key search terms
+tem services. The objectives of the systematic map are:          The systematic search was conducted 27 October 25
+                                                                 November 2014 to identify potentially relevant stud-
+   1. To collate studies reporting evidence on the effectiveness ies. For each search, the date, database name, search
+      of on-farm conservation land management practices on       term, number of hits, number of references obtained,
+      ecosystem service provision in agricultural landscapes in  number of removed duplicates and observations were
+      low-income and developing countries.                       recorded. Search terms were disaggregated using trun-
+   2. To map regions where on-farm assessments of conser-        cation (in most databases ‘*’) and differences in spelling
+      vation land management in low-income and developing        were accounted for by using wildcards (mostly ‘?’ or ‘$’).
+      countries have been undertaken.                            Elements of the search were differentiated as ‘sets’. The
+   3. To make information easily accessible by producing an      Boolean operator terms AND, OR and NEAR were used.
+      online interactive map, searchable by topic.               Search terms were as follows:
+                                                                     farm*, agricultur*, agro$forestry, cultivat*, crop*
+   We aim to provide a detailed summary of different strat-
+                                                                     ecosystem, ecolog*, environmental, provision*, regu-
+egies proposed and tested, for different crops in differ-
+                                                                     lat*, support*, cultur* function*, good*, process*, ser-
+ent regions, and over different timeframes. Moreover, we
+                                                                     vice*
+identify the pathways by which practices are assumed to
+                                                                     “soil regulation”, “water regulation”, “nutrient
+influence ecosystem service provision by reporting on
+
+Thorn et al. Environ Evid (2016) 5:13                                                                               Page 4 of 29
+    cycling”, “pollinat*”, “cultural services”, “education      Grey literature for specialist searching Thirty-two spe-
+    services”, “spiritual services”, “recreational services”,   cialist organisations and online libraries were searched for
+    ecotourism, “carbon regulation”, “carbon seques-            organisational reports, conference papers or proceedings,
+    tration”, “pest regulation”, “disease regulation”,          policy briefs, station and annual reports (Table 1). Given
+    “fuel$wood”, “building material”, “flood regulation”,       the limited search capability of databases, a hierarchi-
+    “medicinal and aromatic plant*”, “wild harvested            cal approach [33] to searching was used, converting the
+    goods”, “non$timber forest product*”                        original string to key words (e.g. in-field assessment, eco-
+    ((no, reduced, zero conservation, minim*) NEAR/1            system services) and topics (e.g. agriculture) (Additional
+    till*), “green manure”,rotat*,residue*,mulch*, “cover       file 2). Where the facilities were available, language limits
+    crop*”, “organic matter”, “crop divers*”, intercrop*,       to English were set. Where no search bar existed, websites
+    “integrated pest management”, assess*, survey*,             were also hand-searched.
+    sampl*, method*, measur*, test*,observ*, evaluat*,
+    interview*, transect*, perception*, technique*, effect*,    Estimating the comprehensiveness of the search
+    monitor*, toolkit*, “payment for ecosystem service”,        The search string was the last of 27 iterations tested in
+    impact*, “experimental design”                              Web of Science. A test library of 30 references (see pro-
+                                                                tocol [32]) confirmed the search strings captured relevant
+                                                                literature, balancing specificity and sensitivity [33].
+Sources of publications
+An extensive targeted search of peer-reviewed and grey
+                                                                Study inclusion and exclusion criterion
+literature was conducted, including key bibliographic
+                                                                The following summarised criteria were established
+databases, key international journals, specialist organisa-
+                                                                through two stakeholder workshops in February 2014,
+tions, and online databases.
+                                                                Cape Town, South Africa and June 2014, Oxford, UK.
+Bibliographic databases             The following bibliographic
+                                                                Population
+databases were searched:
+                                                                We examined studies on farms located in 74 low/middle
+   1. Thomson Reuter’s (formally ISI) Web of Science™
+                                                                income and developing countries. These countries were
+                                                                selected from three databases of globally-recognised
+       Core Collection http://apps.webofknowledge.com/
+                                                                organisations working to improve ecosystem services,
+   2. Elseviers’ SCOPUS http://www.elsevier.com/online-
+                                                                reduce food insecurity and support economic devel-
+       tools/scopus
+                                                                opment (i.e. [34–36]). Relevant farming systems were
+   3. CAB Abstracts published by CAB International
+                                                                based on an extended list of the FAO major commodities
+       http://www.cabdirect.org/ (via ovidsp.tx.ovid.com)
+                                                                list [37], including terrestrial food, cash, oil, and agrofor-
+   4. AGRICOLA National Agricultural Library and Cita-
+                                                                estry crops. As determined through the peer-review pro-
+       tion Database http://www.ebscohost.com/academic/
+                                                                cess when developing the protocol [32], marine biomes
+       agricola
+                                                                or mangroves with maricultural or aquacultural activi-
+   5. AGRIS Agricultural Science and Technology Infor-
+                                                                ties were excluded (see Liquete et al. [38] for a review
+       mation Systems http://agris.fao.org/agris-search/
+                                                                on marine ecosystem services), and livestock farming
+       index.do
+                                                                and pastures (including land covered with grass or other
+                                                                plants suitable for grazing) were excluded from this
+Key individual journals Five key international e-jour-
+                                                                study.
+nals were also hand-searched whose topic areas closely
+aligned with the research question, as determined in the
+                                                                Intervention
+protocol [32]. This included Ecological Indicators; Eco-
+                                                                Studies where conservation land management strategies
+system Services; Integrated Environmental Assessment
+                                                                were adopted to support productive agriculture, while
+and Management; Agriculture, Ecosystems, and Environ-
+                                                                simultaneously preserving or enhancing ecosystem ser-
+ment and Field Crops Research.
+                                                                vices were examined. However, studies assessing culti-
+                                                                var selection, behavioural ecology, purely agronomic or
+Search engine searching and online call An internet
+                                                                economic questions, and land uses differentiated only by
+search in Google Scholar was conducted to retrieve the
+                                                                crop type were excluded. Those analysing land use gradi-
+first 200 searches (see Additional file 2 for search terms)
+                                                                ents and studies of non-point source pollution were also
+and an online call for relevant literature was published on
+                                                                excluded, because these were deemed to be outside the
+the Centre for International Forestry Research (CIFOR)
+                                                                scope of site-specific management strategies.
+website.
+
+Thorn et al. Environ Evid (2016) 5:13                                                                                                     Page 5 of 29
+Table 1 Specialist organisations and online databases searched in the systematic map (note, although web addresses
+were correct at 02/07/2016, it may be necessary to use the search capability of the parent websites to find these
+resources in the future)
+No. Organisation                                                              Website
+1    Centre for International Forestry (CIFOR)                                http://www.cifor.org/library/
+2    Consultative Group for International Agricultural Research (CGIAR)       http://www.cgiar.org/resources/cgiar-library/
+3    Alliance for a Green Revolution in Africa (AGRA)                         http://agra.org/
+4    International Rice Research Institute (IRRI)—library catalogue           http://ricelib.irri.org/
+5    International Centre for Tropical Agriculture (CIAT)—library repository  http://library.ciat.cgiar.org/
+6    Integrated Water Management Institute (IWMI)                             http://www.iwmi.cgiar.org/
+7    International Institute of Tropical Agriculture (IITA)                   http://www.iita.org/
+8    International Potato Centre (CIP)                                        http://cipotato.org/
+9    Africa Rice Centre (Africa rice)                                         http://www.africarice.org/
+10   World Resources Institute (WRI)                                          http://www.wri.org/
+11   International Crops Research Institute for the Semi-Arid Tropics (ICRI-  http://oar.icrisat.org/cgi/search/advanced
+       SAT)—OPEN access repository
+12   Climate Change Agriculture and Food Security (CCAFS)                     https://ccafs.cgiar.org/publications
+13   World Agroforestry Centre (ICRAF)—publications                           http://outputs.worldagroforestry.org/
+14   International Centre for Agricultural Research in the Dry Areas          http://www.icarda.org/publications-resources
+       (ICARDA)—publications and resources
+15   Comprehensive Africa Agriculture Development Programme (CAADP)           http://www.nepad-caadp.net/
+16   Institute of Environment and Agricultural Research (INRA)                http://www.inra.fr/en/liste/dossiers/76
+17   Monsanto Agricultural                                                    http://www.monsanto.com/products/pages/biotech-technical-publica-
+                                                                                tions.aspx
+18   Syngenta Foundation                                                      http://www.syngentafoundation.org/index.cfm
+19   Department for International Development (DFID)–Research for             http://r4d.dfid.gov.uk/
+       Development (R4D)
+20   Ecosystem Services Partnership (ESP)                                     http://www.es-partnership.org/esp
+21   EcoAgriculture Partners                                                  http://www.ecoagriculture.org/
+22   International Union for the Conservation of Nature (IUCN)                http://www.iucn.org/knowledge/publications_doc/publications/
+23   United Nations Development Programme (UNDP)                              http://www.undp.org/content/undp/en/home/librarypage.html
+24   Overseas Development Institute (ODI)                                     http://www.odi.org/publications
+25   International Maize and Wheat improvement (CIMMYT)—collections           http://repository.cimmyt.org/xmlui/discover
+       repository
+26   International Maize and Wheat improvement (CIMMYT)—library               http://repository.cimmyt.org/
+       catalogue
+27   The Economics of Ecosystems and Biodiversity (TEEB)                      http://www.teebweb.org/
+28   Convention of Biological Diversity (CBD)—case study database             https://www.cbd.int/case-studies/
+29   Convention of Biological Diversity (CBD)—information centre cata-        https://www.cbd.int/doc/library/books.aspx
+       logue
+30   Bioversity International-E-Library publications                          http://www.bioversityinternational.org/e-library/publications/
+31   Practical Action-Publishing                                              http://practicalaction.org/publishing
+32   International Institute on Environment and Development (IIED)            http://pubs.iied.org/
+Comparators                                                                  services (e.g. carbon regulation, pest regulation, nutrient
+Within studies, comparators were defined as farms or                         cycling, biodiversity), regulating services (e.g. water/soil
+fields without conservation land management strategies,                      regulation and supply, pollination services), provisioning
+conventional/intensive agriculture or natural sites.                         services (e.g. fuel wood, medicinal and aromatic plants),
+                                                                             and cultural services (e.g. education, recreational, spir-
+Outcome                                                                      itual, tourism, bequest or aesthetic value). We excluded
+We examined the literature to look for evidence of meas-                     non-timber forest products (NTFPs) extracted off the
+ured changes in ecosystem services, including supporting                     farm (from forests) but included NTFPs on farms (e.g.
+
+Thorn et al. Environ Evid (2016) 5:13                                                                             Page 6 of 29
+from trees on farm boundaries or on domestic home-              The list of studies excluded at full text with reasons for
+steads). Studies measuring outcomes on health or nutri-       exclusion is shown in Additional file 4. Hand-searched
+tion, including those measuring fungal pathogens and          articles on organisational websites were excluded when
+diseases, were excluded from our analyses.                    studies described:
+Study design                                                    1. Cultivar selection, economic valuation, or purely
+We included studies that had provided grounded empiri-              yield impacts of management (e.g. studies in the
+cal assessments at the field level, using direct assessment         Africa Rice Centre),
+of social or ecological variables. Lab-based and ex-situ        2. Concept notes, proposals, project reports and train-
+methods were excluded, as were conceptual frameworks,               ing, methodology manuals (e.g. TEEB, Comprehen-
+methodologies, training manuals, conservation planning              sive Africa Agriculture Development Programme
+tools and regulatory/legislative frameworks. Studies that           (CAADP)), or media releases and workshop reports
+looked only at economic valuation were also excluded.               (e.g. Institute of Environment and Agricultural
+                                                                    Research),
+Language                                                        3. Programme information of funding agencies (e.g.
+Owing to limitations of time and resources, we only                 Department for International Development (DFID)),
+included studies published in English. Authors acknowl-         4. Institutions, governance and policies of poverty and
+edge that this may introduce a bias against studies                 development without including agriculture data (e.g.
+conducted in developing countries where the official lan-           many studies of the Overseas Development Institute
+guage or operation language of universities and research            (ODI), and World Resources Institute (WRI)), or
+institutions is not English, particularly studies in Spanish,   5. Were not field based or excluded methodologies to
+French and Portuguese. We suggest expanding to other                directly assess ecosystem services or were not field-
+languages of publication for future iterations.                     based (e.g. Agricultural research companies includ-
+                                                                    ing Monsanto and Syngenta).
+Date
+No time limitation to the search was applied. Single and      Data coding and extraction
+multiple year studies were included, however long-term        Data extraction was conducted by eleven coders, who
+paleoecological studies were excluded.                        regularly met with a secondary reviewer to discuss and
+                                                              resolve inconsistencies between the 10th of February
+References were filed in EndNoteX7™ reference man-
+Screening                                                     2014 and the 20th of April 2015. Authors were contacted
+                                                              where studies did not include the site coordinates or
+ager [39] as separate libraries according to biblio-          study location (n = 4). We used Dropbox and Google-
+graphic source, pooled together and duplicates were           forms to share studies and extract the data. A coding tool
+removed. References were exported into a master data-         (Additional file 5) for data extraction was developed with
+base in Microsoft Excel for visual checks at each stage       division into six categories, as illustrated in Fig. 1.
+of screening, using categories of publication ID, title,
+year, abstract, country and URL. References were then         Data mapping
+imported into DataX systematic review evaluation soft-        Following the completion of data extraction, results were
+ware for abstract screening [40]. Title, abstract, and        placed in a searchable database as a relational Microsoft
+full text screening took place between 26 November            Access database (Additional file 6). Results were searcha-
+2014 and 9 February 2015. Five reviewers at the Univer-       ble by keyword, and cross-tabulated to identify where no
+sity of Oxford and CIFOR conducted screening at title         research outputs were available. Qualitative and quanti-
+and abstract stage. Three reviewers conducted full text       tative synthesis was conducted on trends, interpretation,
+screening, recording reasons for exclusion. At the title      and gap analysis from May to July 2015. Graphic visuali-
+screening, the Randolph’s free-marginal kappa on a ran-       sation for spatial analysis employed ArcGIS10 mapping
+dom subset of 100 studies was 0.82 [41]. Where there          software [42], using the World Geodetic System 1984 and
+was doubt of studies to be included/excluded, exclu-          decimal degree coordinates. Visualisation in the online
+sion was conservative. Any ambiguities were discussed         interactive map was accomplished with a D3 open source
+through online consultation, and references further           JavaScript framework hosted on the Oxford Long-term
+verified by secondary reviewers. Fourteen articles were       Ecology Laboratory website.
+identified that were either meta-analyses or systematic         A summary of each study is available by clicking
+reviews (not included in the systematic map database,         on the study site, which opens a scrollable side table.
+but as Additional file 3).                                    The table presents the attributes stored for that study,
+
+Thorn et al. Environ Evid (2016) 5:13                                                                                                             Page 7 of 29
+  Fig. 1 Relational model of coded variables included in the systematic map as structured in the Microsoft Access (ES ecosystem services)
+including bibliographic, biophysical, ecosystem service,                          Of the 746 articles evaluating the impact of farming
+and management details, plus a URL link to open access                         strategies included in the map, 576 articles were experi-
+articles. A filter system allows users to choose crite-                        mental in their design with treatment and control groups,
+ria for making sites visible on the map. When a data-                          49 articles were quasi-experimental (i.e. without all fac-
+base field is selected as a filter, all the values within that                 tors affecting outcomes, groups controlled), and 121 were
+field appear in a list. Selecting a set of values causes the                   non-experimental (i.e. without any explicit manipulation
+map to present only the sites that match those values.                         of groups [24]).
+Filters may be based on categories (e.g. smallholder                              Overall, the majority of articles were journal articles
+farms), ranges (e.g. studies published between 1992 and                        (97 %, n = 727). The remaining articles were grey lit-
+2000), or key search terms (e.g. maize crops or tillage).                      erature articles (2 %, n = 15) composed of reports and
+For example, users interested in experimental studies                          policy documents from agricultural, developmental and
+assessing the impact of no-till on regulating and sup-                         environmental research agencies (e.g. Integrated Water
+porting services in maize may use the map to identify                          Management Institute (IWMI)), and articles from confer-
+113 studies.                                                                   ence proceedings (1 %, n = 4). Two hundred and fourteen
+   The online interactive map is accessible here or at                         of the 746 articles were open access of the 746 articles.
+https://oxlel.zoo.ox.ac.uk/resources/ecosystem-services-                       This analysis differentiated between articles and stud-
+onfarm-conservation-map.                                                       ies. For example, where information from one study was
+                                                                               presented in one or more articles but did not include the
+Results                                                                        same data, studies were considered multiple outputs and
+Overall descriptive statistics                                                 included in the systematic map as such. Furthermore,
+The flow chart for selecting articles for the system-                          244 articles included multiple case studies, which were
+atic map, with results for each stage, is shown in Fig. 2                      included in the database as separate entries for geographic
+(adapted from Preferred Reporting Items for System-                            mapping.
+atic Reviews and Meta-analyses (PRISMA [35]). A total
+of 746 were included in the final systematic map. (A list                      Journal titles
+extracted from the Endnote database of these articles is                       A total of 202 journal titles were represented. Over half of
+included in Additional file 7).                                                the relevant articles (n = 434 or 58 %) were published in
+  (See figure on next page.)
+  Fig. 2 Overview of article screening and inclusion in the systematic map. A full list of grey literature websites is listed in Table 1 and Additional file 2.
+  (WOS Web of Science, CAB CAB Abstracts: AGRICOLA NAL U.S. Department of Agriculture’s National Agricultural Library, AGRICOLA CIT U.S. Depart-
+  ment of Agriculture’s Citation Database, ICRISAT International Crops Research Institute for the Semi-Arid Tropics, IITA International Institute of Tropical
+  Agriculture, CCAFS Climate Change Agriculture and Food Security, CYMMIT International Maize and Wheat Improvement Centre—including Library
+  Catalogue and Collections repository, IWMI International Water Management Institute, ES ecosystem services)
+
+Thorn et al. Environ Evid (2016) 5:13 Page 8 of 29
+Thorn et al. Environ Evid (2016) 5:13                                                                                 Page 9 of 29
+  Fig. 3 Number of articles published per journal title
+the 12 journals (Fig. 3). Field Crops Research, Agriculture         decades, we compared the cumulative number of articles
+Ecosystems and Environment, Soil Tillage Research and               in the systematic map to a broader search in Scopus data-
+Agroforestry Systems and Nutrient Cycling in Agroeco-               base, following Petrokofsky [25]. Scopus was searched on
+systems were most frequently represented in descending              10 June 2015, with the search phrase ‘conservation agri-
+order. The remaining 312 articles were published in 190             culture’ limited to subject areas of Life Sciences, Physi-
+other journals.                                                     cal Sciences, and Social Sciences and Humanities and
+                                                                    Environmental Science, Agricultural and Biological Life
+Publication year                                                    Sciences and Social Sciences. We found a proportion-
+The earliest study recorded was published in 1984. There            ally greater increase in the number of studies in the sys-
+was an exponential increase in the number of studies pub-           tematic map (n = 746) compared with other generalist
+lished per year starting from 1992 up to 2014 when the              searches (n = 10,961) over the same time period since
+search was conducted, with the highest number of arti-              1962 (Fig. 5).
+cles published in 2013 (Fig. 4). Notable increases occurred
+between 2006 and 2007 and after 2011. The average rate of           Duration of study
+publication was 0.9 articles/year between 1984 and 2003:            The largest proportion of studies lasted 1 to 4 years (33 %,
+only 5 articles published before 1992, whereas 7.6 articles         n = 249). Of the remaining studies, 21 % (n = 156) were
+were published per year during the period from 1994 to              less than a year in duration, 13 % (n = 99) 5 to 10 years,
+2004, and 55.4 articles/year from 2005 to 2014. Seventy-            5 % (n = 35) 10 - 14 years, and 6 % (n = 44) 15 to 19 years.
+four per cent of articles were published in the last decade         Ten per cent (n = 78) of studies were conducted over 20
+(2004 to present).                                                  to 49 years, while only 3 studies (0.4 %) were conducted
+   Recognising that scientific publications generally have          on plots over 50 or more years. Eighty-two studies did
+been increasing in number exponentially for the last few            not state their duration (11 %).
+                                                                    Region and country of origin
+                                                                    Studies were spread widely across 46 countries (20 in
+                                                                    Africa, 13 in Asia, 12 in Latin America, and 1 in Oce-
+                                                                    ania). Half were located in Asia (50 %, n = 376), a quarter
+                                                                    in Africa (26 %, n = 199) and a quarter in the Americas
+                                                                    (24 %, n = 182). Countries with the most studies were
+                                                                    China (24 %, n = 180), India (17 %, n = 134), Brazil (14 %,
+                                                                    n = 105) and Mexico (7 %, n = 54) (Fig. 6).
+                                                                      In Asia, most of the studies were from Far East Asia
+                                                                    (49 %) and South Asia (42 %). In Africa, the proportion
+                                                                    of studies was more evenly split between East Africa,
+  Fig. 4 Number of published studies by year showing an exponential
+                                                                    West Africa and Southern Africa (34, 28, 27 %). In
+  increase (trend line) since 2000                                  West Africa, most studies were located in the English
+
+Thorn et al. Environ Evid (2016) 5:13                                                                                                     Page 10 of 29
+  Fig. 5 Comparison of number of studies published up until 2014, comparing searches with the term ‘conservation agriculture’ in Scopus and results
+  of the systematic map
+  Fig. 6 Map of study site distribution and frequency included in the systematic map. Points and polygons indicate geographic locations, and the
+  shading of countries from grey to dark green indicates the number of studies conducted in each country. The map illustrates that most studies have
+  been conducted in China, Mexico, India and Brazil (dark green) (n = 1365), while there is a dearth of studies that have been conducted in Central,
+  Southern and North Africa
+speaking country of Ghana (n = 13) rather than the                            followed by Colombia and Peru). 64 were in North/
+surrounding Francophone countries. Only one study                             Central America (mostly in Mexico, n = 54), followed
+was located in North Africa, while 18 were in Central                         by Nicaragua, Honduras and Haiti. We acknowledge
+Africa. In the Americas, 65 % of studies (n = 118) were                       these results may be an artefact of the language selec-
+located in South America (mostly in Brazil, n = 105,                          tion criteria.
+
+Thorn et al. Environ Evid (2016) 5:13                                                                                       Page 11 of 29
+  While 74 countries were admissible in the selection
+criteria for the systematic map, no studies were found in
+28 countries: Afghanistan; Algeria; Bhutan; Botswana;
+Burundi; Cambodia; Central African Republic; Chad;
+Comoros; Congo; Democratic Republic of Congo; Dji-
+bouti; Eritrea; Guinea-Bissau; Kyrgyzstan; Lesotho;
+Liberia; Mauritania; Mongolia; Namibia; Samoa; São
+Tomé and Principe; South Sudan; Sierra Leone; Solo-
+mon Islands; Somalia; Tajikistan; and Yemen. Beyond the
+search criteria, various reasons could explain why these
+countries were not included, such as a lack of research
+stations, remote access, limited agricultural production,
+amongst other factors (see discussion).                       Fig. 7 Number of studies according to farm type and irriga-
+                                                              tion method. The figure shows studies have been predominantly
+Spatial unit of analysis                                      conducted in research stations, followed by rain-fed smallholder
+                                                              farms. Studies of smallholder farms were predominantly located in
+Geographic scales of plot, farm, landscape, district, and
+                                                              India (n = 27), China (n = 15), Ethiopia (n = 14), Brazil (n = 12), and
+region, as well as social scales of individual, household,    Zimbabwe (n = 11). The majority of large or commercial farms were
+and village were differentiated following Randall and         predominantly in Brazil (n = 11), China (n = 7), India, Mexico and
+James [23]. The scale of ‘plot’ referred to studies that      South Africa (ea. n = 6). The small number of studies conducted in
+compared specific in-field interventions (e.g. differ-        large-scale farms could be reflective of the regions included in the
+                                                              study
+ent rates of organic farmyard manure fertiliser applica-
+tion or tillage regimes), whereas ‘farm’ compared results
+across a number of farms. Many studies that compared
+across larger areas could also be considered landscape      of studies did not state irrigation techniques. Large-scale
+scale studies. In some cases it was not possible to discern and commercial farms constituted the smallest propor-
+aspects of the spatial scale, because studies did not state tion of studies (7 %, n = 50). Very few studies combined
+whether interventions were replicated within single or on   assessments on both small and large farms (2 %, n = 17).
+multiple farms [23].                                        145 studies did not state the type of farm.
+  Most studies were conducted at the plot scale (42 %,
+n = 317) or farm scale (31 %, n = 233), followed by         Ecosystem service
+regional (10 %, n = 73), landscape (8 %, n = 62), and dis-  The systematic map differentiated between broad catego-
+trict scales (6 %, n = 41). Many studies were performed     risations of ecosystem services and 16 subtypes, based
+across various sites and various scales; for instance, 221  on the Millennium Ecosystem Assessment categorisation
+studies had multiple study sites. Eleven studies involved   [6] (see protocol [32] for rationale). Categories are non-
+cross-country analyses, seven compared two countries,       exclusive, such as soil regulation and nutrient cycling.
+two compared three, one compared four, and one com-         Supporting services were measured in 55 % (n = 591) of
+pared five. Two studies were cross-continental, assessing   studies, regulating services 33 % (n = 353), provisioning
+carbon sequestration rates in no-tillage soils in tropical  9 % (n = 101), and cultural services 3 % (n = 32) (non-
+Brazil and Madagascar [43], and agroforestry and fallow     exclusive categories). Biodiversity was studied more
+systems in Cameroon, Madagascar, Tanzania, Indonesia,       than pest regulation and pollination services. Spiritual
+and Laos [44]. Ninety-two per cent of studies used geo-     and symbolic value often appeared in conjunction with
+graphic, rather than social, scales of organisation.        studies of medicinal and aromatic plants, while only five
+                                                            studies measured tourism as a cultural service (Table 3).
+Farm typology                                               One-third of studies (36 %, n = 266) measured ecosys-
+Figure 7 shows the number of studies according to farm      tem services in combination with one another, most fre-
+typology and irrigation type, adapted from the categori-    quently combining supporting and regulating services
+sation of Dixon, Gulliver and Gibbon [45]. Research sta-    (85 %, n = 22). Most studies (92 %, n = 689) measured
+tions, which include working farms, (Table 2) comprised     one or two ecosystem services, while studies of three or
+almost half of studies (48 %, n = 358). These studies usu-  more ecosystem services only constituted 8 % (n = 57).
+ally did not state whether they focused on irrigated or     The mean number of ecosystem services measured per
+rain-fed crops. Smallholder farms comprised a quarter of    study was 1.45 ± 0.85. Figure 8 indicates the number of
+studies (24 %, n = 176). Twelve per cent (n = 16) of these  ecosystem services measured, plotted against the dura-
+were rain-fed, only 4 % were irrigated, and the remainder   tion of studies.
+
+Table 2 Number of studies on in-field assessments of ecosystem services conducted on farms in research stations, of the ten most frequently cited countries
+Rank Country          No. studies Common research stations
+1       China          115           Changshu agro-ecological experi-              Key agro-ecological experimental              Luancheng Agro-Ecosystem              Shangzhuang Research Station, China
+                                      ment station affiliated to Institute          station of Fengqiu State, Fengqiu              Experimental Station, Chinese         Agricultural University, Beijing Province
+                                      of Soil Science, Chinese Academy              county, Henan Province                         Academy of Sciences, Hebei
+                                      of Sciences, Changshu, Jiangsu                                                               Province
+                                      Province
+                                                                                                                                                                                                                     Thorn et al. Environ Evid (2016) 5:13
+2       India           77           Indian Agricultural Research Insti-           International Crops Research                  Central Rice Research Institute,      Vivekananda Institute of Hill Agriculture
+                                       tute (IARI) Farm, New Delhi                   Institute for the Semi-Arid Tropics          Cuttack                                in the Indian Himalayan at Hawalbagh,
+                                                                                     (ICRISAT) Centre, Patancheru,                                                       Uttarakhand
+                                                                                     near Hyderabad
+3       Brazil          62           Empresa Brasileira de Pesquisa                Experimental station of Agronomic             Research centre Fundação Centro       Research station of MARS Center of
+                                      Agropecuaria research station                  Institute of Paraná (IAPAR), dis-            de Experimentação ePesquisa           Cocoa Science, Itajuıpe, southern
+                                      (EMBRAPA), [3 sites—Manaus,                    trict of Londrina, Paraná State              (FUNDACEP), near the city of          region of Bahia
+                                      Amazonas, and Rio Grande do                                                                 Cruz Alta, Rio Grande do Sul
+                                      Sul and North-Goiânia]                                                                      State
+4       Mexico          23           El Batán research station, near Lake          Centro de Investigaciones                     Rio Bravo experimental site, North-   Campus of Biological Sciences of the
+                                       Texcoco, Central Mexico                      Agrıcolas del Noroeste (CIANO),                ern Tamaulipas                       University of Yucatan (CBS) at Xmatkuil,
+                                                                                    near Ciudad Obregon, State of                                                       Mexico
+                                                                                    Sonora
+5       Philippines      8           International Rice Research Insti-            Guimba, Nueva Ecija Province,                 Laguna, Philippines                   Leyte, Philippines
+                                       tute (IRRI), Los Baños, Laguna,              Phillipines
+                                       Philippines
+6       Nepal            7           Nepal Agricultural Research Coun-             Hattiban Station, Nepal Agricul-              Institute of Agriculture and Animal   Rampur, Chitwan, Terai Plains of Nepal
+                                      cil (NARC) at Lumle and experi-               ture Research Council (NARC),                  Sciences (IAAS), Tribhuvan
+                                      mental farm of the Institute of               Kathmandu valley, Nepal                        University, Chitwan Valley, Inner
+                                      Agriculture and Animal Science                                                               Terai of Nepal
+                                      (IAAS) of Tribhuvan University at
+                                      Rampur, Chitwan, Nepal
+7       Zimbabwe         6           Henderson Research Station                    Domboshawa Training Centre,                   West of Chipinge Town, Zimbabwe       Harare, Zimbabwe
+                                      Mashonal and Central Province,                Zimbabwe
+                                      Zimbabwe
+8       Cameroon         5           ESA Project experimental sites in             Ngomedzap, Bakoa, Obala, Talba                Mbalmayo, Cameroon                    Yaounde, Cameroon
+                                       the villages of Winde, Zouana,               and Kedia, Cameroon
+                                       Cameroon
+9       Thailand         5           Khao Hin Sorn Development and                 International Training Center for             Khon Kaen Province, Thailand          Bangkok, Thailand
+                                      Study Centre,Cha Cherng Sao                    Agricultural Development, Khon
+                                      Province, Thailand                             Kaen, Thailand
+10      Ghana            4           Atewa Range Forest Reserve and                Forestry Commission of Ghana,                 Sefwi Wiawso, Ghana                   Kwadaso, Ghana
+                                       Adjeikrom, Ghana                              Legon, Western Ghana
+The table shows commonly cited research stations, and indicates most studies are published in China, India, Brazil, and Mexico
+                                                                                                                                                                                                                     Page 12 of 29
+
+Thorn et al. Environ Evid (2016) 5:13                                                                                              Page 13 of 29
+Table 3 Number of articles per ecosystem service                                   The link between management strategy and objective
+Ecosystem service               No.         %           Total %       Total no. or outcome was not necessarily uniform nor simple. For
+                                                                                example, crop residues could be used for mulch, organic
+Supporting                                                                      fertiliser and weed management. In addition, a number
+Carbon storage or seques-        282        26.2        54.9          591       of management practices were frequently adopted in
+  tration
+                                                                                conjunction with one another (e.g. combining legumi-
+Nutrient cycling                 183        17.0
+                                                                                nous cover crops with minimal tillage). Within studies,
+Biodiversity                       81       7.5
+                                                                                conservation land management strategies were compared
+Pest regulation                    45       4.2
+                                                                                to other practices, for example organic and inorganic fer-
+Regulating
+                                                                                tiliser, organic and inorganic mulching, integrated pest
+Soil regulation                  200        18.6        32.8          353
+                                                                                management and insecticides, mechanical weed control
+Pollination                        48       4.5
+                                                                                and herbicides, or mosaic and monocropping. Figure 9
+Water regulation                 105        9.8
+                                                                                plots the ten most frequent land management interven-
+Provisioning
+                                                                                tions measured against the year of publication.
+On-farm non timber forest          35       3.3         9.4           101
+  products
+                                                                                Soil fertilisation
+Medicinal and aromatic             26       2.4
+  plants                                                                        Organic fertiliser, composed of eight possible products,
+Fuel wood                          23       2.3                                 ranked as the most commonly assessed intervention (24 %),
+Building material                  17       1.6                                 frequently studied in Far East (n = 88) and South Asia
+Cultural                                                                        (n = 60). Farmyard manure sourced from cattle, poultry
+Spiritual or symbolic value        11       1.0         3.0           32        or pigs comprised 43 % (n = 154). Other products used
+Aesthetic or bequest value           6      0.6                                 included: urea (9 %, n = 71); crop residues (8 %, n = 66); leaf
+Educational value                    6      0.6                                 manure; lime; dolomite; ash and coal; bio-char; vermin-cul-
+Recreational value                   6      0.6                                 ture and waste; biogas slurry; vinasse by-products from the
+Tourism                              3      0.3                                 sugar industry; distillery waste; and household or slaughter-
+Total                           1077        100         100           1077      house waste (Fig. 10). Crop residues commonly incorporated
+                                                                                leaves, straw and stalks remaining on the soil surface from
+The total number of services (1077) is greater than the number of studies,
+because many assessed ecosystem services under more than one category           the previous season’s crops. Composites included: rice straw;
+                                                                                wheat straw; groundnut cake; rapeseed cake; cottonseed
+                                                                                cake; leaf litter and water hyacinth. However, studies that
+Conservation land management interventions                                      included conventional practices of inorganic fertiliser (e.g.
+In total, 19 categories of conservation land management                         NPK, N, P2O5, K2O and dicyandiamide) surpassed those
+were measured (Table 4). Top interventions included                             with organic fertiliser practices (55 %, n = 437, and 45 %,
+use of organic fertiliser (24 %, n = 358), tillage (23 %,                       n = 358, respectively) (Fig. 10). Studies also measured the
+n = 350), agroforestry involving multipurpose and mul-                          impact of mulching on soil organic matter accumulation and
+tistorey cropping and home gardening (9 %, n = 129),                            nitrogen mineralisation [46], soil water content [47], micro-
+and seven methods of water conservation (7 %, n = 98).                          bial communities [48] and water stable aggregates [49],
+Other practices included: crop rotation; fallowing; cover
+cropping with legumes or shaded patches; mosaic man-                            Tillage
+agement including the maintenance of wild vegetative                            Ten methods of tillage were often measured in combi-
+patches on farms; set aside areas and buffer strips; res-                       nation with one another, comprising 23 % of studies.
+toration including re/afforestation; five methods of                            Figure 11 indicates that no-till was the most frequently
+weed management including mechanical, disc harrow-                              assessed tillage method (40 %, n = 141), followed by
+ing, herbicide, cover cropping and mulching; integrated                         measurements of single conventional tillage practices as
+pest management; pollination management; two types                              comparators to other tillage practices (32 %, n = 111). The
+of mulching using crop residues and plastic film; ero-                          other practices assessed and their proportion of studies
+sion control using terracing and slope re-vegetation; and                       were as follows: disk harrow tillage (9 %, n = 30); mini-
+intercropping with legumes and cereals. The remaining                           mum tillage including ripping and direct seeding (5 %,
+studies involved passive management, rather than active,                        n = 16); ridge and basin tillage (4 %, n = 15); rotivar tillage
+such as maintaining biodiversity on farms, fire manage-                         (n = 15, 4 %); mouldboard; base and country plough till-
+ment, and retaining termite mounds within farms to pro-                         age (2 %, n = 8); double conventional tillage (2 %, n = 8);
+mote nutrient cycling.                                                          deep chisel and shallow till (each 0.9 %, n = 3).
+
+Thorn et al. Environ Evid (2016) 5:13                                                                                                        Page 14 of 29
+  Fig. 8 Ecosystem services measured and duration of studies. The figure shows nutrient cycling was mostly studied 1 to 4 years. Of 44 studies
+  measuring pollination, most were less than one year (66 %, n = 29) or 1 to 4 years (27 %, n = 12). Most studies monitoring biodiversity on farms
+  were conducted in less than 4 years (65 %, n = 53), as were pest regulation (76 %, n = 34) and pollination (85 %, n = 41). Carbon sequestration and
+  storage made up the largest proportion of long-term studies (i.e. 20 +/50 + years) (51 %, n = 56), together with nutrient cycling (16 %, n = 17) and
+  soil regulation (26 %, n = 28). The dotted line indicates the number of articles, which is less than the total as many studies measured more than one
+  service
+Agroforestry                                                                      major crops studied included tree crops, soybeans, cof-
+Agroforestry interventions accounted for 129 of the                               fee, beans, sorghum, cotton and finger/pearl millet.
+studies, and included multistorey cropping for multi-                             Despite the extent of global cultivation, our review iden-
+ple purposes: food; fruit; fodder; ornaments; timber;                             tified a limited number of studies in palm oil, tobacco
+shade; fuel wood; cosmetics; teeth brushing; oil; animal                          and rubber; although this result may be due to countries
+hide tanning; religious purposes; latex; soil enhancement                         excluded, such as Indonesia (see [51]). When compared
+and nitrogen fixation (e.g. leguminous trees), live fenc-                         to the global area of cultivated crops, the proportion of
+ing and windbreaks; and erosion control. Common tree                              studies looking at rice most similarly reflected the pro-
+crops included: coffee (n = 63); cacao (n = 30); banana                           portion of land cultivated globally (Table 6).
+including false banana (enset) (n = 23); tea (n = 15);                               Cereal grains constituted 45 % (n = 692) of studies,
+guava (n = 8); mangos; mangosteens; rubber; oil palm;                             predominantly in Far East Asia (n = 221), South Asia
+and Barbados nut (ea. n = 6). Fruit crops comprised 61 %                          (n = 167) and South America (n = 101). The major-
+of agroforestry crops. Twenty studies also evaluated the                          ity of studies on tree crops (21 %, n = 52) and legumes
+multifunctional role of home-gardens [50], in which both                          (24 %, n = 46) were in South Asia. Fruit crops (n = 31)
+deciduous and evergreen trees were included. Additional                           and tubers (n = 16) were most frequently measured in
+file 8 lists 65 of the agroforestry tree crops included in the                    East Africa. Assessments of vegetables were less com-
+systematic map and their uses.                                                    mon, and predominantly in South Asia (n = 14) and East
+                                                                                  Africa (n = 18). Soybean was most frequently studied in
+Crop types                                                                        South America (44 %, n = 35), likely because Brazil is
+Crops and regions                                                                 the world’s second top producer (65.9 m metric tonnes/
+A total of 72 types of crops were studied (summarised                             annum), following the US [54]. Coffee was most fre-
+in Table 5). In line with a hypothesised trend stated in                          quently measured in East Africa (28 %, n = 20), includ-
+the protocol, most studies assessed annual crops (62 %,                           ing top producing countries of Ethiopia and Uganda.
+n = 462) instead of perennial crops (25 %, n = 190).                              No studies were identified assessing Adansonia digitata
+Staples were frequently studied: maize (18 %, n = 285),                           (baobab), Moringa oleifera L. (moringa) and Vitellaria
+wheat (12 %, n = 183), and rice (10 %, n = 152). Other                            paradoxa (shea tree), even though these are increasingly
+
+Thorn et al. Environ Evid (2016) 5:13                                                                                               Page 15 of 29
+Table 4 Conservation land management interventions studied
+Group                                 Rank Conservation land management intervention                                          No.            %
+Organic fertiliser (23.8 %, 358)       1   Farm yard manure (pig, poultry, cattle)/compost                                     154           10.2
+                                       2   Urea                                                                                 71            4.7
+                                       3   Crop residues                                                                        66            4.4
+                                       4   Leaf/green manure                                                                    27            1.8
+                                       5   Lime (incl. dolomite)/ash (coal and volcanic soils)                                  14            0.9
+                                       6   Biochar                                                                              13            0.9
+                                       7   Vermiculture                                                                           8           0.5
+                                       8   Waste (slaughterhouse/human effluent/biogas slurry/vinasse/distillery hh waste)        5           0.3
+Tillage (23.3 %, 350)                  1   No till                                                                             141            9.4
+                                       2   Single conventional tillage                                                         111            7.4
+                                       3   Disk harrow/plough                                                                   30            2.0
+                                       4   Minimum (incl. ripping and direct seeding)                                           16            1.1
+                                       5   Ridge/basin                                                                          15            1.0
+                                       6   Rotivar                                                                              15            1.0
+                                       7   Mouldboard/base/country plough                                                         8           0.5
+                                       8   Double conventional tillage                                                            8           0.5
+                                       9   Shallow                                                                                3           0.2
+                                      10   Deep chisel                                                                            3           0.2
+Agroforestry (8.6 %, 129)              1   Multipurpose tree species with multistorey cropping                                 109            7.3
+                                       2   Homegardens                                                                          20            1.3
+Water conservation (6.5 %, 98)         1   Other water conservation techniques                                                  28            1.9
+                                       2   Maintaining raised beds, tied ridges and ditches                                     24            1.6
+                                       3   Alternative wet—dry rice irrigation                                                  18            1.2
+                                       4   Partial root zone                                                                      9           0.6
+                                       5   Intermittent submergent irrigation (shallow water for pre- and middle tillering        9           0.6
+                                             stage, field sun drying for late tillering stage, then shallow water again until
+                                             ripening stage)
+                                       6   Drip irrigation                                                                        6           0.4
+                                       7   Wastewater/treated sewage effluent (TSU)                                               4           0.3
+Weed management (2.8 %, 42)            1   Herbicides/fungicides                                                                22            1.5
+                                       2   Mechanical                                                                           14            0.9
+                                       3   Crop residues                                                                          4           0.3
+                                       4   Wide seedling spacing                                                                  1           0.1
+                                       5   Burning                                                                                1           0.1
+Cover crops (5 %, 75)                  1   Legumes                                                                              50            3.3
+                                       2   Shaded patches                                                                       25            1.7
+Pest management (2.5 %, 38)            1   Insecticide                                                                          22            1.5
+                                       2   Integrated, including neem                                                           16            1.1
+Mulching (1.4 %, 21)                   1   Surface crop residue retention                                                       17            1.1
+                                       2   Plastic Film Mulched (PFM)                                                             4           0.3
+Fallowing (5.6 %, 84)                  1   Dry                                                                                  79            5.3
+                                       2   Wet                                                                                    5           0.3
+Erosion control (1.3 %, 20)            1   Terracing                                                                            11            0.7
+                                       2   Revegetating slopes                                                                    9           0.6
+Restoration (2.8 %, 42)                1   Re/afforestation [incl. some rotational woodlots (three studies)]                    34            2.3
+                                       2   Other                                                                                  8           0.5
+Passive interventions (3.1 %, 46)      1   Maintaining biodiversity on farms                                                    16            1.1
+                                       2   Fire management including supporting natural burning regimes                         13            0.9
+                                       3   Carbon sequestration                                                                 12            0.8
+                                       4   Nutrient cycling by maintaining termite mounds within cultivated areas                 5           0.3
+
+Thorn et al. Environ Evid (2016) 5:13                                                                                                             Page 16 of 29
+Table 4 continued
+Group                                         Rank Conservation land management intervention                                                No.            %
+Pollination management (1.6 %, 24)              1     Hand pollination, camel hair brush, glass rod tapered, match stick or provision of       24           1.6
+                                                        beehives
+Mosaic/matrix management (4.5 %, 67)            1     Wild/natural vegetation within/adjacent farmlands                                        57           3.8
+                                                2     Set aside areas such as buffer strips, alleys, hedgerows or field margins                10           0.7
+Crop rotation (6 %, 90)                         1     Relay cropping/shifting cultivation                                                      90           6.0
+Intercropping (1.3 %, 20)                       1     Push pull systems, legumes and cereals/fruit trees, N fixing trees with cardamom         20           1.3
+  Total                                                                                                                                     1504           100
+The overall total (n = 1504) is more than 746, because some studies assessed more than one conservation land management intervention
+hh household
+   Fig. 9 Ten most frequently studied conservation land management interventions (1984–2014). The figure shows notable increases in the absolute
+   number of studies occurred between 2008–09 and again between 2011–12. In particular, from 2011 to 2012, the number of assessments of mulch-
+   ing increased c. 4.5-fold (21–91), organic fertiliser increased c. threefold (19 to 69) and studies measuring the impact of alternate tillage regimes
+   almost doubled (29–57)
+marketed internationally as health foods, providing alter-                           conservation land management and interventions and
+native livelihoods for smallholder farmers.                                          ecosystem service measured.
+Crops and interventions                                                              Indicators to measure on‑farm conservation interventions
+Most studies assessing the impact of tillage and crop                                One hundred and seventeen indicators were measured
+rotation were in wheat and maize cropping systems.                                   (Table 8). Indicators were identified using the description
+Agroforestry was the most prevalent in tree crop and                                 given in studies. Some indicators overlap (e.g. yield could
+coffee production systems, and water conservation prac-                              be categorised under economic indicators, above ground
+tices were most frequently measured in rice cropping                                 biomass could also refer to yield), or be closely associated
+systems. Biodiversity was most frequently studied in sites                           (e.g. Soil Organic Carbon and Total Carbon). Unsurpris-
+with coffee, other tree crops, or maize. Crop rotation                               ingly, most commonly measured indicators are strongly
+most often arose in studies of maize, followed by wheat                              associated with crop productivity, (i.e. Soil Organic Car-
+and soybeans (Table 7). Additional file 9 tabulates all the                          bon (SOC), macronutrients, yield, bulk density and pH).
+
+Thorn et al. Environ Evid (2016) 5:13                                                                                                                                           Page 17 of 29
+  Fig. 10 Number of studies/year measuring organic and inorganic fertiliser application (1995–2014). The figure shows that in the last two decades
+  since 1995 there has been an increase in studies in both inorganic and organic fertiliser. However, inorganic fertiliser has been studied more fre-
+  quently studied that organic
+                                                                                                                                of trees and crop height. Social indicators were meas-
+                    Double Conv.              8                                                                                 ured in 13 % of studies (n = 96), primarily perceptions of
+                     Single Conv.                                                                   111
+                                                                                                                                pest incidence, followed by fuel wood supply and usage,
+                      Disk harrow                        30
+  Tillage regimes
+                          Rotivar                  15                                                                           medicinal and aromatic plants, water quality and soil reg-
+                    Ridge & basin                  15                                                                           ulation. Other variables described the farming context,
+                          Plough
+                     Deep chisel          3
+                                              8
+                                                                                                                                such as household size, village size, months of food secu-
+                         Shallow          3                                                                                     rity, land tenure and presence of farmers associations to
+                          Min. till                16                                                                           access information and funds. Twelve per cent (n = 93)
+                            No-till
+                                      0
+                                                                                                                      141
+                                                                                                                                measured economic indicators, mostly income, farm
+                                              10   20   30    40   50   60   70   80   90   100   110   120   130   140   150
+                                                                        No. of studies                                          inputs, labour days, and farm size and livestock owner-
+  Fig. 11 Number of studies that assessed the impact of tillage                                                                 ship. Indicators of willingness-to-pay or opportunity cost
+  regimes                                                                                                                       were not included, given that purely economic valuation
+                                                                                                                                studies were excluded from the review.
+Out of 746 studies, 73 % (n = 544) measured chemical                                                                            Taxonomic indicators
+indicators—mostly SOC, followed by N, P, K, pH, Total                                                                           Of the 203 studies measuring types of taxonomic groups
+C, CO2, Mg, N2O and NO3. Physical indicators were                                                                               [following Randall and James (2012) [23]; (Fig. 12)], plants
+measured in 53 % (n = 398) of studies - mostly bulk den-                                                                        were most commonly studied (32 %, n = 66), followed by
+sity, soil texture/particle size, water holding capacity/soil                                                                   invertebrates (non-pollinating) (29 %, n = 59) and pol-
+moisture retention, soil type, temperature, soil porosity,                                                                      linators (22 %, n = 44). Very few studies measured birds
+runoff and soil loss (for leaching), water use efficiency,                                                                      and mammals, while two studies did not mention which
+water infiltration rates and altitude. Biological indica-                                                                       taxonomic indicators were used. Studies measuring
+tors were measured in 73 % of studies (n = 546)—mostly                                                                          mammals included one study of large terrestrial ungu-
+yield, community diversity/richness and abundance, fol-                                                                         lates, carnivores, large rodents, armadillos and primates
+lowed by microbial biomass content, below-ground bio-                                                                           in cacao agro-forests in southern Bahia, Brazil [55], a
+mass, stem density/diameter, litter, fruit set, survival rate                                                                   study assessing shrews in a sugarcane plantation in the
+
+Thorn et al. Environ Evid (2016) 5:13                                                                                                                     Page 18 of 29
+  Fig. 12 Number of articles for each taxonomic indicator. Exclusion of biomes in the search, including pastures, grasslands, mangroves, fresh water
+  and marine systems, may have led to some bias against taxonomic groups associated with these systems. The figure shows most assessments con-
+  sider no-, single- and double-conventional tillage. (Conv Conventional tillage, Plough Includes mouldboard, base, country plough)
+Table 5 Crop group categorisation used in the study,                                   functional groups in bird and insect communities, includ-
+and 72 crops that were studied                                                         ing decomposers (e.g. termites, earthworms), phytovores
+Crop group        Crops included in group
+                                                                                       (e.g. weevils), carnivores and frugivores (e.g. birds) [58],
+                                                                                       tunneller and roller species [59], and pollinators, includ-
+Cereal grains Barley, oats, rice, maize, wheat, rapeseed, sorghum, millet,             ing stingless bees, solitary wasps, birds, bats and bumble-
+                    safid muesli, teff/annual bunch grass
+                                                                                       bees [60]. Manipulative or experimental designs were the
+Fruits            Watermelon, peach, guava, apple, mango, pineapple,
+                    lemon, orange, plantain, grape, banana, pear, plum
+                                                                                       most common design for all animal taxa (67 %, n = 135)
+Legumes           Chickpea, soya bean, mung bean, faba bean, jack bean,
+                                                                                       except for birds, where 75 % (n = 6) of studies were non-
+                    french bean, locust bean, alfalfa, hairy and milk vetch,           experimental. Studies of plants had a comparatively larger
+                    cowpea, peanut/groundnut                                           proportion of non-experimental designs compared to
+Vegetables        Gourd, aubergine, pumpkin, cucumber, chilli, green pep-              other taxonomic groups (39 %, n = 23), particularly study
+                    per, lettuce/chicory                                               systems with agroforestry, reforestation, home gardens or
+Grasses           Sugarcane, caster, agave, tifton, napier, grass pea, guina           smallholder agricultural mosaics.
+                    grass, italian ryegrass, pangola grass, congo grass, car-
+                    ribean stylo, beard grass
+Tubers            Sweet potato, potato, carrot, cassava, yam                           Indicators used to measure key ecosystem services
+                                                                                       Water regulation Studies predominantly measured water
+                                                                                       conservation practices to reduce water losses from seep-
+Lowveld of Swaziland [56], and a study on large mammals                                age, percolation and evaporation, and to preserve soil
+including buffalo, eland, and hartebeest in Zambia [57].                               moisture (22 %, n = 47). Many studies also looked at
+Various studies also measured changes in dynamics of                                   how minimum till (19 %, n = 37), fallowing (5 %, n = 10)
+Table 6 Three most frequently studied crops compared to area cultivated globally
+Most frequently studied                % studies         No. studies          % of global culti‑        2014 global acreage            Source
+crops                                                                         vated areaa               (m. ha)
+Maize (Zea mays)                       18.5              285                  12.3                      184                            International service for the
+                                                                                                                                          acquisition of agri-biotech
+                                                                                                                                          applications, 2014
+Rice (Oryza sativa L.)                 11.9              183                  10.7                      160.6                          US Dept Agric, Statistica 2015
+Wheat (Triticum)                        9.9              152                  14.3                      215                            CGIAR 2015
+The table shows the proportion of studies on three staple crops in relation to the proportion of land cultivated globally (shown in italic)
+a
+  Total cultivated area of crops is 1500 mha [3, 52, 53]
+
+Thorn et al. Environ Evid (2016) 5:13                                                                                                                  Page 19 of 29
+Table 7 Summary of crops vs. conservation land management interventions studied
+Crop                         Organic fertiliser                 Tillage              Crop rotation                 Agroforestry                 Water conservation
+Beans                         15                                   8                 10                            12                            6
+Coffee                        10                                   1                  2                            24                            2
+Cotton                        12                                  14                  9                              2                           7
+Maize                        107                                118                  60                            23                           25
+Millet                        17                                   7                  7                              6                           6
+Tree crops                    14                                   8                  5                            58                            6
+Rice                          67                                  41                 23                              9                          36
+Sorghum                       16                                   9                  5                              4                           4
+Soybean                       29                                  45                 27                              1                           7
+Wheat                         90                                  73                 47                              6                          35
+Table 7 illustrates tillage and organic fertiliser has been most commonly studied in maize (n = 171, n = 107), while water conservation has been mostly commonly
+studied in rice (n = 36) and wheat (n = 35)
+[61], cover cropping (4 %, n = 8) and mulching (3 %,                                    Outcomes on ecosystem service and yield
+n = 5) affected water infiltration and runoff [62]). Water                              The reported overall outcome (or effect) of management
+regulation was commonly studied in combination with                                     strategies ecosystem service provision and on yield was
+soil regulation, while conservation techniques included                                 examined using the authors’ own conclusions of the stud-
+micro-dams and furrows, dug out ponds, sub-surface run-                                 ies, following Milder et al. (2014) [77]. In addition to
+off harvesting tanks, rooftop rainwater harvesting system,                              ecosystem service provision, yield was recorded given
+stone bunds, dense runoff collector trenches, draining to                               the association with income, livelihoods and food secu-
+sinks, dam maintenance, abandonment of post-harvest                                     rity, and thus the high value land managers may place on
+grazing, irrigation canals. One hundred and five studies                                maximizing when choosing land management strategies
+measured indicators of water regulation (Fig. 13).                                      to implement. Recording both factors is useful for future
+   Cultural services Most studies of cultural services consid-                          analysis in assessing benefits and trade offs of conserva-
+ered the utilisation and maintenance of wild and cultivated                             tion land management strategies. Independent analysis
+plants on farms that provided biological materials used for                             of the studies results is outside the scope of a systematic
+medicinal, ritual, edible, ceremonial, timber, ornamental and                           map, but documenting the claims made regarding yield
+other purposes [63]. Studies described how the management                               and ecosystem service outcomes would constitute a use-
+of biodiversity supports beliefs and cultural continuity [64],                          ful area for a future systematic review incorporating sta-
+and fosters communities’ social fabric through the sharing of                           tistical analysis. Of the studies that explicitly stated the
+resources [65]. Other studies measured the aesthetic value of                           outcomes of interventions:
+biodiversity on farms, such as birds in isolated trees or open
+areas outside the forest [66]. Only 32 studies measured these                              ••  on ecosystem services and yield (n = 181) (often
+indicators of cultural services (Fig. 14).                                                     referred as ‘win–win’ [78]), 57 % reported dual ben-
+   Pollination services Studies measured the effects prox-                                     efits of ecosystem service and yield improvements;
+imity of fields to semi-native habitats have on insect com-                                ••  on ecosystem services (n = 671), 63 % reported an
+munity diversity and abundance [15, 70, 71], the impact                                        improvement, 28 % found mixed outcomes, 5 %
+of plant types [72] or landscape effects on pollinator pop-                                    reported no change, and 4 % reported a decline in
+ulations and activity [73], or the placement of beehives                                       ecosystem services as a result of the intervention
+or trap nests in fields [74]. A total of 48 studies looked at                                  (Table 9); and
+pollination services (Fig. 15).                                                            ••  on yield (n = 337), 66 % reported an improvement,
+   Carbon regulation Carbon storage and sequestration,                                         22 % reported a mixed outcome, 7 % found no
+included in 282 studies, often measured SOC content                                            impact, and 5 % reported a decline.
+[75], and carbon pools in soil, soil litter or in biomass
+[76]. Carbon regulation services were commonly associ-                                     Mixed outcomes were reported in 39 studies (12 %).
+ated with practices of organic fertiliser application, crop                             Very few studies identified trade-offs between conser-
+rotation, reducing or eliminating soil tillage [75, 76].                                vation land management practices. However, five stud-
+Interestingly, only one study assessing carbon regulation                               ies (2 %) found an improvement in ecosystem service
+measured perceptions of soil organic carbon (Fig. 16).                                  but decline in yield and three studies (1 %) showed an
+
+Table 8 Indicators measured in studies
+Rank Chemical indicators         No    %     Physical indicators         No    %     Biological indicators   No    %     Social indicators          No   %      Economic indicators No   %
+1     Soil organic carbon (SOC) 333    17.4 Bulk density                 154 20.0 Yielda                     273 39.5 Pest incidence                23   17.6 Income                54   35.3
+2     Nitrogen (N)               310   16.2 Soil texture/particle size   136 17.7 Diversity/richness         109 15.8 Fuel wood use                 18   13.7 Farm inputs           34   22.2
+3     Phosphorus (P)             230   12.0 Water holding capacity/       98 12.7 Community abundance         80 11.6 Medicinal value               14   10.7 Labour days           23   15.0
+                                             soil moisture retention
+4     Potassium (K)              197   10.3 Soil type                     97 12.6 Microbial Biomass Con-      37   5.4 Water quality                12    9.2 Farm size             22   14.4
+                                                                                   tent (MBC)
+                                                                                                                                                                                                Thorn et al. Environ Evid (2016) 5:13
+5     pH                         189    9.9 Temperature                   51   6.6 Below ground biomass       33   4.8 Perception of soil quality    9    6.9 Livestock ownership    7    4.6
+                                                                                                                         (SOC)
+6     Total carbon (TC)          135    7.0 Soil porosity                 33   4.3 Stem density/diameter      31   4.5 HH size/type                  8    6.1 Cropping intensity     5    3.3
+7     Carbon dioxide (CO2)        82    4.3 Runoff and soil loss (for     29   3.8 Litter                     24   3.5 Edible wild species           7    5.3 Alt. livelihoods       3    2.0
+                                             leaching)
+8     Magnesium (Mg)              41    2.1 Water use efficiency          29   3.8 Fruit set                  23   3.3 Ethnic group                  6    4.6 Shade                  2    1.3
+                                             (WUE)
+9     Nitrous Oxide (N20)         36    1.9 Water infiltration rate       21   2.7 Survival rate of trees     12   1.7 Village                       6    4.6 Market access          1    0.7
+10    Nitrate (NO3)               34    1.8 Altitude                      15   2.0 Crop height                11   1.6 Food security                 5    3.8 Credit                 1    0.7
+11    Boron (B)                   32    1.7 Turbidity/water stable        12   1.6 Species mass, sex, age      9   1.3 Recreational value            5    3.8 Stumpage fee           1    0.7
+                                              aggregates
+12    Heavy metals (e.g.          30    1.6 Base saturation               12   1.6 Seedling density            8   1.2 Ornamental value              5    3.8
+       Cd,Cu,Pb,Cr,Zn,Ni)
+13    Chlorine (Cl)               30    1.6 Electric conductivity (for    11   1.4 Basal stand                 7   1.0 Farmer’s assoc                3    2.3
+                                              solids)
+14    Methane (CH4)               29    1.5 Soil colour                   10   1.3 Flower visitation rate      7   1.0 Sacred sites                  2    1.5
+15    Dissolved Organic Carbon    25    1.3 Soil depth                    10   1.3 Macro-faunal activity       7   1.0 Climate regulation            2    1.5
+16    Soil enzymes (e.g. acid     22    1.2 Slope gradient                 9   1.2 Species body/tail/wing      6   0.9 Educational value             2    1.5
+        phosphatase)                                                                 length
+17    C:N ratio                   21    1.1 Rainfall                       8   1.0 Fine root production        5   0.7 Land tenure                   2    1.5
+18    Cation exchange capabil-    21    1.1 Distance to natural areas      7   0.9 Weed growth                 3   0.4 Ritual artefacts              1    0.8
+       ity
+19    Calcium (Ca)                17    0.9 Light intensity/radiation      6   0.8 Above ground biomass        3   0.4 Fodder                        1    0.8
+20    Electric conductivity       15    0.8 Humidity/water vapour          4   0.5 Rhizodeposition             2   0.3
+        (liquids) (EC)
+21    Ammonium (NH4-)             12    0.6 Erosion control                4   0.5 Leaf area index             2   0.3
+22    Salinity/sodium/salt        11    0.6 Evaporation/transpira-         3   0.4
+        (NaCl)                                tion
+23    Nitrogen use efficiency      9    0.5 Groundwater depth              3   0.4
+       (NUE)
+24    Ammonia (NH3)                7    0.4 Aspect                         2   0.3
+25    Aluminium (Al)               7    0.4 Surface flow                   2   0.3
+                                                                                                                                                                                                Page 20 of 29
+
+                                                                                                                                                                                                      Thorn et al. Environ Evid (2016) 5:13
+Table 8 continued
+Rank Chemical indicators                No       %     Physical indicators            No   %     Biological indicators       No    %       Social indicators   No   %    Economic indicators No   %
+26        Soluble/crude protein or           7   0.4 Patch size                        2   0.3
+            starch, carbohydrates
+27        Hydron (H +)                       6   0.3 Respiration                       1   0.1
+28        Polyphenol content,                5   0.3
+            lignin, cellulose
+29        Sulphur (S)                        5   0.3
+30        Total soluble sugar                5   0.3
+            (CnH2nOn)
+31        Iron (Fe)                          4   0.2
+32        Exchangeable sodium %              4   0.2
+            (ESP)
+33        Sulfate (SO4)                      3   0.2
+34        Amino sugars                       2   0.1
+35        Residual selenium                  1   0.1
+36        Cholorphyll                        1   0.1
+37        Dissolved oxygen (DO)              1   0.1
+TOTAL                                   1919 100                                      769 100                                692 100                           131 100                      153 100
+The overall totals are more than 746 because all studies assess multiple indicators
+TC total carbon including inorganic, Walkley–Black carbon, Labile carbon, particulate organic carbon, total organic carbon, HH household
+a
+    Yield was typically measured in kg/ha)
+                                                                                                                                                                                                      Page 21 of 29
+
+Thorn et al. Environ Evid (2016) 5:13                                                                                                                                                                                                                                                                                                  Page 22 of 29
+                   70
+                   60
+                   50
+ Key indicators
+                   40
+                   30
+                   20
+                   10
+                       0
+                                                                                                                                                                                                                                                                                                                                                Temperature
+                                                                         Water holding
+                                                                                                                                                                                                                                                                                                             Water infiltration rate
+                                       Yield (kg/ha)
+                                                       N
+                                                                                           SOC
+                                                                                                             P
+                                                                                                                                     pH
+                                                                                                                                              Soil particle size
+                                                                                                                                                                                                                                                                 Soil type
+                                                                                                                                                                                                                                                                                    %Runoff and soil loss
+                                                                                                                      K
+                                                                                                                                                                                                              Bulk density
+                                                                                                                                                                                                                                             Total C
+                                                                                                                                                                       Water Use Efficiency
+                                                                          capacity
+                                                                                                             Water regulation indicators                                                                                                                                              (for leaching )
+   Fig. 13 Water regulation indicators. Eight-five indicators were used to in studies measuring water regulation. Most common indicators included
+   yield, water holding capacity/soil moisture retention, potassium, pH, particle size, water use efficiency, runoff, water infiltration rate, temperature,
+   income and carbon dioxide. Perception of water quality was measured in six studies. Electric conductivity (liquids), cation exchange capability,
+   dissolved organic carbon, and turbidity/water stable aggregates were measured in four studies. Metrics of evapotranspiration, groundwater depth,
+   and erosion control were measured in three studies, and surface flow and base saturation in two studies
+                  10
+                   9
+                   8
+                   7
+ Key indicators
+                   6
+                   5
+                   4
+                   3
+                   2
+                   1
+                   0
+                              Community
+                                                       Medicinal value
+                                                                                             Yield (kg/ha)
+                                                                                                                 N                        P
+                                                                                                                                                                                                                                                       Village
+                                                                                                                                                                                                                                                                             Household size/
+                                                                                                                                                                                                                                                                                                            pH
+                                                                             Fuel wood
+                                                                                                                                                                   K
+                                                                                                                         Community                                                            Perception of
+                                                                                                                                                                                                                             Water Quality
+                                                                                                                                                                                                                                                                                                                                            Total C
+                                                                                                                         abundance
+                                                                           usage/ supply                                                                                                          SOC
+                                                                                                                                                                                                                                                                                 type
+                           diversity/richness
+                                                                                                                       Cultural indicators
+   Fig. 14 Cultural service indicators. Forty-three indicators were used in studies measuring cultural services. Social indicators (e.g. spiritual and sym-
+   bolic value) were the best represented cultural service (n = 10 articles), followed by educational (n = 8), aesthetic/bequest (n = 8) [67], recreational
+   (n = 6), and tourism/ornamental value (n = 5). Methods applied included: a preference-based analysis procedure [67]; ethnography [64]; transect
+   walks; semi-structured interviews [68]; stakeholder workshops [67]; focus groups; and life-history interviews [69]. In particular, religious value was
+   commonly inferred by identifying sacred sites, locations where ritual practice was carried out, and the number of ritual artefacts used for festivals
+   and weddings [67]. Other studies used the proxy of farmers’ donations of cereal grains to religious institutions [67]
+
+Thorn et al. Environ Evid (2016) 5:13                                                                                                                                                                                                                                                                                                                                         Page 23 of 29
+                  20
+                  18
+                  16
+                  14
+ Key indicators
+                  12
+                  10
+                   8
+                   6
+                   4
+                   2
+                   0
+                                                                                                                                                                                                         Soil texture / particle size
+                           Community diversity/richness
+                                                                       Yield (kg/ha)
+                                                                                             Community abundance
+                                                                                                                            Flower visitation rate
+                                                                                                                                                                                                                                        Soil type
+                                                                                                                                                                                                                                                    !Species body / tail / wing length
+                                                                                                                                                                                                                                                                                         N
+                                                                                                                                                                                                                                                                                                                             Stem density/diameter   Species mass, sex, age
+                                                           Fruit set
+                                                                                                                                                         Water holding capacity
+                                                                                                                                                                                          Bulk density                                                                                                                                                                                    Soil porosity
+                                                                                                                                                                                                                                                                                                       Total soluble sugar
+                                                                                                                                                                                  Pollination indicators
+   Fig. 15 Pollination service indicators. Thirty-five indicators were used in studies measuring pollination services. Most frequent measures of pollina-
+   tion were community richness/abundance (15 %, n = 18), fruit set (14 %, n = 17), yield (10 %, n = 13), community abundance (10 %, n = 12), and
+   finally flower visitation (6 %, n = 7)
+                   250
+                   200
+ Key in dicators
+                   150
+                   100
+                    50
+                       0
+                                                                                                                                                                                                                                                                                                                                       Temperature
+                                                                                                                                                                                                                                                                                                                                                                                   Microbial Biomass
+                                                     SOC
+                                                               N
+                                                                             Yield (kg/ha)
+                                                                                                                                    Soil particle size
+                                                                                                                                                                                          P
+                                                                                                                                                                                                                pH
+                                                                                                                                                                                                                                                                         CO2
+                                                                                                                                                                                                                                                                                         Soil type   Water holding
+                                                                                                                                                                                                                                                                                                                                                               CH4
+                                                                                                                                                                                                                                         K
+                                                                                                             Bulk density
+                                                                                                                                                                Total C
+                                                                                                                                                                                                                                                                                                      capacity
+                                                                                                                                                                                                                                                                                                                                                                                       Content
+                                                                                                                                                                                  Carbon regulation indicators
+   Fig. 16 Carbon regulation indicators. Eight-five indicators were used in studies measuring carbon regulation. Most common indicators to measure
+   carbon pools in soil, soil litter or in biomass were SOC (14 %, n = 205), N, P, K, yield, bulk density, soil texture, total carbon, and pH. Sixty-five studies
+   measured carbon dioxide (CO2). Fewer studies used proxies of methane (CH4) (2 %, n = 24), stem density/diameter (1 %, n = 17), crop height and
+   survival rate of trees (ea. 0.3 %, n = 4)
+
+Thorn et al. Environ Evid (2016) 5:13                                                                                             Page 24 of 29
+Table 9 Overall outcomes on ecosystem service provision                         in three particular soil conservation practices, namely
+and yield, as reported by authors                                               mulching (~4.5-fold), organic fertiliser (~threefold) and
+Broad            ES              ES           ES mixed ES same Yield total      alternative tillage regimes (~twofold). This suggests a
+outcomes         improved        declined                                       shift in the research agenda towards agro-ecological
+                                                                                practices. However, the practices currently studied are
+Yield            181              3           24              3          211
+  improved                                                                      still limited in scope, focusing on the effect of farmyard
+Yield               5             5             6             2           18    manure fertilisation (10 %), no tillage (9 %), multipurpose
+  declined                                                                      or multistorey cropping (8 %), or dry fallowing (5 %).
+Yield mixed       27              2           39              1           69       The systematic map found an exponential increase since
+Yield same          6             1             3            10           20    1992 in publications covering the topic of on-farm con-
+ES total         219             11            72            16          318    servation land management. Based on analysis of date of
+Table 9 shows the conclusions drawn by study authors, based on their results    publication of these articles, we suggest increases could be
+for yield and ecosystem services outcomes: 181 studies claimed on-farm          associated with (1) the publication of seminal reports (e.g.
+conservation land management both improved ecosystem services and yield.
+This finding is a key topic for further exploration in a systematic review that
+                                                                                MA in 2005 [6]), TEEB in 2008 [12]); (2) the launch of the
+includes statistical analysis (ES ecosystem service provision)                  ‘climate-smart agriculture’ concept of the FAO in 2010
+                                                                                [80, 81]; (3) international meetings (e.g. the Rio Summit in
+                                                                                1992 and Rio + 20 in 2012); (4) the formation of interna-
+improvement in yield but decline in ecosystem ser-                              tional alliances (e.g. Intergovernmental Panel on Biodiver-
+vice provision. Although useful for broad interpreta-                           sity and Ecosystem Services (IPBES) in 2012); and/or (5) a
+tion, in the first instance, further research into specific                     general increase in financial investment, greater corporate
+pathways of change in ecosystem service provision is                            sponsorship, and a wider variety of finance tools available
+necessary.                                                                      for ecosystem service valuation [82].
+                                                                                   We identified three geographical gaps in research of
+Discussion                                                                      on-farm conservation land management. First, there is a
+General discussion                                                              dearth of research in Africa (constituting 25 % of stud-
+The systematic map illuminates some general trends in                           ies) and in Central and Latin America (constituting 25 %
+the available evidence measuring the effectiveness of on-                       of studies), dwarfed in comparison to the good represen-
+farm conservation land management for preserving or                             tation of studies in Asia, particularly India and China.
+enhancing ecosystem services.                                                   Second, few studies were conducted at the regional and
+   Currently, the types of interventions reported are                           landscape levels, which may skew results away from
+closely related to contemporary understanding and pri-                          ecosystem processes that operate at these scales (e.g.
+orities in agriculture, and in particular conventional agri-                    certain hydrological services). Third, more studies were
+cultural research. The review showed most indicators                            conducted on research stations (76 %) than on working
+measured have a strong association with crop productiv-                         farms; large-scale/commercial farms constituted only 7 %
+ity, economic considerations being key drivers of farmers’                      of studies and combined assessments of small- and large-
+decision-making. Of particular note, a higher number                            scale farms constituted 2 %.
+of studies assessed inorganic fertiliser in contrast with                          These trends may be associated with a broader move-
+organic fertiliser.                                                             ment away from experimental work towards theoretical
+   While previous reviews suggest that most assessments                         work [83]. The trend could also be as a result of meth-
+measured pollination and provisioning services (e.g. [79]),                     odological barriers to working in the field (e.g. labour
+half of the studies in this review measured supporting ser-                     and time investments, site access, permissions, language,
+vices (55 %) and one-third measured regulating services                         payments), and other practical reasons that require
+(33 %). The majority of these studies have measured the                         researchers to draw on existing networks and institu-
+effects of production on carbon sequestration and storage                       tional affiliations, rather than setting up new field sites.
+(26 %), nutrient cycling (17 %) and soil regulation (19 %).                     The reported research is therefore biased towards a lim-
+This emphasis could be attributed to recent concerns                            ited set of known research areas or stations. More work
+about the effects of increasing atmospheric concentration                       is needed to connect broader scale modelling and field-
+of CO2 and other GHGs on climate change, and growing                            based, ground-truthed data. Centralising open access
+interest in how terrestrial sinks can mitigate warming.                         data can help to ensure the effective recording and use of
+   While the review covered a wide range of manage-                             this valuable information when it is collected.
+ment practices, a large proportion of studies assessed till-                       We further identified that multiservice, mixed-method,
+age (24 %) and organic fertilisation regimes (24 %). Since                      and multidisciplinary studies were conspicuously absent,
+2011 [80, 81] there has been a notable increase in interest                     even though the importance of multidisciplinary research
+
+Thorn et al. Environ Evid (2016) 5:13                                                                         Page 25 of 29
+is widely acknowledged [84]. Most studies (92 %) meas-       Low representation of particular taxonomic groups or
+ured just one or two ecosystem services. Only one study      crops may be a result of the exclusion of biomes in the
+measured perceptions and management of carbon stor-          search. Two of the five journals selected during stake-
+age and sequestration even though this was one of the        holder workshops for targeted searches (Field Crops
+most frequently measured services. Further, only four        Research and Agriculture and Ecosystems and Envi-
+studies used an experimental design to assess cultural       ronment) were the most frequently cited journal titles,
+services, while the remaining studies were non-exper-        which may have resulted in familiarity bias [86]. Web-
+imental. Cultural services also constituted the small-       sites from regional agricultural research consortiums,
+est proportion of studies (3 %), confirming that we have     rather than national research agencies were selected to
+limited data (not only in agricultural landscapes) of non-   reduce bias towards governmental agencies, although
+tangible benefits and non-marketable functions of eco-       might have limited the number of studies from some
+system services [67, 85]. Interestingly, only five studies   countries. Bias towards countries most frequently
+on tourism value in agriculture as were detected in our      studied is also likely to be reflected in the language and
+search, and six in recreation, aesthetic, or educational     country population densities (e.g. China, Brazil, India
+value. Therefore, our results indicate a clear need for a    and Mexico).
+broader suite of indicators to be studied in new research
+projects so that land management decisions are based on      Limitations in interpretation
+a more realistic array of ecosystem outcomes.                Limitations in interpretation could have arisen from cat-
+  The review further showed that most studies took           egorising overlapping practices, aggregating multiple
+place on a time-scale that is inadequate for understand-     practices, or reporting the number of articles rather than
+ing whether impacts of management decisions are tem-         multiple outputs of one study. Further, as this map did
+porary, or have more permanent consequences for              not set out to evaluate the quality of evidence, results may
+ecosystem services (54 % were <4 years). This presents a     illuminate evidence gaps, but we cannot infer the robust-
+particular challenge for ecosystem processes and services    ness of studies beyond whether they are experimental,
+that operate on longer time-scales in the order of dec-      quasi-experimental, or correlative. Although the terms
+ades, such as soil carbon storage. Therefore, more long-     experimental, quasi-experimental, or correlative were
+term experiments and monitoring are needed.                  defined, there is also room for interpretation of what is
+  Finally, the finding that most studies assessing the       randomised or manipulated—thereby introducing the
+effectiveness of on-farm conservation land manage-           possibility of an overrepresentation of experimental stud-
+ment are published in journal articles (97 %), only one-     ies. Nevertheless, users of the map may read the studies
+third of which are open access, suggests that access to      relevant to the ecosystem service, intervention or crop of
+this knowledge may be limited for decision-makers out-       interest in order to assess their quality using existing cri-
+side of academia. Few studies based on direct local evi-     teria [23].
+dence are available in the literature published by relevant
+organisations and institutions (2 %). This raises a poten-   Conclusion
+tial disconnect between the types of management prac-        This systematic map provides a robust synthesis of the
+tices promoted by organisations likely to have a presence    evidence on the effectiveness of on-farm conservation
+in the field and the empirical evidence of their efficacy in land management for preserving and enhancing eco-
+promoting ecosystem service delivery.                        system service provision in agricultural landscapes in
+                                                             developing countries. The systematic map of 746 studies,
+Limitations in searching                                     in combination with an interactive online platform that
+We acknowledge that studies published before 1984            geographically maps results (accessible at https://oxlel.
+are less likely to be available in electronic format and     zoo.ox.ac.uk/resources/ecosystem-services-onfarm-
+were therefore not a source of literature for the cur-       conservation-map), allows users to interrogate different
+rent systematic map. Although the search strategy            aspects of previously fragmented evidence through a
+was widely circulated amongst our stakeholder groups         defined database field structure. The database provides
+and published in the protocol [32], there may have           evidence concerning a wide range of conservation land
+been terms we may have missed to produce additional          management practices—particularly tillage, agroforestry,
+records, such as practices (e.g. direct and mulch till-      organic fertilisation and water conservation—which
+ing) or ecosystem services (e.g. soil organic carbon         impact key ecosystem services—particularly carbon
+stores in cases where the phrase ‘carbon sequestra-          sequestration, soil/water regulation, nutrient cycling and
+tion’ is not used in the title, abstract or keywords).       biodiversity.
+
+Thorn et al. Environ Evid (2016) 5:13                                                                            Page 26 of 29
+Implications for policy and management                           ••  studies of perennial crops, especially cash crops, such
+Natural landscapes will continue to be converted to agri-            as tobacco and rubber.
+cultural landscapes, and extensive land converted into
+intensive land, with 7.5 million km2 expected to be con-       Implications for extension of the systematic map
+verted by 2050 [87]. In the face of unprecedented agri-        The systematic map is easily updatable and may be
+cultural expansion and land use change, in the future          extended to include additional data analysis. An exten-
+there is a high likelihood the management will be geared       sion of the map might consider key economic and liveli-
+to favour some services (e.g. provisioning) over others        hood metrics, funders of studies (to test whether funding
+(e.g. supporting). While future work is needed on alter-       may determine emphases on fertilisation and major
+native public and private payment schemes, institutional       commodity crops, for example), and other likely envi-
+arrangements, and the important matter of explicit             ronmental variables that could lead to heterogeneity in
+trade-offs arising from conservation management, results       determining overall effect of land management (e.g. soil
+emphasise that more value should be attached by devel-         type, mineral texture class, altitude, slope, species mix
+opment planners to the importance of minimal input,            in cropping systems, previous land uses, and surround-
+multifunctional agriculture, sustainable intensification,      ing land uses) [32]. The systematic map could also be
+and conservation agriculture.                                  expanded to include studies in other major languages,
+                                                               especially French and Spanish.
+Implications for future agriculture and ecosystem services
+research                                                       Implications for future systematic reviews
+Future research needs include:                                 Future work could usefully look in more detail at ele-
+                                                               ments of this systematic map through a full systematic
+  ••  long-term experiments (20 years+) that assess tem-       review. Such systematic reviews could focus on individual
+      poral stability, and response and recovery from a        crops, or particular regions, indicators, or management
+      variety of disturbances, particularly of biodiversity on strategies. We identified the following key questions that
+      farms and functional diversity;                          appear to have sufficient primary research to carry out
+  ••  studies in 28 countries, namely Afghanistan; Algeria;    systematic reviews, and have current global relevance to
+      Bhutan; Botswana; Burundi; Cambodia; Central Afri-       policy and management:
+      can Republic; Chad; Comoros; Congo; Democratic
+      Republic of Congo; Djibouti; Eritrea; Guinea-Bissau;       ••  ‘What is the ecological impact of key agroforestry
+      Kyrgyzstan; Lesotho; Liberia; Mauritania; Mongo-               crops with therapeutic properties and livestock
+      lia; Namibia; Samoa; São Tomé and Principe; South              fodder crops (including Adansonia digitata (bao-
+      Sudan; Sierra Leone; Solomon Islands; Somalia;                 bab) [88], Moringa oleifera L. (moringa) [89] and
+      Tajikistan; and Yemen.                                         Vitellaria paradoxa (shea tree) [90]), on improving
+  ••  studies in the regions of Central Africa; North Africa;        smallholder farmer livelihood in Sub-Saharan Africa
+      Central Asia; and Oceania;                                     and Asia?’
+  ••  cross continental and cross-country studies;               ••  ‘What are the economic, ecological and social costs
+  ••  research on working farms, rather than on research             and benefits for smallholders of shifting from con-
+      stations. Empirical studies in smallholder farming             ventional to short maturing seed varieties?’
+      systems are needed;                                        ••  ‘What is the impact of livestock, population density
+  ••  research on provisioning services in agricultural              and land holding size on organic manure availability
+      landscapes, namely building material, pollination,             and soil organic carbon?’
+      fuel wood, non-timber forest products, and medici-         ••  ‘What is the impact of intercropping leguminous
+      nal and aromatic plants;                                       cover crops and traditional staple cereals (e.g. sor-
+  ••  studies in vegetable cropping systems. Future research         ghum, maize and cassava) on soil/water regulation,
+      may also review the world of research institutions             and nutrient cycling?’
+      such as the World Vegetable Centre (AVRDC);                ••  ‘What is the impact of fire management regimes on
+  ••  studies measuring cultural services and non-tangible           carbon sequestration, water resources, air quality,
+      benefits;                                                      and biodiversity in developing regions?’ (While pre-
+  ••  studies measuring ecological variables in conjunction          vious reviews have been conducted in specific coun-
+      with farmers’ perception;                                      tries, such as the US [91], Australia [92], and Ghana
+  ••  studies assessing multiple ecosystem services and              [93], we identified no such regional reviews.)
+      their interactions; and
+
+Thorn et al. Environ Evid (2016) 5:13                                                                                                                  Page 27 of 29
+    ••  ‘What is the impact of large-scale or commercial pro-                    software, provided technical support for the screening process. Andrew Mar-
+                                                                                 tin kindly assisted in the construction of the online platform. Thanks are due to
+        duction on preserving ecosystem services in palm oil,                    Bridget Biggs, Simon Hoyte, Marlin Fortuin, Tokelo Shai, Deogratias Kayumba,
+        jatropha, and soya bean cropping systems?’                               Daniel Habib, Kayla Gersohn, Rebecca Eberlin, Hayli Geffen, Danielle Eberlin,
+                                                                                 and Sivan Kohen, for research assistance in screening and coding. Research
+Additional files                                                                 support was also provided by Marc Falconer and Paul Schooling of United
+                                                                                 Herzlia Schools, Stefan Wessels and Linda Thorn. Library access was provided
+                                                                                 by the University of Oxford, CIFOR, and the Department of Environmental and
+   Additional file 1. Definitions and countries included in the systematic       Geographical Sciences at the University of Cape Town. Merton College and
+   map.                                                                          Conservation International South Africa provided workshop venues for stake-
+                                                                                 holder consultation. Authors would like to thank the anonymous reviewers
+   Additional file 2. Records generated for specific searches.
+                                                                                 for Environmental Evidence who provided helpful feedback, as well as several
+   Additional file 3. Meta-analyses and systematic reviews.                      other reviewers who commented on earlier versions of the manuscript.
+   Additional file 4. Studies excluded at full text with reasons for exclusion.
+                                                                                 Competing interests
+   Additional file 5. Coding tool for systematic map.                            The authors declare that they have no competing interests.
+   Additional file 6. Systematic map database on on-farm conservation
+   land management and ecosystem services.                                       Availability of data and materials
+                                                                                 The datasets supporting the conclusions of this article are included within the
+   Additional file 7. Studies included in the systematic map database.           article and its additional files.
+   Additional file 8. Agroforestry tree crops studied in articles included in
+   the review, with scientific name with common name and uses.                   Consent for publication
+                                                                                 This article is distributed under the terms of the Creative Commons Attribu-
+   Additional file 9. Tabulation of conservation land management and             tion 4.0 International License, which permits unrestricted use, distribution,
+   interventions and ecosystem service measured.                                 and reproduction of the material, provided appropriate credit is given to the
+                                                                                 original authors and the source, and indicate if changes were made. The Crea-
+                                                                                 tive Commons Public Domain Dedication waiver (http://creativecommons.
+Abbreviations                                                                    org/publicdomain/zero/1.0/) applies to the data made available in this article,
+AGRICOLA: National Agricultural Library and Citation Database; AGRIS: Agricul-   unless otherwise stated.
+tural Science and Technology Information Systems; AVRDC: World Vegetable
+Centre; C: carbon; CABI: CAB International, formally Commonwealth Agricul-       Ethics approval and consent to participate
+tural Bureaux; CEE: Collaboration for Environmental Evidence; CH4: methane;      Not applicable.
+CIFOR: Centre for International Forestry Research; CIMMYT: International Maize
+and Wheat Improvement Centre; CAADP: Comprehensive Africa Agriculture            Funding
+Development Programme; CO2: carbon dioxide; DFID: UK Department for              Financial support was provided by the Evidence-Based Forestry (EBF) Initiative
+International Foreign Development; ES: Ecosystem Service; ESPA: Ecosystem        of the Centre for International Forestry Research (CIFOR), supported through
+Services and Poverty Alleviation; FAO: United Nations Food and Agricultural      the United Kingdom’s Department for International Development (DFID), Mer-
+Organisation; GHG: greenhouse gases; ICRISAT: International Crops Research       ton College Simms Grant, and Climate Change Agriculture and Food Security
+Institute for the Semi-Arid Tropics; IPBES: Intergovernmental Panel on Biodiver- (CCAFS) research programme.
+sity and Ecosystem Services; IRRI: International Rice Research Institute; IWMI:
+International Water Management Institute; K: potassium; LIFDC: low-income        Received: 2 March 2016 Accepted: 11 June 2016
+food deficit countries; MA: millennium ecosystem assessment; Mg: magne-
+sium; N: nitrogen; N20: nitrous oxide; NO3: nitrate; NTFP: non-timber forest
+products; ODI: Overseas Development Institute; P: phosphorus; PDF: portable
+document format; PRISMA: Preferred Reporting Items for Systematic Reviews
+and Meta-analyses; SOC: soil organic carbon; TEEB: The Economics of Ecosys-
+tems and Biodiversity; US: United States; USDA ARS: United States Department     References
+of Agriculture’s Agricultural Research Service; UK: United Kingdom; UK NEA:       1. FAO, The State of Food Insecurity in the World 2015. Meeting the 2015
+United Kingdom National Ecosystem Assessment; WB: World Bank; WOS: Web                 international hunger targets: taking stock of uneven progress. FAO, IFAD.
+of Science; WRI: World Resources Institute.                                            Rome: WFP; 2015.
+                                                                                  2. Ehrlich PR, Ehrlich AH. Can a collapse of global civilization be avoided?
+Authors’ contributions                                                                 Proc Natl Acad Sci B. 2013;280:2012854.
+JT jointly with GP conceived the study and secured funding support. JT, GP,       3. UK Government Office for Science. Foresight The future of food and farm-
+and RF co-wrote the manuscript. JT coordinated the data extraction. JT, RF             ing: Challenges and choices for global sustainability (Executive summary).
+and GP implemented the search, screening and data extraction. JT and DB                London: UK Government Office for Science; 2011.
+conducted the mapping. JT and RF conducted analysis. All authors read and         4. Intergovernmental Panel on Climate Change. Contribution to the Work-
+approved the final manuscript.                                                         ing Group I to the third assessment report of the Intergovernmental
+                                                                                       Panel on Climate Change. In: Houghton JT, Ding Y, Griggs DJ, Noguer M,
+Author details                                                                         der Linden PJ, Dai X, Maskell K, Johnson CA, editors. Climate change 2001:
+1                                                                                      impacts, adaptation and vulnerability. Cambridge: University Press; 2001.
+  Long‑term Ecology Laboratory, Department of Zoology, University of Oxford,
+Oxford, UK. 2 School of Geography and the Environment, University of Oxford,      5. Dile YT, Karlberg L, Temesgen M, Rockström J. The role of water harvesting to
+Oxford, UK. 3 Centre for International Forestry Research, Bogor, Indonesia.            achieve sustainable agricultural intensification and resilience against water
+4
+  Royal Botanical Gardens, Kew, UK. 5 Department of Biology, University of Ber-        related shocks in sub-Saharan Africa. Agric Ecosyst Environ. 2013;181:69–79.
+gen, Bergen, Norway.                                                              6. Millennium Ecosystem Assessment. Ecosystems and human well-being:
+                                                                                       biodiversity synthesis. Washington: World Resources Institute; 2005.
+Acknowledgements                                                                  7. Godfray CH, Beddington JR, Crute IR, Haddad L, Lawrence D, Muir JF,
+We gratefully acknowledge the support of the Evidence-Based Forestry (EBF)             Pretty J, Robinson S, Thomas SM, Toulmin C. Food security: the challenge
+Initiative of the Centre for International Forestry Research (CIFOR) and the           of feeding 9 billion people. Science. 2010;327(5967):812–8.
+Long-Term Ecology Lab in the Department of Zoology, University of Oxford for      8. Seto KC, Güneralp B, Hutyra LR. Global forecasts of urban expansion to
+making this research possible. In particular, Samson Foli and Wen Zhou kindly          2030 and direct impacts on biodiversity and carbon pools. Proc Natl Acad
+provided support in database screening. Max Fancourt, developer of DataX               Sci. 2012;109(40):16083–8.
+
+Thorn et al. Environ Evid (2016) 5:13                                                                                                                   Page 28 of 29
+9.  Brown LR, Abramovitz J, Bright C, Flavin C, Gardner G, Kane H, Platt A, Postel 31. Tilman D, Balzer C, Hill J, Befort BL. Global food demand and
+    S, Roodman D, Sachs A, Starke L. State of the World. World watch institute:        the sustainable intensification of agriculture. Proc Natl Acad Sci.
+    Norton; 1996.                                                                      2011;108(50):20260–4.
+10. Oxford Martin Commission. Now for the long term: The report of the             32. Thorn J, Snaddon J, Waldron A, Kok K, Zhou W, Bhagwat S, Willis K,
+    oxford martin commission for future generations. Oxford: University Press;         Petrokofsky G. How effective are on-farm conservation land management
+    2013.                                                                              strategies for preserving ecosystem services in developing countries? A
+11. Dale VH, Polasky S. Measures of the effects of agricultural practices on           systematic map protocol. Environ Evid. 2015;4(11):1–12.
+    ecosystem services. Ecol Econ. 2007;64(2):286–96.                              33. Pullin AS, Bangpan M, Dalrymple S, Dickson K, Haddaway NR, Healey JR,
+12. TEEB. The Economic of Ecosystems and Biodiversity for National and                 Hauari H, Hockley N, Jones JPG, Knight T, Vigurs C, Oliver S. Human well-
+    International Policy Makers: summary report. Geneva: TEEB; 2009.                   being impacts of terrestrial protected areas. Environ Evid. 2013;2(19):1–41.
+13. CICES. Common International Classification for Ecosystem Service map-          34. FAO. Low-income food-deficit countries (LIFDC)—list for, 2014. FAO:
+    ping and assessment, vol. 4. CICES: Nottingham; 2013.                              Rome; 2014.
+14. Mupangwa W, Twomlow S, Walker S. Reduced tillage, mulching and rota-           35. Ecosystem Services and Poverty Alleviation (ESPA). Regions of operation.
+    tional effects on maize (Zea mays L.), cowpea (Vigna unguiculata (Walp)            London: ESPA; 2014.
+    L.) and sorghum (Sorghum bicolor L. (Moench)) yields under semi-arid           36. World Bank. Country and Lending Groups. Washington: World Bank; 2014.
+    conditions. Field Crop Res. 2012;132:139–48.                                   37. FAO. Final 2012 data and preliminary 2013 for major commodities aggre-
+15. Carvalheiro LG, Veldtman R, Shenkute AG, Tesfay GB, Pirk CWW, Donald-              gated 2013. Rome: Statistics Division; 2012.
+    son JS, Nicolson SW. Natural and within-farmland biodiversity enhances         38. Liquete C, Piroddi C, Drakou EG, Gurney L, Katsanevakis S, Chared A,
+    crop productivity. Ecol Lett. 2011;14:251–9.                                       Egoh B. Current status and future prospects for the assessment of
+16. Leakey R. Multifunctional agriculture and opportunities for agroforestry:          marine and coastal ecosystem services: a systematic review. PLoS One.
+    implications of IAASTD, in agroforestry-the future of global land use.             2013;8(7):1–15.
+    Netherlands: Springer; 2012. p. 203–14.                                        39. EndNote. EndNote reference manager 2013. Philadelphia: Thomson
+17. Friedrich T, Kienzle J, Kassam A. Conservation agriculture in developing           Reuters; 2013. p. X7TM.
+    countries: the role of mechanization innovation for sustainable agricul-       40. Fancourt M. DateX: systematic review extraction software. Cambridge;
+    tural mechanisation. In: Chauhan BS, Mahajan G, editors. Recent advances           2015.
+    in weed management. Hanover: Springer; 2009.                                   41. Randolph JJ. Online Kappa Calculator [Computer software]. 2008.
+18. Power AG. Ecosystem services and agriculture: tradeoffs and synergies.         42. ESRI. Desktop: Release 10. Redlands: Environmental Systems Research
+    Phil Trans R Soc B. 2010;365(1554):2959–71.                                        Institute; 2015.
+19. Melero S, Panettieri M, Madejón E, Gómez MH, Moreno F, Murillo JM.             43. de MoraesSá JC, Séguy L, Gozé E, Bouzinac S, Husson O, Boulakia S, Tivet
+    Implementation of chiselling and mouldboard ploughing in soil after                F, Forest F, dos Santos JB. Carbon sequestration rates in no-tillage soils
+    8 years of no-till management in SW, Spain: effect on soil quality. Soil           under intensive cropping systems in tropical agroecozones. Ponta Grossa:
+    Tillage Res. 2011;112(2):107–13.                                                   Universidade Estadual de Ponta Grossa; 2010.
+20. Powlson DS, Stirling CM, Jat ML, Gerard BG, Palm CA, Sanchez PA, Cass-         44. Pfund J-L, Watts JD, Boissiere M, Boucard A, Bullock RM, Ekadinata A,
+    man KG. Limited potential of no-till agriculture for climate change mitiga-        Dewi S, Feintrenie L, Levang P, Rantala S, Sheil D, Sunderland TCH, Urech
+    tion. Nat Climate Change. 2014;4(8):678–83.                                        ZL. Understanding and Integrating Local Perceptions of Trees and Forests
+21. Roe D, Sandbrook C, Fancourt M, Schulte B, Munroe R, Sibanda M. A                  into Incentives for Sustainable Landscape Management. Environ Manage.
+    systematic map protocol: which components or attributes of biodiversity            2011;48(2):334–49.
+    affect which dimensions of poverty? Environ Evid. 2013;2(1):1–8.               45. Dixon J, Gulliver A, Gibbon D. Farming systems and poverty, vol. 412.
+22. Haddaway NR, Styles D, Pullin AS. Evidence on the environmental                    Rome: FAO and World Bank; 2001.
+    impacts of farm land abandonment in high altitude/mountain regions: a          46. Maltas A, Corbeels M, Scopel E, Oliver R, Douzet J-M, Macena da Silva F,
+    systematic map. Environ Evid. 2014;3(1):1–19.                                      Wery J. Long-term effects of continuous direct seeding mulch-based
+23. Randall N, James KL. The effectiveness of integrated farm management,              cropping systems on soil nitrogen supply in the Cerrado region of Brazil.
+    organic farming and agri-environment schemes as interventions for                  Plant Soil. 2007;298(1–2):161–73.
+    conserving biodiversity in temperate Europe—a systematic map. Environ          47. Mupangwa W, Twomlow SJ, Walker S, Hove L. Effect of minimum tillage
+    Evid. 2012;1(4):1–21.                                                              and mulching on maize (Zea mays L.) yield and water content of clayey
+24. Bottrill M, Cheng S, Garside R, Wongbusarakum S, Roe D, Holland MB,                and sandy soils. Phys Chem Earth. 2007;32(15–18):1127–34.
+    Edmond J, Turner WR. What are the impacts of nature conservation               48. Hou R, Ouyang Z, Li Y, Tyler DD, Li F, Wilson GV. Effects of tillage and resi-
+    interventions on human well-being: a systematic map protocol. Environ              due management on soil organic carbon and total nitrogen in the north
+    Evid. 2014;3(16):1–11.                                                             china plain. Soil Sci Soc Am J. 2012;76(1):230–40.
+25. Petrokofsky G. Growth of the term ‘evidence-based’. Oxford: University of      49. Wang Y, Xu J, Shen J, Luo Y, Scheu S, Ke X. Tillage, residue burning and
+    Oxford; 2010.                                                                      crop rotation alter soil fungal community and water-stable aggregation
+26. Corbeels M, de Graaff J, Tim NH, Penot E, Baudron F, Naudin K, Andrieu             in arable fields. Soil Tillage Res. 2010;107(2):71–9.
+    N, Chirat G, Schuler J, Nyagumbo I, Rusinamhodzi L, Traore K, Mzoba            50. Bardhan S, Jose S, Biswas S, Kabir K, Rogers W. Homegarden agroforestry
+    HD, Dolwa IS. Understanding the impact and adoption of conserva-                   systems: an intermediary for biodiversity conservation in Bangladesh.
+    tion agriculture in Africa: a multi-scale analysis. Agric Ecosyst Environ.         Agroforestry Syst. 2012;85(1):29–34.
+    2014;187:155–70.                                                               51. Savilaakso S, Laumonier Y, Guariguata MR, Nasi R. Does production of oil
+27. Corbeels M, Scopel E, Cardoso A, Bernoux M, Douzet J-M, Neto                       palm, soybean, or jatropha change biodiversity and ecosystem functions
+    MS. Soil carbon storage potential of direct seeding mulch-based                    in tropical forests. Environ Evidence. 2013;2(17):1.
+    cropping systems in the Cerrados of Brazil. Glob Change Biol.                  52. FAO. State of food insecurity in the world 2012: Economic growth is
+    2006;12(9):1773–87.                                                                necessary but not sufficient to accelerate reduction of hunger and mal-
+28. Haddaway NR, Hedlund K, Jackson LE, Kätterer T, Lugato E, Thomsen IK,              nutrition. Rome: IFAD and WFP; 2012.
+    Jørgensen HB, Bracht H, Söderström B. What are the effects of agricul-         53. ISAAA. International service for the acquisition of agri-biotech applica-
+    tural management on soil organic carbon in boreo-temperate systems?                tions. 2014. Available from: http://www.isaaa.org/default.asp.
+    Environ Evid. 2015;4(1):1–29.                                                  54. Statista. Leading soybean producing countries worldwide 2012. 2012.
+29. Bernes C, Jonsson BG, Junninen K, Lõhmus A, Macdonald E, Müller J,             55. Cassano CR, Barlow J, Pardini R. Forest loss or management intensifica-
+    Sandström J. What is the impact of active management on biodiversity in            tion? Identifying causes of mammal decline in cacao agroforests. Biol
+    boreal and temperate forests set aside for conservation or restoration? A          Conserv. 2014;169:14–22.
+    systematic map. Environ Evid. 2015;4(1):1–22.                                  56. Hurst ZM, McCleery RA, Collier BA, Silvy NJ, Taylor PJ, Monadjem A. Link-
+30. Glenn J, Gordon T, Florescu E. State of the future, millennium develop-            ing changes in small mammal communities to ecosystem functions in an
+    ment project. Washington: UN University; 2008.                                     agricultural landscape. Mammal Biol. 2014;79(1):17–23.
+
+Thorn et al. Environ Evid (2016) 5:13                                                                                                                Page 29 of 29
+57. Lewis D, Bell SD, Fay J, Bothi KL, Gatere L, Kabila M, Mukamba M,             78. Bostick WM, Bado VB, Bationo A, Soler CT, Hoogenboom G, Jones JW.
+    Matokwani E, Mushimbalume M, Moraru CI, Lehmann J, Lassoie J,                     Soil carbon dynamics and crop residue yields of cropping systems
+    Wolfe D, Lee DR, Buck L, Travis AJ. Community Markets for Conservation            in the Northern Guinea Savanna of Burkina Faso. Soil Tillage Res.
+    (COMACO) links biodiversity conservation with sustainable improve-                2007;93(1):138–51.
+    ments in livelihoods and food production. Proc National Acad Sci USA.         79. Elmqvist T, Tuvendal M, Krishnaswamy J, Hylander K. Managing trade-offs
+    2011;108(34):13957–62.                                                            in ecosystem services. In: Kumar PI, editor. Values, payments and institu-
+58. Martin EA, Ratsimisetra L, Laloe F, Carriere SM. Conservation value for           tions for ecosystem management. Cheltenham: Edward Elgar Publishing;
+    birds of traditionally managed isolated trees in an agricultural landscape        2013. p. 70–89.
+    of Madagascar. Biodivers Conserv. 2009;18(10):2719–42.                        80. Suckall N, Stringer LC, Tompkins EL. Presenting triple-wins? assessing
+59. Campos RC, Hernández MIM. Changes in the dynamics of functional                   projects that deliver adaptation, mitigation and development co-benefits
+    groups in communities of dung beetles in Atlantic forest fragments                in rural Sub-Saharan Africa. Ambio. 2015;44(1):34–41.
+    adjacent to transgenic maize crops. Ecol Ind. 2015;49:216–27.                 81. Lipper L, Mann W, Meybeck A, Sessa R. “Climate-smart” agriculture: poli-
+60. Briggs HM, Perfecto I, Brosi BJ. The role of the agricultural matrix: coffee      cies, practices and financing for foodsecurity, adaptation and mitigation.
+    management and Euglossine Bee (Hymenoptera: Apidae: Euglossini)                   Rome: FAO; 2010.
+    communities in Southern Mexico. Environ Entomol. 2013;42(6):1210–7.           82. Goldman RL, Tallis H, Kareiva P, Daily GC. Field evidence that ecosystem
+61. Nyamadzawo G, Nyamugafata P, Wuta M, Nyamangara J, Chikowo                        service projects support biodiversity and diversify options. Proc Natl Acad
+    R. Infiltration and runoff losses under fallowing and conserva-                   Sci. 2008;105(27):9445–8.
+    tion agriculture practices on contrasting soils, Zimbabwe. Water.             83. Hooper DU, Chapin FS, Ewel JJ, Hector A, Inchausti P, Lavorel S, Lawton
+    2012;38(2):233–40.                                                                JH, Lodge DM, Loreau M, Naeem S, Schmid B, Setälä H, Symstad AJ, Van-
+62. Araya T, Cornelis WM, Nyssen J, Govaerts B, Bauer H, Gebreegziabher               dermeer J, Wardle DA. Effects of biodiversity on ecosystem functioning: a
+    T, Oicha T, Raes D, Sayre KD, Haile M, Deckers J. Effects of conservation         consensus of current knowledge. Ecol Monogr. 2005;75(1):3–35.
+    agriculture on runoff, soil loss and crop yield under rainfed conditions in   84. Carpenter SR, Mooney HA, Agard J, Capistrano D, DeFries RS, Diaz S,
+    Tigray Northern Ethiopia. Soil Use Manage. 2011;27(3):404–14.                     Dietz T, Duraiappah AK, Oteng-Yeboah A, Pereira HM, Perrings C, Reid
+63. Fu Y, Chen J, Guo H, Chen A, Cui J. Utilisation and conservation strate-          WV, Sarukhan J, Scholes RJ, Whyte A. Science for managing ecosystem
+    gies for plant resources in tropical montane agroecosystems: a case               services: beyond the Millennium Ecosystem Assessment. Proc Natl Acad
+    study from Xishuangbanna, SW China. Int J Biodivers Sci Manage.                   Sci USA. 2009;106:1305–12.
+    2008;4(1):32–43.                                                              85. UK National Ecosystem Assessment. Understanding nature’s value to
+64. Del Angel-Perez AL, Mendoza MA. Totonac homegardens and natural                   society, technical report. Cambridge: UNEP-WCMC; 2011.
+    resources in Veracruz, Mexico. Agricult Hum Value. 2004;21(4):329–46.         86. Collaboration for Environmental Evidence. Guidelines for systematic
+65. Mohri H, Lahoti S, Saito O, Mahalingam A, Gunatilleke N, Hoang VT,                reviews in environmental management. Bangor: Bangor University; 2013.
+    Hitinayake G, Takeuchi K, Herath S. Assessment of ecosystem services          87. Braat L, TenBrink P. The cost of policy inaction (COPI): The case of not meet-
+    in homegarden systems in Indonesia, Sri Lanka, and Vietnam. Ecosyst               ing the 2010 biodiversity target. European Commission: Brussels; 2008.
+    Service. 2013;5:124–36.                                                       88. Kabore D, Sawadogo-Lingani H, Diawara B, Compaoré C, Dicko MH,
+66. Martin EA, Viano M, Ratsimisetra L, Laloe F, Carriere SM. Maintenance of          Jacobsen M. A review of baobab (Adansonia digitata) products: effect
+    bird functional diversity in a traditional agroecosystem of Madagascar.           of processing techniques, medicinal properties and uses. Afr J Food Sci.
+    Agric Ecosyst Environ. 2012;149:1–9.                                              2011;5(16):833–44.
+67. Duguma LA, Hager H. Farmers’ Assessment of the Social and Ecologi-            89. Nouman W, Basra SMA, Siddiqui MT, Yasmeen A, Gull T, Alcayde MAC.
+    cal Values of Land Uses in Central Highland Ethiopia. Environ Manage.             Potential of Moringa oleifera L. as livestock fodder crop: a review. Turkish J
+    2011;47(5):969–82.                                                                Agricult Forestry. 2014;38:1–14.
+68. Hoffmann I, Gerling D, Kyiogwom UB, Mane-Bielfeldt A. Farmers’ manage-        90. Collins AM. Urban poverty in Northern Ghana: tracing the livelihood
+    ment strategies to maintain soil fertility in a remote area in northwest          strategies of women in the shea butter industry. J Hum Soc Sci Res.
+    Nigeria. Agric Ecosyst Environ. 2001;86(3):263–75.                                2014;3(1):15–25.
+69. Garcia-Frapolli E, Toledo VM, Martinez-Alier J. Adaptations of a yucatec      91. Knapp EE, Estes BL, Skinner CN. Ecological effects of prescribed fire
+    maya multiple-use ecological management strategy to ecotourism. Ecol              season: a literature review and synthesis for managers. USA: United States
+    Soc. 2008;13(2):31.                                                               Department of Agriculture Forest Service; 2009.
+70. Otieno M, Woodcock BA, Wilby A, Vogiatzakis IN, Mauchline AL, Gikungu         92. Russell-Smith J, Cook GD, Cooke PM, Edwards AC, Lendrum M, Meyer CP,
+    MW, Potts SG. Local management and landscape drivers of pollination               Whitehead PJ. Managing fire regimes in north Australian savannas: apply-
+    and biological control services in a Kenyan agro-ecosystem. Biol Conserv.         ing Aboriginal approaches to contemporary global problems. Front Ecol
+    2011;144(10):2424–31.                                                             Environ. 2013;11(s1):e55–63.
+71. Xie Z, An J. The effects of landscape on bumblebees to ensure crop pol-       93. Yahaya AK, Amoah ST. Bushfires in the Nandom District of the Upper
+    lination in the highland agricultural ecosystems in China. J Appl Entomol.        West Region of Ghana: perpetual Threat to Food Crop Production. J
+    2014;138(8):555–65.                                                               Environ Earth Sci. 2013;3(7):10–5.
+72. Abrol DP, Shankar U, Chatterjee D, Ramamurthy VV. Exploratory studies
+    on diversity of bees with special emphasis on non-Apis pollinators in
+    some natural and agricultural plants of Jammu division India. Curr Sci.
+    2012;103(7):780–3.                                                                Submit your next manuscript to BioMed Central
+73. Abrol DP, Abrol DP. Wild bees and crop pollination—pollination biology:
+    biodiversity conservation and agricultural production. Netherlands:               and we will help you at every step:
+    Springer; 2012. p. 111–84.                                                          • We accept pre-submission inquiries
+74. Magalhaes CB, Freitas BM. Introducing nests of the oil-collecting bee
+    Centris analis (Hymenoptera: Apidae: Centridini) for pollination of acerola         • Our selector tool helps you to find the most relevant journal
+    (Malpighia emarginata) increases yield. Apidologie. 2013;44(2):234–9.               • We provide round the clock customer support
+75. Boddey RM, Jantalia CP, Conceicao PC, Zanatta JA, Bayer C, Mielniczuk               • Convenient online submission
+    J, Dieckow J, Santos HP, Denardin JE, Aita C, Giacomini SJ, Alves BJR,
+    Urquiaga S. Carbon accumulation at depth in Ferralsols under zero-till              • Thorough peer review
+    subtropical agriculture. Glob Change Biol. 2010;16(2):784–95.                       • Inclusion in PubMed and all major indexing services
+76. Li S, Wu X, Xue H, Gu B, Cheng H, Zeng J, Peng C, Ge Y, Chang J. Quantify-          • Maximum visibility for your research
+    ing carbon storage for tea plantations in China. 2011;141(3–4):390–8.
+77. Milder JC, Hart AK, Dobie P, Minai J, Zaleski C. Integrated landscape initia-       Submit your manuscript at
+    tives for African agriculture, development, and conservation: a region-             www.biomedcentral.com/submit
+    wide assessment. World Dev. 2014;68:68–80.
+

@@ -1,0 +1,325 @@
+Haddaway ﻿Environ Evid             (2018) 7:26
+https://doi.org/10.1186/s13750-018-0140-4                                                                             Environmental Evidence
+  COMMENTARY                                                                                                                                          Open Access
+Open Synthesis: on the need for evidence
+synthesis to embrace Open Science
+Neal R. Haddaway1,2*
+   Abstract
+   The Open Science movement can be broadly summarised as aiming to promote integrity, repeatability and transpar-
+   ency across all aspects of research, from data collection to publication. Systematic reviews and systematic maps aim
+   to provide a reliable synthesis of the evidence on a particular topic, making use of methods that seek to maximise
+   repeatability and comprehensives whilst minimising subjectivity and bias. The central tenet of repeatability is opera-
+   tionalised by transparently reporting methodological activities in detail, such that all actions could be replicated and
+   verified. To date, evidence synthesis has only partially embraced Open Science, typically striving for Open Method-
+   ology and Open Access, and occasionally providing sufficient information to be considered to have Open Data for
+   some published reviews. Evidence synthesis communities needs to better embrace Open Science not only to balance
+   knowledge access and increase efficiency, but also to increase reliability, trust and reuse of information collected and
+   synthesised within a review: concepts fundamental to systematic reviews and maps. All aspects of Open Science
+   should be embraced: Open Methodology, Open Data, Open Source and Open Access. In doing so, evidence synthesis
+   can be made more equal, more efficient and more trustworthy. I provide concrete recommendations of how CEE and
+   others can fully embrace Open Synthesis.
+   Keywords: Open research, Openness, Transparent, Reproducibility crisis, Reliability
+Background                                                                                    Repeatable evidence syntheses
+The Open Science movement can be broadly summarised                                           Systematic reviews and systematic maps aim to provide
+as aiming to promote integrity, repeatability and trans-                                      a reliable synthesis of the evidence on a particular topic,
+parency across all aspects of research, from data collec-                                     making use of methods that seek to maximise repeat-
+tion to publication [1]. According to Fecher and Friesike                                     ability and comprehensives whilst minimising subjec-
+[2], these issues (the democratic and pragmatic schools of                                    tivity and bias [3, 4]. The central tenet of repeatability is
+thought) relate to a desire to correct the unequal distribu-                                  operationalised by transparently reporting methodologi-
+tion of access to knowledge and increase the efficiency of                                    cal activities in detail, such that all actions could be rep-
+knowledge creation. Here, I emphasise that evidence syn-                                      licated and verified [5]. Typically, research transparency
+thesis communities needs to better embrace Open Sci-                                          might be considered to relate to experimental methods,
+ence not only to balance knowledge access and increase                                        but the increasingly complex analytical methods used to
+efficiency, but also to increase reliability, trust and reuse                                 analyse data should also be reported in detail. As such,
+of information collected and synthesised within a review:                                     the data analysed in a synthesis should be provided along
+concepts fundamental to systematic reviews and maps.                                          with analytical methods, such that the reader could repli-
+                                                                                              cate the analysis to verify the results.
+                                                                                                 Reporting standards, such as the PRISMA statement
+                                                                                              [6] and ROSES [7], help to ensure that the methods are
+                                                                                              described in sufficient detail in systematic reviews and
+*Correspondence: neal_haddaway@hotmail.com;                                                   systematic maps, increasing the quality of reporting
+neal.haddaway@sei.org                                                                         and conduct [8]. But beyond transparent reporting of
+1
+  Stockholm Environment Institute, Linnégatan 87D, Stockholm, Sweden
+Full list of author information is available at the end of the article
+                                              © The Author(s) 2018. This article is distributed under the terms of the Creative Commons Attribution 4.0 International License
+                                              (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium,
+                                              provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license,
+                                              and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/
+                                              publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+
+Haddaway E﻿ nviron Evid   (2018) 7:26                                                                            Page 2 of 5
+methods, an additional problem exists in how reviews are
+                                                                1. Open Access
+reported and published: that of closed data.
+                                                                   This refers to making research literature freely
+                                                                   available on the publicly accessible internet, where
+Closed data in evidence syntheses
+                                                                   it may be read, downloaded, copied, distributed,
+In a recent article in BMJ, Shokraneh et al. [9] point out
+                                                                   printed, searched, crawled for indexing and text
+that Cochrane does not have an open data policy requir-
+                                                                   analysis without legal or financial repercussions or
+ing data extracted during systematic reviews to be made
+                                                                   barriers.
+publicly available. Whilst methods in Cochrane reviews
+                                                                2. Open Data
+are typically reported in sufficient detail, the ‘raw’ data
+                                                                   This refers to publication of data associated with
+that are extracted from studies to synthesised are not
+                                                                   research activities freely available for use (as
+provided. Shokraneh et al. [9] state that whilst results
+                                                                   above) without legal or financial barriers.
+data are made available for Cochrane reviews, these can-
+                                                                3. Open Source
+not readily be re-used, they may be an incomplete set of
+                                                                   This refers to software or code being made freely
+study results, the data are not readily extractable/usa-
+                                                                   available for use (as above) under a license that
+ble, and are only accessible to those with full Cochrane
+                                                                   allows use and modification of the code, and may
+Library access. These issues are equally as important in
+                                                                   allow for distribution (depending on the nature of
+other fields of evidence synthesis.
+                                                                   the license).
+                                                                4. Open Methodology
+The benefits of Open Synthesis
+                                                                   This refers to detailed methods explaining how a
+According to Kraker et al. [10] the Open Science move-
+                                                                   study was planned, undertaken and data analysed
+ment has four main principles: open methodology, open
+                                                                   in sufficient detail to allow it to be reproduced, via
+data, open source and open access (see Box 1). Open Sci-
+                                                                   making the methods freely available (as above).
+ence aims to make all aspects of research accessible, usa-
+ble, modifiable and sharable by everyone [11].
+   Systematic reviews can and should embrace Open
+                                                              Other authors have proposed also including Open Edu-
+Science across Kraker et al.’s four dimensions: (1) open
+                                                            cation [12], but for the purposes of conducting evidence
+methodology—the methods used in systematic reviews
+                                                            syntheses these are the commonly cited and relevant
+should be reported in sufficient detail that all actions
+                                                            aspects. For a full rationale of Open Science, please see
+taken can be understood, verified and repeated; (2) open
+                                                            Kraker et al. [10].
+data—all data and meta-data (descriptive information)
+                                                              Openness has a range of benefits for systematic
+extracted from each included study should be provided in
+                                                            reviews. Open syntheses may:
+a review (making use of supplementary files where neces-
+sary); (3) open source—any code or tools used to prepare
+                                                              1. Allow full transparency to be achieved, providing
+or synthesise data should be provided as supplementary
+                                                                 a framework for ensuring and policing transparent
+information; and (4) open access—publishers of system-
+                                                                 approaches within reviews (Kraker et al.’s four dimen-
+atic reviews should ensure that all relevant information is
+                                                                 sions, above);
+made freely accessible, without the need for requests for
+                                                              2. Permit verification of the results and conclusions of a
+information being lodged with corresponding authors.
+                                                                 review to maximise accountability;
+                                                              3. Increase the reliability of systematic reviews by
+                                                                 improving trust in their methods and findings, and
+  Box 1. What is the Open Science movement?
+                                                                 in turn trust in publishers of systematic reviews (e.g.
+  Open Science refers to efforts to increase transpar-           Cochrane);
+  ency and availability of information and data in an         4. Allow for researchers to reuse data extracted during
+  attempt to mitigate limitations and biases found in            a systematic review for novel purposes, such as meta-
+  modern research, including publication bias, research          research activities investigating evidence synthesis
+  waste, the reproducibility crisis, According to Kraker         practices themselves;
+  et al. [10], “open science means opening up the             5. Increase the efficiency of the conduct of systematic
+  research process by making all of its outcomes, and            reviews and maps that have an overlap in subject
+  the way in which these outcomes were achieved, pub-            with published reviews, by making use of extracted
+  licly available on the World Wide Web”. According to           meta-data, data and coding from studies within a
+  Kraker et al., there are four key principles of Open Sci-      completed review with shared content;
+  ence, summarised from their paper as follows:
+
+Haddaway E﻿ nviron Evid   (2018) 7:26                                                                               Page 3 of 5
+   6. Reduce effort associated with individual requests
+                                                                        • Summary data (effects sizes) for all studies
+      for information from corresponding authors of pub-
+                                                                          (often only provided for those studies that can
+      lished reviews;
+                                                                          be meta-analysed)
+   7. Permit research-on-research (i.e. investigations of
+                                                                        • Summary outputs of meta-analyses conducted
+      research synthesis methodology) to be conducted
+                                                                          (statistical results, forest plots, funnel plots,
+      using data relating to review conduct;
+                                                                          etc.)
+   8. Facilitate the improvement of primary and second-
+      ary research using detailed data relating to critical
+                                                                   Currently not enforced:
+      appraisal conducted within all systematic reviews.
+      By standardising meta-data extracted during critical
+                                                                   • Regarding the review process
+      appraisal, for example, some aspects of this assess-
+      ment of internal validity could be performed across
+      reviews;                                                          • Search results (before or after duplicate
+   9. Increase the impact of systematic reviews by permit-                removal)
+      ting reuse (and citation) and through increased trust.            • List of records deemed relevant after title or
+                                                                          abstract screening (possibly with reasons,
+                                                                          where appropriate)
+                                                                        • List of studies that could not be translated
+How open are environmental evidence syntheses?                          • Standardised descriptive information (meta-
+The Collaboration for Environmental Evidence (CEE)                        data) on characteristics of each study (e.g.
+appears to have somewhat higher standards than                            PICO elements, methods, study designs)
+Cochrane in its openness, since all CEE publications are                • Breakdown of critical appraisal coding
+made Open Access. Box 2 outlines the current minimum
+reporting standards for results of systematic reviews and          • Regarding the extracted results and review syn-
+maps published by CEE. This enforcement includes ‘Data                thesis
+extraction tables’, but exactly what must be reported here          • Statistical code for analyses performed
+is somewhat unclear. Beyond this, the level of openness is
+relatively minimal, however: both in terms of the results
+                                                               Possible barriers to Open Synthesis
+of the reviewing process itself and the data extracted,
+                                                               Wolfenden et al. [14] summarise a number of potential
+summarised and analysed from included studies.
+                                                               barriers that might challenge openness in systematic
+                                                               reviews. I provide a list of these and other challenges in
+  Box 2. Current data reporting standards for results          Box 3. Generally speaking, these issues either relate to
+  (as opposed to methods) for systematic reviews               concerns or fears of the review authors, or institutional
+  and systematic maps published by the Collaboration           barriers.
+  for Environmental Evidence, based on the CEE Guidelines
+  and Standards for Evidence Synthesis in Environmental
+  Management [4] and Environmental Evidence journal              Box 3. Possible barriers to open systematic reviews
+  guidelines for submitting authors [13]
+  Currently enforced:                                              • Perceived additional costs/time
+                                                                   • Concern over how data might be used (and pos-
+     • Regarding the review process                                   sibly misinterpreted)
+                                                                   • Fear over lost opportunity for further analysis
+         • List of included studies                                   (being ‘scooped’)
+         • List of studies excluded at full text with reasons      • Reviewers may not use standardised software to
+         • List of studies that could not be retrieved                support SRs, making it harder to provide data/
+                                                                      meta-data (and not in standardised formats)
+     • Regarding the extracted results and review syn-             • Lack of guidelines, standards and templates for
+        thesis                                                        meta-data/data extraction
+                                                                   • Reporting standards are not particularly effective
+         • ‘Data extraction tables’ (containing           data        unless enforced (as opposed to endorsed), and
+           extracted from each included study)                        ROSES reflects minimum CEE standards that lack
+                                                                      full openness
+
+Haddaway E﻿ nviron Evid  (2018) 7:26                                                                          Page 4 of 5
+   Despite these issues, in the field of healthcare, support    authors can achieve openness by making use of
+for Open Synthesis (or at least open data) is generally         online data repositories, such as the Open Science
+high: the majority of Cochrane’s Individual Participant         Framework developed by the Centre for Open Sci-
+Data Review Group reviewers have been found to sup-             ence (https​://osf.io). Data and meta-data extracted
+port systematic review data sharing in a single repository      from systematic reviews can be accompanied by
+[14]. Given sufficient incentive and without institutional      important descriptive information explaining the
+barriers, authors of systematic reviews, in general, should     data in sufficient detail to allow reuse and link the
+support openness given the benefits listed above.               data to the published systematic review.
+                                                             2. Support Actors working in evidence synthesis meth-
+Who pays for Open Synthesis                                     odology can support openness by helping to develop
+There are potential implications of Open Synthesis on the       methods and tools for more transparent reporting
+cost model of research publication. Traditionally, Open         of methods, data and meta-data using standard and
+Access publication switches from a reader pays model to         interoperable forms and formats. The establishment
+an author pays model, although free Open Access publi-          and enforcing of ROSES [7] by multiple journals that
+cation models also exist [15]. The CEE journal Environ-         previously did not use reporting standards has gone
+mental Evidence charges article processing fees for all         some way in increasing open methodology in evi-
+protocols and review or map reports published, which are        dence syntheses, but more work is needed to adapt
+then made Open Access under the Creative Commons                these forms to the many types of synthesis avail-
+Attribution License 4.0. Open Methods and Open Data             able. I agree with Shokraneh et al. [9] who state that
+can be supported through making use of supplementary            “Cochrane could act as a hub, harmonising data col-
+file publication, either as part of the publication process     lected across groups and sharing these widely”, shar-
+(i.e. Additional files) or through Open Access reposito-        ing “machine-readable curated data, in archived, cit-
+ries for documents and data, such as the Open Science           able, accessible, inter-operable and re-usable formats,
+Framework [16], figshare [17], and Dryad [18]. Open             as set out in the FAIR Principles”. Organisations and
+Source can be supported by sharing code, either using           networks such as CEE, the Society for Research Syn-
+the aforementioned repositories, or via code repositories       thesis Methods, and the International Collaboration
+such as GitHub [19]. Whilst publication through review          for Automation of Systematic Reviews could work
+endorsing bodies, such as CEE, may incur a publication          together to develop standardised tools for reporting
+fee, alternative options for publication exist, but they may    within systematic review projects in a truly open way.
+not carry the same weight and reliability as publication by  3. Enforcement CEE and other systematic review coor-
+a global leading organisation in evidence synthesis (and        dinating bodies should recognise the importance of
+may also lack rigorous peer-review). Securing affordable        Open Science and ensure a minimum level of report-
+and fair (or free) Open Synthesis will thus be a key prior-     ing of meta-data and data extracted from studies in
+ity for organisations like CEE in the future.                   published reviews. In short, all activities and outputs
+                                                                should be reported with a systematic review or map
+Ways forward                                                    (including usable lists of studies), and all extracted
+Most importantly, there must be institutional and behav-        information should be provided in machine-readable
+ioural changes in how review authors, editors, peer-            formats (i.e. spreadsheets or databases rather than
+reviewers and funders think about transparency and              PDFs or documents). Furthermore, efforts to track
+openness. Although organisations such as CEE may aim            data reporting practices in primary research (e.g.
+for true openness (i.e. transparency), there is a lack of       The Trials Tracker Project [20]) could also be a useful
+appreciation for what this really means. Current stand-         blueprint for those wishing to track Open Synthesis
+ards for reporting and openness (see Box 2) fall short of       outside the review coordinating bodies. This could
+true openness and do not go far enough to support full          perhaps be supported by the establishment of stand-
+access to data from a systematic review. I propose three        ard templates and worksheets for reporting data in
+areas where action is needed to add momentum to the             CEE reviews. In the field of healthcare, the System-
+Open Synthesis movement.                                        atic Review Data Repository (SDSR) was established
+                                                                [21] for this purpose, and the extracted data from
+   1. Awareness and use The systematic review commu-            1455 reviews has been deposited to date. A simi-
+      nity should become familiar with the Open Science         lar repository in environmental sciences, or indeed
+      movement and consider using Kraker et al.’s frame-        across disciplines would be extremely useful for the
+      work [10] as a basis for achieving openness. Where        review community.
+      not supported by publishers, systematic review
+
+Haddaway ﻿Environ Evid           (2018) 7:26                                                                                                           Page 5 of 5
+Conclusions                                                                   3.   Higgins JPT, Green S. Cochrane Handbook for Systematic Reviews of
+                                                                                   Interventions Version 5.1. 0. London: The Cochrane Collaboration; 2015.
+I echo the calls by others [9, 14] to fully embrace open                      4.   CEE. Guidelines and Standards for Evidence Synthesis in Environmental
+data in systematic reviews. I argue that using an Open                             Management. Version 5.0. Johannesburg: Collaboration for Environmen-
+Science lens adds a layer of transparency and verifiabil-                          tal Evidence; 2018.
+                                                                              5.   Haddaway N, Woodcock P, Macura B, Collins A. Making literature reviews
+ity, in turn increasing efficiency, trust and accountability,                      more reliable through application of lessons from systematic reviews.
+and facilitating reuse of data and analyses. As this is an                         Conserv Biol. 2015;29(6):1596–605.
+equal concern to all disciplines, I encourage different evi-                  6.   Moher D, Shamseer L, Clarke M, Ghersi D, Liberati A, Petticrew M, Shekelle
+                                                                                   P, Stewart LA. Preferred reporting items for systematic review and meta-
+dence synthesis communities to join together to tackle                             analysis protocols (PRISMA-P) 2015 statement. Syst Rev. 2015;4(1):1.
+this problem as a key priority for the future of evidence                     7.   Haddaway NR, Macura B, Whaley P, Pullin AS. ROSES RepOrting standards
+synthesis.                                                                         for Systematic Evidence Syntheses: pro forma, flow-diagram and descrip-
+                                                                                   tive summary of the plan and conduct of environmental systematic
+Authors’ contributions                                                             reviews and systematic maps. Environ Evid. 2018;7(1):7.
+NRH conceptualised, drafted and edited the manuscript. The author read and    8.   Panic N, Leoncini E, De Belvis G, Ricciardi W, Boccia S. Evaluation of the
+approved the final manuscript.                                                     endorsement of the preferred reporting items for systematic reviews and
+                                                                                   meta-analysis (PRISMA) statement on the quality of published systematic
+Author details                                                                     review and meta-analyses. PLoS ONE. 2013;8(12):e83138.
+1
+  Stockholm Environment Institute, Linnégatan 87D, Stockholm, Sweden.         9.   Shokraneh F, Adams CE, Clarke M, Amato L, Bastian H, Beller E, Brassey J,
+2
+  Africa Centre for Evidence, University of Johannesburg, Johannesburg, South      Buchbinder R, Davoli M, Del Mar C. Why cochrane should prioritise shar-
+Africa.                                                                            ing data. BMJ. 2018;362:k3229.
+                                                                              10.  Kraker P, Leony D, Reinhardt W, Beham G. The case for an open sci-
+Acknowledgements                                                                   ence in technology enhanced learning. Int J Technol Enhanced Learn.
+I thank Ben Goldacre for discussion about the topic.                               2011;3(6):643–54.
+                                                                              11.  Open Knowledge International. The Open Definition 2018. https​://opend​
+Competing interests                                                                efini​tion.org/. Accessed 9 Oct 2018.
+The author declares no competing interests.                                   12.  SPARC*. Setting the Default to Open: SPARC*; 2018. https​://sparc​open.
+                                                                                   org/. Accessed 13 Nov 2018.
+Availability of data and materials                                            13.  Environmental Evidence. Submission guidelines: BMC; 2018. https​://envir​
+Not applicable.                                                                    onmen​talev​idenc​ejour​nal.biome​dcent​ral.com/submi​ssion​-guide​lines​.
+                                                                                   Accessed 13 Nov 2018.
+Consent for publication                                                       14.  Wolfenden L, Grimshaw J, Williams CM, Yoong SL. Time to consider shar-
+Not applicable.                                                                    ing data extracted from trials included in systematic reviews. Syst Rev.
+                                                                                   2016;5(1):185.
+Ethics approval and consent to participate                                    15.  UCL IOE Press. Research for All: UCL IOE Press; 2018. https​://www.ucl-ioe-
+Not applicable.                                                                    press​.com/resea​rch-for-all/. Accessed 13 Nov 2018.
+                                                                              16.  Centre for Open Science. Open Science Framework: Centre for Open Sci-
+Funding                                                                            ence; 2018. https​://osf.io/. Accessed 13 Nov 2018.
+No funding was available.                                                     17.  figshare. fishare - credit for all your research: figshare; 2018. https​://figsh​
+                                                                                   are.com/. Accessed 13 Nov 2018.
+                                                                              18.  DRYAD. Dryad Digital Repository - Dryad: Dryad; 2018. https​://datad​r yad.
+Publisher’s Note                                                                   org/. Accessed 13 Nov 2018.
+Springer Nature remains neutral with regard to jurisdictional claims in pub-  19.  Github. The world’s leading software development platform. GitHub:
+lished maps and institutional affiliations.                                        GitHub, Inc; 2018. https​://githu​b.com/. Accessed 13 Nov 2018.
+                                                                              20.  EBM DataLab. The Trails Tracker Project: EBM DataLab, University of
+Received: 9 October 2018 Accepted: 19 November 2018                                Oxford; 2018. https​://trial​strac​ker.net/. Accessed 13 Nov 2018.
+                                                                              21.  Lo B. Sharing clinical trial data: maximizing benefits, minimizing risk.
+                                                                                   JAMA. 2015;313(8):793–4.
+References
+ 1. Centre for Open Science. The Centre for Open Science 2018. https​://cos.
+      io/. Accessed 9 Oct 2018.
+ 2. Fecher B, Friesike S. Open science: one term, five schools of thought.
+      Opening science: Springer; 2014. p. 17–47.
+                                                                                  Ready to submit your research ? Choose BMC and benefit from:
+                                                                                    • fast, convenient online submission
+                                                                                    • thorough peer review by experienced researchers in your field
+                                                                                    • rapid publication on acceptance
+                                                                                    • support for research data, including large and complex data types
+                                                                                    • gold Open Access which fosters wider collaboration and increased citations
+                                                                                    • maximum visibility for your research: over 100M website views per year
+                                                                                  At BMC, research is always in progress.
+                                                                                  Learn more biomedcentral.com/submissions
+

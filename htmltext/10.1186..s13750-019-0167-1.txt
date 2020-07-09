@@ -1,0 +1,297 @@
+Skip to main content
+Advertisement
+Search
+• Explore journals
+• Get published
+• About BMC
+• My account
+Search all BMC articles
+Search
+Environmental Evidence
+• Home
+• About
+• Articles
+• Submission Guidelines
+Download PDF
+• Methodology
+• Open Access
+• Published: 04 June 2019
+EviAtlas: a tool for visualising evidence synthesis databases
+• Neal R. Haddaway  ORCID: orcid.org/0000-0003-3902-22341,2,
+• Andrew Feierman1,
+• Matthew J. Grainger3,4,
+• Charles T. Gray5,
+• Ezgi Tanriver-Ayder6,
+• Sanita Dhaubanjar7 &
+• Martin J. Westgate8
+Environmental Evidence volume 8, Article number: 22 (2019) Cite this article
+3194 Accesses
+4 Citations
+97 Altmetric
+Metrics details
+Abstract
+Systematic mapping assesses the nature of an evidence base, answering how much evidence exists on a particular topic. Perhaps the most useful outputs of a systematic map are an interactive database of studies and their meta-data, along with visualisations of this database. Despite the rapid increase in systematic mapping as an evidence synthesis method, there is currently a lack of Open Source software for producing interactive visualisations of systematic map databases. In April 2018, as attendees at and coordinators of the first ever Evidence Synthesis Hackathon in Stockholm, we decided to address this issue by developing an R-based tool called EviAtlas, an Open Access (i.e. free to use) and Open Source (i.e. software code is freely accessible and reproducible) tool for producing interactive, attractive tables and figures that summarise the evidence base. Here, we present our tool which includes the ability to generate vital visualisations for systematic maps and reviews as follows: a complete data table; a spatially explicit geographical information system (Evidence Atlas); Heat Maps that cross-tabulate two or more variables and display the number of studies belonging to multiple categories; and standard descriptive plots showing the nature of the evidence base, for example the number of studies published per year or number of studies per country. We believe that EviAtlas will provide a stimulus for the development of other exciting tools to facilitate evidence synthesis.
+Background
+The role of systematic mapping
+Almost 10 years ago it was estimated that around 50 million research articles had been published in the history of academic publishing [1], and as of 2015 that number was increasing at the rate of 2.5 million per year [2]. Summarising and synthesising evidence using systematic reviews and systematic maps is becoming increasingly popular as a means of understanding such rapidly expanding evidence bases. As a result, methods in evidence synthesis are gaining recognition as vital research activities [3,4,5]. Communities of practice dedicated to standardising and developing methodologies for evidence synthesis have been established over the past 3 decades; for example Cochrane (https://www.cochrane.org) in the field of healthcare; the Campbell Collaboration (https://www.campbellcollaboration.org) in the field of international development, social welfare, policing and education; and the Collaboration for Environmental Evidence (https://www.environmentalevidence.org) in environmental management and conservation.
+Systematic mapping is an evidence synthesis method designed for assessing the nature of an evidence base [6], thereby answering questions such as: How many studies have been conducted on a particular topic? Which systems were studied and how? What methods were used? Like systematic review, systematic mapping consists of detailed, predetermined, sequential processes to identify, classify and describe a body of evidence using established and tested procedures [e.g. 7, 8]. Systematic mapping was first developed within the field of social welfare [9], and has increased substantially in popularity over time, especially in the field of environmental science since the first map in that field was published by Collaboration for Environmental Evidence (CEE) in 2012 (Fig. 1). Several comparable evidence mapping methods now exist (of which systematic mapping is one) with important differences [10]. The popularity of systematic mapping is likely attributable to the ability to tackle both the broad concerns of interest to stakeholders and the large evidence bases associated with these diverse topics, acting as a first step for exploring an evidence base to answer questions relating to what is known about a particular topic. Systematic maps do not aim to fully synthesise study findings, however, i.e. questions relating to effectiveness or impacts. Such comprehensiveness appeals to funders, decisions-makers in policy and practice, and researchers alike.
+Fig. 1
+Proliferation of systematic maps in the research literature. Plot displays the number of search results returned by publication year based on a topic term (title, abstract, and keyword) search in Web of Science Core Collections (Stockholm University subscription consisting of the following indexes: Science Citation Index Expanded (SCI-EXPANDED)—1945-present; Social Sciences Citation Index (SSCI)—1956-present; Arts & Humanities Citation Index (A&HCI)—1975-present; Conference Proceedings Citation Index- Science (CPCI-S)—1990-present; Conference Proceedings Citation Index- Social Science & Humanities (CPCI-SSH)—1990-present; Emerging Sources Citation Index (ESCI)—2015-present) on 05/05/19 using the following string: “systematic map” (no other limitations were used)
+Full size image
+Systematic mapping has several key outputs that offer many benefits, including: identifying knowledge gaps where further primary research is needed; identifying knowledge clusters where topics are suitable for systematic review; assessing ‘good’ and ‘poor’ research practices; swift understanding of the nature of a broad evidence base; facilitating bibliometric analysis, e.g. networks of researchers across the world [reviewed in 11]. The primary product of a systematic map is a research article describing the subject background, research methods used for the synthesis, and the results of the mapping process along with a discussion of the implications of the findings. Arguably the most useful output from a systematic map, however, is a detailed and descriptive database of the reviewed literature that can be interrogated by end users to identify, quantify and qualify subsets of evidence. Ideally, this database should be presented as an interactive research output, allowing users to filter and examine the data and thereby better understand and summarise the nature of an evidence base. These databases can also be visualised through interactive geographical representations of spatially explicit information known as Evidence Atlases [e.g. 12], and Heat Maps (cross-tabulations of the volume of evidence across two categorical variables) that demonstrate spatial or topical knowledge clusters and gaps [e.g. 13]. Finally, basic visualisations such as bar charts and histograms that describe the nature of the evidence in the database can be highly informative, for example by showing publication rates over time, or the frequency with which different methods are used across the evidence base. When presented in this way, systematic maps provide a basis for: the identification of knowledge gaps, where an insufficient volume or quality of evidence exists on a particular subtopic; the identification of knowledge clusters, where sufficient evidence exists to support a full synthesis (e.g. meta-analysis); and the assessment of a range of research methods to establish ‘best practice’ methodologies.
+Systematic maps need not be an end in themselves, but could arguably be considered the first step in the evidence synthesis pathway. Often, one well designed systematic map can provide sufficient basis for multiple targeted systematic reviews. However, the true potential of systematic maps to guide multiple evidence syntheses can only be realised if systematic map databases are interactive: allowing gaps, clusters and patterns in the database to be readily identified, extracted and reused.
+The problem
+The synthesis stage of systematic reviews and maps can be particularly time-consuming, requiring careful planning and benefiting from specialist software [14]. However, despite the rapid increase in systematic mapping as an evidence synthesis method, there is currently a lack of Open Source software for producing interactive visualisations of systematic map databases; either as human-readable data tables or as summary figures. Here, we define ‘human-readable’ databases as tabular data that is readily digestible by the human eye; a well formatted, colour coded spreadsheet, for example. In contrast, ‘machine-readable’ databases are often not as visually appealing to the human eye (because they may feature blank space and repetition for data precision), but much easier for a computer to handle when automating visualisations for interactivity.
+Although some proprietary software (e.g. Tableau or eSpatial) can be used for producing visualisations of systematic map data, these require substantial user knowledge, with the result that most systematic map visualisations are bespoke platforms or websites, for example the Evidence for Nature and People Data Portal (https://www.natureandpeopleevidence.org/#/explore/wellbeing/charts; [13]). To our knowledge, no Open Access software exists that accept user-provided databases as inputs to produce both human-readable tables and figures. Furthermore, existing software that allows for the production of tables and figures separately does not support interactivity in all forms of visualisations. It is the interactivity (for example allowing filtering or zooming in/out) that is critical for visualising systematic mapping outputs, since it makes the outputs immediately more digestible to end users.
+Method
+Introduction to EviAtlas
+In April 2018, as attendees at and coordinators of the first ever Evidence Synthesis Hackathon (ESH; https://evidencesynthesishackathon.com) in Stockholm, we decided to address this issue by developing an R-based tool called EviAtlas. Our objective was to develop an Open Access (i.e. free to use) and Open Source (i.e. software code is freely accessible and reproducible) tool that accepts user provided systematic map databases and produces attractive, interactive tables and figures that query and summarise different aspects of the evidence base. The specific outputs from this tool include: a human-readable datatable; a spatially explicit geographical information system (Evidence Atlas); Heat Maps that cross-tabulate two or more variables and display the number of studies belonging to multiple categories; and standard descriptive plots showing the nature of the evidence base, for example the number of studies published per year or number of studies per country.
+The production of EviAtlas was separated into two phases to acknowledge the two main use cases for the tool as follows:
+Initial development a tool for systematic map authors allowing them to rapidly produce static visualisations and additional files for inclusion in their published systematic map reports.
+Future improvements a tool for communicating the findings of systematic maps, allowing the reader to interact with a systematic map database in a predetermined and readily sharable and accessible way.
+EviAtlas was developed within R [15], a software program for statistical analysis, but the platform circumvents the need to run any code in R by providing an interactive graphical user interface. The interface is built using Shiny (https://shiny.rstudio.com, [16]), an R package that supports the development of web-based R applications that can be hosted online. The code for EviAtlas is stored on GitHub (https://github.com/ESHackathon/EviAtlas) and is available as Open Source code to stimulate future development and community participation.
+EviAtlas is a minimum viable product that we believe will be useful for researchers conducting systematic maps (and reviews), and we are soliciting public feedback from the evidence synthesis community. Any user can submit feedback via email whilst using the tool, or submit issues through GitHub, as is common for Open Source software. In addition, we are working closely with a small number of users to ensure EviAtlas functions according to their needs. Following this public feedback, we will revise the tool to support a broader set of use cases (e.g. not only static visualisations and human-readable datatables but also sharable, interactive web-based visualisations).
+Results
+Functionality
+EviAtlas harnesses the functionality of a number of Open Source tools. The R programming language provides basic functionality and is used to both provide seamless connectivity across a number of R packages and other external tools, as well as perform data analysis and visualisation. While EviAtlas draws on a number of R packages, it relies particularly heavily on leaflet [17], an Open Source JavaScript tool for creating interactive, web-ready maps. It also relies on tidyverse packages that aim to facilitate data handling by reducing ‘mess’ in underlying data [18].
+EviAtlas can be accessed online at https://estech.shinyapps.io/eviatlas. The app homepage (Fig. 2) allows users to upload their systematic map database into the application or use a pre-loaded sample database. Users can access all primary functionalities for querying the database and generating summary table and figures via a sidebar. The main functionalities of EviAtlas are outlined in Table 1. Current options allow users to create spatial maps (“Evidence Atlas”), human-readable data tables (“Map Database”), summary histograms (“Descriptive Plots”) and heatmaps (“Heatmap”). Under all options, users can specify data fields and categories they want to query and visualise. The “About EviAtlas” option on the sidebar simply leads to the homepage.
+Fig. 2
+The EviAtlas home page. Primary functionality is accessed via the sidebar on the left side of the screen
+Full size image
+Table 1 A description of EviAtlas functionality
+Full size table
+The app currently accepts only.csv (comma-separated values) files, but provides flexibility for the user to specify the format their data is in (i.e. by specifying delimiters or string encoding within the file). Support for shapefiles, and other common formats, is currently in development. After data are uploaded by the user, they are made available throughout the rest of the application. A short message appears on the home screen describing the dataset size and column headers detected during the upload. If there are issues in reading the input data, warning messages in the homepage will show the file parsing errors.
+Following successful data upload, the app generates an evidence atlas, seen in the “Evidence Atlas” tab on the left sidebar. The app attempts to automatically identify columns used to store latitude and longitude information within the data. However, as each dataset may utilise different naming conventions, dropdown menus are also provided in the “Evidence Atlas” page for the user to manually select coordinate fields. Additional features for interactivity in the spatial maps include: clustering according to location so that points do not cover each other when locations overlap; pop-ups on hover over each point showing user-specified data fields; and viewing a subset of the data (based on filters set in the app’s “Map Database” tab) (see Fig. 3). Generated maps can be exported by the user in both interactive (.html) and static image formats (.pdf,.jpg).
+Fig. 3
+Systematic maps utilising different EviAtlas functionality with a common dataset. Studies can be clustered by location (a), custom fields can be used to generate pop-up messages for each study (b), and a subset of the data can be filtered (c)
+Full size image
+The “Map Database” tab, which relies heavily on the R package DT [19], provides a familiar spreadsheet-like interface for users to subset their data using available data filters such that different groups of data can be viewed in the form of evidence atlases (Fig. 4). These filtered subsets of the original database can also be downloaded in.csv format.
+Fig. 4
+Data filtering in EviAtlas is done through a spreadsheet-like interface
+Full size image
+The final two tabs (“Descriptive Plots” and “Heatmap”) pull in plotting functionality from the ggplot2 data visualisation R package [20]. These plots visually summarise the evidence in graphics commonly used in systematic maps (and reviews). The distribution and the number of studies across regions, years or any other single data field can be visualised and explored under the tab “Descriptive Plots”. For more complex visualisations, two data fields of interest can be cross-tabulated using the “Heatmap” tab. Heat maps present the number of the articles included in the systematic map in a matrix of counts, where the darker coloured cells imply higher frequency of occurrences of evidence (see Fig. 5 for an example of a heat map, and see [12]).
+Fig. 5
+Common charts, such as histograms and heatmaps, used in systematic reviews and maps of empirical evidence can be generated through EviAtlas
+Full size image
+Intended users
+EviAtlas is intended for users with little to no exposure to programming languages who wish to summarise the characteristics of an evidence base and identify knowledge gaps and clusters quickly and easily. However, since EviAtlas is an Open Source application, a user with intermediate to advanced skills in the R programming language should be able to further customise the functionality to create more insightful or interactive materials for summarising evidence. EviAtlas attempts to aid researchers learning the R programming language by providing code snippets used to generate visualisations within the tool.
+Current status
+EviAtlas has reached a minimum viable product stage, but further developments are needed to create a visually appealing, stable, and powerful tool. Contributions to the source code and published application are welcome, and can be submitted via the project’s GitHub repository (https://github.com/ESHackathon/EviAtlas).
+Future developments
+Requests for future enhancements can be submitted through the project’s “Issues” page on GitHub (https://github.com/ESHackathon/EviAtlas/issues). Furthermore, the app is currently undergoing user testing to allow for future improvements in functionality. Future releases will include functionality that allows users to publish an interactive platform containing their systematic map database preloaded and customised with default visualisations as a communication tool outside of a systematic map report.
+Discussion and conclusions
+On EviAtlas and tidy data
+EviAtlas is opinionated software, in that it encourages the user to adopt certain practices [21] in managing their data following a tidy methodology. As is the case with the various tools within the data science metapackage tidyverse [22], EviAtlas is designed to work with tidy data, in that:
+• 1.
+Each variable forms a column.
+• 2.
+Each observation forms a row.
+• 3.
+Each type of observational unit forms a table [18].
+By structuring data in this way, tools such as those in the tidyverse metapackage, can be used to streamline common quantitative analysis tasks; e.g. data manipulation and visualisation.
+EviAtlas makes particular use of tidyverse packages for both data visualisation and manipulation that are designed to work with tidy data, for example dplyr [23]. In addition to the intrinsic benefits of tidy data, an extrinsic benefit is that EviAtlas integrates with pre-existing widely-adopted open-source tools. Motivations such as these add support to the emerging recommendation in good enough practices [24] in data analysis [25] literature to adopt standardised and, in particular, tidy data structures.
+In designing the format for the input file for the tool, we became aware of two major principles:
+• 1.
+Databases come in two broad forms Firstly, human-readable, visually appealing tables of data that can be readily communicated and understood typically compress information: for example, with one row per study where multiple values are reported within one cell or rows with common values have merged cells. Despite being relatively easy to read, where this happens across multiple columns, the data links between different values in different columns is broken. It is more procedurally accurate from a data science perspective for data to preserve the one-to-one linkages between data by placing each individual observation on a separate line, such that the data in a single line correspond to a unique set of values that can exist independent of preceding or following rows. This may mean that multiple lines exist for single studies (where data is arranged by study) and that there is substantial repetition or white space to make a machine-readable or tidy database.Footnote 1 The distinction here highlights that a human-readable, database is in essence a summary of a machine-readable, tidy dataset, often with some associated information loss that can be readily digested by the human eye but not by a computer. There is a dire need for publishing machine-readable data alongside human-readable data to encourage Open Science [26], reuse of systematic map data and meta-research.
+• 2.
+Too often, systematic map databases published in Environmental Evidence are produced in isolation from other maps. Despite some data sources (i.e. articles) overlapping between reviews on similar topics, and despite many systematic reviews extracting similar data (e.g. study type, methods, etc.), no recommendations or templates exist for how to extract and store data across systematic maps. There is thus a need to standardise these practices for a number of reasons, including: to facilitate development of software that can readily import systematic map databases; to facilitate transfer of data between similar or overlapping review projects; to support meta-research across reviews; and, to facilitate automation of data extraction from primary studies in the future by standardising what needs to be extracted.
+Further work is needed to identify when each type of database is needed, how users can readily convert between them, and how templates could support collaboration and data reuse, whilst reducing wasted efforts across related projects.
+EviAtlas is a freely accessible, multi-purpose tool for designing and sharing static and interactive visualisations of data compiled within a systematic map. By converting complex systematic map database into digestible and attractive visualisations (both tables and figures), EviAtlas ensures that systematic map outputs can be easily communicated and understood, reducing the need for time-consuming and expensive knowledge translation, common with evidence syntheses (e.g. https://www.eviem.se/en). In our experience, decision-makers find it much easier to grasp the content of a systematic map through an evidence atlas than a traditional database. Interactivity as a communication tool can promote learning and facilitate understanding [27], and we believe that tools like EviAtlas will be instrumental in increasing the uptake of messages from evidence syntheses by decision-makers and end users.
+Although specifically designed for visualising the findings from systematic maps, EviAtlas is equally useful as a visualisation tool for systematic reviews, where full quantitative or qualitative synthesis occurs: these reviews often produce an intermediate database of studies that would benefit from being visualised. EviAtlas can help authors to produce easily digestible tables of data for inclusion within a systematic review report. In addition, we strongly believe that systematic map databases are useful additional outputs for many systematic reviews. Typically, meta-data is extracted from included studies in a review, but rarely is this data provided or seen as a useful output. EviAtlas can be used to rapidly produce attractive visualisations that can facilitate understanding and improve success of communication efforts for systematic reviews. Our observation that users appreciate interactive evidence atlases should apply equally to systematic reviews as well as systematic maps.
+In conclusion
+We believe that EviAtlas will provide a stimulus for the development of other exciting tools to facilitate evidence synthesis. It is the first fully operational tool to be produced by the Evidence Synthesis Hackathon and serves as an important example to the evidence synthesis technology community.
+In addition, EviAtlas could offer an exciting opportunity to both standardise data extraction and publication procedures across systematic maps as well as enable data reuse and meta-research through the adoption of tidy data structures. This endeavour could be facilitated by hosting a central repository of published systematic map databases, perhaps linked to the Collaboration for Environmental Evidence Library, which could itself greatly facilitate meta-research (also known as meta-epidemiology; the study of the health status of research).
+On the role of new software and the EHS
+The increase in the volume of research literature and recent developments in technology mean that evidence synthesis technology (ESTech) is already and will continue to be a ‘hotspot’ for research effort over the next decade. Advances in ESTech will significantly facilitate improvements in the timeliness, efficiency, reproducibility, and accessibility of evidence synthesis methods. Such developments can also speed up the uptake of evidence synthesis methods and associated capacity development globally, especially by those working in resource constrained environments, such as low- and middle-income countries and small-budget organisations [28].
+Recognising the need for advances in ESTech, the Evidence Synthesis Hackathon (ESH) supports collaborative partnerships and networking between software developers, programmers and evidence synthesists, to leverage state-of-the-art tools in evidence synthesis [29]. In 2018, the inaugural ESH, attended by 29 coders and evidence synthesists, resulted in the production of 9 draft applications and 2 academic papers [29]. In addition, a professional network of evidence synthesis technologists was established, not only amongst those involved in the event, but also in people who became aware of ESTech and the ESH through social media, blog posts, etc. The ESH was extremely well-received. It raised awareness of evidence synthesis methods amongst a community of software developers, and established ESTech as a valuable research domain.
+The second ESH took place in Canberra in April 2019 with funding from the University of New South Wales, the Australian National University and the University of Johannebsurg. Further ESH events are also planned for 2019 to continue the development of prototypes from the ESH 2019 and initiate new ideas. We continue to seek funding for organising the annual ESH and developing tools like EviAtlas, but this is a large voluntary endeavour. The enthusiasm of its producers and early users makes us optimistic that ESTech and the ESH are here to stay. We encourage the evidence synthesis community and the software development community to continue to engage in this and other activities and to chart out an exciting and robust future. Readers can find out more about the ESH at https://www.eshackathon.org and apply to join a hackathon when expressions of interest are publicised there or provide suggestions of ESTech needs when calls for suggestions are made. There is no doubt that the tidal wave of evidence publication will continue: ESTech can help us ride the wave to better evidence synthesis.
+Availability of data and materials
+All data associated with EviAtlas are available on GitHub (https://github.com/ESHackathon/EviAtlas).
+Notes
+• 1.
+This topic is the subject of a separate, forthcoming paper on tidy data principles in evidence synthesis databases.
+Abbreviations
+CEE:
+Collaboration for Environmental Evidence
+ESH:
+Evidence Synthesis Hackathon
+ESTech:
+evidence synthesis technology
+References
+• 1.
+Jinha AE. Article 50 million: an estimate of the number of scholarly articles in existence. Learned Publish. 2010;23(3):258–63.
+Article  Google Scholar
+• 2.
+Ware M, Mabe M. The STM report: an overview of scientific and scholarly journal publishing. 2015.
+• 3.
+Donnelly C, et al. Four principles to make evidence synthesis more useful for policy. Nature. 2018;558(7710):361.
+CAS  Article  Google Scholar
+• 4.
+Gurevitch J, et al. Meta-analysis and the science of research synthesis. Nature. 2018;555(7695):175.
+CAS  Article  Google Scholar
+• 5.
+Sutherland WJ, Wordley CF. A fresh approach to evidence synthesis. London: Nature Publishing Group; 2018.
+Google Scholar
+• 6.
+James KL, et al. A methodology for systematic mapping in environmental sciences. Environ Evid. 2016;5(1):7.
+Article  Google Scholar
+• 7.
+Julian P, et al. Cochrane handbook for systematic reviews of interventions. Cochrane Collaboration. 2011.
+• 8.
+Pullin AS, Stewart GB. Guidelines for systematic review in conservation and environmental management. Conserv Biol. 2006;20(6):1647–56.
+Article  Google Scholar
+• 9.
+Clapton J, et al. SCIE Systematic mapping guidance: Social Care Institute for Excellence. 2009.
+• 10.
+Saran A, White H. Evidence and gap maps: a comparison of different approaches. Oslo: The Campbell Collaboration; 2018.
+Google Scholar
+• 11.
+Haddaway NR, et al. The benefits of systematic mapping to evidence-based environmental management. Ambio. 2016;45(5):613–20.
+Article  Google Scholar
+• 12.
+Haddaway NR, et al. What are the effects of agricultural management on soil organic carbon in boreo-temperate systems? Environ Evid. 2015;4:23.
+Article  Google Scholar
+• 13.
+McKinnon MC, et al. What are the effects of nature conservation on human well-being? A systematic map of empirical evidence from developing countries. Environ Evid. 2016;5:8.
+Article  Google Scholar
+• 14.
+Haddaway NR, Westgate MJ. Predicting the time needed for environmental systematic reviews and systematic maps. Conserv Biol. 2019;33(2):434–43.
+Article  Google Scholar
+• 15.
+R Statistical Package. R: A language and environment for statistical computing. Vienna: R Foundation for Statistical Computing; 2009.
+• 16.
+Chang W, et al. shiny: Web application framework for R [Computer software]. R-project.org/package=shiny (R package version 1.0. 0). 2017.
+• 17.
+Cheng J, et al. Leaflet: Create Interactive Web Maps with the JavaScript “Leaflet” Library. R package version. 1(1), p. 134. https://CRAN.R-project.org/package=leaflet.
+• 18.
+Wickham H. Tidy data. J Stat Softw. 2014;59(10):1–23.
+Article  Google Scholar
+• 19.
+Xie Y, et al. DT: A Wrapper of the JavaScript Library 'DataTables'. 2018.
+• 20.
+Wickham H. ggplot2: elegant graphics for data analysis. Berlin: Springer; 2016.
+Google Scholar
+• 21.
+Parker H. Opinionated analysis development. Peer J Preprints. 2017;5(e3210v):1.
+Google Scholar
+• 22.
+Wickham H. tidyverse: easily install and load the ‘Tidyverse’. R package version 1.2.1. Vienna : R Core Team. 2017.
+• 23.
+Wickham H, et al. Müller, K. dplyr: a grammar of data manipulation. R package version 0.7. 6. 2018.
+• 24.
+Wilson G, et al. Good enough practices in scientific computing. PLoS Comput Biol. 2017;13(6):e1005510.
+Article  Google Scholar
+• 25.
+Marwick B, et al. Packaging data analytical work reproducibly using R (and friends). Am Stat. 2018;72(1):80–8.
+Article  Google Scholar
+• 26.
+Haddaway NR. Open synthesis: on the need for evidence synthesis to embrace Open Science. Environ Evid. 2018;7(1):26.
+Article  Google Scholar
+• 27.
+Ploetzner RE, Lowe RE, editors. Guest editorial: dynamic visualisations and learning. In: International workshop on dynamic visualisations and learning, 2002, knowledge media research center, Tübingen, Germany. This Special Issue is based upon presentations made during this workshop. New York: Elsevier; 2004.
+• 28.
+Westgate MJ, et al. Software support for environmental evidence synthesis. Nat Ecol Evol. 2018;2(4):588.
+Article  Google Scholar
+• 29.
+Haddaway NR, Westgate MJ. Evidence synthesis Hackathon 2018. Stockholm: Stockholm Environment Institute; 2018.
+Google Scholar
+Download references
+Acknowledgements
+The authors thank Sonia Mitchell and other participants at the Evidence Synthesis Hackathon in Stockholm in April 2018 (ESH2018) for support and constructive discussions.
+Funding
+The Evidence Synthesis Hackathon was funded by the Australian National University and Mistra EviEM. Further work on EviAtlas was unfunded.
+Author information
+Affiliations
+Stockholm Environment Institute, Linnégatan 87D, Stockholm, Sweden
+Neal R. Haddaway & Andrew Feierman
+Africa Centre for Evidence, University of Johannesburg, Johannesburg, South Africa
+Neal R. Haddaway
+Modelling Evidence and Policy Group, School of Natural & Environmental Sciences, Newcastle University, Newcastle, NE1 7RU, UK
+Matthew J. Grainger
+Norwegian Institute for Nature Research, Trondheim, Norway
+Matthew J. Grainger
+School of Engineering and Mathematical Sciences, La Trobe University, Plenty Rd & Kingsbury Dr, Bundoora, VIC, 3086, Australia
+Charles T. Gray
+Centre for Clinical Brain Sciences, University of Edinburgh, Edinburgh, EH16 4SB, UK
+Ezgi Tanriver-Ayder
+International Water Management Institute, Kathmandu, Nepal
+Sanita Dhaubanjar
+Fenner School of Environment & Society, The Australian National University, Acton, ACT, 2601, Australia
+Martin J. Westgate
+Authors
+• Neal R. Haddaway
+View author publications
+You can also search for this author in PubMed Google Scholar
+• Andrew Feierman
+View author publications
+You can also search for this author in PubMed Google Scholar
+• Matthew J. Grainger
+View author publications
+You can also search for this author in PubMed Google Scholar
+• Charles T. Gray
+View author publications
+You can also search for this author in PubMed Google Scholar
+• Ezgi Tanriver-Ayder
+View author publications
+You can also search for this author in PubMed Google Scholar
+• Sanita Dhaubanjar
+View author publications
+You can also search for this author in PubMed Google Scholar
+• Martin J. Westgate
+View author publications
+You can also search for this author in PubMed Google Scholar
+Contributions
+NRH produced a first draft of the manuscript. All authors contributed to and edited the draft. All authors read and approved the final manuscript.
+Corresponding author
+Correspondence to Neal R. Haddaway.
+Ethics declarations
+Ethics approval and consent to participate
+Not applicable.
+Consent for publication
+Not applicable.
+Competing interests
+The authors declare they have no competing interests.
+Additional information
+Publisher's Note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Rights and permissions
+Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+Reprints and Permissions
+About this article
+Cite this article
+Haddaway, N.R., Feierman, A., Grainger, M.J. et al. EviAtlas: a tool for visualising evidence synthesis databases. Environ Evid 8, 22 (2019). https://doi.org/10.1186/s13750-019-0167-1
+Download citation
+Received: 23 January 2019
+Accepted: 23 May 2019
+Published: 04 June 2019
+DOI: https://doi.org/10.1186/s13750-019-0167-1
+Keywords
+• Evidence synthesis technology
+• Software
+• Tools
+• Systematic mapping
+• Data viz
+Download PDF
+Advertisement
+Environmental Evidence
+ISSN: 2047-2382
+Contact us
+• Submission enquiries: Access here and click Contact Us
+• General enquiries: info@biomedcentral.com
+• Read more on our blogs
+• Receive BMC newsletters
+• Manage article alerts
+• Language editing for authors
+• Scientific editing for authors
+• Policies
+• Accessibility
+• Press center
+• Support and Contact
+• Leave feedback
+• Careers
+Follow BMC
+• BMC Twitter page
+• BMC Facebook page
+• BMC Weibo page
+By using this website, you agree to our Terms and Conditions, Privacy statement and Cookies policy. Manage the cookies we use in the preference centre.
+© 2020 BioMed Central Ltd unless otherwise stated. Part of Springer Nature.

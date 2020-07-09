@@ -1,0 +1,778 @@
+Humbert et al. Environmental Evidence 2012, 1:9
+http://www.environmentalevidencejournal.org/content/1/1/9
+  SYSTEMATIC REVIEW                                                                                                                                  Open Access
+Does delaying the first mowing date benefit
+biodiversity in meadowland?
+Jean-Yves Humbert1*, Jérôme Pellet1,2, Pierrick Buri1 and Raphaël Arlettaz1
+  Abstract
+  Background: Meadows are regularly mown in order to provide fodder or litter for livestock and to prevent
+  vegetation succession. However, the time of year at which meadows should be first mown in order to maximize
+  biological diversity remains controversial and may vary with respect to context and focal taxa. We carried out a
+  systematic review and meta-analysis on the effects of delaying the first mowing date upon plants and invertebrates
+  in European meadowlands.
+  Methods: Following a CEE protocol, ISI Web of Science, Science Direct, JSTOR, Google and Google Scholar
+  were searched. We recorded all studies that compared the species richness of plants, or the species richness or
+  abundance of invertebrates, between grassland plots mown at a postponed date (treatment) vs plots mown
+  earlier (control). In order to be included in the meta-analysis, compared plots had to be similar in all management
+  respects, except the date of the first cut that was (mostly experimentally) manipulated. They were also to be
+  located in the same meadow type. Meta-analyses applying Hedges’d statistic were performed.
+  Results: Plant species richness responded differently to the date to which mowing was postponed. Delaying
+  mowing from spring to summer had a positive effect, while delaying either from spring to fall, or from early
+  summer to later in the season had a negative effect. Invertebrates were expected to show a strong response to
+  delayed mowing due to their dependence on sward structure, but only species richness showed a clearly
+  significant positive response. Invertebrate abundance was positively influenced in only a few studies.
+  Conclusions: The present meta-analysis shows that in general delaying the first mowing date in European
+  meadowlands has either positive or neutral effects on plant and invertebrate biodiversity (except for plant
+  species richness when delaying from spring to fall or from early summer to later). Overall, there was also
+  strong between-study heterogeneity, pointing to other major confounding factors, the elucidation of which
+  requires further field experiments with both larger sample sizes and a distinction between taxon-specific and
+  meadow-type-specific responses.
+  Keywords: Cutting, Grassland, Restoration, Systematic review, Meta-analysis
+Background                                                                               As a response, most countries have implemented agri-
+Farmland biodiversity has been affected by the green                                     environment schemes (AES), in which farmers are subsi-
+revolution [1] and concern about its decline already                                     dised to modify their farming practice to provide envir-
+emerged in the late 1960s [2]. Concern has amplified                                     onmental benefits. AES mostly aim at protecting and
+during the past decade [e.g. 3-7] as it is now recognized                                restoring farmland biodiversity [13,14]. They are volun-
+that farmland biodiversity plays a major role in many                                    tary programmes in which farmers usually receive direct
+agroecosystem processes, such as grassland productivity,                                 payments for providing services that go beyond conven-
+crop pollination, pest control and soil fertility [e.g. 8-12].                           tional agricultural practices, such as management of
+                                                                                         semi-natural habitats. Currently, about 30% of European
+                                                                                         farmland is under some sort of agri-environmental con-
+* Correspondence: jean-yves.humbert@iee.unibe.ch                                         tract [15].
+1
+ Division of Conservation Biology, Institute of Ecology and Evolution,
+University of Bern, Baltzerstrasse 6, 3012 Bern, Switzerland                                Low input (extensively managed) hay and litter mea-
+Full list of author information is available at the end of the article                   dows are among the most commonly implemented agri-
+                                            © 2012 Humbert et al.; licensee BioMed Central Ltd. This is an Open Access article distributed under the terms of the Creative
+                                            Commons Attribution License (http://creativecommons.org/licenses/by/2.0), which permits unrestricted use, distribution, and
+                                            reproduction in any medium, provided the original work is properly cited.
+
+Humbert et al. Environmental Evidence 2012, 1:9                                                                Page 2 of 13
+http://www.environmentalevidencejournal.org/content/1/1/9
+environmental measures [13,16]. The most important          Search strategy
+management action on these grasslands is mowing.            The following web databases were searched for relevant
+Mowing vegetation at least once a year has a positive       documents: ISI Web of Science, Science Direct, JSTOR,
+effect on vascular plant species richness, especially when  Google (100 first hits), Google Scholar (100 first hits).
+cuttings are removed [17,18]. However, since it has been    Searches were conducted in English, French and
+demonstrated that early-summer mowing often has a           German using translations of the following logical search
+detrimental effect on species richness of flowering         string: (mowing OR cutting) AND (meadow OR grass-
+plants, as it hampers completion of the reproductive        land) AND (biodiversity OR richness). The term “Eur-
+cycle [17], later mowing is generally found to be more      ope” was not included in the search keywords as stated
+favourable for vascular plant biodiversity [19,20].         in the Review Protocol [41], because European studies
+   Annual mowing has a contrasting effect on inverte-       that do not mention the term Europe may have been
+brates [21,22]. Although detrimental to many insects in     missed. Studies originating from extra European regions
+the short term [23-28], mowing is beneficial to a large     were later excluded from the review. Any apparently
+number of heliophilous and thermophilous species            relevant citations or links were followed one step away
+because it prevents the growth of bushes and trees and      from the original hit. In addition, national and inter-
+thus maintains semi-natural grasslands [29]. It has also    national experts on the subject were asked for any rele-
+been suggested that delaying the date of first mowing       vant literature and unpublished data.
+could be positive for a multitude of invertebrates,
+including butterflies, spiders, grasshoppers and ground     Article screening
+beetles that depend on various vegetation structures [30-   All references retrieved from the web search were
+35]. For vertebrates, the situation is different:           scanned at the title, abstract and full text filter level by a
+mowing renders food resources suddenly available (e.g.      first reviewer. From the 367 initial references, 200 (ran-
+insects and rodents) that were previously hidden in the     domly selected) were rescanned by a second reviewer in
+sward. Foragers may congregate towards these rich, al-      order to check for inclusion consistency. The following
+though ephemeral food supplies [36,37]. On the other        study inclusion criteria were used:
+hand, ground-breeding birds are likely to be heavily
+penalised by early mowing [e.g. 38].                            Relevant subjects: semi-natural grasslands that are
+   While most AES have the clear objective of restoring           mown annually, including conventionally managed
+biodiversity and ecosystem services [13,14,39], they often        grasslands, AES meadows, hay or litter meadows.
+bind farmers to threshold dates for agricultural opera-         Types of intervention: first mowing date delayed
+tions. The date of the first mowing of meadows is usu-            (treatment).
+ally defined as a trade-off between expected agricultural       Types of comparator: comparison with similar
+yield and supposed effects on wildlife. Given that this           meadows or plots that are first mown on an earlier
+first mowing date is the most easily changed manage-              date (control). Treatment and control plots must be
+ment practice [7,31], it appropriate adjustment is the            similar in all management respects, except the date
+most likely to provide environmental benefits at little           of the first cut, and must be located in the same
+economical cost. Using a meta-analytical framework, we            habitat type.
+studied the currently available scientific literature about     Types of outcome: species richness and/or
+the pros and cons for biodiversity of delaying mowing in          abundance (any taxa).
+farmed European meadowland; we also identified major
+gaps in knowledge related to this theme. The synthesis         Inclusion consistency was checked with kappa statis-
+will be useful to both agro-ecologists and policy-makers    tics, and agreement between the reviewers was satisfac-
+involved in farmland management.                            tory (k = 0.81) [42].
+                                                            Study quality assessment
+Objective
+                                                            All articles accepted met the requirements of category
+The primary objective of the review was to answer the
+                                                            II-2 and above of the classification system of [43]. This
+following question: Does delaying the first mowing date
+                                                            allowed for both experimental and observational studies
+increase biodiversity in European farmland meadows?
+                                                            to be included, but excluded studies that provided only
+                                                            qualitative evidence.
+Methods
+We followed the review methodology of the Collabor-         Data extraction
+ation for Environmental Evidence partnership [40,41]        Some studies reported more than one treatment (two or
+and published an a-priori protocol [41].                    more delayed cuts) or more than one type of measurable
+
+Humbert et al. Environmental Evidence 2012, 1:9                                                                                    Page 3 of 13
+http://www.environmentalevidencejournal.org/content/1/1/9
+outcome (e.g. species richness and abundance, or differ-                      the unweighted analyses (see statistical analysis section
+ent taxonomic groups such as plants and invertebrates).                       below). The ordinal days (day 1 = January 1st) of the early
+In these cases, all comparisons were recorded as inde-                        cut (control) and delayed cut (treatment) were used to
+pendent data points, and this is why there are more data                      calculate the number of days between the two mowing
+points (units of analysis) than articles [44,45] (Figure 1;                   regimes. If the exact date of the early or delayed cut was
+Table 1).                                                                     unknown, but only the month was given, then the 15th
+   The following information was extracted from the                           of the month was used for calculations. If the terms
+studies for each data point: (1) taxon, (2) species rich-                     “early” or “late” in a given month were mentioned, then
+ness or abundance, (3) standard deviation, (4) sample                         the 7th or 24th, respectively, of that corresponding month
+size, (5) study duration in years, (6) plot size of vegeta-                   were used.
+tion relevés or sampling methodology for invertebrates,                         Delaying cutting is often studied within a broader
+(7) ordinal days of the early cut and (8) delayed cut, and                    context of agricultural extensification for biodiversity,
+finally (9) meadow type, classified as dry, mesophilous                       including reduced number of mowing events, changes in
+or wet. Additional potential sources of heterogeneity                         fertilizer inputs and/or type of fertilizer, oversowing,
+were also extracted such as fertilizer application, number                    etc. Studies of cases in which delaying mowing occurred
+of cuts per year, grazing activity, and biogeographical                       in the presence of such confounding factors could not
+region where the study was carried out. Diversity                             be included in the MA as the effect of delaying the first
+indexes such as the Shannon index were recorded when                          cut cannot be separated from these other confounding
+present, but did not lead to sufficient data points for a                     factors [e.g. 32].
+meta-analysis (MA).
+   Taxa were plants, invertebrates or a specific group of                     Statistical analysis
+invertebrates. Standard deviations (SD) were usually                          Meta-analyses were conducted on three groups of stud-
+retrieved from standard errors (SE) or variances. If no                       ies according to their measurable outcomes: 1) plant
+estimate of variance was provided, we requested it from                       species richness; 2) invertebrate species richness; 3) inver-
+the original authors. If original authors could not                           tebrate abundances. Studies on plant species richness
+provide SD, or sample size was equal to one (i.e. no                          lasted between two and 40 years, and if multiple time-
+variance), the corresponding study was included only in                       points were available along the time series, only the data
+                                                                              for the last year (longest time period) were considered.
+                                                                              Studies on invertebrates were usually shorter, mostly three
+                              Literature research                             to four years, and due to a high inter-annual variation,
+                                                                              these studies often reported biodiversity responses aver-
+                                                                              aged across the years. Here we used these reported aver-
+                                  367 articles
+                                                                              age values.
+                                            Title filtering (96 excluded)       The Hedges’d statistic was used to estimate effect size,
+                    Reviewers' study                                          Hedges’d equalling to the standardized mean difference
+                inclusion agreement         Abstract filtering (221 excluded)
+                    Cohen's k= 0.81                                           between delayed and early cuts [46]:
+                                            Full text filtering (23 excluded)                     
+                                   27 articles
+                                                                                          D  X
+                                                                                          X     E
+                                                                                  d¼                 J
+                                             Duplication or unsuitable data                  S
+                                             for a MA (12 excluded)
+                                                                              where X           E are the means of the delayed and early
+                                                                                        D and X
+                                   15 articles                                cut outcomes, S is their pooled standard deviation, while
+       Additional records
+       from contacts with     +9
+                                                                              the term J corrects for small sample bias [47]. It was cal-
+       experts or found in                                                    culated using the function escalc of the R package meta-
+      bibliography section
+       of selected papers
+                                                                              for [48].
+                                   24 articles                                  Random- and mixed-effects models (mixed-effects
+                                                                              models are random-effects models with covariates) were
+                                                                              chosen as it is now common practice for this kind of
+                                 55 data points                               analysis [47]. Under random- and mixed-effects models,
+  Figure 1 Short title: Flow diagram. Flow diagram reporting the              the true effect size, i.e. the effect size as if there were no
+  number of records identified, excluded and added during the                 sampling errors, can vary from study to study, but usu-
+  literature screening process. An additional file shows the articles         ally do so under a normal distribution [49,50]. Here the
+  excluded after full text filtering and reasons for exclusion [see
+                                                                              Q test and I2 statistic were used to assess heterogeneity
+  Additional file 1].
+                                                                              between studies. The Q test is the test of significance,
+
+Humbert et al. Environmental Evidence 2012, 1:9                                                                     Page 4 of 13
+http://www.environmentalevidencejournal.org/content/1/1/9
+Table 1 Data points and respective references included in the meta-analysis
+                        Outcomes
+                   Species Abundance Early cut Delayed cut Study duration Design* Sample       SD
+Taxon             richness               (control) (treatment)    in years exp or obs size provided          Reference
+Plants            x                     May        July        11          exp       4     yes      Beltman et al. 2003 [89]
+Plants            x                     June       Sept        20          obs       9     yes      Bissels et al. 2004 [55]
+Plants            x                     June       Aug         2           exp       8     yes      Bobbink and Willems 1991,
+                                                                                                    exp.1 [63]
+Plants            x                     June       Nov         2           exp       8     yes      Bobbink and Willems 1991,
+                                                                                                    exp.1 [63]
+Plants            x                     Aug        Nov         2           exp       8     yes      Bobbink and Willems 1991,
+                                                                                                    exp.1 [63]
+Plants            x                     Aug        Nov         4           exp       2     yes      Bobbink and Willems 1991,
+                                                                                                    exp.2 [63]
+Plants            x                     Early June Late June   6           exp       16    yes      Cop et al. 2009, exp.2 [58]
+Plants            x                     June       Aug         13          exp       3     yes      Fenner and Palmer
+                                                                                                    1998 [90]
+Plants            x                     Late June  Late July   40          obs       9     yes      Hegland et al. 2001 [56]
+Plants            x                     June       Aug         5           exp       10    yes      Hellström et al. 2006 [91]
+Plants            x                     May        July        2           exp       6     yes      Kirkham and Tallowin
+                                                                                                    1995 [92]
+Plants            x                     May        Aug         2           exp       6     yes      Kirkham and Tallowin
+                                                                                                    1995 [92]
+Plants            x                     May        Sept        2           exp       6     yes      Kirkham and Tallowin
+                                                                                                    1995 [92]
+Plants            x                     July       Aug         2           exp       6     yes      Kirkham and Tallowin
+                                                                                                    1995 [92]
+Plants            x                     July       Sept        2           exp       6     yes      Kirkham and Tallowin
+                                                                                                    1995 [92]
+Plants            x                     Aug        Sept        2           exp       6     yes      Kirkham and Tallowin
+                                                                                                    1995 [92]
+Plants            x                     July       Oct         22          exp       6     yes      Köhler et al. 2005 [54]
+Plants            x                     June       Oct         6           exp       24    yes      Marriott et al. 2003 [93]
+Plants            x                     June       July        11          exp       8     yes      Parr and Way 1988 [17]
+Plants            x                     June       July        4           exp       18    yes      Smith et al. 1996b [94]
+Plants            x                     June       Sept        4           exp       18    yes      Smith et al. 1996b [94]
+Plants            x                     July       Sept        4           exp       18    yes      Smith et al. 1996b [94]
+Plants            x                     June       July        8           exp       36    yes      Smith et al. 2000 [19]
+Plants            x                     June       Sept        8           exp       36    yes      Smith et al. 2000 [19]
+Plants            x                     July       Sept        8           exp       36    yes      Smith et al. 2000 [19]
+Plants            x                     May        July        3           exp       12    yes      Woodcock et al. 2007 [95]
+Plants            x                     July       Sept        25          exp       1     no       Bakker et al. 2002 [18]
+Plants            x                     May        June        7           exp       4     no       Oomes and Mooi 1981 [96]
+Plants            x                     May        Aug         7           exp       4     no       Oomes and Mooi 1981 [96]
+Plants            x                     May        Sept        7           exp       4     no       Oomes and Mooi 1981 [96]
+Plants            x                     June       Aug         7           exp       4     no       Oomes and Mooi 1981 [96]
+Plants            x                     June       Sept        7           exp       4     no       Oomes and Mooi 1981 [96]
+Plants            x                     Aug        Sept        7           exp       4     no       Oomes and Mooi 1981 [96]
+Plants            x                     May + Sept June + Sept 7           exp       4     no       Oomes and Mooi 1981 [96]
+Plants            x                     Early June Late June   4           exp       1     no       Selinger-L. and Muller
+                                                                                                    2001 [97]
+Auchenorrhyncha x          x            May        July        3           exp       12    yes      Blake et al. 2011 [80]
+Invertebrates     x                     June       Aug         13          exp       3     yes      Fenner and Palmer
+                                                                                                    1998 [90]
+
+Humbert et al. Environmental Evidence 2012, 1:9                                                                                                      Page 5 of 13
+http://www.environmentalevidencejournal.org/content/1/1/9
+Table 1 Data points and respective references included in the meta-analysis (Continued)
+Heteroptera           x           x               May           July            3                  exp           4         yes        Morris 1979 [59]
+Auchenorhyncha x                  x               May           July            3                  exp           4         yes        Morris 1981 [60]
+Bumblebees            x           x               May           July            4                  exp           12        yes        Potts et al. 2009 [98]
+Butterflies           x           x               May           July            4                  exp           12        yes        Potts et al. 2009 [98]
+Butterfly larvae                  x               May           July            4                  exp           12        yes        Potts et al. 2009 [98]
+Butterflies           x           x               July          Aug             unknown            obs           18        yes        Valtonen et al. 2006 [31]
+Diurnal moths         x           x               July          Aug             unknown            obs           18        yes        Valtonen et al. 2006 [31]
+Beetles               x           x               May           July            3                  exp           12        yes        Woodcock et al. 2007 [95]
+Coleoptera            x           x               May           July            2                  exp           4         no         Morris and Rispin 1987 [21]
+* Study designs were either experimental (exp) where mowing treatments were randomly applied, or observational (obs) were mowing treatments were not
+randomly applied.
+All 55 data points (unit of analysis) and their respective references included in the meta-analysis. Rows are ordered by taxon and specific outcome measures. Note
+that rows with two outcomes (species richness and abundance) count as two data points. The time (month) of the early and delayed first cut are given for both
+control and treatment plots, as well as the duration of the study in years and the sample size. Studies where the Standard Deviation (SD) was not provided could
+only be included in meta-analyses based on the response ratio. See Additional file 2 for more details on each data points.
+and the I2 statistic estimates how much of the total vari-                             Bootstrapping was used to calculate 95% confidence
+ability in the mean effect size (composed of hetero-                                   intervals (CI); if CI overlapped zero, the effect size was
+geneity and sampling error) can be attributed to                                       considered to be non significant. All statistics were per-
+heterogeneity among the true effect size [48,50].                                      formed using R version 2.13.0 [52].
+   First, the null model was generated. Then all univari-
+ate models including the following moderators (effect
+modifiers) were tested: ordinal day, time lapse (in days)                              Results
+between the early and the delayed cuts, study duration                                 On the 16th of March 2011, 367 articles were retrieved
+(in years), meadow type and plot size of the vegetation                                from the web searches. The influence on biodiversity of
+relevés. Multivariate models (various combinations of                                  delaying the first mowing date could be investigated in
+the above mentioned variables) were also explored.                                     27 articles that matched inclusion criteria (Figure 1).
+Further subgroup analyses were conducted to investigate                                Subsequently, twelve articles were excluded due to
+the influence of key moderators separately. Models were                                duplication or unsuitable data for a MA. Duplication
+ranked based on their AIC values (Akaike Information                                   happened when it was obvious that two studies based on
+Criterion) and on the level of significance of the esti-                               the same experimental set up were looking at the same
+mates [51]. Permutation tests were not always possible                                 metric while either addressing different questions or
+due to an insufficient number of data points, which                                    considering different times. For example, the articles
+limits the number of possible iterations. Therefore test                               [53] and [54] reported studies investigating the impact
+statistics of the effect sizes and corresponding confi-                                of different mowing regimes on plant species richness in
+dence intervals (CIs) referred to the normal distribution                              the same experimental set up, same plots, but one after
+(Z test). Publication bias was assessed using funnel plots,                            15 years, and the other after 22 years of management,
+by applying a regression test for funnel plot asymmetry                                respectively. In such cases, only the latest study (longest
+[46,48].                                                                               duration) was included in the MA. Nine additional stud-
+   In addition to the proper weighted meta-analyses,                                   ies were found in bibliography sections of the selected
+unweighted meta-analyses were performed using the re-                                  papers or obtained after contacting experts, which
+sponse ratio as effect size. Response ratio (lr) is equal to                           makes a total of 24 suitable studies submitted to the
+the natural logarithm of the ratio of the delayed on the                               present MA (Figure 1). In some studies more than one
+early cut date [46]. Note that this way a positive value                               delayed cut or more than one invertebrate group were
+means a positive effect of delaying mowing.                                            investigated, resulting in a total of 55 data points
+                                                                                       (Table 1). All studies were experimental but three that
+                                                                                     used an observational approach [31,55,56], though the
+      lr ¼ ln X    D =X E
+                                                                                       observational studies were well replicated (9 or 18 times,
+                                                                                       see Table 1). From these 55 data points, 35 deal with
+   Although less powerful than proper-weighted meta-                                   plant species richness, ten with invertebrate species rich-
+analyses, this approach allows the inclusion of studies                                ness, and ten with invertebrate abundance. In eleven
+that did not report SD or where sample size was one, i.e.                              cases (nine for plant species richness, one for inverte-
+studies for which no Hedges’d could be calculated.                                     brate species richness and one for invertebrate
+
+Humbert et al. Environmental Evidence 2012, 1:9                                                                 Page 6 of 13
+http://www.environmentalevidencejournal.org/content/1/1/9
+abundance), the study did not report SD, or sample size       was significant (Q = 43.12, d.f. = 24, P = 0.010), indicating
+equalled one. Consequently, these data points could only      again that other moderators may also influence the
+be included in the MA assessing response ratio. Two           effect sizes. On the contrary, the date of the delayed
+suitable studies on seed shed and seed bank were              cut did not significantly influence the effect size (slope =
+also found, but not included because their very specific      −0.007 with 95% CI −0.013 – 0.001, z = −1.805,
+focus was too marginal with respect to our main re-           P = 0.071), although it did explain some of the
+search question [20,57]. There was no single study on         heterogeneity.
+birds that complied with our selection criteria. In effect,     In order to further investigate this issue and to evalu-
+all bird studies consisted of observational studies with      ate the extent to which heterogeneity can be explained
+potential confounding factors. An additional file shows       by variation in this moderator (first mowing date), two
+the included data points in more detail [see Additional       subset MAs were conducted. The first included only the
+file 2].                                                      data points with an early cut in spring (before July 1)
+   Postponing the first mowing date is a widespread agri-     associated with a delayed cut in summer (July to Sep-
+environmental measure in Europe, though it is usually         tember); the second included all other combinations of
+coupled with other measures such as reduction of              early and delayed cuts (spring to fall, early summer to
+fertilizer applications. This makes sense from an agrono-     late summer and summer to fall, but excluded one early
+mical point of view since postponing mowing must be           spring to late spring study [58]). In the first case, mean
+accompanied by reduced hay productivity in order to           Hedges’d became significantly positive (mean Hedges’
+avoid over-mature grass laying on the ground and/or           d = 0.388 with 95% CI 0.092 – 0.684, z = 2.569, P = 0.010,
+mouldering at the time of mowing. It would then be dif-       Figure 2b). Between studies heterogeneity was significant
+ficult to separate the effects of postponing mowing from      (Q = 24.88, d.f. = 14, P = 0.036), while I2 (40%) was not.
+the effect of fertilizer reduction. Therefore, most of the    In the second case, mean Hedges’d became significantly
+studies included in the present MA concern extensively        negative (mean Hedges’d = −0.504 with 95% CI −0.763 –
+managed grasslands with no fertilizer application and a       −0.246, z = −3.828, P < 0.001, Figure 2c). Heterogeneity
+single cut per year.                                          was not significant (Q = 4.56, d.f. = 9, P = 0.871), indicat-
+                                                              ing that these latter studies provided consistent results.
+Effects on plant species richness                               Note that none of the models including one or more
+Results based on the response ratio were qualitatively        moderators (study duration, mowing date, time interval
+the same as the results based on the Hedges’d. There-         between mowings, habitat type, and plot size of the
+fore, only the results of the weighted meta-analysis based    vegetation relevés) performed better that the null model
+on the Hedges’d are presented below due to their super-       according to AIC values [Additional file 4]. In addition,
+ior explanatory power. An additional file shows the           no asymmetry was detected in any funnel plots, which
+results of the unweighted meta-analysis based on the re-      rules out any publication bias effect [Additional file 5].
+sponse ratio [see Additional file 3].
+   In the null model, no overall significant effect of delay- Effects on invertebrate species richness
+ing the first mowing date was supported as regards plant      A significant positive effect of delaying the first mowing
+species richness (mean Hedges’d = 0.017 with 95% CI           date on invertebrate species richness was found (mean
+−0.237 – 0.2716, z = 0.134, P = 0.882, Figure 2). However,    Hedges’d = 0.511 with 95% CI 0.129 – 0.893, z = 2.6217,
+heterogeneity between studies was significant (Q = 56.88,     P = 0.009, Figure 4). Heterogeneity was not significant
+d.f. = 25, P < 0.001, I2 = 54%), indicating that the true ef- (Q = 14.97, d.f. = 8, P = 0.060). No significant influence
+fect size does vary from one study to the next. With          was found concerning the number of years during which
+study duration (in years) included in the model as a          a study was carried out (slope = 0.154 with 95% CI
+moderator, no significant influence of that moderator on      −0.074 to 0.382, z = 0.117, P = 0.186). No models includ-
+the effect size was discerned (slope = 0.016 with 95% CI      ing a moderator performed better than the null model
+-0.019 – 0.051, z = 0.878 P = 0.380, Figure 3a).              according to AIC values [Additional file 4]. No asym-
+   In further univariate models, a significant negative       metry was detected in funnel plots [Additional file 5].
+influence of the date of the early cut (control) was estab-
+lished (slope = −0.015 with 95% CI −0.025 – −0.005, z =       Effects on invertebrate abundance
+−2.878, P = 0.004, Figure 3b). This means that the earlier    Delaying the first mowing date had no significant effect
+the cut in the year, the more pronounced the effect on        on invertebrate abundance (mean Hedges’d = −0.053
+biodiversity of delaying the first cut. On the other hand,    with 95% CI −0.889 – 0.783, z = −0.1249, P = 0.901,
+when the early cut occurred late in the season (July to       Figure 5). However, the resulting Q-Q plot was not satis-
+August), delaying it had no, or even a negative, effect on    factory, while the funnel plot showed a significant asym-
+plant species richness. Between studies heterogeneity         metry in the distribution of the data points due to the
+
+Humbert et al. Environmental Evidence 2012, 1:9                                                                                               Page 7 of 13
+http://www.environmentalevidencejournal.org/content/1/1/9
+                                                                Plant species richness
+    Source, early cut-delayed cut                                                                                Standardized mean difference [95% CI]
+    a) Early spring-late spring
+    Cop et al. 2009, earlyJune-lateJune                                                                                            -0.77 [ -1.49 , -0.05 ]
+    b) Spring-summer
+    Beltman et al. 2003, May-July                                                                                                   -0.54 [ -1.95 , 0.87 ]
+    Bissels et al. 2004, June-Sept                                                                                                   0.74 [ -0.25 , 1.72 ]
+    Bobbink and W. 1991, exp.1 June-Aug                                                                                             -0.03 [ -1.01 , 0.95 ]
+    Fenner and P. 1998, June-Aug                                                                                                     1.64 [ -0.21 , 3.49 ]
+    Hegland et al. 2001, lateJune-lateJuly                                                                                           0.48 [ -0.84 , 1.80 ]
+    Hellström et al. 2006, June-Aug                                                                                                  0.56 [ -0.34 , 1.45 ]
+    Kirkham and T. 1995, May-July                                                                                                    1.63 [ 0.33 ,  2.94 ]
+    Kirkham and T. 1995, May-Aug                                                                                                     1.82 [ 0.47 ,  3.16 ]
+    Kirkham and T. 1995, May-Sept                                                                                                    1.32 [ 0.07 ,  2.57 ]
+    Parr and W. 1988, June-July                                                                                                      0.33 [ -0.66 , 1.32 ]
+    Smith et al. 1996b, June-July                                                                                                    0.22 [ -0.43 , 0.88 ]
+    Smith et al. 1996b, June-Sept                                                                                                   -0.38 [ -1.04 , 0.28 ]
+    Smith et al. 2000, June-July                                                                                                     0.61 [ 0.13 ,  1.08 ]
+    Smith et al. 2000, June-Sept                                                                                                    -0.06 [ -0.52 , 0.40 ]
+    Woodcock et al. 2007, May-July                                                                                                   0.04 [ -0.76 , 0.84 ]
+    Sub-summary                                                                                                                       0.39 [ 0.09 , 0.68 ]
+    c) Others
+    Bobbink and W. 1991, exp.1 June-Nov                                                                                             -0.48 [ -1.48 , 0.51 ]
+    Bobbink and W. 1991, exp.1 Aug-Nov                                                                                              -0.50 [ -1.49 , 0.50 ]
+    Bobbink and W. 1991, exp.2 Aug-Nov                                                                                              -1.90 [ -4.26 , 0.46 ]
+    Kirkham and T. 1995, July-Aug                                                                                                    0.16 [ -0.97 , 1.29 ]
+    Kirkham and T. 1995, July-Sept                                                                                                  -0.56 [ -1.71 , 0.59 ]
+    Kirkham and T. 1995, Aug-Sept                                                                                                   -0.75 [ -1.92 , 0.42 ]
+    Köhler et al. 2005, July-Oct                                                                                                     0.03 [ -1.10 , 1.16 ]
+    Marriott et al. 2003, June-Oct                                                                                                  -0.36 [ -0.93 , 0.21 ]
+    Smith et al. 1996b, July-Sept                                                                                                   -0.56 [ -1.22 , 0.11 ]
+    Smith et al. 2000, July-Sept                                                                                                   -0.69 [ -1.17 , -0.22 ]
+    Sub-summary                                                                                                                    -0.50 [ -0.76 , -0.25 ]
+    Summary                                                                                                                          0.02 [ -0.24 , 0.27 ]
+                                           -3           -2            -1            0             1               2              3
+                                                                                Hedges'd
+  Figure 2 Short title: Forest plot for plant species richness. Forest plot showing the effect of delaying the first mowing date on plant species
+  richness. The Forest plot is divided in three sections according to postponing schedule: a) study that delayed the first cut from early spring to
+  late spring, b) studies that delayed the first cut from spring (May-June) to summer (July-August-September), and c) studies that delayed the first
+  cut from spring to fall, early summer to late summer or summer to fall. Effect sizes are Hedges’d, i.e. the standardized mean differences between
+  delayed and early cuts. The squares and bars represent the mean values and 95% confidence intervals of the effect sizes, while the size of the
+  squares reflects the weight of the studies. The combined effects (sub-summary and summary) appear as diamonds and the vertical dashed line
+  represents the line of no effect.
+two outlying studies of Morris [59,60]. Excluding Mor-                          mowing (slope = 5.607 with 95% CI 3.283 – 7.930,
+ris’s studies from the analysis resulted in model assump-                       z = 4.730, P < 0.001) [see Additional file 4]. This means
+tions and funnel plot becoming satisfactory, with a                             that effect size is greater the earlier the first mowing and
+significant positive effect of delaying the first mowing                        later the delayed mowing. The influence of study dur-
+date (mean Hedges’d = 0.533 with 95% CI 0.222 – 0.844,                          ation was not investigated because all study durations
+z = 3.3564, P = 0.001, Figure 5a), even in the absence of                       were either 3 or 4 years.
+heterogeneity (Q = 6.59, d.f. = 6, P = 0.360). The apparent
+generality of this result must be treated with caution,                         Discussion
+however, as it is based on only two independent experi-                         Limitations of available information
+ments. Model ranking accounting for all studies, includ-                        The main limitation of this systematic review is the low
+ing Morris’s studies, showed that the model that                                number of data points stemming from an even lower
+included the dates of both early and delayed mowing                             number of studies (Table 1), which precluded investiga-
+had a lower AIC value, with a negative effect for early                         tions on specific invertebrate taxa, and on the influence
+mowing (slope = −2.130 with 95% CI −3.017 – −1.241,                             of several moderators. As a consequence, only the main
+z = −4.6989, P < 0.001) and a positive effect of delayed                        general effects of postponing mowing could be clearly
+
+Humbert et al. Environmental Evidence 2012, 1:9                                                                           Page 8 of 13
+http://www.environmentalevidencejournal.org/content/1/1/9
+                                                                         distribution of the habitats among the data points
+    a                                                                    (n = 36 mesophilous meadows; 16 wet meadows; 3 dry
+                                                                         meadows). Moreover, from the sixteen wet meadow data
+                                                                         points, nine could not be included in the weighted MA.
+                                                                         Additional management factors such as fertilizer applica-
+                                                                         tion, occurrence of a second cut, seed oversowing, and
+                                                                         autumn grazing would also influence the effect size, but
+                                                                         they could not be investigated for the same reasons.
+                                                                         Note that the most common management practice (42
+                                                                         data points out of 55) was no fertilizer application, no
+                                                                         grazing and a single cut per year.
+                                                                            Study design could also play a role. While most studies
+                                                                         were experimental, three used a purely observational
+                                                                         approach [31,55,56]. Experimental frameworks also dif-
+                                                                         fered greatly in sample sizes, plot sizes and sampling
+                                                                         methodologies, which additionally affect the probability
+                                                                         of detecting changes. Publication bias was not apparent
+                                                                         from the funnel plots; however, some biogeographical
+                                                                         bias might be present as most studies originated from
+    b                                                                    the UK [see Additional file 2].
+                                                                         Conclusions
+                                                                         The present study shows that, in most cases, delaying
+                                                                         the first mowing date in European meadows has either
+                                                                         positive or neutral effects on plant and invertebrate bio-
+                                                                         diversity. Our MA also provides evidence of between-
+                                                                         study heterogeneity, emphasizing that factors other than
+                                                                         mowing date might play an important role, a topic which
+                                                                         deserves further investigations. These findings have par-
+                                                                         ticular relevance to all agri-environment schemes (AES)
+                                                                         where the date of first mowing is strictly regulated. They
+                                                                         are also important for the management of low input
+                                                                         meadows, where delaying mowing may improve and
+                                                                         secure primary production. It is has been shown that pri-
+                                                                         mary productivity in more diverse plant communities is
+                                                                         more stable and resilient to disturbances [61]. In addition
+                                                                         to agricultural grasslands, open nature reserves are often
+  Figure 3 Short title: Hedges’d versus a) study duration, or            mown [e.g. 62,63]. When conservation is the primary
+  b) date of the early cut. Standardized mean differences (Hedges’d)     goal of such management, the first possible mowing date
+  of the effect of delaying the first mowing date on plant species       should be considered carefully.
+  richness as a function of a) study duration (in years), or b) the date    Plant species richness reacted differently according
+  of the early cut (control plot). The size of the dots reflects the
+                                                                         to the way mowing was postponed. Delaying mowing
+  weight of the study.
+                                                                         from spring to summer had a positive effect, while
+                                                                         delaying either from spring to fall, or from early summer
+                                                                         to late summer, or from summer to fall had a negative
+investigated. Moreover, in the MA there was great het-                   effect (Figure 2). The time interval between two mowing
+erogeneity in plant species richness, indicating that other              events was expected to have a greater positive impact
+factors (moderators) than delaying the first mowing                      the longer the time interval between cuts, though the
+probably influence the effect size. While the date of the                time interval, in fact, appeared to be not significant.
+first mowing was found to be an important factor, study                     Invertebrates were expected to show an even stronger
+duration was not (Figure 3). It was also expected that                   response to delayed mowing than plants, due to their
+heterogeneity would be influenced by the great variety of                heavy dependence on vegetation structure [33,64,65] and
+meadow types involved. However, no analyses could be                     high susceptibility to mechanized harvesting processes
+conducted on this factor due to the highly unbalanced                    [66]. However, only invertebrate species richness showed a
+
+Humbert et al. Environmental Evidence 2012, 1:9                                                                                            Page 9 of 13
+http://www.environmentalevidencejournal.org/content/1/1/9
+                                                       Invertebrate species richness
+    Source, early cut−delayed cut          Taxon                                                      Standardized mean difference [95% CI]
+    Blake et al. 2011, May−July            Auchenorrhyncha                                                                  0.08 [ −0.72 , 0.88 ]
+    Fenner and P. 1998, June−Aug           Invertebrates                                                                    1.55 [ −0.28 , 3.37 ]
+    Morris 1979, May−July                  Heteroptera                                                                     −1.49 [ −3.05 , 0.08 ]
+    Morris 1981a, May−July                 Auchenorhyncha                                                                  −0.26 [ −1.65 , 1.13 ]
+    Potts et al. 2009, May−July            Bumblebees                                                                       0.31 [ −0.49 , 1.12 ]
+    Potts et al. 2009, May−July            Butterflies                                                                       1.41 [ 0.51 , 2.30 ]
+    Valtonen et al. 2006, July−Aug         Butterflies                                                                      0.55 [ −0.11 , 1.22 ]
+    Valtonen et al. 2006, July−Aug         Diurnal.moths                                                                     0.82 [ 0.14 , 1.50 ]
+    Woodcock et al. 2007, May−July         Beetles                                                                          0.74 [ −0.08 , 1.57 ]
+    Summary                                                                                                                  0.51 [ 0.13 , 0.89 ]
+                                                  −4                  −2                  0                  2                   4
+                                                                                    Hedges'd
+  Figure 4 Short title: Forest plot for invertebrate species richness. Forest plot showing the effect of delaying the first mowing date on
+  invertebrate species richness. See legend of Figure 2 for more details on the Forest plot structure.
+clear overall significant positive response (Figure 4), while                  found to have a positive effect on invertebrate abundance
+no effect was detected on invertebrate abundance. It was                       (Figure 5).
+only after removing two studies [59,60] contradicting basic                      The types of meadow considered in this review – both
+MA assumptions that delaying the first mowing date was                         from a phytosociological viewpoint (e.g. Arrhenatherion,
+                                                         Invertebrate abundance
+    Source, early cut-delayed cut          Taxon                                                      Standardized mean difference [95% CI]
+    a) Without studies of Morris
+    Blake et al. 2011, May-July            Auchenorrhyncha                                                                   -0.16 [ -0.96 , 0.64 ]
+    Potts et al. 2009, May-July            Bumblebees                                                                         0.29 [ -0.51 , 1.10 ]
+    Potts et al. 2009, May-July            Butterflies                                                                        0.70 [ -0.12 , 1.53 ]
+    Potts et al. 2009, May-July            Butterfly.larvae                                                                   0.47 [ -0.34 , 1.28 ]
+    Valtonen et al. 2006, July-Aug         Butterflies                                                                        0.99 [ 0.30 , 1.68 ]
+    Valtonen et al. 2006, July-Aug         Diurnal.moths                                                                      0.91 [ 0.22 , 1.60 ]
+    Woodcock et al. 2007, May-July         Beetles                                                                            0.28 [ -0.52 , 1.09 ]
+    Sub-summary                                                                                                               0.53 [ 0.22 , 0.84 ]
+    b) Studies of Morris
+    Morris 1979, May-July                  Heteroptera                                                                      -3.13 [ -5.20 , -1.06 ]
+    Morris 1981a, May-July                 Auchenorhyncha                                                                   -3.67 [ -5.95 , -1.40 ]
+    Summary                                                                                                                 -0.05 [ -0.89 , 0.78 ]
+                                                                  -4                -2                  0                2                  4
+                                                                                                  Hedges'd
+  Figure 5 Short title: Forest plot for invertebrate abundance. Forest plot showing the effect of delaying the first mowing date on invertebrate
+  abundance. The Forest plot is divided in two sections: a) without the two studies of Morris, and b) the two studies of Morris (see text in the
+  Result and discussion section). The overall combined effect (summary) includes all studies, while the sub-summary does not include Morris’s
+  studies. See legend of Figure 2 for more details on the Forest plot structure.
+
+Humbert et al. Environmental Evidence 2012, 1:9                                                                          Page 10 of 13
+http://www.environmentalevidencejournal.org/content/1/1/9
+Mesobromion, Filipendulion or Caricion) and a func-        Implications for further research
+tional perspective (e.g. hay or litter meadow) – are also  Our review focuses solely on the general effect of delay-
+believed to interact with the effects of delaying mowing.  ing the first mowing date upon plant and invertebrate
+Unfortunately, the variety of meadow types across stud-    species richness as well as invertebrate abundance. Some
+ies yielded an insufficiently balanced sample to enable    general trends could be extracted from the scientific
+investigation of the influence of that moderator. For the  literature, but there is still considerable uncertainty
+same reason, we were unable to consider effects on spe-    concerning the estimated effect sizes, since the influence
+cific invertebrate taxa, notwithstanding that responses    of several moderators has barely been investigated.
+are also expected to vary with respect to taxa body size,  Altogether, invertebrates were far less documented than
+mobility, and life history traits [27,62,67,68].           plants, with only seven studies of the impact of delaying
+   Extensification of grassland management practices is    mowing on species richness and/or abundance, and even
+reported to positively affect general plant and inverte-   these showed a major geographical bias (six studies from
+brate biodiversity [e.g. 32,69,70], which is confirmed by  the UK and one from Finland). Clearly this is not suffi-
+this MA. However, contrary to some other studies [e.g.     cient to get the full picture: further long-term, experi-
+71], we could not detect any conservation conflicts        mental investigations of target taxonomic groups and
+between our two main focal taxa (plants and inverte-       species regarding responses to mowing regimes are
+brates), when some practices benefit one taxon to the      needed. This lack of invertebrate studies is true not only
+detriment of the other.                                    for mowing but also for all factors that may influence
+                                                           grassland invertebrates, such as grazing, habitat frag-
+                                                           mentation and management intensity [87]. Only experi-
+Evidence of effectiveness and management                   mental work can disentangle the effects of various, often
+recommendations                                            concomitant management practices (e.g. mowing date
+This review confirms that postponing of mowing             and fertilizer application). We thus encourage experi-
+from spring (May-June) to summer (July-September) is       ments where management practices are investigated in a
+appropriate to promote plant and invertebrate diver-       full factorial design or where a single management prac-
+sity. In contrast, postponing mowing from spring to fall   tice is tested against a control plot or field that differs
+(October-November) or from early summer (July) to late     only in regard to this practice. Field scale experiments
+summer or fall may have a negative impact on the vege-     should be preferred to plot scale, especially when inves-
+tation species richness. Invertebrates might still benefit tigating animals that can move from a plot to another.
+from it but these two postponing schemes could not         Additionally, landscape characteristics are known to
+be differentiated due to small sample size. Regarding wet  influence communities of plants and animals within
+and litter meadows, a late cut (September or later) is     farmland, and should therefore be accounted for in any
+usually recommended [72], but unfortunately we are not     attempt to model the effects of management practices
+in a position to confirm this recommendation, in the ab-   on those communities [88].
+sence of habitat specific analyses.
+   When postponing mowing cannot be done at the field      Additional files
+scale, leaving uncut grass areas within the cultivated
+landscape matrix can be an alternative solution to           Additional file 1: Humbert_et_al_2012_Additional_file_1.xls;
+favour plants and animals [see also 73-76]. At the land-     Articles excluded after full text filtering.
+scape scale, creating a mosaic of different mowing           Additional file 2: Humbert_et_al_2012_Additional_file_2.xls;
+                                                             Detailed information on each data point, including weighted and
+regimes will increase species diversity, as there is no      unweighted effect sizes.
+single appropriate mowing time that suits all organisms      Additional file 3: Humbert_et_al_2012_Additional_file_3.pdf;
+[33,54,77]. In addition to the date of first mowing, a       Results of the unweighted meta-analyses.
+low annual cutting frequency also promotes wild plants       Additional file 4: Humbert_et_al_2012_Additional_file_4.pdf; Tables
+[78] and invertebrates [79,80]. There was no single          with details on selected null, univariate and multivariate models.
+study on birds that complied with our selection criteria.    Additional file 5: Humbert_et_al_2012_Additional_file_5.pdf;
+                                                             Funnel plots of the meta-analyses.
+However, all studies on ground-nesting birds recom-
+mend postponing mowing until after fledgings have left
+                                                           Competing interests
+the nests [e.g. 81-85]. These management recommenda-
+                                                           The authors declare that they have no competing interests.
+tions do not apply everywhere and must be related to the
+socio-economic context. For example, in highly fertilized  Authors’ contributions
+systems (high intensity management) biodiversity is gen-   JYH and JP carried out the literature search, JYH performed the statistical
+                                                           analyses and wrote the manuscript. JP conceived the systematic review,
+erally too low for these measures to have positive effects wrote the protocol and advised on the analyses. PB checked for consistency
+[e.g. 86].                                                 in the study inclusion (second reviewer). RA supervised the work and
+
+Humbert et al. Environmental Evidence 2012, 1:9                                                                                                    Page 11 of 13
+http://www.environmentalevidencejournal.org/content/1/1/9
+provided thorough editing of the manuscript. All authors commented and          18. Bakker JP, Elzinga JA, de Vries Y: Effects of long-term cutting in a
+approved the final manuscript.                                                      grassland system: perspectives for restoration of plant communities on
+                                                                                    nutrient-poor soils. Appl Veg Sci 2002, 5:107–120.
+                                                                                19. Smith RS, Shiel RS, Millward D, Corkhill P: The interactive effects of
+Acknowledgements                                                                    management on the productivity and plant community structure
+We are grateful to Judith Wunderlin for a pre-literature research on the topic.     of an upland meadow: an 8-year field trial. J Appl Ecol 2000,
+We would like to thanks all the following authors who provided extra                37:1029–1043.
+information on their studies: Barbara Pietragalla (former B. Köhler), Ben A.    20. Smith RS, Shiel RS, Millward D, Corkhill P, Sanderson RA: Soil seed banks
+Woodcock, Carol A. Marriott, Jure Čop, Kalle Hellström, Robin A. Blake, Robin       and the effects of meadow management on vegetation change in a
+Pakeman, Simon G. Potts, Stein J. Hegland, and Stephanie Bissels.                   10-year meadow field trial. J Appl Ecol 2002, 39:279–293.
+                                                                                21. Morris MG, Rispin WE: Abundance and diversity of the coleopterous fauna
+Author details                                                                      of a calcareous grassland under different cutting régimes. J Appl Ecol
+1
+ Division of Conservation Biology, Institute of Ecology and Evolution,              1987, 24:451–465.
+University of Bern, Baltzerstrasse 6, 3012 Bern, Switzerland. 2A. Maibach Sàrl, 22. Völkl W, Zwölfer H, Romstöck-Völkl M, Schmelzer C: Habitat management
+CP 99, Ch. de la Poya 10, 1610 Oron-la-Ville, Switzerland.                          in calcareous grasslands, effects on the insect community developing in
+                                                                                    flower heads of Cynarea. J Appl Ecol 1993, 30:307–315.
+Received: 28 February 2012 Accepted: 13 June 2012                               23. Erhardt A: Diurnal Lepidoptera: sensitive indicators of cultivated and
+Published: 30 July 2012                                                             abandoned grassland. J Appl Ecol 1985, 22:849–861.
+                                                                                24. Feber RE, Smith H, Macdonald DW: The effects on butterfly abundance of
+                                                                                    the management of uncropped edges of arable fields. J Appl Ecol 1996,
+References
+                                                                                    33:1191–1205.
+1. Wilson JD, Morris AJ, Arroyo BE, Clark SC, Bradbury RB: A review of the
+                                                                                25. Valtonen A, Saarinen K: A highway intersection as an alternative habitat
+     abundance and diversity of invertebrate and plant foods of granivorous
+                                                                                    for a meadow butterfly: effect of mowing, habitat geometry and
+     birds in northern Europe in relation to agricultural change. Agric Ecosyst
+                                                                                    roads on the ringlet (Aphantopus hyperantus). Ann Zool Fenn 2005,
+     Environ 1999, 75:13–30.
+                                                                                    42:545–556.
+2. Carson R: Silent Spring. Boston: Houghton Mifflin; 1962.
+                                                                                26. Humbert J-Y, Ghazoul J, Richner N, Walter T: Hay harvesting
+3. Kleijn D, Kohler F, Baldi A, Batary P, Concepcion ED, Clough Y, Diaz M,
+                                                                                    causes high orthopteran mortality. Agric Ecosyst Environ 2010,
+     Gabriel D, Holzschuh A, Knop E, et al: On the relationship between
+                                                                                    139:522–527.
+     farmland biodiversity and land-use intensity in Europe. P Roy Soc B-Biol
+     Sci 2009, 276:903–909.                                                     27. Humbert J-Y, Ghazoul J, Sauter GJ, Walter T: Impact of different meadow
+4. Krebs JR, Wilson JD, Bradbury RB, Siriwardena GM: The second silent              mowing techniques on field invertebrates. J Appl Entomol 2010,
+     spring. Nature 1999, 400:611–612.                                              134:592–599.
+5. Robinson RA, Sutherland WJ: Post-war changes in arable farming and           28. Thorbek P, Bilde T: Reduced numbers of generalist arthropod predators
+     biodiversity in Great Britain. J Appl Ecol 2002, 39:157–176.                   after crop management. J Appl Ecol 2004, 41:526–538.
+6. Scherr SJ, McNeely JA: Biodiversity conservation and agricultural            29. Grime JP: Plant Strategies, Vegetation Processes, and Ecosystem Properties. 2nd
+     sustainability: towards a new paradigm of ‘ecoagriculture’ landscapes.         edition. Chichester: John Wiley; 2001.
+     Philos T R soc B 2008, 363:477–494.                                        30. Gardiner T, Hassall M: Does microclimate affect grasshopper populations
+7. Chamberlain DE, Fuller RJ, Bunce RGH, Duckworth JC, Shrubb M: Changes            after cutting of hay in improved grassland? J Insect Conserv 2009,
+     in the abundance of farmland birds in relation to the timing of                13:97–102.
+     agricultural intensification in England and Wales. J Appl Ecol 2000,       31. Valtonen A, Saarinen K, Jantunen J: Effect of different mowing regimes on
+     37:771–788.                                                                    butterflies and diurnal moths on road verges. Anim Bio Conserv 2006,
+8. Altieri MA: The ecological role of biodiversity in agroecosystems. Agric         29:133–148.
+     Ecosyst Environ 1999, 74:19–31.                                            32. Knop E, Kleijn D, Herzog F, Schmid B: Effectiveness of the Swiss
+9. Bianchi F, Booij CJH, Tscharntke T: Sustainable pest regulation in               agri-environment scheme in promoting biodiversity. J Appl Ecol 2006,
+     agricultural landscapes: a review on landscape composition, biodiversity       43:120–127.
+     and natural pest control. P Roy Soc B-Biol Sci 2006, 273:1715–1727.        33. Morris MG: The effects of structure and its dynamics on the ecology and
+10. Carvalheiro LG, Veldtman R, Shenkute AG, Tesfay GB, Pirk CWW, Donaldson         conservation of arthropods in British grassland. Biol Conserv 2000,
+     JS, Nicolson SW: Natural and within-farmland biodiversity enhances crop        95:129–142.
+     productivity. Ecol Lett 2011, 14:251–259.                                  34. Koller N, Pearson S, Pozzi S, Godat S, Herzog F, Wermeille E: Evaluation des
+11. DeHaan LR, Weisberg S, Tilman D, Fornara D: Agricultural and biofuel            mesures de compensation écologique sur la diversité de la flore et des
+     implications of a species diversity experiment with native perennial           papillons dans la région de Nuvilly-Combremont. Revue suisse Agric 2000,
+     grassland plants. Agric Ecosyst Environ 2010, 137:33–38.                       32:265–271.
+12. Isbell F, Calcagno V, Hector A, Connolly J, Harpole WS, Reich PB,           35. Pozzi S: Evaluation des mesures de compensation écologique dans la
+     Scherer-Lorenzen M, Schmid B, Tilman D, van Ruijven J, et al: High plant       région de Nuvilly-Combremont par le biais des araignées. Revue suisse
+     diversity is needed to maintain ecosystem services. Nature 2011,               Agric 2004, 36:57–64.
+     477:199–202.                                                               36. Arlettaz R: Feeding behaviour and foraging strategy of free-living
+13. Kleijn D, Sutherland WJ: How effective are European agri-environment            mouse-eared bats, Myotis myotis and Myotis blythii. Anim Behav 1996,
+     schemes in conserving and promoting biodiversity. J Appl Ecol 2003,            51:1–11.
+     40:947–969.                                                                37. Hoste-Danylow A, Romanowski J, Zmihorski M: Effects of management on
+14. Aviron S, Nitsch H, Jeanneret P, Buholzer S, Luka H, Pfiffner L, Pozzi S,       invertebrates and birds in extensively used grassland of Poland. Agric
+     Schupbach B, Walter T, Herzog F: Ecological cross compliance promotes          Ecosyst Environ 2010, 139:129–133.
+     farmland biodiversity in Switzerland. Front Ecol Environ 2009, 7:247–252.  38. Tyler GA, Green RE, Casey C: Survival and behaviour of Corncrake Crex
+15. Gay SH, Osterburg B, Baldock D, Zdanowicz A: Recent evolution of the EU         crex chicks during the mowing of agricultural grassland. Bird Stud 1998,
+     Common Agricultural Policy (CAP): state of play and environmental              45:35–50.
+     potential. In Research report MEACAP WP6-D4b 2005. Available at: http://   39. Tscharntke T, Klein AM, Kruess A, Steffan-Dewenter I, Thies C: Landscape
+     www.ieep.eu/assets/224/WP6D4B_CAP.pdf.                                         perspectives on agricultural intensification and biodiversity - ecosystem
+16. Herzog F, Dreier S, Hofer G, Marfurt C, Schüpbach B, Spiess M, Walter T:        service management. Ecol Lett 2005, 8:857–874.
+     Effect of ecological compensation areas on floristic and breeding bird     40. Collaboration for Environmental Evidence: Guidelines for Systematic
+     diversity in Swiss agricultural landscapes. Agric Ecosyst Environ 2005,        Review in Environmental Management. Version 4.0. In Environmental
+     108:189–204.                                                                   Evidence. 2010. www.environmentalevidence.org/Authors.htm.
+17. Parr TW, Way JM: Management of roadside vegetation: the long-term           41. Pellet J, Wunderlin J: Does delaying the first mowing date increase
+     effects of cutting. J Appl Ecol 1988, 25:1073–1087.                            biodiversity in European farmland meadows? CEE protocol 09-011
+
+Humbert et al. Environmental Evidence 2012, 1:9                                                                                                      Page 12 of 13
+http://www.environmentalevidencejournal.org/content/1/1/9
+     (SR72). In Collaboration for Environmental Evidence. 2009. www.              67. Reinhardt K, Kohler G, Maas S, Detzel P: Low dispersal ability and habitat
+     environmentalevidence.org/SR72.html.                                             specificity promote extinctions in rare but not in widespread species:
+42.  Pullin AS, Stewart GB: Guidelines for systematic review in conservation          the Orthoptera of Germany. Ecography 2005, 28:593–602.
+     and environmental management. Conserv Biol 2006, 20:1647–1656.               68. Walter T, Schneider K, Gonseth Y: Schnittzeitpunkt in Ökowiesen: Einfluss
+43.  Pullin AS, Knight TM: Support for decision making in conservation                auf die Fauna. Agrarforschung 2007, 14:114–119.
+     practice: an evidence-based approach. J Nat Conserv 2003, 11:83–90.          69. Klimek S, Kemmermann ARG, Hofmann M, Isselstein J: Plant species
+44.  Prieto-Benitez S, Mendez M: Effects of land management on the                    richness and composition in managed grasslands: The relative
+     abundance and richness of spiders (Araneae): A meta-analysis. Biol               importance of field management and environmental factors. Biol Conserv
+     Conserv 2011, 144:683–691.                                                       2007, 134:559–570.
+45.  Barrientos R, Alonso JC, Ponce C, Palacin C: Meta-analysis of the            70. Britschgi A, Spaar R, Arlettaz R: Impact of grassland farming intensification
+     effectiveness of marked wire in reducing avian collisions with power             on the breeding ecology of an indicator insectivorous passerine, the
+     lines. Conserv Biol 2011, 25:893–903.                                            Whinchat Saxicola rubetra: Lessons for overall Alpine meadowland
+46.  Gurevitch J, Curtis PS, Jones MH: Meta-analysis in ecology. Adv Ecol Res         management. Biol Conserv 2006, 130:193–205.
+     2001, 32:199–247.                                                            71. Kruess A, Tscharntke T: Contrasting responses of plant and insect
+47.  Gurevitch J, Hedges LV: Meta-analysis: combining the results of                  diversity to variation in grazing intensity. Biol Conserv 2002,
+     independent experiments. In Design and Analysis of Ecological Experiments.       106:293–302.
+     2nd edition. Edited by Scheiner SM, Gurevitch J. New York: Chapman and       72. Wettstein W, Schmid B: Conservation of arthropod diversity in montane
+     Hall; 2001:347–369.                                                              wetlands: effect of altitude, habitat quality and habitat fragmentation on
+48.  Viechtbauer W: Conducting meta-analyses in R with the metafor                    butterflies and grasshoppers. J Appl Ecol 1999, 36:363–373.
+     package. J Stat Softw 2010, 36:1–48.                                         73. Dover JW, Rescia A, Fungariño S, Fairburn J, Carey P, Lunt P, Dennis RLH,
+49.  Perera R: Interpreting meta-analyses in systematic reviews. Ann Intern Med       Dover CJ: Can hay harvesting detrimentally affect adult butterfly
+     2009, 13:67–69.                                                                  abundance? J Insect Conserv 2010, 14:413–418.
+50.  Borenstein M, Hedges LV, Higgins JPT, Rothstein HR: Introduction to Meta-    74. Marini L, Fontana P, Battisti A, Gaston KJ: Agricultural management,
+     Analysis. Chichester: Wiley; 2009.                                               vegetation traits and landscape drive orthopteran and butterfly diversity
+51.  Johnson JB, Omland KS: Model selection in ecology and evolution. Trends          in a grassland-forest mosaic: a multi-scale approach. Insect Conserv Diver
+     Ecol Evol 2004, 19:101–108.                                                      2009, 2:213–220.
+52.  R Development Core Team: R: A language and environment for statistical       75. Schmidt MH, Rocker S, Hanafi J, Gigon A: Rotational fallows as
+     computing. Vienna, Austria: R Foundation for Statistical Computing; 2011.        overwintering habitat for grassland arthropods: the case of spiders in
+53.  Ryser P, Langenauer R, Gigon A: Species Richness and Vegetation                  fen meadows. Biodiversity Conserv 2008, 17:3003–3012.
+     Structure in a Limestone Grassland after 15 Years Management with Six        76. Humbert J-Y, Ghazoul J, Richner N, Walter T: Uncut grass refuges mitigate
+     Biomass Removal Regimes. Folia Geobot Phytotax 1995, 30:157–167.                 the impact of mechanical meadow harvesting on orthopterans. Biol
+54.  Köhler B, Gigon A, Edwards PJ, Krüsi B, Langenauer R, Lüscher A, Ryser P:        Conserv 2012, 152:96–101.
+     Changes in the species composition and conservation value of                 77. Cizek O, Zamecnik J, Tropek R, Kocarek P, Konvicka M: Diversification of
+     limestone grasslands in Northern Switzerland after 22 years of                   mowing regime increases arthropods diversity in species-poor cultural
+     contrasting managements. Perspect Plant Ecol Evol Syst 2005, 7:51–67.            hay meadows. J Insect Conserv 2012, 16:215–226.
+55.  Bissels S, Holzel N, Otte N: Population structure of the threatened          78. Zechmeister HG, Schmitzberger I, Steurer B, Peterseil J, Wrbka T: The
+     perennial Serratula tinctoria in relation to vegetation and management.          influence of land-use practices and economics on plant species richness
+     Appl Veg Sci 2004, 7:267–274.                                                    in meadows. Biol Conserv 2003, 114:165–177.
+56.  Hegland SJ, Van Leeuwen M, Oostermeijer JGB: Population structure of         79. Helden AJ, Leather SR: Biodiversity on urban roundabouts-Hemiptera,
+     Salvia pratensis in relation to vegetation and management of Dutch dry           management and the species-area relationship. Basic Appl Ecol 2004,
+     floodplain grasslands. J Appl Ecol 2001, 38:1277–1289.                           5:367–377.
+57.  Smith RS, Pullan S, Shiel RS: Seed shed in the making of hay from            80. Blake RJ, Woodcock BA, Ramsay AJ, Pilgrim ES, Brown VK, Tallowin JR,
+     mesotrophic grassland in a field in northern England: Effects of hay cut         Potts SG: Novel margin management to enhance Auchenorrhyncha
+     date, grazing and fertilizer in a split-split-plot experiment. J Appl Ecol       biodiversity in intensive grasslands. Agric Ecosyst Environ 2011,
+     1996, 33:833–841.                                                                140:506–513.
+58.  Cop J, Vidrih M, Hacin J: Influence of cutting regime and fertilizer         81. Olsson O, Brady M, Hart R: Optimal delay of harvest – implications for
+     application on the botanical composition, yield and nutritive value of           bird populations and economic compensation. Asp Appl Biol 2010,
+     herbage of wet grasslands in Central Europe. Grass Forage Sci 2009,              100:1–8.
+     64:454–465.                                                                  82. Green RE: Factors affecting the population density of the corncrake Crex
+59.  Morris MG: Responses of grassland invertebrates to management by                 crex in Britain and Ireland. J Appl Ecol 1996, 33:237–248.
+     cutting. II. Heteroptera. J Appl Ecol 1979, 16:417–432.                      83. Müller M, Spaar R, Schifferli L, Jenni L: Effects of changes in farming of
+60.  Morris MG: Responses of grassland invertebrates to management by                 subalpine meadows on a grassland bird, the whinchat (Saxicola rubetra).
+     cutting. III. Adverse effects on Auchenorhyncha. J Appl Ecol 1981,               J Ornithology 2005, 146:14–23.
+     18:107–123.                                                                  84. Bretagnolle V, Villers A, Denonfoux L, Cornulier T, Inchausti P, Badenhausser
+61.  Tilman D, Downing JA: Biodiversity and stability in grasslands. Nature           I: Rapid recovery of a depleted population of Little Bustards Tetrax tetrax
+     1994, 367:363–365.                                                               following provision of alfalfa through an agri-environment scheme. Ibis
+62.  Cattin M-F, Blandenier G, Banašek-Richter C, Bersier L-F: The impact of          2011, 153:4–13.
+     mowing as a management strategy for wet meadows on spider                    85. Nocera JJ, Parsons GJ, Milton GR, Fredeen AH: Compatibility of delayed
+     (Araneae) communities. Biol Conserv 2003, 113:179–188.                           cutting regime with bird breeding and hay nutritional quality. Agric
+63.  Bobbink R, Willems JH: Impact of different cutting regimes on the                Ecosyst Environ 2005, 107:245–253.
+     performance of Brachypodium pinnatum in Dutch chalk grassland. Biol          86. Haddad NM, Haarstad J, Tilman D: The effects of long-term nitrogen
+     Conserv 1991, 56:1–21.                                                           loading on grassland insect communities. Oecologia 2000, 124:73–84.
+64.  Dennis P, Young MR, Gordon IJ: Distribution and abundance of small           87. Littlewood NA, Stewart AJ, Woodcock BA: Science into practice – how can
+     insects and arachnids in relation to structural heterogeneity of grazed,         fundamental science contribute to better management of grasslands for
+     indigenous grasslands. Ecol Entomol 1998, 23:253–264.                            invertebrates? Insect Conserv Diver 2012, 5:1–8.
+65.  Woodcock BA, Potts SG, Tscheulin T, Pilgrim E, Ramsey AJ, Harrison-Cripps J, 88. Schmidt MH, Roschewitz I, Thies C, Tscharntke T: Differential effects of
+     Brown VK, Tallowin JR: Responses of invertebrate trophic level, feeding          landscape and management on diversity and density of ground-
+     guild and body size to the management of improved grassland field                dwelling farmland spiders. J Appl Ecol 2005, 42:281–287.
+     margins. J Appl Ecol 2009, 46:920–929.                                       89. Beltman B, van den Broek T, Martin W, ten Cate M, Gusewell S: Impact of
+66.  Humbert J-Y, Ghazoul J, Walter T: Meadow harvesting techniques and               mowing regime on species richness and biomass of a limestone hay
+     their impacts on field fauna. Agric Ecosyst Environ 2009, 130:1–8.               meadow in Ireland. Bull Geobot Inst ETH 2003, 69:17–30.
+
+Humbert et al. Environmental Evidence 2012, 1:9                                                                                         Page 13 of 13
+http://www.environmentalevidencejournal.org/content/1/1/9
+90. Fenner M, Palmer L: Grassland management to promote diversity:
+     creation of a patchy sward by mowing and fertiliser regimes. Field Stud
+     1998, 9:313–324.
+91. Hellstrom K, Huhta AP, Rautio P, Tuomi J: Search for optimal mowing
+     regime - slow community change in a restoration trial in northern
+     Finland. Ann Bot Fenn 2006, 43:338–348.
+92. Kirkham FW, Tallowin JRB: The influence of cutting date and previous
+     fertilizer treatment on the productivity and botanical composition of
+     species-rich hay meadows on the Somerset Levels. Grass Forage Sci 1995,
+     50:365–377.
+93. Marriott CA, Bolton GR, Fisher JM: Changes in species composition of
+     abandoned sown swards after imposing seasonal cutting treatments.
+     Grass Forage Sci 2003, 58:37–49.
+94. Smith RS, Buckingham H, Bullard MJ, Shiel RS, Younger A: The conservation
+     management of mesotrophic (meadow) grassland in northern England
+     .1. Effects of grazing, cutting date and fertilizer on the vegetation of a
+     traditionally managed sward. Grass Forage Sci 1996, 51:278–291.
+95. Woodcock BA, Potts SG, Pilgrim E, Ramsay AJ, Tscheulin T, Parkinson A,
+     Smith REN, Gundrey AL, Brown VK, Tallowin JR: The potential of grass field
+     margin management for enhancing beetle diversity in intensive
+     livestock farms. J Appl Ecol 2007, 44:60–69.
+96. Oomes MJM, Mooi H: The effect of cutting and fertilizing on the floristic
+     composition and production of an Arrhenatherion elatioris grassland.
+     Vegetatio 1981, 46–7:233–239.
+97. Selinger-Looten R, Muller S: Restoration of grassland in old maize-
+     cultivated land: impact of mowing and role of soil seed bank. Revue D
+     Ecologie-La Terre Et La Vie 2001, 56:3–19.
+98. Potts SG, Woodcock BA, Roberts SPM, Tscheulin T, Pilgrim ES, Brown VK,
+     Tallowin JR: Enhancing pollinator biodiversity in intensive grasslands.
+     J Appl Ecol 2009, 46:369–379.
+  doi:10.1186/2047-2382-1-9
+  Cite this article as: Humbert et al.: Does delaying the first mowing date
+  benefit biodiversity in meadowland? Environmental Evidence 2012 1:9.
+                                                                                Submit your next manuscript to BioMed Central
+                                                                                and take full advantage of:
+                                                                                • Convenient online submission
+                                                                                • Thorough peer review
+                                                                                • No space constraints or color ﬁgure charges
+                                                                                • Immediate publication on acceptance
+                                                                                • Inclusion in PubMed, CAS, Scopus and Google Scholar
+                                                                                • Research which is freely available for redistribution
+                                                                                Submit your manuscript at
+                                                                                www.biomedcentral.com/submit
+

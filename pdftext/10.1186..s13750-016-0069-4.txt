@@ -1,0 +1,666 @@
+McIntosh et al. Environ Evid (2016) 5:15
+DOI 10.1186/s13750-016-0069-4                                                                                         Environmental Evidence
+  SYSTEMATIC MAP PROTOCOL                                                                                                                             Open Access
+What is the extent and distribution
+of evidence on effectiveness of systematic
+conservation planning around the globe? A
+systematic map protocol
+Emma J. McIntosh1* , Madeleine C. McKinnon2,3 , Robert L. Pressey4                                                   and Richard Grenyer1
+   Abstract
+   Background: Systematic conservation planning involves the prioritisation of conservation actions to optimise bio-
+   diversity conservation outcomes whilst considering implementation challenges such as minimising costs. Thousands
+   of systematic conservation plans have been developed around the globe (a popular software package, ‘Marxan’, has
+   over 4200 active users from more than 180 countries). However, the effects of systematic approaches on conservation
+   actions and outcomes are not generally known, nor are the factors which distinguish effective from ineffective plans.
+   Previous reviews of conservation planning outcomes have been limited in scope and to narrow time intervals, and
+   have revealed very few formal evaluations of plans. Given systematic approaches are widely perceived to offer the
+   best chance to rapidly and efficiently achieve biodiversity protection targets, a thorough, up-to-date synthesis of the
+   evidence is required.
+   Methods: This protocol outlines the methodology for a systematic mapping exercise to identify retrospective studies
+   measuring the effects of systematic conservation planning on biodiversity conservation at regional, national and sub-
+   national scales. Our primary research question is: what is the extent and distribution of evidence on the conservation
+   outcomes of systematic conservation planning? Outcomes will be categorised according to types of capital: natural,
+   financial, social, human and institutional, given the range of potential direct and indirect effects of systematic con-
+   servation planning on conservation outcomes. A comprehensive and repeatable search strategy will be undertaken,
+   utilising a wide range of sources including grey literature sources and targeted searches of organisational websites
+   and databases. Sources will be restricted to English language publications between 1983 and 2016. The resultant
+   studies will be screened using standardised inclusion and exclusion criteria and data from included studies will be cat-
+   egorised according to a standardised data extraction form. Information about the study design of relevant articles will
+   be recorded to determine study robustness. A searchable database of studies will be made publicly accessible and
+   available for updating in future. The results will be published in this journal and also presented as an interactive online
+   resource to aid conservation planners in identifying impacts and outcomes of conservation plans.
+   Keywords: Conservation assessment, Prioritisation, Resource allocation, Evidence synthesis, Implementation
+Background                                                                                    areas in urgent need of protection, given the limited
+The prioritisation of proposed conservation investments                                       resources available for biodiversity conservation [1].
+is essential to secure species, habitats and wilderness                                       Internationally, governments have committed to the
+                                                                                              Aichi Biodiversity Targets of 17 % of terrestrial and 10 %
+                                                                                              of coastal and marine waters protected by 2020 [2] but
+*Correspondence: emma.mcintosh@ouce.ox.ac.uk
+1
+  School of Geography and the Environment, University of Oxford, Oxford,
+                                                                                              current efforts are still falling short of these targets [3,
+UK                                                                                            4]. This situation necessitates transparent, rigorous and
+Full list of author information is available at the end of the article
+                                              © 2016 The Author(s). This article is distributed under the terms of the Creative Commons Attribution 4.0 International License
+                                              (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium,
+                                              provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license,
+                                              and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/
+                                              publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+
+McIntosh et al. Environ Evid (2016) 5:15                                                                                                       Page 2 of 13
+effective evidence-based policy approaches to enable                            of the term ‘systematic’ makes comparisons between
+decision makers to allocate limited resources strategically                     plans difficult, hampering evaluation. A critical element
+[5], avoid the less efficient approaches of the past [6–8]                      in setting apart true systematic conservation planning
+and, ultimately, achieve broader conservation goals.                            from other types of conservation planning is the defini-
+   Conservation planning is the process of identify-                            tion of an optimality criterion, against which alternative
+ing, configuring and managing conservation resources                            options can be compared (often completed as a ‘spatial
+and actions to protect biodiversity and ecosystem ser-                          prioritisation’ exercise, see Fig. 1) [in real-world applica-
+vices, most frequently in the design of protected area                          tions, strict algorithmic optimality (applied to initial data
+networks [9]. Since its establishment in the early 1980s                        sets) may be modified to incorporate the preferences of
+[10] and widespread uptake in the 1990s, the field of sys-                      stakeholders, who are sometimes involved interactively
+tematic conservation planning has grown rapidly and is                          with data analysis [16, 17]].
+widely considered to be the most influential paradigm                             As an inclusion criterion for this systematic map, we
+for identifying spatial priorities for conservation invest-                     therefore define systematic conservation planning as
+ment [11–13]. Systematic approaches have been applied                           a process for locating and implementing conservation
+in high-profile projects such as the designation and zon-                       actions where: (a) the benefits of conservation actions
+ing of protected areas in the Great Barrier Reef, Australia                     are specified either as threshold amounts of natural fea-
+[14] and the Cape Floristic Region, South Africa [15].                          tures to be represented or as continuous functions with
+   Applications vary widely and systematic planning is                          increasing amounts of features; and (b) the outputs are
+often used to describe processes which involve some or                          one or more optimal or near optimal sets of spatially-
+all of the following stages; the setting of explicit conser-                    bounded conservation actions (Table 1) (this requires a
+vation objectives, spatial biological data (typically mul-                      definition of conservation actions, which we here define
+tiple species and/or habitats), socioeconomic and other                         as legal demarcations and/or management interventions
+datasets, stakeholder consultation [16] and ultimately,                         to promote the persistence of biodiversity and other
+the identification of priority areas for the allocation of                      natural features in situ [18]). This means that plans will
+conservation resources (Fig. 1). The variation in the use                       necessarily use existing, purpose built (e.g. Marxan [19],
+  Fig. 1 The primary stages of systematic conservation planning [modified from 9]. This is an iterative, rather than a linear process, with feedbacks in
+  light of new data or logistical considerations. The box around stages 8 and 9 indicates the spatial prioritisation stages during which computational
+  decision-analysis tools are often used. This figure represents the dominant framework available for systematic conservation planning and has been
+  adopted in the pending World Commission on Protected Areas (WCPA) Best Practice Guidelines [77]
+
+McIntosh et al. Environ Evid (2016) 5:15                                                                                                          Page 3 of 13
+Table 1 Conservation planning definitions
+Conservation planning
+The process of identifying, configuring and managing conservation resources and actions to protect biodiversity and ecosystem services
+Systematic approaches to planning
+Planning stages approximate those in Fig. 1, i.e. the setting of explicit conservation objectives, spatial biological data (typically multiple species and/
+  or habitats), socioeconomic and other datasets, stakeholder consultation [16] and ultimately, the identification of priority areas for the allocation of
+  conservation resources
+Core biological principles such as representation and persistence (adequacy; achieved by applying the principles of complementarity, irreplaceability,
+  connectivity and related methods [13]) are considered alongside non-biological considerations, including social and political constraints and oppor-
+  tunities [36, 45]
+E.g. The planning process for California’s Marine Life Protection Act in north central California, USA [71]
+Systematic conservation planning
+In addition to including all above components
+(a) The benefits of conservation actions are specified either as threshold amounts of natural features to be represented or as continuous functions with
+  increasing amounts of features; and
+(b) the outputs are one or more optimal or near optimal sets of spatially-bounded conservation actions
+Plans will necessarily use decision-support tools in the ‘spatial prioritisation’ stages
+E.g. the representative areas program for the rezoning of the Great Barrier Reef, Australia [14]
+C-Plan [20] and Zonation [21]) or other algorithmic (e.g.                            biodiversity conservation outcomes when compared with
+linear/non-linear programming, genetic algorithms)                                   ad hoc decisions about the prioritisation of conservation
+decision-support tools in the ‘spatial prioritisation’ stages                        actions. In fact, no comprehensive list exists of all the
+(Stages 8 and 9 in Fig. 1).                                                          systematic conservation plans ever developed.
+   We acknowledge that not all organisations currently                                 Published reviews of the effectiveness of conservation
+use computerised decision-support tools (beyond                                      planning around the globe have been limited in scope,
+GIS alone) to identify priority areas when undertak-                                 restricted to analyses of the peer-reviewed literature,
+ing conservation planning. However, for the purposes                                 pertaining to narrow time periods and have not always
+of this systematic map, we have decided to focus only                                involved input from practitioners [28, 32, 33]. Exist-
+on plans which involve use of computerised decision-                                 ing attempts to define effective conservation planning,
+support tools, because broader definitions of systematic                             have led to an awareness that there are no universally
+approaches to conservation planning are often vague,                                 applicable solutions and that the greatest challenges are
+potentially referring to a wide variety of studies which                             operational rather than technical [34, 35]. Without fur-
+would be difficult to consider as comparable interven-                               ther information, conservation organisations and agen-
+tions (see “Comprehensiveness of search”).                                           cies have difficulty defending their actions to funders and
+   The discipline of systematic conservation planning                                stakeholders, planning may continue to be undertaken
+has had a major influence on implementation strategies                               in situations where it may be an ineffecient approach [36,
+by international conservation organisations [18, 22–26],                             37], and conservation planners cannot discern which
+guided policy decisions by government agencies [14, 27]                              elements of the planning process are likely to be most
+and resulted in thousands of academic publications [13,                              influential. The number of localised evaluations and case
+28]. Despite the large increase in number of plans [13]                              studies of systematic conservation planning projects is
+and resources spent on planning (a systematic conserva-                              indeed rising [38–41], but their patchiness and lack of
+tion plan can cost millions of dollars and multiple years                            consistency provide the justification for undertaking a
+to develop [9]), the impact of this discipline on the effec-                         systematic mapping exercise to identify, characterise and
+tiveness of spatial conservation initiatives is hypothesised                         assess the current state of knowledge in this area.
+but has not been rigorously tested. Preliminary analyses                               Conservation planners occasionally outline the out-
+suggest the process of planning may sometimes be more                                comes they intend from plans, but rarely outline the
+influential than the plan itself [16, 29] and that balanc-                           causal chains they expect to lead to such outcomes. Com-
+ing a systematic science-based approach with the needs                               mon assumptions are that systematically derived plans:
+and aspirations of local people is essential [30, 31]. Due                           will identify more resource-efficient networks for biodi-
+to a lack of clear protocols for undertaking evaluations                             versity conservation than other methods [42], will lead to
+of conservation plans [32], there is no definitive review                            improved governance and collaborations [15, 43], capac-
+as to whether the technique has resulted in improved                                 ity building [15], trust and transparency [17, 42], can and
+
+McIntosh et al. Environ Evid (2016) 5:15                                                                         Page 4 of 13
+will be implemented [14, 43] and, most importantly, will      conservation actions are undertaken) (Table 2). The
+lead to better conservation outcomes than in the absence      systematic map will take the form of a searchable data-
+of systematic planning. Among the less explicitly stated      base, which will collate a body of literature and curate
+assumptions are that: accuracy and rigour behind the          the evidence linking systematic conservation planning
+biophysical inputs is of greatest importance (these are       and biodiversity conservation outcomes. As such, it will
+often given primacy over social, economic, cultural and       focus specifically on evaluations of systematic conserva-
+feasibility considerations) [14], and other organisations or  tion plans, rather than identifying a comprehensive list of
+government departments will take the plan into account        all plans ever developed. By evaluations we refer to: sys-
+when undertaking their own activities [43]. In a few          tematic methods for collecting, analysing, and assessing
+examples, unexpected causal factors have been reported,       information on the effectiveness of projects and policies
+such as the importance of public education prior to sup-      in relation to stated goals [47], which can take multiple
+port for a plan [14]. There may be complex interactions       forms. It will exclude gap analyses and evaluations of
+between socioeconomic and conservation outcomes               non-spatial prioritisations, e.g. the triage of threatened
+[44], however, in general, the social and governance fac-     species [48].
+tors [34] which influence conservation decisions remain          Our primary research question is: what is the extent
+poorly understood [45].                                       and distribution of evidence on conservation outcomes
+  To evaluate the true effects of conservation plans, a       of systematic conservation planning around the globe?
+conceptual understanding of the possible outcomes (both          Here we define an outcome as a state or temporal
+intentional and unintentional) of conservation planning       change associated with a conservation planning pro-
+is required, extending beyond environmental outcomes          cess (that might or might not be directly attributable to
+to include social, political and financial considerations.    a conservation plan), as distinct from an impact, which
+A few early attempts to develop a conceptual model for        is the value added to a counterfactual estimate of a vari-
+systematic conservation planning exist. Kapos et al. [46]     able of conservation interest [49]. It is only possible to
+proposed a generic conceptual model for research and          attribute apparent improvements or declines in biodi-
+conservation planning. However, we find this model too        versity to a planning exercise (rather than other causes)
+prescriptive and less suitable for this systematic map-       through impact evaluation, which relates to the choice
+ping exercise given our limited understanding of causal       of an experimental or quasi-experimental design for the
+pathways, specific mechanisms and feedback loops in           evaluation [50] (this will be addressed through our cat-
+conservation planning. Bottrill and Pressey [32] also         egorisation of studies according to robustness of study
+proposed a preliminary results chain for conservation         design). A finding that no or few impact evaluations have
+planning where impacts of plans are traceable through a       been undertaken on systematic conservation plans would
+series of inputs, processes or actions, outputs and short     highlight an important gap in evaluations of the tech-
+term outcomes. However, we now interpret impacts as           nique to date.
+being able to arise at any point in the planning process,        The evidence base will be examined and categorised
+their measurement being subject to the robustness of the      using a data extraction framework designed to explore
+study design employed. Instead, our conceptual diagram        the following secondary questions:
+(Fig. 2) is simplified to focus on the types of possible out-
+comes currently assumed to result from systematic con-           ••  What are the characteristics of the current evidence
+servation planning exercises. In later analyses it may be            base including information on study location, study
+possible to break down specific causal pathways unique               scale and design, intervention type and outcome
+to the systematic conservation planning process.                     type?
+  This conceptual framework will be employed to (a)              ••  What types of outcomes of systematic conservation
+understand the conceptual basis for the study and the                planning exercises are measured (either by the origi-
+types of outcomes of conservation planning, (b) frame                nal planning organisation(s) or others)?
+the data extraction form/coding tool, particularly when          ••  What types of study designs are used in evaluations
+identifying reported outcomes, and (c) to aid in the anal-           of systematic conservation planning?
+ysis and presentation of results.                                ••  What is the level of robustness of existing evidence?
+                                                                     How many impact evaluations have been conducted,
+Objective of the map                                                 where and by whom?
+This searching exercise will identify retrospective studies
+that measure the effects of systematic conservation plan-        For our purposes we define outcomes according to the
+ning exercises on biodiversity conservation at regional,      five types of capitals: natural, financial, social, human
+national and sub-national scales (i.e. the scales at which    and institutional (Table 3), as proposed and defined by
+
+McIntosh et al. Environ Evid (2016) 5:15                                                                                                        Page 5 of 13
+  Fig. 2 A conceptual model linking systematic conservation planning to potential outcomes. A range of inputs influence the planning process
+  (related to stages 1–7 of Fig. 1). The planning process often involves the integration of decision-support tools, stakeholder consultation exercises
+  and iterative assessments of biological and other spatial datasets. Different types of outputs from the planning process will lead to different types
+  of outcomes however, given the causal chains are not yet well understood, single arrows have been used to indicate the influence of the planning
+  process on the types of potential outcomes. Immediate outcomes relate to the form of enactment of the plan and longer term outcomes relate to
+  threat levels and the state of biodiversity (see [49] for more on this pathway). Potential outcomes extend beyond just those to natural capital, also
+  encompassing financial, social, human and institutional capital, as indicated in the examples. The feedback arrow from outcomes to inputs indicates
+  the adaptive approach used to modify plans subject to observed outcomes
+Bottrill and Pressey [32]. By reporting on a range of out-                              catchment OR coastal zone OR “ecological network” OR
+comes we are able to accommodate a diverse range of                                     corridor OR “conservation area” OR “reserve network”
+opinions on effectiveness, reflecting the different types of                            OR “protected area” OR metapopulation OR “national
+stakeholders involved in conservation planning.                                         park” OR reserv* OR “priority area” OR “planning unit”).
+Methods                                                                                 AND
+Search terms                                                                            Intervention terms: TS = (“conservation plan*” OR “envi-
+A search string, consisting of subject- intervention- and                               ronmental plan*” OR “land use plan*” OR “spatial plan*”
+outcome-related keywords in English, will be used to                                    OR “conservation assessment” OR “reserve selection” OR
+query publication databases, search engines and online                                  “area selection” OR “reserve design*” OR “site selection”
+repositories.                                                                           OR “conservation zoning” OR “key biodiversity area” OR
+   Subject terms: TS = (aquatic OR “river basin” OR                                     “important bird area” OR “spatial priorit*” OR “conserva-
+ecoregion* OR bioregion* OR terrestrial OR marine OR                                    tion priorit*” OR “conservation area priorit*” OR “spatial
+freshwater OR coastal OR landscape OR seascape OR                                       optimi*” OR “conservation area selection” OR “protected
+Table 2 Key elements of the study research question
+Subject         Geographic region of conservation interest at regional, national and subnational scales. Inclusive of all countries and marine, freshwater,
+                  estuarine and terrestrial regions
+Intervention Systematic conservation planning: a process for locating and implementing conservation actions
+Comparator Comparisons over time (continuous or interrupted time seriesa), and/or between control and intervention groups and/or sites
+Outcome         Any reported change in the condition or state of natural, financial, social, human and institutional capital associated with the planning
+                  process
+a
+  In an interrupted time series design data is collected at several time points before and after an intervention [72]
+
+McIntosh et al. Environ Evid (2016) 5:15                                                                                                          Page 6 of 13
+Table 3 Potential outcomes of systematic conservation planning arranged according to capitals
+Capital       Definition                                                              Outcome sub-category
+Natural       The stock and flow of goods and services provided by ecosystems,        Representation of biodiversity
+                including the diversity of species, regulating processes, and sup-    Reduction in loss or degradation of natural values
+                porting services [73]
+                                                                                      Persistence of biodiversity
+                                                                                      Maintenance of ecosystem services
+Financial     The gain or loss of cash, property or assets that represent the         Transparency in conservation investments
+                economic value of an individual or organization                       Efficiency of operations
+                                                                                      Maximised benefit given limited budget
+                                                                                      Leverage of additional funds or in-kind support
+Social        Represents the relationships and interactions between individuals       Collaboration among agencies
+                and groups [74]                                                       Coordination between different actors
+                                                                                      Trust in planning process
+                                                                                      Sharing datasets between agencies
+                                                                                      Shared vision
+                                                                                      Attitudes of stakeholders
+                                                                                      Power dynamics between stakeholders
+Human         Knowledge or skills that enable people to develop strategies to         Raised awareness of biodiversity or conservation
+                achieve their objectives [75]                                         New knowledge of ecological or social values
+                                                                                      Learning applied in future plans
+Institutional Capacity, structure, or functioning of institutions through formal      Influence on future decision making by organisation or partners
+                (e.g. laws) or informal means (e.g. local governance practices) [76] Self-sustaining strategies
+                                                                                      Role of implementing agency
+                                                                                      Consideration of conservation issues in decision making by other
+                                                                                        sectors
+                                                                                      Integration of priorities into policies, conventions or legislation
+                                                                                      Influence on resource-use planning
+                                                                                      Protected areas expanded
+Categories adapted from the typology developed by Bottrill and Pressey [32]
+area network design” OR “resource allocation” OR “con-                           string was compared against a test library of eight pub-
+servation decision making” OR marxan OR zonation                                 lications (selected on the basis they were all the avail-
+OR RobOff OR “C-plan” OR BioRap OR CLUZ OR Con-                                  able studies which provide an example of an evaluation
+sNet OR CPlan OR CPLEX OR CREDOS OR “Ecoseed                                     of one or more systematic conservation plan(s) which we
+Marzone” OR MinPatch OR MultCSync OR Nature-                                     were aware of ) (see Additional file 1 for full list). Search
+ServeVista OR ResNet OR SPEXAN OR “conservation                                  terms which did not retrieve many relevant articles were
+evaluation” OR “area identification” OR “decision-sup-                           dropped from the list, as were terms which returned too
+port tool” OR “conservation action”).                                            many largely irrelevant results. To avoid the searches
+                                                                                 returning conservation interventions related to other dis-
+AND                                                                              ciplines e.g. art conservation, descriptors were included:
+Outcome terms: TS = (outcome* OR evaluat* OR out-                                TS = (biodivers* OR wildlife OR species OR habitat).
+put* OR impact* OR effect* OR ineffective OR success*                               A detailed record of the evolution of the search string
+OR fail* OR benefit* OR awareness OR behavi* OR                                  has been created to outline modifications to the ini-
+implement* OR influen*).                                                         tial search string made during the initial scoping exer-
+   This list of search terms was derived by reviewing titles,                    cise (Additional file 2). The search string will be further
+abstracts, keywords and terms used in similar papers e.g.                        refined during the full searches as necessary. Searches
+[13, 32, 33], and by looking up synonyms in the Oxford                           will be conducted in English only due to resource con-
+Thesaurus of English [51]. A scoping exercise in Web of                          straints. Publications returned in other languages will
+Science [52] was used to test the suitability and efficiency                     be recorded separately for potential follow-up in future
+of alternate terms, wildcards and the use of standard-                           (provided the titles and abstracts are also available in
+ised Boolean search conventions. The resultant search                            English).
+
+McIntosh et al. Environ Evid (2016) 5:15                                                                         Page 7 of 13
+Searches                                                      which accepts one ‘OR’ substring along with one addi-
+This search strategy will aim to identify and classify Eng-   tional term (that can be connected with ‘AND’ to the
+lish language studies in a systematic way, capturing both     OR-substring). Searches will be conducted on title only.
+peer-reviewed and ‘grey’ literature, to ensure compre-        When using Google Scholar to look for grey literature,
+hensiveness, objectivity and reproducibility. Our search      searching on title only has been found to be more effi-
+strategy was designed to favour sensitivity over specific-    cient than searching all text [56]. Only the first 1000
+ity to avoid the likelihood of missing potentially impor-     results will be retrieved as this is the total number of
+tant studies at the cost of extra time required to filter     viewable search results due to the limitations of Google
+literature found. Input from experts and practitioners        Scholar. During a preliminary search in May 2016, 7710
+working in systematic conservation planning was sought        results were retrieved so approximately a seventh of the
+in the design of this protocol to improve the likelihood      potentially relevant publications will be assessed. Evalu-
+that the search strategy includes all relevant search terms   ations of plans are no more likely to appear in the first
+and sources, and to ensure the final map will be of value     1000 results than the remainder. Therefore, to increase
+to end users [53]. Unless otherwise indicated, searches       the likelihood of finding evaluations using Google
+will be conducted for studies produced between 1983           Scholar, an additional search will be conducted with the
+and 2016, inclusive.                                          search criteria modified so that ‘evaluation’ must appear
+                                                              in the title (this returned 93 results in the trial). Web
+Publication database searches                                 scraping tools [57] will be used to download and extract
+searched: Web of Science™ Core Collection [52] and
+Three peer-reviewed publication databases will be             citation data for Google Scholar search results.
+SCOPUS [54] which cover the natural and social sci-           Other online repositories
+ences, and CAB Abstracts [55], which is specifically          A grey literature repository of government literature,
+targeted to environment, resource management and              Open Grey (http://www.opengrey.eu/) PAIS Interna-
+agriculture.                                                  tional (ProQuest) and databases of conference proceed-
+ence™ Core Collection, and will be used to search that
+   The search string has been developed for Web of Sci-       ings: Proceedings First and Papers First (OCLC Online
+                                                              Computer Library Center, Inc.) will also be searched by
+database by the field ‘Topic’, which includes title, abstract title only (due to the large number of references obtain-
+and keywords. A preliminary search returned 7571              able) for the period 1983–2016 (1993–2016 for Proceed-
+results (refining by subject did not appear to be nec-        ings First and Papers First due to the availability of OCLC
+essary). The search string will be slightly modified to       records).
+suit the individual requirements of SCOPUS and CAB               Other web search engines such as Google, WISER,
+Abstracts, which will both also be searched on the fields;    deep web search tools and online thesis databases will
+title, abstract and keywords.                                 not be searched due to time constraints and because
+                                                              the inclusion of academic search engines and targeted
+Search engine searches                                        searches of organisational websites is expected to be
+The academic search engine Google Scholar (http://            more efficient.
+scholar.google.co.uk) has been demonstrated to be a
+valuable complement to traditional publication data-          Targeted searches
+bases in systematic reviews in environmental disciplines.     Targeted searches will be conducted with the primary
+It includes grey literature not found in the latter sources   aim of identifying and locating grey literature publica-
+or by traditional grey literature search methods, thereby     tions from both unpublished sources and organisational
+increasing the comprehensiveness of the overall search        databases. This distinction between ‘file drawer’ and
+[56]. Haddaway et al. [56] found relatively little overlap    ‘practitioner-generated research’ will ensure more effi-
+between Google Scholar and Web of Science.                    cient grey literature searching [58]. Three approaches
+   Google Scholar will be searched using a modified ver-      will be used: systematic searches of the databases and
+sion of the publication database intervention search          websites of key organisations involved in conservation
+string in the advanced search option:                         planning, subject expert consultation and opportunistic
+   allintitle: “conservation plan” OR “conservation plan-     identification of studies.
+ning” OR “land use plan” OR “spatial plan” OR “conserva-         The selected organisational databases and websites
+tion assessment” OR “reserve design” OR “conservation         have been chosen on the basis of having an international
+zoning” OR “conservation action”.                             presence in conservation planning and for the poten-
+   The search string has been simplified because only         tial to hold records of large numbers of such projects.
+basic Boolean logic is supported by Google Scholar,           The list (Table 4) was derived through consultation with
+
+McIntosh et al. Environ Evid (2016) 5:15                                                                                       Page 8 of 13
+Table 4 Websites of specialist organisations and online databases
+Organisation/organisational database                                  Website
+Campbell Collaboration                                                http://www.campbellcollaboration.org/lib/
+Center for International Forestry Research (CIFOR)                    http://www.cifor.org
+Collaboration for Environmental Evidence                              http://www.environmentalevidence.org
+Conservation Evidence                                                 http://www.conservationevidence.com
+Coral Triangle Initiative                                             http://www.coraltriangleinitiative.org
+Commonwealth Scientific and Industrial Research Organisation (CSIRO), http://www.csiro.au
+  Australia
+Evidence on Demand                                                    http://www.evidenceondemand.info/library.aspx
+IUCN Evaluations database                                             http://www.iucn.org/knowledge/monitoring_evaluation/database/
+                                                                        all_iucn_evaluations
+IUCN World Commission on Protected Areas                              http://www.iucn.org/about/work/programmes/gpap_home/gpap_wcpa
+Natureserve                                                           http://www.natureserve.org
+OECD iLibrary                                                         http://www.oecd-ilibrary.org
+Poverty and Conservation Learning Group                               povertyandconservation.info
+Protected Planet                                                      http://www.protectedplanet.net
+SANBI Planning database, South Africa                                 http://www.sanbi.org
+The Digital Observatory for Protected Areas (Europe)                  http://dopa.jrc.ec.europa.eu
+The Nature Conservancy—Conservation Gateway                           http://www.conservationgateway.org/ConservationPlanning/Pages/
+                                                                        conservation-planning.aspx
+United Nations Environment Programme—World Conservation               http://www.unep-wcmc.org
+  Monitoring Centre
+USAID                                                                 http://www.usaid.gov/biodiversity
+Wildlife Conservation Society                                         http://www.wcs.org
+World Bank                                                            http://web.worldbank.org
+World Wildlife Fund for Nature International                          http://www.panda.org
+Critical Ecosystem Partnership Fund                                   http://www.cepf.net
+conservation planning experts, and organisations which                     In all cases, potentially relevant publications not found
+were mentioned frequently in the literature.                            through previous search strategies will be added to the
+   Where possible, organisational databases and web-                    reference list. We will also conduct forwards and back-
+sites will be searched on all text using the Google                     wards bibliographic searches of citations for all pub-
+Scholar search string. Where database or within-web-                    lications in the test library (Additional file 1), seminal
+site searching is not possible, citation metadata for all               reviews of conservation planning [12, 13, 32, 59, 60], and
+publications available on a given website or database                   relevant articles included in the map database.
+will be collated.
+   The second type of targeted searching—subject expert                 Comprehensiveness of search
+consultation—will involve a select group of subject                     Our search strategy is largely focused on peer-reviewed
+experts, who will be approached to provide suggestions                  publications from 1983 onwards. The first systematic
+of publications, organisational websites and databases                  conservation plans appeared in the published literature
+we may not have considered. Subject experts will be                     in that year [10, 61]. A limitation to the comprehensive-
+selected to represent prominent conservation planners                   ness of the search will be document availability (e.g. the
+in the NGO, academic and government sectors. Ongo-                      chosen conference abstract databases are not searchable
+ing reviews and related initiatives will be examined as                 prior to 1993) and the inclusion of only English language
+appropriate.                                                            publications due to time and resource constraints. Access
+   Promotion of this study and requests for relevant pub-               to grey literature is another limitation. However, incor-
+lications have been made opportunistically, including at                porating multiple approaches to identifying and locate
+a major international conference (the 27th International                grey literature will help to address this constraint. A
+Congress for Conservation Biology, Montpellier, August                  subset of key websites and databases have been selected
+2015) to increase the chances of identifying additional                 rather than all potentially useful websites for practicality
+difficult-to-access publications.                                       reasons.
+
+McIntosh et al. Environ Evid (2016) 5:15                                                                          Page 9 of 13
+   Our decision to exclude systematic approaches which        necessary to screen more than 8000 studies at the title
+do not involve the use of computerised decision-support       screening stage (a realistic number for one reviewer), an
+tools may result in the final suite of included studies       additional reviewer will be involved. In this instance, and
+being associated with well-resourced nations or projects      at each stage (title only, title and abstract, and full text)
+only. In order to explore this potential geographic trend,    during the piloting of the screening process, a random
+during the screening process we will record those stud-       sample 10 %, or 50 articles (whichever is greater) will
+ies which exhibit many of the characteristics of a sys-       be selected for a kappa analysis to determine whether
+tematic conservation plan but which are excluded on           the two reviewers/raters are applying the inclusion cri-
+the basis they do not involve the use of computerised         teria consistently. The Online Kappa Calculator [63]
+decision-support tools (according to Table 1). Follow-        will be used to measure the chance-adjusted measure of
+ing the completion of the systematic map, we will then        agreement between the two raters and values of lower
+map those excluded, non-computational systematic stud-        than 0.70 will trigger discussions about the reviewers’
+ies geographically to determine if there is a difference      approaches followed by additional pilot screening until
+in the locations of such studies compared with those          the kappa scores are over 0.70 at each screening stage.
+which meet our systematic conservation planning crite-        Should the two reviewers have different views on the
+ria. If there are far too many excluded systematic studies    application of part of the inclusion criteria, all authors
+to map every one, we will randomly subsample those to         and reviewers will reach a consensus decision about the
+obtain a better understanding of potential trends.            preferred approach.
+   To ensure suitability of the search string, and to max-       For retained articles following title screening, all
+imise the comprehensiveness of the resultant searches,        abstracts will be obtained and entered into EPPI-
+alternate subject and intervention terms have been            Reviewer if not already obtained. Titles and abstracts will
+refined with reference to the test library (Additional        then be manually screened in accordance with the inclu-
+file 1) and enhanced by the inclusion of synonyms and         sion and exclusion criteria. Retained articles at this stage
+wildcards. If initial searches do not return all publications will go on to full text screening, as outlined in the follow-
+in the test library, the search string and search strategy    ing sections. At the completion of full text screening, a
+will be refined until all publications are returned. Primary  list of excluded articles will be produced, including rea-
+studies will be included rather than secondary reviews.       sons for their exclusion.
+However, when review papers are found, they will be              After search results have been compiled the studies will
+used to identify related primary studies.                     be screened against a set of inclusion criteria.
+Article screening and inclusion criteria                      Relevant subject
+Screening process                                             Studies relating to plans developed at regional, national
+The web scraping software import.io [57] will be used         and subnational scales (the scales at which conservation
+to extract publication metadata (e.g. publication titles,     actions are operational, rather than studies which evalu-
+authors, publication date etc.) to increase automation        ate global scale plans such as Conservation Internation-
+and efficiency. Once the search strategy has been com-        al’s Biodiversity Hotspots [26]). Inclusive of all countries
+pleted, all results obtained will be entered into the soft-   and marine, freshwater and terrestrial realms. Studies
+ware EPPI-Reviewer (V.4.5.1.0, [62]) and duplications         published between 1983 and 2016.
+will be removed to create the main reference list. EPPI-
+Reviewer will be used to coordinate screening and data        Relevant intervention
+extraction.                                                   Systematic conservation planning [12]: a process for
+   For records obtained from web scrapes of organisa-         locating and implementing conservation actions where:
+tional websites, preliminary screening will then be con-      (a) the benefits of conservation actions are specified
+ducted within EPPI-Reviewer, using the Google Scholar         either as threshold amounts of natural features to be
+search string (searching on all text because grey literature  represented or as continuous functions with increasing
+publications are expected to have more general titles and     amounts of features; and (b) the outputs are one or more
+potentially lack abstracts) and only relevant articles will   optimal or near optimal sets of spatially-bounded con-
+be included in further screening.                             servation actions. This means that plans will necessarily
+   The approach to screening will be standardised across      use existing (e.g. Marxan [19], C-Plan [20] and Zonation
+all publications regardless of source. Initially all publica- [21]) or custom-made (e.g. linear/non-linear program-
+tion titles will be reviewed in accordance with the inclu-    ming, genetic algorithms) decision-support tools in the
+sion and exclusion criteria by the primary researcher.        ‘spatial prioritisation’ stages. Studies which relate to plans
+Given the large number of articles expected, if it appears    that have no explicitly stated biological conservation
+
+McIntosh et al. Environ Evid (2016) 5:15                                                                         Page 10 of 13
+objectives, or studies which relate to plans that were         extraction and assessment of evaluation methodologies
+solely expert-based approaches (which are not repeat-          used, in a future systematic review.
+able and are less defensible and transparent [33]) will be
+excluded.                                                      Data coding strategy
+                                                               The final list of relevant articles (those included following
+Relevant outcome                                               full-text screening) will be examined and data recorded
+Studies which measure changes in the condition of one          based on a standardised coding tool (Additional file 3).
+or more of the following forms of capitals: natural, finan-    The coding tool was developed based on similar stud-
+cial, social, human and institutional (either quantitatively   ies (e.g. [66, 67]) with the aim of recording descriptive
+or qualitatively). We will take a broad interpretation of      information about the study in relation to our research
+outcomes in order to capture the breadth of intended           questions. EPPI-Reviewer will be used to standardise and
+and unintended outcomes and potential flow-on conse-           streamline data coding as each publication is assessed.
+quences for biodiversity conservation.                           The following main categories of data will be extracted:
+Relevant comparator                                              ••  Bibliographic information,
+Comparisons over time (continuous or interrupted                 ••  Basic information about the conservation planning
+time series), and/or between control and intervention                process in question,
+groups and/or sites. Studies which measure a single              ••  Information about the study design,
+point in time, with no comparison to another site will be        ••  Types of outcomes reported.
+excluded.
+                                                                 Existing typologies have been chosen where avail-
+Relevant study design                                          able (e.g. IUCN categories of conservation actions [68],
+Retrospective quantitative and qualitative experimen-          see Additional file 3). The selected typology of outcomes
+tal, quasi-experimental and non-experimental designs           is based on the capitals framework (natural, financial,
+according to Margoluis et al. [64]. Theoretical studies,       social, human and institutional) proposed by Bottrill and
+prospective models, or studies which only use ex-post          Pressey [32] (Table 2). Subcategories of outcomes will be
+modelling to estimate business as usual versus future          revised based on coding results from relevant studies.
+planning scenarios will be excluded, as will studies based       Systematic conservation plans can be developed for a
+on researcher inference, however these will be quantified      range of reasons, exhibit different characteristics and
+as we expect these to be common.                               potentially lead to different types of outcomes. Hence a
+  If there is any doubt about the relevance of a study at      typology of interventions (types of plans), will be used to
+any screening stage, it will be included for evaluation        categorise studies, broadly broken down into those plans
+in the subsequent screening round to avoid removing            which were (a) developed by the end user(s) for direct
+potentially relevant studies. Where a publication meets        application, such as a government seeking to acquire
+our criteria for being a systematic conservation plan but      land to create or expand a protected area network, (b)
+does not meet our criteria for being an evaluation, the        were used to identify priority conservation actions and
+record will be marked as such and kept aside, as these         the optimal spatial and temporal allocation of these, in
+records will potentially be informative for other efforts to   order to influence decisions taken by other organisations,
+collate a comprehensive database of conservation plans         or (c) used to retrospectively evaluate or examine the effi-
+worldwide.                                                     ciency and suitability of an existing protected area net-
+                                                               work. This typology will be refined as necessary given no
+Study quality assessment                                       existing typology exists to categorise types of systematic
+Information about the study design of relevant articles        conservation plans.
+will be recorded to determine study robustness, in light         An additional suite of in-depth questions have been
+of a full critical appraisal [65]. Studies will be coded as    posed in the event the final list of studies is small enough
+experimental, quasi-experimental, non-experimental,            to warrant a second, more detailed round of data extrac-
+involving qualitative sampling or ‘other’ according to         tion, relating to reported characteristics such as: causal
+Margoluis et al.′s categorisation of quantitative and quali-   mechanisms associated with reported outcomes, the pur-
+tative study designs [64], which is similar to that used by    pose of the study, cost of the planning process and con-
+Bottrill et al. [66] in this journal (Additional file 3). This text of the plan (Additional file 3).
+will provide an overview of the type of data collected           To ensure repeatability of data coding, each reviewer
+and study designs employed, to guide more detailed data        will select a subsample of at least ten coded articles
+
+McIntosh et al. Environ Evid (2016) 5:15                                                                                                 Page 11 of 13
+during the early stages of data coding, to check for con-             Abbreviation
+                                                                      IUCN: International Union for Conservation of Nature.
+sistency in their choice of codes and to reconcile any dif-
+ferences in selection. If necessary they will amend the               Authors’ contributions
+codes in discussion with the other reviewer before coding             MCM and RLP initially conceived of a map and EJM and MCM subsequently
+                                                                      designed this version of the study. EJM, MCM and RG co-authored the
+the remainder of the articles. To verify the consistency              manuscript, with RLP providing input on terminology and inclusion/exclusion
+and repeatability of data coding and the study quality                criteria. EJM will implement the search strategy and undertake the scoping
+assessments between the two reviewers, a random sam-                  and data extraction. All authors read and approved the final manuscript.
+ple of 10 %, or 50 articles (whichever is greater) will be            Author details
+selected for kappa analysis. We will also assess intercoder           1
+                                                                        School of Geography and the Environment, University of Oxford, Oxford,
+reliability [69] through the application of Krippendorff ’s           UK. 2 Betty and Gordon Moore Center for Science, Conservation International,
+                                                                      Arlington, VA, USA. 3 School of Biological Sciences, University of Queensland,
+alpha index [70], a more flexible measure. The choice of              St Lucia, QLD, Australia. 4 Australian Research Council Centre of Excellence
+codes of the two reviewers will be compared and harmo-                for Coral Reef Studies, James Cook University, Townsville, QLD, Australia.
+nised as necessary and the results of the intercoder reli-
+                                                                      Acknowledgements
+ability assessments will be reported.                                 We thank Jorge G. Álvarez-Romero and Sam Lloyd for comments on the draft
+                                                                      manuscript and Neal Haddaway and Sue Bird for advice regarding novel
+Study mapping and presentation                                        search strategies. RLP acknowledges the support of the Australian Research
+                                                                      Council.
+We will present the results in a publication (to be pub-
+lished in this journal) as well as an open-access, search-            Competing interests
+able database of studies and related coding results,                  The authors declare that they have no competing interests.
+available to be updated in future. In addition, a visual              Availability of data and materials
+overview of available evidence will be developed (in the              Machine-readable files e.g. spreadsheets, will be provided as supplementary
+form of a structured matrix) in order to share our find-              material with the systematic map when it is submitted for publication in
+                                                                      Environment Evidence and are expected to be downloadable from the Environ-
+ings with practitioners, policy makers and researchers in             mental Evidence website.
+a summarised and engaging way. This matrix will show
+how the interventions (different types of systematic con-             Funding
+                                                                      EJM is supported by the General Sir John Monash Foundation. RG thanks the
+servation plans/rows) relate to different outcomes (col-              John Fell Fund of the University of Oxford for support.
+umns) (Additional file 4) to highlight areas where little
+or no evidence exists, and the robustness of the evidence             Received: 19 March 2016 Accepted: 9 July 2016
+based on study design. Within each cell any relevant stud-
+ies will be listed (and associated article(s)), colour coded
+by study design, to convey the amount and robustness of
+evidence available for each type of outcome. Any associ-              References
+ated outcome patterns will also be reported, for example,              1. Bottrill MC, Joseph LN, Carwardine J, Bode M, Cook C, Game ET, et al.
+which combinations of outcomes are most often reported                      Is conservation triage just smart decision making? Trends Ecol Evol.
+                                                                            2008;23:649–54.
+together. In order to identify potential patterns of inter-            2. Convention on Biological Diversity. COP 10 decision X/2: strategic
+est, results will be presented according to the frequency                   plan for biodiversity 2011–2020. (2011). http://www.cbd.int/decision/
+of studies by country, biome, and publication type. A                       cop/?id=12268. Accessed 7 Feb 2015.
+                                                                       3. Watson JEM, Dudley N, Segan DB, Hockings M. The performance and
+geographic map of the location of each included study                       potential of protected areas. Nature. 2014;515:67–73.
+will be compiled and if sufficient studies report on the               4. Butchart SHM, Clarke M, Smith RJ, Sykes RE, Scharlemann JPW, Harfoot M,
+causal mechanisms associated with reported outcomes,                        et al. Shortfalls and solutions for meeting national and global conserva-
+                                                                            tion area targets. Conserv Lett. 2015;8:329–37.
+these will be presented also. We will explore methods of               5. Laycock HF, Moran D, Raffaelli DG, White PCL. Biological and operational
+displaying the structured matrix as an interactive online                   determinants of the effectiveness and efficiency of biodiversity conserva-
+tool, similar to the approach developed by the Interna-                     tion programs. Wildl Res. 2013;40:142–52.
+                                                                       6. Pressey RL. Ad hoc reservations: forward or backward steps in developing
+tional Impact Initiative (3ie) (http://gapmaps.3ieimpact.                   representative reserve systems? Conserv Biol. 1994;8:662–8.
+org).                                                                  7. Joppa LN, Pfaff A. High and far: biases in the location of protected areas.
+                                                                            PLoS One. 2009;4:1–6.
+Additional files                                                       8. Stewart RR, Noyce T, Possingham HP. Opportunity cost of ad hoc marine
+                                                                            reserve design decisions: an example from South Australia. Mar Ecol Ser.
+                                                                            2003;253:25–38.
+  Additional file 1. List of publications in test library.             9. Pressey RL, Bottrill MC. Approaches to landscape- and seascape-scale
+                                                                            conservation planning: convergence, contrasts and challenges. Oryx.
+  Additional file 2. Scoping of search terms and evolution of search
+                                                                            2009;43:464.
+  string(s).
+                                                                       10. Pressey RL. The first reserve selection algorithm—a retrospective on
+  Additional file 3. Data extraction form/coding tool and typologies.       Jamie Kirkpatrick’s 1983 paper. Prog Phys Geogr. 2002;6:434–41.
+  Additional file 4. Proposed data presentation matrix.                11. Knight AT. Failing but learning: writing the wrongs after Redford and
+                                                                            Taber. Conserv Biol. 2006;20:1312–4.
+
+McIntosh et al. Environ Evid (2016) 5:15                                                                                                               Page 12 of 13
+12. Margules CR, Pressey RL. Systematic conservation planning. Nature.             36. Naidoo R, Balmford A, Ferraro PJ, Polasky S, Ricketts TH, Rouget M.
+    2000;405:243–53.                                                                   Integrating economic costs into conservation planning. Trends Ecol Evol.
+13. Kukkala AS, Moilanen A. Core concepts of spatial prioritisation in system-         2006;21:681–7.
+    atic conservation planning. Biol Rev. 2013;88:443–64.                          37. Knight AT, Sarkar S, Smith RJ, Strange N, Wilson KA. Engage the hodge-
+14. Fernandes L, Day J, Lewis A, Slegers S, Kerrigan B, Breen D, et al. Establish-     podge: management factors are essential when prioritizing areas for
+    ing representative no-take areas in the Great Barrier Reef: large-scale            restoration and conservation action. Divers Distrib. 2011;17:1234–8.
+    implementation of theory on marine protected areas. Conserv Biol.              38. Weeks R, Aliño PM, Atkinson S, Beldia P, Binson A, Campos WL, et al.
+    2005;19:1733–44.                                                                   Developing marine protected area networks in the Coral Triangle: good
+15. Gelderblom CM, van Wilgen BW, Nel JL, Sandwith T, Botha M, Hauck M.                practices for expanding the Coral Triangle Marine Protected Area System.
+    Turning strategy into action: implementing a conservation action plan in           Coast Manag. 2014;42:183–205.
+    the Cape Floristic Region. Biol Conserv. 2003;112:291–7.                       39. Sisiolo J. The evaluation of conservation planning policy effectiveness in
+16. Pressey RL, Mills M, Weeks R, Day JC. The plan of the day: managing the            the Solomon Islands: a case study of the Solomon Islands National Biodi-
+    dynamic transition from regional conservation designs to local conserva-           versity Strategy and Action Plan. Hamilton: University of Waikato; 2013.
+    tion actions. Biol Conserv. 2013;166:155–69.                                   40. Bottrill MC, Hockings M, Possingham HP. In pursuit of knowledge:
+17. Knight AT, Cowling RM, Campbell BM. An operational model for imple-                addressing barriers to effective conservation evaluation. Ecol Soc.
+    menting conservation action. Conserv Biol. 2006;20:408–19.                         2011;16:14.
+18. Watson JEM, Grantham HS, Wilson KA, Possingham HP. Systematic                  41. Carter SK, Keuler NS, Pidgeon AM, Radeloff VC. Evaluating the influence
+    conservation planning: past, present and future. In: Ladle RJ, Whittaker           of conservation plans on land protection actions in Wisconsin, USA. Biol
+    RJ, editors. Conservation biogeography. 1st ed. Chichester: Blackwell              Conserv. 2014;178:37–49.
+    Publishing Ltd; 2011. p. 136–60.                                               42. Smith RJ, Goodman PS, Matthews WS. Systematic conservation planning:
+19. Ball I, Possingham HP. Marxan (v1.8.2): marine reserve design using                a review of perceived limitations and an illustration of the benefits, using
+    spatially explicit annealing, a manual. Brisbane: University of Queensland;        a case study from Maputaland, South Africa. Oryx. 2006;40:400.
+    2000.                                                                          43. WWF European Alpine Programme. Ecoregion conservation plan for the
+20. Pressey RL, Watts ME, Barrett TW, Ridges MJ. The C-plan conservation               Alps. Bellinzona: WWF; 2005.
+    planning system: origins, applications, and possible futures. In: Moilanen     44. Oldekop JA, Holmes G, Harris WE, Evans KL. A global assessment of the
+    A, Wilson KA, Possingham HP, editors. Spatial conservation prioritization:         social and conservation outcomes of protected areas. Conserv Biol.
+    methods and computational tools. Oxford: Oxford University Press; 2009.            2015;30:133–41.
+    p. 211–34.                                                                     45. Ban NC, Mills M, Tam J, Hicks CC, Klain S, Stoeckl N, et al. A social–ecologi-
+21. Lehtomäki J, Moilanen A. Methods and workflow for spatial conservation             cal approach to conservation planning: embedding social considerations.
+    prioritization using Zonation. Environ Model Softw. 2013;47:128–37.                Front Ecol Environ. 2013;11:194–202.
+22. Morrison J, Loucks C, Long B, Wikramanayake E. Landscape-scale spatial         46. Kapos V, Balmford A, Aveling R, Bubb P, Carey P, Entwistle A, et al. Cali-
+    planning at WWF: a variety of approaches. Oryx. 2009;43:499–507.                   brating conservation: new tools for measuring success. Conserv Lett.
+23. Groves CR, Jensen DB, Valutis LL, Redford KH, Shaffer ML, Scott JM, et al.         2008;1:155–64.
+    Planning for biodiversity conservation: putting conservation science into      47. Patton MQ. Utilization-focused evaluation. 4th ed. Thousand Oaks: Sage
+    practice. Bioscience. 2002;52:499.                                                 Publications; 2008.
+24. Sanderson EW, Redford KH, Vedder A, Coppolillo PB, Ward SE. A con-             48. Joseph LN, Maloney RF, Possingham HP. Optimal allocation of resources
+    ceptual model for conservation planning based on landscape species                 among threatened species: a project prioritization protocol. Conserv Biol.
+    requirements. Landsc Urban Plan. 2002;58:41–56.                                    2009;23:328–38.
+25. Didier KA, Glennon MJ, Novaro A, Sanderson EW, Strindberg S, Walker            49. Pressey RL, Visconti P, Ferraro PJ, Pressey RL. Making parks make a dif-
+    S, et al. The landscape species approach: spatially-explicit conservation          ference: poor alignment of policy, planning and management with
+    planning applied in the Adirondacks, USA, and San Guillermo-Laguna                 protected-area impact, and ways forward. Philos Trans R Soc B Biol Sci.
+    Brava, Argentina, landscapes. Oryx. 2009;43:476–87.                                2015;370:20140280.
+26. Myers N, Mittermeier RA, Mittermeier CG, da Fonseca GA, Kent J. Biodiver-      50. Ferraro PJ, Hanauer MM. Advances in measuring the environmental and
+    sity hotspots for conservation priorities. Nature. 2000;403:853–8.                 social impacts of environmental programs. Annu Rev Environ Resour.
+27. Finkel E. ECOLOGY: software helps Australia manage forest debate. Sci-             2014;39:495–517.
+    ence. 1998;281:1789–91.                                                        51. Waite M. Oxford University Press. In: Oxford thesaurus of English, 3rd ed.
+28. Kullberg P, Moilanen A. How do recent spatial biodiversity analyses sup-           Oxford: Oxford University Press; 2009.
+    port the convention on biological diversity in the expansion of the global     52. Thomson Reuters. Web of Science. http://webofknowledge.com.
+    conservation area network? Nat Conserv. 2014;12:3–10.                          53. Cook CN, Possingham HP, Fuller RA. Contribution of systematic reviews to
+29. Bottrill MC, Mills M, Pressey RL, Game ET, Groves C. Evaluating perceived          management decisions. Conserv Biol. 2013;27:902–15.
+    benefits of ecoregional assessments. Conserv Biol. 2012;26:851–61.             54. Elsevier. SCOPUS. http://www.scopus.com.
+30. Henson A, Williams D, Dupain J, Gichohi H, Muruthi P. The heartland            55. Centre for Agriculture and Biosciences International. CAB Abstracts.
+    conservation process: enhancing biodiversity conservation and liveli-              http://www.cabi.org.
+    hoods through landscape-scale conservation planning in Africa. Oryx.           56. Haddaway NR, Collins AM, Coughlin D, Kirk S. The role of Google Scholar
+    2009;43:508–19.                                                                    in evidence reviews and its applicability to grey literature searching. PLoS
+31. Knight AT, Grantham HS, Smith RJ, McGregor GK, Possingham HP, Cowl-                One. 2015;10:e0138237.
+    ing RM. Land managers’ willingness-to-sell defines conservation opportu-       57. Ltd I i. Import.io. http://www.import.io.
+    nity for protected area expansion. Biol Conserv. 2011;144:2623–30.             58. Haddaway NR, Bayliss HR. Shades of grey: two forms of grey literature
+32. Bottrill MC, Pressey RL. The effectiveness and evaluation of conservation          important for reviews in conservation. Biol Conserv. 2015;191:8–11.
+    planning. Conserv Lett. 2012;5:407–20.                                         59. Grantham HS, Bode M, McDonald-Madden E, Game ET, Knight AT,
+33. Knight AT, Cowling RM, Rouget M, Balmford A, Lombard AT, Campbell                  Possingham HP. Effective conservation planning requires learning and
+    BM. Knowing but not doing: selecting priority conservation areas and the           adaptation. Front Ecol Environ. 2010;8:431–7.
+    research-implementation gap. Conserv Biol. 2008;22:610–7.                      60. Sarkar S, Pressey RL, Faith DP, Margules CR, Fuller T, Stoms DM, et al. Biodi-
+34. Knight AT, Rodrigues ASL, Strange N, Tew T, Wilson KA. Designing effec-            versity conservation planning tools: present status and challenges for the
+    tive solutions to conservation planning problems. In: Macdonald DW, Wil-           future. Annu Rev Environ Resour. 2006;31:123–59.
+    lis KJ, editors. Key topics in conservation boilogy. 2nd ed. Oxford: Wiley;    61. Kirkpatrick JB, Harwood CE. Conservation of Tasmanian macrophytic
+    2013. p. 362–83.                                                                   wetland vegetation. Pap Proc R Soc Tasmania. 1983;117:5.
+35. Raymond CM, Knight AT. Applying social research techniques to                  62. Thomas J, Brunton J, Graziosi S. EPPI-Reviewer 4: software for research
+    improve the effectiveness of conservation planning. Bioscience.                    synthesis. EPPI-Centre Software. London: Social Science Research Unit,
+    2013;63:320–1.                                                                     Institute of Education; 2010.
+
+McIntosh et al. Environ Evid (2016) 5:15                                                                                                            Page 13 of 13
+63. Randolph, JJ. Online Kappa Calculator. http://justus.randolph.name/            71. Gleason M, McCreary S, Miller-Henson M, Ugoretz J, Fox E, Merrifield
+    kappa.                                                                             M, et al. Science-based and stakeholder-driven marine protected area
+64. Margoluis R, Stem C, Salafsky N, Brown M. Design alternatives for evaluat-         network planning: a successful case study from north central California.
+    ing the impact of conservation projects. New Dir Eval. 2009;122:85–96.             Ocean Coast Manag. 2010;53:52–68.
+65. James KL, Randall NP, Haddaway NR. A methodology for systematic map-           72. Ramsay C, Matowe L, Grilli R, Grimshaw J, Thomas R. Interrupted time
+    ping in environmental sciences. Environ Evid. 2016;5:7.                            series designs in health technology assessment: lessons from two
+66. Bottrill M, Cheng S, Garside R, Wongbusarakum S, Roe D, Holland MB,                systematic reviews of behavior change strategies. Int J Technol Assess
+    et al. What are the impacts of nature conservation interventions on                Health Care. 2003;19:613–23.
+    human well-being: a systematic map protocol. Environ Evid. 2014;3:16.          73. Costanza R, D’Agre R, de Groot R, Farber S, Grasso M, Hannon B, et al.
+67. Garcia-Yi J, Lapikanonth T, Vionita H, Vu H, Yang S, Zhong Y, et al. What are      The value of the world’s ecosystem services and natural capital. Nature.
+    the socio-economic impacts of genetically modified crops worldwide? A              1997;387:253–60.
+    systematic map protocol. Environ Evid. 2014;3:24.                              74. Pretty J, Ward H. Social capital and the environment. World Dev.
+68. Salafsky N, Salzer D, Stattersfield AJ, Hilton-Taylor C, Neugarten R, Butchart     2001;29:209–27.
+    SHM, et al. A standard lexicon for biodiversity conservation: unified clas-    75. DfID. Sustainable livelihoods guidance sheets: framework. Context.
+    sifications of threats and actions. Conserv Biol. 2008;22:897–911.                 London: Department for International Development; 1999.
+69. Lombard M, Snyder-duch J, Bracken CC. Content analysis in mass com-            76. Platje J. An institutional capital approach to sustainable development.
+    munication: assessment and reporting of intercoder reliability. Hum                Manag Environ Qual. 2008;19:222–33.
+    Commun Res. 2002;28:587–604.                                                   77. Pressey RL, Bottrill MC. Joint-Commission IUCN initiative on integration of
+70. Krippendorff K. Content analysis: an introduction to its methodology.              conservation planning methods. International Union for Conservation of
+    Beverly Hills: Sage Publications; 1980.                                            Nature and World Commission on Protected Areas; 2008.
+                                                                                       Submit your next manuscript to BioMed Central
+                                                                                       and we will help you at every step:
+                                                                                        • We accept pre-submission inquiries
+                                                                                        • Our selector tool helps you to find the most relevant journal
+                                                                                        • We provide round the clock customer support
+                                                                                        • Convenient online submission
+                                                                                        • Thorough peer review
+                                                                                        • Inclusion in PubMed and all major indexing services
+                                                                                        • Maximum visibility for your research
+                                                                                        Submit your manuscript at
+                                                                                        www.biomedcentral.com/submit
+

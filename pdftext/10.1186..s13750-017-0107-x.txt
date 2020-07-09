@@ -1,0 +1,608 @@
+Romulo et al. Environ Evid (2017) 6:29
+DOI 10.1186/s13750-017-0107-x                                                                                         Environmental Evidence
+  SYSTEMATIC MAP PROTOCOL                                                                                                                             Open Access
+Assessing the global distribution of river
+fisheries harvest: a systematic map protocol
+Chelsie L. Romulo1,2,3* , Zeenatul Basher2,4, Abigail J. Lynch2, Yu‑Chun Kao4,5 and William W. Taylor4
+   Abstract
+   Background: Although surface freshwater comprises < 0.01% of the total water volume of earth, freshwater inland
+   capture fisheries and aquaculture represent 40% of the global reported finfish harvest. While the social, economic,
+   and ecological importance of inland fish and fisheries is difficult to overstate, they are often undervalued and
+   underappreciated. Accurate information about these highly dispersed fisheries is inherently difficult to acquire,
+   often unreported, and not collected in a standardized format globally. A standardized river fishery database is
+   needed for managing aquatic systems as well as for defining relevant development policies. Here, we describe our
+   methodology to search, identify, and describe available river fisheries information to create a harmonized global
+   database of river fisheries harvest. This database will provide the first global database of spatially and temporally
+   explicit river fisheries data. The database can be used to identify locations, hotspots of data collection, and gaps in
+   existing knowledge and will be especially important to inform studies and management at larger spatial scales (i.e.,
+   watershed, regional, or global scales). This database will also be critical for developing fish biomass models for rivers,
+   which can provide managers with information critical for decision-making, such as improved valuation methods for
+   river fish and fisheries.
+   Methods: This systematic map protocol describes the methodology to search, identify, and describe available
+   information on river fish and fisheries across the globe. We define river fisheries as “both capture and aquaculture of
+   river finfish species for food, income, or recreation”. River fish species are those finfish that live part, or all of their lives
+   in rivers. The searches will be conducted for the period from 1950 to present using bibliographic databases and grey
+   literature sources. To identify relevant evidence, pre-defined inclusion and exclusion criteria will be used to screen
+   articles at title, abstract, and full text. A searchable database containing extracted meta-data from relevant included
+   studies will be developed and presented as a geodatabase. The final systematic map will consist of a descriptive narra‑
+   tive report of the distribution and content of river fish literature including a geodatabase of available information.
+   Keywords: Freshwater fish, Inland fish, Aquatic ecosystems, Watersheds, Spatial distribution, Global, Map, Limnology,
+   River Basin
+Background                                                                                    rely upon the river fisheries for food and livelihoods
+River fisheries, defined as both capture and aquacul-                                         [3]. Additionally, with upwards of 1700 fish species, the
+ture of river fish species for food, income, or recreation                                    Mekong River is a global ‘hotspot’ of fish biodiversity [4],
+contribute substantially to meeting challenges faced by                                       so understanding the relationship between the human
+individuals, society, and the environment in a chang-                                         fisheries system and the natural ecological system is criti-
+ing global landscape [1, 2]. For example, in the Lower                                        cal for maintaining both the biodiversity of the resident
+Mekong Basin, 80% of the 60 million inhabitants directly                                      fishes and well-being of the local human communities
+                                                                                              in the area. While the social, economic, and ecologi-
+*Correspondence: cromulo@masonlive.gmu.edu;
+                                                                                              cal importance of inland fish and fisheries is difficult to
+Chelsie.Romulo@unco.edu                                                                       overstate, they are often undervalued and underappre-
+3
+  Environmental and Sustainability Studies Program, University                                ciated [5]. This is due to the fact that accurate informa-
+of Northern Colorado, 501 20th St., Greeley, CO 80639, USA
+Full list of author information is available at the end of the article
+                                                                                              tion about these highly dispersed fisheries is inherently
+                                              © The Author(s) 2017. This article is distributed under the terms of the Creative Commons Attribution 4.0 International License
+                                              (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium,
+                                              provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license,
+                                              and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/
+                                              publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+
+Romulo et al. Environ Evid (2017) 6:29                                                                            Page 2 of 10
+difficult to acquire, often unreported, and not collected in   depends on the availability of accurate data and models
+a standardized format globally [6, 7]. Consequently, these     to predict current fishery production and forecasts given
+fisheries are often given low priority in planning and pol-    pending local, regional, and global changes.
+icy discussions relative to other uses of river ecosystem
+services such as drinking water, agriculture, or energy        Identification of the topic
+production [5, 8].                                             The “Rome declaration: ten steps to responsible inland
+   Data related to riverine fisheries are not collected in any fisheries” [20] synthesized the results of the 2015 global
+standardized format globally [9] and thus the extent and       conference on inland fisheries of nearly 250 scientists,
+distribution of these fisheries has never been adequately      policy makers, and members of the development com-
+assessed in aggregate. Targeted analyses have been con-        munity from more than 40 countries, into a list of ten key
+ducted on certain river systems such as the Mekong             actions to help ensure sustainable inland fisheries. This
+[10, 11], or regions such as Southeast Asia [12] but the       declaration was emphatically endorsed by the member
+approaches (e.g., consumption surveys, intensive field         parties at the 2016 FAO committee on fisheries as a sign
+sampling) would not be feasible at a global scale due to       of growing recognition of the importance of inland fresh-
+the cost and effort involved [13]. Most river fisheries are    water fisheries in many countries. The first step in this list
+highly diffuse and small-scale in nature and in areas lack-    is to “improve the assessment of biological production”
+ing necessary infrastructure for regular reporting, so the     of inland fisheries. The work described in this protocol
+data collection that is occurring is generally not system-     was identified as a principal need to address this critical
+atically distributed, but instead tend to be focused in the    knowledge gap and has been since refined by the research
+most developed countries [14]. Understanding the catch         team. A companion study focused on inland lakes was
+trends and predictions of river fisheries harvests is critical conducted by other members who participated in the
+for the future of stakeholders who depend on these sys-        2015 global conference [21]. Ultimately, the goal of the
+tems for food and livelihoods, but these fisheries harvests    conference and its outcomes is to improve the sustaina-
+have not yet been quantitatively assessed at the global        bility of freshwater aquatic resources and to bring greater
+level in the ways that marine fisheries have been [15, 16].    awareness of the value and sustainability challenges of
+   The proposed systematic map protocol will provide           inland fisheries around the world [20].
+a database of river fish harvest and assessment of avail-
+able data. This study will also provide the first spatially    Objective of the map
+and temporally located systematic map of river fisheries       This project aims to identify, collate, and describe infor-
+data regarding what species are fished, how much fish          mation on the geographical distribution of river fish
+are being fished, and how those fish are being removed         harvest. Relevant information consists of fisheries-
+from river systems (for a systematic review of marine          dependent and fisheries-independent data on river fish,
+fisheries, see Chassot et al. [17]). It will provide location  including where and how river fish were captured. Data
+information where available as well as an overview of the      on river fisheries harvest will be identified and collected
+knowledge base, including hotspots of data collection          using the systematic mapping method described below.
+and information gaps in our knowledge base and will be            Systematic mapping provides a comprehensive, trans-
+especially important to studies and management at larger       parent, and objective method for collecting and describ-
+spatial scales (i.e., watershed, regional, or global scales).  ing the state and distribution of current knowledge on
+This database will be useful for biodiversity conservation     a topic [22]. Through systematic mapping, our research
+as well as research including improving valuation meth-        attempts to fill the river fisheries knowledge gap by aggre-
+ods for river fish and fisheries to more accurately recog-     gating river fishery data globally. We expect two products
+nize the full breadth of provided services or for assessing    from this endeavor:
+the relative importance of river fisheries to human popu-
+lations globally. These data are necessary to develop bio-        1. River fisheries database (available at no cost online
+mass models that can be used to predict how river fishery            through a USGS portal).
+could change under different scenarios, particularly in the       2. Systematic map of the state of river fisheries informa-
+context of global change [18]. In doing so, river fish and           tion (submitted for publication in this journal).
+fisheries can be better incorporated into decision making
+to support sustainable river fish and freshwater manage-          These products will provide an important data resource
+ment. As recently described for North American inland          for researchers, policy makers, and managers of river fish-
+fisheries, inland waters often have multiple public uses       eries and will be used for assessing variation and trends
+and management goals may be overlapping, conflicting,          in river fisheries or for modeling production and predict-
+or mutually dependent [19]. Resolving these interactions       ing changes due to factors such as climate or land–water
+
+Romulo et al. Environ Evid (2017) 6:29                                                                                          Page 3 of 10
+use change. This information may also be used as a basis                    strategy is aiming for a more targeted, relevant database
+for future quantitative systematic review questions related                 consisting of hundreds of files. Additional search terms
+to the map findings, such as modeling changes in harvest                    from the original test set did not increase the number of
+over time or impacts from different harvest methods.                        relevant articles returned from the search and were thus
+                                                                            eliminated; however, the search string may be modified
+Primary question                                                            during the full searches as necessary. Search terms used
+What is the global distribution of river fisheries harvest?                 for each river are provided in Additional file 1 and will
+   This question targets information about the distribu-                    be included as part of final project metadata and supple-
+tion and scale of an activity, so can be broken down into                   mental information.
+three main components using the “PIO” format; the pop-                         All searches will be conducted in web browsers with
+ulation (P), the intervention (I), and the outcome (O) per                  cookies and browser history disabled and in private set-
+Table 1. In the case of this study, the intervention is actu-               tings (e.g., using “incognito mode” in ‘Google Chrome’)
+ally an activity, though the question formation follows the                 to reduce bias generated by user-specific returns.
+same PIO format as interventions.
+                                                                            Databases and search engines
+Methods                                                                     Table 3 provides a list of the databases, search engines,
+Searches                                                                    and organizational sites that will be searched. The large
+River list                                                                  amount of grey literature sites (67) reflect the amount of
+The geographic scope of this initial systematic map tar-                    practitioner-based research and data generated regard-
+gets 60 rivers around the world (Table 2). These riv-                       ing inland fisheries. This list of databases, search engines,
+ers were identified by selecting (1) the largest rivers by                  and sites was designed to return as comprehensive set of
+drainage size that are currently flowing [23, 24], and                      broad range results as possible by including both gen-
+(2) the most intensely harvested rivers according to                        eral search engines (i.e., Google Scholar), databases (i.e.
+the expert opinion of the authors as well as consulta-                      Web of Science) and institutional specific databases [25].
+tion with a subject matter expert (Cowx, University of                      Colleagues and participants of the global conference on
+Hull, pers. comm.). These criteria were used as a start-                    inland fisheries also reviewed and suggested additions to
+ing point to focus our global analysis on the largest and                   the list to increase inclusivity of global regions. Organiza-
+most intensely harvested rivers where data should be                        tions were selected based on involvement in river fisher-
+more readily available in comparison to smaller rivers or                   ies and potential for hosting relevant data because they
+streams. Each river search will be conducted indepen-                       are known by our team or collaborators to either collect
+dently and the names of the rivers are used in the search                   or aggregate river fishery data.
+process described below.                                                       The publication search engines and databases will be
+                                                                            queried using the Boolean phrasing described below in
+Search terms                                                                the topic search categories. Web crawling software [26]
+Search terms were developed using keywords from fish-                       will be used to query and collate data from the grey lit-
+eries articles then tested against a list of relevant articles              erature databases and regional/country organization
+from an independent literature review provided by a col-                    sites. The first 100 returns from each grey literature site
+league (Cowx, University of Hull, pers. comm.). Addi-                       (Table 3) will be reviewed for inclusion. Google Scholar,
+tional file 1 describes the preliminary search process and                  Web of Science, and Scopus will be searched because
+provides the original search terms used for scoping. The                    of relatively little overlap between search results of the
+final list of search terms reflects the need to include river               search engine and databases [27]. The China Knowledge
+names to target relevant terms given the broad scope of                     Resource Integrated Database (CNKI) and Baidu Scholar
+the research question. In some cases, the initial searches                  will be used to target rivers where data or research may
+returned millions of results via Google Scholar and this                    be presented in Mandarin. Proquest Aquatic Science Col-
+                                                                            lection will also be included to capture reports and grey
+                                                                            literature that may not be available through our directed
+Table 1 Key elements of the primary review question                         grey literature searches.
+Population     Fish populations within river systems
+                                                                            Search terms and languages
+Intervention Capture of populations and communities of finfish for          Search engines and databases will be searched using the
+                 food, income, or recreation [19]
+                                                                            following terms and Boolean phrasing (* denotes a wild-
+Outcome        Any reported distinct information on fish harvest biomass.
+                 The targeted data include species, weight, time, location, card character to include multiple word endings). The list
+                 or changes in fish biomass                                 of search phrases is available in Additional file 1.
+
+Romulo et al. Environ Evid (2017) 6:29                                                                               Page 4 of 10
+Table 2 Target rivers as identified by Vörösmarty et al. [23,   Table 2 continued
+24] and Cowx (pers. comm.)
+                                                                Continent                              River Basin
+Continent                               River Basin             South America                          Amazonab
+Africa                                  Charia                                                         Colorado (Argentina)a
+                                        Congo/Zaireab                                                  Magdalenab
+                                        Gambiab                                                        Orinocoab
+                                        Jubbaa                                                         Paranáab
+                                        Limpopoab                                                      Sao ­Franciscob
+                                        Nigerab                                                        Tocantinsab
+                                        Nileab                  Oceania                                Great ­Artesiana
+                                        Okavangob                                                      Murray–Darlingab
+                                        Orangea                                                        Sepikb
+                                                                a
+                                        Rufijib                   Vorosmarty et al. [23, 24]
+                                                                b
+                                        Senegal  ab               Expert opinion
+                                               b
+                                        Volta
+                                        Zambeziab
+Asia                                    Amu-Daryaa
+                                        Amurab                  river name (e.g., “Congo”)
+                                                     b
+                                        Ayrewaddy
+                                        Brahmaputraab                       AND
+                                        Chang Jiang/Yangtzeab
+                                        Chao ­Phrayab           river*
+                                        Gangesab
+                                        Huang He/Yellowa                    AND
+                                        Indusab
+                                        Kolymaa                 fish* OR fisher* OR aquaculture
+                                        Lenaab
+                                        Mahakamb
+                                        Mekongab                   Example phrase: (Congo OR Zaire) AND river* AND
+                                        Ob/Irtyshab             (fish* OR fisher* OR aquaculture)
+                                        Pearl/Zhujiang/Cantonb     English is the dominant language for scientific publica-
+                                        Red/Yuan/Hóng Héb       tions [28], but we recognize the growing literature base in
+                                        Salween ­Riverb         other prominent languages [29]. As such, searches will be
+                                                 ­ raba
+                                        Shatt el A              conducted in English only for the publication databases
+                                        Syr-Daryaa              and grey literature websites. Searches in Google Scholar
+                                        Tarima                  will be conducted in English, Spanish, French, Portu-
+                                        Yeniseiab               guese, and Mandarin (Table 4) based on the primary lan-
+Europe                                  Danubeab                guages spoken in the countries where the 60 major rivers
+                                        Dnepra                  flow. Scoping of search terms in the 5 non-English United
+                                        Dona                    Nations Languages plus the major languages spoken in
+                                        Rhineb                  countries containing selected rivers is located in Addi-
+                                        Uralb                   tional file 2. We recognize that fisher* would be auto-
+                                        Volgaab                 matically included with the use of fish*, but both fish* and
+North America                           Colorado (USA/Mexico)ab fisher* are used because the words do not have the same
+                                        Columbiaa               root in non-English languages (Table 4).
+                                        MacKenziea
+                                        Mississippiab           Estimating the comprehensiveness of the search
+                                        Missourib               Our search strategy was designed to provide a broad
+                                        Nelsona                 scope of results regarding river fisheries data to be as
+                                        Rio ­Grandeab           comprehensive as possible. Primary studies will be tar-
+                                        St. ­Lawrencea          geted while review papers will be used to identify pri-
+                                        Yukonab                 mary studies and data. All articles gathered, including
+
+Romulo et al. Environ Evid (2017) 6:29                                                                                                    Page 5 of 10
+Table 3 Search sources
+                                     Publication databases/search engines                                          Website
+1                                    Web of Science Core Collections                                               https://webofknowledge.com
+2                                    Google Scholar                                                                https://scholar.google.com
+3                                    SciVerse Scopus                                                               http://www.info.sciverse.com
+4                                    Proquest Aquatic Science Collection                                           http://proquest.libguides.com/asfa
+5                                    China Knowledge Resource Integrated Database                                  http://kns.cnki.net
+6                                    Baidu Scholar                                                                 http://xueshu.baidu.com
+      Grey literature sites                                                  Website
+1     A Rocha International                                                  http://www.arocha.org
+2     BirdLife International                                                 http://www.birdlife.org
+3     CARE International                                                     http://www.care-international.org
+4     Caribbean Natural Resources Institute                                  http://www.canari.org
+5     Catholic Agency for Overseas Development (CAFOD)                       http://www.cafod.org/uk
+6     Centre for Environment, Fisheries and Aquaculture Science              http://www.cefas.co.uk
+7     Centre for International Forestry Research (CIFOR)                     http://www.cifor.org
+8     Conservation International                                             http://www.conservation.org/Pages/default.aspx
+9     Convention on Biological Diversity                                     http://www.cbd.int
+10    Department for International Development (DFID), UK                    http://www.gov.uk/government/organisations/department-for-inter‑
+                                                                               national-development
+11    European Commission Joint Research Centre                              http://www.ec.europa.eu/dgs/jrc
+12    European Fisheries and Aquaculture Research Organisation               http://www.efaro.eu
+13    FAO Fisheries and Aquaculture Department                               http://www.fao.org/fishery/en
+14    Freshwater Ecoregions of the World                                     http://www.feow.org/globalmap
+15    Global Environment Facility                                            http://www.thegef.org
+16    Global Freshwater Biodiversity Atlas                                   http://atlas.freshwaterbiodiversity.eu
+17    Intergovernmental Platform on Biodiversity and Ecosystem Services      http://www.ipbes.net
+        (IPBES)
+18    International Collective in Support of Fishworkers                     https://igssf.icsf.net/index.php
+19    International Development Research Centre (IDRC)                       https://www.idrc.ca
+20    International Institute for Environment and Development (IIED)         http://www.iied.org
+21    International Rivers                                                   https://www.internationalrivers.org
+22    International Union for Conservation of Nature (IUCN)                  http://www.iucn.org
+23    Marine Resources Assessment Group                                      http://www.mrag.co.uk
+24    North American Native Fishes Association                               http://www.nanfa.org/links.shtml
+25    The Nature Conservancy                                                 http://www.nature.org
+26    Organisation for Economic Co-operation and Development (OECD)          https://www.oecd.org
+27    Stockholm Environment Institute                                        https://www.sei-international.org
+28    United Nations Environment Programme                                   http://www.unep.org
+29    United Nations Environment Programme-World Conservation Monitor‑ http://www.unep-wcmc.org
+        ing Centre
+30    United Nations Development Programme                                   http://www.undp.org
+31    United States Agency for International Development (USAID)             http://www.usaid.gov
+32    Wetlands International                                                 https://www.wetlands.org
+33    Wildlife Conservation Society (WCS)                                    http://www.wcs.org
+34    World Bank                                                             http://www.worldbank.org
+35    WorldFish                                                              http://www.worldfishcenter.org
+36    World Resources Institute                                              http://www.wri.org
+37    Worldwide Wildlife Fund (WWF)                                          http://wwf.panda.org
+
+Romulo et al. Environ Evid (2017) 6:29                                                                                                  Page 6 of 10
+Table 3 continued
+        Country/regional sites                                                        Website
+1       African Caribbean, and Pacific Group of States Fish II Programme              http://acpfish2-eu.org
+2       ADB, African Development Bank                                                 http://www.afdb.org
+3       Australia—Commonwealth Scientific and Industrial Research Organisation        http://www.csiro.au
+4       Biodiversity Information System for Europe                                    http://biodiversity.europa.eu/topics/species/freshwater-fishes
+5       Canada—Federal Science Library (Combines ECC, DFO, and WAVES databases)       http://science-libraries.canada.ca/eng/home/
+6       Denmark—Denmark-Danish Centre for Environment and Energy                      http://dce.au.dk
+7       England—Centre for Environment, Fisheries and Aquaculture Science             http://www.cefas.defra.gov.uk
+8       Eurofish                                                                      http://www.eurofish.dk
+9       Finland—Natural Resource Institute Finland                                    http://www.luke.fi
+10      Finland—Finland’s environmental administration                                http://www.environment.fi
+11      Germany—Leibniz Institute of Freshwater Ecology and Inland Fisheries, IGB     http://www.igb-berlin.de
+12      Germany—Senckenberg                                                           http://www.senckenberg.de
+13      India—Central Institute of Fisheries Technology                               http://www.cift.res.in/innercontent.php?contentid=NTAx
+14      Lake Tanganyika Authority                                                     http://lta.iwlearn.org
+15      Lake Victoria Basin Commission                                                https://www.lvbcom.org
+16      Lake Victoria Fisheries Organization                                          http://www.lvfo.org
+17      Murray–Darling Basin Authority                                                http://www.mdba.gov.au
+18      Myanmar/Thailand/Laos/Vietnam-Mekong River Commission                         http://www.mrcmekong.org
+19      Netherlands Institute of Ecology                                              http://www.nioo.knaw.nl
+20      Netherlands—Royal Netherlands Institute of Sea Research                       http://www.nioz.nl/home_en
+21      Nile Basin Initiative                                                         http://www.nilebasin.org
+22      NDF, Nordic Development Fund                                                  http://www.ndf.fi
+23      Norway—Norwegian Institute for Water Research (NIVA)                          http://www.niva.no
+24      South African Council for Science and Industrial Research                     https://www.csir.co.za
+25      Sweden—IVL Swedish Environmental Research Institute                           http://www.ivl.se
+26      Sweden—Swedish Agency for Marine and Water Management                         http://www.havochvatten.se
+27      USA—BISON                                                                     https://bison.usgs.gov/#home
+28      USA—Great Lakes Fishery Commission                                            http://www.glfc.org
+29      USA/Canada—US Fish and Wildlife Service                                       https://www.fws.gov
+30      USA—National Marine Fisheries Service                                         http://www.nmfs.noaa.gov
+                                                                            sites (Table 3). Further sites may be added as revealed by
+Table 4 Search terms by language
+                                                                            the search results to be potentially relevant.
+Language                 Term 1    Term 2       Term 3        Term 4           For the search engine (Table 3), an accumulation or
+Chinese (Mandarin)       河         鱼            渔             养殖渔业
+                                                                            discovery curve strategy will be used to assess the return
+English                  river*    fish*        fisher*       Aquaculture
+                                                                            on investment for continuing through search results. As
+French                   riviere*  poisson*     pêche*        Aquaculture
+                                                                            each river constitutes a distinct search, this process will
+                         fleuve*                                            be conducted for each river search, within each distinct
+Portuguese               rio*      peixe*       pescado*      Hidrocultura/ database. Because this process includes a unique search
+                                                                acuicultura for each river in each database, duplicates of the same
+Spanish                  río*      pez*         pescado*      Acuicultura   articles will be collected. These will be screened dur-
+                                                                            ing the “Article screening and study inclusion criteria”
+                                                                            described below, but also allow calculation of overlap
+review papers, will be included in the final reference                      between databases. The process is similar to that used
+database. We recognize that a large amount of data may                      for recording the cumulative number of species in a par-
+be reported only through grey literature or stored on                       ticular environment as a function of search effort [30]. As
+organizational sites. As such, our search strategy includes                 new relevant articles are collected and entered into the
+37 grey literature databases and 30 regional or country                     database, the total number of potentially relevant articles
+
+Romulo et al. Environ Evid (2017) 6:29                                                                            Page 7 of 10
+per 100 search results will be calculated and plotted. The    will be reviewed and studies excluded based on the fol-
+search continues, considering new articles in groups of       lowing criteria:
+100 returns at a time to plot potentially relevant articles
+per unit of search effort. This step will be conducted dur-     ••  Not river related.
+ing the screening process described below. In this way,         ••  No information provided on fish biomass.
+the number of new, potentially relevant returns that will       ••  No or insufficient location information provided.
+be discovered with continued effort can be estimated.                Sufficient location information includes information
+Once the asymptote of the curve has been reached (no                 (text description, coordinates, or a map) to pinpoint
+new relevant articles revealed for 3 groups of 100 search            a location or specific area on a map where fish were
+returns evaluated), searching in this data base will dis-            extracted.
+continue [30].                                                  ••  Insufficient methodological information to deter-
+                                                                     mine how data was acquired.
+Article screening and study inclusion criteria
+Screening                                                       During the second screening step of the full text, only
+Article screening will occur in two steps. First, the title   those studies that do actually contain species-specific
+and abstract will be reviewed for potentially relevant arti-  and location-specific information about fish biomass will
+cles. Second, the full text will be read from those screened  be selected for inclusion.
+during step one for relevant data. Initial screening will be
+conducted by two members of the research team until             ••  Is primary research, a review, a dataset, a book, or a
+consistency in screening is established between screen-              report
+ers. Consistency will be measured using the Kappa sta-          ••  Was published between 1950 and 2016.
+tistic, which measures the degree of agreement between            • 	 The start date of 1950 was selected because it is also
+two coders [31]. This systematic map process will imple-               the first year that FAO provides global fisheries sta-
+ment two to four coders. All coders will search and                    tistics [13].
+screen the same river and the kappa statistic will be cal-      ••  The article contains species-specific and location-
+culated. Criteria and differences between included article           specific information about fish biomass.
+sets will be reviewed until kappa statistic values return
+moderate to high values, > 0.5 [32]. Meetings to discuss        In order to be included in the final database and map, a
+search strategy and study inclusion will occur at regular     study must meet all of the following criteria:
+intervals to maintain consistency throughout the search
+and study inclusion.                                          Relevant subjects River or river aquaculture fish species
+   The inclusion criteria described below will be applied     (as identified by Fishbase.org).
+during the search process for collecting potentially rel-
+evant articles and then screening collected articles for      Relevant interventions Capture/extraction of popula-
+inclusion in the final geodatabase. The number of all         tions and communities of fish for food, income, or recrea-
+included and excluded articles will be recorded at each       tion.
+stage of the screening and study inclusion process per the
+PRISMA flow chart [33].                                       Relevant outcomes Fish biomass extraction from rivers.
+                                                              This data will include different units for weight, and differ-
+Study inclusion criteria                                      ent articles may report data at different spatial and tem-
+All potentially relevant citations selected during the        poral scales as well as have different definitions for catch,
+search process will be saved into a reference manager or      harvest, yield, production, etc. The original data will be
+systematic review software (such as Zotero or Mende-          extracted from the articles and then, when possible, con-
+ley) for full text review. Articles that are not open access  verted to consistent units for analysis as described below
+will be requested through inter-library loan or via uni-      in the “Data coding strategy” and Table 5.
+versity library subscriptions from university-affiliated
+researchers on our team. Articles will be selected from       Relevant study designs Quantitative research including
+the search if they meet all the following criteria, erring    experimental, quasi-experimental, observational studies
+on the side of inclusion. At the first screening step, arti-  will be included. Secondary studies including literature
+cle will be selected if it meets the first two criteria and   reviews and systematic reviews will be used to identify
+if the title and abstract indicates the article contains spe- additional primary sources of information.
+cies-specific and location-specific information about fish      The original source of the data and type of organization
+biomass. After duplicates are removed, title and abstracts    (non-governmental, governmental, etc.) will be included
+
+Romulo et al. Environ Evid (2017) 6:29                                                                                                       Page 8 of 10
+Table 5 Field names and definitions for data collected through the systematic map process
+Field name                     Field definition                                                                                           Field type
+Ref_ID                         DOI or assigned reference number                                                                           VARCHAR(25)
+RIVERID                        (Metadata) artificial sequence number, linked to metadata table. RIVERID is derived from on Natu‑          NUMBER(6)
+                                  ralEarth Rivers Database
+RIVER_NAME                     River name                                                                                                 VARCHAR2(150)
+RIVER_ZONE_ID                  Segment ID from the river zones. these zones were defined in a separate modeling analysis based            NUMBER(15)
+                                  on a k-mean plus cluster algorithm where cluster were derived based on six different bio-physical
+                                  parameters of the rivers. A separate manuscript regarding this modeling effort is under preparation
+FISHCATCH_ID                   Fish_Catch_record sequence number (unique)                                                                 NUMBER(6)
+BEG_DATE                       Beginning date of fish data. Format: month/year example: 06/2016                                           DATE
+END_DATE                       End date of fish data. Format: month/year example: 06/2016                                                 DATE
+EST_DATE                       Is the date estimated? (1 = yes, 2 = no)                                                                   NUMBER(1)
+FISH_CATCH_LAT                 Latitude coordinate of fish catch in decimal degree                                                        NUMBER(15, 2)
+FISH_CATCH_LONG                Longitude coordinate of fish catch in decimal degree                                                       NUMBER(15, 2)
+FISH_CATCH_LOCATION            Original coordinate or location data from the reference                                                    VARCHAR2(150)
+LOCATION_MAP                   Is there a map showing the location of data collection? (1 = yes, 2 = no)                                  NUMBER(1)
+FISH_CATCH_SPECIES             Species full Latin name. Enter “Mixed Catch” if specific species names are not provided. Example:          NUMBER(8)
+                                  Schizodon fasciatus
+FISH_CATCH_COUNT               Number of individual fish caught. Enter N/A if number is not available                                     NUMBER(8)
+FISH_SPECIES_TYPE              Select type of species (1 = native, 2 = non-native, 3 = article does not specify). If a report combines    NUMBER(1)
+                                  multiple fisheries, catch from each fishery will be recorded as separate entries
+FISH_SPECIES_INTRO_YR          If introduced species then the year this species introduced in this river system, as determined by         NUMBER(4)
+                                  fishbase.org
+FISH_CATCH_TYPE                Select the reason for fish capture (1 = artisanal, 2 = commercial, 3 = recreational, 4 = scientific study, NUMBER(1)
+                                  5 = subsistence, 6 = aquaculture, 7 = others)
+FISH_CATCH_WT                  The numeric value for the weight of the fish catch. The unit of weight is recorded in the field FISH_      NUMBER(15,2)
+                                  CATCH_UNIT
+FISH_CATCH_UNIT                Select the weight unit reported by the article                                                             VARCHAR2(5)
+FISH_CATCH_KG                  Fish biomass, in kg. Calculated from field “FISH_CATCH_WT”                                                 NUMBER(15,2)
+SAMPLED_AREA                   What area was sampled (include units)                                                                      NUMBER(8,2)
+FISH_CATCH_BY_AREA             Fish biomass, in kg/ha or X unit                                                                           NUMBER(15,2)
+TOTAL_BIOMASS                  The numeric value for the total biomass captured (including fish and other species). Enter N/A if not      NUMBER(15,2)
+                                  available
+TOTAL_BIOMASS_UNIT             Select the weight unit reported by the article                                                             VARCHAR2(5)
+TOTAL_BIOMASS_KG               Total biomass captured in the haul in KG (including fish and other species). Enter N/A if not available    NUMBER(15,2)
+GEAR_TYPE                      Select the type of gear used to capture the fish species (1 = trawl, 2 = net, 3 = traps, 4 = line,         VARCHAR2(150)
+                                  5 = electrofishing, 6 = other)
+GEAR_SIZE                      Numerical value for the gear size                                                                          NUMBER(8,2)
+GEAR_SIZE_UNIT                 Select the gear size unit reported by the article                                                          VARCHAR2(150)
+GEAR_SIZE_cm                   Mesh size or gear size in centimeters                                                                      NUMBER(8,2)
+FISHING_EFFORT_UNIT            Number of boats or gears used for the survey                                                               NUMBER(8)
+FISHING_EFFORT_DURATION        Number of hours or days spend in fishing (days as 24 h)                                                    NUMBER(8)
+in the final database. A list of articles excluded at full text                 captured as they may be pertinent for how the data are
+review with reasons for exclusion will be provided.                             used in modeling projects or estimations. Notes regard-
+                                                                                ing the methodological descriptions will also be col-
+Study quality assessment                                                        lected, including reliability of sources.
+Because of variation in fish harvest methods and differ-
+ing purpose for data collection in peer-reviewed and grey                       Data coding strategy
+literature, critical appraisal will not be applied to this                      The following information will be collected from each
+systematic map. However, descriptive and demographic                            article, when available. Other categories or target infor-
+information about researchers and data collection will be                       mation may be added during the search process.
+
+Romulo et al. Environ Evid (2017) 6:29                                                                                               Page 9 of 10
+Capture effort and methods fields                               proprietary. This systematic map protocol will accom-
+Fishing effort, gear type and size, vessel type and size,       pany the geodatabase as metadata. Additionally, a sys-
+sampled area and location.                                      tematic map describing the data collection process and
+                                                                results of the search. A geographic map of data density
+Sector fields                                                   and data collected will review the distribution of infor-
+Subsistence, commercial,               aquaculture, recreation, mation to identify knowledge gaps or concentrations
+research, funding source.                                       of information and also address the temporal scale of
+                                                                available information. Understanding the distribution
+Information type fields                                         of current information can help target future studies to
+Primary information (i.e., the report authors collected         fill these gaps and reduce redundant data collection.
+the information themselves), Secondary information;             This information could also be used to frame systematic
+article reports data collected by another party.                review questions and research regarding river fisheries.
+Map fields                                                      Additional files
+Author affiliations, research question or objective, out-
+come or conclusion, replication present or absent, con-            Additional file 1. Search Terms Scoping. Information regarding the
+                                                                   original search terms and scoping methods used to determine proposed
+trol present or absent, review (R), before/after (BA),             search terms in the main manuscript.
+comparator/intervention (CI), before/after/comparator/             Additional file 2. Languages Scoping. Description of methods used to
+intervention (BACI), randomized controlled trial (RCT),            determine the proposed search languages in the main manuscript.
+objective or purpose of data collection.
+   Regarding the spatial component of fish biomass
+extraction, this information will consist of point loca-        Authors’ contributions
+tions, sets of point locations, areas, general descriptions,    CLR led map protocol development and will oversee literature search and
+                                                                data extraction. ZB, AL, and WT conceptualized the original research project.
+and river or watershed level scales. If the specific area       YCK provides expertize in Mandarin language and inland fisheries research
+cannot be determined from the information provided,             in Asia. All authors contributed to protocol design, manuscript writing. All
+that article will not meet study inclusion criteria and         authors read and approved the final manuscript.
+will be excluded from the final geodatabase. All other          Author details
+data will be included in the format provided by the origi-      1
+                                                                  Department of Environmental Science and Policy, George Mason University,
+nal documentation. The final geodatabase will consist of        4400 University Dr., Fairfax, VA 22033, USA. 2 US Geological Survey, National Cli‑
+                                                                mate Change and Wildlife Science Center, 12201 Sunrise Valley Drive, MS‑516,
+point, multi-point, polygon, and multi-polygon shape-           Room 2A128A, Reston, VA 20192, USA. 3 Environmental and Sustainability
+files. The original spatial description, map, or coordinate     Studies Program, University of Northern Colorado, 501 20th St., Greeley, CO
+information will be provided in the final geodatabase           80639, USA. 4 Department of Fisheries and Wildlife, Center for Systems Integra‑
+                                                                tion and Sustainability, Michigan State University, 115 Manly Miles Building,
+along with the spatial information. Changes in fish bio-        1405 South Harrison Rd., East Lansing, MI 48823, USA. 5 US Geological Survey,
+mass over time or time-series data will include individual      Great Lakes Science Center, 1451 Green Rd, Ann Arbor, MI 48105, USA.
+entries for each time point.
+                                                                Acknowledgements
+   Intercoder reliability will be established by compar-        We thank Ian Cowx (University of Hull), Rachel Ainsworth (University of Hull),
+ing extracted data between researchers. Table 5 provides        and NCCWSC staff for their assistance with refining this search methodol‑
+the field names and definitions of the data targeted for        ogy. We also thank Jessica Taylor for an internal USGS review, anonymous
+                                                                journal-selected reviewers, and the journal editors for their constructive
+extraction from the search results. All persons contribut-      feedback to improve this manuscript. Any use of trade, firm, or product names
+ing to data collection will be provided the same set of 20      is for descriptive purposes only and does not imply endorsement by the US.
+articles and the actual data extracted will be compared.        Government. Its content is deliberative and predecisional, so it must not be
+                                                                disclosed or released by reviewers. Because the manuscript has not yet been
+Discrepancies in collected data will be discussed and           approved for publication by the US Geological Survey (USGS), it does not
+assessed until data collection is consistent. Other types       represent any official USGS finding or policy.
+of data may be added as identified by the search process.
+                                                                Competing interests
+Data from these sources will then be synthesized into a         The authors declare that they have no competing interests. If a reviewer is an
+geodatabase.                                                    author on a potentially relevant article, he or she will not be involved in the
+                                                                decisions regarding the inclusion of the article in the database.
+Study mapping and presentation                                  Availability of data and materials
+The systematic map database will be presented as a geo-         Not applicable.
+database that will be open-access and hosted by USGS
+                                                                Consent for publication
+Sciencebase. The geodatabase will be available as both          Not applicable.
+a file geodatabase and a series of folders. All files within
+the geodatabase will consist of shapefiles, which are not
+
+Romulo et al. Environ Evid (2017) 6:29                                                                                                               Page 10 of 10
+Ethics approval and consent to participate                                        18. Brander KM. Global fish production and climate change. Proc Natl Acad
+Not applicable.                                                                       Sci USA. 2007;104:19709–14.
+                                                                                  19. Lynch AJ, Cooke SJ, Kao Y-C, Lorenzen K, Song AM, Allen MS, et al. Grand
+Funding                                                                               challenges in the management and conservation of North American
+This work was funded by the US Geological Survey’s National Climate Change            inland fishes and fisheries. Fisheries. 2017;42:115–27.
+and Wildlife Science Center (NCCWSC).                                             20. Taylor WW, Bartley DM. Call to action-the “Rome declaration”: ten steps to
+                                                                                      responsible inland fisheries. Fisheries. 2016;41:269. https://doi.org/10.108
+                                                                                      0/03632415.2016.1183993.
+Publisher’s Note                                                                  21. Deines AM, Bunnell DB, Rogers MW, Bennion D, Woelmer W, Sayers MJ,
+Springer Nature remains neutral with regard to jurisdictional claims in pub‑          et al. The contribution of lakes to global inland fisheries harvest. Front
+lished maps and institutional affiliations.                                           Ecol Environ. 2017;15:293–8.
+                                                                                  22. James KL, Randall NP, Haddaway NR. A methodology for systematic
+Received: 24 May 2017 Accepted: 26 October 2017                                       mapping in environmental sciences. Environ Evid. 2016;5:7. https://doi.
+                                                                                      org/10.1186/s13750-016-0059-6.
+                                                                                  23. Vörösmarty CJ, Fekete BM, Meybeck M, Lammers RB. Geomorphometric
+                                                                                      attributes of the global system of rivers at 30-min spatial resolution. J
+                                                                                      Hydrol. 2000;237:17–39.
+                                                                                  24. Vorosmarty CJ, Fekete BM, Meybeck M, Lammers RB. Global system of
+References
+                                                                                      rivers: its role in organizing continental land mass and defining land-to-
+ 1. Lynch AJ, Cooke SJ, Deines AM, Bower SD, Bunnell DB, Cowx IG, et al. The
+                                                                                      ocean linkages. Glob Biogeochem Cycles. 2000;14:639–54.
+     social, economic, and environmental importance of inland fish and fish‑
+                                                                                  25. Haddaway NR, Collins AM, Coughlin D, Kirk S. The role of Google Scholar
+     eries. Environ Rev. 2016;24:115–21. https://doi.org/10.1139/er-2015-0064.
+                                                                                      in evidence reviews and its applicability to grey literature searching. PLoS
+ 2. Youn SJ, Taylor WW, Lynch AJ, Cowx IG, Douglas Beard T, Bartley D, et al.
+                                                                                      ONE. 2015;10:1–17.
+     Inland capture fishery contributions to global food security and threats
+                                                                                  26. Haddaway NR, Collins AM, Coughlin D, Kirk S. A rapid method to increase
+     to their future. Glob Food Secur. 2014;3:142–8. https://doi.org/10.1016/j.
+                                                                                      transparency and efficiency in web-based searches. Environ Evid.
+     gfs.2014.09.005.
+                                                                                      2017;6:1. https://doi.org/10.1186/s13750-016-0079-2.
+ 3. Orr S, Pittock J, Chapagain A, Dumaresq D. Dams on the Mekong River:
+                                                                                  27. Haddaway NR, Bayliss HR. Shades of grey: two forms of grey literature
+     lost fish protein and the implications for land and water resources.
+                                                                                      important for reviews in conservation. Biol Conserv. 2015;191:827–9.
+     Glob Environ Chang. 2012;22:925–32. https://doi.org/10.1016/j.
+                                                                                      https://doi.org/10.1016/j.biocon.2015.08.018.
+     gloenvcha.2012.06.002.
+                                                                                  28. Ammon U. The dominance of English as a language of science: effects on
+ 4. Dudgeon D, Arthington AH, Gessner MO, Kawabata Z-I, Knowler DJ,
+                                                                                      other languages and language communities. Berlin: Walter de Gruyter;
+     Lévêque C, et al. Freshwater biodiversity: importance, threats, status and
+                                                                                      2001.
+     conservation challenges. Biol Rev Camb Philos Soc. 2006;81:163–82.
+                                                                                  29. van Weijen D. The language of (future) scientific com‑
+     https://doi.org/10.1017/S1464793105006950.
+                                                                                      munication. Res Trends. 2012;7–9. http://www.
+ 5. Cooke SJ, Allison EH, Beard TD, Arlinghaus R, Arthington AH, Bartley DM,
+                                                                                      researchtrends.com/issue-31-november-2012/
+     et al. On the sustainability of inland fisheries: finding a future for the
+                                                                                      the-language-of-future-scientific-communication/.
+     forgotten. Ambio. 2016;45:753–64.
+                                                                                  30. Ugland KI, Gray JS, Ellingsen KE. The species-accumulation curve and
+ 6. Mills DJ, Westlund L, de Graaf G, Kura Y, Willman R, Kelleher K. Under-
+                                                                                      estimation of species richness. J Anim Ecol. 2003;72:888–97.
+     reported and undervalued: small-scale fisheries in the developing world.
+                                                                                  31. Cohen J. A coefficient of agreement for nominal scale. Educ Psychol
+     Small-Scale Fish Manag Framw Approach Dev World. 2011. https://doi.
+                                                                                      Meas. 1960;20:37–46.
+     org/10.1079/9781845936075.0001.
+                                                                                  32. CEE. Guidelines for systematic reviews in environmental manage‑
+ 7. Welcomme RL. An overview of global catch statistics for inland fish. ICES J
+                                                                                      ment. Version 42. 2013;80. http://www.environmentalevidence.org/
+     Mar Sci. 2011;68:1751–6.
+                                                                                      Documents/Guidelines/Guidelines4.2.pdf.
+ 8. Cooke SJ, Lapointe NWR, Martins EG, Thiem JD, Raby GD, Taylor MK, et al.
+                                                                                  33. Liberati A, Altman DG, Tetzlaff J, Mulrow C, Gøtzsche PC, Ioannidis JPA,
+     Failure to engage the public in issues related to inland fishes and fisher‑
+                                                                                      et al. The PRISMA statement for reporting systematic reviews and meta-
+     ies: strategies for building public and political will to promote meaningful
+                                                                                      analyses of studies that evaluate health care interventions: explanation
+     conservationa. J Fish Biol. 2013;83:997–1018.
+                                                                                      and elaboration. PLoS Med. 2009;6:e1000100.
+ 9. FAO. Methods of resource investigation and their application. In: Manual
+     of fisheries science. http://www.fao.org/docrep/003/F0752E/F0752E00.
+     HTM#toc.
+ 10. Hortle KG. Fisheries of the Mekong River Basin. In: The Mekong. Biophysi‑
+     cal environment of a transboundary river. New York: Elsevier; 2009. p.
+     197–249. https://doi.org/10.1016/B978-0-12-374026-7.00009-7.
+ 11. Hortle KG. Consumption and the yield of fish and other aquatic animals
+     from the Lower Mekong Basin. MRC Tech Pap. 2007;16:87. http://www.
+     mrcmekong.org/assets/Publications/technical/tech-No16-consumption-
+     n-yield-of-fish.pdf.                                                             Submit your next manuscript to BioMed Central
+ 12. Coates D. Inland capture fishery statistics of Southeast Asia : current          and we will help you at every step:
+     status and information needs. Bangkok: RAP publication; 2002.
+ 13. FAO. Statistics Introduction. 2017. http://www.fao.org/fishery/statistics/         • We accept pre-submission inquiries
+     en. Accessed 29 Mar 2017.                                                          • Our selector tool helps you to find the most relevant journal
+ 14. Bartley DM, De Graaf GJ, Valbo-Jørgensen J, Marmulla G. Inland capture
+                                                                                        • We provide round the clock customer support
+     fisheries: status and data issues. Fish Manag Ecol. 2015;22:71–7.
+ 15. Martell S, Froese R. A simple method for estimating MSY from catch and             • Convenient online submission
+     resilience. Fish Fish 2013;14(4):504–514.                                          • Thorough peer review
+ 16. Pauly D, Zeller D. Catch reconstructions reveal that global marine
+                                                                                        • Inclusion in PubMed and all major indexing services
+     fisheries catches are higher than reported and declining. Nat Commun.
+     2016;7:10244. https://doi.org/10.1038/ncomms10244.                                 • Maximum visibility for your research
+ 17. Chassot E, Bonhommeau S, Dulvy N, Mélin F, Watson R, Gascuel D, et al.
+     Global marine primary production constrains sheries catches. Ecology.              Submit your manuscript at
+                                                                                        www.biomedcentral.com/submit
+     2010;13:495–505.
+

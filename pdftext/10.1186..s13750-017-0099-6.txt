@@ -1,0 +1,788 @@
+Livoreil et al. Environ Evid (2017) 6:23
+DOI 10.1186/s13750-017-0099-6                                                                                         Environmental Evidence
+  METHODOLOGY                                                                                                                                         Open Access
+Systematic searching for environmental
+evidence using multiple tools and sources
+Barbara Livoreil1* , Julie Glanville2, Neal R. Haddaway3, Helen Bayliss4†, Alison Bethel5†,
+Frédérique Flamerie de Lachapelle6†, Shannon Robalino7†, Sini Savilaakso8†, Wen Zhou8†, Gill Petrokofsky9†
+and Geoff Frampton10†
+   Abstract
+   Background: This paper provides guidance about how to plan, prepare, conduct, report, amend or update a system-
+   atic search. It aims to contribute to a new version of the Collaboration for Environmental Evidence (CEE) Guidelines for
+   Systematic Reviews in Environmental Management, and the methods we describe are likely to be broadly applicable
+   across a wider range of topics. In evidence synthesis, searches are expected to be repeatable, fit for purpose, with
+   minimum biases, and to collate a maximum number of relevant articles. Failing to include relevant information in an
+   evidence synthesis may lead to inaccurate or skewed conclusions and/or changes in conclusions as soon as the omit-
+   ted information is added.
+   Method: The paper takes into account similar documents produced by the Cochrane Collaboration and the Camp-
+   bell Collaboration, including necessary adjustments for environmental policy and management, and the current ver-
+   sion of the CEE Guidelines (version 4.2, 2013). Where possible this guidance is based on evidence from research, and
+   in its absence on expert opinion and experience.
+   Results: Here we aim to provide guidance on the optimal search structure as the basis on which any evidence syn-
+   thesis should be built.
+   Conclusion: It is aimed at all those who intend to conduct systematic evidence synthesis, including reviews and
+   Ph.D. thesis.
+   Keywords: Search strategy, Search string, Boolean operators, Evidence synthesis, Bibliographic sources, Literature
+   review, Systematic review, Systematic map, Grey literature
+Background                                                                                    document including scientific papers, abstracts, reports,
+In a systematic review or systematic map (hereafter                                           book chapters, other publications, thesis, or internet
+referred to as “evidence synthesis”) searches are required                                    pages, etc. Articles may contain more than one study
+to be transparent and reproducible and minimise biases.                                       (described observation or experience including methods
+A key requirement of a project team engaged in evidence                                       and results) or the same study may be reported in more
+synthesis is to try to gather a maximum of the avail-                                         than one article. In a systematic review or map, the unit
+able relevant documented bibliographic evidence, herein                                       of analysis (especially when conducting a meta-analysis)
+called “articles”, necessary to answer the review ques-                                       is the study.
+tion. In this paper we use “article” to refer to any written                                     Biases (including those linked to the search itself )
+                                                                                              should be minimized and/or highlighted as they may
+                                                                                              affect the outputs of the synthesis [7, 11, 21, 36].
+*Correspondence: barbara.livoreil@fondationbiodiversite.fr
+†
+ Helen Bayliss, Alison Bethel, Frédérique Flamerie de Lachapelle, Shannon
+                                                                                                 Failing to include relevant information in an evidence
+Robalino, Sini Savilaakso, Wen Zhou, Gill Petrokofsky and Geoff Frampton                      synthesis could significantly affect and/or bias its find-
+contributed equally to this work
+1
+                                                                                              ings. This may also happen over time as new results are
+  Foundation for Research ON Biodiversity (FRB), Paris, France
+Full list of author information is available at the end of the article
+                                                                                              published (see section about upgrading and amending).
+                                              © The Author(s) 2017. This article is distributed under the terms of the Creative Commons Attribution 4.0 International License
+                                              (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium,
+                                              provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license,
+                                              and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/
+                                              publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+
+Livoreil et al. Environ Evid (2017) 6:23                                                                                                    Page 2 of 14
+   In practice, it is unlikely that absolutely all of the relevant                    Steps involved in a search are presented in chronologi-
+literature can be identified during an evidence synthesis                          cal order, bearing in mind that some of the process may
+search, for several reasons: (1) literature is often searched                      be iterative. We also highlight the methods that enable
+and examined only in those languages known to the pro-                             the project team to identify, minimise and report any
+ject team; (2) some articles may not be accessible due to                          risks of bias that may affect the search and how this can
+restricted access pay walls or confidentiality; (3) others lack                    affect the findings of an evidence synthesis.
+abstract or have unhelpful titles, which make them diffi-                             We will use the following terminology: search terms
+cult to identify; (4) others may simply not be indexed in a                        encompasses individual or compound words used in a
+searchable database. Within these, searches conducted for                          search to find relevant articles. A search string is a com-
+evidence synthesis should be as comprehensive as possible,                         bination of comprises search terms combined using
+and they should be documented so they can be repeated                              Boolean operators. Finally, a search strategy is the whole
+and readers can appreciate their strengths and weaknesses.                         search methodology, including search terms, search
+Reporting any limitations to searches, such as unavoid-                            strings, the bibliographic sources searched, and enough
+able gaps in coverage (e.g. lack of access to some literature)                     information to ensure the reproducibility of the search.
+is an important part of the search process, to ensure that                         Bibliographic sources (see “Identifying relevant sources
+readers’ have confidence in the review methods, to allow                           of articles” for more details) capture any source of refer-
+for complementary searches when possible and to qualify                            ences, including electronic bibliographic databases, those
+the interpretation of the evidence synthesis findings.                             sources which would not be classified as databases (e.g.
+   In this paper, we outline the steps necessary for plan-                         the Internet via search engines), hand searched journals,
+ning, conducting and reporting of search activities within                         and personal contacts.
+an evidence synthesis. We aim to contribute to a new
+version of the Collaboration for Environmental Evidence                            Flowchart of the steps of a search
+(CEE) Guidelines for Systematic Reviews in Environmen-                             A step-by-step overview of the search process for evi-
+tal Management (current version 4.2, March 2013) by                                dence synthesis is illustrated in Fig. 1. The entire series
+providing in-depth information on good practice for this                           of steps composing evidence synthesis has been provided
+step of evidence synthesis.                                                        elsewhere [7].
+                           QUESTION FORMULATION
+                            SEARCHING FOR EVIDENCE
+                                           1. PLANNING THE SEARCH      2. CONDUCTING THE SEARCH       3. MANAGING REFERENCES
+                                                                                                            AND REPORTING
+                                                      1.1                           2.1
+                                           Establishing a test-list            Prioritizing                       3.1
+                                                                          bibliographic sources       Keeping track of the search
+                                                      1.2                                                 and recording results
+                                          Identifying search terms                  2.2
+                                                                        Building the search string                3.2
+                                                      1.3                                               Writing the search report
+                                             Identifying relevant                   2.3
+                                              sources of articles          Assessing retrieval
+                                                                               performance
+                                                       1.4
+                                                                                    2.4
+                                           Choosing bibliographic                                          4. UPDATING AND
+                                                                           Refining the results
+                                            management software                                          AMENDING A SEARCH
+                                                       1.5                          2.5
+                                         Adressing the need for grey   Searching for grey literature
+                                                   literature
+                                                                                     2.6
+                                                       1.6                Additional approaches
+                                            Deciding when to stop
+                                                       1.7
+                                       Submitting the search strategy
+                                       in the protocol for peer-review
+                             ELIGIBILITY SCREENING
+  Fig. 1 Steps of a systematic search grouped into four blocs within the conduct of an evidence synthesis (vertical arrow). Numbers relate to sections
+  in the text
+
+Livoreil et al. Environ Evid (2017) 6:23                                                                           Page 3 of 14
+Preventing errors and biases                                     and studies in languages other than English) should be
+Conducting a rigorous evidence synthesis implies to try          conducted in all systematic reviews and maps [29]. Pos-
+to minimise risks of errors and biases which may hap-            sible sources of such results are the Journal of Negative
+pen at all stages. Errors that can occur include during          Results in Ecology and Evolutionary Biology (http://jnr-
+the search include: missing search terms, unintentional          eeb.org/index.php/jnr) and the Journal of Non-Significant
+misspelling of search terms, errors in the search syntax         Differences (https://cirt.gcu.edu/research/publication_
+(e.g. inappropriate use of Boolean operators, see “Build-        presentation/gcujournals/nonsignificant). These journals
+ing the search string”) and inappropriate search terms.          publish studies that are scientifically rigorous but lack
+Such problems may be minimised when the search term              statistical significance.
+identification process is conducted rigorously, and by
+peer-reviewing the search strategy, including within and         Relationship between searching and scoping
+outside the project team.                                        Searches occur at several points in evidence synthesis.
+   Biases (systematic errors) in the search strategy may         First, an initial scoping search may be conducted when
+affect the search outcomes [46]. The methods used to             preparing the project. Scoping aims to quickly assess the
+minimize bias should be reported in the protocol and             quantity and type of articles that are relevant to the ques-
+the final review or map (see “Part 3”). Minimizing bias          tion. The scoping search is often conducted only using
+may require (1) looking for evidence outside traditional         one or two electronic bibliographic databases. The scop-
+academic electronic bibliographic sources (e.g. grey lit-        ing results may help to estimate the quantity and types
+erature); (2) using multiple databases and search tools          of articles available, help to plan the human and other
+to reduce the possibility of bias in the retrieved results;      resources required (e.g. number of team members, librar-
+and, (3) contacting organisations or individuals who may         ians, translators, statisticians, numbers of documents
+have relevant material [2]. Some biases have been listed         which need to be purchased, processed and extracted),
+in Bayliss and Beyer [2] and a few of them are reported          and determine whether the evidence synthesis question
+here to be considered by project teams as appropriate:           should be refined if resources are insufficient. Second,
+language bias [46] means that studies with significant           the full search strategy is developed and presented within
+or ‘interesting’ results are more likely to be published in      the evidence synthesis protocol and possibly reviewed by
+the English language and easier to access to than results        a third party. Third, the final search is then carried out
+published in other languages. The impact of this on syn-         to find relevant evidence. The current paper explains in
+thesis outcomes is uncertain (e.g. [25, 37]) but the way to      detail how to develop the full search strategy.
+reduce the bias is to look beyond the English language lit-
+erature. Prevailing paradigm bias [2] suggests that stud-        Structuring the search with PICO/PECO elements
+ies relating to or supporting the prevailing paradigm or         An evidence synthesis process starts with a question that
+topic (for example climate change) are more likely to be         is usually structured into “building blocks” (concepts or
+published and hence discoverable. The ways to reduce             elements), some of which are then used to develop the
+this bias is not to rely only on finding well known rele-        search strategy. For the purpose of this paper the search
+vant studies. Temporal bias includes the risk that studies       strategy will be illustrated based on PICO/PECO ele-
+supporting a hypothesis are more likely to be published          ments which are commonly used in CEE evidence syn-
+first [2]. The results may not be supported by later studies     thesis (Table 1). Other elements and question structures
+[28]. Due to the culture of ‘the latest is best’, older articles exist and there are some variations in the abbreviations
+may be overlooked and mis-interpretations perpetuated.           used to designate similar things (e.g. PIT, PO, SPIDER,
+The ways to reduce this bias include searching older pub-        SPICE, see review and examples in [11, 13, 24]). Some-
+lications, considering updating the search in the future,        times in CEE reviews SICO/SECO have been used
+or test statistically whether this bias significantly affects    instead of PICO/PECO. This is because authors used
+the results of studies. Publication bias [9, 23, 46] refers to   ‘subject’ rather than ‘population’. There is a risk of con-
+asymmetry in the likelihood of publishing results: statis-       fusion with the letter “S” being used to describe the Set-
+tically significant results (positive results) are more likely   tings (or context) in the PICO/PECO semantic.
+to be accepted for publication than non-significant ones           In any of these question structures it is possible to nar-
+(negative results). This has been a source of major con-         row the question (and the search) by adding additional
+cern for systematic reviews and meta-analysis as it might        search terms defining the Context or Setting of the ques-
+lead to overestimating an effect/impact of an Interven-          tion (e.g. “tropical”, “experimental”, or “pleistocene”).
+tion or Exposure on a Population (e.g. [16, 30, 40]). To         Searching for geographic location is not recommended
+minimise this bias, searches for studies reporting non-          because location names may be difficult to list or dupli-
+significant results (most probably found in grey literature      cate when the geographical range is broad. Geographical
+
+Livoreil et al. Environ Evid (2017) 6:23                                                                                                          Page 4 of 14
+Table 1 Elements of a reviewable PICO/PECO question, often structured as “does intervention (I) or exposure (E) applied
+to populations (P) produces outcome (O) [compared to comparator (C)]?”
+Question element                Definition
+Population (of subjects)        Statistical samples or populations of subject(s) (e.g. ecosystem, species, etc.), to which the intervention will be applied, or
+                                  exposed to described conditions
+Intervention/exposure           Policy, action or environmental variable impacting the populations or to which the subject populations are exposed
+Comparator                      What the exposure or intervention are compared to. Either a control with no intervention/exposure or an alternative
+                                  intervention or a counterfactual scenario
+Outcome                         Consequences of the intervention or exposure. All relevant variables that can be reliably measured
+elements (e.g. name of the country) may, instead, be more                         Part 1—planning the search
+efficiently used as eligibility screening criteria [12].                          The first step in planning a search is to design a strategy
+                                                                                  to maximise the probability of identifying relevant arti-
+Use of multiple languages                                                         cles whilst minimizing the time spent doing so. There are
+Identifying which languages are most relevant for the                             several aspects of a search strategy detailed in this arti-
+search may depend on the topic of the evidence synthe-                            cle. Planning may also include discussions about eligibil-
+sis. There are two main challenges with languages for an                          ity criteria for subsequent screening [12] as they are often
+evidence synthesis; translating search terms into various                         linked to search terms. Planning should also include dis-
+languages to capture as many relevant articles as possible,                       cussions about decision criteria defining when to stop the
+and then being able to select and use the paper when not                          search as resource constraints (such as time, manpower,
+written in a language spoken by the project team mem-                             skills) may be a major reason to limit the search and
+bers. In many electronic bibliographic sources, articles                          should be anticipated and explained in the protocol (see
+written in languages other than English can be discovered                         “Deciding when to stop”).
+using English search terms. However, a large literature in
+languages other than English remains to be discovered in                          Establishing a test‑list
+national and regional databases, e.g. JICST for Japanese                          A test-list is a set of articles that have been identified as
+research. Searching is likely to require a range of languages                     relevant to answer the question of the evidence synthe-
+when relevant articles are produced at the national level,                        sis (e.g. are within the scope and provide some evidence
+as much of it will be published in the official language of                       to answer the question). The test-list can be created by
+the nations [8]. Reporting the choice of language(s) in the                       asking experts, researchers and stakeholders (i.e. any-
+protocol and in the final synthesis report is important to                        one who has an interest in the review question) for sug-
+enable repetition and updating when appropriate.                                  gestions and by perusing existing reviews. The project
+                                                                                  team should read the articles of the test-list to make
+Human resources needed for searching                                              sure they are relevant to the synthesis question. Estab-
+Each evidence synthesis is conducted by a project team.                           lishing a test-list is independent of the search itself and
+It may be composed of a project leader and associated                             is used to help develop the search strategy and to assess
+experts (thematic and methodological). Because of the                             the performance of the search strategy. The performance
+systematic aspect of the searching and the need to keep                           of a search strategy should be reported, i.e. whether
+careful track of the findings (see “Part 3”), projects teams                      the search strategy correctly retrieves relevant articles
+should, when possible, include librarians or information                          and whether all available relevant literature to answer
+specialists. Subject specialist librarians are conversant                         the evidence synthesis question is likely to have been
+with bibliographic sources, and are often very famil-                             identified (see “Assessing retrieval performance”). The
+iar with the nuances of different transdisciplinary and                           test-list may be presented in the protocol submitted for
+subject-specific resources [47]. They are aware of the                            peer-review.
+broad range of tools available for undertaking literature                            The test-list should ideally cover the range of authors,
+searches and they are aware of recent improvements in                             journals, and research projects within the scope of the
+the range and use of those tools. They are also expert in                         question. In order to be an effective tool it needs to
+coverting research questions into search strategies. Such                         reflect the range of the evidence likely to be encountered
+experts can benefit in contributing to a project team                             in the review. The number of articles to include in the
+since their institutions may require demonstration of col-                        test-list is a case-by-case decision and may also depend
+laborative work [22].                                                             on the breadth of the question. When using a very small
+
+Livoreil et al. Environ Evid (2017) 6:23                                                                           Page 5 of 14
+test-list, the project team may inappropriately conclude           The search terms identified using these various meth-
+that the search is effective whilst it is not. Using the test-  ods are presented as part of the draft evidence-synthesis
+list may be an indicator for the project team to improve        protocol so that additional terms may be suggested by
+the search strategy, or to help decide when to stop the         peer-reviewers. Once the list is finalised in the published
+search (see “Deciding when to stop”).                           protocol it should not be changed, unless justification is
+                                                                provided in the final evidence-synthesis.
+Identifying search terms
+A search string that is efficient at finding relevant articles  Identifying relevant sources of articles
+means that a maximum of relevant papers will have been          Various sources of articles relevant to the question may
+found and the project team will not have to run the search      exist. Understanding the coverage, the functions and limi-
+again during the course of the conduct of the evidence syn-     tations of information sources can be time-consuming, so
+thesis. Moreover, it may be re-used as such when amend-         involving a librarian or information specialist at this stage
+ing or updating the search in the future, saving time and       is highly recommended. We will use bibliography to refer
+resources (see “Part 4”). Initial search terms can usually be   to a list of articles generally described by authorship, title,
+generated from the question elements and by looking at          year of publication, place of publication, editor, and often,
+the articles in the test-list. However, authors of articles may keywords as well as, more recently, DOI identifiers. A
+not always describe the full range of the PICO/PECO cri-        bibliographic source allows these bibliographies to be cre-
+teria in the few words available in the title and abstract. As  ated by providing a search and retrieval interface. Much
+a consequence, building search strings from search terms        of the information today is likely to come from searches
+requires project teams to draw upon both their scientific       of electronic bibliographic sources, which are becoming
+expertise, a certain degree of imagination, and an analysis     increasingly comprehensive with the passage of time as
+of titles and abstracts to consider how authors might use       more material is digitised (see “Addressing the need for
+different terminologies to describe their research.             grey literature” and “Searching for grey literature”). In this
+   Reading the articles of the test-list as well as exist-      paper we use the term “electronic bibliographic source” in
+ing relevant reviews often helps to identify search             the broad sense. It includes individual electronic biblio-
+terms describing the population, intervention/expo-             graphic sources (e.g. Biological Abstracts) as well as plat-
+sure, outcome(s), and the context of interest. Synonyms         forms that allow simultaneous searches of several sources
+can also be looked for in dictionaries. An advantage of         of information (e.g. Web of Science or Google Scholar)
+involving librarians in the project team and among the          or could be accessed through search engines (such as
+peer-reviewers is that they bring their knowledge of spe-       Google). Platforms are a way to access databases.
+cialist thesauri to the creation of search term lists. For
+example, for questions in agriculture, CAB Abstracts            Coverage and accessibility
+provides a thesaurus whose terms are added to database          Several sources should be searched to ensure that as
+records. The thesaurus terms can offer broad or narrow          many relevant articles as possible are identified [1, 15].
+concepts for the search term of interest, and can provide       A decision needs to be made as to which sources would
+additional ways to capture articles or to discover over-        be the most appropriate for the question. This mostly
+looked words (http://www.cabi.org/cabthesaurus/). As            depends on the disciplines addressed by the question (e.g.
+well as database thesauri that offer terms that can be used     biology, social sciences, other disciplines) and the iden-
+within individual databases, there are other thesauri that      tification of sources that may provide the greatest quan-
+are independent of databases. For example, the Termino-         tity of relevant articles for a limited number of searches
+logical Resource for Plant Functional Diversity (http://        and their contribution in reducing the various biases
+top-thesaurus.org/) offers terms for 700 plant charac-          described earlier in the paper (see “Identifying relevant
+teristics, plant traits and environmental associations.         sources of articles”). The quantity of results given by an
+Experts and stakeholders may suggest additional key-            electronic bibliographic source is NOT a good indicator
+words, for instance when an intervention is related to a        of the relevance of the articles identified and thus should
+special device (e.g. technical name of an engine, chemical      not be a criterion to select or discard this source. Infor-
+names of pollutants) or a population is very specific (e.g.     mation about access to databases and articles (coverage)
+taxonomic names which have been changed over time,              can be obtained directly from the project team by sharing
+technical terminology of genetically-modified organ-            knowledge and experience, asking librarians and infor-
+isms). Other approaches can be used to identify search          mation experts and, if needed, stakeholders. Peer-review
+terms and facilitate eligibility screening (e.g. text-mining,   of the evidence synthesis protocol may also provide extra
+citation screening, cluster analysis and semantic analysis)     feedback and information regarding the relevance of
+and are likely to be helpful for CEE evidence synthesis.        searching in some other sources.
+
+Livoreil et al. Environ Evid (2017) 6:23                                                                           Page 6 of 14
+   Some databases are open-access, such as Google                    food science and nutrition) versus multidisciplinary
+Scholar, whereas others require subscription such as Agri-           sources (Scopus, Web of Science);
+cola (http://agricola.nal.usda.gov/). Therefore, access to      ••  Geographical regions (e.g. Latin America, HAPI-
+electronic bibliographic sources may depend on institu-              Hispanic American Periodicals Index, or Europe
+tional library subscriptions, and so availability to project         CORDIS). It may be necessary to search region-spe-
+teams will vary across organisations. A diverse project              cific bibliographic sources if the evidence-synthesis
+team from a range of institutions may therefore be ben-              question has a regional focus [2];
+eficial to ensure adequate breadth of search strategies.        ••  Document types: scientific papers, conference or
+When the project team does not have access to all the rel-           proceedings, chapters, books, theses. Many univer-
+evant bibliographic sources, it should explain its approach          sity libraries hold digital copies of their theses, such
+and list the sources that were available but not searchable          as the EThOS British Library thesis database. Confer-
+and acknowledge these limitations. This may include indi-            ence papers may be a source of unpublished results
+cations as to how to further upgrade the evidence synthe-            relevant for the synthesis, and may be found through
+sis at a later stage.                                                the BIOSIS Citation index or the Conference Pro-
+                                                                     ceedings Citation Index (Thomson Reuters 2016, in
+Types of sources                                                     [13]).
+We first present bibliographic sources which allow the           ••  Durations at the time of writing, in the Web of Sci-
+use of search strings, mostly illustrated from the envi-             ence Core Collection some articles may be accessible
+ronmental sciences. An extensive list of searchable data-            from 1900 although by no means all, in Scopus they
+bases for the social sciences is available in Kugley et al.          may date from 1960).
+[26]. Other sources and methods mentioned below (such
+as searches on Google) are complementary but cannot           Publishers’ databases The websites of individual com-
+be the core strategy of the search process of an evidence-    mercial publishers may be valuable sources of evidence,
+synthesis as they are less reproducible and transparent.      since they can also offer access to books, chapters of
+   Bibliographic sources may vary in the search tools pro-    books, and other material (e.g. datasets). Using their
+vided by their platforms. Help pages give information on      respective search tools and related help pages allows the
+search capabilities and these should be read carefully.       retrieval of relevant articles based on search terms. For
+Involving librarians who keep up-to-date with develop-        example, Elsevier’s ScienceDirect and Wiley Interscience
+ments in information sources and platforms is likely to       are publishers’ platforms that give access to their jour-
+save considerable time.                                       nals, their tables of contents and (depending on licence)
+                                                              abstracts and the ability to download the article.
+Electronic bibliographic sources The platforms which
+provide access to bibliographic information sources may       Web‑based search engines Google is one example of a
+vary according to:                                            web-based search engine that searches the Internet for
+                                                              content including articles, books, theses, reports and
+(A) Platform issues                                           grey literature (see “Addressing the need for grey litera-
+                                                              ture” and “Searching for grey literature”). It also provides
+   ••  The syntax needed within search strings (see “Build-   its own search tools and help pages. Such resources are
+       ing the search string”) and the complexity of search   typically not transparent (i.e. they order results using
+       strings that they will accept.                         an unknown and often changing algorithm, [14]) and
+   ••  Access: not all bibliographic sources are completely   are restricted in their scope or in the number of results
+       accessible. It depends on the subscriptions available  that can be viewed by the user (Google Scholar). Google
+       to the project team members in their institutions.     Scholar has been shown not to be suitable as a standalone
+       The Web of Science platform, for example, contains     resource in systematic reviews but it remains a valuable
+       several databases, and it is important to check and    tool for supplementing bibliographic searches [6, 19] and
+       document which ones are accessible to the project      to obtain full-text PDF of articles. BASE Bielefeld aca-
+       team via that platform.                                demic search engine (https://www.base-search.net) is
+                                                              developed by the University of Bielefeld (Germany) and
+(B) Database issues                                           gives access to a wide range of information, including
+                                                              academic articles, audio files, maps, theses, newspaper
+   ••  Disciplines: subject-based bibliographic sources       articles, and datasets. It lists sources of data and displays
+       (CAB ebooks; applied life sciences, agriculture, envi- detailed search results so that transparent reporting is
+       ronment, veterinary sciences, applied economics,       facilitated [35].
+
+Livoreil et al. Environ Evid (2017) 6:23                                                                            Page 7 of 14
+Finding full‑text documents                                       ••  Options for storage (e.g. the Cloud) and associated
+Full-text documents will be needed only when the find-                costs;
+ings of the search have been screened for eligibility and         ••  Possibilities to create bibliographic lists according to
+retained based on their title and abstract, and need to               the style(s) required by the editor of the review (e.g.
+be screened at full-text (see [12]). Limitations to access            cite-as-you-write).
+to full-texts can be a source of bias in the synthesis, and
+finding documents may be time-consuming as it may                 The functionality for exporting lists of bibliographic
+involve inter-library loans or direct contact with authors.    records varies across both electronic sources and the ref-
+Documents can be obtained directly if (a) the articles         erence management software used to store records. Some
+are open-access, (b) the articles have been placed on          platforms may require citations to be exported individu-
+an author’s personal webpage, or (c) are included in the       ally (e.g. Google Scholar) whereas others allow down-
+project team’ institutional subscriptions. Checking insti-     loading in batches (e.g. Web of Science). When the size
+tutional access when listing the sources of bibliography       of each batch is much smaller than the total number to
+may help the project team anticipate needs to get extra        be exported (even if since 2017 Web of Science extended
+support.                                                       downloads to batches of 5000 articles, searches may pro-
+                                                               duce thousands of records), exporting is made in a series
+Choosing bibliographic management software                     of batches, which is a time-consuming process. Extract-
+Specific reference management software may be used to          ing articles ordered by publication date rather than by
+extract the results of the search from the bibliographic       relevance (e.g. all articles published between 1950 and
+source onto a computer or in an online dedicated space         2000 in a first session, and the others later) may prevent
+(e.g. EndNote online). This can assist future removal of       errors. In all cases, the project team needs to make sure
+duplicates and eligibility screening [12]. Establishing an     all articles have been correctly retrieved (preferably with
+efficient workflow to collect, organize, store and share the   their abstracts). Some publishers ask that you contact
+articles retrieved by the searches should save the project     them if you wish to export large quantities of articles and
+team’s time. Common reference management software              this may be worth considering. If there is no easy way to
+includes: EndNote and Reference Manager (subscrip-             access the full set of results, it is important to be trans-
+tion), or Zotero (open-source) and Mendeley (freeware).        parent about the possible impact of this when reporting
+The choice of software is likely to be influenced by availa-   the search.
+ble resources and the familiarity of the project team with
+specific software, and may require training. The choice of     Addressing the need for grey literature
+software should ideally be made at the beginning of the        “Grey literature” relates to documents that may be dif-
+project, during the scoping, and is particularly important     ficult to locate because they are not indexed in usual
+if the project team is dispersed across different locations,   bibliographic sources. It has been defined as “manifold
+to ensure that access to references is facilitated at differ-  document types produced on all levels of government,
+ent stages of the work.                                        academics, business and industry in print and electronic
+   The following elements may help when choosing bib-          formats that are protected by intellectual property rights,
+liographic management software:                                of sufficient quality to be collected and preserved by
+                                                               libraries and institutional repositories, but not controlled
+   ••  Ease of transferring references between different       by commercial publishers; i.e. where publishing is not the
+       software packages in case the project team members      primary activity of the producing body” (12th Int Conf
+       do not have access to all packages;                     On Grey Lit. Prague 2010, but see [31]). Grey literature
+   ••  Ability to add extra metadata relevant to the evidence  includes reports, proceedings, theses and dissertations,
+       synthesis (for instance coding around language, geo-    newsletters, technical notes, white papers, etc. (see list
+       graphical location of results reported in each article) on http://www.greynet.org/greysourceindex/document-
+       to assist with study identification or grouping for     types.html). This literature may not be as easily found
+       analysis (including bibliometric analysis);             by internet and bibliographic searches, and may need to
+   ••  Limitations that may pose a problem (e.g. EndNote       be identified by other means (e.g. asking experts) which
+       online is limited to 10,000 references);                may be time-consuming and requires careful planning
+   ••  Possibility to retrieve full-texts, automatically or    [41].
+       semi-automatically;                                        Searches for grey literature might be included in evi-
+   ••  Limitations to the number of users of the software;     dence synthesis for two main reasons: (1) to try to min-
+   ••  Remote access to the software and/or results (to        imize possible publication bias (see “Submitting the
+       share among team members);                              search strategy in the protocol for peer-review”; [23]),
+
+Livoreil et al. Environ Evid (2017) 6:23                                                                          Page 8 of 14
+where ‘positive’ (i.e. confirmative, statistically signifi-     elements (e.g. keywords, databases of important sources
+cant) results are more likely to be published in academic       of grey literature), highlight possible misunderstandings,
+journals [29]; and (2) to include studies not intended for      question the relevance of some options (scope, dates,
+the academic domain, such as practitioner reports and           variety of outcomes, etc.), before the final search is con-
+consultancy documents which may nevertheless contain            ducted. This step aims to ensure that the search will be
+relevant information such as details on study methods or        of the best possible quality and relevance for the future
+results not reported in journal articles often limited by       users of the synthesis. If the scope of the search needs
+word length.                                                    to be restrained due to resource limitations, this is pre-
+                                                                sented to the readers before the review is conducted, and
+Deciding when to stop                                           should minimize misunderstanding and criticisms when
+If time and resources were unlimited, the project team          disclosing the results.
+should be able to identify all published articles relevant
+to the evidence-synthesis question. In the real world this      Part 2—conducting the search
+is rarely possible. Deciding when to stop a search should       Once the search terms and strategy have been reviewed
+be based on explicit criteria and it should be explained        and agreed, the test-list is available as well as the list of
+in the protocol or synthesis. Often, reaching the budget        sources, the project team can conduct the search by
+limit (in terms of project team time) is the key reason         implementing the whole search strategy, by building their
+for stopping the search [41] but justification for stop-        search strings using the PICO or PECO structure, con-
+ping should rely primarily on the acceptability of the          ducting searches in the different sources and testing the
+performance of the search for the project team. Search-         performance of the strategy.
+ing only one database is not considered as adequate [26].         Implementing the search strategy is often a trade-off
+Observing a high rate of article retrieval for the test-list    between exhaustivity (or sensitivity) and precision (or
+should not preclude the conduct additional searches             relevance, specificity) of the articles retrieved by the
+in other sources to check whether new relevant papers           search string(s) [7, 21, 36]. Increasing the exhaustivity of
+are identified. Practically, when searching in electronic       a search usually means that more non-relevant articles
+bibliographic sources, search terms and search strings          are retrieved (the precision is lowered), which may then
+are modified progressively, based on what is retrieved          increase the time spent in assessing articles for relevance.
+at each iteration, using the “test-list” as one indicator of    Developing the optimal search strategy is often an itera-
+performance. When each additional unit of time spent            tive process where results obtained by using the search
+in searching returns fewer relevant references, this may        string are assessed against the test-list and also assessed
+be a good indication that it is time to stop the search [4].    in terms of returning new studies not in the test list, and
+Statistical techniques, such as capture-recapture and           the string subsequently amended by adding or remov-
+the relative recall method, exist to guide decisions about      ing keywords, changing the syntax, and/or using various
+when to stop searching, although to our knowledge they          operators, in order to obtain the best possible results.
+have not been used in CEE evidence-synthesis to date            This will be repeated across the various sources until the
+(reviewed in [13]).                                             project team finds the results acceptable. The steps for
+   For web-searches (e.g. using Google) it is difficult to      searches in the bibliographic sources of indexed docu-
+provide specific guidance on how much searching effort          ments are detailed below.
+is acceptable. In some evidence syntheses, authors have
+chosen a “first 50 hits” approach (hits meaning articles,       Prioritizing bibliographic sources
+e.g. [44]) or a ‘first 200 hits’ approach [34], but the CEE     Glanville et al. [13] suggests that the project team
+does not encourage such arbitrary cut-offs. What should         should start the search using the source where the larg-
+be reported is whether stopping the screening after the         est number of relevant papers are likely to be found,
+first 50 (or more) retrieved articles is justified by a decline and subsequent searches can be constructed with the
+in the relevance of new articles. As long as relevant arti-     aim to complement these first results. Sources contain-
+cles are being identified, the project team should ideally      ing abstracts allow greater understanding of relevance
+keep on screening the list of results.                          and should be given priority. Combined with the use of
+                                                                the test-list, ordering the use of sources may allow to
+Submitting the search strategy in the protocol                  find the largest number of relevant articles early dur-
+for peer‑review                                                 ing the search, which is useful when time and resources
+Publishing the search strategy in the evidence synthe-          are limited. Searching the grey literature can be can be
+sis protocol enables peer reviewers and stakeholders            conducted in parallel with searches in sources of indexed
+to provide input at an early stage and to detect missing        documents.
+
+Livoreil et al. Environ Evid (2017) 6:23                                                                                 Page 9 of 14
+Building the search string                                            ••  Phrase searching Some database interfaces allow
+The list of search terms needs to be combined into search                 words to be grouped and searched as phrases by
+strings that retrieve as many relevant results as possi-                  using, for example, double quotation marks. For
+ble (exhaustiveness) while also limiting the number of                    example, “organic farming”, “tropical forest”.
+irrelevant results (precision). Search strings needs to be            ••  Lemmatization Lemmatization involves the auto-
+tailored to the search engine of each electronic biblio-                  mated reduction of words to their respective “lem-
+graphic source to be searched (e.g. [19]). To build up the                mas” (roots). For example, the lemma for the words
+string, the team should rely on the syntax that is available              “computation” and “computer” is the word “compute”.
+in the help pages of the bibliographic sources, including                 When using defense as a search term, it would also
+the use of Boolean operators, where applicable.                           find variants such as defence. Lemmatization can
+                                                                          reduce or eliminate the need to use wildcards to
+Elements of syntax                                                        retrieve plurals and variant spellings of a word, but
+The search syntax is the set of options provided in the                   it may also retrieve irrelevant variants (e.g. cite as a
+interface of the bibliographic source to achieve searches.                search term may retrieve articles with citing, cities,
+The syntax options can usually be found in the help pages                 cited and citation, Web of Science helpfile). Web of
+of the bibliographic source interface.                                    Science automatically applies lemmatization rules
+   Typical syntax features are listed below and will vary by              to Topic and Title search queries. This facility is not
+interface:                                                                available in all interfaces.
+   ••  Wildcards and truncation Symbols used within                Boolean operators
+       words or at the end of the root of the word to sig-         Boolean operators (AND, OR, NOT) specify logic func-
+       nal that the spelling may vary. Wildcards are useful        tions. They are used to group search terms into blocks
+       within words to capture British and US spelling vari-       according to the PICO or PECO elements, so that the
+       ants, for example ‘behavi?r’ in some interfaces will        search is structured and easy to understand, review and
+       retrieve records containing ‘behaviour’ as well as          amend, if necessary. AND and OR are at the core of the
+       ‘behavior’. As well as wildcards within words, many         structure of the search string. Using AND decreases the
+       interfaces offer truncation options at the end of word      number of articles retrieved whilst using OR enlarges
+       stems. Truncation can help with identifying words           it, so combining these two operators will change the
+       with plural and various grammatical forms. For              exhaustivity and precision of the search.
+       example, ‘forest*’ in some bibliographic sources will          OR is used to identify bibliographic articles in which
+       retrieve records containing forest, forests, forestry, for- at least one of the search terms is present. OR is used
+       estal… Some options can also be further defined, for        to combine terms within one of the PICO element, for
+       example in the Ovid interface ‘forest$1’ can be used        example all search terms related to the Population. Using
+       to restrict searches to words with no or one extra          “forest* OR woodland* OR mangrove*” will identify doc-
+       character.                                                  uments mentioning at least one of the three search terms.
+   ••  Parentheses Are used, where provided, to group                 AND is used to narrow the search as it requires articles
+       search terms together (e.g. a set of synonyms linked        to include at least one search term from the lists given
+       by a Boolean operator, see below) and they determine        on each side of the AND operator. Using AND identi-
+       the sequence in which search operations will be car-        fies articles which contain, for example, both aa Popula-
+       ried out by the interface. Search string operations         tion AND an Intervention (or Exposure) search term.
+       within parentheses are, typically, carried out before       For instance, a search about a population of butterflies
+       those that are not enclosed within parentheses. In          exposed to various toxic compounds and then observed
+       complex search strings, nesting of groups of search         for the outcomes of interest can be structured as three
+       terms within different sets of parentheses may be           sets of search terms combined with AND as follows
+       helpful, and the search operation is then performed         [38]: “(lepidopter* OR butterfl* OR coleopter* OR beetl*)
+       first on the search terms that are within the inner-        AND (toxi* OR cry* OR vip3* OR Bacillus thuringiensis*
+       most set of parentheses. In this sense, parentheses         OR bt) AND (suscept* OR resist*)”. Truncating words at
+       as used in search strings function in a similar way to      3 characters (e.g. cry* in this example) may find lots of
+       those used in mathematical calculations. For exam-          irrelevant words and may not be recommended.
+       ple: (road*OR railway*) AND (killing OR mortality)             NOT is used to exclude specified search terms or PICO
+       (for more explanations about OR, see Boolean opera-         elements from search results. However, it can have unan-
+       tors below).                                                ticipated results and may exclude relevant records. For
+
+Livoreil et al. Environ Evid (2017) 6:23                                                                          Page 10 of 14
+this reason, it should not usually be used in search strat-     electronic databases (e.g. Web of Science) to refine
+egies for evidence synthesis. For example, searching for        the results of the search by categories (e.g. discipline,
+‘rural NOT urban’ will remove records with the word             research areas) in order to discard some irrelevant arti-
+‘urban’, but will also remove records which mention both        cles prior to extracting the final pool of articles and thus
+‘rural’ AND ‘urban’.                                            lower the number of articles to be screened. There is a
+   Proximity operators (e.g. SAME, NEAR, ADJ, depend-           real risk in using such tools, as removing articles based
+ing on the source) can be used to constrain the search by       on one irrelevant category may remove relevant papers
+defining the number of words between the appearance             that also belong to another relevant category. This can
+of two search terms. For example, in the Ovid interface         occur because categories characterise the journal rather
+“pollinators adj4 decline*” will find records where the two     than each article and because we are relying on the cat-
+search terms “pollinators” and “decline” are within four        egories being applied consistently. As a consequence,
+words of each other. Proximity operators are more pre-          using refining tools provided by electronic bibliographic
+cise than using AND, so may be helpful when a large vol-        sources should be done with great caution and only tar-
+ume of search results are being returned.                       get categories that are strongly irrelevant for the ques-
+                                                                tion (e.g. excluding PHYSICS APPLIED, PERIPHERAL
+Assessing retrieval performance                                 VASCULAR DISEASE or LIMNOLOGY in a search
+Checking search results against the test-list can help to       about reintroduction or release of carnivores). Using
+improve a search strategy, using an iterative and com-          these tools on the results of a search should not change
+parative process. If some articles in the test-list are not     the number of articles of the test list that have been suc-
+identified by the search strategy, the project team should      cessfully retrieved. The test-list is again an indicator of
+consider why. Changing the search string (adding or             the performance of the strategy when using such tools. If
+removing search terms for instance, or checking the com-        the project team do decide to use such tools, they should
+bination of PICO/PECO elements being used) may help             report all details of tools used to refine the outputs of
+to find those articles. If any of the articles in the test-list the search prior to screening in the evidence synthesis
+are not indexed in the searched electronic bibliographic        protocol and discuss the limitations of the approach they
+sources, additional bibliographic sources could be added        have used.
+to improve coverage. More generally, several sources will
+be searched to ensure retrieval of all the papers of the        Searching for grey literature
+test-list (see above).                                          More and more documents are being indexed including
+   The project team should report the performance of the        those in the grey literature [31]. Nevertheless, conducting
+search strategy in the evidence synthesis report (e.g. as a     a search for grey literature requires time and the authors
+percentage of the test-list finally retrieved by the search     should assess the need to include it or not in the synthe-
+strategy when applied in each electronic bibliographic          sis [18]. Repeatability and susceptibility to bias should be
+source, e.g. [19, 45]). A high percentage is one indica-        assessed and reported as much as possible.
+tor that the search has been optimized and the conclu-
+sions of the review rely on a range of available relevant       Bibliographic tools for grey literature
+articles that reflect at least those provided by the test-list. There are some databases or platforms which reference
+A low percentage would indicate that the conclusion of          grey literature. INIST (Institute for Scientific and Techni-
+the review would be susceptible to change if other docu-        cal Information, France) holds the European OpenSIGLE
+ments are added.                                                resource (opensigle.inist.fr), which provides access to all
+                                                                the SIGLE records (System for Information on Grey Lit-
+Refining the results                                            erature), new data added by EAGLE members (the Euro-
+The finalised search extracts a first pool of articles that     pean Association for Grey Literature Exploitation) and
+is a mixture of relevant and irrelevant articles, because       information from Greynet. There are also some programs
+the search, in trying to capture the maximum number             which can help to make web-based searches for grey lit-
+of relevant papers, inevitably captures other articles          erature more transparent, a practice that is part of “scrap-
+that do not attempt to answer the question. Screen-             ing methods” [17]. Examples of sources available for grey
+ing the outputs of the search for eligibility will be done      literature:
+by examining the extracted papers at title, abstract
+and full-text [12]. If the volume of search results is too         ••  BASE (https://www.base-search.net) allows the
+large to process within available resources, the project               selection of document types and provides the option
+team may consider using some tools provided by some                    to focus on unpublished material.
+
+Livoreil et al. Environ Evid (2017) 6:23                                                                           Page 11 of 14
+   ••  Opengrey.eu provides access to more than 700,000        Frampton, pers. comm.) or when resources are limited
+       bibliographical references of grey literature produced  [10]. This may also help enable access to articles written
+       in Europe.                                              in languages other than English.
+   ••  Zenodo is an open-access repository initially linked to
+       European projects. It welcomes research outputs from    World‑wide web
+       all over the world and all disciplines, including grey  Search engines (e.g. Google, Yahoo) cannot index the entire
+       literature. It allows search by keywords and includes   web, and they differ widely in the order of their results. They
+       publications, thesis, datasets, figures, posters, etc.  all have their own algorithms favouring different criteria and
+                                                               both retrieval and ranking of results may be affected by the
+   Examples of sources providing access to theses and dis-     location, the device used to search (mobile, desktops), the
+sertations include: DART-Europe (free); Open Access            business model of the search engine and commercial pur-
+Theses and Dissertations (free); ProQuest Dissertations        poses. It is important to use more than one search engine to
+and Theses (http://pqdtopen.proquest.com/, upon sub-           increase chance to identify relevant papers. Google Scholar
+scription); OAISTER; EThOS (British Library, free);            is often used to scope for existing relevant literature but it
+WorldCat.org (free); OpenThesis.org (free, dissertations/      cannot be used as a standalone resource for evidence syn-
+theses, but does include other types of publications).         thesis (see “Types of sources”; [6, 19]).
+Further resources can be found at http://www.ndltd.org/
+resources/find-etds. Individual universities frequently        Additional approaches: hand‑searching, snowballing
+provide access to their thesis collections.                    and citation searching
+                                                               Hand-searching is a traditional (pre-digital) mode of
+Websites of organisations and professional networks            searching which involves looking at all items in a bib-
+Many organisations and professional networks make              liographic source rather than searching the publication
+documents freely available through their web pages, and        using search terms. Hand-searching can involve thor-
+many more contain lists of projects, datasets and refer-       oughly reading the tables of contents of journals, meeting
+ences. The list of organisations to be searched is depend-     proceedings or books [13].
+ent upon both the subject of the evidence synthesis and           Snowballing and citation searching (also referred to as
+any regional focus (see examples in [5, 27, 34, 45]). Many     ‘pearl growing’, ‘citation chasing’, ‘footnote chasing’, ‘refer-
+websites have a search facility but their functionality        ence scanning’, ‘checking’ or ‘reference harvesting’) refer
+tends to be quite limited and must be taken into consid-       to methods where the reference lists contained within
+eration when planning for the time allocated to such task.     articles are used to identify other relevant articles [42].
+   Examples:                                                   Citation searching (or ‘reverse snowballing’) uses known
+                                                               relevant articles to identify later publications which have
+   ••  TROPENBOS is a non-governmental agency cre-             cited those papers on the assumption that such publica-
+       ated in the Netherlands in 1986. It contributes to the  tions may be relevant for the review.
+       establishment of research programmes in tropical           Using these methods depends on the resources available
+       forestry and it has its own website with many docu-     to the project team (access to sources, time). Hand-search-
+       ments, including proceedings of workshops, books        ing is rarely at the core of the search strategy, but snowball-
+       and articles that contain useful datasets and refer-    ing and citation searching are frequently used (e.g. [32]).
+       ences. http://www.tropenbos.org.                        Recent developments in some bibliographic sources auto-
+   ••  Databases such as ScienceResearch.com and               matically highlight and allow the user to link, to cited and
+       AcademicInfo.net, contain links to hand-selected        related articles when viewing (e.g. when scanning Elsevier
+       sites of relevance for a given topic or subject area    journals, or when downloading full-text PDF). This may
+       and are particularly useful when searching for subject  be difficult to handle as those references may or may not
+       experts or pertinent organisations, helping to focus    have been found by the systematic approach using search
+       the searching process and ensure relevance.             strings and may have to be reported as additional articles.
+                                                               The use of those methods and their outputs should be
+Asking authors, experts and the project team                   reported in detail in the final evidence-synthesis.
+Direct contact with knowledge-holders and other stake-
+holders in networks and organisations may be very              Part 3—managing references and reporting the
+time-consuming but may allow collection of very rel-           search
+evant articles [2, 43]. This can be especially useful to       Good documenting, reporting and archiving of searches
+help access older or unpublished data sources, when            and their resulting articles may save a substantial amount
+the research area is sensitive to controversy (e.g. GMO,       of time and resource by reducing duplication of results
+
+Livoreil et al. Environ Evid (2017) 6:23                                                                      Page 12 of 14
+and enabling the search be re-assessed or amended easily     Reporting the final search strategy and findings
+[21]. Good reporting ensures that any of the limitations     Although the search strategy will have been listed in the
+of the search is explicit and hence allows assessment of     protocol, the searches as finally run should be reported
+any possible consequences of those limitations on the        in the final evidence synthesis report, possibly as addi-
+synthesis’ findings. Good archiving enables the project      tional files or supplementary information, since the
+team to respond the queries about the search process         search as finally run may be different from the protocol.
+efficiently. If a project team is asked why they did not     The final synthesis reports the results and performance
+include an article in their review, for example, proper      of the search. Minor amendments to the protocol (e.g.
+archiving of the workflow will allow the team to check       adding or removing search terms) should be reported
+whether the article was detected by the search, and if it    in the final synthesis, but the search should not be sub-
+was, why it was discarded.                                   stantially changed once approved by reviewers (but see
+   Good documenting, reporting and archiving has two         “Part 4”).
+main aspects: (1) the clear recording of the search strat-      Current details of what should be reported in the
+egy and the results of all of the searches (records) and (2) protocol and the final evidence synthesis report are
+the way the search is reported in the evidence synthe-       described in the Guidelines for authors available at:
+sis protocol and final report. Reporting standards keep         http://environmentalevidencejournal.biomedcentral.
+improving (see a comparative study in [33]) and many         com/submission-guidelines.
+reporting checklists exist to help project teams [39],          The project team may report the details of each search
+although none are available specifically for environmen-     string and how it was developed (e.g. [5]) and whether
+tal evidence-synthesis at the time of writing.               the strategy has been adjusted to the various databases
+                                                             consulted (e.g. [19, 27]) or developed in several languages
+Keeping track of the search strategy and recording results   (e.g. [27]). Limitations of the search should be reported
+The project team should document its search methodol-        as much as possible, including the range of languages,
+ogy in order to be transparent and to be able to justify     types of documents, time-period covered by the search,
+their use of a search term or the choice of resources.       date of the search (e.g. [27, 45]), and any unexpected dif-
+Enough detail should be provided to allow the search         ficulty that impacted the search compared to what was
+to be replicated including the name of the database, the     described in the protocol (e.g. end of access, [19]).
+interface, the date of the search and the full search with
+all the search terms, which should be reported exactly       Part 4—updating and amending searches
+as run [26]. The search history and number of articles       From the moment a search is completed, new articles
+retrieved by each search should be recorded in a log-        may be published as research effort is dynamic. Updat-
+book or using screenshots and may be reported in the         ing or amending a search may be conducted by the same
+final evidence synthesis (e.g. as supplementary mate-        project team that undertook the initial searches, but this
+rial). The number of articles retrieved and screened and     is not always the case. Therefore, it is important that the
+discarded should be recorded in a PRISMA diagram and         original searches are well documented and, if possible,
+this usually accompanies the reporting of the search and     libraries (e.g. EndNote databases) of retrieved articles
+eligibility screening stages within an evidence-synthesis    are saved (and, if possible, reported or made available) to
+report (for an example of PRISMA see Frampton et al.         ensure that new search results can be differentiated from
+[12]).                                                       previous ones, as easily as possible.
+   For internet searches, reviewers should record and           There are two main reasons why a search needs to be
+report the URL, the date of the search, the search strat-    changed. The first may occur when the evidence synthe-
+egy used (search strings with all options making the         sis extends over a long time period (for instance more
+search replicable), as well as the number of results of      than 2 years) and the publication rate of relevant docu-
+the search, even if this may not be easily reproduc-         ments on the topic is high. In this case, the conclusions
+ible. Saving search results as HTML pages (possibly as       of the review may be out of date even before it is pub-
+screenshots to allow archiving that can be perused later     lished. It is recommended that the search is rerun using
+even if the webpage has changed in the meantime) pro-        the same search strings [3] for the time period elapsed
+vides transparency for this type of search [20]. Record-     subsequent to the end of the initial search. The second
+ing searches in citation formats (e.g. RIS files) make       case occurs when the evidence synthesis final report has
+them compatible with reference or review management          been already published, and there is a need for revision
+software and allow archiving for future use (Haddaway,       because new results or developments have been pub-
+pers. comm.).                                                lished and need to be taken into account. In this case the
+
+Livoreil et al. Environ Evid (2017) 6:23                                                                                                               Page 13 of 14
+search protocol should be checked to identify whether                             thank Alison Specht (CESAB, France), for her valuable contribution in final edit-
+                                                                                  ing of English language and improvement of clarity of this article.
+new search terms need to be added or additional sources
+need to be searched. Deciding whether a new protocol                              Competing interests
+needs to be published will depend on the extend of the                            The authors declare that they have no competing interests.
+amendments and may be discussed with the Collabora-                               Funding
+tion for Environmental Evidence.                                                  CEE provided financial support to Oxford Martin School, University of Oxford,
+   There are a number of issues that need to be considered                        to support a 2-day workshop to discuss and revise the manuscript among
+                                                                                  co-editors of the CEE guidelines (GF, GP, BL). CEE provided financial support for
+when updating a search:                                                           the publication of this paper in Environmental Evidence.
+   ••  Do you have access to the original search strings,                         Publisher’s Note
+        sources, and can you read these files (proper software                    Springer Nature remains neutral with regard to jurisdictional claims in pub-
+        available)?                                                               lished maps and institutional affiliations.
+   ••  Was the original search protocol adequate and appro-                       Received: 20 January 2017 Accepted: 15 July 2017
+        priate or does it need revising?
+   ••  Do you know when the initial search took place and
+        which time boundaries were set up at that time? If
+        not, can you contact the authors to get those details?
+                                                                                  References
+   ••  If relevant, do you have similar details regarding
+                                                                                   1. Avenell A, Handoll H, Grant A. Lessons for search strategies from a sys-
+        searches in grey literature?                                                   tematic review, in The Cochrane Library, of nutritional supplementation
+   ••  Do you have access to the same sources of documents                             trials in patients after hip fracture. Am J Clin Nutr. 2001;73(3):505–10.
+                                                                                   2. Bayliss HR, Beyer FR. Information retrieval for ecological syntheses. Res
+        (e.g. database platforms), including institutional web-
+                                                                                       Synth Methods. 2015;6(2):136–48.
+        sites, subscriptions?                                                      3. Bayliss HR, Haddaway NR, Eales J, Frampton GK, James KL. Updating and
+   ••  Will the same languages be used?                                                amending systematic reviews and systematic maps in environmental
+                                                                                       management. Environ Evid. 2016;5(1):20.
+                                                                                   4. Booth A. How much searching is enough? Comprehensive versus
+   Then the revised (or original) strategy may be run [3].                             optimal retrieval for technology assessments. Int J Technol Assess Health
+As with the original searches, it is important to docu-                                Care. 2010. doi:10.1017/s0266462310000966.
+                                                                                   5. Bottrill M, Cheng S, Garside R, Wongbusarakum S, Roe D, Holland MB,
+ment clearly any updates to the searches, their dates, and                             Edmond J, Turner WR. What are the impacts of nature conservation
+any reasons for changes to the original searches, most                                 interventions on human well-being: a systematic map protocol. Environ
+typically in an appendix. If the new search differs from                               Evid. 2014;3:16.
+                                                                                   6. Bramer WM, Giustini D, Kramer BMR, Anderson PF. The comparative recall
+the initial one, a new protocol may need to be submitted                               of Google Scholar versus PubMed in identical searches for biomedical
+before the amendment is conducted [3].                                                 systematic review: a review of searches used in systematic reviews. Syst
+                                                                                       Rev. 2013;2:115.
+Authors’ contributions                                                             7. CEE (Collaboration for Environmental Evidence). Guidelines for systematic
+BL led the writing and conducted Skype exchanges with co-authors who all               review and evidence synthesis in environmental management. Version
+worked voluntarily and from a distance. GF, GP and BL as co-editors of the             4.2. CEE; 2013.
+new chapters of the CEE guidelines drafted the table of content. GF revised        8. Corlett RT. Trouble with the gray literature. Biotropica. 2011;43(1):3–5.
+the contents at key stages to ensure compatibility and consistency with            9. Dickersin K. Publication bias: recognizing the problem, understanding
+other chapters of the CEE Guidelines for Systematic Review in Environmental            its origins and scope, and preventing harm. In: Rothstein HR, Sutton
+Evidence currently under writing. All authors read and approved the final              AJ, Borenstein M, editors. Publication bias in meta-analysis: prevention,
+manuscript.                                                                            assessment, and adjustments. London: Wiley; 2005. p. 11–3.
+                                                                                   10. Doerr ED, Dorrough J, Davies MJ, Doerr VAJ, McIntyre S. Maximising
+Author details                                                                         the value of systematic reviews in ecology when data or resources are
+1
+  Foundation for Research ON Biodiversity (FRB), Paris, France. 2 York Health          limited. Austral Ecol. 2015;40(1):1–11.
+Economics Consortium, University of York, York, UK. 3 Mistra EviEM, Stockholm      11. EFSA (European Food and Safety Authority). Application of systematic
+Environment Institute, Stockholm, Sweden. 4 Centre for Evidence‑Based                  review methodology to food and safety assessments to support decision
+Conservation, Bangor University, Bangor, UK. 5 Evidence Synthesis Team, Exeter         making. EFSA J. 2010;8(6):1637.
+Medical School, University of Exeter, Exeter, UK. 6 Université Pierre & Marie      12. Frampton GK, Livoreil B, Petrokofsky G. Eligibility screening in evidence
+Curie, Paris, France. 7 Institute of Health and Society, Newcastle University,         synthesis of environmental management topics. Environ Evid. 2017 (in
+Newcastle, UK. 8 Centre for International Forestry, Bogor, Indonesia. 9 Biodiver-      press).
+sity Institute, University of Oxford, Oxford, UK. 10 Southampton Health Technol-   13. Glanville J. Searching bibliographic databases. In: Cooper HC, Hedges LV,
+ogy Assessments Centre, Faculty of Medicine, University of Southampton,                Valentine JC, editors. The handbook of research synthesis and meta-
+Southampton, UK.                                                                       analysis. 3rd ed. New York: Russell Sage Foundation; 2017.
+                                                                                   14. Giustini D, Boulos MNK. Google Scholar is not enough to be used alone
+Acknowledgements                                                                       for systematic reviews. Online J Public Health Inf. 2013;5(2):1–9.
+BL sincerely thanks the co-authors for their involvement in a long endeavour       15. Grindlay DJC, Brennan ML, Dean RS. Searching the veterinary literature: a
+based on voluntary time. It has been a great experience to try to merge differ-        comparison of the coverage of veterinary journals by nine bibliographic
+ent experiences and understanding of the challenges and tools of systematic            databases. J Vet Med Educ. 2012;39(4):404–12.
+searches from different disciplines. We thank the Editor and anonymous             16. Gurevitch J, Hedges LV. Statistical issues in ecological meta-analyses. Ecol-
+reviewers for their constructive comments on the submitted manuscript. We              ogy. 1999;80:1142–9.
+
+Livoreil et al. Environ Evid (2017) 6:23                                                                                                             Page 14 of 14
+17. Haddaway NR. The use of web-scraping software in searching for grey          34. Ojanen M, Miller D, Zhou W, Mshale B, Mwangi E, Petrokovsky G. What are
+    literature. Grey J. 2015;11(3):186–90.                                           the environmental impacts of property rights regimes in forests, fisheries
+18. Haddaway NR, Bayliss HR. Shades of grey: two forms of grey literature            and rangelands? A systematic review protocol. Environ Evid J. 2014;3:19.
+    important for reviews in conservation. Biol Conserv. 2015. doi:10.1016/j.    35. Ortega JL. Academic search engines: a quantitative outlook. Oxford:
+    biocon.2015.08.018.                                                              Chandos Publ; 2014.
+19. Haddaway NR, Collins AM, Coughlin D, Kirk S. The role of Google Scholar      36. Petticrew M, Roberts H. Systematic reviews in the social sciences. A
+    in evidence reviews and its applicability to grey literature searching. PLoS     practical guide. Oxford: Blackwell; 2006.
+    ONE. 2015;10(9):e0138237.                                                    37. Pham B, Klassen TP, Lawson ML, Moher D. Language of publication
+20. Haddaway NR, Collins AM, Coughlin D, Kirk S. A rapid method to increase          restrictions in systematic reviews gave different results depending on
+    transparency and efficiency in web-based searches. Environ Evid.                 whether the intervention was conventional or complementary. J Clin
+    2017;6:1. doi:10.1186/s13750-016-0079-2.                                         Epidemiol. 2005;58(8):769–76.
+21. Higgins JP, Green S. Cochrane handbook for systematic reviews of inter-      38. Priesnitz KU, Vaasen A, Gathmann A. Baseline susceptibility of different
+    ventions. Chichester: Wiley; 2011.                                               European lepidopteran and coleopteran pests to Bt proteins expressed
+22. Holst R, Funk CJ. State of the art of expert searching: results of a Medical     in Bt Maize: a systematic review. Environ Evid. 2016. doi:10.1186/
+    Library association survey. J Med Libr Assoc. 2005;93(1):45–52.                  s13750-016-0077-4.
+23. Hopewell S, McDonald S, Clarke MJ, Egger M. Grey literature in meta-         39. Rader T, Mann M, Stansfield C, Cooper C, Sampson M. Methods for docu-
+    analyses of randomized trials of health care interventions. Cochrane             menting systematic review searches: a discussion of common issues. Res
+    Database Syst Rev. 2007. doi:10.1002/14651858.MR000010.pub3.                     Synth Methods. 2014;5:98–115.
+24. James KL, Randall NP, Haddaway NR. A methodology for systematic map-         40. Rothstein HR, Sutton AJ, Borenstein M. Chapter 1. Publication bias in
+    ping in environmental sciences. Environ Evid. 2016;5:7.                          meta-analysis. In: Rothstein HR, Sutton AJ, Borenstein M, editors. Publica-
+25. Juni P, Holenstein F, Sterne J, Bartlett C, Egger M. Direction and impact        tion bias in meta-analysis—prevention, assessment and adjustments.
+    of language bias of controlled trials: an empirical study. Int J Epidemiol.      London: Wiley; 2005. p. 2–7.
+    2002;31(1):115–23.                                                           41. Saleh AA, Ratajeski MA, Bertolet M. Grey literature searching for health
+26. Kugley S, Wade A, Thomas J, Mahood Q, Klint-Jørgensen AM, Hammer-                sciences systematic reviews: a prospective study of time spent and
+    strøm K, Sathe N. Searching for studies: a guide to information retrieval        resources utilised. Evid Based Libr Inf Pract. 2014;9(3):28–50.
+    for Campbell Systematic Reviews. Campbell Syst Rev. 2016 (Supplement         42. Sayers A. Tips and tricks in performing a systematic review. Br J Gen Pract.
+    1).                                                                              2007;57(542):759.
+27. Land M, Granéli W, Grimwall A, Hoffmann CC, Mitsch WJ, Tonderski KS,         43. Schindler S, Livoreil B, Pinto IS, Araujo RM, Zulka KP, Pullin AS, Santamaria
+    Verhoeven JTA. How effective are created or restored freshwater wetlands         L, Kropik M, Fernandez-Mendez P, Wrbka T. The network BiodiversityK-
+    for nitrogen and phosphorus removal? A systematic review protocol.               nowledge in practice: insights from three trial assessments. Biodivers
+    Environ Evid. 2013;2:16.                                                         Conserv. 2016;25(7):1301–18.
+28. Leimu R, Koricheva J. Cumulative meta-analysis: a new tool for detection     44. Smart JM, Burling D. Radiology and the Internet: a systematic review of
+    of temporal trends and publication bias in ecology. Proc R Soc B Biol Sci.       patient information resources. Clin Radiol. 2001;56(11):867–70.
+    2004. doi:10.1098/rspb.2004.2828.                                            45. Söderström B, Hedlund K, Jackson LE, Kätterer T, Lugato E, Thomsen IK,
+29. Leimu R, Koricheva J. What determines the citation frequency of ecologi-         Jørgensen HB. What are the effects of agricultural management on soil
+    cal papers? Trends Ecol Evol. 2005;20(1):28–32.                                  organic carbon (SOC) stocks? Environ Evid. 2014;3:2.
+30. Lortie CJ, Aarssen LW, Budden AE, Koricheva JK, Leimu R, Tregenza T.         46. Song F, Parekh S, Hooper L, Loke YK, Ryder J, Sutton AJ, Hing C, Kwok CS,
+    Publication bias and merit in ecology. Oikos. 2007;116:1247–53.                  Pang C, Harvey I. Dissemination and publication of research findings: an
+31. Mahood Q, van Eerd D, Irvin E. Searching for grey literature for systematic      updated review of related biases. Health Technol Assess. 2010;14(8):iii,
+    reviews: challenges and benefits. Res Synth Methods. 2014;3:221–34.              ix–xi.
+32. McKinnon MC, Cheng SH, Dupre S, Edmond J, Garside R, Glew L, Holland         47. Zhang L, Sampson M, McGowan J. Reporting the role of expert searcher
+    MB, Levine E, Masuda YJ, Miller DC, Oliveira I, Revenaz J, Roe D, Shamer S,      in cochrane reviews. Evid Based Libr Inf Pract. 2006;1(4):3–16.
+    Wilkie D, Wongbusarakum S, Woodhouse E. What are the effects of nature
+    conservation on human well-being? A systematic map of empirical
+    evidence from developing countries. Environ Evid. 2016;5:8.
+33. Mullins MM, DeLuca JB, Crepaz N, Lyles CM. Reporting quality of search
+    methods in systematic reviews of HIV behavioural interventions (2000–
+    2010); are the searches clearly explained, systematic and reproducible?
+    Res Synth Methods. 2014;5:116–30.
+                                                                                     Submit your next manuscript to BioMed Central
+                                                                                     and we will help you at every step:
+                                                                                       • We accept pre-submission inquiries
+                                                                                       • Our selector tool helps you to find the most relevant journal
+                                                                                       • We provide round the clock customer support
+                                                                                       • Convenient online submission
+                                                                                       • Thorough peer review
+                                                                                       • Inclusion in PubMed and all major indexing services
+                                                                                       • Maximum visibility for your research
+                                                                                       Submit your manuscript at
+                                                                                       www.biomedcentral.com/submit
+

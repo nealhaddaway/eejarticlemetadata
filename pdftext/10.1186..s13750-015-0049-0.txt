@@ -1,0 +1,1465 @@
+Haddaway et al. Environ Evid (2015) 4:23
+DOI 10.1186/s13750-015-0049-0
+                                                                                                                      Environmental Evidence
+  SYSTEMATIC MAP                                                                                                                                      Open Access
+What are the effects of agricultural
+management on soil organic carbon
+in boreo‑temperate systems?
+Neal R. Haddaway2*, Katarina Hedlund2, Louise E. Jackson3, Thomas Kätterer4, Emanuele Lugato5,
+Ingrid K. Thomsen6, Helene Bracht Jørgensen2 and Bo Söderström1
+  Abstract
+  Background: Soils contain the largest stock of organic carbon (C) in terrestrial ecosystems and changes in soil C
+  stocks may significantly affect atmospheric CO2. A significant part of soil C is present in cultivated soils that occupy
+  about 35 % of the global land surface. Agricultural intensification has led to practices that may decrease soil organic
+  carbon (SOC), and agricultural management has the potential to be a powerful tool for climate change mitigation
+  and increased soil fertility through SOC sequestration. Here, we systematically map evidence relating to the impacts
+  of agricultural management on SOC in arable systems of the warm temperate and snow climate zones (subset of
+  temperate and continental climates: Köppen–Geiger Classification).
+  Methods: Seventeen academic citation databases, 3 search engines and 25 organisational websites were searched
+  for literature (academic and grey) using search strings translated into a range of languages relevant to the included
+  geographical scope of the topic. Stakeholders were also contacted with requests for evidence. Bibliographic checking
+  of 127 relevant reviews was undertaken to check for missing articles. Screening for relevance against predefined inclu-
+  sion criteria was undertaken at title, abstract and full text levels according to a published protocol. All relevant studies
+  were coded in a meta-database describing the citation, study settings, methods and quantitative data available (with-
+  out extraction of the study findings). A basic critical appraisal of included studies was also performed. A geographical
+  information system (GIS) presenting the map database on a physical, online map was also produced.
+  Results: A total of 735 studies from 553 articles was included in the systematic map database. Studies investigated
+  one or more of five broad categories of interventions: amendments (286 studies), crop rotations (238), fertilisers (307),
+  tillage (306), and multiple interventions (55). Studies were identified from across the includible climate zones, with the
+  notable underrepresentation from Russia. The majority of studies employed only point sampling of SOC, low levels
+  of true spatial replication and moderate study periods (i.e. 10–20 years). Missing key methodological information was
+  found in 28 % of studies.
+  Conclusions: Long-term study sites identified in this map provide a useful addition to existing databases of long-
+  term experiments (LTEs). The identification of knowledge gaps, such as studies from Russia, also identify a need for
+  improved cataloguing or reporting of existing and on-going research. This systematic map database represents a use-
+  ful resource for decision-makers wishing to identify knowledge gaps warranting further primary research, knowledge
+  gluts warranting further secondary research, and deficiencies and best practice in research methodology. In addition
+  to the systematic map database, we have also produced two further resources: (1) a database of LTE sites investigat-
+  ing agricultural management and SOC, and (2) a database of reviews and meta-analyses. To our knowledge, this is the
+*Correspondence: neal.haddaway@eviem.se; neal_haddaway@hotmail.
+com
+2
+  Department of Biology, Lund University, 223 62 Lund, Sweden
+Full list of author information is available at the end of the article
+                                              © 2015 Haddaway et al. This article is distributed under the terms of the Creative Commons Attribution 4.0 International License
+                                              (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium,
+                                              provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license,
+                                              and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/
+                                              publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+
+Haddaway et al. Environ Evid (2015) 4:23                                                                              Page 2 of 29
+   first systematic review or map that utilises a GIS for presentation of an evidence base, which we believe substantially
+   increases the utility of the map outputs.
+   Keywords: Soil carbon, Carbon storage, Carbon sequestration, Conservation agriculture, Agricultural practices, Long-
+   term, Amendments, Crop rotation, Fertilisation, Tillage
+Background                                                         The work herein focuses on the effects of agricultural
+Soils contain the largest stock of organic carbon (C) in           cropland management on SOC and how the soil C can be
+terrestrial ecosystems (2500 Pg of C to 2 m depth); about          increased or depleted by different types of management
+double that stored in the atmosphere [1–3]. As a result,           techniques used across temperate agricultural regions.
+changes in soil C stocks may significantly affect the con-         The net effect of land-use change or soil management
+centration of carbon dioxide (CO2) in the atmosphere. A            practices on GHG budgets should be considered in a
+significant part of this carbon (12 %) is present in agricul-      broader context [21] and deserves a more complete life
+tural soils [3] that occupy about 35 % of the global land          cycle assessment approach [22] than what is intended
+surface [4]. Agricultural soils are often depleted in SOC,         here.
+which means that they have a potential to sequester soil              The evidence of management on organic carbon in
+organic carbon (SOC) [5]. Agricultural management has              agricultural soils is extensive and links to soil fertil-
+the potential to be a powerful tool for climate change             ity, erosion prevention, nutrient retention and above
+mitigation through C sequestration in soil [6, 7]. Pres-           and below-ground biodiversity [23–25]. SOC responds
+sures from: international development of food and feed-            slowly to changes in agricultural management [26],
+stock markets; increasing global population; and, changes          which means that these changes require many years to be
+towards more bio-based and fossil-free economies have              detectable due to the large amounts SOC present in the
+led to the intensification of agriculture, which has been          soil profile compared to the much smaller proportion of
+achieved by simplified crop rotations, increased soil till-        organic C being sequestered or lost from the soil annu-
+age, and a lack of organic amendments all of which may             ally [27]. As a result long-term experiments are required
+decrease SOC [8–10]. The combined effects of actions               to quantify the effect of management on SOC. Despite
+mitigating climate change by increasing area of crops for          this restriction, a substantial number of studies have been
+bioenergy may concurrently deplete soil carbon stocks              performed and a number of traditional literature reviews
+and intensify climate change.                                      have been published [7, 28–31]. For example, Gonzalez-
+   Despite the different reasons for C loss, there are             Sanchez et al. [7] concluded from a meta-analysis of data
+measures in addition to land-use change that can poten-            from 29 publications from Spain that some forms of con-
+tially slow down or reverse the trend for C depletion in           servation agriculture (i.e., no tillage and implementing
+cropland. Several measures have been proposed in the               cover crops) can have positive effects on SOC. Govaerts
+literature: (1) crop rotations including, for example,             et al. [30] reviewed three aspects of conservation agricul-
+leys [11] and cover crops [12], (2) organic amendments             ture: reduction in tillage intensity, retention of crop resi-
+[13] or crop residues [14], (3) organic fertilisers such as        dues and use of crop rotations. The data (mainly from the
+farmyard manure [15] or inorganic fertilisers [16], and            Americas) indicated that the largest contribution of con-
+(4) tillage type and intensity [17]. Additional benefits of        servation agriculture to reducing emissions from farming
+increasing C stocks in agricultural soils include increased        activities from the reduction of tillage operations. Whilst
+soil fertility [11, 18] and improved physical and biologi-         a number of reviews have considered the relative impacts
+cal properties [19] through a reduction in bulk density,           of different farming systems on SOC [7, 28, 29], it is very
+increased water-holding capacity, improved soil structure          difficult to accurately compare multiple systems that dif-
+and enhanced microbial activity [20]. However, a change            fer greatly in the management interventions involved.
+in the soil C stock may not imply a reciprocal change in           The purpose of the work herein is to synthesise evidence
+the atmospheric C stock by the same amount, since the              pertaining to individual management interventions
+management employed to achieve increased SOC stocks                under a wide variety of conditions in order to provide
+may consume energy from non-renewable resources and                specific advice for land managers.
+cause changes in the atmospheric C stock (i.e. net carbon             Although several meta-analyses and literature reviews
+release) [3, 8]. Furthermore, interventions that aim to            have been published on the impacts of agricultural man-
+increase soil C may result in increases in GHG emissions,          agement on SOC, a systematic map listing and describing
+which should be taken into account in a systems-scale              published studies of the efficacy of different manage-
+approach (although this is not the focus of this review).          ment techniques to increase SOC stocks in agricultural
+
+Haddaway et al. Environ Evid (2015) 4:23                                                                            Page 3 of 29
+areas has not yet been published. Such a systematically          web-based geographical information system (GIS)], and
+produced database of evidence would provide a range of           ensure legacy, updatability and ongoing relevance.
+uses. Systematic mapping is an emerging field in environ-          This topic was originally proposed as a systematic
+mental management evidence synthesis [32], having been           review [37], but once searches were underway it was rec-
+adapted to agricultural topics from the social sciences          ognised that a systematic map would better suit the scope
+[33]. Systematic maps have previously been stated as a           of the question and needs of the stakeholders, since the
+tool for the identification of knowledge gaps (areas lack-       subject of interest was broad and knowledge of the state
+ing published research that may be suitable for primary          of evidence across the subject was limited. It is hoped
+research) and knowledge gluts (areas with sufficient pub-        that the map will be easily updated as new research
+lished evidence to allow secondary synthesis via system-         becomes available, and it is recommended that the data-
+atic review) [34–36]. We have identified several major           base be revised at regular intervals to ensure it is kept
+additional benefits of our systematic map on the subject         up-to-date.
+of agricultural management impacts on SOC as follows.
+We believe the systematic map database can be used for:          Identification of topic and identified stakeholders
+                                                                 The topic was suggested by Karin Hjerpe (Swedish Board
+   ••  The calibration and validation of models used for         of Agriculture; May 4, 2012 and September 20, 2012) and
+       simulating the effect of agricultural management on       Olof Johansson (Swedish Board of Agriculture; Septem-
+       soil carbon stocks.                                       ber 24, 2012). The following stakeholder groups were
+   ••  Validating existing maps of soil carbon and monitor-      identified as having a potential interest in the findings of
+       ing (e.g. European soil carbon map, http://eusoils.jrc.   the review:
+       ec.europa.eu/esdb_archive/octop/octop_data.html).
+   ••  Including soil carbon when designing actions on cli-        ••  The Swedish Board of Agriculture is responsible for
+       mate mitigation.                                                the national environmental quality objective “A var-
+   ••  Designing agricultural policies based on existing evi-          ied agricultural landscape”. One expected outcome
+       dence from a specific subset of the evidence base.              within this goal is that arable land will have a well-
+   ••  Making recommendations for research design, both                balanced nutrient status, good soil structure and
+       in terms of maximising the usability of statistics and          organic matter content. Another expected outcome
+       improving or standardising experimental design.                 is that the land will be cultivated in such a way as to
+   ••  Analysis of keywords used across the evidence base              sustain the long-term productivity of the soil. These
+       to increase the findability of future research of rel-          outcomes are closely related to SOC. The Swedish
+       evance to the topic.                                            Board of Agriculture also addresses issues relating to
+   ••  Contacting researchers that have worked on specific             climate change.
+       long-term study sites with requests for data or fur-        ••  The Swedish Environmental Protection Agency
+       ther information. This is also an important resource            (EPA) is responsible for the environmental quality
+       if the user is interested in outcomes other than SOC.           objective “Reduced Climate Impact”. In this context,
+   ••  Identifying a comprehensive list of research pub-               the Swedish Parliament has adopted a vision of zero
+       lished on a subset of the evidence included, for exam-          net emissions of greenhouse gases to the atmosphere
+       ple a specific country, soil type or climate zone.              in Sweden by 2050.
+   ••  Finding relevant citations and links to their full texts.   ••  The Federation of Swedish Farmers (LRF) is inter-
+   ••  Obtaining summary and raw data where the system-                ested in both the environmental issues and the pro-
+       atic map is linked to future systematic reviews.                ductivity aspect. In their Climate Policy it is stated
+                                                                       that increased soil organic matter (SOM) content
+Objective of the map                                                   in cropland potentially can reduce concentrations
+This systematic map is intended to provide a catalogue of              of GHGs in the atmosphere and that such opportu-
+academic and grey literature on the impacts of cropland                nities should be seized. The Federation of Swedish
+management interventions on SOC across temperate                       Farmers is also taking part in Focus on Nutrients
+regions. Included studies are described within a search-               (“Greppa Näringen” in Swedish), which is a joint ven-
+able database with full details of study setting and experi-           ture between LRF, the Swedish Board of Agriculture,
+mental design. We have also undertaken critical appraisal              the County Administrative Boards and a number of
+of study susceptibility to bias (internal validity) and rel-           companies in the farming sector. Focus on Nutri-
+evance to the topic in hand (external validity). Further-              ents offers advice to farmers, for example on climatic
+more, we have also produced several additional outputs                 issues and SOC management.
+that aim to maximise utility and interactivity [using a
+
+Haddaway et al. Environ Evid (2015) 4:23                                                                                    Page 4 of 29
+  During a stakeholder meeting at the EviEM secre-             maize or oilseed rape can grow in the crop rotation
+tariat (June 4, 2013), representatives from the Swedish        were selected.
+Board of Agriculture, Swedish Environmental Protection
+                                                            Intervention A range of soil management practices relat-
+Agency, Federation of Swedish Farmers, and Swedish
+                                                            ing to tillage, addition of crop residues, mineral fertiliser,
+University of Agricultural Sciences discussed the for-
+                                                            manure or other organic “wastes”, and different crop rota-
+mulation of the review question and exclusion/inclusion
+                                                            tion schemes.
+criteria. It was suggested that the focus should be on
+long-term studies of how agricultural management affect     Comparator Alternative intervention or no intervention.
+SOC stocks within the temperate climate zone (humid
+                                                            Outcome SOC stocks/concentration, quantifiable as a
+and summer dry) as well as the snow climate zone
+                                                            change relative to the spatial or temporal comparator.
+(northern Sweden). The stakeholders suggested that
+cereal grains such as wheat and barley were of particu-
+                                                            Methods
+lar interest, but also other crops that could become more
+                                                            Development of the review question
+important in Sweden in a changing climate (such as
+                                                            This systematic map was undertaken according to a pro-
+maize). All agricultural management types and soil types
+                                                            tocol published in Environmental Evidence [37]. Initially
+within these agricultural regions were of interest. Green-
+                                                            a systematic review was proposed in the published pro-
+house gases other than CO2, such as methane (CH4)
+                                                            tocol, but after searches were performed and the vol-
+and nitrous oxide (N2O), and studies solely focusing
+                                                            ume of evidence was revealed to be substantial, it was
+on soil phosphorus and nitrogen were considered to be
+                                                            proposed that a systematic map be produced in the first
+outside the systematic review’s scope. There is a lack of
+                                                            instance, since a detailed catalogue of this large evidence
+data on CH4 since it is infrequently measured in upland
+                                                            base was perceived to of value to stakeholders. Thus,
+soils. Similarly, there is little data on long-term changes
+                                                            our methods described below follow the original sys-
+in N2O in which contrasting treatments have reached
+                                                            tematic review protocol closely until the point of critical
+a new equilibrium. It is therefore difficult to integrate
+                                                            appraisal and synthesis. This systematic map includes a
+short-term N2O processes with long-term trends in SOC
+                                                            basic critical appraisal coding but does not extract study
+changes. Stakeholders also emphasised that although
+                                                            findings (i.e. quantitative data) and does not attempt any
+the review question by definition must be fairly narrow,
+                                                            form of quantitative synthesis. All other activities pro-
+the narrative synthesis should have a broad contextual
+                                                            ceeded according to the published protocol as detailed
+scope. For example, SOC may increase under bioenergy
+                                                            below.
+crops, but if the total cropped area remains constant,
+less food may be produced (i.e. a blanket switch to bio-
+                                                            Searches for literature
+energy crops would be a poor policy recommendation).
+                                                            Search terms
+Certain interventions may also require increased use of
+                                                            Search terms were developed based on population, expo-
+non-renewable energy leading to a reduced net effect on
+                                                            sure and outcome question elements as follows (* indi-
+carbon emissions.
+                                                            cates a wildcard):
+  In addition to the meeting described above, stakehold-
+ers were invited to provide comments and suggestions on     Population terms               Soil*, arable, agricult*, farm*, crop*,
+a draft protocol and a draft of this map report prior to                                      cultivat*
+submission for publication.                                 Exposure/intervention terms    till*, direct drill*, fertili*, bio*solid*,
+                                                                                              organic, manur*, sewage, com-
+                                                                                              post*, amendment*, biochar*,
+Primary question: what are the effects of agricultural                                        digestate*, crop residue*, crop
+management on SOC stocks?                                                                     straw*, mulch*, crop rotat*, break
+Components of the primary question:                                                           crop*, grass, clover ley*, legume*,
+                                                                                              bioenergy crop*, cover crop*,
+                                                                                              grass clover, crop* system*, winter
+Population Arable soils in agricultural regions from                                          crop*, spring crop*, summer
+boreo-temperate systems, more specifically defined as a                                       fallow*, catch-crop*, intercrop*,
+                                                                                              conservation
+subset of the temperate/mesothermal and the continen-
+                                                            Outcome terms                  soil organic carbon, soil carbon, soil
+tal/microthermal climate zones (according to the Köp-                                         C, soil organic C, SOC, carbon pool,
+pen-Geiger climate classification; see Relevant subjects                                      carbon stock, carbon storage,
+text below).                                                                                  soil organic matter, SOM, carbon
+                                                                                              sequestrat*, C sequestrat*
+   Within these climate zones, agricultural manage-         Search terms were tested and a final search string pro-
+   ment systems in which wheat, barley, rye, oats,          duced. Details of the development of the search string
+
+Haddaway et al. Environ Evid (2015) 4:23                                                                      Page 5 of 29
+can be found in Additional file 1. These terms were            Columbia Basin Agricultural Research Center, 24
+adapted as necessary for the different resources detailed      March 2014
+below. The Web of Science equivalent Boolean search            European Environment Agency, 24 March 2014
+string was therefore:                                          European Soil Portal, 24 March 2014
+                                                               Eusomnet, 19 May 2014
+    soil* AND (arable OR agricult* OR farm* OR crop*
+                                                               GCTE SOMNET, 19 May 2014
+    OR cultivat*) AND (till* OR “direct drill*” OR fertili*
+                                                               GRACEnet, USDA Agricultural Research Service, 19
+    OR bio*solid* OR organic OR manur* OR sewage OR
+                                                               May 2014
+    compost* OR amendment* OR biochar* OR diges-
+                                                               Indian Agricultural Statistics Research Institute, 24
+    tate* OR crop residue* OR crop straw* OR mulch*
+                                                               March 2014
+    OR crop rotat* OR break crop* OR (grass OR clo-
+                                                               National Soil Carbon Network (NSCN) of the US
+    ver) ley* OR legume* OR bioenergy crop* OR cover
+                                                               Forest Service, 24 March 2014
+    crop* OR “grass clover” OR “crop* system*” OR win-
+                                                               Rapid Assessment of US Soil Carbon (RaCA), 19
+    ter crop* OR spring crop* OR summer fallow* OR
+                                                               May 2014
+    “catch-crop*” OR intercrop* OR conservation) AND
+                                                               Rothamsted Research, 25 March 2014
+    (“soil organic carbon” OR “soil carbon” OR “soil C”
+                                                               Soil Carbon Center at Kansas State University, 25
+    OR “soil organic C” OR SOC OR “carbon pool” OR
+                                                               March 2014
+    “carbon stock” OR “carbon storage” OR “soil organic
+                                                               Soilservice, 25 March 2014
+    matter” OR SOM OR “carbon sequestrat*” OR “C
+                                                               Swedish Board of Agriculture, 25 March 2014
+    sequestrat*”).
+                                                               Swedish Environmental Protection Agency, 25
+                                                               March 2014
+Academic databases                                             Swedish University of Agricultural Sciences, 25
+Searches of academic databases were performed                  March 2014
+between the 16th and 19th September 2013. Additional           UC Davis, Agricultural Sustainability Institute, 25
+file 2 details the search strings used in each of the 17       March 2014
+academic databases along with any optional restrictions        University of Copenhagen, 25 March 2014
+or limitations employed and the numbers of results             University of Illinois, Department of Crop Sciences,
+obtained.                                                      25 March 2014
+                                                               USDA Agricultural Research Service, 25 March
+Search engines                                                 2014
+A search was undertaken in Google and DogPile in               Victorian Long Term Agro-ecological Experiments,
+English on 17th March 2014 using the following search          25 March 2014
+string; (carbon AND sequestration AND soil AND agri-           Videncentret for Landbrug, 25 March 2014
+culture). The first 100 results from each search engine        Working Group for Long-term Experiments (LTE),
+were screened for relevance. A search using the search         24 March 2014
+engine Scirus was not performed as stated in the proto-        World Bank, 24 March 2014
+col, since the facility was retired in January 2014.
+   Searches in Google Scholar were performed in Eng-
+                                                            Bibliographies
+lish, German, Italian, French, Danish and Swedish as
+                                                            Following assessment of full texts a total of 127 reviews
+described in Additional file 3.
+                                                            and meta-analyses (123 from full text screening and a
+                                                            further 4 from secondary sources) were identified as rel-
+Specialist websites
+                                                            evant to the subject. A database describing these reviews
+A total of 25 specialist websites were searched for grey
+                                                            and meta-analyses is included as an additional resource
+literature both manually (navigating to publication pages
+                                                            from the systematic map (see Additional file 5). The
+and searching by eye for relevant studies) and using auto-
+                                                            bibliographies of all of these reviews were assessed for
+mated search facilities within each website. Details of the
+                                                            additional relevant publications at title level, with poten-
+search terms and methods employed for each website are
+                                                            tially relevant citations screened at abstract and then full
+provided in Additional file 4:
+                                                            text levels. Any relevant articles from the reviews were
+    Aarhus University Department of Agroecology, 24         checked against the final list of included studies and stud-
+    March 2014                                              ies not previously identified were added to the systematic
+    African Network for Soil Biology and Fertility, 24      map database. Studies excluded at full text were added to
+    March 2014
+
+Haddaway et al. Environ Evid (2015) 4:23                                                                      Page 6 of 29
+the list of excluded studies described with the screening  and clarified. Following discussion, further Kappa tests
+process below.                                             on subsets of 109 and 89 abstracts showed high agree-
+                                                           ment (0.67 and 0.82 respectively). Kappa testing of
+Comprehensiveness assessment                               screening was also performed at full-text stage, showing
+Members of the review team selected 83 key refer-          high level of agreement (0.72) between two reviewers on
+ences based on their own knowledge of the subject (e.g.    a subset of 120 articles (7 % of screened full texts).
+often cited in their own publications) that were checked      Uncertainties were discussed within the review group
+against search results to assess comprehensiveness of      and doubtful cases were included, proceeding to the next
+the search strategy. Only four of these articles had not   stage of assessment. Numbers of included and excluded
+been included in the previous searches of the academic     articles at all stages of the screening process were
+databases listed above. These articles were included in    recorded and reasons for exclusion were documented for
+screening at full-text.                                    all articles assessed at full-text.
+  Comprehensiveness of searches was also assessed using
+seven reviews suggested by the experts in the review       Article retrieval
+team that contained a high proportion of relevant refer-   Articles believed to be potentially relevant after abstract
+ences within their bibliographies. These bibliographies    screening were sought in full text using subscriptions
+were checked against the combined search results and       using a number of institutional access credentials, includ-
+any missing articles noted. A total of 74 articles rele-   ing: Stockholm University, Lund University, and Ban-
+vant at title level (excluding duplicates) were found and, gor University. A total of 208 articles (11 % of relevant
+among these, 10 had not previously been included in the    abstracts) could not be obtained in full text either digi-
+searches. These were added to the database.                tally or in print (see Additional file 6).
+Screening                                                  Inclusion criteria
+Screening process                                          Articles were screened and included/excluded according
+Screening was undertaken in a three-stage process:         to the following criteria:
+at title-, abstract- and full-text- level. Those articles     Relevant subject(s) Arable (cropland) soils in boreo-
+included at one stage proceeded to the next. After         temperate systems lying within the following the Köp-
+abstract-level screening, articles were obtained in full   pen-Geiger climate classification zones [39] (Fig. 1):
+text (see “Article Retrieval”, below). Where no abstract   agricultural regions from the warm temperate climate
+was available articles proceeded automatically to the next zone (fully humid and summer dry, i.e., Cfa, Cfb, Cfc,
+stage of assessment.                                       Csa, Csb, Csc); the snow climate zone (fully humid, i.e.,
+  Screening of titles of search results was carried out by Dfa, Dfb, Dfc). Permanent grasslands, paddy rice sys-
+one reviewer, with a subset of 200 articles (1 % of search tems, agroforestry systems and orchards were excluded.
+results) screened independently by a second reviewer          Relevant types of study design Investigated interven-
+(formed from a random subset of 100 articles from the      tions must have been in place for 10 years or more, since
+entire results and a random selection of 100 articles from detectable changes in SOC typically do not occur over
+the journal Agriculture, Ecosystems and Environment) on    shorter time periods [40].
+1st October 2013. Consistency between reviewers was           Relevant intervention(s) Any type of agricultural
+checked with Kappa testing [38], which revealed mod-       cropland management falling into the following broad
+erate agreement (kappa = 0.51). A second Kappa test of     categories: amendments, crop rotation, fertiliser and
+333 articles from the journal Applied Soil Ecology was     tillage. Study data was included irrespective of the focus
+performed on 4th October 2013, also showing moderate       of the article (e.g. C sequestration to counteract cli-
+agreement (0.50) between the first reviewer and a third    mate change or management intended to increase soil
+reviewer. These two journals were chosen because they      fertility). Multiple interventions without information
+were believed to contain a relatively high proportion of   on specific interventions made in the same crop field
+relevant studies reported to a similar degree of detail in preclude the opportunity to assess the effect of each
+abstracts, facilitating Kappa testing. All disagreements   intervention separately and were classified as ‘multiple’
+between reviewers were discussed, understandings           where described in detail. For example, comparisons
+improved and inclusion criteria clarified. Abstract-level  of organic and conventional farming may not always
+screening was performed by two reviewers. An initial val-  clearly state the management differences. Where suf-
+idation screening showed a moderate agreement between      ficient details on multiple interventions were lacking,
+reviewers (0.49) on a subset of 115 abstracts (2 % of      for example in comparisons of farming ‘systems’, these
+screened abstracts). Disagreements were again discussed    studies were excluded.
+
+Haddaway et al. Environ Evid (2015) 4:23                                                                                               Page 7 of 29
+  Fig. 1 Köppen-Geiger climate classification zones included within this systematic map. Zones included are the warm temperate climate zone (fully
+  humid and summer dry, i.e., Cfa, Cfb, Cfc, Csa, Csb, Csc); the snow climate zone (fully humid, i.e., Dfa, Dfb, Dfc)
+  Relevant comparator(s) Two types of comparator were                              ••   Latitude and longitude.
+included; spatial and temporal. Spatial comparators are con-                       ••   Köppen-Geiger climate zone.
+trol treatments or areas where the intensity or type of inter-                     ••   Intervention/study duration.
+vention differed (comparator-intervention; CI). Temporal                           ••   Soil depth sampled.
+comparators are present where data have been recorded for
+one intervention at multiple time points (either before-after;                  Coding and data extraction
+BA or time series). Individual studies could possess both                       Meta-data (descriptive categorical information regard-
+spatial and temporal comparators as part of the same design                     ing citations, study setting, design and methods) was
+(before-after-comparator-intervention; BACI).                                   extracted from included studies following full text assess-
+  Relevant outcome(s) Measures of SOC as concentration                          ment. Information was extracted according to the frame-
+(e.g. g/kg or %) or as stock (e.g. g/m2). The measure may                       work described in Table 1.
+be reported as Soil Organic Carbon (SOC), Total Organic
+Carbon (TOC), Total Carbon (TC) or Soil Organic Mat-                            Critical appraisal
+ter (SOM).                                                                      All included studies were critically appraised for
+                                                                                internal validity (susceptibility to bias) using a pre-
+Effect modifiers/sources of heterogeneity                                       defined framework. This framework is loosely based
+The following effect modifiers were identified a priori and                     upon the Cochrane Critical Appraisal Tool (http://
+iteratively during screening and entered into the system-                       bmg .cochrane.org/sites/bmg .cochrane.org/files/
+atic map database:                                                              uploads/TTT%20June%202010.pdf ) and aims to; (1)
+                                                                                exclude studies with unacceptable risk of bias, (2)
+  ••  Type of crop (i.e. annual or perennial).                                  assess the risk of bias across a range of variables for
+  ••  Soil type, soil texture class (description or quantified                  each remaining study, and (3) assign each study with
+      percentages of silt, clay and sand).                                      a critical appraisal category based on these variables.
+
+Haddaway et al. Environ Evid (2015) 4:23                                                                                                     Page 8 of 29
+Table 1 List and description of meta-data variables extracted during coding
+Meta-data                       Description
+Title                           Source article title
+Authors                         Source article authors
+Journal                         Source article journal
+Year                            Source article publication year
+Volume                          Source publication volume
+Page start–page end             Source publication pages (start page to end page)
+Author E-mail                   Source article corresponding author contact email address
+Study country                   Country in which study was undertaken
+Location site/name              Name or location of study site
+Latitude                        Latitude cited within article (converted to decimal degrees)
+Longitude                       Longitude cited within article (converted to decimal degrees)
+Köppen climate zone             Stated climate zone (according to [39]) or established from latitude and longitude using Köppen Climate Zone GIS
+                                  layer
+Reference to Previous articles  Stated reference to previously published work regarding experimental design: likely source of missing information
+Study ID                        Reviewer-assigned study identification code
+Soil texture, % Clay            Stated soil clay content (per cent) or stated soil type
+Soil Texture, % Silt            Stated soil silt content (per cent)
+Soil texture, % sand            Stated soil sand content (per cent)
+Intervention, start             Intervention start date (year)
+Intervention, end               Intervention end date (year) or soil sampling date (year)
+Duration of intervention, years Time period intervention was in place before sampling (years)
+Intervention                    Intervention category (see Coding Framework for details of included sub-categories) (crop rotation/fertiliser/amend-
+                                  ments/catch crop/tillage/multiple/farming system)
+Number of treatments            Total number of treatment and control groups
+Which treatments                Stated treatment groups (either by intervention group when factorial designs or stated individual intervention combi-
+                                  nations)
+Crop                            Crop type (annual, perennial, single crop, double crop)
+Study Design                    Design of the comparison within the study (Before-after/comparator-intervention/before-after-comparator-interven-
+                                  tion)
+Comparator type                 Stated comparator
+Experimental design             Stated design of the experiment (Randomised complete block/split-plot/time series/etc.)
+Level of replication            Level at which true replication was undertaken
+Dimension of plots              Plot (subplot) dimensions (metres or hectares)
+Number of spatial replicates    Number of true spatial replicates per treatment group
+Temporal replicates             Number of temporal replicates (repeated measures)
+Sampling precision              Number and type of pseudoreplicates (within true replicate sampling)
+Soil sampling depth             Soil sampling depth categories for which data are provided independently
+C measurement method            Carbon quantification method
+Outcome                         Type of outcome measured (SOC/TOC/SOM/TC/OC)
+Unit                            Units of measurement
+Data location                   Location of relevant outcome data within the article
+Bulk density                    Presence of bulk density measurements (Measured/Calculated/Not Present)
+Variance presented              Presence and location of variance relating to true replication (standard deviation, standard error or confidence inter-
+                                  val). Description of ‘next best variance’ if no true replicate variance reported
+The framework calls for studies to be coarsely cat-                                  Studies included through critical appraisal were
+egorised for each variable (high [0], medium [1], low                             required to meet the following characteristics:
+[2], or unclear [?] susceptibility to bias), which is sup-
+plemented with a brief textual justification of the                                  ••  For comparator-intervention studies; true replication
+appraisal.                                                                               (i.e. 1 replicate studies excluded).
+
+Haddaway et al. Environ Evid (2015) 4:23                                                                                            Page 9 of 29
+Table 2 Variables (domains) assessed during critical appraisal of primary study validity
+Variable                                                      Value                                                                        Score
+Spatial (true) replication                                    2 replicates                                                                 0
+                                                              3–4 replicates                                                               1
+                                                              >4 replicates                                                                2
+Temporal replication                                          ≤3 replicates                                                                0
+                                                              4–6 replicates                                                               1
+                                                              >6 replicates                                                                2
+Treatment allocation (as described for                        Purposive (selective)                                                        0
+  the full experimental design)                               Split-/strip-plot/Latin square/blocked/randomised/exhaustive                 2
+Duration of experiment                                        10–19 years                                                                  0
+                                                              20–29 years                                                                  1
+                                                              ≥30 years                                                                    2
+Soil sampling depth                                           Shallow (<15 cm) single or multiple sampling                                 0
+                                                              Plough layer (0–25 cm) single or multiple sampling,                          1
+                                                                or deep (>25 cm) single sampling
+                                                              Multiple deep sampling (>25 cm)                                              2
+Details of scores assigned to different values are also given
+   ••  For time series studies; more than two temporal                           specific comparison between interventions or an inter-
+       replicates (3 or more samples) over time after inter-                     vention relative to a control treatment. Where informa-
+       vention AND measurement period should exceed                              tion is lacking a higher code within the coding tree can be
+       30 years.                                                                 assigned; e.g. 1.1.4 where details on the type of fallow are
+   ••  Comparator cannot be forest/woodlot or native                             not known, precluding assignment of 1.1.4.1 or 1.1.4.2.
+       grassland (i.e. permanent, ungrazed, unmanaged, or
+       non-intervention).                                                        1. Crop rotations
+   Where insufficient information is presented to ena-                                 1.1. Monoculture vs:
+ble a full assessment a ‘?’ is assigned. The five variables
+assessed are detailed in Table 2.                                                          1.1.1. Complex rotation (4 years).
+   Critical appraisal was carried out on meta-data by NRH                                  1.1.2. Rotations involving perennials.
+and HBJ, with a subset of 10 % of studies being appraised                                  1.1.3. 2 or 3 years rotations
+by both prior to assessment of the remaining studies                                       1.1.4. Rotations involving 1 year “perennials”.
+by one reviewer. All disagreements were discussed and                                             1.1.4.1. Sown fallow or grass.
+a common approach decided before continuing with                                                  1.1.4.2. Chemical- or bare-fallow
+appraisal.
+   All studies included in the systematic map were given                               1.2. Comparison of different crops
+a specific code for each of the individual intervention
+comparisons investigated. This coding can be used to                                       1.2.1. Legumes± or legumes vs legumes
+filter similar studies that could be synthesised together.                                 1.2.2. Grass/hay/green fallow± or vs each other
+Interventions were identified iteratively within included                                  1.2.3. Only crops
+studies, and once all studies had been assessed, a coding
+framework was developed to describe the intervention                                   1.3. Annual crop vs perennial crop (2 years or more)
+comparisons investigated. The framework describes four                                 1.4. Multi cropping
+individual intervention groups (amendments, crop rota-
+tion, fertiliser and tillage) and one multiple comparison                                  1.4.1. Under-sown/intercropping (legumes or
+group (where described interventions were combined                                                other)
+and their effects could not be separated). According to                                    1.4.2. Double cropping
+this framework, each study is assigned one or more codes                                   1.4.3. Cover- or catch crops
+to indicate the comparisons within it. Codes indicate a
+
+Haddaway et al. Environ Evid (2015) 4:23                                                                      Page 10 of 29
+    1.5. Energy crops                                                 4.1.1. Reduced tillage (minimum/conservation/
+                                                                             disc/chisel/harrow/mulch/ridge)
+        1.5.1. Energy crops vs. energy crops                          4.1.2. Conventional (traditional) tillage (mould-
+        1.5.2. Energy crops vs. other crops                                  board)
+                                                                      4.1.3. Rotational tillage (occasional)
+    1.6. Simple rotation (2 years) vs. complex rotations              4.1.4. Subsoiling (>30 cm depth conventional till-
+          (3 years or more)                                                  age)
+  (NB: when grown for more than 1 year in a row the fol-          4.2. Reduced tillage (minimum/conservation/disc/
+lowing will be defined as perennials: hay, grass, green fal-            chisel/harrow/mulch/ridge) vs:
+low, unmanaged fallow)
+                                                                      4.2.1. Conventional (traditional) tillage (mould-
+  2. Amendments (with vs without)                                            board)
+                                                                      4.2.2. Rotational tillage (occasional)
+    2.1. Crop residue                                                 4.2.3. Subsoiling (>30 cm depth conventional till-
+                                                                             age)
+        2.1.1. Composted
+        2.1.2. Uncomposted                                        4.3. Conventional (traditional) tillage (mouldboard)
+                 2.1.2.1. Green (mulch)                                 vs:
+                 2.1.2.2. Yellow
+                 2.1.2.3. Burned                                      4.3.1. Rotational tillage (occasional)
+                                                                      4.3.2. Subsoiling (>30 cm depth conventional till-
+    2.2. Manure                                                              age)
+        2.2.1. Liquid (slurry)                                    4.4. Rotational tillage (occasional) vs:
+        2.2.2. Solid
+                                                                      4.4.1. Subsoiling (>30 cm depth conventional till-
+                 2.2.2.1. Cattle                                             age)
+                 2.2.2.2. Poultry
+                 2.2.2.3. Composted                            5. Multiple interventions (just coded to pairs of con-
+                                                                   founded interventions)
+    2.3. Lime
+    2.4. Sewage sludge                                            5.1. Crop rotation and:
+    2.5. Green manure
+    2.6. Peat/sediment                                                5.1.1. Amendment
+    2.7. Domestic compost/waste                                       5.1.2. Fertiliser
+    2.8. Processed wood (sawdust/woodchips)                           5.1.3. Tillage
+    2.9. Bone meal/animal products
+    2.10. Different application methods                           5.2. Amendment and:
+  3. Nitrogen fertiliser (with vs without)                            5.2.1. Crop rotation
+                                                                      5.2.2. Fertiliser
+    3.1. Inorganic vs organic/other amendment (organic                5.2.3. Tillage
+          also given an amendment code to describe the
+          type of organic used)                                   5.3. Fertiliser and:
+    3.2. Different amounts of N                                       5.3.1. Tillage
+    3.3. Different application methods
+                                                                  5.4. Multiple confounded
+  4. Tillage (one versus another)
+                                                               Studies were coded by the review team subject experts
+    4.1. No tillage (zero) vs:                               following an in-depth discussion and trial of the frame-
+                                                             work. Coding was checked by NRH and HBJ.
+
+Haddaway et al. Environ Evid (2015) 4:23                                                                                    Page 11 of 29
+Mapping                                                                    Results
+Systematic map database                                                    The process
+Identified studies that met the inclusion criteria stated                  Number of articles at various stages
+above were described in detail in a database that docu-                    A total of 24,547 records were identified through search-
+mented citation information, study setting, design and                     ing academic citation databases (after removal of 17,328
+methods. This database formed the systematic map pro-                      duplicates). These records were screened at title level
+vided here (see Additional file 7).                                        (5735 included) and abstract level (1814 included),
+                                                                           and with the addition of 88 articles from grey literature
+Overlapping studies                                                        searches 1902 articles were identified as potentially rel-
+Many articles reported results of experiments at the                       evant and needing full text assessment. Some 11 % of
+same study site. Some of these articles reported results                   these articles (208) could not be retrieved, and a total
+that overlapped in time or space with other studies, and                   of 1694 articles were subsequently screened at full text
+a smaller number seemingly reported the same complete                      level. After exclusion of a further 842 non-relevant arti-
+results in multiple formats—either in the same way or                      cles, a total of 740 primary research articles and 127
+subject to further statistical analysis.                                   reviews were then subjected to meta-data extraction,
+  A study is a complex concept to define. Previous sys-                    where information regarding study setting and experi-
+tematic reviews have defined a study as a particular                       mental design were extracted and used to populate the
+experimental method used in a specific place at a spe-                     systematic map database. During this stage a further 258
+cific time [41]. Studies in our systematic map challenged                  studies were excluded for a variety of reasons. The refer-
+this definition, since we used a 10-year minimum study                     ences of the 127 reviews (listed in Additional file 5) were
+period in our inclusion criteria, and the risk of overlap-                 screened in full at title, abstract and full text stage and
+ping, yet distinct studies is therefore increased. Our                     any relevant studies were added to the database. Further
+efforts to differentiate between studies are further ham-                  reviews identified whilst reading full texts were identified
+pered by the low level of methodological detail typical                    iteratively and their references were also screened in the
+in primary studies, particularly with respect to the pre-                  same way. All articles excluded following full text assess-
+cise location of study sites. Linked to this are problems                  ment (including full text screening, meta-data extraction
+caused by different measurement methods for the same                       and bibliographic checking) are listed in Additional file 8
+experimental study unit—measurement methods cannot                         along with reasons for exclusion. These processes are
+therefore be used to differentiate independent studies.                    described visually in Fig. 3.
+Figure 2 displays this issue visually.
+  In our systematic map, where studies were clearly                        Studies versus articles
+published more than once (i.e. the same data reported                      The final number of included lines of data in the system-
+in multiple articles), the most comprehensive study was                    atic map database was 735, corresponding to the num-
+retained in the database whilst others were excluded                       ber of individual studies identified. These studies were
+(classified as ‘superseded by another study’). In this                     sourced from a total of 553 published articles. For the
+instance, meta-data (descriptive information, not study                    purposes of this systematic map, here we define a study
+findings) were aggregated from all reports of the same                     as a discrete experiment (i.e. reported measurement)
+experiment to ensure no loss of information from exclud-                   undertaken over a specific time period. Where consistent
+ing some articles. In all other cases each study has been                  methodology was used across a series of sites these were
+retained in the systematic map for clarity. Users should                   classified as a single study.
+therefore exercise caution to avoid double counting if                         Since many systems studied in agronomy are estab-
+selecting studies for full synthesis.                                      lished long-term experiments (LTEs), there is a disparity
+  Fig. 2 The complex relationship between experimental unit, and study units (study and measurement)
+
+Haddaway et al. Environ Evid (2015) 4:23                                                                                               Page 12 of 29
+                                                         41 875 articles found                             17 328 duplicates
+                                                          by full-text searches                                 removed
+                                                              24 547 articles                          18 812 articles excluded
+                                                             screened on title                          after screening on title
+                                                               5 735 articles                           3 921 articles excluded
+                                                          screened on abstract                              after screening
+                                                                                                               on abstract
+               88 articles found
+           using search engines,
+            specialist websites,                           1 814 articles to be                               208 articles
+                reference lists in                        screened on full text                        could not be retrieved
+              literature reviews
+          or stakeholder contacts
+                                                               1 694 articles                            842 articles excluded
+                                                          screened on full text                         after full-text screening
+                                                         Meta-data extraction                             258 articles excluded
+                                                       of 740 articles and 123                           after further screening
+                                                        reviews/meta-analyses
+                                                        553 articles/735 studies
+                                                             included in the
+                                                             systematic map
+ Fig. 3 Schematic of the mapping process. Displayed are the numbers of articles and studies retained and excluded at various stages of the map-
+ ping process
+between interventions (i.e. the physical system being                     place, period and mode of experimentation or observa-
+modified) and studies (i.e. the period of observation and                 tion [42], however, LTEs are often measured and reported
+measurement). Typically a study is defined as a discrete                  on multiple times. As a result, independent data points in
+
+Haddaway et al. Environ Evid (2015) 4:23                                                                                                Page 13 of 29
+any subsequent meta-analysis must take the form of indi-                        The map and its contents
+vidual interventions at specific study sites. In a system-                      An interactive version of this GIS is available at the fol-
+atic map, however, the subject of interest is the evidence                      lowing URL: http://www.eviem.se/en/projects/Soil-
+base rather than the results contained therein. Identifica-                     organic-carbon-stocks/. This map (see an example
+tion of independent intervention units (i.e. experimental                       snapshot in Fig. 4) displays various layers of data for
+manipulations) for synthesis is complicated by the lack                         all included studies (‘All studies’ layer), and for studies
+of reporting detail (discussed below), since study sites                        investigating each intervention group (‘Amendments’,
+are rarely described well enough to identify the precise                        ‘Crop rotation’, ‘Fertiliser’, ‘Tillage’ and ‘Multiple inter-
+study location. We therefore include all published study                        ventions’ layers). The map displays the systematic map
+reports. Furthermore, our novel approach to visualising                         database visually and allows the user to identify, collate,
+our systematic map database through use of a GIS helps                          filter and examine meta-data for single or grouped stud-
+users to identify single sites with multiple studies.                           ies based on a wide variety of variables from within the
+   Along with the presence of multiple measurements of                          database. Also displayed are the Köppen-Geiger climate
+single interventions, there were indications within the                         classification zones. Finally, users can locate citations
+evidence base of multiple publication of the same data.                         and full texts by following a Google Scholar link, iden-
+Some of this appears to be re-analysis of existing data-                        tify other research on soil C by the review lead authors,
+sets, which is not generally viewed as a questionable                           and email corresponding authors directly (where email
+research practice, but a small number of included studies                       addresses were available) directly from within the map.
+presented identical results in different platforms. These                       For examination and manipulation of bulk records from
+duplications were included in the systematic map data-                          the systematic map database, however, the accompany-
+base for completeness but should be screened by review-                         ing database file (Additional file 7) should be used. Full
+ers where further synthesis is employed on the outputs                          instructions of how to use the systematic map database
+of this map in order to avoid double-counting of studies.                       and the map GIS can be found at the above web address.
+  Fig. 4 Screenshot of the systematic map geographical information system (GIS). Figure demonstrates interrogation of the ‘Crop rotation’ layer for a
+  study in Ireland (Clifton-Brown et al. 2007) and showing the filtered systematic map database presented below the map. Also shown in this screen-
+  shot is the Köppen-Geiger Climate Classification
+
+Haddaway et al. Environ Evid (2015) 4:23                                                                                                                   Page 14 of 29
+  Fig. 5 World map showing the number of studies per country
+Table 3 The number of studies included in the systematic map per Köppen-Geiger climate zone
+Köppen-Geiger                        Name of the climate zone                                                                                             No. of studies
+climate zone
+Cfa                                  Cfa—Humid subtropical                                                                                                191
+Cfb                                  Cfb—Marin–mild winter                                                                                                213
+Cfb or Dfb                           Cfb—Marine–Mild winter or Dfb-humid continental mild summer, wet all year                                               2
+Cfb and Csa                          Cfb—Marine–mild winter and Csa—Interior mediterranean                                                                   1
+Cfb and Dfb                          Cfb—Marine–mild winter and Dfb—Humid continental mild summer, wet all year                                              1
+Cfb or Cfc                           Cfb—Marine–mild winter or marine–cool winter                                                                            1
+Csa                                  Csa—Interior mediterranean                                                                                            57
+Csb                                  Csb—Coastal mediterranean
+Dfa                                  Dfa—Hot summer, wet all year                                                                                          82
+Dfa and Cfa                          Dfa—Hot summer, wet all year and Cfa—Humid subtropical                                                                  1
+Dfa and Dfb                          Dfa—Hot summer, wet all year and Dfb—Humid continental mild summer, wet all year                                        1
+Dfb                                  Dfb—Humid continental mild summer, wet all year                                                                      159
+Dfc                                  Dfc—Subarctic with cool summer, wet all year                                                                          13
+Dfc or Dsc                           Dfc—Subarctic with cool summer, wet All year or Dsc—Summer dry with cool summer                                         1
+Undetermined                                                                                                                                                 6
+Multiple zones are for large scale studies (‘and’) or where the exact location is not given and may span several zones (‘or’). The names of the climate zones are from
+Encyclopedia of the Earth (http://www.eoearth.org/view/article/162263/)
+Study systems                                                                             of individual studies in the categories described. Europe
+Population                                                                                (319) and North America (313) were the most fre-
+Studies were reported from 43 countries (Fig. 5). In the                                  quently studied continents, with the USA (221), Canada
+following text, numbers in brackets indicate the number                                   (91), Germany (55), Czech Republic (47) and Spain (45)
+
+Haddaway et al. Environ Evid (2015) 4:23                                                                                                            Page 15 of 29
+being the most frequently studied countries. The most                            Table 5 The number of studies included in the systematic
+commonly studied climate zones were Cfb (213) with a                             map investigating crop rotation interventions
+marine mild climate with no dry season and warm sum-                             Intervention                                                      No. of studies
+mer; Cfa (191) with a humid subtropical climate with no
+dry season, and hot summer; and Dfb (159) with a humid                           Monoculture vs:
+continental climate with severe winter, and mild summer                            Unspecified                                                     1
+(Table 3).                                                                         Complex rotation (4 years)                                      32
+    Soil types were commonly described by classification,                          Rotations involving perennials                                  27
+but soil textures classes were also reported. These ranged                         2 or 3 years rotations                                          105
+from 3 to 87 % clay, 5 to 85 % silt, and 1 to 87 % sand.                           Rotations involving 1 year “perennials”                         26
+                                                                                      Sewn fallow or grass                                         26
+Interventions                                                                         Chemical or bare fallow                                      4
+Five main groups of interventions were identified itera-                           Comparison of different crops
+tively during screening: amendments (286), crop rota-                                 Unspecified                                                  1
+tions (238), fertilisers (307), tillage (306), and multiple                           Legumes ± or legumes vs legumes                              144
+interventions (55). The numbers of studies reporting                                  Grass/hay/green fallow± or vs. each other                    20
+investigations of the subcategories of each group of                                  Only crops                                                   32
+intervention are shown in Tables 4, 5, 6, 7, 8. There was                          Annual crop vs. perennial crop (2 years or more)                61
+a degree of variability in the level of detail concerning                             Unspecified
+interventions provided within articles, which accounts                             Multi cropping                                                  20
+for the number of studies in the less specific intervention                           Under-sown/intercropping (legumes or other)
+categories.                                                                           Double cropping                                              28
+                                                                                      Cover- or catch crops                                        17
+                                                                                   Energy crops
+                                                                                      Energy crops vs. energy crops                                9
+Table 4 The number of studies included in the systematic                              Energy crops vs. other crops                                 7
+map investigating amendment interventions                                          Simple rotation (2 year) vs. complex rotations                  46
+                                                                                      (3 years or more)
+Intervention                                                      No. of studies
+                                                                                 Total                                                             240
+Crop residue                                                       31
+                                                                                 Interventions are catalogued in a hierarchical way, such that column one is the
+  Unspecified                                                       4            rotation with which columns two and three are compared. Column three details
+  Composted                                                        40            more specific sub-categories from within the category in the preceding column
+  Uncomposted
+     Green (mulch)                                                 16
+     Yellow                                                        36            Table 6 The number of studies included in the systematic
+                                                                                 map investigating fertiliser interventions
+     Burned                                                        18
+Manure                                                                           Intervention                                                      No. of studies
+  Unspecified                                                      63
+                                                                                 Inorganic vs organic/other amendment (organic also                187
+  Liquid (slurry)                                                  18              given an amendment code to describe the type of
+  Solid                                                           112              organic used)
+     Cattle                                                         9            Different amounts of N                                            299
+     Poultry                                                        3            Different application methods                                       5
+     Composted                                                     14
+Lime                                                                9                Within crop rotation, studies comparing monoculture
+Sewage sludge                                                      17            with rotations (221) and comparing similar rotations
+Green manure                                                       24            with different crops (197) were most common. Within
+Peat/sediment                                                      10            these, monocultures versus 2- or 3-year rotations were
+Domestic compost/waste                                              4            particularly common (104), as were comparisons with or
+Processed wood (sawdust/woodchips)                                  8            without legumes (143).
+Different application methods                                       1                Within amendments, the most frequently studied
+Bone meal/animal products                                           1            interventions were manure (219) and handling of crop
+                                                                                 residues (152). Some 40 studies investigated residue
+Interventions are catalogued in a hierarchical way, such that column one is
+broad intervention groups, whilst columns two and three are more specific sub-   burning, whilst other common amendments studied
+categories from within the category in the preceding column
+
+Haddaway et al. Environ Evid (2015) 4:23                                                                                      Page 16 of 29
+Table 7 The number of studies included in the systematic                       For multiple interventions, crop rotation was combined
+map investigating tillage interventions                                      with other single interventions in 7 studies, amendments
+Intervention                                                  No. of studies were combined with other interventions in 9 studies
+                                                                             (excluding those combined with crop rotation (4)), and
+No tillage (zero) vs:                                                        multiple confounded studies numbered 35 (including 3
+  Reduced tillage (minimum/conservation/disc/chisel/          103            or more combined interventions). These combined stud-
+     harrow/mulch/ridge)
+                                                                             ies did not attempt to identify the effect of individual
+  Conventional (traditional) tillage (mouldboard)             255
+                                                                             interventions.
+  Rotational tillage (occasional)                               9
+                                                                               Figure 6 displays the distribution of interventions
+  Subsoiling (>30 cm depth conventional tillage)                7
+                                                                             across the continents. Amendments dominate in Asia,
+Reduced tillage (minimum/conservation/disc/chisel/
+  harrow/mulch/ridge) vs:                                                    Australasia and Europe. Tillage dominates in Australasia
+  Conventional (traditional) tillage (mouldboard)             129            (equally with amendments), North America and South
+  Rotational tillage (occasional)                               2            America. Crop rotation dominates in South America.
+  Subsoiling (>30 cm depth conventional tillage)                7            Fertiliser dominates in Asia and Europe.
+Conventional (traditional) tillage (mouldboard) vs:
+  Rotational tillage (occasional)                               1
+                                                                             Comparators
+  Subsoiling (>30 cm depth conventional tillage)                8
+                                                                             The majority of studies (645) were performed as compar-
+Rotational tillage (occasional) vs:
+                                                                             ator-intervention (CI) experiments, comparing an inter-
+  Subsoiling (>30 cm depth conventional tillage)                0
+                                                                             vention with a spatial control (i.e. a nearby similar set
+                                                                             of samples that had not experienced the intervention of
+                                                                             interest). Before-after-control-intervention (BACI) stud-
+Table 8 The number of studies included in the systematic                     ies were less frequent (81), reflecting the lack of baseline
+map investigating multiple, simultaneous interventions                       measurements in this evidence base. Only 3 studies were
+Multiple interventions                                        No. of studies
+                                                                             before-after experiments, comparing baseline conditions
+                                                                             with those after an intervention, in the absence of a spa-
+Crop rotation and:                                                           tial control. A small number of studies failed to describe
+  Amendments                                                  4              their designs in sufficient detail to ascertain the type of
+  Fertiliser                                                  2              comparator used (5). A total of 53 studies met our crite-
+  Tillage                                                     1              ria of ‘time series’ (i.e. 30 years or more with 3 or more
+Amendments and                                                               sampling time-points).
+  Crop rotation                                               5
+  Fertiliser                                                  6              Experimental designs
+  Tillage                                                     3              Study duration
+Fertiliser and:                                                              A large number of studies lasted between 10 and 19 years
+  Tillage                                                     0              (340) (Fig. 7). Some 190 studies lasted between 20 and
+Multiple confounded                                           35             29 years, 144 were between 30 and 59 years, and 23
+Multiple confounded interventions involve more than two interventions        were in excess of 60 years duration. For 6 studies it was
+simultaneously                                                               not possible to ascertain study duration from the writ-
+                                                                             ten report. Study starting dates range from 1843 to 2000
+included uncomposted (33) and yellow (i.e. straw) (31)                       (Fig. 8), with the majority of studies commencing after
+residues. Solid manure (112) was the most common form                        the 1950s (93 % of 703 studies provided start dates).
+of manure application.                                                       The slight drop in studies after the peak in the 1980s
+   Within fertilisers, comparisons between different levels                  results from our requirement for a minimum interven-
+of inorganic fertiliser were most common (299), whilst                       tion period of 10 years. The longest studies occurred in
+comparisons between organic and inorganic fertilisers                        Europe (153 years) and North America (114 years), with
+were slightly less common (187): only 5 studies investi-                     other continents showing lower maximum study lengths
+gated different methods of nitrogen application.                             (38–59 years).
+   Within tillage, comparisons between no tillage and con-
+ventional tillage were most common (254). Conventional                       Treatment allocation (i.e. from randomised to purposeful)
+tillage versus reduced tillage (129) and no tillage versus                   Table 9 details the various experimental designs that
+reduced tillage (103) were also common. A small number                       were used across the evidence base and the number of
+of studies (between 2 and 9) considered rotational and                       different studies reporting them. A total of 377 studies
+subsoil tillage relative to conventional or reduced tillage.                 used some form of randomised treatment allocation: 276
+
+Haddaway et al. Environ Evid (2015) 4:23                                                                                                 Page 17 of 29
+                            200
+                            180
+                            160
+                            140
+                            120
+        Number of Studies
+                                                                                                                               Amendments
+                            100                                                                                                Crop Rotaon
+                                                                                                                               Ferliser
+                                                                                                                               Tillage
+                             80
+                                                                                                                               Mulple
+                             60
+                             40
+                             20
+                              0
+                                  Africa   Asia         Autralasia               Europe   North America     South America
+                                                                Study Connent
+ Fig. 6 The number of studies undertaken across continents. Numbers are separated by intervention group investigated within each study. Studies
+ may be present in more than one intervention category
+of these were randomised blocked designs, 76 were ran-                          For the purposes of this review question, sampling
+domised split plot designs, and 25 used randomisation                        within true spatial replicates (sub-sampling) does not
+alone. Replication is described below, but randomisation                     contribute to measures of variability in the effects of
+should be considered alongside replication. At low sam-                      interventions (an assessment of accuracy), but it does
+pling intensity randomisation can give a false indication                    contribute to increased precision. The term pseudo-rep-
+of bias mitigation: systematic bias may be introduced                        lication describes the use of within sample replication as
+by chance allocation of all samples with a particular                        a measure of between sample variability in analyses and
+characteristic to one treatment. Replication was low                         is typically a criticism of statistical analysis. However,
+throughout the evidence base: for both randomised (i.e.                      in a synthesis, pseudo-replication only occurs if review-
+explicitly stated as randomised) and blocked (i.e. employ-                   ers treat sub-sampling within true replicates as true
+ing any form of non-randomised blocking) designs there                       replication in a meta-analysis. Thus we use the terms
+were 1 to 14 spatial replicates (median = 4). Purpose-                       pseudo-replication and sub-sampling somewhat inter-
+ful and paired designs showed a higher upper range of                        changeably but this is not necessarily a criticism of the
+replication in general (1 to several thousand replicates)                    primary research.
+(median = 3).                                                                   A large number of studies did not report whether sub-
+                                                                             sampling was undertaken (282). Of those that reported
+Sampling designs                                                             sub-sampling, 3 sub-samples was the most common
+Spatial replication                                                          degree of sampling effort (94), with 286 studies taking
+The majority of studies sampled the median of 4 true spa-                    2–6 soil samples per replicate. Subsampling ranged from
+tial replicates or fewer (580), with 73 studies sampling                     1 to 100 subsamples per replicate (Fig. 10).
+between 5 and 10 replicates (Fig. 9). Some 74 studies
+failed to report the level of replication used or reported                   Temporal replication
+conflicting details. True replicates are defined as sample                   The majority of studies performed sampling at only one
+units that are made at the same level as that at which the                   point in time (446), whilst a relatively small number
+intervention or exposure is applied.                                         failed to report the number of sampling occasions (9).
+
+Haddaway et al. Environ Evid (2015) 4:23                                                                                                 Page 18 of 29
+                     400
+                     350
+                     300
+                     250
+ Number of studies
+                     200
+                     150
+                     100
+                     50
+                      0
+                           10-19            20-29                  30-59                     ≥60                 other                not stated
+                                                                       Study duraon (years)
+   Fig. 7 Duration of studies included in the systematic map. ‘Other’ includes complex, multiple study periods that span categories
+The remaining studies in the evidence base reported col-                      to be calculated for each intervention group. Standard
+lecting samples between 2 and 108 times.                                      errors (118), standard deviations (55), coefficients of vari-
+                                                                              ation (5), and 95 % confidence intervals (6) were reported
+Sampling depth                                                                across the evidence base. Some studies (56) reported var-
+A total of 704 studies reported their sampling depth. The                     iability measures for study means rather than treatment
+majority of studies reported just one (382) or two (90)                       means (i.e. aggregating the variability for individual treat-
+carbon measurements across the depth of each soil pro-                        ments). For a further 120 studies an overall significance
+file (i.e. one or two samples per core), with other studies                   threshold was provided (least squared difference, LSD)
+measuring up to 20 independent layers within each core                        that can be used to generate an overall variability meas-
+(mean = 2.3 ± 2.0 (SD)). Some 52 studies did not report                       ure for the study. Some 41 studies reported a variability
+sampling depth. Soil cores were taken down to maxi-                           measure but failed to describe what the measure was.
+mum depths of between 2.5 and 330 cm, with a median
+maximum depth (i.e. the lowest point sampled) of 20 cm                        Critical appraisal
+[mean = 29.8 ± 25.5 cm (SD)] (Table 10). A total of 257                       Figure 11 displays the critical appraisal scores for the
+studies reported carbon measurements below 25 cm                              five domains investigated. In general, the evidence avail-
+depth.                                                                        able scored moderately for spatial (true) replication, with
+                                                                              488 studies sampling 3 or 4 replicates, although 83 stud-
+Data                                                                          ies failed to describe replication. The majority of stud-
+Most studies reported results in the form of Tables (470)                     ies sampled at only one point in time, thus resulting in
+and Figures (180) or both (81), with very few reporting                       588 scores of 0 for temporal replication. Treatment allo-
+data solely within the text (4). A large proportion of stud-                  cation (i.e. experimental design) was generally of high
+ies failed to report any measure of variability along with                    validity (i.e. split-plot, strip-plot, Latin square, blocked,
+treatment means (380), whilst 17 studies did not report                       randomised, or exhaustive designs), with 533 studies
+variability but provided sufficient data to allow measures                    demonstrating some form of blocking or randomisation.
+
+Haddaway et al. Environ Evid (2015) 4:23                                                                                               Page 19 of 29
+                     250
+                     200
+                     150
+ Number of studies
+                     100
+                     50
+                      0
+                                                                               Starng date
+   Fig. 8 Intervention start year for studies included in the systematic map. Thirty-three studies failed to report this information
+Table 9 The number of studies included in the systematic                          domain, however (126). Study duration was generally
+map employing various categories of experimental design                           low-scoring, with 353 studies lasting 10–19 years and a
+Experimental design                                          No. of studies       roughly equal proportion in the middle (20–29 years) and
+                                                                                  higher (≥30 years) categories combined (204 and 172,
+Randomised design (blocked)                                  276                  respectively). The evidence scored moderately for sam-
+Not stated                                                   126                  pling depth, with 320 studies sampling the plough layer
+Split-plot design                                             95                  (i.e. 0–25 cm) in single or multiple sections, or deeper
+Randomised design (split-plot)                                77                  (>25 cm) single section samples.
+Time series                                                   53
+Purposeful                                                    45                  Level of reporting detail
+Blocked design                                                33                  Between 11 and 24 % of studies in each intervention cate-
+Randomised design                                             25                  gory failed to report information pertaining to one of the
+Factorial design                                              14                  critical appraisal domains described above and 4 to 14 %
+Paired design                                                 12                  of studies had missing information for multiple domains.
+Strip-plot design                                             10                  A total of 28 % of studies across the entire evidence base
+Latin square                                                    8                 failed to report some critical information. Three studies
+Studies could be represented by multiple categories where mixed designs were      were excluded during meta-data extraction and four dur-
+used                                                                              ing bibliographic checking for reasons of methodological
+                                                                                  detail (see Additional file 8).
+Considering the low level of replication across the evi-                          Further outputs from the systematic map
+dence base it was decided to combine scores for blocked                           Along with the systematic map database and interac-
+and randomised designs. A large number of stud-                                   tive online GIS, two further databases have been pro-
+ies failed to report sufficient detail to be scored for this                      duced. As discussed above, a database of reviews and
+
+Haddaway et al. Environ Evid (2015) 4:23                                                                                       Page 20 of 29
+  Fig. 9 Spatial replication across the studies included in the systematic map
+meta-analyses pertinent to soil organic carbon and agri-                       Discussion
+cultural management has been produced (see Additional                          The systematic map presented here details studies within
+file 5). This database is relevant for all climate zones and                   the Köppen warm temperate and snow climate zones [39]
+study durations, since they were identified prior to appli-                    that investigate the impact of agricultural practices on
+cation of the full inclusion criteria.                                         SOC. The map database is an interactive, freely available
+   In addition, a further database of long-term experi-                        resource for further synthesis of evidence. This report
+mental (LTE) study sites has been produced, which                              highlights potential synthesis topics along with research
+summarises the geographical locations described                                areas that would benefit from further investigation. We
+across the evidence base included within the systematic                        detail these knowledge gluts and gaps below (see “Impli-
+map (see Additional file 9). This LTE database lists all                       cations for Policy, Practice and Research”, below).
+locations for which research has been published that                              Evidence on how agricultural management may change
+falls within the inclusion criteria for this systematic                        SOC is a timely issue both regarding food security issues
+map. As with the systematic map database, latitude and                         as well as global agreements on how to mitigate climate
+longitude are taken from publications where provided,                          change. Recent suggestions have promoted discussions
+or based on the cited location. Specific site names were                       at the climate change convention (COP21) in 2015: that
+standardised across publications that referred to the                          if soils can sequester 4 g/kg SOC every year globally this
+same site with slightly different names. Non-specific                          could largely counteract the current climate change, at
+site names, e.g. Lethbridge, that were associated with                         least on a temporary basis [43]. However, the evidence on
+known sites (i.e. sharing identical or very similar [<0.3                      how this might be achieved and how large the potential
+degrees separation] geographical coordinates) were                             is for storing more carbon needs to be summarised and
+removed where known sites were already featured in                             evaluated. Generally, agricultural soils contain 25–75 %
+the database.                                                                  less SOC than soils in undisturbed or natural ecosystems
+
+Haddaway et al. Environ Evid (2015) 4:23                                                                                                             Page 21 of 29
+                    300
+                    250
+                    200
+Number of studies
+                    150
+                    100
+                    50
+                     0
+                                                           Number of sub-samples (or pseudoreplicates) per replicate
+       Fig. 10 Subsampling (or pseudoreplication) within studies included in the systematic map
+Table 10 Soil sampling depth statistics for studies included in the systematic map
+Number of samples per soil profile (cm)                                                   Maximum depth sampled (cm)
+Statistic                                                                Value            Statistic                                                           Value
+Minimum                                                                    1              Minimum                                                              2.5
+Maximum                                                                   20              Maximum                                                             330
+Mean                                                                       2.28           Median                                                              20
+Standard deviation                                                         1.97           Mean                                                                29.84
+Studies failing to mention number of soil depths sampled                  33              Standard deviation                                                  25.50
+Total number of studies                                                  737              Studies failing to mention maximum sampling depth                   54
+Studies taking 1 sample per soil profile                                 382              Total number of studies                                             737
+Studies taking 2 samples per soil profile                                 90              Studies sampling to 25 cm depth or more                             257
+Number of samples per soil profile refers to the number of individual subsamples taken from each core across different depths where data are reported separately for
+each sample. Maximum depth sampled refers to the deepest extent to which soil samples were taken where data are reported
+[44], though regional climatic conditions will also regu-                           policy. The map presented herein is restricted to current
+late the rate of carbon sequestration. Mapping evidence                             management practices in the published literature and
+of SOC and agricultural management on a global scale                                does not contain novel practices that combines both agri-
+will provide decision makers and researchers dealing                                cultural output as well as climate change mitigation, such
+with climate change issues with a database where evalu-                             as biochar application [45], inclusion of biomass crops, or
+ated evidence can be found. Such a database also pro-                               novel crops such as perennial cereals [46].
+vides information on typical management of soils in                                   Potential increase in food production and other ecosys-
+different regions that is important for climate change                              tem services, such as nutrient and water retention, can
+
+Haddaway et al. Environ Evid (2015) 4:23                                                                                                     Page 22 of 29
+                         100%                               13                                              6
+                                                                                                                                       51
+                                       83
+                                                            75
+                                                                                 126
+                         90%
+                                                                                                           172
+                                       85                   59
+                         80%                                                                                                           190
+                         70%
+                                                                                                           205
+                         60%
+ Percentage of studies
+                                                                                                                                                         ?
+                         50%
+                                                                                                                                                         2
+                                                                                 534                                                  321
+                                      489
+                                                                                                                                                         1
+                         40%                               589
+                                                                                                                                                         0
+                         30%
+                                                                                                           353
+                         20%
+                                                                                                                                       174
+                         10%
+                                       79                                         76
+                          0%
+                                Spaal Replicaon   Temporal Replicaon   Treatment Allocaon      Study Duraon (years)          Soil Sampling
+    Fig. 11 Critical appraisal summary scores for studies included in the systematic map. Scores are displayed across 5 key domains (see “Methods” for
+    details)
+be linked to agricultural management that promotes soil                          may have been later subdivided to allow new treatments
+carbon, although evidence is needed to quantify these                            to be introduced [50, 51]. Other long-term experiments
+relationships in order to provide solid policy recommen-                         also lack a well-defined statistical design but do have rep-
+dations [47]. The map can be used both on regional and                           licates [52].
+local scales to find evidence and quantify changes of soil                          While long-term experiments are essential for evalua-
+carbon under local management practices. The meta-                               tion of resilient soil properties, such as soil pH and soil
+data in this database does not include data on yields spe-                       organic matter, their long duration also poses challenges
+cifically, but a substantial part of the published evidence                      in keeping the experiments relevant [50]. For obvious
+contains yield measurements, since this is a key agroeco-                        reasons, these studies have often been altered to accom-
+system outcome. The maintenance of sequestered C may                             modate new crop varieties, plant protection, machinery
+be costly, and evidence is needed to provide incentives                          and nutrient supply, for example. For each situation, a
+for farmers to adopt practices that increase not only SOC                        change in design must be balanced between the need for
+but also many other ecosystem services [48, 49].                                 continuity on the one hand and relevance to the prevail-
+  The required minimum duration of investigation                                 ing current agricultural management on the other.
+for studies in this systematic map was 10 years and the                             An example of a conflict between the desire for conti-
+majority of studies were initiated after the 1950s. Also                         nuity and relevance is the use of animal manure. At the
+included were 23 studies in excess of 60 years in dura-                          time of initiating the early long-term experiments, solid
+tion, with the earliest starting date of 1843. Some of these                     farmyard manure (FYM) including bedding was tradi-
+studies do not comply with current standards in terms of                         tionally used in common agriculture, and therefore also
+replication and statistical design. Often, the original plots                    in published experiments. In the last few decades there
+in experiments commenced in the 19th century were laid                           has been a general shift to more intensive farming sys-
+out in large strips without replication, and these strips                        tems based on animal slurry in many countries. This
+
+Haddaway et al. Environ Evid (2015) 4:23                                                                         Page 23 of 29
+transition in agriculture resulted in a decision to change      profile. The underlying hypothesis is that the soil density
+to slurry application in the Askov long-term experi-            (i.e. bulk density) variation is negligible among treat-
+ment after the manure plots had been based on FYM for           ments; therefore SOC measurements of disturbed sam-
+almost 80 years [52]. As the slurry was applied to plots        ples taken at the same depth do not introduce large bias.
+previously treated with FYM, the change to slurry appli-        This approach is justifiable for experiments addressing
+cation would not allow a direct experimental compari-           soil quality, and considering the cost and time required to
+son between slurry and mineral fertiliser: the treatment        carry out the additional bulk density sampling and analy-
+history of the experimental groups would differ, causing        sis. For example, studies reporting bulk density in the sys-
+significant confounding. Animal slurry is not a common          tematic map constituted 35, 40 and 56 % of the evidence
+intervention in the systematic map, which likely reflects       for amendment, fertiliser and crop rotation intervention
+that the inclusion of this type of manure has not been          categories, respectively.
+undertaken for the required time span to be included               However, SOC concentrations alone may be inadequate
+(10 years or more).                                             if the focus is on a quantitative SOC balance, such as the
+  Depending on previous land use history, climate, or site      carbon sequestration capacity for climate change mitiga-
+conditions, identical experimental treatments can result        tion, in which SOC stock should be accurately assessed.
+in either increases or decreases in SOC [11] and among          In particular, when the management under investiga-
+the experimental designs used within studies in the map         tion could significantly alter soil density, as with tillage
+there are some that are more powerful than others in            interventions [57], bulk density becomes a fundamental
+determining differences among management interven-              parameter for calculating SOC stock. This is likely the
+tions. We found 81 before-after-control-intervention            reason why 67 % of the studies investigating tillage effects
+(BACI) studies, which are considered to be superior to          reported this parameter, the highest percentage among
+comparator-intervention (CI). BACI studies contain              all the intervention groups.
+quantitative information both on the starting condi-               Although bulk density measurements give more trans-
+tion of intervention and control groups, and also on the        parency to the experimental results they may not guar-
+changes following intervention. Furthermore, BACI stud-         antee the greatest accuracy if depth is not properly
+ies presenting time-series are also valuable for param-         considered. For example, soil with the same SOC con-
+eterising dynamic SOC-models [53]. CI studies, which            centration but with a different density in relation to treat-
+are most frequent in this map, can only compare different       ments, may be erroneously considered as having different
+types of management after a certain time of intervention        SOC stock if the same depth is taken into account.
+and no dynamic information can be obtained from these              In much of the evidence base, most of the compari-
+studies. Limitations of CI studies are also related to field-   sons among treatments have been made by the simple
+scale variability of SOC, which can be caused by prior          multiplication of SOC concentration and bulk density,
+land-use, pedology, topography and patchiness of organic        considering fixed depths. This method often introduces
+amendment additions or spots of charcoal derived from           significant errors when soil bulk density differs among
+burning [54]. Such variability can lead to misinterpreta-       treatments under study, such as between tillage and
+tion of results when differences in initial conditions are      no-tillage experiment or change in land uses [58, 59].
+not accounted for and the whole effect is interpreted as        In order to undertake more rigorous quantitative SOC
+treatment effect. Although locations for field experiments      estimation, both bulk density and calculations based on
+are most often carefully selected, spatial variability is still equivalent soil mass (ESM) must be reported [60, 61].
+present [55]. To account for this problem, randomised           Although the ESM approach increases the complexity of
+designs are often used, which are sometimes considered          SOC assessment, it is a necessary step for reporting and
+superior to BACI designs. However, initial differences          accounting of CO2 emissions and removal under poten-
+between treatments are often not controlled for, even in        tial post-Kyoto agreements (UNFCCC). It is certainly rec-
+replicated long-term field experiments [14]. Large experi-      ommendable that precise guidelines for SOC sampling
+mental plots, poor experimental design and low replica-         and analysis could be developed by recognised interna-
+tion usually exacerbate this problem [56].                      tional bodies such as the IPCC, and adopted as standards
+  Approximately half of the studies in the systematic           in field experiments. As demonstrated in the systematic
+map did not report bulk density (soil dry weight divided        map, substantial heterogeneity in the reported outcome
+by its volume) (365 of 735 in total). Whilst many stud-         exists among studies that may confound the interpreta-
+ies measured bulk density, the data were not reported in        tion of results.
+many instances. Indeed, this parameter may be consid-              Regional differences exist in the types of agricul-
+ered a good qualitative indicator of SOC changes, espe-         tural practices that were emphasized in research stud-
+cially where repeated samples are taken across the soil         ies. In North America a central focus was on how tillage
+
+Haddaway et al. Environ Evid (2015) 4:23                                                                      Page 24 of 29
+and crop rotations affected soil C. A similar trend was      Conclusions
+observed in South America, although many fewer studies       Limitations of the evidence base
+occurred there. In contrast, European studies tended to      Our systematic map details the setting and design for a
+emphasize effects of amendments and fertilisers, as did      large number of studies spanning a broad range of inter-
+the few studies included for Asia.                           ventions, experimental designs, and geographical loca-
+   The differences between America and Europe may            tions. Across this diverse evidence base, the level of
+reflect differences in agricultural systems and in the prac- reporting was typically good, with 72 % of studies report-
+tices deemed most relevant to agricultural policy. In the    ing all information for each of the five critical appraisal
+USA, large federal investments were made for conserva-       domains (spatial replication, temporal replication, treat-
+tion tillage systems (defined in the USA as ≥30 % of the     ment allocation, study duration, sampling depth). A very
+soil surface covered after planting) as a way to reduce ero- small number of studies were missing multiple pieces
+sion in corn-soybean-small grain rotations, which occupy     of information (8 %). A small number of studies cited
+millions of ha of often uneven topography in the central     other articles for their methods that were not accessible
+and south-eastern part of the country. Soil erosion on       because they were grey literature (e.g. dissertations or
+cropland decreased 43 % between 1982 and 2007, largely       reports) or were not written in a language covered by this
+due to adoption of conservation tillage [62]. Sequestra-     review.
+tion of C is a co-benefit that has also received substantial   Of those studies with a good level of reporting of
+federal funding, partly for the establishment and mainte-    methodology, designs were typically of a moderate level
+nance of long-term research plots [63]. Research results     of reliability. Spatial replication was typically low; not a
+on different forms of tillage, and on permutations on crop   surprising finding for field-scale studies, but somewhat
+rotations, are fairly transferable across the large expanses disappointing for studies undertaken on smaller scales
+of cropland in the Great Plains and Corn Belt of the USA.    as identified herein. The majority of studies (61 %) per-
+   With the wide variety of soil types, land use and cli-    formed ‘snapshot’ style measurements recording C only
+matic conditions across Europe, specific sets of tillage     once. Only 53 studies met our criteria of providing ‘time
+and crop rotations are not as widely appropriate as in       series’ data; with over 30 years study duration (i.e. time
+the USA. In addition, agricultural policy in the EU has      between start of intervention and final measurement)
+rewarded a wider range of options for increasing soil C      and more than three time point measurements across
+[5]. In Europe, application of C-rich inputs, or higher fer- this period. Experiments were typically well-designed,
+tiliser rates to increase production and incorporated resi-  with the vast majority involving blocked and/or ran-
+due, are frequently used to increase soil C on cultivated    domised designs. It is worth noting that a randomised
+land. One reason may be that the availability of manures     design with a low level of replication may not be as reli-
+and composts is more locally available than in much of       able as a blocked design at the same level of replication.
+the USA. There is closer proximity of cropland to farms      Study duration was fairly evenly distributed across the
+where from manure is produced and to large urban areas       three categories; 10- to 20- year experiments were com-
+where products like sewage sludge and compost are            mon, whilst less than 30 studies lasted over 60 years.
+derived. Moreover, reduced tillage in wet humid climates     Similarly, studies sampled across a variety of study
+in Europe reduces yields [64], is considered to bring more   depths. Some studies were included that sampled to
+risk of fungal attack, reduced emergence, crop failure [5],  shallow depths (minimum of 2.5 cm) because their aim
+and N loss via denitrification [65].                         was to investigate soil microbial activity, but the aver-
+   Only 12 of the 736 studies in our systematic map were     age soil sampling depth was 30 cm (median 20 cm). A
+grey literature, published in the form of organisation       lower number of studies with data from depths below the
+reports. This is somewhat surprising, since long-term        plough layer, roughly 30 cm, means that when compar-
+study sites frequently document their activities in the      ing effects of management on total carbon stocks, there
+form of reports (e.g. the Rothamstead reports archive;       will be less evidence for changes in the whole profile, and
+http://www.era.rothamsted.ac.uk/eradoc/books/1).             a possible bias could occur if this is not considered in
+Grey literature was sought via multi-language searches       future reviews [66].
+of organisational websites, web-based search engines           A large proportion of the evidence base did not pro-
+and knowledge of the expert review team. Research            vide measures of variability for mean values (51.8 %). Of
+from Eastern Europe and Russia was conspicuous in its        the remaining studies, measures of variability could be
+absence (a notable ‘knowledge gap’), possibly resulting      calculated (n = 17) (i.e. calculated for each treatment
+from the lack of digital cataloguing and the use of native-  compared) or reliably estimated (n = 176) (i.e. an over-
+languages making them difficult to find.                     all mean across multiple treatment groups) from the
+
+Haddaway et al. Environ Evid (2015) 4:23                                                                      Page 25 of 29
+information provided. This means that over 50 % of the       of the review may benefit from the inclusion of Portu-
+evidence base would not be included in any form of relia-    guese language expertise. Similarly, Russia forms a large
+ble quantitative synthesis; a surprisingly high proportion.  area of relevant climate zones that was represented by
+   In addition to missing information, a number of stud-     only one study in our map. Russian subject and language
+ies described aspects of their study design that were not    expertise may add value if additional sources of evidence
+reported in their results. This included selective report-   from Russia are identified.
+ing of treatments (for example, where a subset of treat-        One of the inclusion criteria that was critical to the
+ments were described from a larger experiment). In some      reliability of our systematic map was the requirement
+cases this missing information may be traceable through      for interventions to have been in place for a minimum
+citations and references to other studies, but in other      of 10 years. This was used to increase the probability of
+cases it is impossible to assess reasons for this selectiv-  identifying statistical differences in SOC across land use
+ity. Selection of more significant results could be causing  and management over time. However, this restriction
+significant publication bias, for example. A further prob-   means that more recent forms of land management were
+lem for synthesis occurs where authors do not report         not included: for example the use of biochar application
+non-significant results; for example, stating purely that    [45], inclusion of biomass crops, or novel crops such as
+statistics were non-significant or that presented results    perennial cereals [46].
+are averaged across non-significant variables. Non-signif-      Our map includes a basic coding of variables related
+icant results are vital parts of synthesis, including meta-  to validity of the evidence base, including extensiveness
+analysis. By omitting non-significant results the evidence   of soil sampling, spatial and temporal replication, study
+base is overemphasising significance in the same way that    design, and study duration. In addition, we have excluded
+non-publication of non-significant studies causes publi-     studies with unacceptable risk of bias. This basic critical
+cation bias.                                                 appraisal must be extended before further synthesis in
+                                                             the form of meta-analysis can be undertaken.
+Limitations of the systematic map
+As with the majority of systematic reviews and systematic    Implications for policy, practice and research
+maps undertaken at present, our map relied heavily upon      Our systematic map, whilst not synthesising evidence to
+the powerful search abilities of digital search engines and  provide summary effect estimates of particular interven-
+academic databases. However, we also employed physi-         tions, can be used in a range of different ways by deci-
+cal article retrieval where databases identified potentially sion-makers (i.e. policy and management stakeholders)
+relevant articles that were not available in digital form,   and primary and secondary researchers.
+strengthening our methods. Some 208 articles could not          Systematic maps can be used to investigate existing
+be accessed in full text. This was caused by a combina-      policies to examine whether current practices are sup-
+tion of factors, including an inability to locate the refer- ported by the evidence. For example, prescribed burning
+ence (due to citation transcription mistakes or spurious     of crop residues is currently banned in Europe due to the
+citations) and a lack of journal subscriptions. This rate of cross compliance regulation of the Common Agricultural
+retrieval is high for systematic reviews, which often have   Policy (EC 1306/2013) and yet there is a fairly limited evi-
+much lower rates [67].                                       dence base with respect to the impacts of burning on soil
+   It is, of course, possible that evidence may have been    C, particularly from Europe. This limited evidence base
+missed by our systematic map. However, the high num-         could be rapidly synthesised in an attempt to calculate
+bers of academic databases, organisational web sites and     summary effect estimates for the practice in relation to
+research languages used in our review reduce the likeli-     SOC to guide future policy.
+hood of missed evidence. Additionally, the substantial          This systematic map may have important implications
+efforts to include evidence through bibliographic check-     in light of the recent EU decision (EC 529/2013), which
+ing of 127 relevant reviews mean that very little relevant   introduces mandatory accounting of cropland and graz-
+evidence should exist that has not been catalogued.          ing land management for EU Member States. This policy
+   Our review was restricted to research published in        implies that SOC changes related to management should
+Danish, English, French, German, Italian and Swedish.        be accounted for, which itself suggests the need for quan-
+Although this is a relatively comprehensive list of lan-     titative data from field experiments to aid Member States
+guages we did find a small number of articles (27) that      in developing more accurate accounting methods.
+were not included at full text because they were in other       Many studies included in our systematic map did not
+languages, namely: Chinese, Hungarian, Portuguese, and       primarily set out to quantify the impacts of agricul-
+Russian. Given that Brazil forms a large proportion of the   tural practices on SOC, but are included since they pro-
+relevant climate zones in South America, future updates      vide background carbon data, for example as part of an
+
+Haddaway et al. Environ Evid (2015) 4:23                                                                         Page 26 of 29
+investigation of soil microbial activity. However, in the            of finding a significant pattern. This payoff between
+process of screening and appraising studies for the sys-             external validity and precision should be considered
+tematic map we are able to provide the following key                 carefully when designing experiments with limited
+points as suggestions for ‘gold standards’ in investigations         resources. Authors should also be clear about the
+of agricultural practices on SOC.                                    extent to which their study results can be generalised.
+  1. Study design baselines should be measured before          Knowledge gaps
+     an intervention begins and controls should be sam-        Our systematic map can be used by funders and primary
+     pled alongside management treatments (i.e. BACI           researchers to identify areas of research from within
+     design). Where baselines cannot be measured, long-        the map that are under-represented by evidence and
+     term data series should be recorded (see Study dura-      then undertake the research necessary to help fill them.
+     tion, below). Control and treatment sites should be       For example, there was a conspicuous lack of published
+     matched so that they are as similar as possible.          research from parts of Russia that fell within our relevant
+  2. Replication precision can be maximised by increas-        climate zones. There are around 300 long term experi-
+     ing the level of subsampling (within-sample vari-         ments in Russia mentioned by Shevtsova et al. [68] but
+     ability) and increasing the number of samples taken       rarely is evidence published in English. This means that a
+     over time (see Study duration, below). Accuracy can       large volume of data produced from long-term soil exper-
+     be maximised by increasing the number of true rep-        iments is collected in the Russian geographical network
+     licates (i.e. samples taken at the same level at which    on field experiments (e.g. http://www.geo-set.ru/site/57)
+     the treatment is applied). In practice, this means        and also in the International Soil Carbon Network
+     more fields and/or farms rather than quadrats within      (ISCN) (e.g. http://iscn.fluxdata.org/Data/LTSEs/Pages/
+     fields, if treatments are applied at the field level.     Map.aspx) (although these are not all soil C agricultural
+  3. Study duration since changes in soil C take many          research sites). It is not clear whether this evidence is
+     years to become detectable studies should aim to be       published as academic literature, or whether it is not pre-
+     long-term (i.e. ≥10 years). Time-series studies, which    sented in English or in a way that is accessible through
+     sample repeatedly over time, are more reliable than       the scientific databases used herein. We have linked our
+     before-and-after studies, since rates of change can be    mapped evidence to the ISCN long-term experimental
+     assessed and measurement precision quantified and         site database to increase the overlap between different
+     accounted for. Furthermore, sample processing and         meta-databases (Additional file 9).
+     analysis should be consistent, which may prove prob-         A number of novel practices, such as applications of
+     lematic for multi-decadal studies.                        biochar, organic composting of urban waste or integra-
+  4. Soil sampling soil profiles that consist of multiple      tion of biomass production, are not present in the evi-
+     samples across depth and that sample well beyond          dence base and demonstrate that carbon sequestration
+     the plough layer are more reliable than those that        research necessitates long-term studies, while manage-
+     involve a small number of samples or that are shallow     ment practices change over shorter time scales. The rela-
+     (i.e. <15 cm), particularly in studies including tillage  tive importance of SOC contribution through roots or
+     and deep-rooted crops.                                    harvest residues (or other types of biomass amendments)
+  5. External validity (generalisability) the scale at which   is another gap, as evidence generally concerns the effect
+     a study is undertaken affects the scale at which con-     of each of the management practices individually but
+     clusions based on the findings can be made: study         without a quantitative comparison over longer periods
+     results cannot be reliably extrapolated beyond the        [69].
+     system investigated. High levels of generalisability         In the review we have focused on SOC concentration
+     may be favourable where authors seek high impact or       as this is generally a common and methodologically well-
+     where broad policy and practice advice is sought. In      defined parameter, while there is a gap of knowledge con-
+     these cases, studies should aim to match the scale of     cerning C stocks versus flows of functions or, for example,
+     desired conclusions with the scale of their sampling.     CO2 from the soil. Soil C concentration and total amount
+     In practice, this may mean reallocating sampling          of soil C may be relevant from a C sequestration point of
+     effort across a broader geographical area or more         view but we are fully aware that for other aspects, such
+     diverse soil types. Where this reallocation occurs        as soil functioning and plant growth, the organic mat-
+     using a fixed budget this may mean a decrease in          ter of which SOC is a part is the carrier of the energy in
+     the signal to noise ratio of the findings: i.e. increased the system [70]. Thus, we have mapped evidence of the C
+     generalisability may introduce more heterogeneity         ‘stocks’ that are less critical to functioning of the ecosys-
+     in the sample population, and reduce the likelihood       tems than maintaining ‘flows’ of functions. A stock and
+
+Haddaway et al. Environ Evid (2015) 4:23                                                                      Page 27 of 29
+flow comparison can show that soil C sequestration is          6. How do 2- and 3- year crop rotations differ in SOC
+not always correlated to the flows of energy and functions        impacts relative to monocultures, and how does the
+in the system [71]. Evidence regarding stocks of seques-          timing of sowing affect soil organic carbon?
+tered C in relation to the flows of functions and energy,      7. Which interventions are most influential on SOC as
+for example, increased GHG fluxes caused by raised SOC            demonstrated by long-term time series data?
+levels [72], have not been included in the map and there-
+fore constitute another knowledge gap.                      Encouraging researchers to submit their data so that the
+   Rates of SOC change is another subject that could be     map is updated
+developed further from data of long-term experiments,       Systematic reviews and systematic maps are power-
+in order to undertake quantitative comparisons between      ful tools that can aid decision-making. However, the
+different types of management on a large spatial scale.     resource-intensive processes often take considerable time
+Here, there is a possibility to use global data from long-  to ensure a high reliability in the end product. As a result,
+term experiments, such as those in the Somnet database      the review may be several years old when published. In
+(http://iscn.fluxdata.org/Data/LTSEs/Pages/Map.aspx),       fact, the review becomes essentially out-of-date as soon
+and calculate rates of change that can be further used in   as searches are undertaken, although in practice this
+models of climate change or food production studies.        depends heavily on the rate of publication for the subject
+                                                            area. Whilst systematic reviews can and are updated to
+Knowledge gluts                                             include research made available since their publication,
+Secondary researchers and funders can use our system-       these updates can be as resource intensive as the origi-
+atic map to identify ‘knowledge gluts’; topics for which    nal reviews, particularly where some of the original work
+substantial evidence exists but that have not yet been      must be redone.
+synthesised via systematic review. As with knowledge           Separate from updating reviews, there has been consid-
+gaps, not all knowledge gluts are worthy of the resource    erable discussion of methods for creating and managing
+requirements needed for a full and reliable synthesis. Pri- ‘living’ systematic reviews that can extend their period
+oritisation may be necessary, for example based on the      of relevance by incorporating new research as it is pub-
+cost, controversy/interest, and applicability of the find-  lished [74]. For example, a paper on Drosophila walking
+ings [73]. For example, 308 studies within our systematic   mechanisms published in the journal F1000 Research
+map have investigated a narrow range of interventions       [75] employed the use of an updatable online figure that
+relating to tillage. The adoption of no-till agriculture is has been modified since publication to include more
+not controversial, but the benefits of reduced tillage on   recent research [76]. There exist many significant chal-
+C sequestration relative to conventional intensive till-    lenges to establishing a living systematic review or sys-
+age has been the subject of debate [17, 72]. A systematic   tematic map. Firstly, technical difficulties must be dealt
+review on the impacts of tillage on soil C would there-     with to allow for figures and tables to be updated, along
+fore be worthwhile since it is somewhat controversial,      with any quantitative synthesis such as meta-analysis
+the adoption of reduced tillage may be costly in terms of   and associated forest plots. Most significant, however, is
+short-term yield, and the findings of the review (particu-  the maintenance of a systematic approach to continual
+larly where heterogeneity was investigated) would be of     updating. Reviewers go to great lengths to perform a
+direct use to stakeholders.                                 comprehensive and systematic search using predefined
+   Other examples of viable systematic review questions     search strings. Any iterative updating of a living review
+that arise from our systematic map are:                     would either require continued manual checking or
+                                                            would be open to non-systematic inclusion of research.
+   1. What is the effect of untreated crop residue and         However, we advocate an intermediate approach
+      green manure amendments on SOC?                       whereby members of the public can submit research to
+   2. What is the impact of multi-cropping (under-sow-      a living ‘unverified’ list of resources that could be used to
+      ing/intercropping/catch cropping/cover cropping/      highlight novel research that may be useful for system-
+      double cropping) on SOC?                              atic updates to the map. This unverified database, clearly
+   3. What is the effect of manure application on SOC       identified as a list of potentially relevant studies, could
+      (solid and liquid)?                                   then be used as a basis for checking that any system-
+   4. What is the difference in impacts on SOC between      atic search update had included all relevant research. A
+      crop rotations that include perennials versus annual  second benefit relates to the ability to include a greater
+      cropping systems?                                     volume of grey literature that might otherwise be missed
+   5. What is the impact of the inclusion of legumes in     using a closed review system. As such, we have estab-
+      crop rotations on SOC?                                lished a multi-language web-based submission system for
+
+Haddaway et al. Environ Evid (2015) 4:23                                                                                                                  Page 28 of 29
+members of the public to submit research to an unveri-                             5.  Freibauer A, Rounsevell MD, Smith P, Verhagen J. Carbon sequestration in
+                                                                                       the agricultural soils of Europe. Geoderma. 2004;122(1):1–23.
+fied map database, which can be accessed via the MIS-                              6.  Lal R, Delgado J, Groffman P, Millar N, Dell C, Rotz A. Management
+TRA EviEM website: http://www.eviem.se/en/projects/                                    to mitigate and adapt to climate change. J Soil Water Conserv.
+Soil-organic-carbon-stocks/. We encourage readers to                                   2011;66(4):276–85.
+                                                                                   7.  González-Sánchez E, Ordóñez-Fernández R, Carbonell-Bojollo R, Veroz-
+submit relevant research via this portal.                                              González O, Gil-Ribes J. Meta-analysis on atmospheric carbon capture
+                                                                                       in Spain through the use of conservation agriculture. Soil Tillage Res.
+Additional files                                                                       2012;122:52–60.
+                                                                                   8.  Paul EA, Paustian K, Elliott ET, Cole CV. Soil organic matter in temperate
+                                                                                       agroecosystems: long-term experiments in North America. Boca Raton:
+   Additional file 1. Search String Development.
+                                                                                       CRC Press; 1997.
+   Additional file 2. Academic Database Search Results.                            9.  Luo Z, Wang E, Sun OJ. Soil carbon change and its responses to agricul-
+                                                                                       tural practices in Australian agro-ecosystems: a review and synthesis.
+   Additional file 3. Internet Search Engine Search Results.
+                                                                                       Geoderma. 2010;155(3–4):211–23.
+   Additional file 4. Specialist Websites Search Results.                          10. Pan G, Smith P, Pan W. The role of soil organic matter in maintaining the
+   Additional file 5. Database of Reviews and Meta-analyses.                           productivity and yield stability of cereals in China. Agric Ecosyst Environ.
+                                                                                       2009;129(1–3):344–8.
+   Additional file 6. Articles Unobtainable as Full Texts.                         11. Bolinder M, Kätterer T, Andrén O, Ericson L, Parent L-E, Kirchmann H.
+   Additional file 7. Systematic Map Database.                                         Long-term soil organic carbon and nitrogen dynamics in forage-based
+                                                                                       crop rotations in Northern Sweden (63–64 N). Agric Ecosyst Environ.
+   Additional file 8. Articles Excluded at Full Text.                                  2010;138(3):335–42.
+   Additional file 9. Long-Term Experimental (LTE) Sites Database.                 12. Poeplau C, Aronsson H, Myrbeck Å, Kätterer T. Effect of perennial ryegrass
+                                                                                       cover crop on soil organic carbon stocks in southern Sweden. Geoderma
+                                                                                       Regional. 2015;4:126–33.
+                                                                                   13. Diacono M, Montemurro F. Long-term effects of organic amendments on
+Authors’ contributions                                                                 soil fertility. Sustainable Agriculture Volume 2: Springer; 2011. p. 761–86.
+All authors participated in the drafting, revision and approval of the manu-       14. Poeplau C, Kätterer T, Bolinder MA, Börjesson G, Berti A, Lugato E. Low
+script. All authors read and approved the final manuscript.                            stabilization of aboveground crop residue carbon in sandy soils of Swed-
+                                                                                       ish long-term experiments. Geoderma. 2015;237:246–55.
+Author details                                                                     15. Blair N, Faulkner R, Till A, Korschens M, Schulz E. Long-term management
+1
+  Mistra Council for Evidence‑Based Environmental Management, Royal                    impacts on soil C, N and physical fertility: part II: Bad Lauchstadt static
+Swedish Academy of Sciences, P.O. Box 50005, 104 05 Stockholm, Sweden.                 and extreme FYM experiments. Soil Tillage Res. 2006;91(1):39–47.
+2
+  Department of Biology, Lund University, 223 62 Lund, Sweden. 3 Department        16. Khan S, Mulvaney R, Ellsworth T, Boast C. The myth of nitrogen fertiliza-
+of Land, Air and Water Resources, University of California Davis, One Shields          tion for soil carbon sequestration. J Environ Qual. 2007;36(6):1821–32.
+Avenue, Davis, CA 95616, USA. 4 Department Ecology, SLU, P.O. Box 7044, 750        17. Baker JM, Ochsner TE, Venterea RT, Griffis TJ. Tillage and soil carbon
+07 Uppsala, Sweden. 5 Joint Research Centre, Land Resource Management,                 sequestration—What do we really know? Agric Ecosyst Environ.
+Institute for Environment and Sustainability (IES), European Commission,               2007;118(1):1–5.
+Ispra, VA, Italy. 6 Department of Agroecology, Aarhus University, P.O. Box 50,     18. Lal R, Follett R. Soils and climate change. In: Lal R, Follett F, editors. Soil
+8830 Tjele, Denmark.                                                                   carbon sequestration and the greenhouse effect. Madison, Wisconsin:
+                                                                                       SSSA Special Publication; 2009.
+Acknowledgements                                                                   19. Hati KM, Swarup A, Dwivedi A, Misra A, Bandyopadhyay K. Changes in soil
+We are grateful for valuable comments and advice received from a consider-             physical properties and organic carbon status at the topsoil horizon of a
+able number of stakeholders, both at meetings in the initial phase of this             vertisol of central India after 28 years of continuous cropping, fertilization
+project, during the public review of the protocol and during our work with the         and manuring. Agric Ecosyst Environ. 2007;119(1):127–34.
+systematic map. This review was financed by the Mistra Council for Evidence-       20. Yang X, Li P, Zhang S, Sun B, Xinping C. Long-term-fertilization effects on
+Based Environmental Management (EviEM). EviEM is funded by the Swedish                 soil organic carbon, physical properties, and wheat yield of a loess soil. J
+Foundation for Strategic Environmental Research (Mistra) and hosted by the             Plant Nutr Soil Sci. 2011;174(5):775–84.
+Royal Swedish Academy of Sciences. The review process has been approved            21. Kätterer T, Bolinder M, Berglund K, Kirchmann H. Strategies for carbon
+by the EviEM Executive Committee, but the authors are solely responsible for           sequestration in agricultural soils in northern Europe. Acta Agriculturae
+the contents and conclusions of the review.                                            Scandinavica, Sect A-Animal Sci. 2012;62(4):181–98.
+                                                                                   22. Adler PR, Grosso SJD, Parton WJ. Life-cycle assessment of net
+Competing interests                                                                    greenhouse-gas flux for bioenergy cropping systems. Ecol Appl.
+The authors declare that they have no competing interests.                             2007;17(3):675–91.
+                                                                                   23. Johnston AE, Poulton PR, Coleman K. Soil organic matter: its impor-
+Received: 2 October 2015 Accepted: 17 November 2015                                    tance in sustainable agriculture and carbon dioxide fluxes. Adv Agron.
+                                                                                       2009;101:1–57.
+                                                                                   24. Van Oost K, Quine T, Govers G, De Gryze S, Six J, Harden J, et al. The
+                                                                                       impact of agricultural soil erosion on the global carbon cycle. Science.
+                                                                                       2007;318(5850):626–9.
+                                                                                   25. Tsiafouli MA, Thébault E, Sgardelis SP, Ruiter PC, Putten WH, Birkhofer K,
+References                                                                             et al. Intensive agriculture reduces soil biodiversity across Europe. Glob
+ 1. Batjes N. Total carbon and nitrogen in the soils of the world. Eur J Soil Sci.     Change Biol. 2015;21(2):973–85.
+      1996;47(2):151–63.                                                           26. Ludwig B, Geisseler D, Michel K, Joergensen R, Schulz E, Merbach I, et al.
+ 2. Batjes N, Dijkshoorn J. Carbon and nitrogen stocks in the soils of the             Effects of fertilization and soil management on crop yields and carbon
+      Amazon Region. Geoderma. 1999;89(3):273–86.                                      stabilization in soils. A review. Agronomy Sustain Develop. 2010.
+ 3. Schlesinger WH. Biogeochemistry: an analysis of global change. San             27. Rasmussen PE, Goulding KW, Brown JR, Grace PR, Janzen HH, Körschens
+      Diego: Academic Press, Inc.; 1998, p 443.                                        M. Long-term agroecosystem experiments: assessing agricultural sustain-
+ 4. Betts RA, Falloon PD, Goldewijk KK, Ramankutty N. Biogeophysical effects           ability and global change. Science. 1998;282(5390):893–6.
+      of land use on climate: model simulations of radiative forcing and large-    28. Guo LB, Gifford R. Soil carbon stocks and land use change: a meta analy-
+      scale temperature change. Agric For Meteorol. 2007;142(2):216–33.                sis. Glob Change Biol. 2002;8(4):345–60.
+
+Haddaway et al. Environ Evid (2015) 4:23                                                                                                                Page 29 of 29
+29. Lal R. Carbon sequestration. Philos Trans Royal Soc London B Biol Sci.          54. Conant RT, Smith GR, Paustian K. Spatial variability of soil carbon in
+    2008;363(1492):815–30.                                                              forested and cultivated sites. J Environ Qual. 2003;32(1):278–86.
+30. Govaerts B, Verhulst N, Castellanos-Navarrete A, Sayre K, Dixon J,              55. Lück E, Ruehlmann J, Kirchmann H. Properties of soils from the Swedish
+    Dendooven L. Conservation agriculture and soil carbon sequestration:                long-term fertility experiments: VI. Mapping soil electrical conductivity
+    between myth and farmer reality. Critic Rev Plant Sci. 2009;28(3):97–122.           with different geophysical methods. Acta Agriculturae Scandinavica Sec-
+31. SOILSERVICE. Conflicting demands of land use, soil biodiversity and the             tion B-Soil Plant Science. 2011;61(5):438–47.
+    sustainable delivery of ecosystem goods and services in Europe. 2012.           56. Janzen H. The role of long-term sites in agroecological research: a case
+32. Collaboration for Environmental Evidence. Guidelines for Systematic                 study. Can J Soil Sci. 1995;75(1):123–33.
+    Review and Evidence Synthesis in Environmental Management. Version              57. Carter M. Relative measures of soil bulk density to characterize
+    4.2: Collaboration for Environmental Evidence: http://www.environmen-               compaction in tillage studies on fine sandy loams. Can J Soil Sci.
+    talevidence.org/Documents/Guidelines/Guidelines4.2.pdf; 2013.                       1990;70(3):425–33.
+33. Randall NP, James KL. The effectiveness of integrated farm management,          58. Ellert B, Janzen H, Entz T. Assessment of a method to measure temporal
+    organic farming and agri-environment schemes for conserving biodiver-               change in soil carbon storage. Soil Sci Soc Am J. 2002;66(5):1687–95.
+    sity in temperate Europe-A systematic map. Environ Evid. 2012;1(4).             59. Wuest SB. Correction of bulk density and sampling method biases using
+34. Bates S, Clapton J, Coren E. Systematic maps to support the evidence                soil mass per unit area. Soil Sci Soc Am J. 2009;73(1):312–6.
+    base in social care. Evid Policy J Res, Debate Pract. 2007;3(4):539–51.         60. Lee J, Hopmans JW, Rolston DE, Baer SG, Six J. Determining soil carbon
+35. Grant MJ, Booth A. A typology of reviews: an analysis of 14 review types            stock changes: simple bulk density corrections fail. Agric Ecosyst Environ.
+    and associated methodologies. Health Inform Librar J. 2009;26(2):91–108.            2009;134(3):251–6.
+36. Clapton J, Rutter D, Sharif N. SCIE Systematic mapping guidance. London:        61. Wendt J, Hauser S. An equivalent soil mass procedure for monitoring soil
+    SCIE; 2009.                                                                         organic carbon in multiple soil layers. Eur J Soil Sci. 2013;64(1):58–65.
+37. Söderström B, Hedlund K, Jackson LE, Kätterer T, Lugato E, Thomsen IK,          62. US Department of Agriculture. Summary Report: 2007 National Resources
+    et al. What are the effects of agricultural management on soil organic              Inventory. Natural Resources Conservation Service, Washington, DC,
+    carbon (SOC) stocks? Environl Evid. 2014;3(2).                                      and Center for Survey Statistics and Methodology, Iowa State University,
+38. Cohen J. A coefficient of agreement for nominal scales. Educ Psychol                Ames, Iowa; 2009. p. 123.
+    Measur. 1960;20(1):37–46.                                                       63. Paul EA, Paustian KH, Elliott E, Cole CV. Soil organic matter in Temperate
+39. Kottek M, Grieser J, Beck C, Rudolf B, Rubel F. World map of the Köppen-            Agroecosystems: Long Term Experiments in North America: CRC Press;
+    Geiger climate classification updated. Meteorol Z. 2006;15(3):259–63.               1997.
+40. Smith P. How long before a change in soil organic carbon can be                 64. Pittelkow CM, Liang X, Linquist BA, Van Groenigen KJ, Lee J, Lundy ME,
+    detected? Glob Change Biol. 2004;10(11):1878–83.                                    et al. Productivity limits and potentials of the principles of conservation
+41. Haddaway NR, Burden A, Evans CD, Healey JR, Jones DL, Dalrymple SE,                 agriculture. Nature. 2015;517(7534):365–8.
+    et al. Evaluating effects of land management on greenhouse gas fluxes           65. Smith P, Goulding KW, Smith KA, Powlson DS, Smith JU, Falloon P, et al.
+    and carbon balances in boreo-temperate lowland peatland systems.                    Enhancing the carbon sink in European agricultural soils: including trace
+    Environ Evid. 2014;3(1):5.                                                          gas fluxes in estimates of carbon mitigation potential. Nutr Cycl Agroeco-
+42. Pullin AS, Bangpan M, Dalrymple S, Dickson K, Haddaway NR, Healey JR,               syst. 2001;60(1–3):237–52.
+    et al. Human well-being impacts of terrestrial protected areas. Environ         66. VandenBygaart A, Bremer E, McConkey B, Ellert B, Janzen H, Angers
+    Evid. 2013;2(1):19.                                                                 D, et al. Impact of sampling depth on differences in soil carbon
+43. Our Common Future Under Climate Change. Soil carbon sequestration:                  stocks in long-term agroecosystem experiments. Soil Sci Soc Am J.
+    towards an International Research Program And Action Plan 2014 [cited               2011;75(1):226–34.
+    2015 7th September]. Available from: http://www.commonfuture-                   67. Haddaway NR, Styles D, Pullin AS. Evidence on the environmental
+    paris2015.org/Programme/Side-Events/170-Soil-carbon-sequestration.                  impacts of farm land abandonment in high altitude/mountain regions: a
+    htm.                                                                                systematic map. Environ Evid. 2014;3(1):17.
+44. Lal R. Soil carbon sequestration impacts on global climate change and           68. Shevtsova L, Romanenkov V, Sirotenko O, Kanzyvaa S. Transformation
+    food security. Science. 2004;304(5677):1623–7.                                      study in arable soils based on long-term experiments in russia: historical
+45. Jeffery S, Verheijen F, Van Der Velde M, Bastos A. A quantitative review            experience and international co-OPERATION. Archiv Agron Soil Sci.
+    of the effects of biochar application to soils on crop productivity using           2003;49(5):485–502.
+    meta-analysis. Agric Ecosyst Environ. 2011;144(1):175–87.                       69. Kätterer T, Bolinder MA, Andrén O, Kirchmann H, Menichetti L. Roots
+46. Glover J, Reganold J, Bell L, Borevitz J, Brummer E, Buckler E, et al. Increas-     contribute more to refractory soil organic matter than above-ground
+    ing food and ecosystem security through perennial grain breeding.                   crop residues, as revealed by a long-term field experiment. Agric Ecosyst
+    Science. 2010;328(5986).                                                            Environ. 2011;141(1):184–92.
+47. Lal R. Managing soils and ecosystems for mitigating anthropogenic               70. Janzen H. Beyond carbon sequestration: soil as conduit of solar energy.
+    carbon emissions and advancing global food security. Bioscience.                    Eur J Soil Sci. 2015;66(1):19–32.
+    2010;60(9):708–21.                                                              71. Olson KR, Al-Kaisi M, Lal R, Lowery B. Examining the paired comparison
+48. Barrios E. Soil biota, ecosystem services and land productivity. Ecol Econ.         method approach for determining soil organic carbon sequestration
+    2007;64(2):269–85.                                                                  rates. J Soil Water Conserv. 2014;69(6):193A–7A.
+49. Antle JM, Stoorvogel JJ. Payments for ecosystem services, poverty and           72. Powlson DS, Stirling CM, Jat M, Gerard BG, Palm CA, Sanchez PA, et al.
+    sustainability: The case of agricultural soil carbon sequestration. Payment         Limited potential of no-till agriculture for climate change mitigation. Nat
+    for Environmental Services in Agricultural Landscapes. Berlin: Springer;            Climate Change. 2014;4(8):678–83.
+    2009. p. 133–61.                                                                73. Dicks LV, Walsh JC, Sutherland WJ. Organising evidence for envi-
+50. Jenkinson D. The Rothamsted long-term experiments: are they still of                ronmental management decisions: a ‘4S’hierarchy. Trends Ecol Evol.
+    use? Agron J. 1991;83(1):2–10.                                                      2014;29(11):607–13.
+51. Mitchell C, Westerman R, Brown J, Peck T. Overview of long-term agro-           74. Badgett RG, Vindhyal M, Stirnaman JT, Gibson CM, Halaby R. A living
+    nomic research. Agron J. 1991;83(1):24–9.                                           systematic review of nebulized hypertonic saline for acute bronchiolitis in
+52. Christensen BT, Petersen J, Trentemøller U. The Askov Long-Term Experi-             infants. JAMA pediatrics. 2015;169(8):788–9.
+    ments on Animal Manure and Mineral Fertilizers: The Lermarken site              75. Colomb J, Brembs B. Sub-strains of Drosophila Canton-S differ markedly
+    1894-2004. DIAS report Plant production no. 121, 2006.                              in their locomotor behavior. F1000 Res. 2014;3.
+53. Smith P, Smith J, Powlson D, McGill W, Arah J, Chertov O, et al. A compari-     76. Singh CD. ‘Living figures’ make their debut. Nature. 2015;521(7550):112.
+    son of the performance of nine soil organic matter models using datasets
+    from seven long-term experiments. Geoderma. 1997;81(1):153–225.
+

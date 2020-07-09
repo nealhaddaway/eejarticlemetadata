@@ -1,0 +1,841 @@
+Neaves et al. Environmental Evidence (2015) 4:5
+DOI 10.1186/s13750-015-0031-x
+  SYSTEMATIC REVIEW                                                                                                                                  Open Access
+The fitness consequences of inbreeding in natural
+populations and their implications for species
+conservation – a systematic map
+Linda E Neaves1, Jacqualyn Eales2, Raj Whitlock3, Peter M Hollingsworth1, Terry Burke4* and Andrew S Pullin2
+  Abstract
+  Background: Threatened species often have small and isolated populations where mating among relatives can
+  result in inbreeding depression increasing extinction risk. Effective management is hampered by a lack of syntheses
+  summarising the magnitude of, and variation in inbreeding depression. Here we describe the nature and scope
+  of the literature examining phenotypic/fitness consequences of inbreeding, to provide a foundation for future
+  syntheses and management.
+  Methods: We searched the literature for articles documenting the impact of inbreeding in natural populations.
+  Article titles, abstracts and full-texts were assessed against a priori defined criteria, and information relating to study
+  design, quality and other factors that may influence inbreeding responses (e.g. population size) was extracted from
+  relevant articles.
+  Results: The searches identified 11457 articles, of which 614 were assessed as relevant and included in the systematic
+  map (corresponding to 703 distinct studies). Most studies (663) assessed within-population inbreeding resulting from
+  self-fertilisation or consanguineous pairings, while 118 studies assessed among-population inbreeding due to drift load.
+  Plants were the most studied taxon (469 studies) followed by insects (52 studies) and birds (43 studies). Most studies
+  investigated the effects of inbreeding on components of fitness (e.g. survival or fecundity; 648 studies) but measurements
+  were typically under laboratory/greenhouse conditions (486 studies). Observations were also often restricted to the first
+  inbred generation (607 studies) and studies frequently lacked contextual information (e.g. population size).
+  Conclusions: Our systematic map describes the scope and quality of the evidence describing the phenotypic
+  consequences of inbreeding. The map reveals substantial evidence relating to inbreeding responses exists,
+  but highlights information is still limited for some aspects, including the effects of multiple generations of
+  inbreeding. The systematic map allowed us to define several conservation-relevant questions, where sufficient
+  data exists to support systematic reviews, e.g. How do inbreeding responses vary with population size? However,
+  we found that such syntheses are likely to be constrained by incomplete reporting of critical contextual information.
+  Our systematic map employed the same rigorous literature assessment methods as systematic review, including a
+  novel survey of study quality and thus provides a robust foundation to guide future research and syntheses seeking to
+  inform conservation decision-making.
+  Keywords: Genetic variation, Conservation genetics, Systematic review, Inbreeding depression, Outbreeding, Heterosis,
+  Genetic load, Isolated populations, Small populations
+* Correspondence: t.a.burke@sheffield.ac.uk
+4
+ Department of Animal and Plant Sciences, University of Sheffield, Sheffield
+S10 2TN, UK
+Full list of author information is available at the end of the article
+                                            © 2015 Neaves et al.; licensee BioMed Central. This is an Open Access article distributed under the terms of the Creative
+                                            Commons Attribution License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and
+                                            reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain
+                                            Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article,
+                                            unless otherwise stated.
+
+Neaves et al. Environmental Evidence (2015) 4:5                                                                   Page 2 of 17
+Background                                                     a range of threatened taxa (e.g. [9-12]). Madsen et al [11],
+Natural populations of many species are faced with an          for example reported the recovery of a small inbred adder
+increasing number of pressures from human-driven en-           population, where breeding amongst relatives had resulted
+vironmental changes, such as habitat degradation and           in reduced fitness and survival and subsequent population
+fragmentation. These pressures can lead to local reductions    decline, following the introduction of eight unrelated males
+in population size, and increases in the isolation of popula-  from a large nearby population. The enhanced population
+tions. It is widely accepted that small isolated populations   growth associated with the introduction of new genetic
+are at risk of extinction from demographic processes and       material continued past the first generation [10].
+environmental stochasticity, but they also face two genetic       The introduction of individuals from another popula-
+threats [1-3]. The erosion of genetic diversity and the re-    tion, however, is not always beneficial. Isolated popula-
+duced effectiveness of selection (and increased effects of     tions can accumulate genetic differences through selection
+chance) in small populations can limit opportunities for       and drift. Where inter-mating between these populations
+adaptation to changing conditions. The effects of these        occurs the fitness of hybrid offspring can be reduced due
+evolutionary limitations, however, may only be realised in     to differential adaptations or the presence of intrinsic gen-
+the long-term and hence may not represent a significant        etic incompatibilities (i.e. the breakup of co-adapted gene
+short-term threat. In contrast, breeding amongst close         complexes) [13,14]. This reduction in the fitness of hybrid
+relatives in small isolated populations may result in an       offspring is termed outbreeding depression. Recent re-
+immediate loss of fitness in their offspring, known as in-     views assessing the relative costs and benefits indicate
+breeding depression [2]. Even though the detrimental con-      that, in general, outcrossing is not detrimental [15]. Ra-
+sequences of inbreeding are expressed in the short-term,       ther, outcrossing in small isolated populations may be
+inbreeding depression is infrequently considered in the        beneficial, and the greatest risks of outbreeding depression
+conservation of natural populations [4].                       are associated with populations inhabiting highly diver-
+   Inbreeding refers to the mating among related individ-      gent environmental conditions or that have been isolated
+uals and results in an increase in homozygosity. The fit-      for over 500 years [16]. Thus, it appears that in many
+ness costs associated with inbreeding are due to recessive     instances, particularly in the small populations where
+deleterious alleles that confer a disadvantage on the indi-    inbreeding is likely, concern about outbreeding depres-
+vidual possessing them. In heterozygous individuals the        sion should not prevent actions to alleviate inbreeding
+effects of these alleles are masked by a functional allele,    depression.
+but in homozygous individuals the deleterious effects are         The phenotypic outcomes of inbreeding have been the
+exposed as there is no functional counterpart [5,6]. In        focus of several reviews, in both captive and natural popu-
+addition, the fitness of homozygous individuals may also       lations. These reviews have demonstrated that inbreeding
+be reduced relative to heterozygous individuals where pos-     frequently leads to significant fitness costs, and hence is
+sessing two different and complimentary alleles confers a      relevant to conservation [2,17,18]. O’Grady et al. [19], for
+benefit (e.g. disease/pathogen resistance) [6]. Where popu-    instance, quantified the average overall effect of inbreeding
+lations remain small, drift tends to lead to the random        on fitness and then, using computer simulations showed
+fixation of alleles throughout the population, even if they    this led to an average 37% decrease in the median time to
+are deleterious. Termed drift load, the resultant loss of fit- extinction. Many of these reviews, however are now dated
+ness can only be restored through the introduction of new      and more recent reviews have been restricted to particular
+genetic diversity from elsewhere (i.e. outcrossing with an-    taxonomic groups (e.g. [20]) or focused on particular as-
+other population). Thus, inbreeding can occur at two levels,   pects of inbreeding depression (e.g. [21]) and hence only
+within populations via self-fertilisation and consanguineous   represent a subset of the available evidence. In addition,
+mating and among populations through drift [2].                while some of these reviews are meta-analytic [18,20,21],
+   In each generation the loss of fitness due to inbreeding    none are systematic, and thus may represent a biased view
+depression impacts on the demography of the population,        of the available evidence. Therefore there is a need to syn-
+as fewer individuals are recruited, and this reinforces in-    thesise the evidence base describing the phenotypic/fitness
+breeding as population size declines. Ultimately this nega-    consequences of inbreeding in a transparent way to in-
+tive feedback of reduced population size on fitness can        form conservation strategies.
+result in an “extinction vortex” [4]. The detrimental conse-      Systematic mapping approaches provide a structured
+quences of inbreeding depression can be alleviated through     overview of the evidence base for a particular research
+the introduction of genes from another population [7,8].       question. The systematic mapping technique is still rela-
+Outcrossing typically enhances fitness by masking reces-       tively new in conservation science but it applies many of
+sive deleterious alleles and restoring heterozygosity in over- the robust, repeatable and transparent scientific methods
+dominant loci [6]. This ‘genetic rescue’ has been used         utilised within systematic reviews. However, unlike sys-
+effectively to restore fitness in small inbred populations of  tematic reviews, which use meta-analyses to answer a
+
+Neaves et al. Environmental Evidence (2015) 4:5                                                                  Page 3 of 17
+specific question, systematic maps aim to categorise the      Primary objective
+literature according to study aims, design or other factors
+that may be of interest. In addition, maps can be applied to     To describe and map research that investigates the
+broader questions, synthesising potentially disparate stud-         phenotypic consequences of inbreeding within
+ies that could not be directly compared via meta-analysis           natural populations.
+[22]. Here, we employed systematic mapping techniques to
+synthesise studies describing the fitness consequences of     Secondary objectives
+inbreeding in natural populations to provide an objective
+assessment of the extent, nature and quality of the evi-         Assess and describe the extent to which studies report
+dence. Systematic maps do not usually attempt data ex-              attributes that could influence the consequences of
+traction or critical appraisal of the evidence base. However,       inbreeding depression (e.g. population size, mating
+this can limit our understanding of the evidence base.              system, higher-level taxonomic group).
+Therefore we undertook a more detailed assessment, cod-            Quantify published research that assesses the
+ing data that both described the study and assessed its             relationship between the phenotypic consequences
+quality from the full-text. We also extracted information           of inbreeding and levels of neutral genetic variation
+on factors that may influence the costs of inbreeding               within populations.
+(e.g. life history traits, population size), and hence are         Provide a searchable map, in the form of a database.
+informative for decision-making in conservation. By col-           Identify knowledge gaps to guide future primary
+lating the evidence base in this way we aimed to generate           research.
+a searchable map (database) that can be used by con-               Inform and direct future research syntheses, by
+servation practitioners to identify relevant studies, as            identifying areas where sufficient studies exist to
+well as to highlight gaps in research, and pinpoint                 support systematic review.
+areas where there is sufficient evidence to conduct sys-
+tematic reviews.                                              Methods
+                                                              The methods for the systematic map followed those of
+                                                              the systematic review protocol [27] for search strategy,
+Objective of the systematic map
+                                                              study inclusion criteria and study quality assessment.
+Question formulation
+                                                              The coding criteria for the map were adapted from the
+Understanding the impact of, and factors influencing, in-
+                                                              Collaboration for Environmental Evidence (CEE) Systematic
+breeding in populations of conservation concern has
+                                                              Review and Evidence Synthesis Guidelines [26] and from
+been identified as an important issue for conservation
+                                                              existing systematic map reports (e.g. [28]). In addition, the
+practitioners [23-25]. The need for a systematic review
+                                                              sources of heterogeneity described in the review protocol
+to assess the impacts of inbreeding on wild populations
+                                                              were used in the development of the coding criteria.
+was discussed by the UK Conservation Genetics Working
+Group, which includes representatives from UK-based
+                                                              Search strategy
+government and non-government conservation organisa-
+                                                              Scope of search
+tions and scientists working in the field of conservation
+                                                              The literature search was conducted in two phases.
+genetics. Feedback from these meetings was used to shape
+                                                              Searches in the first phase were run in November 2010;
+the scope of review and develop a draft systematic review
+                                                              these interrogated all literature indexed prior to this search
+protocol. To maximise relevance to stakeholders this re-
+                                                              date. We subsequently updated these searches on 12th
+view protocol was peer-reviewed and published on-line in
+                                                              August 2013. In this second phase we limited the search
+accordance with the guidelines for systematic reviews in
+                                                              to all articles published during or after 2010. Both phases
+environmental management [26].
+                                                              of literature searching used the same search terms, and in-
+   A systematic review protocol was established in 2010
+                                                              terrogated the same databases.
+[27]. The initial searches retrieved a large volume of rele-
+                                                                The following online databases were searched for rele-
+vant but disparate literature. Given this, it was deemed
+                                                              vant literature and data:
+more appropriate to synthesise this body of evidence as a
+systematic map, rather than a systematic review. Thus, the
+                                                                 ISI Web of Science
+primary question posed in the review was used to define
+                                                                 Scopus
+the scope of this systematic map.
+                                                                 JSTOR
+Primary question                                                In addition, web searches were performed in Google
+What are the fitness consequences of inbreeding in nat-       scholar (scholar.google.com) using the search term ‘inbreed-
+ural populations?                                             ing depression’ and the first 100 hits were assessed for
+
+Neaves et al. Environmental Evidence (2015) 4:5                                                                               Page 4 of 17
+relevance. Further searches of the grey literature were not                containing the raw search results for this systematic map.
+performed, as our previous experience in reviewing pheno-                  A separate file was generated for each search. When each
+typic responses to intraspecific outbreeding indicated                     stage of the searching was completed (in 2010 and 2013)
+that this would be inefficient, since the relevant data was                all the database libraries were incorporated into a sin-
+published primarily in the peer-reviewed literature [15]. In               gle library and any duplicates were removed using the
+this previous review, searches within the libraries of UK-                 automatic function in ENDNOTE X7 (and during the re-
+based conservation agencies and non-governmental                           view process). The process was repeated when the librar-
+organisations (NGO) yielded no relevant hits, while                        ies from the two search stages were combined (Figure 1).
+the relevant data from theses were almost always also
+published in the primary literature. Bibliographies of re-                 Study inclusion criteria
+views that were identified as relevant were searched for                   Relevant subject(s)
+relevant primary studies.                                                  Studies that assessed the outcomes of inbreeding in nat-
+                                                                           ural populations of wild species, at any location globally,
+Search terms                                                               and experimental individuals and progeny derived from
+We used the search strings listed in Table 1 to retrieve                   these were included. Natural populations were defined
+articles indexed in the above online databases. Search                     as those that have been founded by natural/spontaneous
+terms were identified by reference to articles cited in                    colonisation, or naturalised or (re-) introduced popula-
+traditional reviews [2,18], consultation with subject ex-                  tions that persist in the absence of human intervention.
+perts within the review group and simplified trial searches.               No inter-specific studies or studies on hybrid swarms were
+Compound search strings were generated by combining                        considered. Studies involving species that were agricul-
+each of the search strings. The sensitivity of the search                  tural cultivars or strains, or whose populations are under
+strings was tested and refined using 15 ‘control’ papers,                  captive management were excluded (e.g. zoo populations).
+selected to cover a range of publication dates and whose                   The inbreeding responses in these populations may differ
+titles contained a variety of terminology to describe re-                  from those in natural populations as they may have been
+sponses to inbreeding (Additional file 1). This ensured                    subject to artificial bottlenecks, differing selection re-
+that the specificity of the searches was maximised, mini-                  gimes (e.g. selection for increased yield or captive condi-
+mising the number of papers retrieved without losing                       tions), controlled breeding or stock movement. Similarly,
+sensitivity. Records of the search strategies used were                    human-maintained inbred lines, lab strains, and artificially
+maintained to ensure repeatability and transparency.                       selected populations were excluded. For each study, the
+    The results from each database were combined in a sin-                 possibility of using a subset of populations was considered,
+gle ENDNOTE X7 library file in order to create a database                  where this subset fitted with the guidelines set out in this
+                                                                           section. Studies that used terms such as “provenance”,
+Table 1 Search strings used to query online databases
+                                                                           “land-race” or “cultivar” to describe study populations
+Group                      Search string                                   were retained until it could be ascertained whether they
+i. Inbreeding              “In*breeding coefficient$”                      fitted the criteria.
+related strings
+                           “Cost$ of in*breeding”                             Species mating system reports, dispersal studies and stud-
+                           (inbred SAME mating*) NOT                       ies on philopatry were included only if there was evidence
+                           ((“Quantitative trait loc*”)OR(QTL*))           that appropriate crosses (inbred/non-inbred) were carried
+                           (inbred SAME (offspring OR progeny))            out or observed/inferred and appropriate progeny traits were
+                           Selfed SAME out*                                measured (e.g. progeny traits that are not parental traits; ger-
+                           “Optimal outcrossing” OR “Outcrossing distance”
+                                                                           mination, hatching rate, fitness components of progeny).
+                           “Benefit* of dispersal”
+                                                                           Types of intervention/exposure
+                           “Cost* of dispersal”                            The intervention/exposure were “inbred crosses” resulting
+                           (“Natal dispersal” AND (inbred OR in*breeding   from:
+                           OR heterosis OR self* OR fitness))
+                           (Philopatr* AND (inbred OR in*breeding              Experimental or observed natural crosses among
+                           OR heterosis OR self* OR fitness))
+                                                                                 related individuals within the study population;
+ii. Fitness                (Heterosis AND in*breeding)                         Natural or experimentally induced self-fertilisation;
+related strings
+                           (Depression SAME in*bre*)                           Experimental crosses between individuals separated
+                           (Depression SAME fitness)                             by known distances within the population;
+                           “Genetic load”                                      Experimental or observed natural crosses among
+Boolean syntax follows the ISI Web of Knowledge template, and was adapted
+                                                                                 apparently random individuals within the study
+as necessary for use in databases using other syntax.                            population.
+
+Neaves et al. Environmental Evidence (2015) 4:5                                                                                         Page 5 of 17
+  Figure 1 Articles included and excluded at each stage of the systematic mapping process. Flow chart describing the article assessment
+  process applied to the literature searches undertaken to construct the systematic map. Numeric values indicate the number of articles included
+  or excluded at each stage.
+Types of comparator                                                           relative to the total population. This meant that cases of
+The comparator takes the form of observed or experimen-                       genetic rescue and heterosis were included in the map. It
+tal non-inbred crosses. The comparator and its correspond-                    should be noted this was done within the scope of studies
+ing exposure/intervention cross were defined according to                     retrieved using the searches described above and so does
+the information presented in the study. The comparator is                     not constitute a synthesis of studies assessing phenotypic
+the offspring stemming from relatively less related parent                    responses to outbreeding.
+individuals, and included crosses between randomly se-
+lected or unrelated individuals within the population or                      Types of outcome
+crosses between individuals separated by larger physical                      Relevant outcomes were measures of traits of the pro-
+distances within the population. In addition, crosses be-                     geny arising from inbred and non-inbred crosses. This
+tween geographically separated populations, or crosses fol-                   included measurements of fitness components (life his-
+lowing the translocation of individuals from a donor                          tory traits) such as survival or mortality, reproductive ef-
+population were included, where studies provided data                         fort or success, or early-acting components of viability
+allowing inbreeding to be evaluated in sub-populations                        that are unambiguously traits of the offspring, and traits
+
+Neaves et al. Environmental Evidence (2015) 4:5                                                                    Page 6 of 17
+more distantly related to fitness such as size, growth rate    Study quality assessment
+and responses to stressors.                                    The quality of studies was assessed at the full text level.
+                                                               The procedure for quality assessment was based on that
+Types of study                                                 proposed in the original protocol (Table 3). However,
+We considered empirical studies where comparator and           four design features (relating to comparator and expos-
+intervention/exposure could be identified on the basis of      ure crosses, study populations, selection of individuals
+pedigrees, or where physical distances between individuals     crossed, and status of the study population) were ex-
+paired and mated could be used as a proxy, and where           cluded from the list of criteria due to limitations in ap-
+appropriate outcome measures were also reported. Pedi-         plying criteria at the article level or a lack of information
+grees could be based on controlled experimental crosses        provided by authors (Table 3). The quality score was not
+or through well-resolved marker-based or observational         used to inform the inclusion or exclusion of studies but
+pedigrees where mating was not constrained.                    to provide information on the quality of relevant studies.
+   Articles that were book sections were assessed for
+relevance. Meeting abstracts with no data were not con-        Coding system for the systematic map
+sidered for this review. Review articles were retained if      Articles were described and categorised using a combin-
+their subject was congruent with the review subject and/       ation of keywords or continuous values generated from
+or were likely to contain relevant data. Other reviews         the information reported in the studies and expert know-
+were rejected. Articles that were errata, commentaries,        ledge in the review team (Additional file 2). Articles were
+or that contained no empirical data, or that were QTL          considered to contain multiple studies in cases where
+or genetic map studies without inbreeding measure-             inbreeding outcomes were measured in more than one
+ments or that focussed on humans were excluded. Stud-          species, or where the results of divergent experimental
+ies that did not obviously deal with whole organism biology    designs were reported. These studies were maintained as
+(e.g. molecular biology, medical or biochemistry studies)      separate entries in our database.
+were also excluded.                                              Articles were categorised according to; the full reference,
+                                                               year of publication, study species, types of intervention
+Article screening                                              crosses, types of comparator crosses, the evidence-type
+Studies were assessed for inclusion in the systematic map      defining the comparator and intervention crosses, and
+based on a hierarchical assessment of relevance by scan-       types of outcomes (i.e. phenotypic traits measured). In
+ning article titles, followed by reading the abstract of arti- addition, we recorded, where possible, the following po-
+cles with relevant titles, followed by reading the full-text   tential sources of heterogeneity to address the secondary
+of articles with relevant titles and abstracts (Figure 1).     objective of documenting the reporting frequency for fac-
+Studies were deemed relevant based on the presence of          tors that could influence responses to inbreeding:
+the relevant subject, intervention and comparator (control
+and inbred mating or crosses within natural populations)          Taxonomic group: Higher-level taxonomic category
+and outcome (fitness) measurements, as described in                  for species; amphibian, annelid, arachnid, bird,
+the previous sections. Decisions were inclusive at the               bryozoan, cestode, crustacean, diatom, echinoderm,
+title and abstract stages when the relevance of the study            fish, fungi, insect, mammal, mollusc, plant,
+was unclear.                                                         platyhelminth, reptile, rotifer and tunicate.
+   The objectivity and repeatability of the article selection       Mode of reproduction: Primary means of
+process was determined during title, abstract and full               reproduction in the study organism.
+text appraisal. Two investigators independently assessed            Indices of genetic diversity: Measures of genetic
+the same randomly selected subsets of articles at each               variation reported and the types of variation/
+stage and the consistency of these assessments was de-               markers examined (when reported).
+termined via kappa analysis [29]. Kappa analysis mea-               Physical distance: Geographic distance separating
+sures the difference in the frequency of the observed                intervention and comparator crosses.
+agreement between investigators and that expected by                Population size: The number of individuals in the
+chance. The kappa coefficient ranges from -1 to 1, where             study population.
+1 is total agreement, 0 is equivalent to chance and nega-           Population history: Any information on the
+tive values indicate agreement is less than chance, sug-             population included such as past population size,
+gesting systematic disagreement between investigators                number of founding individuals or the rate of
+(the results of the kappa analysis are presented in Table 2).        inbreeding.
+Reviewers discussed the inclusion criteria to optimise the          Period of inbreeding: Maximum progeny generation
+methods and ensure the application of the criteria was               where phenotypic consequences of inbreeding were
+consistent.                                                          measured.
+
+Neaves et al. Environmental Evidence (2015) 4:5                                                                                                     Page 7 of 17
+Table 2 Summary of the article assessment procedure
+Stage of article Total number Number passing Agreement level,                                                     Subset assessed in duplicate (% of total)
+assessment            assessed         assessment            κ (interpretation according to [30])
+                                                             RW vs. JE (2010 searches) JE vs. LEN                 RW vs. JE                  JE vs. LEN
+                                                                                          (2013 searches)         (2010 searches)            (2013 searches)
+Title assessment      11457            4244                  1. 0.43 (moderate)           0.61 (substantial)      100 per trial              279 (9.84%)
+                                                                                                                  (total 500; 5.75%)
+                                                             2. 0.62 (substantial)
+                                                             3. 0.74 (substantial)
+                                                             4. 0.56 (moderate)
+                                                             5. 0.74 (substantial)
+Abstract              4244             1119                  1. 0.20 (slight)             0.56 (moderate)         1. 50                      75 (7.76%)
+assessment
+                                                             2. 0.43 (moderate)                                   2. 49
+                                                             3. 0.66 (substantial)                                3. 50
+                                                             4. 0.72 (substantial)                                4. 50
+                                                             5. 0.59 (moderate)                                   5. 330
+                                                             5b. 0.70 (substantial)                               5b. 330
+                                                                                                                  (total 859; 26.22%)
+                                                             N/A                          0.96 (almost perfect) N/A
+Full text             1119             614*                                                                                                  50 (4.48%)
+assessment
+Objectivity of article assessment was determined using the Kappa coefficient of agreement via independent assessments of a subset of articles [29]. Articles were
+assessed by three reviewers (RW, JE and LEN).
+*79 articles could not be assessed and were excluded at this stage due to being written in a language other than English or required additional information from
+the authors before inclusion due to insufficient/unclear reporting.
+    Fitness trait class: Categorical description of whether                        according to keywords and permits more complex cross
+       the trait measured was a direct or indirect measure                          tabulations.
+       of fitness.
+      Coefficient of inbreeding: Within comparator                                 Results
+       (non-inbred) and/or exposure (inbred) group.                                 Review descriptive statistics
+      Environmental conditions: Categorical description of                         The primary literature search yielded 11457 articles, which
+       the environment the outcomes of inbreeding were                              were screened against the inclusion criteria to yield a final
+       measured in.                                                                 total of 614 articles (Figure 1; Table 2). The studies in-
+      Ploidy: The number of set of chromosomes                                     cluded in the map and studies excluded at each level are
+       contained within an individual.                                              listed in Additional file 3. The earliest study identified
+      Dispersal ability: Categorical description of the                            as relevant under our search strategy and inclusion
+       potential for gene flow between populations.                                 criteria was published in 1963 (Figure 2). Subsequently,
+                                                                                    the number of articles reporting phenotypic responses to
+   All articles relevant at the full-text assessment stage were                     inbreeding remained relatively constant until 1993, after
+coded by a single reviewer (LN) to ensure consistency.                              which the rate of publication increased linearly with
+Coding of keywords was revised following discussions with                           time (Figure 2). Following coding, the 614 articles were
+the review group to ensure relevance and clarity of coding.                         separated into 703 studies/records in the database. This
+Any articles already coded were re-coded using the revised                          database is included as a Microsoft Access file (Additional
+terms/values. The keywords used for each category re-                               file 4).
+corded are reported in Additional file 2.
+                                                                                    Quantity of relevant papers
+Systematic map database                                                             Taxonomic group
+Following coding of relevant articles and assessment of                             Studies documenting the effects of inbreeding included a
+quality (Table 3) we created a searchable systematic map                            range of high-level taxonomic groups, specifically, am-
+(database) to describe the scope of available data on                               phibian, annelid, arachnid, bird, bryozoan, cestode, crust-
+inbreeding responses and to identify knowledge gaps.                                acean, diatom, echinoderm, fish, fungi, insect, mammal,
+This database can be used for further analysis of the                               mollusc, plant, platyhelminth, reptile, rotifer and tunicate
+data, as it enables articles to be searched and ordered                             (Figure 3). Of the 703 studies included in the map, 66.7%
+
+Neaves et al. Environmental Evidence (2015) 4:5                                                                                                   Page 8 of 17
+Table 3 Study quality assessment criteria
+                   Design feature                         Study attribute
+Internal validity Comparator and exposure crosses         * Did exposure (inbred) crosses take place contemporaneously with control (non-inbred) crosses?
+of study                                                    Yes: 1 point, otherwise: 0 points
+                                                          1. Were the pedigrees underpinning all the crosses known (because of experimental
+                                                             manipulation; 1 points), or unknown (0 points)?
+                   Scale of evidence for relative level   2. Was the coefficient of inbreeding known for both the exposure and comparator crosses? No
+                   of inbreeding between exposure            pedigree information or physical distance used as proxy, for relative inbreeding level (0 points).
+                   and comparator groups                     Inbreeding coefficient or pedigree known for exposure (1 point). Known for both (2 points)
+                   Outcome measure                        3. Were the outcome measures components of fitness (survival, fecundity, viability; 1 point), or
+                                                             indirect measures of these (e.g. growth rate, body mass, size; 0 points)?
+                   Environment for trait                  4. Were the traits measured in the field (2 points), under experimental conditions that closely
+                   measurements                              approximate field conditions (1 point), or under non-native experimental conditions (0 points)?
+                   Study populations                      * Were populations selected randomly or using sampling that was stratified over variation in
+                                                            population location, distribution or size (1 point, otherwise 0 points)?
+                                                          5. Was the cost of inbreeding observed in multiple study populations (1 point; 0 points otherwise)?
+                   Selection of individuals for crossing * Were crosses selected randomly from a population of possible crosses, or was selection
+                   experiments, or selection of             stratified over variability in location or timing of crosses (1 point; otherwise 0 points)?
+                   natural observed crosses
+External validity Observation window for progeny          6. Were the fitness consequences of inbreeding within progeny tracked until at least the F2
+of study           individuals                            generation (1 point; otherwise 0 points)?
+                   Status of populations studied          * Did the study include re-introduced, or naturalized population(s)? 1 point if all populations
+                                                            were naturally founded, otherwise 0 points
+Those study attributes marked by an asterisk (*) were removed from the quality assessment due to insufficient information.
+(469 studies) assessed the consequences of inbreeding in                           It should be noted that information on cross-types is re-
+plants. This was approximately 9 times greater than the                            ported at the study level and hence multiple crosses were
+next most frequently studied animal taxon (insects: 52                             often recorded for each study. This means that interro-
+studies). Among animal taxa the most frequently studied                            gation of the database can produce results that include
+were insects, followed by birds, mammals and molluscs.                             uninformative comparisons such as ‘within population’/
+                                                                                   ‘within population’ crosses (since this could be classed as
+Types of crosses                                                                   both inbred and non-inbred cross). It was not possible to
+Relevant studies documented a range of different cross                             overcome this coding artefact whilst maintaining descrip-
+types, with most studies using more than one type of in-                           tion of the full range of potential combinations of cross
+bred cross. The inbred group (the intervention) was typ-                           types used to evaluate inbreeding responses evaluated in
+ically based on self-fertilisation (472 studies, 66.8% of                          each study.
+the total). It should be noted that self-fertilisation was
+more commonly employed for plant studies (409 studies,                             Responses to inbreeding
+87.2% of plant studies) than for animals (63 studies,                              Studies measured the phenotypic outcomes of inbreed-
+26.8% of animal studies), which typically employed con-                            ing in a range of traits. Survival was the most frequently
+sanguineous crosses (e.g. sib-mating; 162 studies, 68.9%                           reported (81.9%; 576 studies), followed by size (52.0%, 366
+of animal studies). The non-inbred control crosses (the                            studies). We classified 12.5% of studies (88) as reporting
+comparator) were usually crosses between randomly se-                              “other responses”, which included resistance to pathogens,
+lected parent individuals within the study population that                         parasites or herbivory, responses to stress, attractiveness
+were known, or presumed to be unrelated (593 studies,                              or mating success. The majority of studies (92.0%; 647
+83.9%; Figure 4a). We did not distinguish between unre-                            studies) reported the cost of inbreeding in at least one
+lated and randomly-selected crosses within populations as                          component of fitness (i.e. survival, viability or fecundity;
+there was often insufficient information reported to enable                        Figure 5). Other measures more distantly related to fitness
+unambiguous classification. A small proportion of studies                          (e.g. size) were also highly reported (63.8%, 449 studies).
+assessed among-population inbreeding, using within-                                    Inbreeding responses were measured under laboratory/
+population crosses as the inbred cross and between-                                greenhouse/common garden (controlled) conditions in
+population crosses as the non-inbred cross (112 studies;                           62.1% of studies (439 studies), while 26.7% of studies in-
+15.5%). 81 studies evaluated inbreeding responses using a                          cluded measurements under natural conditions (189 stud-
+combination of self-fertilisation/consanguineous crosses,                          ies; Figure 6a). Most studies focusing on plants observed
+within-population crosses and among-populations crosses.                           phenotypic consequences to inbreeding under controlled
+
+Neaves et al. Environmental Evidence (2015) 4:5                                                                             Page 9 of 17
+                                                                        reported, but reporting of the coefficient of inbreeding
+                                                                        was less frequent (140 studies). In contrast, sources of
+                                                                        heterogeneity relating to the study population or study spe-
+                                                                        cies were, in general, poorly reported. Mode of reproduction
+                                                                        was frequently reported or could be determined based on
+                                                                        the taxonomic group (e.g. mammals; 235 studies), while 120
+                                                                        studies reported population size. Only 38 studies reported
+                                                                        levels of within-population genetic diversity assessed by
+                                                                        neutral markers. Information on population history was
+                                                                        occasionally reported, although the information presented
+                                                                        was highly variable and included qualitative and quantita-
+                                                                        tive information on past population size, changes in levels
+                                                                        of fragmentation/isolation and bottlenecks. Other poten-
+                                                                        tial sources of heterogeneity that we had intended to rec-
+                                                                        ord, such as dispersal ability and ploidy, were insufficiently
+                                                                        reported to enable inclusion in the database.
+                                                                        Quality of relevant papers
+                                                                        We used six study quality assessment criteria to describe
+                                                                        the internal and external validity of each study. The
+                                                                        maximum quality score possible was 8 points (Table 3).
+                                                                           Overall, the average quality score for literature investigat-
+                                                                        ing the costs of inbreeding was 4.3 (range: 1-7, Figure 8).
+                                                                        Total quality did not vary substantially over time, nor did
+                                                                        it vary with taxonomic group, although a greater propor-
+                                                                        tion of studies in birds and mammals possessed higher
+                                                                        quality scores.
+                                                                           Evidence used to distinguish (at least one) possible inbred/
+                                                                        non-inbred comparisons was primarily based on experi-
+                                                                        mental manipulation (controlled crosses), followed by
+                                                                        pedigrees estimated using molecular markers (Table 4).
+                                                                        59 studies employed other methods such as observa-
+                                                                        tional pedigrees (22 studies), several of which contained
+  Figure 2 Publication frequency of articles presenting data on         potential inaccuracies or errors; physical distance between
+  inbreeding responses over time. The 614 articles shown are            crosses (8 studies); or anatomical structure of flowers
+  limited to those included in this systematic map, deemed as           (e.g. chasmogamous vs. cleistogamous flowers; 6 studies).
+  relevant to our review question at the full text level. Bars indicate
+                                                                        In 666 cases (94.7% of studies) the coefficient of in-
+  the number of articles published annually and the line represents
+  the cumulative number of articles over time.                          breeding was reported or could be determined for the
+                                                                        inbred cross, but only 194 (27.6% of the total num-
+                                                                        ber) of these also provided information for the non-
+environmental conditions. In contrast, the environmental                inbred cross (Table 4).
+contexts for inbreeding studies focusing on animals were                   Phenotypic outcome measures typically included at least
+more variable. Observations of inbreeding costs in inverte-             one component of fitness (92.2%, 648 studies; Table 4).
+brates (e.g. insects and molluscs) were largely confined                However, in order to be maximally informative inbreeding
+to controlled conditions, while responses in vertebrates                studies must be carried out under natural conditions. In
+(e.g. birds and mammals) were usually observed in the                   this respect the evidence base is poor, with inbreeding
+field (Figure 6b).                                                      responses more frequently assessed in controlled (non-
+                                                                        natural) conditions (54.9%, 386 studies). For instance, only
+Sources of heterogeneity                                                25.0% (176) of the studies that measured a direct compo-
+A subset of the relevant studies reported information on                nent of fitness did so under natural conditions.
+potential sources of heterogeneity that could modify in-                   Studies assessing inbreeding responses are most robust
+breeding responses (Figure 7). Factors associated with ex-              where multiple populations are evaluated across multiple
+perimental design, such as test environment (703 studies)               generations. However, most studies only investigated in-
+and generations of inbreeding (654 studies) were well                   breeding responses within a single population (59.9%;
+
+Neaves et al. Environmental Evidence (2015) 4:5                                                                          Page 10 of 17
+  Figure 3 Number of studies by high-level taxonomic categories within the systematic map.
+421 studies) and the phenotypic consequences of inbreed-             systematic map. Subsequent key studies and reviews
+ing were usually observed only within the first generation           (e.g. [18,19,33]) that demonstrated fitness costs associ-
+following inbreeding (607 studies; 86.3%; Table 4). 28 of            ated with inbreeding in natural populations and validated
+the studies replicated the study in the same population in           its relevance to conservation have resulted in a continu-
+multiple years.                                                      ous, and increasing number of publications on the topic.
+                                                                     In addition, the subsequent recognition of conservation
+Discussion                                                           genetics as a distinct discipline within conservation biol-
+Our systematic map shows there is a substantial amount               ogy and establishment of several journals devoted to this
+of data available on the phenotypic consequences of                  field are also likely to have facilitated the increasing rate of
+inbreeding in wild populations. Studies typically reported           publication.
+factors associated with experimental design, such as cross              The cross types employed by studies in this map broadly
+types and pedigrees. In contrast, reporting of potential             fall into two categories, those that focus on mating among
+sources of variation in inbreeding responses, such as                related individuals within populations, and those that study
+population size or mode of reproduction was relatively               inbreeding effects due to drift load among geographically
+poor. The map shows key limitations in understanding the             separated populations. The systematic map shows the
+consequences of inbreeding in the wild are due to stud-              effects of inbreeding within populations are more com-
+ies frequently measuring responses under laboratory/                 monly investigated. These effects are relatively well under-
+greenhouse (controlled) conditions, only investigating a             stood and accepted [2] but these studies frequently
+single generation of inbreeding or only assessing a single           employ crosses with extreme levels of inbreeding. The
+population.                                                          inclusion of crosses reflecting lower levels of inbreeding
+  The amount of primary literature documenting pheno-                can refine our understanding of how the costs increase
+typic consequences of inbreeding has increased in most               with the level of inbreeding, which can inform risk as-
+years since 1993. The importance (and even the exist-                sessment in conservation strategies. In contrast to within-
+ence) of inbreeding depression in natural populations                population inbreeding, the map shows that only a relatively
+was questioned by some authors in the 1990s [31,32].                 small proportion of studies used crossing designs that
+This corresponds to, and likely resulted in the initial in-          allowed the quantification of drift load, despite the fact that
+crease in the rate of publications documented in this                these studies have provided some of the most dramatic
+
+Neaves et al. Environmental Evidence (2015) 4:5                                                                                   Page 11 of 17
+                     (a)
+                     (b)
+  Figure 4 Types of inbred and non-inbred crosses used to assess the costs of inbreeding. (a) Number of studies by cross type for inbred
+  and non-inbred crosses (b) Frequencies of combinations of inbred and non-inbred crosses comprising study designs. N/A denotes uninformative
+  comparisons for inbreeding responses with bracketed numbers showing the number of studies.
+examples of inbreeding depression (e.g. [10,11]). There are               crossing designs that can distinguish between the effects
+several potential reasons for this. The effects of drift load             of inbreeding and outbreeding between populations.
+are only expected to be important in small populations                    In addition, for many threatened species such compari-
+where there has been sufficient time for genetic drift to act             sons may not be possible, as no additional large popula-
+and the investigation of drift load requires more complex                 tions exist. It is also possible that our search strategy may
+
+Neaves et al. Environmental Evidence (2015) 4:5                                                                                       Page 12 of 17
+  Figure 5 Number of studies by trait types within the systematic map. Black bars reflect direct measures of fitness (viability, fecundity and
+  survival) and grey bars refer to indirect measures.
+not have retrieved studies focused on outbreeding re-                 are poorly reported in natural populations. Measuring
+sponses (but see Limitations of the map section). The                 the costs of inbreeding across multiple generations, and
+inclusion of between-population crosses, is however,                  the potential for purging, is not straightforward, particu-
+necessary to ascertain the effects of inbreeding where                larly in natural populations, but it may be critical to elu-
+drift has led to an increase in baseline levels of in-                cidating the long-term consequences of inbreeding in
+breeding within the population, as within-population                  natural populations.
+comparisons alone can underestimate the costs of in-                     To be maximally informative for conservation, studies
+breeding. A recent review of the effect of outcrossing                need to assess the effects of inbreeding using scenarios
+indicates the fitness of small populations benefits from              that mimic those found in nature. However, this aim
+outcrossing with other populations, suggesting these pop-             typically conflicts with obtaining robust and repeatable
+ulations suffered inbreeding depression [15]. In contrast, a          results that control for (and disentangle) potentially con-
+meta-analysis focusing on inbreeding effects suggested                founding variables. The map shows that many studies
+that costs were reduced in small populations [20]. This               sacrifice realism for control in the environmental condi-
+latter study however, could not determine if this was the             tions the effects of inbreeding are measured in, with the
+result of purging of deleterious alleles or higher baseline           costs typically assessed in controlled, often relatively be-
+levels of inbreeding masking the effects of inbreeding de-            nign laboratory/greenhouse conditions. Several studies
+pression. Thus in small populations, where drift load can             indicate that the costs of inbreeding increase, or may
+increase the baseline level of inbreeding, crossing designs           only become apparent under more stressful conditions
+that enable inbreeding effects to be assessed at both levels          [21,39]. Thus, while measures under controlled conditions
+are necessary to determine the overall cost of inbreeding             may increase accuracy, it does not necessarily reflect the
+and accurately inform conservation.                                   costs of inbreeding that would occur under natural condi-
+   Recessive alleles with large deleterious effects may be            tions, which may be much greater. The map does, how-
+purged by selection when they are exposed by inbreed-                 ever, show that while numerous studies continue to assess
+ing, reducing the genetic load and hence the costs of in-             inbreeding under controlled environments, the number of
+breeding. In theory, purging of deleterious alleles will              studies assessing the costs under natural conditions has
+reduce the costs of inbreeding over time and fitness may              increased (e.g. [40,41]).
+be recovered, or even enhanced [34]. While some studies                  Substantial variation in the costs of inbreeding has
+suggest the relationship between population fitness and               been documented (e.g. [21,37]). This map shows that in-
+inbreeding can be influenced by purging [35,36], several              dividual studies rarely assessed multiple species or multiple
+reviews indicate the effectiveness of purging is highly               populations within a species in an attempt to document
+variable [37,38]. The investigation of the impact of pur-             variation and fewer attempted to test potential causes.
+ging requires inbreeding to be followed across multiple               Variation in inbreeding responses could be related to
+generations. The map shows that the primary research                  species- or population- specific attributes, or other study
+in natural populations is limited, with most studies only             specific effects, which need to be considered when inter-
+assessing one generation of inbreeding. Similar limita-               preting the phenotypic effects of inbreeding reported. In-
+tions on studies of outbreeding responses have also been              formation on the potential sources of heterogeneity we
+noted [15]. In addition, information on factors that can              were interested in was reported sporadically. Population
+influence the effectiveness of purging, such as the rate of           level effects such as size, levels of genetic diversity and
+inbreeding (classified here as population history; [36]),             demographic history were relatively poorly reported
+
+Neaves et al. Environmental Evidence (2015) 4:5                                                                                Page 13 of 17
+               (a)
+               (b)
+  Figure 6 Inbreeding studies categorised by test environment. (a) Number of studies by test environment within the systematic map.
+  (b) Frequency of studies by test environment for each taxonomic category. Natural conditions are black, semi-natural conditions are dark
+  grey, experimentally manipulated conditions are light grey and controlled laboratory, greenhouse or common garden conditions are
+  white. Number of studies is shown to the right.
+compared with potential experimental effects such as the                 the inbreeding literature and is a common criticism of pri-
+environmental context traits were measured under. In                     mary research synthesised in other reviews [15,42].
+many instances, particularly for rare or threatened species                Understanding the influence of potential sources of vari-
+this reflects limitations on the availability of individuals/            ation on the effects of inbreeding can inform decision-
+populations for sampling. It is also likely the map un-                  making in conservation and enable the prediction of
+derestimates the number of studies where relevant add-                   high-risk situations where intervention may be required.
+itional information on species and population level effects              In general, the consequences of inbreeding are based on
+is available, as it may be reported in separate articles or              outcrossing diploids species [4]. Thus, the first step in
+it may be available through consultation with authors.                   assessing risk is an understanding of species traits. How-
+Nonetheless, the lack of reporting of potential sources of               ever, the map shows there is substantial variation in
+variation is likely to represent a pervasive problem within              reporting of many traits, while sufficient data on the
+
+Neaves et al. Environmental Evidence (2015) 4:5                                                                                        Page 14 of 17
+  Figure 7 Number of studies within the systematic map reporting potential sources of heterogeneity.
+mode of reproduction appears to exist; information                        elucidate the extent to which measures of neutral genetic
+on the ploidy of study species appears insufficient to en-                diversity can reflect genetic load and hence the costs of in-
+able review.                                                              breeding. From a practical standpoint, estimates of popu-
+   Among populations within species potentially useful                    lation size may be more easily obtained and frequently
+proxies for identifying high-risk situations include levels               form part of monitoring and risk assessment. Hence
+of genetic diversity within populations (e.g. heterozygosity)             determining the relationship between census size and in-
+or population size, as both have been shown to correlate                  breeding is likely to be useful for managers. Although the
+with inbreeding [43,44]. Genetic diversity is typically mea-              effective population size, the equivalent number of indi-
+sured at neutral loci, which do not impact on fitness, and                viduals contributing to the next generation is more closely
+as a result measures of neutral and quantitative variation                related to inbreeding risk, it is difficult to determine and
+do not always correlate [45]. Thus, the underlying cause                  previous studies have shown census population size corre-
+of the correlation between levels of neutral genetic diver-               lates with both effective population size and genetic
+sity measures such as heterozygosity and fitness is not well              diversity [43,46]. The relationship between inbreeding
+resolved [43]. The map shows that while not extensive,                    depression and census size is not straightforward as shown
+sufficient studies exist to support syntheses to further                  in a recent meta-analysis in plants [20]. Thus, broader
+  Figure 8 The total quality score for studies. The numbers of studies with each total quality score for the internal/external study validity.
+  Number of studies is shown.
+
+Neaves et al. Environmental Evidence (2015) 4:5                                                                             Page 15 of 17
+Table 4 Percentage (and number) of studies by quality scores for individual attributes
+Quality attribute                                         Quality score
+                                                          0                  0.5                    1                          2
+1. Evidence underpinning pedigrees                        8.39%(59)          6.40%(45)              85.21%(599)                n/a
+2. Coefficient of inbreeding known                        5.26%(37)          n/a                    67.14%(472)                27.60%(194)
+3. Outcome measures                                       7.82%(55)          n/a                    92.18%(648)                n/a
+4. Environment for measurements                           54.91%(386)        n/a                    18.21%(128)                26.88%(189)
+5. Number of replicate populations                        59.89%(421)        n/a                    40.11%(282)                n/a
+6. Number of generations assessed                         86.34%(607)        n/a                    13.66%(96)                 n/a
+Quality attribute numbers correspond to those in Table 3.
+reviews are required to provide insights into this rela-                subtopics which are likely to yield a suitable amount of
+tionship and refine predictions. The systematic map                     data for meta-analysis. Specific questions could include:
+shows sufficient studies exist for meta-analysis to fur-
+ther elucidate the potential for census size to predict                    How do species’ traits influence the cost of inbreeding
+inbreeding depression (but see Possible systematic re-                        in natural plant populations? Plants were clearly the
+view topics below).                                                           focus of the primary research with 469 studies in the
+                                                                              map and hence a review could provide relatively
+                                                                              robust conclusions, although the high proportion of
+Research gaps
+                                                                              studies employing self-fertilisation may limit the
+The systematic map highlights several areas in the pri-
+                                                                              relevance of these conclusions to other taxonomic
+mary research that are less well explored in natural
+                                                                              groups. A subset of these data, relating to population
+populations.
+                                                                              size has already been meta-analysed (but see the
+                                                                              following point). The primary research for invertebrates
+    The long-term, multigenerational consequences
+                                                                              and vertebrates is sparser but could still be informative,
+       of inbreeding, especially the potential for the
+                                                                              particularly in vertebrates where studies often assess
+       restoration of fitness via purging of genetic load.
+                                                                              inbreeding under natural conditions.
+      Costs of moderate-low levels of bi-parental
+                                                                           How does population size influence the costs of
+       inbreeding.
+                                                                              inbreeding in natural populations? Information on
+      The relative contribution of within- and
+                                                                              the relationship between inbreeding costs and
+       among-population inbreeding to the loss of fitness.
+                                                                              population size has the potential to inform
+      The severity of inbreeding depression in natural
+                                                                              conservation strategy as a proxy for risks assessment.
+       conditions.
+                                                                              This area has recently been meta-analysed for plants
+      The extent and causes of variation in inbreeding
+                                                                              [20]. This review was not systematic but future
+       responses across populations of the same species,
+                                                                              meta-analyses would need to ascertain potential
+       and particularly in response to differences in
+                                                                              overlap. The primary research will support a similar
+       population size or levels of within-population neutral
+                                                                              review on animals.
+       genetic diversity.
+                                                                           How do levels of neutral genetic variation within
+                                                                              populations affect the costs of inbreeding?
+Possible systematic review topics                                          How does the environmental context influence
+The systematic map highlights several subtopics that con-                     phenotypic responses to inbreeding?
+tain suitable primary research for synthesis into a system-
+atic review. This systematic map revealed two distinct                  Limitations of the map
+lines of investigation into inbreeding responses; the con-              The search strategy and the repeatability of the inclusion
+sequences of inbreeding resulting from consanguineous                   criteria were relatively robust to missing relevant studies
+matings within populations and the impacts due to isola-                based on sensitivity analyses of the searches and kappa
+tion and drift. The latter is likely encompassed by a recent            analyses of inclusion criteria. However there may be
+systematic review of the consequences of outbreeding [15]               some cases in which authors may publish inbreeding co-
+and further review at this time is unlikely to yield add-               efficients/genetic variation data separately to fitness data
+itional information.                                                    relating to the same individuals. In these cases, it is pos-
+   The primary research for responses to self-fertilisation/            sible that neither of the two published articles may be
+consanguineous mating is extensive and there are several                covered by the search strategy. The obvious approach to
+
+Neaves et al. Environmental Evidence (2015) 4:5                                                                                 Page 16 of 17
+address the problem would be to widen the search strat-       secondary syntheses to generate information that could
+egy to include all inbreeding coefficient/genetic variation   be incorporated into conservation planning.
+studies and all fitness studies and then compare the au-
+thor lists for matches but this would be expected to sub-     Implications for research
+stantially increase the number of studies to be screened      The map highlights several areas where information is
+for relevance. In addition, although we employed a broad      limited or lacking and suggests future primary research
+definition of inbreeding designed to capture primary lit-     should aim to assess the longer term multi-generational
+erature investigating both within- and among-population       impacts of inbreeding, across multiple populations and
+inbreeding [47], it is possible that some studies assessing   under natural conditions. In addition, studies that simultan-
+among-population inbreeding were published as out-            eously investigate within-population and among-population
+crossing studies, and so may not have been covered by         inbreeding are required to strengthen and refine our under-
+our searches.                                                 standing of situations where inbreeding depression may not
+   There are also limitations associated with interpreting    be detected due to the fixation of genetic load.
+the results of queries in the database, due to the inde-         Finally, the potential for meta-analysis to be used to in-
+pendent coding of attributes for each study. This occurs      vestigate the factors influencing variation in the pheno-
+because each study may measure multiple variables or          typic consequences of inbreeding appears limited, with the
+cross types, but not all the potential combinations of        map showing a lack of reporting about potential sources
+these may have been assessed. For instance, a study may       of heterogeneity. This is particularly important from a
+report survival under controlled conditions but growth        conservation perspective where these patterns can lead to
+rate under both natural and controlled conditions. In         the identification of useful proxies for predicting the risks
+the database the study will be recorded as measuring the      posed by inbreeding depression.
+traits survival and growth rate and that traits were mea-
+sured under natural and controlled conditions. Thus, the      Additional files
+record would imply that both traits were measured under
+natural conditions even though survival was only measure        Additional file 1: Record of searches.
+in controlled conditions. This means that a small number        Additional file 2: Coding categories and keywords used in the
+                                                                database.
+of false relationships between variables/attributes may be
+                                                                Additional file 3: All articles retrieved by the searches and their
+indicated by some queries in the database. This was lim-        inclusion/exclusion at each stage of assessment.
+ited, to some extent, by the separation of articles into        Additional file 4: Searchable database of inbreeding research. The
+studies where multiple species or experimental designs          database includes all articles accepted at the full-text level and is coded
+were employed but could not be overcome without                 according to the keywords outlined in Additional file 2.
+loss of detail or further dissection of records into individ-
+ual observations.                                             Competing interests
+                                                              The authors declare that they have no competing interests.
+Conclusions                                                   Authors’ contributions
+                                                              LEN led the literature survey and assessment, carried out the data extraction
+This systematic map provides a substantial database of        and coding for the map. JE and RW designed and participated in the
+research relevant to the primary question: ‘What are the      searches, and extraction of data. PMH, ASP and TB conceived of the study,
+fitness consequences of inbreeding in natural popula-         formulation of the question and contributed to the design. LEN and JE
+                                                              drafted the manuscript with input from all the authors. All authors read and
+tions?’ The map is up-to-date as of 12 August 2013.           approved the final manuscript.
+Searches and screening procedures were carried out ac-
+cording to the original systematic review protocol, includ-   Acknowledgements
+                                                              LEN, JE and RW were supported by a NERC knowledge exchange grant
+ing kappa analyses. Articles were categorised according to    (NE/H001824/1) to PMH, ASP & TB. We thank Marie Chadburn for assistance
+the experimental design, sources of heterogeneity and the     in conducting literature searches and assessment of search results. We also
+quality of the study.                                         thank the project review group, Mike Bruford, Richard Ennos, Mike Fay, Stuart
+                                                              Piertney and the representatives from UK conservation organisations, Barbara
+                                                              Jones (representing Natural Resources Wales), Ian Taylor (Natural England),
+                                                              Robin Payne (Scottish Natural Heritage), Barbara Smith (Game and Wildlife
+Implications for policy and conservation management           Trust) and Richard Smithers for assistance with question formulation and
+The map provides a research tool for managers inter-          critical feedback on this review.
+ested in the potential consequences of inbreeding and
+                                                              Author details
+can be used to gather data for a range of subtopics. The      1
+                                                               Royal Botanic Garden Edinburgh, 20A Inverleith Row, Edinburgh EH3 5LR,
+information provided will enable users to identify rele-      UK. 2Centre for Evidence-Based Conservation, School of Environment and
+vant publications and assess the amount of information        Natural Resources and Geography, Bangor University, Bangor LL57 2UW, UK.
+                                                              3
+                                                               Institute of Integrative Biology, University of Liverpool, The Biosciences
+and, importantly, the quality of this information for a       Building, Crown Street, Liverpool L69 7ZB, UK. 4Department of Animal and
+given topic. The map also highlights the potential for        Plant Sciences, University of Sheffield, Sheffield S10 2TN, UK.
+
+Neaves et al. Environmental Evidence (2015) 4:5                                                                                                          Page 17 of 17
+Received: 21 August 2014 Accepted: 27 January 2015                                 28. Randall N, James K. The effectiveness of integrated farm management,
+                                                                                       organic farming and agri-environment schemes for conserving biodiversity
+                                                                                       in temperate Europe - a systematic map. Environ Evid. 2012;1:4.
+                                                                                   29. Cohen JE. A coefficient of agreement for nominal scales. Educ Psychol
+References                                                                             Meas. 1960;30:37–46.
+1. Frankham R. Inbreeding in the wild really does matter. Heredity.                30. Landis JR, Koch GG. The measurement of observer agreement for
+    2010;104:124.                                                                      categorical data. Biometrics. 1977;33:159–74.
+2. Keller LF, Waller DM. Inbreeding effects in wild populations. Trends Ecol       31. Lande R. Genetics and demography in biological conservation. Science.
+    Evol. 2002;17:230–41.                                                              1988;241:1455–60.
+3. Spielman D, Brook BW, Frankham R. Most species are not driven to                32. Caughley G. Directions in conservation biology. J Anim Ecol. 1994;63:215–44.
+    extinction before genetic factors impact them. Proc Natl Acad Sci U S A.       33. Ralls K, Ballou JD, Templeton A. Estimates of lethal equivalents and the cost
+    2004;101:15261–4.                                                                  of inbreeding in mammals. Conserv Biol. 1988;2:185–93.
+4. Frankham R, Ballou JD, Briscoe DA. Introduction to Conservation Genetics.       34. Theodorou K, Couvet D. On the expected relationship between inbreeding,
+    Cambridge: Cambridge University Press; 2010.                                       fitness, and extinction. Genet Sel Evol. 2006;38:371–87.
+5. Charlesworth D, Willis JH. The genetics of inbreeding depression. Nat Rev       35. Larsen LK, PeLabon C, Bolstad GH, Viken Å, Fleming IA, Rosenqvist G.
+    Genet. 2009;10:783–96.                                                             Temporal change in inbreeding depression in life-history traits in captive
+6. Charlesworth B, Charlesworth D. The genetic basis of inbreeding depression.         populations of guppy (Poecilia reticulata): evidence for purging? J Evol Biol.
+    Genet Res. 1999;74:329–40.                                                         2011;24:823–34.
+7. Hedrick PW, Adams JR, Vucetich JA. Reevaluating and broadening the              36. Pekkala N, Emily Knott K, Kotiaho JS, Puurtinen M. Inbreeding rate modifies
+    definition of genetic rescue. Conserv Biol. 2011;25:1069–70.                       the dynamics of genetic load in small populations. Ecol Evol. 2012;2:1791–804.
+8. Hedrick P, Fredrickson R. Genetic rescue guidelines with examples from          37. Crnokrak P, Barrett SCH. Perspective: purging the genetic load: a review of
+    Mexican wolves and Florida panthers. Conserv Genet. 2010;11:615–26.                the experimental evidence. Evolution. 2002;56:2347–58.
+9. Johnson WE, Onorato DP, Roelke ME, Land ED, Cunningham M, Belden RC,            38. Byers DL, Waller DM. Do plant populations purge their genetic load? Effects
+    et al. Genetic restoration of the Florida panther. Science. 2010;329:1641–5.       of population size and mating history on inbreeding depression. Annu Rev
+10. Madsen T, Ujvari B, Olsson M. Novel genes continue to enhance population           Ecol Syst. 1999;30:479–513.
+    growth in adders (Vipera berus). Biol Conserv. 2004;120:145–7.                 39. Reed DH, Fox CW, Enders LS, Kristensen TN. Inbreeding–stress interactions:
+11. Madsen T, Shine R, Olsson M, Wittzell H. Conservation Biology: restoration of      evolutionary and conservation consequences. Ann N Y Acad Sci.
+    an inbred adder population. Nature. 1999;402:34–5.                                 2012;1256:33–48.
+12. Willi Y, van Kleunen M, Dietrich S, Fischer M. Genetic rescue persists beyond  40. Nielsen JF, English S, Goodall-Copestake WP, Wang J, Walling CA, Bateman AW,
+                                                                                       et al. Inbreeding and inbreeding depression of early life traits in a cooperative
+    first-generation outbreeding in small populations of a rare plant. Proc R Soc
+                                                                                       mammal. Mol Ecol. 2012;21:2788–804.
+    B Biol Sci. 2007;274:2357–64.
+                                                                                   41. Brekke P, Bennett PM, Wang J, Pettorelli N, Ewen JG. Sensitive males:
+13. Edmands S. Between a rock and a hard place: evaluating the relative risks of
+                                                                                       inbreeding depression in an endangered bird. Proc R Soc B Biol Sci.
+    inbreeding and outbreeding for conservation and management. Mol Ecol.
+                                                                                       2010;277:3677–84.
+    2007;16:463–75.
+                                                                                   42. Castellanos M, Verdú M. Meta-analysis of meta-analyses in plant evolutionary
+14. Lynch M. The genetic interpretation of inbreeding depression and
+                                                                                       ecology. Evol Ecol. 2012;26:1187–96.
+    outbreeding depression. Evolution. 1991;45:622–9.
+                                                                                   43. Reed DH, Frankham R. Correlation between fitness and genetic diversity.
+15. Whitlock R, Stewart GB, Goodman SJ, Piertney SB, Butlin RK, Pullin A, et al. A
+                                                                                       Conserv Biol. 2003;17:230–7.
+    systematic review of phenotypic responses to between-population outbreeding.
+                                                                                   44. Leimu R, Mutikainen PIA, Koricheva J, Fischer M. How general are positive
+    Environ Evid. 2013;2:13.
+                                                                                       relationships between plant population size, fitness and genetic variation?
+16. Frankham R, Ballou JD, Eldridge MDB, Lacy RC, Ralls K, Dudash MR, et al.
+                                                                                       J Ecol. 2006;94:942–52.
+    Predicting the probability of outbreeding depression. Conserv Biol.
+                                                                                   45. Reed DH, Frankham R. How closely correlated are molecular and
+    2011;25:465–75.
+                                                                                       quantitative measures of genetic variation? A meta-analysis. Evolution.
+17. Hedrick PW, Kalinowski ST. Inbreeding depression in conservation biology.
+                                                                                       2001;55:1095–103.
+    Annu Rev Ecol Syst. 2000;31:139–62.
+                                                                                   46. Frankham R. Effective population size/adult population size ratios in wildlife:
+18. Crnokrak P, Roff DA. Inbreeding depression in the wild. Heredity (Edinb).
+                                                                                       a review. Genet Res. 1995;66:95–107.
+    1999;83:260–70.
+                                                                                   47. Wright S. The interpretation of population structure by F-statistics with
+19. O’Grady JJ, Brook BW, Reed DH, Ballou JD, Tonkyn DW, Frankham R. Realistic
+                                                                                       special regard to systems of mating. Evolution. 1965;19:395–420.
+    levels of inbreeding depression strongly affect extinction risk in wild
+    populations. Biol Conserv. 2006;133:42–51.
+20. Angeloni F, Ouborg NJ, Leimu R. Meta-analysis on the association of
+    population size and life history with inbreeding depression in plants.
+    Biol Conserv. 2011;144:35–43.
+21. Fox CW, Reed DH. Inbreeding depression increases with environmental
+    stress: an experimental study and meta-analysis. Evolution. 2011;65:246–58.
+22. Grant MJ, Booth A. A typology of reviews: an analysis of 14 review types
+    and associated methodologies. Heal Inf Libr J. 2009;26:91–108.
+23. Fay MF, Sutcliffe J, Jones B, Taylor I. Proceedings of a Conservation Genetics
+    Workshop Held at the Royal Botanic Gardens, Kew. 2001.                               Submit your next manuscript to BioMed Central
+24. Ferris R. Research Needs for UK Biodiversity. London: DEFRA; 2007.                   and take full advantage of:
+25. Gregory A, Burke T, Ferris T, Robson J, Smithers R, Whitlock R. The
+    conservation of genetic diversity: science and policy needs in a changing
+                                                                                        • Convenient online submission
+    world. 2006. JNCC report, No. 383.
+26. Collaboration for Environmental Evidence. Guidelines for systematic review          • Thorough peer review
+    and evidence synthesis in environmental management. version 4.2. 2013.              • No space constraints or color ﬁgure charges
+    Environmental Evidence: www.environmentalevidence.org/wp-content/
+                                                                                        • Immediate publication on acceptance
+    uploads/2014/06/Review-guidelines-version-4.2-final.pdf.
+27. Whitlock R, Eales J, Chadburn M, Neaves LE, Hollingsworth PM, Burke T,              • Inclusion in PubMed, CAS, Scopus and Google Scholar
+    Pullin AS. How do species’ characteristics influence the cost of inbreeding?        • Research which is freely available for redistribution
+    CEE Protocol 10-014. Collaboration for Environmental Evidence. 2012.
+    http://www.environmentalevidence.org/wp-content/uploads/2014/06/
+    Protocol10-014.pdf.                                                                  Submit your manuscript at
+                                                                                         www.biomedcentral.com/submit
+

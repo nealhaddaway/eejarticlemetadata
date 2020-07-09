@@ -1,0 +1,1082 @@
+Bernes et al. Environ Evid (2015) 4:25
+DOI 10.1186/s13750-015-0050-7
+                                                                                                                       Environmental Evidence
+  SYSTEMATIC MAP                                                                                                                                      Open Access
+What is the impact of active
+management on biodiversity in boreal
+and temperate forests set aside for conservation
+or restoration? A systematic map
+Claes Bernes1*, Bengt Gunnar Jonsson2, Kaisa Junninen3, Asko Lõhmus4, Ellen Macdonald5, Jörg Müller6
+and Jennie Sandström2
+  Abstract
+  Background: The biodiversity of forests set aside from forestry is often considered best preserved by non-interven-
+  tion. In many protected forests, however, remaining biodiversity values are legacies of past disturbances, e.g. recurring
+  fires, grazing or small-scale felling. These forests may need active management to keep the characteristics that were
+  the reason for setting them aside. Such management can be particularly relevant where lost ecological values need
+  to be restored. In this review, we identified studies on a variety of interventions that could be useful for conserving
+  or restoring any aspect of forest biodiversity in boreal and temperate regions. Since the review is based on Swedish
+  initiatives, we have focused on forest types that are represented in Sweden, but such forests exist in many parts of
+  the world. The wide scope of the review means that the set of studies is quite heterogeneous. As a first step towards
+  a more complete synthesis, therefore, we have compiled a systematic map. Such a map gives an overview of the evi-
+  dence base by providing a database with descriptions of relevant studies, but it does not synthesise reported results.
+  Methods: Searches for literature were made using online publication databases, search engines, specialist web-
+  sites and literature reviews. Search terms were developed in English, Finnish, French, German, Russian and Swedish.
+  We searched not only for studies of interventions in actual forest set-asides, but also for appropriate evidence from
+  commercially managed forests, since some practices applied there may be useful for conservation or restoration
+  purposes too. Identified articles were screened for relevance using criteria set out in an a priori protocol. Descriptions
+  of included studies are available in an Excel file, and also in an interactive GIS application that can be accessed at an
+  external website.
+  Results: Our searches identified nearly 17,000 articles. The 798 articles that remained after screening for relevance
+  described 812 individual studies. Almost two-thirds of the included studies were conducted in North America,
+  whereas most of the rest were performed in Europe. Of the European studies, 58 % were conducted in Finland or
+  Sweden. The interventions most commonly studied were partial harvesting, prescribed burning, thinning, and graz-
+  ing or exclusion from grazing. The outcomes most frequently reported were effects of interventions on trees, other
+  vascular plants, dead wood, vertical stand structure and birds. Outcome metrics included e.g. abundance, richness of
+  species (or genera), diversity indices, and community composition based on ordinations.
+  Conclusions: This systematic map identifies a wealth of evidence on the impact of active management practices
+  that could be utilised to conserve or restore biodiversity in forest set-asides. As such it should be of value to e.g.
+*Correspondence: claes.bernes@eviem.se
+1
+  Mistra Council for Evidence‑Based Environmental Management, Royal
+Swedish Academy of Sciences, 104 05 Stockholm, Sweden
+Full list of author information is available at the end of the article
+                                              © 2015 Bernes et al. This article is distributed under the terms of the Creative Commons Attribution 4.0 International License
+                                              (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium,
+                                              provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license,
+                                              and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/
+                                              publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+
+Bernes et al. Environ Evid (2015) 4:25                                                                              Page 2 of 22
+  conservation managers, researchers and policymakers. Moreover, since the map also highlights important knowledge
+  gaps, it could inspire new primary research on topics that have so far not been well covered. Finally, it provides a foun-
+  dation for systematic reviews on specific subtopics. Based on our map of the evidence, we identified four subtopics
+  that are sufficiently covered by existing studies to allow full systematic reviewing, potentially including meta-analysis.
+  Keywords: Biodiversity, Boreal forest, Temperate forest, Disturbance legacy, Forest conservation, Forest restoration,
+  Forest set-aside, Forest reserve, Habitat management, Partial harvesting, Prescribed burning, Thinning, Grazing,
+  Browsing, Dead wood
+Background                                                           In existing reserves too, past silvicultural use has in
+Conservation and restoration of forest biodiversity                some cases impaired forest habitats to such a degree that
+Globally, forest cover has declined over many millennia,           they are unable to sustain a diverse flora and fauna. In
+but extensive regions still remain mostly forested, not            many forests included in the EU Natura 2000 network
+least in northern Eurasia and North America. In the lat-           of protected areas, habitat conditions are not better
+ter areas, the proportion of the landscape covered by for-         than in unprotected areas [7]. For example, the exten-
+est is currently stable or even expanding [1]. At the same         sive forest-reserve networks that have been established
+time, however, impacts of large-scale forest management            in Estonia and Germany are still dominated by mid-aged
+and other industrial activities have transformed forest            second-growth forests, and 10 % of the area covered by
+ecosystems from being governed mostly by natural pro-              the Estonian network has also been degraded by artificial
+cesses to being under strong human influence [2]. This             drainage [8, 9].
+transition has had far-reaching consequences for forest              In some areas still untouched by large-scale forestry,
+structure and dynamics, and it has been accompanied                e.g. the montane natural forests that predominate in
+by a significant loss of forest biodiversity at all levels.        Sweden’s protected forest areas, vegetation is shaped pri-
+Genetic diversity, species richness and ecosystem vari-            marily by small scale internal dynamics, i.e. the ageing
+ability have all decreased [3].                                    and death of fully grown trees and the establishment and
+  The traditional way of compensating for such effects             growth of new seedlings. In most forest reserves in such
+is to identify forest areas that have (or may develop)             areas, biodiversity can be preserved under a non-inter-
+high natural values and set them aside as reserves, with           vention management approach (also called passive man-
+restrictions on subsequent management and use. Protec-             agement, free development or benign neglect strategy),
+tion of this kind is still seen as an indispensable tool for       intended to allow natural processes of internal dynamics
+nature conservation—current global targets state that at           to continue undisturbed.
+least 17 % of the total land area should be protected for            In many protected forests, however, the remaining bio-
+the benefit of biodiversity [4]. Such a target constitutes a       diversity values are legacies of past disturbance regimes
+major challenge, both because setting aside land is gen-           that nowadays are suppressed. This situation is common
+erally costly and because the proportion of forests that           e.g. in the boreal pine forest, which in its natural state
+still have high natural values falls far short of the 17 %         is shaped by recurring fires that create an abundance
+target in many regions. Today, 12 % of the entire forested         of dead wood and keep the stands relatively sparse and
+area in Europe (excluding Russia) has been protected,              mixed with a significant broadleaf component. In north-
+and the corresponding figure for North America is 9 %.             ern Europe, forest fires are now very rare. Pine forests
+The proportion of primary forest is a mere 2.8 % in                in this region have therefore become denser, with an
+Europe, however, whereas it still exceeds 40 % in North            increasing preponderance of spruce [10, 11] and loss of
+America [1].                                                       natural values associated with more open habitats.
+  Of the ‘western taiga’ forest in Sweden, for instance, it          Even in seemingly intact European forests, many cur-
+has been estimated that only 2 million hectares, about             rent biodiversity hotspots have experienced profound
+10 % of its original extent, fulfils the habitat criteria of the   human disturbances in the past [12]. In some forest
+European Species and Habitat Directive [5]. Old-growth             set-asides, for instance, existing conservation values are
+characteristics in particular (such as large old trees and         partly a result of earlier forest grazing (using the forest
+dead trees) have been drastically reduced in forests               as pasture for livestock), coppicing with standards, small-
+around the world, and significant parts of the biodiversity        scale felling or similar human influences. Since these
+that depends on such characteristics face local extirpa-           activities were usually discontinued several decades ago,
+tion or extinction even in countries that remain largely           the forest has become denser and more shaded in such
+forested [6].                                                      areas, to the detriment of a large number of species that
+
+Bernes et al. Environ Evid (2015) 4:25                                                                         Page 3 of 22
+are dependent on a semi-open forest landscape or early-      communities). For instance, the rationale for restoration
+successional stages of stand development. In Estonia, for    of natural fire regimes may depend not only on specific
+example, the area of wooded grasslands has plummeted         biodiversity targets but also on an understanding of the
+from 700,000 ha in 1940 to less than 10,000 ha today. As     environmental conditions that determine what is ‘natural’
+a consequence, many formerly common species are now          [19].
+threatened there [13].
+  Reserves in areas of these kinds may need some form        Scientific basis for the management of forest set‑asides
+of active management to keep the characteristics that        Direct evidence of how active management has affected
+were the reason for setting them aside. Such manage-         biodiversity in forest set-asides is relatively sparse, but
+ment could, for instance, involve partial harvesting, thin-  there has been some improvement over the last few
+ning, prescribed burning, creation or addition of dead       years. Recent reviews with a particular focus on forests
+wood, grazing or exclusion from grazing, and introduc-       set aside from commercial harvesting include a litera-
+tion or removal of species. Since active and non-inter-      ture study by Götmark [20] of management options for
+vention management can favour different sets of species      protected areas and a systematic review by Davies et al.
+(e.g. [14]), these approaches should always be carefully     [21] of interventions intended to conserve saproxylic
+weighed against local and landscape-level conservation       invertebrates (in old-growth forests as well as in younger
+targets.                                                     stands).
+  Active management for ecological purposes can be par-        Considerably more studies have been made on how
+ticularly relevant in regions where forests have already     commercial forest management can be modified to
+been degraded. In such areas, the creation of a network      reduce its negative impacts on biodiversity. Many of the
+of forest reserves with high-quality habitats will require a studies describe attempts to restore certain old-growth
+combination of landscape-scale planning and stand-scale      characteristics (e.g. the presence of dead wood or an
+restoration. While, in this review, ‘conservation’ mainly    uneven-aged forest structure), usually through some kind
+refers to management intended to preserve existing nat-      of partial harvesting, to stands that formerly were under
+ural values, ‘restoration’ may be defined as ‘the process    even-aged management [22]. In North America, numer-
+of assisting the recovery of an ecosystem that has been      ous studies have also been made on the ecological effects
+degraded, damaged or destroyed’ [15]. In applied situa-      of fuel reduction, i.e. thinning, prescribed burning and
+tions, however, conservation and restoration may sim-        other interventions intended to reduce the frequency,
+ply be seen as two ends of a spectrum, ranging from the      extent and severity of wildfires (e.g. [23]).
+maintenance of ecological values at a certain level to the     A large share of these studies have been made in forests
+reintroduction of such values. Our review includes stud-     where commercial timber production will continue, but a
+ies covering all parts of this spectrum.                     few have been conducted in protected forests. A minor-
+  In some places, exploited forest areas may be restored     ity of studies deal with old-growth forest with no history
+by allowing them gradually to return to a near-natural       of large-scale harvesting. Nevertheless, even studies in
+state through non-intervention, but elsewhere active         timber-production forests may provide useful indirect
+measures may be required to accelerate natural recov-        evidence on how active management can affect biodiver-
+ery or to sustain or introduce desired natural processes     sity in areas entirely set aside from commercial forestry.
+or conditions [6, 16]. Nowadays, a multitude of restora-     Studies of how biodiversity is affected by various forestry
+tion activities are performed to counteract losses of forest practices (including fuel reduction) have recently been
+biodiversity (e.g. [17]). An ambitious goal set in the EU    summarised in several literature reviews, e.g. [24–28].
+Biodiversity Strategy is that 15 % of degraded ecosystems    Many such studies have also been included in meta-anal-
+are to be restored by 2020.                                  yses, e.g. [29–41].
+  Solutions like afforestation and forest restoration could    However, most of these summaries are restricted to
+be particularly useful in historically deforested regions,   certain geographical regions, to one or two types of inter-
+such as Britain. There, the best starting point for protect- vention, and to specific aspects of biodiversity. Eleven of
+ing old-forest biota may be to manage mature planted         the nineteen reviews and meta-analyses cited above focus
+forests in a way that facilitates the development of natu-   on forests in the United States and/or Canada, most of
+ral forest characteristics [18].                             them are devoted to effects of burning, thinning or par-
+  Finally, it should be noted that both conservation and     tial harvesting, and nearly half of them deal with effects
+restoration efforts must be approached with consid-          on birds or other vertebrates only. Moreover, many of the
+eration of broader changes in the environment (e.g. cli-     reviewed studies compare silvicultural systems that are
+mate change and variations in land use intensity, both       described in very general terms, with little or no informa-
+of which are capable of fundamentally affecting species      tion on specific interventions.
+
+Bernes et al. Environ Evid (2015) 4:25                                                                          Page 4 of 22
+   There is clearly a need for a more complete and          Objective of the systematic map
+explicit synthesis of the available evidence on how         The primary aim of this systematic map is to provide an
+various management options may affect biodiversity          overview of available evidence on how biodiversity in for-
+in forests set aside for conservation or restoration. We    est set-asides may be affected by various forms of active
+initiated this review at the request of Swedish stake-      management. We searched not only for studies of interven-
+holders, who wished to get an overview of the scientific    tions in actual forest reserves and other kinds of set-asides,
+support for different ways of managing protected for-       but also for appropriate evidence from non-protected and
+ests (see Additional file 1). For that reason, our review   commercially managed forests, since some of the practices
+is focused on the boreal and temperate forest types that    commonly applied in commercial forestry may be useful
+are represented in Sweden, but these forests are parts      for conservation or restoration purposes too.
+of vegetation zones that extend over many parts of the
+world. Any study of active management that is used (or      Primary question
+could be used) to maintain or restore forest biodiversity   What is the impact of active management on biodiversity
+within these zones was potentially eligible for inclusion   in boreal and temperate forests set aside for conservation
+in the review. This also means that the evidence cov-       or restoration?
+ered by our review should be relevant for managers of
+forest set-asides throughout the boreal and temperate       Components of the primary question
+zones.                                                        ••  Population/subject: Boreal and temperate forests set
+   Rather than reviewing a specific selection of interven-        aside for conservation or restoration of biodiversity
+tions, we sought to cover a wide range of active forest-      ••  Intervention: Active management (e.g. partial har-
+management options that could be useful for conserving            vesting, thinning, prescribed burning, creation or
+or restoring biodiversity in protected forests. Similarly,        addition of dead wood, grazing or exclusion from
+rather than attempting to distinguish aspects of biodi-           grazing, and introduction or removal of species)
+versity with particular relevance to conservation, we         ••  Comparator: Non-intervention or alternative types
+considered the entire array of diversity measures pre-            of intervention
+sented in original sources, recognising that no such          ••  Outcomes: Measures or indicators of biodiversity
+measure represents a universally meaningful conserva-
+tion target.                                                  It may be noted that in the context of conservation, the
+   Furthermore, we searched for available studies and       primary comparator (non-intervention) can be regarded
+screened them for relevance using a ‘systematic’ approach   as a management option as relevant to study in detail as
+in the sense established by the Collaboration for Environ-  any kind of active management.
+mental Evidence (CEE) [42]. The rigour and transparency
+of this approach is intended to avoid bias and facilitate   Methods
+quantitative and repeatable evaluation by means of meta-    Planning the review
+analysis. Some of the existing reviews cited above are      The design of this systematic map was established in
+based on systematic literature searches, but only one of    detail in an a priori protocol [43]. It follows the guidelines
+them [35] is actually endorsed by the CEE.                  for systematic reviews and evidence synthesis issued by
+   The wide scope of our review means that the set of       the Collaboration for Environmental Evidence [42].
+relevant studies is quite heterogeneous. Forest types,        As described in the protocol, we established the scope
+management options and biodiversity outcomes can be         and focus of the map in close cooperation with stakehold-
+combined in numerous ways, and it was not clear from        ers, primarily in Sweden. Before submission, peer review,
+the outset how well various combinations would be cov-      revision and final publication of the protocol, a draft
+ered by existing studies. As a first step towards a more    version was open for public review at the website of the
+complete and quantitative synthesis, we compiled a sys-     Mistra Council for Evidence-Based Environmental Man-
+tematic map. A systematic map gives an overview of the      agement (EviEM) in May 2014. Comments were received
+evidence base by providing a database with descriptions     from scientists, environmental managers and other stake-
+of the design, scope and focus of relevant studies, but it  holders, and the protocol was revised accordingly.
+does not synthesise reported results [42].
+   Based on our map of the evidence, we then identified     Searches for literature
+subtopics that are sufficiently covered by existing stud-   When searching for relevant literature, we used online
+ies to allow full systematic reviewing, potentially includ- publication databases, search engines, specialist websites
+ing meta-analysis. The map can also be used as a tool for   and literature reviews. Whenever possible, we applied the
+identifying knowledge gaps and research needs.              search terms specified below. In many cases, however,
+
+Bernes et al. Environ Evid (2015) 4:25                                                                        Page 5 of 22
+the search string had to be simplified as some sites could   relevant studies carried out in other boreal and temper-
+handle only a limited number of search terms or did not      ate forest types throughout the world.
+allow the use of ‘wildcards’ or Boolean operators.              At some of the websites mentioned below, searches
+  No time, language or document type restrictions were       were also made for relevant literature in Finnish, French,
+applied.                                                     German, Russian and Swedish, using search terms in
+                                                             these languages. A translation of the full English search
+Search terms                                                 string was used when French literature was searched for
+Initially, we conducted a scoping exercise to assess alter-  in publication databases. In other cases, the selection of
+native search terms, testing them against a set of about     search terms had to be reduced and customised to indi-
+20 articles known to be relevant. This resulted in a pre-    vidual websites, since few of these accept long and com-
+liminary search string that was used for the main part of    plex search strings and some of the English terms could
+the literature searches. Based on suggestions by stake-      not be translated to other languages.
+holders and on the terminology in relevant papers found         About 10 months after the main searches for literature
+with the preliminary search terms, a few terms were later    in English, an update was made using Web of Science and
+added to the search string and used in a set of supple-      Google Scholar.
+mentary searches. The final selection of search terms was       Full details of the search strings used for each search
+as follows:                                                  are recorded in Additional file 2, together with search
+                                                             dates and the number of articles found.
+  ••  Subject: forest*, woodland*, “wood* pasture*”, “wood*
+      meadow*”                                               Publication databases
+  ••  Forest type: boreal, boreonemoral, hemiboreal,         The search utilised the following online publication
+      nemoral, temperate, conifer*, deciduous, broadlea*,    databases:
+      “mixed forest”, spruce, “Scots pine”, birch, aspen,
+      beech, “Quercus robur”, Swed*                            1.  Academic Search
+  ••  Intervention: conserv*, restor*, rehabilitat*, “active   2.  Agricola
+      management”, (prescribed OR control* OR experi-          3.  Biological Abstracts
+      ment*) AND (burn* OR fire*), thinn*, (partial OR         4.  GeoBase + GeoRef
+      selecti* OR gap OR retention) AND (felling OR cut-       5.  JOSKU (University of Eastern Finland library)
+      ting OR harvest*), “green-tree retention”, *introduc*,   6.  JSTOR
+                                                                   eLIBRARY.ru (Hayчнaя элeктpoннaя библиoтeкa)
+      remov*, graz*, brows*, girdl*, ditch*, flood*, fenc*,    7.  Libris
+      exclos*, pollard*, coppic*                               8.
+  ••  Outcomes: *diversity, species AND (richness OR           9.  Science Citation Index
+      focal OR target OR keystone OR umbrella OR red-        10.   Scopus
+      list* OR threatened OR endangered OR rare), “spe-      11.   SwePub
+      cies density”, “number of species”, indicator*, abun-  12.   Web of Science
+      dance, “dead wood”, “woody debris”, “woody material”,  13.   Wiley Online Library
+      “forest structure”, habitat*
+                                                                The main searches for literature in English were made
+  The terms within each of the categories above (‘sub-       with the preliminary search string in ten of these data-
+ject’, ‘forest type’, ‘intervention’ and ‘outcomes’) were    bases. Supplementary searches for English literature
+combined using the Boolean operator ‘OR’. The four cat-      using the additional search terms in the final search
+egories were then combined using the Boolean operator        string were made in Academic Search, Scopus and Web
+‘AND’. An asterisk (*) is a ‘wildcard’ that represents any   of Science (except for one addition, “brows*”, which was
+group of characters, including no character.                 searched for in Web of Science only). Literature in Finn-
+  The ‘forest type’ category of search terms was included    ish, French, Russian and Swedish was searched for in
+in order to keep the number of articles at a manageable      subsets of the publication databases listed above (see
+level—without these terms, the amount of literature to be    Additional file 2 for details).
+screened would have increased about fourfold. The ‘for-
+est type’ search terms were chosen to optimise the likeli-   Search engines
+hood of finding relevant studies in Sweden or in forests     Internet searches were performed using the following
+elsewhere that are dominated by tree species commonly        search engines:
+occurring in Sweden. However, the terms were also               Google (http://www.google.com)
+judged to be capable of identifying a satisfactory share of     Google Scholar (http://scholar.google.com)
+
+Bernes et al. Environ Evid (2015) 4:25                                                                        Page 6 of 22
+   In most cases, the first 200 hits (sorted by relevance)  team used national and international contacts to get
+were examined for appropriateness.                          information on current research related to the topic of
+                                                            the review, and also to find non-peer-reviewed literature,
+Specialist websites                                         including reports and theses published in e.g. Swedish,
+Websites of the specialist organisations listed below were  Finnish, Estonian or Russian.
+searched for links or references to relevant publications
+and data, including grey literature.                        Screening of literature
+                                                            Screening process
+    Ancient Tree Forum (http://www.ancient-tree-forum.      Articles found by searches in publication databases were
+    org.uk)                                                 evaluated for inclusion at three successive levels. First,
+    Bureau of Land Management, US Dept. of the Interior     they were assessed by title by a single reviewer (primar-
+    (http://www.blm.gov)                                    ily CB or JS). In cases of uncertainty, the reviewer chose
+    Environment Canada (http://www.ec.gc.ca)                inclusion rather than exclusion. As a check of consist-
+    European Commission Joint Research Centre (http://      ency, a subset of 100 titles was assessed by both of the
+    ec.europa.eu/dgs/jrc)                                   primary reviewers and also by four other members of
+    European Environment Agency (http://www.eea.            the review team (BGJ, KJ, AL and JM). Of the 76 titles in
+    europa.eu)                                              this subset that had been excluded by one of the primary
+    Food and Agriculture Organization of the United         reviewers (or both), 69 were also excluded by at least two
+    Nations (http://www.fao.org)                            of the additional reviewers. Four of the remaining seven
+    Finland’s environmental administration (http://www.     titles were excluded by only one of the additional review-
+    ymparisto.fi)                                           ers, and three titles by none of them. After discussions
+    International Union for Conservation of Nature          and agreements on whether to include or exclude certain
+    (http://www.iucn.org)                                   borderline topics that had been identified by this exer-
+    Metsähallitus (http://www.metsa.fi)                     cise, the title screening was allowed to continue.
+    Natural Resources Canada (http://www.nrcan.gc.ca)          Next, each article found to be potentially relevant on
+    Nordic Council of Ministers (http://www.norden.org)     the basis of title was assessed for inclusion on the basis of
+    Norwegian Environment Agency (www.miljødirek-           abstract, again by a single reviewer (CB, JS or BGJ) who in
+    toratet.no)                                             cases of uncertainty tended towards inclusion. At an early
+    Norwegian Forest and Landscape Institute (http://       stage, a subset consisting of 100 abstracts was assessed by
+    www.skogoglandskap.no)                                  all three reviewers involved in this part of the screening
+    Norwegian Institute for Nature Research (http://www.    process, and the consistency of their assessments was
+    nina.no)                                                checked with kappa tests. The outcomes ranged between
+    Parks Canada (http://www.pc.gc.ca)                      κ = 0.50 (CB vs. JS) and κ = 0.78 (CB vs. BGJ), indicat-
+    Society for Ecological Restoration (http://www.ser.org) ing ‘moderate’ to ‘substantial’ agreement [44]. Discussion
+    Swedish County Administrative Boards (http://www.       of the discrepancies between the primary reviewers (CB
+    lansstyrelsen.se)                                       and JS) resulted in additional specifications of how the
+    Swedish Environmental Protection Agency (http://        inclusion criteria were to be interpreted. When a second
+    www.naturvardsverket.se)                                subset of 100 abstracts was screened by the two primary
+    Swedish Forest Agency (http://www.skogsstyrelsen.se)    reviewers, the kappa statistic relating to their assess-
+    Swedish University of Agricultural Sciences (http://    ments was found to be 0.63, indicating ‘substantial’ agree-
+    www.slu.se)                                             ment [44].
+    UK Environment Agency (http://www.environment-             Finally, each article categorised as potentially relevant
+    agency.gov.uk)                                          on the basis of abstract was assessed for inclusion by one
+    United Nations Environment Programme (http://           reviewer who studied the full text. This task was shared
+    www.unep.org)                                           by all members of the review team. The articles were ran-
+    United States Environmental Protection Agency           domly distributed within the team, but some redistribu-
+    (http://www.epa.gov)                                    tion was made to avoid having reviewers assess studies
+    US Forest Service (http://www.fs.fed.us)                authored by themselves or articles written in an unfamil-
+                                                            iar language. Articles found using search engines, spe-
+Other literature searches                                   cialist websites, literature reviews or stakeholder contacts
+As a check of the comprehensiveness of our searches,        were entered at this stage in the screening process.
+relevant articles and reports were also searched for in        Almost 90 % of the full-text assessments were double-
+literature reviews. Moreover, each member of the review     checked by a second reviewer (primarily CB). Where
+
+Bernes et al. Environ Evid (2015) 4:25                                                                                                       Page 7 of 22
+the first and second reviewers disagreed on whether to                        • 	 Relevant types of intervention: Active management
+include a study or not, they discussed and reconciled                              which is used or could conceivably be used to conserve
+their assessments on a case-by-case basis. Certain cat-                            or restore biodiversity in forest set-asides. The follow-
+egories of studies identified as doubtful during this stage                        ing types of management were judged to be relevant:
+of the screening were discussed by the entire team. Based
+on these discussions, some of the inclusion criteria were
+specified further.                                                               ••  Prescribed burning
+                                                                                 ••  Thinning
+Study inclusion criteria                                                         ••  Partial harvesting
+Each study had to pass each of the following criteria in                         ••  Removal of woody understorey or ground-layer veg-
+order to be included:                                                                etation
+                                                                                 ••  Removal or addition of litter or humus
+• 	 Relevant subjects: Forests in the boreal or temperate                        ••  Creation of dead wood
+     vegetation zones.                                                           ••  Addition (translocation) of dead wood
+                                                                                 ••  Exclusion or other deliberate manipulation of wild
+    Any habitat with a tree layer was regarded as forest,                            cervids and similar grazers/browsers
+which meant that studies of e.g. wooded meadows and                              ••  Livestock grazing and traditional mowing, coppicing
+urban woodlands could be included.                                                   and pollarding
+    As an approximation of the boreal and temperate                              ••  Underplanting of trees and (re)introduction of native
+vegetation zones we used the cold Köppen-Geiger cli-                                 non-tree species
+mate zones (the D zones) and some of the temperate                               ••  Control of exotic and/or invasive species
+ones (Cfb, Cfc and Csb), as defined by Peel et al. [45]                          ••  Hydrological restoration
+(see Fig. 1). The other temperate Köppen-Geiger cli-                             ••  Liming and use of herbicides, if the primary goal was
+mate zones are often referred to as subtropical and were                             conservation
+therefore considered to fall outside the scope of this sys-
+tematic map.                                                                     Clearcutting was not included, since we did not find
+    Nevertheless, forest stands dominated by ponderosa                        this intervention useful for the conservation of for-
+pine (Pinus ponderosa) were considered as relevant even                       est biodiversity (although we admit that clearing of an
+if located outside the climate zones mentioned above.                         established stand may be relevant in very specific cases,
+These forests constitute a well-studied North American                        e.g. when the aim is to substitute a plantation with an
+habitat type that shares several characteristics with the                     alternative forest type). We did, however, include coppic-
+pine forests in boreal and temperate regions.                                 ing, because this is in many regions a traditional forest
+   Fig. 1 Köppen-Geiger climate zones judged as relevant to the subject of this review. Relevant zones include all of the cold climate types (D) and
+   some of the temperate ones (C). The map is modified from Peel et al. [45]
+
+Bernes et al. Environ Evid (2015) 4:25                                                                                                   Page 8 of 22
+  Fig. 2 Interventions involving removal of trees and other woody material. The figure provides an overview of harvesting options and other tech-
+  niques for removal of woody material that we encountered when searching for relevant literature on forest management. Interventions in green
+  boxes were included in the review
+management system with specific biodiversity values                             Several of the stakeholders that we consulted when
+worth maintaining. Pollarding (a traditional harvesting                      developing the protocol [43] suggested that studies of
+technique that affects large trees across entire stands)                     wildfires should be included, but we decided not to do so.
+was included for similar reasons, but not other kinds of                     Wildfire is usually not a management option, although
+pruning that are applied in gardening and for managing                       it may be possible to choose whether to suppress a fire
+single trees, often for aesthetic reasons (see Fig. 2).                      or not. Moreover, while there is an extensive literature
+  Studies of partial harvesting were not included if less                    on the effects of unplanned and uncontrolled fires (e.g.
+than 25 % of the volume or basal area of living and dead                     [49, 50]), their consequences for biodiversity cannot
+trees was retained, or if the intervention consisted of gap                  be assumed to be identical to those of prescribed burn-
+felling with an average gap size exceeding 0.5 ha. Existing                  ing. We judged that including only studies of prescribed
+meta-analyses have concluded that harvested stands start                     burning was appropriate for the purposes of this review.
+to function as clearcuts (from a biodiversity point of view)
+when the retention level drops to somewhere between 15                       • 	 Relevant type of comparator: Non-intervention or
+and 40 % [46, 47]. Nevertheless, studies of 25–50 % reten-                        alternative types of intervention.
+tion levels may provide some conservation insights, e.g.
+into the possibilities of combining management for for-                         Both temporal and spatial comparisons of how different
+est biodiversity with management for wooded-grassland                        kinds of forest management affected biodiversity were
+diversity and/or for species favoured by disturbances. The                   considered to be relevant. This means that we included
+threshold we chose for gap sizes was based on the FAO                        both ‘BA’ (Before/After) studies, i.e. comparisons of the
+definition of forest as land with a certain minimum tree                     same site prior to and following an intervention, and ‘CI’
+cover and an area of more 0.5 ha [48]—hence we consid-                       (Control/Impact) studies, i.e. comparisons of treated and
+ered gaps larger than 0.5 ha as clearcuts.                                   untreated sites (or sites that had been subject to differ-
+  When in doubt about the relevance of interventions                         ent kinds of treatment). Studies combining these types of
+intended to benefit particular species (notably tree spe-                    comparison, i.e. those with a ‘BACI’ (Before/After/Con-
+cies), we generally included or excluded studies based                       trol/Impact) design, were also included.
+on whether study authors described the interventions as                         Most CI and BACI studies that are relevant to the
+being made for the purpose of conservation or not.                           subject of this systematic map compare different
+
+Bernes et al. Environ Evid (2015) 4:25                                                                             Page 9 of 22
+forest stands or different parts of a single stand. How-           During the screening process, we sometimes found
+ever, studies of how creation or addition of dead wood          it necessary to specify the inclusion criteria further by
+affects biodiversity may be based on comparisons of             deciding whether to include or exclude certain border-
+individual trees (logs or snags) that have been subject         line topics or study categories, based on their relevance
+to different treatments (e.g. girdling vs. other ways of        to conservation or restoration. The final set of criteria,
+killing trees), and we included such comparisons as             including all specifications, is listed in Additional file 3.
+well.
+   Moreover, we found a number of seemingly useful              Study quality assessment
+dead-wood studies that did not compare effects of dif-          No quality appraisal was made of studies subsequent to
+ferent kinds of intervention but were based on other            their inclusion in the review, since this is not considered
+types of comparison instead, and we therefore decided to        necessary for the purposes of a systematic map [42]. Nev-
+extend the comparator criterion by also including studies       ertheless, the screening for relevance described above did
+of the three following categories:                              involve certain quality aspects. Since we required stud-
+                                                                ies to present ‘useful’ data on interventions, we excluded
+   (A)	 Studies comparing biodiversity effects of dead-        investigations of the effects of silvicultural systems (such
+         wood creation/addition in different kinds of forest    as ‘uneven-aged’ or ‘near-natural’ forestry) if they pro-
+         stands (e.g. stands of different age or stands subject vided insufficient information on how the forest had
+         to different kinds of management).                     been managed, e.g. no data on the specific interventions
+   (B)	Studies comparing biodiversity effects of creation/     on which these kinds of forestry were based. Similarly,
+         addition of different kinds of dead wood (e.g. wood    since comparators were also required to be ‘useful’, we
+         of different species or sizes).                        excluded studies where the ages or species compositions
+   (C)	Studies comparing biodiversity aspects of created/      of treated and untreated stands were entirely different
+         added vs. naturally occurring dead wood.               (e.g. studies of interventions in young plantations where
+                                                                mature or old-growth stands were used as controls).
+                                                                   If studies included in the map are later selected for full
+• 	 Relevant types of outcome: Measures or indicators of        systematic review, they will have to undergo full criti-
+     biodiversity in the terrestrial environment.               cal appraisal. The data on study design that are provided
+                                                                in the map may be relevant when such an assessment is
+   The following types of outcome were considered to be         made. For instance, studies with a CI or BACI design are
+relevant:                                                       likely to be more useful than BA studies in the context
+                                                                of forest management. This is because a forest set-aside
+   ••  Abundance of single species or taxonomic or func-        that has been subject to some kind of active management
+       tional groups of terrestrial organisms (including the    may also be affected by other influences (e.g. changes in
+       soil seed bank)                                          weather, climate or atmospheric pollution, or ecologi-
+   ••  Species richness, diversity index and composition of     cal succession following earlier land-use changes). Such
+       taxonomic or functional groups of terrestrial organ-     influences can be controlled for in CI and BACI studies,
+       isms (including the soil seed bank)                      but not in BA studies. On the other hand, it should be
+   ••  Performance and population viability of target spe-      noted that CI studies can be misleading if confounding
+       cies                                                     differences between treated and untreated sites (due e.g.
+   ••  Tree mortality                                           to interventions in the past) are not known and described
+   ••  Abundance and diversity of dead wood                     well enough. Other relevant quality aspects of the study
+   ••  Stand structure (horizontal and/or vertical distribu-    design include the size of treatment/intervention units
+       tion of trees)                                           and the degree of replication. Such aspects may well be
+   ••  Occurrence of tree microhabitats (e.g. cavities)         taken into account in a full systematic review, but they
+                                                                have not been used as criteria for exclusion in the present
+• 	 Relevant type of study: Primary field studies.              systematic map.
+   Based on this criterion, we excluded e.g. simulation         Systematic map database
+studies, review papers and policy discussions.                  The database that constitutes the core of this systematic
+                                                                map provides basic information on each study found
+• 	 Language: Full text written in English, French, German,     to be relevant. This information is available in an Excel
+     Danish, Norwegian, Swedish, Finnish, Estonian or Rus-      file (Additional file 4), and also in an interactive GIS
+     sian.                                                      application. The GIS application plots study locations
+
+Bernes et al. Environ Evid (2015) 4:25                                                                          Page 10 of 22
+on a zoomable world map, and data on the studies can          had avoided pseudoreplication by spacing sampling
+be retrieved by clicking on the symbols in the map. The       sites widely enough). For instance, studies of exclu-
+application also provides a table with the same content as    sion from grazing were considered to be non-replicated
+the Excel file. Both the GIS application and the Excel file   if they were based on one exclosure only, even if the
+allow data to be filtered and sorted.                         exclosure was large and contained many sampling sites.
+  Each included study is described and categorised based      If treated sites and controls were not replicated to the
+on the following types of data (to the extent that they       same extent, we always recorded the lowest number of
+were available):                                              replicates.
+                                                                 The first round of data recording was shared by all
+  ••  Full reference,                                         members of the team. Two of us (CB and JS) then added
+  ••  article language,                                       some supplementary data, mainly on locations of study
+  ••  location of study area (country, state/province, region areas. Finally, one reviewer (CB) double-checked all
+      or site(s), geographical coordinates, altitude),        entries in the map database for consistency.
+  ••  research programme to which the study belonged,
+  ••  forest type (coniferous/mixed/deciduous),               Results
+  ••  dominant tree species,                                  Literature searches and screening
+  ••  stand age,                                              The main searches for literature using the initial English
+  ••  stand origin,                                           search string were conducted on 4–5 May 2014. A total
+  ••  type of comparison (BA/CI/BACI),                        of 31,805 articles were returned from ten of the thirteen
+  ••  number of true replicates,                              publication databases listed in the Methods section. Sub-
+  ••  intervention type(s) categorised using codes listed in  sequent supplementary searches in publication data-
+      Additional file 4,                                      bases using the additional search terms in the final search
+  ••  intervention(s) specified using free text,              string yielded 2137 more articles, for a total of 33,942—
+  ••  outcome type(s) categorised using codes listed in       see Fig. 3. Removal of duplicates left 16,484 unique arti-
+      Additional file 4,                                      cles. After title screening, 5871 of these articles remained
+  ••  focal species, communities and/or biodiversity indi-    included. When the searches were updated in March
+      cators.                                                 2015, 271 additional articles were included based on
+                                                              titles, for a total of 6142.
+  In addition, the database contains links that search           Screening based on abstracts left 1570 articles that
+Google Scholar for the title of each included article. They   were still considered as potentially relevant. Most of the
+will return links to abstracts and full-text versions of the  articles rejected at this stage were excluded because they
+articles if these are available through Google Scholar.       did not cover relevant types of intervention.
+  Descriptions recorded in the database were normally            Searches with Finnish, French, Russian and Swed-
+extracted from the included articles, but if no geographi-    ish search terms in online publication databases yielded
+cal coordinates were given, we recorded approximate           0, 0, 7 and 1 potentially relevant publications in these
+coordinates based on published site names, maps or            languages, respectively. Searches using search engines
+verbal descriptions of study locations (or coordinates        (Google and Google Scholar) returned 38 potentially
+provided in another article describing the same site).        relevant articles (13 found with English search terms, 11
+Not uncommonly, moreover, coordinates given by study          with Finnish, 8 with French, 2 with German and 4 with
+authors were clearly incorrect (e.g. confusing minutes of     Swedish ones) in addition to those that had already been
+arc with decimals of degrees, or confusing latitude and       identified.
+longitude with coordinates based on national grid sys-           Similarly, searches at specialist websites located
+tems). In such cases, too, we recorded coordinates based      another 64 potentially useful publications (60 found
+on other information.                                         using English search terms, 3 using Finnish and 1 using
+  In cases where some of the data reported by a study         Swedish ones). Of these publications, 50 were retrieved
+fell outside the scope of our review (e.g. where some of      at a single website, that of the US Forest Service. Many of
+the study sites were located outside relevant vegetation      the articles found at the specialist websites can be charac-
+zones), we recorded information only on those parts of        terised as grey (non-peer-reviewed) literature.
+the study that fulfilled our inclusion criteria.                 An additional 54 articles were found in existing lit-
+  The number of true replicates recorded in the data-         erature reviews that presented relevant meta-analyses.
+base was strictly based on the extent to which the inter-     Two articles were found by checking the full contents of
+vention was replicated, regardless of the scale of the        Finnish or Russian journals or report series, and 26 more
+intervention (and even if study authors stated that they      publications (in English, Estonian, Finnish or Russian)
+
+Bernes et al. Environ Evid (2015) 4:25                                                                                                        Page 11 of 22
+  Fig. 3 Overview of article inclusion and screening
+Table 1 Reasons for exclusions of articles at full-text screening
+Reason for exclusion                                                                                                                        No. of articles
+Not a study of forests, woodlands or other terrestrial habitats with a tree layer                                                            44
+Not a study made in boreal or temperate vegetation zones                                                                                    180
+Not a field study                                                                                                                            42
+Not a study of interventions intended (or potentially useful) for the conservation or restoration of forest biodiversity (or no useful data 447
+  on such interventions)
+No useful comparator data                                                                                                                   101
+No useful measures of biodiversity or conditions known to influence diversity                                                               108
+No useful primary data, but potentially useful as a review                                                                                   49
+Redundant (data also reported elsewhere)                                                                                                      5
+Full text not in English, French, German, Swedish, Norwegian, Danish, Finnish, Estonian or Russian                                           25
+Full text not found                                                                                                                          51
+Some of the articles appear more than once in the table, since they were excluded for more than one reason
+were supplied by members of the review team. The most                                  In all, the searches resulted in 1762 articles to be
+common reason why these articles had not been found in                               assessed in full text. After full-text screening, 798 of
+publication databases was that their title and abstract did                          them remained included. Again, the most common
+not contain any of the ‘forest type’ search terms that we                            reason for exclusion was that studies did not cover rel-
+applied when searching online.                                                       evant types of intervention (see Additional file 5 and
+
+Bernes et al. Environ Evid (2015) 4:25                                                                      Page 12 of 22
+Table 1). In 51 cases, publications had to be excluded      the European studies, 58 % were conducted in Finland or
+because they were not found in full text. Nevertheless,     Sweden.
+this means that we were able to retrieve 97 % of the arti-    More than half of the studies (58 %) presented data
+cles that had been judged as potentially relevant based     on forests that were mainly coniferous, whereas 35 %
+on their abstracts.                                         included data on predominantly broadleaf forests and
+  Most of the included articles (766, or 96 %) were writ-   16 % reported on stands with a mixture of coniferous
+ten in English. The other ones were written in Finnish      and broadleaf trees (since some studies included data on
+(13), Swedish (7), Russian (5), German (4), French (2) or   more than one of these forest types, the total percentage
+Estonian (1). Only 34 (4 %) of the articles were published  exceeds 100 %).
+earlier than 1995, and 561 of them (70 %) appeared in         The tree genera most commonly dominant (or co-dom-
+2005 or later.                                              inant) in the studied stands were Pinus, Picea, Quercus,
+  A few of the included articles reported on more than      Pseudotsuga and Acer (Table 2). The tree species that
+one relevant study. The total number of studies included    most frequently dominated were all conifers: Douglas-fir
+in this systematic map is 812. Data on each of these stud-  (Pseudotsuga menziesii; dominant in 15 % of the studies),
+ies are available in an Excel file (Additional file 4), and ponderosa pine (Pinus ponderosa; 15 %), Norway spruce
+also in an interactive GIS application that can be accessed (Picea abies; 12 %) and Scots pine (Pinus sylvestris; 10 %).
+at the EviEM website (http://www.eviem.se/en/projects/        Stand ages were reported by only about half of the stud-
+Managing-protected-forests-original/).                      ies. Of these, 29 % had examined stands aged 60 years or
+                                                            less, while 71 % reported on stands older than 60 years or
+Characteristics of included studies                         stands described as ‘mature’ or ‘old-growth’.
+Almost two-thirds (529) of the 812 studies included in        The interventions most commonly studied were partial
+the map were conducted in North America, whereas 237        harvesting (alternatively referred to as selective harvest-
+were performed in Europe, 17 in Asia, 22 in Australia/      ing, group or single-tree selection harvesting, retention
+New Zealand and 7 in South America (see Figs. 4, 5). Of     or green-tree retention harvesting, patch cutting, gap
+  Fig. 4 Locations of included studies
+
+Bernes et al. Environ Evid (2015) 4:25                                                                                                   Page 13 of 22
+  Fig. 5 Number of included studies per country. Data on total forested areas include forests outside as well as within temperate and boreal zones [1]
+felling etc.), thinning, prescribed burning, and grazing                     while others were characterised as invasive and had been
+or exclusion from grazing (mainly by cattle, sheep or                        selected as targets of control efforts.
+deer)—see Tables 2 and 3. Many studies investigated sev-                        Most of the studies had a CI or BACI design (65 and
+eral different kinds of intervention, individually and/or in                 29 %, respectively), while 4 % had a BA design and 2 %
+combination.                                                                 combined different designs. True replication of interven-
+  The outcomes most frequently reported were effects of                      tions had been carried out in 87 % of the studies, whereas
+interventions on trees, other vascular plants, dead wood,                    10 % of them were pseudo- or non-replicated and 3 % did
+vertical stand structure and birds (Table 3). Data on the                    not describe the study design clearly enough for us to
+abundance of individual species, groups of species or                        assess replication.
+dead wood were reported in 92 % of the studies, whereas
+49 % of the studies included data on the richness of spe-                    Discussion
+cies (or genera), 19 % reported diversity indices such as                    This systematic map illustrates that substantive research
+Shannon indices, and 29 % presented data on community                        has been conducted on some management interven-
+composition based on ordinations.                                            tions which could conceivably be used to conserve or
+  About 15 % of the studies described the effects of                         restore biodiversity in forest set-asides. Although few of
+interventions on individual focal species. Some of the                       the studies were actually carried out in protected areas,
+focal species constituted primary conservation targets,                      many of the interventions assessed are compatible with
+
+Table 2 Combinations of interventions and dominant genera of trees (number of studies)
+Intervention Genus
+                Abies Acer Alnus Betula Carya Eucalyptus Fagus Fraxinus Larix Liriodendron Picea Pinus Populus Prunus Pseudotsuga Quercus Thuja Tilia Tsuga All studies
+Burning         40      14      1       6       18        6              4        2          1       4              35     143      8          2         43             58          0       3      3       227
+Thinning        42      13      0       0        0        0              6        1          7       1              26     119      6          4         80             46          4       1     18       229
+Partial har-    46      68      1      33       12        2            38         9          2       5             108      53     42          3         53             47          8       4     34       311
+  vesting
+Removal of   11           8     4       5        5        0              3        2          0       2               6      18      2          1         10             32          0       2      0        57
+ woody
+                                                                                                                                                                                                                         Bernes et al. Environ Evid (2015) 4:25
+ understorey
+Removal of       1        0    0        1        0        1              0        0          0       0               3       5      0          0          0              1          0       1      0         9
+ ground
+ vegetation
+Litter manipu- 1          3    1        1        2        1              1       2           0       2               2      11      1          0          1              5          0       0      1        20
+  lation
+Creation of      1        3    1        3        0        1              1       0           1       0              40      13      6          0          5              4          1       0      2        66
+  dead wood
+Addition of      2        0    0        0        0        2              3       0           0       0              16       1      1          0          0              0          0       0      0        19
+ dead wood
+Grazing or      12      20     8       27        2        8            22       13           1      1               21      42     15          6          4             46         3        3     11       157
+ exclusion
+ from graz-
+ ing
+Mowing           0        1    3        1        0        0              1       3           0      0                0       3      1          0          0              4         0        1      0        10
+Coppicing        0        0    1        0        0        0              0       0           0      0                0       1      0          0          0              3         0        0      0         4
+Pollarding       0        0    1        0        0        0              0       2           0      0                0       0      0          0          0              2         0        1      0         4
+Underplant-      0        0    2        2        0        0              0       1           0      0                4       6      2          0         12              1         0        0      3        25
+ ing
+Introduction     1        2    0        0        1        0              1       2           0      0                3       2      1          0          2              4         0        0      0        11
+  of non-tree
+  species
+Control of       1        8    0        0        3        0             8        5           0      1                0       2      2          1          0              8         0        0      1        21
+ exotic/inva-
+ sive species
+Hydrological     0        0    0        0        0        0             0        0           0      0                4       1      0          0          0              0         0        0      0         4
+ interven-
+ tions
+Other inter-     0        2    0        1        3        0             1        0           0      3                2       5      1          0          0              5          0       0      0        13
+ ventions
+All interven- 102      107    18       73       31       13            77       25          11     11              195     277     69         13       121             171        13       13     52
+  tions
+The table shows the number of included studies with a given combination of intervention and dominant (or co-dominant) genera of trees. Data are presented for genera covered by a total of 10 studies or more. Many of
+the studies have listed more than one genus as dominant
+                                                                                                                                                                                                                         Page 14 of 22
+
+Bernes et al. Environ Evid (2015) 4:25                                                                       Page 15 of 22
+broad management objectives and paradigms in forest         systems, but also interest in alternative forest uses, such
+set-asides.                                                 as berry production (e.g. in Russia).
+                                                              Another large portion of studies, those pertaining to
+Interventions                                               prescribed burning, are also related to forest ecosystem
+A major portion of the studies originate in concepts of     management but more from the perspective of regen-
+forest ecosystem management and assess practices that       eration, restoration and fuel reduction. Managers have
+were designed or modified to produce or sustain multiple    increasingly turned to prescribed burning to restore
+forest values, e.g. timber and biodiversity. Beginning in   forests that have become degraded due to a lack of fire
+the early 1990s, such practices became a focus of atten-    disturbance (e.g. [22, 58]). Burning is also employed as
+tion with the development of ‘The New Forestry’, eco-       a silvicultural tool within the natural-disturbance-based
+system management and the natural-disturbance-based         management paradigm, where regeneration and succes-
+management paradigm [51, 52]. In Europe, these ideas        sion of forests are driven by a regime of low-, mixed- or
+influenced emerging landscape perspectives on reserve       high-frequency fire.
+networks, including the understanding that non-inter-         The final intervention that was well represented by
+vention should be complemented with active manage-          studies included in the map is grazing/browsing, mainly
+ment in reserves and with modified forestry practices       by livestock or wild ungulates, or exclusion of such her-
+outside reserves [53]. The active management approach       bivores. Research on this kind of intervention has usu-
+was particularly highlighted in discussions on how to       ally been motivated by issues arising from overgrazing,
+restore ‘natural woodland’ in regions with highly impov-    such as impaired regeneration of trees [59]. On the other
+erished forests, such as Britain [54].                      hand, re-introduction of grazing (mainly by domesti-
+   As these ideas developed, the research community         cated animals) can be of equal interest for forests where
+responded with efforts to test the effectiveness of various the grazing pressure is currently lower than it was in the
+practices designed to maintain and conserve biodiversity    recent past. Management interventions to deal with both
+in managed forests—including maintenance or creation        excess and insufficient grazing are of interest for biodi-
+of important forest structural characteristics and features versity management in forest set-asides.
+such as dead wood (e.g. [39]). It is thus not surprising      Some of the interventions that we had included as rel-
+that there was a notable increase in the number of pub-     evant were covered by very few studies. Notably, the map
+lications on such interventions beginning in the mid-       contains only a handful of studies that examine hydro-
+1990s, and that the vast majority of studies included in    logical interventions, although we had included “ditch*”
+the systematic map have been published since 2000.          and “flood*” as search terms to find studies on forests
+   The studies on various types of partial harvesting fall  that had been drained but then restored. Environmental
+into this research category. Such practices often aim       issues related to forest drainage are complex [60], and
+to balance removal of timber with retaining some for-       there is a clear need for experimental research on terres-
+est cover or creating specific structural attributes that   trial biota in forested wetlands. The obvious lack of such
+are important as habitats for forest species. Also in this  research is largely due to the fact that efforts to restore
+category is the group of studies on creation or addition    wetlands so far have focused on open mires rather than
+of dead wood. Since the early 1990s, the growing under-     forested areas (e.g. [61]).
+standing of the ecological importance of dead wood has        We also found very few studies on coppicing and pol-
+led to the development of new management approaches         larding. These silvicultural systems have declined strongly
+designed to maintain or increase the amount of dead         over the past century, and since they are restricted to spe-
+wood in managed forests (e.g. [55, 56]). This has been a    cific regions and to certain tree species such as willows
+particularly important issue in forests which have been     or oaks, they have not attracted global attention in envi-
+managed through multiple rotations and are thus very        ronmental conservation research. Nevertheless, recent
+depauperate of dead wood, e.g. in central and northern      attempts to restore or re-establish coppices and pollarded
+Europe [57].                                                stands have been followed by an increasing number of
+   There were a number of other studies which examined      studies. Full development or restoration of coppiced or
+practices designed to manipulate stand structure or com-    pollarded stands may require decades to centuries, how-
+position in some way, and these mainly related to prac-     ever. So far, these processes have rarely been investigated
+tices which could increase the openness of the stand (e.g.  beyond pure observations [62].
+thinning or removal of understorey) or increase diversity     While our systematic map does include a large number
+(underplanting, species introductions). These studies       of studies, about 50 % of potentially useful studies were
+have been undertaken for a variety of reasons, notably      rejected during screening on full text. Most frequently,
+concern over conifer monocultures in intensive forestry     exclusions were made because the interventions did not
+
+Table 3 Combinations of interventions and outcomes (number of included studies)
+Interven‑ Outcome
+tion
+          Vertical Horizon‑ Tree       Dead   Trees   Vascular     Bryo‑ Lichens Fungi   Mam‑   Birds   Amphib‑ Reptiles Sap‑      Ground Other    Insects Arthro‑   Inverte‑   Invasive All
+          stand     tal stand micro‑ wood             plants       phytes                mals           ians             roxylic   beetles beetles except pods       brates     species out‑
+          structure structure habitats                except trees                                                       beetles                   beetles except    except              comes
+                                                                                                                                                           insects   arthropods
+Burning      34    1         7        60      123     105         11      7      15      12     31       3       1       34        16       9       10     13        3          30      227
+Thinning     57    1         4        55      129     113         26     13      11      36     34       4       0       19        10       7       16     14        1          22      229
+Partial    48      4         7        73      153     113         37     26      12      26     49      10       3       29        25      17       38     34        3          15      311
+  harvest-
+                                                                                                                                                                                                 Bernes et al. Environ Evid (2015) 4:25
+  ing
+Removal of 7       0         0         7       35      27          4      4       2       3      7       0       0        4         3       3        5      5        0           9       57
+  woody
+  under-
+  storey
+Removal of 0       0         0         0        2       7          5      4       3       0      0       0       0        0         0       0        0      0        0           0        9
+  ground
+  vegeta-
+  tion
+Litter     0       0         0         0        4      17          5      4       4       0      0       0       0        0         0       0        0      1        0           5       20
+   manipu-
+   lation
+Creation      2    0         4        16       21       9          3      2      10       0      6       0       0       31         1       5        6      4        0           0       66
+  of dead
+  wood
+Addition      0    0         0         3        3       1          1      1       5       0      0       0       1       11         1       2        3      1        0           0       19
+  of dead
+  wood
+Grazing or 18      0         1         8       84     110         18     12       5       9     13       3       2        2        15       7       18     12        5          15      157
+  exclu-
+  sion
+  from
+  grazing
+Mowing        0    0         0         0        6       8          0      2       0       0      2       0       0        0         1       0        1      1        0           3       10
+Coppicing     0    0         0         1        2       2          0      0       0       0      0       0       0        1         0       0        1      0        0           0        4
+Pollarding    0    0         1         0        2       1          0      2       0       0      0       0       0        0         0       0        0      0        0           0        4
+Under-    4        0         0         3       13      16          6      1       2       3      0       2       0        0         3       1        3      5        1           2       25
+ planting
+Introduc- 0        0         0         0        4       7          0      0       1       0      1       0       0        4         0       0        0      0        0           6       11
+  tion of
+  non-tree
+  species
+Control of   0     0         0         0       10      14          0      0       0       1      1       0       0        0         1       0        2      3        0          12       21
+ exotic/
+ invasive
+ species
+                                                                                                                                                                                                 Page 16 of 22
+
+                                                                                                                                                                                                 Bernes et al. Environ Evid (2015) 4:25
+Table 3 continued
+Interven‑ Outcome
+tion
+          Vertical Horizon‑ Tree       Dead   Trees   Vascular     Bryo‑ Lichens Fungi   Mam‑   Birds   Amphib‑ Reptiles Sap‑      Ground Other    Insects Arthro‑   Inverte‑   Invasive All
+          stand     tal stand micro‑ wood             plants       phytes                mals           ians             roxylic   beetles beetles except pods       brates     species out‑
+          structure structure habitats                except trees                                                       beetles                   beetles except    except              comes
+                                                                                                                                                           insects   arthropods
+Hydro-     0       0         0         1        2       2          3      1       0       0      0       0       0        0         0       0        0      0        0           0        4
+ logical
+ interven-
+ tions
+Other       0      0         0         1        5       9          2      1       3       1      0       0       0        0         0       0        0      0        0           2       13
+  interven-
+  tions
+All inter- 115     5         18      153      401     373         88     56      52      71     115     17       6       78        54      36       75     64        13         69
+  ventions
+                                                                                                                                                                                                 Page 17 of 22
+
+Bernes et al. Environ Evid (2015) 4:25                                                                          Page 18 of 22
+meet our criteria. For example, in harvested stands the      other European countries was about 60 % of that for Fin-
+level of retention was often lower than the 25 % limit set   land and Sweden combined. This is more or less congru-
+for inclusion. We admit that such stands can temporar-       ent with the distribution of forest types we included. The
+ily sustain some early-successional species [31], but low-   distribution of studies likely also reflects, to some extent,
+retention harvesting is normally not a useful alternative    the languages we were able to include.
+to non-intervention in forest set-asides. In several cases,     We found few relevant studies from Russia despite
+a study was excluded because the intervention was not        the considerable expanse of boreal and temperate for-
+described clearly enough; sometimes, for example, stands     est types in that country. This fact can be explained by
+were merely described as being under ‘natural’ or ‘near      (1) the prevailing non-intervention policy in Russian
+natural’ management. Such management could be use-           reserves, which are also much more intact than those
+ful in a forest set-aside, but the research results cannot   in western Europe, and (2) a lack of experimental bio-
+be easily applied if details of the interventions are not    diversity research traditions in managed forests. Intact
+available.                                                   Russian forests could provide important reference
+                                                             areas for active management practices in the future,
+Geographic distribution of studies                           particularly for assessing the broad-scale effectiveness
+The vast majority of included studies were conducted in      of interventions in impoverished European forests (see
+North America. The greatest number of studies were per-      also [63]). Unfortunately, the development of experi-
+formed in the United States, and this is likely due to three mental approaches for sustainable forest management
+factors: the large expanses of boreal and temperate for-     remains a marginal issue for the Russian forestry sec-
+est in the US (including Alaska), the number of research-    tor [64].
+ers, and the considerable attention that has been given
+to ecological management and biodiversity conservation       Forest types and outcomes
+in forests. The number of studies conducted in Canada        The dominant conifer genera in the forests studied
+was about 40 % of that in the US. Thus, even with a much     were pine (Pinus), spruce (Picea), Douglas-fir (Pseu-
+smaller population of researchers than the US, obviously     dotsuga) and fir (Abies), with oak (Quercus) and maple
+extensive research is being made on forest ecosystem         (Acer) being the most frequent dominants in broadleaf
+management and conservation, particularly in the boreal      stands. There was also good representation of studies in
+forest, which is by far the dominant forest type in Can-     stands dominated by beech (Fagus), birch (Betula) and
+ada. In both Canada and the US public pressure, locally      aspen (Populus). There are several ecological similarities
+and from abroad, on forest companies and governments         between species of these genera throughout the circum-
+has been a driving force behind evolution of forest man-     polar region. Thus, many studies included in the system-
+agement practices. This has motivated research testing       atic map likely have considerable applicability to forest
+interventions that are relevant to the management of for-    management across different areas.
+est biodiversity.                                               Outcomes reported in included studies were domi-
+   The predominance of North American studies in this        nated by data on trees and other vascular plants (e.g.
+review was somewhat surprising given the fact that           size/growth, abundance, diversity, composition). This
+Europe also has many active researchers in the area of       likely reflects the fact that many of the relevant inter-
+forest management, ecology and conservation, and that        ventions directly manipulate these components of the
+issues of ecological management and biodiversity conser-     forest. Studies reporting on bryophytes were also fairly
+vation in forests have received great attention from sci-    well represented, with somewhat fewer studies report-
+entists, managers and the public there as well. Different    ing on lichens or non-lichenised fungi. There were also
+research traditions may be part of the explanation. Par-     a considerable number of studies that reported on verti-
+ticularly in central Europe, many of the studies assessed    cal stand structure and dead wood, both of which can be
+by us were observational rather than experimental, often     important components of habitat for a variety of biota
+with so little specific information about past interven-     [65]. Together, information on physical structure (includ-
+tions that we had to exclude them. One reason for this       ing dead wood) and species composition and diversity of
+pattern could be that much less forest is available for      forest vegetation could be used to infer the impact of the
+experimentation there than in North America, due both        tested intervention on other biota which can be linked to
+to the limited size of forested areas and to a more frag-    these forest characteristics through their known habitat
+mented ownership pattern.                                    requirements.
+   Within Europe the bulk of included studies were con-         The animal groups most frequently recorded as out-
+ducted in Finland and Sweden, both countries being           comes were beetles and birds, followed by mammals.
+equally represented. The total number of studies from all    Researchers often focus on these groups because they
+
+Bernes et al. Environ Evid (2015) 4:25                                                                          Page 19 of 22
+are considered indicators of forest condition or because        Further, the map provides a basis for targeted efforts to
+they are of interest to forest managers and the public [66,  summarise existing knowledge for local or regional pur-
+67]. Likewise, these species groups are often of consid-     poses, as well as for students who write their thesis on
+erable concern in forest set-asides. However, there are      the management of forests set aside for conservation or
+still obvious gaps in our knowledge even on these taxa;      restoration. The map offers possibilities to check to what
+for example, bird studies included in the map were con-      extent the interventions and aspects of biodiversity under
+ducted almost exclusively in areas that had been subject     consideration have been investigated. The information
+to harvesting or burning. Also, invertebrates have not       about forest types that is recorded in the database allows
+been studied as broadly as one might anticipate on the       filtering for studies in selected ecosystems. If relevant
+basis of their very significant contributions to forest bio- studies are found, it may be relatively simple to synthe-
+diversity. More generally, the range of interventions cov-   sise the results at least qualitatively in a review or leaf-
+ered by studies of animals appears to be narrower than       let aimed at managers. Such a strategy has recently been
+that covered by studies of plants. In particular, while one  proposed as a way in which the staff of a national park
+could expect causal links between terrestrial fauna and      can bridge the gap between science and conservation
+the forest floor, we found only one litter-manipulation      management [69].
+study that explored impacts on animals [68] and no study        The systematic map thus provides a means for moving
+of ground-vegetation removal with that kind of focus.        from the completion of individual research projects to
+                                                             the ‘extra tasks for conservationists’ suggested by Arlet-
+Limitations of the systematic map                            taz et al. [70]: knowledge transfer, implementation and
+The map is limited to the studies we were able to find       efficiency testing. These tasks require considerable efforts
+using our established protocol. Despite our efforts to be    beyond research as such, but only if they are fulfilled
+inclusive with search terms, databases and languages,        can the evidence be used as a basis for new or revised
+we have undoubtedly missed some important studies. In        policies.
+particular, there may be grey literature (such as reports       The map is also a potential tool for mitigating the ‘dis-
+from government agencies) that is not catalogued in          ciplinary gap’ within conservation research itself, i.e. the
+publication databases or on the specialist websites we       lack of communication and cooperation between differ-
+searched.                                                    ent disciplines that results from traditional training and
+  We will also have missed literature published in lan-      specialisation [71]. Guided by the map, researchers can
+guages that we do not master, most notably Chinese.          find studies focused on taxa, interventions or regions that
+China incorporates a notably-sized band of the climate       they are not familiar with.
+zones we included, and there likely exists some relevant
+research that is published in Chinese. There is also likely  Possible systematic review topics
+relevant literature from Japan that we did not find or       On the basis of the availability of studies on different
+were unable to use. Indeed, 22 papers identified as poten-   interventions and outcomes we have identified four sub-
+tially relevant based on their English abstracts were sub-   topics on which it would be feasible to complete a full
+sequently excluded because they were written in Chinese      systematic review:
+or Japanese.
+                                                                1. What are the impacts of thinning, partial harvesting
+How the systematic map may be used                                 and understorey removal on the diversity of ground
+Management of forests set aside for conservation or res-           vegetation in mature temperate and boreal for-
+toration is commonly organised at a local or regional              est? This review would provide information on the
+scale. Many protected areas have a small staff of manag-           effectiveness of such practices, all of which result in
+ers who juggle a diversity of responsibilities and would           opening up the forest canopy, presumably leading to
+find it challenging to read scientific papers. Although            increased abundance and diversity of ground-level
+most managers are unlikely to find direct use for studies          vascular plants and bryophytes. At the same time,
+included in this systematic map, the database can quickly          these practices can lead to some loss or reorganisa-
+answer whether any relevant research has been done on              tion of shade-tolerant or desiccation-sensitive assem-
+a given intervention, outcome and geographic region/               blages. In particular, it would be valuable to exam-
+forest type. This could provide managers with ideas                ine whether removal of trees is required to achieve
+for monitoring the impact of current interventions or              the desired outcomes, or if it is sufficient to remove
+establishing new test systems in forest set-asides, and it         some understorey vegetation (e.g. shrubs). Removal
+could direct them to information on the efficacy of such           of spruce in particular is highly relevant for the man-
+interventions.                                                     agement of herb-rich forest set-asides in Finland and
+
+Bernes et al. Environ Evid (2015) 4:25                                                                           Page 20 of 22
+     Sweden. Although there are some existing reviews                ous aspects of biodiversity (e.g. [59, 72–79]. However,
+     and meta-analyses relating to this topic, e.g. [24, 25,         there is probably a need for an explicitly practice-ori-
+     30, 31], a full systematic review with more complete            ented analysis that considers biodiversity targets rele-
+     coverage is possible.                                           vant to the active-management context (i.e. manipu-
+  2. What are the impacts of temperate and boreal forest             lation of the grazing pressure in boreal and temperate
+     stand- and tree-scale interventions on dead wood and            forest set-asides).
+     saproxylic species? The current lack of dead wood in
+     forests with a history of commercial management          Conclusions
+     makes any review of deadwood-related interventions       Implications for management and policy
+     highly relevant. Our systematic map has identified       This systematic map is based on a comprehensive and sys-
+     many studies of how the abundance and composition        tematic screening of all available literature on a range of
+     of dead wood and saproxylic species are affected by a    interventions and outcomes relevant to biodiversity con-
+     variety of interventions, not only deliberate creation   servation in boreal and temperate forests. It identifies a
+     or addition of dead wood but also burning, thinning,     wealth of information on the impact of active management
+     partial harvesting, understorey removal, manipula-       practices that could conceivably be utilised to achieve
+     tion of grazing and browsing etc. It would be valuable   objectives for biodiversity maintenance and conservation
+     to examine the impact of each of these interventions     in forest set-asides. As such it should be of value to a range
+     on dead wood and species affected by dead wood. It       of actors, including conservation managers, researchers,
+     may also be possible to identify different responses     and policymakers. It is challenging for practitioners to
+     by deadwood-dependent species to different ways of       read and synthesise the evidence on individual interven-
+     producing dead wood. We have found two published         tions and biodiversity outcomes, but the map provides a
+     meta-analyses within this subject area, one of them      key to finding concrete guidance from published research.
+     focused on thinning and burning in western USA           A fundamental question for policymakers is whether to
+     pine forests [34], the other one focused on experi-      financially support and legally allow active management in
+     mental creation or addition of dead wood [39].           protected areas. When such questions emerge, the system-
+  3. What is the effect of prescribed burning in temperate    atic map allows for an overview of the available evidence
+     and boreal forest on biodiversity, beyond tree regen-    and may guide the establishment of policy [80].
+     eration, pyrophilous and saproxylic species? While
+     the effects of prescribed burning on tree regeneration   Implications for research
+     and on pyrophilous and/or saproxylic species have        Although significant research exists, the map also high-
+     been well studied, effects on non-target organisms       lights important knowledge gaps. For instance, we found
+     are less well known. Importantly, such effects could     little data on certain interventions (such as hydrologi-
+     be either negative or positive. It would be valuable to  cal restoration, coppicing and pollarding), on some geo-
+     broaden the knowledge of how prescribed burning          graphical regions (such as Russia and Eastern Europe)
+     affects forest biodiversity, particularly because this   and on outcomes such as effects on certain groups of
+     practice is now fairly common.                           invertebrates.
+  4. What are the impacts of manipulating the pressure of        It is critical for managers to understand that there are
+     grazing and browsing by livestock or wild ungulates      often gaps in our knowledge on specific management
+     on the diversity of temperate and boreal forest plants   issues. Such insight should serve as an incentive to estab-
+     and invertebrates? We found more than 150 studies        lish more structured monitoring programs on initiated
+     of how forest biodiversity is affected by manipula-      interventions [81, 82]. The map could be used by fund-
+     tion of grazing and browsing. These mainly related       ing organisations, researchers and managers of protected
+     to exclusion of deer and other wild cervids but also     areas to inspire new primary research on topics that have
+     included studies on resumption of old-style for-         so far not been well covered. The objective overview pro-
+     est grazing by cattle, sheep or other livestock. Both    vided by this systematic map reduces the risk of being
+     of these types of intervention are highly relevant to    influenced too much by strong lobbying, and it facilitates
+     forest conservation in Sweden, and a review of graz-     the identification of research topics where there are sig-
+     ing effects has been explicitly proposed by Swedish      nificant knowledge gaps. In combination with dialogues
+     stakeholders. A broad quantitative review of large       with the scientific community and stakeholder groups,
+     herbivore impacts on the species richness and abun-      this may allow for better allocation of available resources.
+     dance of other animal assemblages has recently been         Finally, by identifying those areas where a substantive
+     carried out by Foster et al. [33], and there are several body of scientific knowledge has been accumulated, the
+     narrative reviews of grazing/browsing effects on vari-   systematic map provides a foundation for systematic
+
+Bernes et al. Environ Evid (2015) 4:25                                                                                                                Page 21 of 22
+reviews on specific subtopics. Such reviews would pro-                            5.  Eide W. Arter och naturtyper i habitatdirektivet—bevarandestatus i
+                                                                                      Sverige 2013. Uppsala: ArtDatabanken, SLU; 2014.
+vide a synthesis of available evidence, making the infor-                         6.  Hanski I. Extinction debt and species credit in boreal forests: Modelling
+mation more accessible and easily applicable by managers                              the consequences of different approaches to biodiversity conservation.
+and policy-makers.                                                                    Ann Zool Fenn. 2000;37:271–80.
+                                                                                  7.  Zehetmair T, Müller J, Runkel V, Stahlschmidt P, Winter S, Zharov A, et al.
+Additional files                                                                      Poor effectiveness of Natura 2000 beech forests in protecting forest-
+                                                                                      dwelling bats. J Nat Conserv. 2015;23:53–60.
+                                                                                  8.  Lõhmus A, Kohv K, Palo A, Viilma K. Loss of old-growth, and the minimum
+   Additional file 1. Swedish perspectives on active management of forest             need for strictly protected forests in Estonia. Ecol Bull. 2004;51:401–11.
+   set-asides.                                                                    9.  Meyer P, Schmidt M, Spellmann H, Bedarff U, Bauhus J, Reif A, et al.
+                                                                                      Aufbau eines Systems nutzungsfreier Wälder in Deutschland. Natur und
+   Additional file 2. Literature searches.                                            Landschaft. 2011;86:243–9.
+   Additional file 3. Full set of criteria for inclusion/exclusion of articles.   10. Linder P. Structural changes in two virgin boreal forest stands in central
+                                                                                      Sweden over 72 years. Scand J For Res. 1998;13:451–61.
+   Additional file 4. Systematic map database (descriptions of included
+                                                                                  11. Hedwall P-O, Mikusiński G. Structural changes in protected forests in
+   studies).
+                                                                                      Sweden: implications for conservation functionality. Can J For Res.
+   Additional file 5. Articles excluded based on full-text screening.                 2015;45:1–10.
+                                                                                  12. Bradshaw RHW, Jones CS, Edwards SJ, Hannon GE. Forest continuity and
+                                                                                      conservation value in Western Europe. Holocene. 2015;25:194–202.
+                                                                                  13. Sammul M, Kattai K, Lanno K, Meltsov V, Otsus M, Nõuakas L, et al.
+Authors’ contributions
+                                                                                      Wooded meadows of Estonia: conservation efforts for a traditional habi-
+All authors participated in literature searches, literature screening and extrac-
+                                                                                      tat. Agric Food Sci. 2008;17:413–29.
+tion of metadata from included articles. CB double-checked the full-text
+                                                                                  14. Nascimbene J, Dainese M, Sitzia T. Contrasting responses of epiphytic and
+screening, compiled the map database and checked all entries in the data-
+                                                                                      dead wood-dwelling lichen diversity to forest management abandon-
+base. CB, BGJ, KJ, AL, EM and JM drafted the manuscript. All authors read and
+                                                                                      ment in silver fir mature woodlands. For Ecol Manage. 2013;289:325–32.
+approved the final manuscript.
+                                                                                  15. SER. The SER International Primer on Ecological Restoration. Tucson:
+                                                                                      Society for Ecological Restoration International; 2004.
+Author details
+1                                                                                 16. Bernes C. Biodiversity in Sweden. Monitor 22. Stockholm: Swedish Envi-
+  Mistra Council for Evidence‑Based Environmental Management, Royal
+                                                                                      Halme P, Allen KA, Auniņš A, Bradshaw RHW, Brumelis G, Čada V, et al.
+                                                                                      ronmental Protection Agency; 2011.
+Swedish Academy of Sciences, 104 05 Stockholm, Sweden. 2 Department
+                                                                                  17.
+of Natural Sciences, Mid-Sweden University, 851 70 Sundsvall, Sweden.
+3                                                                                     Challenges of ecological restoration: Lessons from forests in northern
+  Metsähallitus Parks & Wildlife Finland, c/o UEF, P.O. Box 111, 80101 Joensuu,
+                                                                                      Europe. Biol Conserv. 2013;167:248–56.
+Finland. 4 Institute of Ecology and Earth Sciences, Tartu University, Vanemuise
+                                                                                  18. Humphrey JW. Benefits to biodiversity from developing old-growth
+46, 51014 Tartu, Estonia. 5 Department of Renewable Resources, University
+                                                                                      conditions in British upland spruce plantations: a review and recommen-
+of Alberta, 751 General Services Building, Edmonton, AB T6G 2H1, Canada.
+6                                                                                     dations. Forestry. 2005;78:33–53.
+  Department of Conservation and Research, Bavarian Forest National Park,
+                                                                                  19. Clear JL, Molinari C, Bradshaw RHW. Holocene fire in Fennoscandia and
+Freyunger Str. 2, 94481 Grafenau, Germany.
+                                                                                      Denmark. Int J Wildland Fire. 2014;23:781–9.
+                                                                                  20. Götmark F. Habitat management alternatives for conservation forests in
+Acknowledgements
+                                                                                      the temperate zone: review, synthesis, and implications. For Ecol Manage.
+We are grateful for valuable comments and advice received from a consider-
+                                                                                      2013;306:292–307.
+able number of stakeholders, both at meetings in the initial phase of this
+                                                                                  21. Davies ZG, Tyler C, Stewart GB, Pullin AS. Are current management
+project, during the public review of the protocol and during our work with the
+                                                                                      recommendations for saproxylic invertebrates effective? A systematic
+systematic map. We would also like to thank Neal Haddaway, who suggested
+                                                                                      review. Biodivers Conserv. 2008;17:209–34.
+several valuable improvements of the map.
+                                                                                  22. Stanturf JA, Palik BJ, Dumroese RK. Contemporary forest restoration: a
+This review was financed by the Mistra Council for Evidence-Based Environ-
+                                                                                      review emphasizing function. For Ecol Manage. 2014;331:292–323.
+mental Management (EviEM). EviEM is funded by the Swedish Foundation for
+                                                                                  23. Stephens SL, McIver JD, Boerner REJ, Fettig CJ, Fontaine JB, Hartsough BR,
+Strategic Environmental Research (Mistra) and hosted by the Royal Swedish
+                                                                                      et al. The effects of forest fuel-reduction treatments in the United States.
+Academy of Sciences. The review process has been approved by the EviEM
+                                                                                      Bioscience. 2012;62:549–60.
+Executive Committee, but the authors are solely responsible for the contents
+                                                                                  24. Abella SR, Springer JD. Effects of tree cutting and fire on understory
+and conclusions of the review.
+                                                                                      vegetation in mixed conifer forests. For Ecol Manage. 2015;335:281–99.
+                                                                                  25. Elliott KJ, Harper CA, Collins B. Herbaceous response to type and sever-
+Competing interests
+                                                                                      ity of disturbance. In: Greenberg CH, Collins BS, Thompson FR, editors.
+The authors declare that they have no competing interests.
+                                                                                      Sustaining young forest communities: ecology and management of early
+                                                                                      successional habitats in the central hardwood region, USA., Managing
+Received: 8 October 2015 Accepted: 2 December 2015
+                                                                                      Forest Ecosystems, New York: Springer; 2011. p. 97–119.
+                                                                                  26. Kennedy PL, Fontaine JB. Synthesis of knowledge on the effects of fire
+                                                                                      and fire surrogates on wildlife in U.S. dry forests. Special report 1096. Cor-
+                                                                                      vallis, Or.: Oregon State University Agricultural Experiment Station; 2009.
+                                                                                  27. Meggs JM. Wildlife responses to stand-level structural retention practices
+References                                                                            in the boreal forest. Technical Bulletin 964. Research Triangle Park: NCASI;
+1. FAO. Global forest resources assessment 2010: Main report. FAO Forestry            2009.
+      Paper, vol 163. Rome: Food and Agriculture Organization of the United       28. Nascimbene J, Thor G, Nimis PL. Effects of forest management on epi-
+      Nations; 2010.                                                                  phytic lichens in temperate deciduous forests of Europe—a review. For
+2. Schelhaas MJ, Nabuurs GJ, Schuck A. Natural disturbances in the                    Ecol Manage. 2013;298:27–38.
+      European forests in the 19th and 20th centuries. Glob Change Biol.          29. Alba C, Skalova H, McGregor KF, D’Antonio C, Pysek P. Native and exotic
+      2003;9:1620–33.                                                                 plant species respond differently to wildfire and prescribed fire as
+3. Secretariat of the Convention on Biological Diversity. Global Biodiversity         revealed by meta-analysis. J Veg Sci. 2015;26:102–13.
+      Outlook 3. Montréal: UNEP/Earthprint; 2010.                                 30. Duguid MC, Ashton MS. A meta-analysis of the effect of forest manage-
+4. Convention on Biological Diversity. Strategic plan for biodiversity                ment for timber on understory plant species diversity in temperate
+      2011–2020. COP Decision X/2. Aichi: 2010.                                       forests. For Ecol Manage. 2013;303:81–90.
+
+Bernes et al. Environ Evid (2015) 4:25                                                                                                                 Page 22 of 22
+31. Fedrowitz K, Koricheva J, Baker SC, Lindenmayer DB, Palik B, Rosenvald R,       57. Bauhus J, Puettmann K, Messier C. Silviculture for old-growth attributes.
+    et al. Can retention forestry help conserve biodiversity? A meta-analysis. J        For Ecol Manage. 2009;258:525–37.
+    Appl Ecol. 2014;51:1669–79.                                                     58. Kuuluvainen T, Aapala K, Ahlroth P, Kuusinen M, Lindholm T, Sallantaus T,
+32. Fontaine JB, Kennedy PL. Meta-analysis of avian and small-mammal                    et al. Principles of ecological restoration of boreal forested ecosystems:
+    response to fire severity and fire surrogate treatments in U.S. fire-prone          Finland as an example. Silva Fennica. 2002;36:409–22.
+    forests. Ecol Appl. 2012;22:1547–61.                                            59. Côté SD, Rooney TP, Tremblay JP, Dussault C, Waller DM. Eco-
+33. Foster CN, Barton PS, Lindenmayer DB. Effects of large native herbivores            logical impacts of deer overabundance. Annu Rev Ecol Evol Syst.
+    on other animals. J Appl Ecol. 2014;51:929–38.                                      2004;35:113–47.
+34. Fulé PZ, Crouse JE, Roccaforte JP, Kalies EL. Do thinning and or                60. Lõhmus A, Remm L, Rannap R. Just a ditch in forest? Reconsidering drain-
+    burning treatments in western USA ponderosa or Jeffrey pine-                        ing in the context of sustainable forest management. Bioscience. 2015.
+    dominated forests help restore natural fire behavior? For Ecol Manage.              doi:10.1093/biosci/biv136.
+    2012;269:68–81.                                                                 61. Similä M, Aapala K, Penttinen J. Ecological restoration in drained peat-
+35. Kalies E, Covington W, Chambers C, Rosenstock S. How do thinning and                lands—best practices from Finland. Vantaa: Metsähall Nat Serv; 2014.
+    burning treatments in southwestern conifer forests in the United States         62. Sebek P, Altman J, Platek M, Cizek L. Is active management the key to the
+    affect wildlife density and population performance? CEE review 09-005               conservation of saproxylic biodiversity? Pollarding promotes the forma-
+    (SR66). Bangor: Collaboration for Environmental Evidence; 2010.                     tion of tree hollows. PLoS One. 2013;8(3):e60456.
+36. Kalies EL, Chambers CL, Covington WW. Wildlife responses to thinning            63. Angelstam P, Axelsson R, Elbakidze M, Laestadius L, Lazdinis M, Nordberg
+    and burning treatments in southwestern conifer forests: a meta-analysis.            M, et al. Knowledge production and learning for sustainable forest man-
+    For Ecol Manage. 2010;259:333–42.                                                   agement on the ground: Pan-European landscapes as a time machine.
+37. Paillet Y, Bergès L, Hjältén J, Ódor P, Avon C, Bernhardt-Römermann M,              Forestry. 2011;84:581–96.
+    et al. Biodiversity differences between managed and unmanaged forests:          64. Ulybina O. Model forests in the Russian federation: Local perspectives,
+    meta-analysis of species richness in Europe. Conserv Biol. 2010;24:101–12.          challenges and outcomes. Environ Policy Gov. 2015. doi:10.1002/eet.1679.
+38. Pastro LA, Dickman CR, Letnic M. Fire type and hemisphere determine             65. Lindenmayer DB, Margules CR, Botkin DB. Indicators of biodiver-
+    the effects of fire on the alpha and beta diversity of vertebrates: a global        sity for ecologically sustainable forest management. Conserv Biol.
+    meta-analysis. Glob Ecol Biogeogr. 2014;23:1146–56.                                 2000;14:941–50.
+39. Seibold S, Bässler C, Brandl R, Gossner MM, Thorn S, Ulyshen MD, et al.         66. Nilsson SG, Hedin J, Niklasson M. Biodiversity and its assessment in boreal
+    Experimental studies of dead-wood biodiversity—a review identifying                 and nemoral forests. Scand J For Res Suppl. 2001;3:10–26.
+    global gaps in knowledge. Biol Conserv. 2015;191:139–49.                        67. Caro T. Conservation by proxy: indicator, umbrella, keystone, flagship, and
+40. Vanderwel MC, Maicolm JR, Mills SC. A meta-analysis of bird responses               other surrogate species. Washington, DC: Island Press; 2010.
+    to uniform partial harvesting across North America. Conserv Biol.               68. Osler GHR, Korycinska A, Cole L. Differences in litter mass change
+    2007;21:1230–40.                                                                    mite assemblage structure on a deciduous forest floor. Ecography.
+41. Verschuyl J, Riffell S, Miller D, Wigley TB. Biodiversity response to intensive     2006;29:811–8.
+    biomass production from forest thinning in North American forests—a             69. Müller J, Opgenoorth L. On the gap between science and conserva-
+    meta-analysis. For Ecol Manage. 2011;261:221–32.                                    tion implementation—a national park perspective. Basic Appl Ecol.
+42. Collaboration for Environmental Evidence. Guidelines for systematic                 2014;15:373–8.
+    review and evidence synthesis in environmental management. Version              70. Arlettaz R, Schaub M, Fournier J, Reichlin TS, Sierro A, Watson JEM, et al.
+    4.2. Bangor: Environmental Evidence; 2013.                                          From publications to public actions: When conservation biologists
+43. Bernes C, Jonsson BG, Junninen K, Lõhmus A, Macdonald E, Müller J                   bridge the gap between research and implementation. Bioscience.
+    et al. What is the impact of active management on biodiversity in forests           2010;60:835–42.
+    set aside for conservation or restoration? A systematic review protocol.        71. Habel JC, Gossner MM, Meyer ST, Eggermont H, Lens L, Dengler J, et al.
+    Environ Evid. 2014;3(22):1–9.                                                       Mind the gaps when using science to address conservation concerns.
+44. Landis JR, Koch GG. The measurement of observer agreement for cat-                  Biodivers Conserv. 2013;22:2413–27.
+    egorical data. Biometrics. 1977;33:159–74.                                      72. Gerhardt P, Arnold JM, Hackländer K, Hochbichler E. Determinants of deer
+45. Peel MC, Finlayson BL, McMahon TA. Updated world map of the Köppen-                 impact in European forests—a systematic literature analysis. For Ecol
+    Geiger climate classification. Hydrol Earth Syst Sci. 2007;11:1633–44.              Manage. 2013;310:173–86.
+46. Rosenvald R, Lõhmus A. For what, when, and where is green-tree reten-           73. Gill RMA, Beardall V. The impact of deer on woodlands: the effects of
+    tion better than clear-cutting? A review of the biodiversity aspects. For           browsing and seed dispersal on vegetation structure and composition.
+    Ecol Manage. 2008;255:1–15.                                                         Forestry. 2001;74:209–18.
+47. Aubry K, Halpern C. CE P. Variable-retention harvests in the Pacific North-     74. Gordon IJ, Hester AJ, Festa-Bianchet M. The management of wild large
+    west: a review of short-term findings from the DEMO study. For Ecol                 herbivores to meet economic, conservation and environmental objec-
+    Manage. 2009;258:398–408.                                                           tives. J Appl Ecol. 2004;41:1021–31.
+48. FAO. FRA 2000 on definitions of forest and forest change. Appendix 1:           75. Rooney TP, Waller DM. Direct and indirect effects of white-tailed deer in
+    Definitions as in FRA Working Paper 1 and comments. Rome: Food and                  forest ecosystems. For Ecol Manage. 2003;181:165–76.
+    Agriculture Organization of the United Nations; 1998.                           76. Suominen O, Danell K. Effects of large herbivores on other fauna. In:
+49. Kuuluvainen T, Aakala T. Natural forest dynamics in boreal Fennoscandia:            Danell K, Bergström R, Duncan P, Pastor J, editors. Large herbivore ecol-
+    a review and classification. Silva Fennica. 2011;45:823–41.                         ogy, ecosystem dynamics and conservation. Cambridge: Cambridge
+50. Gromtsev A. Natural disturbance dynamics in the boreal forests of Euro-             University Press; 2006. p. 383–412.
+    pean Russia: a review. Silva Fennica. 2002;36:41–55.                            77. Mitchell FJG, Kirby KJ. The impact of large herbivores on the conservation
+51. Franklin JF. Toward a new forestry. Am For. 1989;95(11/12):37–44.                   of semi-natural woods in the British uplands. Forestry. 1990;63:333–53.
+52. Lindenmayer DB, Franklin JF, Lõhmus A, Baker SC, Bauhus J, Beese W, et al.      78. Putman RJ. Grazing in temperate ecosystems, large herbivores and the
+    A major shift to the retention approach for forestry can help resolve some          ecology of the New Forest. London: Croom Helm; 1986.
+    global forest sustainability issues. Conserv Lett. 2012;5:421–31.               79. Russell FL, Zippin DB, Fowler NL. Effects of white-tailed deer (Odocoileus
+53. Hansson L. Ecological principles of nature conservation: applications in            virginianus) on plants, plant populations and communities: A review. The
+    temperate and boreal environments. London: Elsevier; 1992.                          American Midland Naturalist. 2001;146:1–26.
+54. Peterken GF. Natural woodland: ecology and conservation in northern             80. Bilotta GS, Milner AM, Boyd I. On the use of systematic reviews to inform
+    temperate regions. Cambridge: Cambridge University Press; 1996.                     environmental policies. Environ Sci Policy. 2014;42:67–77.
+55. Samuelsson J, Gustafsson L, Ingelög T. Dying and dead trees. A review           81. Mascia MB, Pallier S, Thieme ML, Rowe A, Bottrill MC, Danielsen F, et al.
+    of their importance for biodiversity. Report 4306. Stockholm: Swedish               Commonalities and complementarities among approaches to conserva-
+    Environmental Protection Agency; 1994.                                              tion monitoring and evaluation. Biol Conserv. 2014;169:258–67.
+56. Jonsson B, Kruys N, Ranius T. Lessons from species ecology for dead wood        82. Sutherland WJ, Peel MJS. Benchmarking as a means to improve conserva-
+    management at a landscape scale. Silva Fennica. 2005;38:289–309.                    tion practice. Oryx. 2011;45:56–9.
+

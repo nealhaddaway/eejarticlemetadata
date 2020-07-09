@@ -1,0 +1,416 @@
+Skip to main content
+Advertisement
+Search
+• Explore journals
+• Get published
+• About BMC
+• My account
+Search all BMC articles
+Search
+Environmental Evidence
+• Home
+• About
+• Articles
+• Submission Guidelines
+Download PDF
+• Systematic Map
+• Open Access
+• Published: 19 December 2019
+Effectiveness of ecotechnologies in agriculture for the recovery and reuse of carbon and nutrients in the Baltic and boreo-temperate regions: a systematic map
+• Biljana Macura  ORCID: orcid.org/0000-0002-4253-13901,
+• Mikołaj Piniewski2,
+• Marta Księżniak2,
+• Paweł Osuch2,
+• Neal R. Haddaway1,3,
+• Filippa Ek1,
+• Karolin Andersson1 nAff4 &
+• Sirkka Tattari5
+Environmental Evidence volume 8, Article number: 39 (2019) Cite this article
+1185 Accesses
+1 Citations
+7 Altmetric
+Metrics details
+Abstract
+Background
+Agriculture is the main sector responsible for nutrient emissions in the Baltic Sea Region and there is a growing pressure to identify cost-effective solutions towards reducing nitrogen and phosphorus loads originating from farming activities. Recycling resources from agricultural waste is central to the idea of a circular economy, and has the potential to address the most urgent problems related to nutrients use in the food chain, such as depletion of natural phosphorus reserves, water pollution and waste management. This systematic map examined what evidence exists relating to the effectiveness of ecotechnologies in agriculture for the recovery and reuse of carbon and/or nutrients (nitrogen and phosphorus) in the Baltic Sea region and other comparable boreo-temperate systems.
+Methods
+We searched for both academic and grey literature. English language searches were performed in 5 bibliographic databases and search platforms, and Google Scholar. Searches in 36 specialist websites were performed in English, Finnish, Polish and Swedish. The searches were restricted to the period 2013 to 2017. Eligibility screening was conducted at two levels: title and abstract (screened concurrently for efficiency) and full text. Meta-data was extracted from eligible studies including bibliographic details, study location, ecotechnology name and description, type of outcome (i.e. recovered or reused carbon and/or nutrients), type of ecotechnology in terms of recovery source, and type of reuse (in terms of the end-product). Findings are presented here narratively and in a searchable database, and are also visualised in a web-based evidence atlas (an interactive geographical information system). In addition, knowledge gaps and clusters have been identified in the evidence base and described in detail.
+Results
+We found 173 articles studying the effectiveness of 177 ecotechnologies. The majority of eligible articles were in English, originated from bibliographic databases and were published in 2016. Most studies with reported locations, and given our boreo-temperate scope, were conducted in Europe and North America. The three most prevalent ecotechnologies in the evidence base (collectively 40.7%) were; soil amendments, anaerobic digestion and (vermi)composting. Manure was the principal waste source used for recovery of nutrients or carbon, making up 55.4% of the all studies in evidence base, followed by a combination of manure and crop residues (22%). There were 51 studies with 14 ecotechnologies that reported on recovery of carbon and nutrients together, predominantly via (vermi)composting and anaerobic digestion. Only 27 studies focused on reuse of recovered nutrients and carbon through soil amendments.
+Conclusions
+This systematic map report provides an evidence base that can be useful for researchers and decision-makers in policy and practice working on transformation from linear to circular economy in the agricultural waste sector. Three potential topics for future systematic reviews are: (1) effectiveness of products recovered from different types of agricultural wastes as soil amendments or fertilizers; (2) effectiveness of anaerobic digestion as an ecotechnology used for recovery of nutrients and carbon; (3) effectiveness of composting and/or vermicomposting as ecotechnologies used for recovery of nutrients and carbon.
+Background
+The degradation of water quality in the Baltic Sea is continuing, despite investments in measures to mitigate pollution from both diffuse and point sources within its drainage basin [1, 2]. The HELCOM report on Baltic Sea ecosystem health identified inorganic, nutrient-induced increase of primary production and high organic carbon (C) load as the two greatest environmental pressures in the Baltic Sea [3]. The high vulnerability of the Baltic Sea to waterborne nutrient loadings is the result of three main factors: its large catchment to sea area ratio; long freshwater renewal time; and limited water exchange with the North Sea.
+The dominant pathway of total nitrogen (N) and total phosphorus (P) in riverine loads to the Baltic Sea is from diffuse sources (46.5% and 35.7%, respectively), predominantly originating from agricultural activities [4]. These percentages are greater than all other N and P source types (i.e. point sources, atmospheric deposition, forestry, scattered settlements and natural background load). There is thus substantial pressure on the agricultural sector to identify cost-effective solutions for reducing N and P loads originating from farming activities. A recent Finish assessment has demonstrated that, to date, investments in water protection measures have not led to any visible reduction of diffuse nutrient loads at the national scale in Finland [5]. Furthermore, a multi-benefit approach towards implementation of technological and management measures is recommended instead of focusing on a single benefit such as nutrient load reduction [6].
+Since high-quality reserves of P in phosphate rock are expected to deplete within a few 100 years [7] whilst global P demand continues to grow, policy and research attention is shifting towards P recovery from waste, and its reuse as fertiliser [8, 9]. There are three major types of agricultural waste: (1) livestock manure; (2) primary agricultural residuals (such as post-harvest crop residuals); and (3) secondary agricultural residuals (from crop processing in agricultural industries). Recycling resources from agricultural waste is central to the idea of a circular economy [10] and has the potential to address the most urgent problems related to nutrient use in the food chain, such as depletion of natural P reserves, water pollution, and waste management [9].
+If agricultural waste is not properly managed, it can become an environmental and economic burden [11]. For example, the patchy geographical location of intensive livestock and crop areas has led to an unbalanced spatial distribution of manure availability, which results in nutrient-deficient areas and nutrient hot-spots [12, 13]. Production of safe and stable fertilisers from organic waste streams requires the implementation of cost-effective manure processing technologies. Although recycling nutrients back to the soil is the primary reason for application of organic materials to farmland, organic C recycling is also important due to reduced soil productivity resulting from the long-term soil organic C decline in many areas of the world [14].
+Apart from animal manure, the following five categories of organic soil amendments have been distinguished [14]: (1) municipal biosolids and septage; (2) green manure and crop residues; (3) food residues and waste; (4) waste from manufacturing process; and (5) compost. This categorisation misses some important products that can be recovered from different agricultural waste streams and applied to fields, namely: anaerobic digestate and its derivatives [15] or biochar from pyrolysis process [16, 17].
+N, P and C are also ubiquitous in agricultural runoff [18, 19] and in natural water bodies [20]. However, the implementation of recovery technologies for non-reactive P, is much less common for natural water bodies than for manure [20], due to several reasons: (1) the presence of other constituents such as organics; (2) a lower per unit conversion efficacy; and, (3) the technical ease of implementation. Furthermore, pollutants in agricultural runoff or natural waterways contaminated with nutrients are usually considered as a source for nutrient removal, as in the case of constructed wetlands [21, 22], or a source for nutrient retention in streams, as in the case of river restoration projects [23], but not a source for nutrient recovery.
+The focus of the present study is on ecotechnologies for the recovery and reuse of organic C and nutrients (N and P) in the agricultural sector. The term ‘ecotechnologies’ is understood here as “human interventions in social-ecological systems in the form of practices and/or biological, physical, and chemical processes designed to minimise harm to the environment and provide services of value to society” [24].
+Stakeholder engagement
+The topic for this review was initially proposed by the research funder BONUS (https://www.bonusportal.org/). The scope of the project was then refined through expert discussions as part of the process of drafting an application in response to the call by the research funder. The scope and the search strategy were further refined by a specially formed stakeholder group, consisting of the broader BONUS RETURN project consortium members (see https://www.bonusreturn.com/), which explains the Baltic Sea basin focus.
+Objective of the review
+The primary question for this systematic map was:
+What evidence exists relating to effectiveness of ecotechnologies in agriculture for the recovery and reuse of carbon and nutrients in the Baltic and boreo-temperate regions?
+Definitions of the question components
+Population(s): The boreo-temperate regions comparable with and including the Baltic Sea region.
+Intervention(s): Any practice undertaken for the purposes of recovering and/or reusing C and/or nutrients (N or P) from agricultural waste, manure, soil or waterbodies (including surface and ground water).
+Comparator(s): Before ecotechnology use, a control site without an ecotechnology, a comparison between different ecotechnologies, different intensities of the same ecotechnology, time series after ecotechnology implementation.
+Outcome(s): Described recovery and/or reuse of C and/or following nutrients: N compounds (N, nitrate, nitrite, ammonium) or P compounds (P, phosphate)
+As requested by the stakeholders, this review had a specific focus on the Baltic Sea region, but it also included studies from other comparable boreo-temperate regions in both hemispheres (see “Eligible population(s)” below).
+Methods
+The review followed the Collaboration for Environmental Evidence Guidelines and Standards for Evidence Synthesis in Environmental Management [25]. It was conducted according to the peer-reviewed protocol [26] and it conformed to ROSES reporting standards [27] (see Additional file 1).
+Deviations from the protocol
+An additional source of evidence was added to the review that was not stated in the protocol. Parallel to this review, a systematic map on recovery of nutrients and C from municipal wastewater was conducted within the same BONUS RETURN project (and similar review team) [28]. This map used the same search sources, but different search strings. Records (screened at title and abstract or full text) found in one map but relevant to the other, were transferred between the maps rescreened and deduplicated against the other map’s relevant full texts and included together with grey literature search results. For other deviations, see “Data coding strategy” section.
+Searching for articles
+Bibliographic databases
+We searched for evidence in following databases and platforms:
+• 1.
+Scopus.
+• 2.
+Web of Science Core Collections (consisting of the following indexes: SCI-EXPANDED, SSCI, A&HCI, CPCI-S, CPCI-SSH, and ESCI).
+• 3.
+Electronic Theses Online Service (eThOS).
+• 4.
+Digital Access to Research Theses (DART).
+• 5.
+Directory of Open Access Journals (DOAJ).
+Searches were performed using subscriptions of Warsaw University of Life Sciences and Stockholm University. These searches were conducted using English language search terms. The following search string was used in bibliographic databases:
+(recycl* OR reus* OR circul* OR conver* OR recover* OR return*) AND (agr* OR farm* OR crop* OR livestock OR “live stock” OR manure OR animal OR cultivat*) AND (“organic carbon” OR DOC OR “organic C” OR “organic matter” OR nutrient* OR nitrogen OR nitrate OR nitrite OR ammoni* OR phosphorus OR phosphate) [shown as formatted for Web of Science Core Collections]
+The searches were restricted to articles published during the period of 2013–2017 as we intended to concentrate on technological innovations not yet in industrial use. Moreover, we conducted searches until 2017 as this year marked the start of the BONUS RETURN project.
+Search engines
+Searches performed in Google Scholar were in English only and restricted to articles published between 2013 and 2017, as above. The first 1000 search results were extracted as citations using Publish or Perish software [29] and introduced into the duplication removal and screening workflow alongside records from bibliographic databases.
+Organisational websites
+Searches were performed across a suite of 36 relevant organisational websites for ecotechnologies for the reuse of C and/or nutrients. Each website was hand-searched for eligible publications. Searches were performed in English, Swedish, Finnish and Polish corresponding to the case-study countries within the BONUS RETURN project as well as many of the Baltic languages. Literature from organisational websites was screened separately before it was combined with other records.
+Testing comprehensiveness of the search
+Twenty articles of known relevance to the review were screened against scoping search results to examine whether searches could locate relevant evidence. If articles were not found during scoping, search terms were examined to identify the reasons why articles were missed, and the search string was modified accordingly.
+Details of all the searches including list of benchmark articles can be found in Additional file 2.
+Assembling library of search results
+Results of the searches in bibliographic databases and Google Scholar were combined, and duplicates were removed prior to screening. A library of search results was assembled in a review management software (i.e. EPPI Reviewer [30]). These search results were randomly divided into 5 equal sets (each containing 20% of all searches from bibliographic databases and Google Scholar), and then each set was screened and coded sequentially to facilitate rapid identification of knowledge gaps and knowledge clusters.
+Article screening and study eligibility criteria
+Screening process
+Screening was conducted at two levels: at title and abstract level together, and at full text level. The full texts of potentially relevant abstracts were retrieved, tracking those that could not be located or accessed (see Additional file 3 for details). Retrieved records were screened at full text, with each record being assessed by one experienced reviewer.
+Prior to commencing screening, consistency checking was performed with 3 reviewers on a subset of articles at both title and abstract level and full text level screening. A subset of 700 title and abstract records and 40 full text records was independently screened by all reviewers. These numbers represent approximately 10% of each set of results at each level for both searches. The results of the consistency checking were compared between reviewers and all disagreements discussed in detail. Where the level of agreement was low (below 80% agreement level), further consistency checking was performed on an additional set of articles and then discussed.
+Eligibility criteria
+The following criteria were applied at all levels of screening:
+Eligible population(s): Relevant studies located in the Baltic Sea Region or comparable boreal/temperate regions in both hemispheres, with fully humid temperate (Cfa, Cfb, Cfc) and fully humid boreal (Dfa, Dfb, Dfc, Dfd) climates according to the Köppen-Geiger climate classification [31].
+Eligible intervention(s): Any ecotechnology (see the definition of ‘ecotechnology’ above) undertaken for the purposes of recovery and/or reuse of C and/or nutrients (N or P) in agriculture. Recovery affects either agricultural waste (animal- or plant-based) or agricultural runoff (e.g. surface runoff, tile drain flow or groundwater flow). A study was excluded if a given recovery source was not directly related to agriculture (e.g. industrial/municipal wastewater, agro-industrial wastewater, an inland or sea water body whose pollution level could not be directly attributed to an agricultural activity).
+Eligible comparator(s): Before ecotechnology use, a control site without an ecotechnology, a comparison between different ecotechnologies, different intensities of the same ecotechnology, time series after ecotechnology implementation.
+Eligible outcome(s): Described recovery and/or reuse of C and/or nutrients from e.g. agricultural waste (e.g. crop residues, manure, agricultural runoff, etc.) within the Baltic Sea Region or boreo-temperate systems. C outcomes include soil C, soil organic C, total C, dissolved organic C, and organic matter, but also chemical oxygen demand and biological oxygen demand, which are proxies for C. Nutrient outcomes include N compounds (N, nitrate, nitrite, ammonium) and P compounds (P, phosphate). Studies describing agricultural reuse of products, such as soil amendments (including fertilizers), recovered for example from wastewater or sludge were not included in this map (but they are being catalogued in a separate systematic map (see [28]).
+A list of articles excluded at title and abstract level, and at full text level, with reasons for exclusion provided for all excluded articles is in Additional file 4.
+Study validity assessment
+The validity of articles was not be appraised as part of this systematic map in accordance with accepted systematic mapping methodological guidance [32], although particular meta-data extracted into the systematic map relate to internal and external validity.
+Data coding strategy
+The following meta-data extraction and coding was performed for all relevant studies (which was updated after the protocol [26] was published):
+Ecotechnology name (as stated in the original article).
+Short description of ecotechnology (as stated in the original source).
+Category of ecotechnology (e.g. struvite precipitation, bioreactors, source separation).
+Substrate used for recovery:
+Manure-based.
+Crop-based.
+Manure- and crop-based combined.
+Other.
+Outcome: recovered or reused C and/or nutrients (N and P).
+Name of recovered product reused as soil amendment.
+Study country and location.
+Latitude.
+Longitude.
+Study scale and type (laboratory experiment, field study with micro, medium or macro scale).
+The categories of ecotechnologies were assigned post hoc at the final coding stage, primarily based on coded ecotechnology names. Short descriptions were a supplementary source, and the full texts were used in case of doubts. The goal was to derive relatively homogenous clusters that could be used at the synthesis stage. Meta-data extraction and coding was performed by multiple reviewers (3 in total) following consistency checking on a parallel coding of subset of 21 full texts (which was about 10% of the evidence base), discussing all disagreements. Meta-data from the remaining relevant studies were then extracted in EPPI reviewer 4. All articles reported sufficient amount of information and no contact with authors was needed.
+Data mapping method
+The evidence base identified within this systematic map was described narratively, in the form of descriptive statistics and within a systematic map database; a searchable database with columns containing codes and meta-data related to the variables described in the meta-data extraction and coding schema, above. We produced an evidence atlas using study latitude and longitude meta-data, where studies are plotted on an interactive cartographic map. We have identified knowledge clusters and gaps by cross-tabulating different variables and inspecting the extent of evidence (number of studies) within each cell of the table.
+Results
+The initial search (see Additional file 4 for details of search results) yielded 40,336 articles, that after deduplication process resulted in 29,150 unique records that were screened at title and abstract level. After screening titles and abstracts, we have included 1747 records for retrieval and full text screening, but 412 articles could not be found or accessed (see Additional file 3) and a total of 1335 articles was screened at full text, where 151 articles were included (see Additional file 4 for exclusion reasons). A total of 12 articles was added from searches of specialist websites in relevant languages. Additional 10 records were added from the systematic map on recovery of nutrients and C from municipal wastewater. A final set of 173 articles with relevant data was included in the systematic map database (see Additional file 5). Three articles reported more than one ecotechnology and, in total, the evidence base included records of 177 studies with ecotechnologies. Each separate study of ecotechnology effectiveness was assigned a unique study ID and we refer to it as a ‘study’ in this map. Figure 1 shows the numbers of included and excluded articles and studies at different stages of the mapping process.
+Fig. 1
+ROSES flow diagram [27] showing literature sources and inclusion/exclusion process
+Full size image
+Evidence atlas
+We have created an evidence atlas using the EviAtlas tool [33] and it is accessible at https://bonusreturntest.github.io/ (and www.bonusreturn.eu/program/agriecotechevidence/). The evidence atlas shows the locations from the studies included in the systematic map database on a cartographic map. Depending on the information available in the articles, we have extracted and mapped coordinates of (1) sampling locations; (2) locations where an ecotechnology was developed or (3) where the ecotechnology was implemented. The evidence atlas is interactive and can be searched for specific evidence using visual interface (see Fig. 2 for a snapshot). Where coordinates of study sites were not available from the included articles, we retrieved them from Google Earth. If a study reported a country only, we have added coordinates of country’s capital (available from https://www.latlong.net) to the atlas. From 27 studies (15.3%) coordinates could not be found and extracted at all, and these studies could not be displayed on the map (26 of these were experimental or modelling studies).
+Fig. 2
+A snapshot of the evidence atlas. Colours represent studies reporting different recovered elements (or their combination)
+Full size image
+Review descriptive statistics
+Figure 3 shows the number of relevant articles included in the map database published per year and general source of searches such as specialist websites and bibliographic searches including Google Scholar. The majority of articles in the evidence base were published in 2016 (23.7%) and primarily originated from bibliographic databases (93.1%).
+Fig. 3
+Number of articles (n = 173) included in the systematic map database published per year and search source
+Full size image
+Figure 4 shows publication type and language of included articles. Journal articles were predominant publication type (80.3%) with the majority of articles published in English (93.1%). There were no eligible studies published in Swedish, and no grey literature articles published in English.
+Fig. 4
+Publication type and language of articles (n = 173) included in the systematic map database
+Full size image
+Description of ecotechnologies
+Most of the studies included in the map database, which specifically indicated a study country (150, 84.7%), were in Europe (76, 42.9%), followed by North America (50, 28.3%) and specifically, the United States (36, 24%) (see Table 1). Studies were located in 26 countries. The two most frequently represented European countries were Finland (16) and Belgium (13). Note that the distribution of studies across continents and countries is influenced by the eligible population criterion (see “Methods”).
+Table 1 Number of studies (n = 177) per continent and country included in the systematic map database
+Full size table
+Types of ecotechnologies
+In this map, we catalogued a total of 177 studies with 25 ecotechnologies that focused on recovery effectiveness of C, P and N (Table 2).
+Table 2 Ecotechnologies for recovery and reuse of C, P and N from agricultural waste streams included in the evidence base
+Full size table
+The most frequent category in the evidence base were soil amendments (15.3%), i.e. studies describing the reuse of products such as compost or biochar as additions to improve the soil; followed by anaerobic digestion (12.9%) and (vermi)composting (12.4%). Here, (vermi)composting refers to composting with or without various species of worms. Studies describing effectiveness of various combinations of ecotechnologies comprised 11% of evidence base (Fig. 5). The combinations were usually two single ecotechnologies coupled together in a sequence and most frequently anaerobic digestion coupled with an alternative technology, such as ammonium stripping, bioelectrochemical systems, ultrasonication, or similar.
+Fig. 5
+Number of studies across different categories of ecotechnologies
+Full size image
+Main substrate used for recovery
+Manure was the principal source used for recovery of nutrients or C (98), followed by a combination of manure mixed with crop residues (or any other plant biomass) (39) and crop residues solely (29). In addition, a comparatively small number of studies (11) tested ecotechnologies on substrates that could not fit into any of the previous categories and were classified as ‘Other’ (see Fig. 6).
+Fig. 6
+Distribution of studies per substrates used for recovery
+Full size image
+Among manure-based ecotechnologies, combinations of different ecotechnologies were the most common (19.4%), followed by anaerobic digestion (16.3%) and struvite precipitation (13.3%). Various types of manures were reported as a recovery source including manure of swine, poultry, cattle, and horse. Manure was sometimes described as solid or liquid, but without specification of the exact source, and some studies did not specify manure type or origin at all. The most common ecotechnologies to use a mixed substrate were soil amendments (33.3%), (vermi)composting (28.2%) and anaerobic digestion (15.4%). The majority of crop-based ecotechnologies included cover crops (23.5%) and other crop management practices (24.1%), followed by soil amendments (20.6%) and (vermi)composting (10.3%). Two noteworthy examples of ecotechnologies applied to substrates classified as “Others” were (11 studies): bioreactors placed in drainage ditches for nutrient removal and/or recovery (27.3% of 11 studies) and aquaponics (recirculation systems typically with fish tanks and hydroponic plants, e.g. vegetables) (18.2% of 11 studies). The substrate was agricultural drainage wastewater and liquid from the aquaponic system, respectively.
+Fourteen categories of ecotechnologies used only one substrate type for recovery of P, N or C. Six used two substrate types, while five were applied on three or more substrate types (including soil amendments, (vermi)composting, anaerobic digestion, pyrolysis and struvite precipitation) (Table 3).
+Table 3 Distribution of ecotechnologies according to the main substrate type used for recovery
+Full size table
+Recovery of C and nutrients
+There were 51 studies (28.8%) with 14 ecotechnologies that reported on recovery of all 3 elements (C, N and P) (see Table 4) and mostly using (vermi)composting and anaerobic digestion (reported by 14 and 11 studies respectively). Joint P and N recovery was also frequent in the evidence base (39, 22%) and was mostly done via struvite precipitation and a combination of ecotechnologies. The number of studies that reported only N recovery (35, 19.8%) was higher than those reporting only P recovery (22, 12.4%). P and N recovery were more frequently reported than C recovery. N recovery was mostly achieved by soil amendments and cover crops, while P recovery was mostly achieved by struvite precipitation and soil amendments. Only 10 studies (5.6%) reported recovery of C and mostly via anaerobic digestion, and only 2 studies (1.1%) reported joint recovery of C and P using either pyrolysis or membrane filtration.
+Table 4 Recovery of C, P and N reported across different ecotechnologies in the evidence base
+Full size table
+The majority of ecotechnologies using manure as a recovery substrate focused on recovery of P and N (26), followed by C, P and N (23) and N only (20) (Table 5) and they constitute the largest knowledge cluster within the systematic map. The second cluster was within the ecotechnologies classified as manure- and crop-based, predominately focusing on joint recovery of C, P and N (19). Crop-based ecotechnologies very mostly focusing on N, followed by C and N and C, P and N recovery.
+Table 5 Number of studies per type of recovery and type of ecotechnology based on recovery source
+Full size table
+Table 6 shows the type of ecotechnology recovery source across different locations. In the evidence base, manure-based technologies clearly dominated over all other types in boreo-temporal regions of many countries including United States, China and many European countries.
+Table 6 Number of studies per type of ecotechnology recovery source across different locations
+Full size table
+Studies located in the United States (7 out of 36) mostly reported on the effectiveness of cover crops, while soil amendments were one of the top ecotechnologies in Canada, Finland and Belgium (Table 7). Studies that reported no location were mostly focusing on vermicomposting (9 out of 27) followed by soils amendments (5 out of 27) and a combination of ecotechnologies (5 out of 27).
+Table 7 Ecotechnologies per top four locations (with or more than 13 studies), including studies that have not stated country
+Full size table
+Reuse potential
+Only 27 studies focused on reuse of recovered nutrients and C through soil amendments (Table 8). The majority of soil amendments present in the evidence base were compost (6, 22.2%), biochar (5, 18.5%) and biogas residues (5, 18.5%) originating from the recovery process of N only (7, 25.9%) or a combination of C, P and N (6, 22.2%).
+Table 8 Different reuse products originating from recovered nutrients and C
+Full size table
+Study design and scale
+The majority of studies (Fig. 7) were conducted in a laboratory context and on a small scale (88, 49.7%), followed by the medium scale field studies (34, 19.2%) and medium scale laboratory experiments (22, 12.4%). Modelling (i.e. including calculations of potential effectiveness under modelled conditions) and large-scale field studies made up with only 6.8 and 6.2% of the evidence base, respectively. There were 6 (3.4%) small-scale field studies (mostly composting) and 4 studies that included both laboratory experiments and field tests (2.3%). The scales were defined as follows. Small scale studies were for example pot or growth experiments, or in case of waste water treatment processes, lab or bench scale operations with input flows from several millilitres to up to 10 L. Medium scale studies included study plots in size of 10 s of meters. In case of waste water treatment processes, studies were classed as medium scale if they were pilot operations with input flows from 100 to up to 5000 L. A study was classified as a large if study plots were in size of 100 s of meters or over an entire field. In case of waste water treatment processes, large scale studies were at full scale operations.
+Fig. 7
+Scale and design of included studies (n = 177)
+Full size image
+Of the most frequent ecotechnologies in the evidence base, soil amendment and (vermi) composting were examined with either small scale lab experiments or medium scale field studies, while studies on anaerobic digestion, a combination of ecotechnologies, and struvite precipitation were mostly conducted on a small scale in a laboratory setting (Table 9).
+Table 9 Study scale and designs used to assess the effectiveness of ecotechnologies in the evidence base
+Full size table
+Limitations of the map
+The limitations of the map may originate from: (1) the search strategy; and (2) bias in the pool of studies found. We will address both types of limitations consecutively.
+Although we have used a comprehensive set of both general and specific search terms and we have checked comprehensiveness our search using a benchmark list, there is a risk that we have missed some studies. Namely, our search terms were ‘open’ to any ecotechnologies for reuse/recovery/recycling of nutrients and C, but did not contain any example names/types of existing ecotechnologies, such as anaerobic digestion, struvite precipitation, composting, etc. It may be that there exist valid articles on these ecotechnologies that do not contain any of our ‘reuse’ terms in their title, abstract or keywords, but they do mention or describe the reuse aspect at full text level. On the other hand, although we were searching for different ecotechnologies, none of the studies we found mentioned ‘ecotechnology’ in their title or abstract. Future maps should account for this limitation and potentially introduce more synonyms for specific ecotechnologies, or make use of emerging technological developments to search for potentially relevant studies via text analysis or citation connections.
+Our grey literature searches were focused on the Baltic Sea Region and European contexts (due to the focus of the BONUS RETURN project and available language skills in the review team). Future work could include more searches for grey literature on non-European specialist websites. In addition, the evidence base included only four studies conducted in Denmark, which is surprising since this is a country with significant manure problems on the one hand and a high level of technological innovations on the other. In contrast, the evidence base included 16 studies from Finland, but as many as 9 of them came from specialist website searches in using Finnish search terms. We therefore expect that, as in the Finnish case, some eligible studies could be identified from searches in Danish language and future syntheses should attempt these searches.
+In this systematic map we have not focused on the reduction of C and nutrient emissions from agriculture, but instead on their recovery and reuse, due to a pre-set context of the BONUS RETURN project. In fact, reduction of pollutant emissions from agriculture is often (traditionally) seen as a more important problem than recovery of nutrients and C, so a larger body of evidence may exist for ‘reduction ecotechnologies’. For example, a recent systematic map concerning on-farm water quality improvement measures applied in countries with temperate climate [34] identified buffer strips and catch/cover crops as the two most frequently studied interventions. The size of their evidence base (410) was significantly higher than the size of ours (177). In another systematic review focused on the effectiveness of constructed or restored wetlands for nutrients removal, 93 articles were identified with data from 203 wetlands [22]. Future maps could expand the scope and catalogue other types of removal and reduction ecotechnologies.
+Finally, we have limited our search to 5 years, between 2013 and 2017 as we focused on the technological innovations, but future work should update this range to capture research published since 2017, and potentially examine articles published before 2013 for a more extensive evidence base.
+Given the scope of this map and the focus on boreo-temperate zones, a geographical bias towards developed countries, especially the United States and western European countries, can be noticed in our evidence base. Studies from some large countries covering large part of the relevant climate zones, such as China or Russia, have a minor contribution to the evidence base (7 and 2 studies respectively) which may also be partly explained by the lack of Russian and Chinese focus in our review. Moreover, searching for and including literature produced in more languages (in addition to English, Finnish, Polish and Swedish), may have identified more evidence from relevant geographical regions (such as boreo-temperate zones of South America or similar).
+This systematic map dealt with two different aspects of processing waste products: recovery of nutrients from agricultural waste and reuse of recovered products as soil amendments (including fertilizers). The studies dealing with the latter (27) appeared to be much less abundant than the former (150). Many studies that dealt with nutrient or C recovery frequently mentioned the potential of the reuse of recovered products in agriculture, but they rarely evaluated its effectiveness. Trials have been mostly conducted in laboratory plots, but evidence of their effectiveness is needed at larger spatial and temporal scales [12]. It should be noted, however, that studies that described agricultural reuse of products derived from municipal wastewater or sludge were included in the parallel systematic map carried out within the BONUS RETURN project [28]. The effectiveness of the recovered products as fertilisers is still under investigation. Trials have been mostly conducted on laboratory plots, but evidence of their effectiveness is needed at larger temporal and spatial scales. The review team is however, trying to cover this synthesis gap [35].
+Finally, meta-data coding within this map had to include some level of subjectivity. For example, the distinction between different categories of eco-technologies was in some cases difficult to clearly define. The category “Combination” contains combinations of ecotechnologies, of which one component was frequently anaerobic digestion, thus the true value of studies that described anaerobic digestion is higher than 23 as reported in Table 2. The same applies to study design, whereby it was difficult to provide precise estimate of the study scale and mostly due to lack of reporting clarity.
+Conclusions
+Implication for policy/management
+This systematic map sought ecotechnologies—the term defined strictly for the purpose of the BONUS RETURN project [24]—for recovery and reuse of nutrients and C in agriculture. In the context of the Baltic Sea eutrophication and the role of non-point agricultural pollution affecting it, most of the current environmental and water policies at both European (e.g. Water Framework Directive), regional (e.g. HELCOM’s Baltic Sea Action Plan) and national levels (country-specific legislation) still focus on the reduction of emissions from agriculture rather than on recovery and reuse of nutrients in this sector. For example, a background document to the 2018 HELCOM Ministerial Meeting [36] mentions actions for nutrient recycling in order to reduce eutrophication only once—in the context of P recycling in agriculture and wastewater treatment, whereas the HELCOM discourse has been for a long time dominated by the country allocated reduction targets (CARTs), which are the amounts of nutrient inputs that member states need to reduce in comparison to the reference period of 1997–2003 [37]. In contrast, as the EU shifts to a circular economy [10], a specific action plan for nutrient recovery and reuse established at the EU level is being recommended [12]. This systematic map report provides evidence base that can be useful for decision-makers working on transformation from linear to circular economy in the agricultural waste sector.
+Implication for research
+Future work could focus in more detail at specific elements of this map through a full systematic review (and meta-analysis, where possible). Taking an arbitrary number of 20 studies in each category as a threshold (and excluding combinations of ecotechnologies as an heterogenous category), three main topics that stand out as potential knowledge clusters suitable for systematic reviews are:
+• 1.
+What is the effectiveness of products recovered from different types of agricultural wastes as soil amendments or fertilisers? The most popular products were compost, biogas residues and biochar.
+• 2.
+How effective is anaerobic digestion as an ecotechnology used for recovery of nutrients and carbon from manure and mixtures of manure with biomass waste?
+• 3.
+How effective is composting and/or vermicomposting as an ecotechnology used for recovery of nutrients and carbon from manure and/or biomass waste?
+There is a potentially long list of ecotechnology categories with very low numbers of corresponding studies (cf. Table 2) that could be considered as knowledge gaps. However, these are knowledge gaps only within the limits of our map and would need to be further discussed with relevant stakeholders before being seen as primary research priorities. Ecotechnologies for which primary or secondary (i.e. non-manure) agricultural residues were the sole recovery source were not the focus of the evidence base, but this is understandable given that they are not ubiquitous and their environmental impact less severe than that of manure. Even less studied were ecotechnologies for which contaminated water was a source for recovery, e.g. water in closed, recirculation systems (aquaponics), or water in the natural, open systems (constructed wetlands or bioreactors placed in small ditches). Future work could investigate these processes.
+Availability of data and materials
+Not applicable.
+References
+• 1.
+Lundberg C. Water quality of the Baltic Sea. In: Ahuja S, editor. Comprehensive water quality and purification. Waltham: Elsevier; 2014. p. 251–69.
+Google Scholar
+• 2.
+HELCOM. Eutrophication in the Baltic Sea—an integrated thematic assessment of the effects of nutrient enrichment and eutrophication in the Baltic Sea region. In: Baltic Sea environmental proceedings no. 115B. Helsinki: HELCOM; 2009.
+• 3.
+HELCOM. Ecosystem health of the Baltic Sea. HELCOM initial holistic assessment, 2003–2007. In: Baltic Sea environment proceedings 122; 2010. p. 63.
+• 4.
+HELCOM. Sources and pathways of nutrients to the Baltic Sea. In: Baltic Sea environment proceedings no. 153; 2018.
+• 5.
+Räike A, Taskinen A, Knuuttila S. Nutrient export from Finnish rivers into the Baltic Sea has not decreased despite water protection measures. Ambio. 2019. https://doi.org/10.1007/s13280-019-01217-7.
+Article  Google Scholar
+• 6.
+Powell N, Osbeck M, Larsen RK, Andersson K, Schwartz G, Davis M. The common agricultural policy post—2013: could reforms make baltic sea region farms more sustainable? In: SEI and Baltic COMPASS policy brief; 2013.
+• 7.
+Dawson CJ, Hilton J. Fertiliser availability in a resource-limited world: production and recycling of nitrogen and phosphorus. Food Policy. 2011;36:S14–22.
+Article  Google Scholar
+• 8.
+Leinweber P, Bathmann U, Buczko U, Douhaire C, Eichler-Löbermann B, Frossard E, Ekardt F, Jarvie H, Krämer I, Kabbe C, et al. Handling the phosphorus paradox in agriculture and natural ecosystems: scarcity, necessity, and burden of P. Ambio. 2018;47(1):3–19.
+Article  Google Scholar
+• 9.
+Sharpley AN, Bergström L, Aronsson H, Bechmann M, Bolster CH, Börling K, Djodjic F, Jarvie HP, Schoumans OF, Stamm C, et al. Future agriculture with minimized phosphorus losses to waters: research needs and direction. Ambio. 2015;44(2):163–79.
+CAS  Article  Google Scholar
+• 10.
+European Commission. Communication from the Commission to the European parliament, the Council, the European Economic and Social committee and the Committee of the Regions: closing the loop—an EU action plan for the Circular Economy. In: Commission E, editor. Document 52015DC0614. vol. COM(2015) 614 final. Brussels; 2015.
+• 11.
+Gontard N, Sonesson U, Birkved M, Majone M, Bolzonella D, Celli A, Angellier-Coussy H, Jang G-W, Verniquet A, Broeze J, et al. A research challenge vision regarding management of agricultural waste in a circular bio-based economy. Crit Rev Environ Sci Technol. 2018;48(6):614–54.
+Article  Google Scholar
+• 12.
+Buckwell A, Nadeu E. Nutrient recovery and reuse (NRR) in European agriculture: a review of the issues, opportunities, and actions. Brussels: RISE Foundation; 2016.
+Google Scholar
+• 13.
+Jones DL, Cross P, Withers PJA, DeLuca TH, Robinson DA, Quilliam RS, Harris IM, Chadwick DR, Edwards-Jones G. REVIEW: nutrient stripping: the global disparity between food security and soil nutrient stocks. J Appl Ecol. 2013;50(4):851–62.
+Article  Google Scholar
+• 14.
+Goss MJ, Tubeileh A, Goorahoo D. Chapter five—a review of the use of organic amendments and the risk to human health. In: Sparks DL, editor. Advances in agronomy, vol. 120. Amsterdam: Academic Press; 2013. p. 275–379.
+Google Scholar
+• 15.
+Al Seadi T, Drosg B, Fuchs W, Rutz D, Janssen R. 12—Biogas digestate quality and utilization. In: Wellinger A, Murphy J, Baxter D, editors. The biogas handbook. Cambridge: Woodhead Publishing; 2013. p. 267–301.
+Google Scholar
+• 16.
+Wu H, Lai C, Zeng G, Liang J, Chen J, Xu J, Dai J, Li X, Liu J, Chen M, et al. The interactions of composting and biochar and their implications for soil amendment and pollution remediation: a review. Crit Rev Biotechnol. 2017;37(6):754–64.
+CAS  Article  Google Scholar
+• 17.
+Zhang A, Liu Y, Pan G, Hussain Q, Li L, Zheng J, Zhang X. Effect of biochar amendment on maize yield and greenhouse gas emissions from a soil organic carbon poor calcareous loamy soil from Central China Plain. Plant Soil. 2012;351(1):263–75.
+CAS  Article  Google Scholar
+• 18.
+Sutherland DL, Craggs RJ. Utilising periphytic algae as nutrient removal systems for the treatment of diffuse nutrient pollution in waterways. Algal Res. 2017;25:496–506.
+Article  Google Scholar
+• 19.
+Mayer BK, Baker LA, Boyer TH, Drechsel P, Gifford M, Hanjra MA, Parameswaran P, Stoltzfus J, Westerhoff P, Rittmann BE. Total value of phosphorus recovery. Environ Sci Technol. 2016;50:6606–20.
+CAS  Article  Google Scholar
+• 20.
+Venkiteshwaran K, McNamara PJ, Mayer BK. Meta-analysis of non-reactive phosphorus in water, wastewater, and sludge, and strategies to convert it for enhanced phosphorus removal and recovery. Sci Total Environ. 2018;644:661–74.
+CAS  Article  Google Scholar
+• 21.
+Newman JR, Duenas-Lopez MA, Acreman MC, Palmer-Felgate EJ, Verhoeven JTA, Scholz M, Maltby E. Do on-farm natural, restored, managed and constructed wetlands mitigate agricultural pollution in Great Britain and Ireland? A systematic review. Final report WT0989. London: Department for Environment, Food and Rural Affairs; 2015.
+• 22.
+Land M, Granéli W, Grimvall A, Hoffmann CC, Mitsch WJ, Tonderski KS, Verhoeven JTA. How effective are created or restored freshwater wetlands for nitrogen and phosphorus removal? A systematic review. Environ Evid. 2016;5:9.
+Article  Google Scholar
+• 23.
+Newcomer Johnson TA, Kaushal SS, Mayer PM, Smith RM, Sivirichi GM. Nutrient retention in restored streams and rivers: a global review and synthesis. Water. 2016;8:116.
+Article  Google Scholar
+• 24.
+Haddaway N, McConville J, Piniewski M. How is the term ‘ecotechnology’ used in the research literature? A systematic review with thematic synthesis. Ecohydrol Hydrobiol. 2018;18:247–61.
+Article  Google Scholar
+• 25.
+Collaboration for Environmental Evidence. In: Pullin A, Frampton G, Livoreil B, Petrokofsky G, editors. Guidelines and standards for evidence synthesis in environmental management. Version 5.0; 2018.
+• 26.
+Haddaway NR, Piniewski M, Macura B. What evidence exists relating to effectiveness of ecotechnologies in agriculture for the recovery and reuse of carbon and nutrients in the Baltic and boreo-temperate regions? A systematic map protocol. Environ Evid. 2019;8:5.
+Article  Google Scholar
+• 27.
+Haddaway N, Macura B, Whaley P, Pullin A. ROSES flow diagram for systematic maps. Version 1.0. figshare. 2017. https://doi.org/10.6084/m9.figshare.6085940.
+• 28.
+Haddaway NR, Johannesdottir SL, Piniewski M, Macura B. What ecotechnologies exist for recycling carbon and nutrients from domestic wastewater? A systematic map protocol. Environ Evid. 2019;8:1.
+Article  Google Scholar
+• 29.
+Harzing AW. Publish or perish. https://harzing.com/resources/publish-or-perish; 2007.
+• 30.
+Thomas J, Brunton J, Graziosi S. EPPI-Reviewer 4.0: software for research synthesis. EPPI-Centre Software. 4.0 edn. London: Social Science Research Unit, Institute of Education, University of London; 2010.
+• 31.
+Kottek M, Grieser J, Beck C, Rudolf B, Rubel F. World map of the Köppen-Geiger climate classification updated. Meteorol Z. 2006;15:259–63.
+Article  Google Scholar
+• 32.
+James K, Randall N, Haddaway N. A methodology for systematic mapping in environmental sciences. Environ Evid. 2016;5:7.
+Article  Google Scholar
+• 33.
+Haddaway NR, Feierman A, Grainger MJ, Gray CT, Tanriver-Ayder E, Dhaubanjar S, Westgate MJ. EviAtlas: a tool for visualising evidence synthesis databases. Environ Evid. 2019;8(1):22.
+Article  Google Scholar
+• 34.
+Randall NP, Donnison LM, Lewis PJ, James KL. How effective are on-farm mitigation measures for delivering an improved water environment? A systematic map. Environ Evid. 2015;4(1):18.
+Article  Google Scholar
+• 35.
+Macura B, Johannesdottir SL, Piniewski M, Haddaway NR, Kvarnström E. Effectiveness of ecotechnologies for recovery of nitrogen and phosphorus from anaerobic digestate and effectiveness of the recovery products as fertilisers: a systematic review protocol. Environ Evid. 2019;8(1):29.
+Article  Google Scholar
+• 36.
+HELCOM. Implementation of the Baltic Sea Action Plan 2018: three years left to reach good environmental status. In: Brussels Ministerial Meeting 2018; 2018.
+• 37.
+HELCOM. Summary report on the development of revised maximum allowable inputs (MAI) and updated country allocated reduction targets (CART) of the Baltic Sea Action Plan. In: 2013 HELCOM ministerial meeting; 2013.
+Download references
+Acknowledgements
+We thank the BONUS Secretariat for their generous funding. We are grateful for support provided by Jari Koskiaho (SYKE) for grey literature searches in Finnish, and to Dag Lorick (SEI) for meta-data extraction and cleaning of database.
+Funding
+This review was conducted as part of BONUS RETURN project. BONUS RETURN project is supported by BONUS (Art 185), funded jointly by the EU and Swedish Foundation for Strategic Environmental Research FORMAS, Sweden’s innovation agency VINNOVA, Academy of Finland and National Centre for Research and Development in Poland. Open access funding provided by Stockholm University.
+Author information
+Author notes
+Karolin Andersson
+Present address: Department of Urban and Rural Development, Swedish University of Agricultural Sciences, P.O. Box 7012, 750 07, Uppsala, Sweden
+Affiliations
+Stockholm Environment Institute, Linnégatan 87D, Stockholm, Sweden
+Biljana Macura, Neal R. Haddaway, Filippa Ek & Karolin Andersson
+Department of Hydraulic Engineering, Warsaw University of Life Sciences, Nowoursynowska 166, 02-787, Warsaw, Poland
+Mikołaj Piniewski, Marta Księżniak & Paweł Osuch
+Africa Centre for Evidence, University of Johannesburg, Johannesburg, South Africa
+Neal R. Haddaway
+Finnish Environment Institute (SYKE), Helsinki, Finland
+Sirkka Tattari
+Authors
+• Biljana Macura
+View author publications
+You can also search for this author in PubMed Google Scholar
+• Mikołaj Piniewski
+View author publications
+You can also search for this author in PubMed Google Scholar
+• Marta Księżniak
+View author publications
+You can also search for this author in PubMed Google Scholar
+• Paweł Osuch
+View author publications
+You can also search for this author in PubMed Google Scholar
+• Neal R. Haddaway
+View author publications
+You can also search for this author in PubMed Google Scholar
+• Filippa Ek
+View author publications
+You can also search for this author in PubMed Google Scholar
+• Karolin Andersson
+View author publications
+You can also search for this author in PubMed Google Scholar
+• Sirkka Tattari
+View author publications
+You can also search for this author in PubMed Google Scholar
+Contributions
+BM and MP drafted initial version of the manuscript. NH and other authors edited and commented on earlier versions of the manuscript. All authors read and approved the final manuscript.
+Corresponding author
+Correspondence to Biljana Macura.
+Ethics declarations
+Ethics approval and consent to participate
+Not applicable.
+Consent for publication
+Not applicable.
+Competing interests
+The authors declare that they have no competing interests.
+Additional information
+Publisher's Note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary information
+Additional file 1. ROSES form for systematic maps.
+Additional file 2. Search results.
+Additional file 3. List of unobtainable articles.
+Additional file 4. List of studies excluded at full text screening with reasons for exclusion.
+Additional file 5. Systematic map database.
+Rights and permissions
+Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated in a credit line to the data.
+Reprints and Permissions
+About this article
+Cite this article
+Macura, B., Piniewski, M., Księżniak, M. et al. Effectiveness of ecotechnologies in agriculture for the recovery and reuse of carbon and nutrients in the Baltic and boreo-temperate regions: a systematic map. Environ Evid 8, 39 (2019). https://doi.org/10.1186/s13750-019-0183-1
+Download citation
+Received: 05 September 2019
+Accepted: 07 December 2019
+Published: 19 December 2019
+DOI: https://doi.org/10.1186/s13750-019-0183-1
+Keywords
+• Circular economy
+• Eutrophic
+• Fertilisers
+• Manure
+• Nitrogen
+• Nutrient recycle
+• Phosphorus
+• Pollution
+Download PDF
+Advertisement
+Environmental Evidence
+ISSN: 2047-2382
+Contact us
+• Submission enquiries: Access here and click Contact Us
+• General enquiries: info@biomedcentral.com
+• Read more on our blogs
+• Receive BMC newsletters
+• Manage article alerts
+• Language editing for authors
+• Scientific editing for authors
+• Policies
+• Accessibility
+• Press center
+• Support and Contact
+• Leave feedback
+• Careers
+Follow BMC
+• BMC Twitter page
+• BMC Facebook page
+• BMC Weibo page
+By using this website, you agree to our Terms and Conditions, Privacy statement and Cookies policy. Manage the cookies we use in the preference centre.
+© 2020 BioMed Central Ltd unless otherwise stated. Part of Springer Nature.

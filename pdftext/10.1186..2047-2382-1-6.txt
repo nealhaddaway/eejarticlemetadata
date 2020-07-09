@@ -1,0 +1,1258 @@
+Petrokofsky et al. Environmental Evidence 2012, 1:6
+http://www.environmentalevidencejournal.org/content/1/1/6
+  SYSTEMATIC REVIEW PROTOCOL                                                                                                                           Open Access
+Comparison of methods for measuring and
+assessing carbon stocks and carbon stock
+changes in terrestrial carbon pools. How do the
+accuracy and precision of current methods
+compare? A systematic review protocol
+Gillian Petrokofsky1*, Hideki Kanamaru2, Frédéric Achard3, Scott J Goetz4, Hans Joosten5, Peter Holmgren6,
+Aleksi Lehtonen7, Mary CS Menton8, Andrew S Pullin9 and Martin Wattenbach10
+  Abstract
+  Background: Climate change and high rates of global carbon emissions have focussed attention on the need for
+  high-quality monitoring systems to assess how much carbon is present in terrestrial systems and how these change
+  over time. The choice of system to adopt should be guided by good science. There is a growing body of scientific
+  and technical information on ground-based and remote sensing methods of carbon measurement. The adequacy
+  and comparability of these different systems have not been fully evaluated.
+  Methods: A systematic review will compare methods of assessing carbon stocks and carbon stock changes in key
+  land use categories, including, forest land, cropland, grassland, and wetlands, in terrestrial carbon pools that can be
+  accounted for under the Kyoto protocol (above- ground biomass, below-ground biomass, dead wood, litter and soil
+  carbon). Assessing carbon in harvested wood products will not be considered in this review.
+  Discussion: Developing effective mitigation strategies to reduce carbon emissions and equitable adaptation
+  strategies to cope with increasing global temperatures will rely on robust scientific information that is free from
+  biases imposed by national and commercial interests. A systematic review of the methods used for assessing
+  carbon stocks and carbon stock changes will contribute to the transparent analysis of complex and often
+  contradictory science.
+Background                                                                                Annual emissions from deforestation in Indonesia and
+Land use and land cover changes, including legal and il-                                  Brazil equal four-fifths of the annual reduction target of
+legal deforestation, are amongst the most important fac-                                  the Kyoto Protocol [4].
+tors that contribute to the social and environmental                                         Linking deforestation with climate change as a mitiga-
+challenges facing mankind in the 21st century. Deforest-                                  tion action was one of the key decisions of the thirteenth
+ation alone is responsible for about 12% of the world’s an-                               Conference of the Parties (COP) of the United Nations
+thropogenic greenhouse gas (GHG) emissions, whereas                                       Framework Convention on Climate Change. The Bali
+another 6% stems from peat oxidation and fires on                                         Action Plan agreed:
+degraded peatland areas [1]. The combined effects of log-
+ging and forest regrowth on abandoned land are respon-                                       “Enhanced national/international action on mitigation
+sible for 10–25% of global human-induced emissions [2,3].                                 of climate change, including, inter alia, consideration
+                                                                                          of. . .policy approaches and positive incentives on issues
+* Correspondence: gillian.petrokofsky@plants.ox.ac.uk                                     relating to reducing emissions from deforestation and
+1
+ Department of Plant Sciences, University of Oxford, South Parks Road,
+Oxford OX13RB, UK                                                                         forest degradation in developing countries; and the role
+Full list of author information is available at the end of the article
+                                            © 2012 Petrokofsky et al.; licensee BioMed Central Ltd. This is an Open Access article distributed under the terms of the
+                                            Creative Commons Attribution License (http://creativecommons.org/licenses/by/2.0), which permits unrestricted use,
+                                            distribution, and reproduction in any medium, provided the original work is properly cited.
+
+Petrokofsky et al. Environmental Evidence 2012, 1:6                                                             Page 2 of 21
+http://www.environmentalevidencejournal.org/content/1/1/6
+of conservation, sustainable management of forests and       enormous extent, [12-14], prohibit the accurate assess-
+enhancement of forest carbon stocks in developing            ment of carbon emissions as much as uncertainties in
+countries” [5].                                              deforestation rates [15]. The carbon stocks of interest
+                                                             are both above-ground and below-ground.
+   These actions are now referred to collectively as REDD+ .    Although above-ground biomass (AGB) has attracted
+   Under the UNFCCC, the REDD+ instrument (Redu-             by far the most research over the years, pools of dead-
+cing Emissions from Deforestation and Forest Degrad-         wood and litter could be as large as above-ground bio-
+ation), as agreed at the COP-16 of the UNFCCC in             mass. It is essential that a variety of methods to measure
+December 2010 [6], is critical for developing countries.     deadwood and litter should be reviewed. Deadwood
+   REDD+ includes the implementation of the following        pools, including standing dead trees, fallen woody debris,
+mitigation actions:                                          and decaying and burned wood, are of particular interest
+                                                             in projecting carbon losses from decomposition. They
+   (a) Reducing emissions from deforestation;                are also often used as an indicator of carbon losses from
+   (b)Reducing emissions from forest degradation;            degradation due to logging [16] or fire [17]. Data collec-
+   (c) Conservation of forest carbon stocks;                 tion regarding standing dead trees frequently follow the
+   (d)Sustainable management of forest; and                  same protocols as those for AGB inventories but ideally
+   (e) Enhancement of forest carbon stocks.                  should also include data on levels of decay. Woody deb-
+                                                             ris is most often estimated using the line-intercept
+   This means that, potentially, all forest resources in     method which measures only debris which crosses a
+developing countries are subject to accountable mitigation   transect (e.g. [16]) or through rectangular plots wherein
+actions. The Cancun agreement also stipulates that robust    the dimensions of each piece of debris is measured (e.g.
+and transparent national monitoring systems of the above     [18]). Although some studies have addressed the dens-
+mitigation activities shall be developed. As a consequence,  ities of woody debris of different decay classes [16,19],
+for the implementation of REDD+, it is crucial to deter-     more regionally and biome-specific studies would help
+mine the spatio-temporal variation of carbon stocks.         refine estimates of carbon content of this pool (e.g. [20]).
+Obtaining field measurements and developing estimation          A reliable estimation of AGB has to take account of
+models to do so is an expensive and time-consuming task.     spatial variability, tree and forest metrics (allometric mod-
+   This systematic review will compare methods of meas-      els) and wood. Many studies have been published on AGB
+uring carbon stocks and carbon stock changes in key          estimates in tropical forests around the world (e.g. [21-
+carbon pools and land use categories/activities identified   29]), whereas the volume of literature on below-ground
+by the Intergovernmental Panel on Climate Change             biomass estimates in tropical areas is relatively small (e.g.
+(IPCC) and the UNFCCCa. Figure 1 illustrates these           [30-40]). Indeed, because root systems have particular fea-
+carbon pools and shows the main fluxes of the global         tures and require highly specific procedures [41], mea-
+carbon balance that are covered in this systematic re-       surements are very often time consuming and costly,
+view. The systematic review is not designed to provide       qualitative, focussed only on one specific application and
+technical guidance, such as those outlined in the Inter-     often not representative of large areas, as they generally
+governmental Panel on Climate Change (IPCC) Good             involve a small number of root systems. In some cases,
+Practice Guidance and Guidelines [7,8], or to be a           however, new methods (e.g. three-dimensional root archi-
+sourcebook of methods, such as GOFC-GOLD [9], but            tecture data analysis) can be used to compute the continu-
+is aimed at providing an exhaustive comparative litera-      ous spatial distribution of coarse root volume, biomass,
+ture review in this field, including the provision of pub-   external surface and specific root length [41].
+lished data on uncertainties.                                   Several databases provide harmonized above-ground
+                                                             and below-ground biomass information: for example, the
+Carbon stocks in biomass                                     World Forest Biomass and Primary Production Database
+The discussion below has a focus on tropical forests to      [30], the database and geography of Forest Biomass of
+highlight current methodological issues that are pertinent   Northern Eurasia [42] and the Compartment Database of
+to forest science in general. However, this systematic re-   the European Commission Joint Research Centre. Similar
+view covers methods used in all forest types in all biomes.  databases for tropical areas would be extremely valuable.
+   A key challenge for successfully implementing REDD+          Most studies on tropical forest AGB have been con-
+and similar mechanisms is the reliable estimation of bio-    ducted in the Brazilian Amazon and in Southeast Asia.
+mass carbon stocks in tropical forests. Biomass consists     Few studies have reported on AGB for forests in Africa
+of approximately 50% carbon [11,12]. Uncertain esti-         (but see [28]). The large number of published biomass
+mates of biomass carbon stocks of tropical forests result-   equations [43] indicates that there is a substantial vari-
+ing from difficult access, limited inventory and their       ation in tropical forest biomass [44].
+
+Petrokofsky et al. Environmental Evidence 2012, 1:6                                                                   Page 3 of 21
+http://www.environmentalevidencejournal.org/content/1/1/6
+  Figure 1 Major carbon pools and fluxes of the global carbon balance in Giga tons of carbon (GtC) [10].
+Problems of errors and bias                                           Laser Altimeter System - GLAS) and small footprint
+There are four types of uncertainty associated with AGB               LiDAR data (e.g. airborne laser scanner - ALS) can be
+estimates of tropical forests (adapted from Chave [45]):              used to retrieve indirect tree height estimates, however
+                                                                      the elevation differences that are present within the foot-
+   Inaccurate measurements of variables, including                   print, especially for large footprint LiDAR data, can be
+       instrument and calibration errors                              substantial in comparison with the predominant tree
+   Wrong allometric models                                           height and make it difficult to estimate accurately tree
+   Sampling uncertainty (related to the size of the                  height [49]. Terrestrial laser scanning can also be used
+       study sample area and the sampling design)                     to estimate indirectly tree height at plot level; however
+   Poor representativeness of the sampling network.                  as tree height, branching frequency and stand density in-
+                                                                      crease the quality of the information obtained from the
+  Vieira et al. [46] demonstrated the effect of inaccurate            terrestrial laser scanner decreases as a result of the in-
+height measurement. A stem with a diameter at breast                  herent occlusion effects and increasing point spacing,
+height (DBH) of 20 cm and a height of 13 m gave an                    and the related uncertainty as to whether the highest
+AGB of 153.0 and 127.0 kg, respectively, when using                   returns are echoes from the tree tops or echoes from in-
+models of Chave [47] and Scatena [48]). With the same                 side the tree canopy. Because of these data quality pro-
+DBH but one metre more height, the estimated AGB                      blems, using small footprint LiDAR data to retrieve tree
+values become 164.1 and 136.6 Kg, i.e. an increase of                 height would therefore be preferable [49].
+around 7% and 5%, respectively. Large footprint LiDAR                   Another important error is the wrong choice of allo-
+(Light Detection And Ranging) data (e.g. Geoscience                   metric model, which is related to the representativeness
+
+Petrokofsky et al. Environmental Evidence 2012, 1:6                                                                Page 4 of 21
+http://www.environmentalevidencejournal.org/content/1/1/6
+of biomass sampling. Allometric equations relate easily-            There is thus a clear need for country- and region-
+measured variables of an organism (such as diameter              specific studies to address the validity and reliability of
+and height) to attributes that are more difficult to assess      allometric models. Ideally, such studies would utilize good
+(such as volume, leaf area, and biomass). They aim at fa-        ecological plot data, but these are often of poor quality or
+cilitating large-scale estimation of complex parameters          lacking completely. Commercial inventory data gathered
+[50], by, for example, providing ground reference for re-        by private companies are therefore used as an alternative
+mote sensing or for estimating regional biomass. Height          and rich source of site-specific data. These are necessary
+and diameter are the most common dependent variables             for improving methods for estimating forest carbon, but
+for assessing tree biomass, but as height of individual          are generally not available in the published literature or
+trees has been difficult to measure, most allometric             readily accessible from those who hold the data.
+models for tropical forests are based only on tree diam-            Guidelines for measuring wood specific gravity (WSG)
+eter [51,52]. Although there are cases where height is           in the field exist, but for tropical regions published WSG
+the key independent variable for explaining variations in        data are limited to a few commercial timber species that
+biomass (e.g. in palms), measurements of DBH, which is           represent only a fraction of the forest biomass. WSG
+typically used for trees, explains more than 95% of the          data on other species are scarce or lacking.
+variation in tree biomass even in highly species rich               BEFs, for example, strongly depend on stand structure
+tropical forests [53] .                                          [59,60] and site characteristics [56,61] and extrapolation
+  Currently, allometric equations are almost entirely based      with BEFs may lead to biased results when compared
+on Southeast Asian and South American measurements.              with local biomass equations [62], indicating the import-
+Some equations are available for African tree species or         ance of representativeness and the risks of extrapolation.
+forest vegetation types [54], but there are no allometries          Furthermore the biomass stock of tropical forests and
+based on destructively sampled trees for Central Africa          its distribution remain poorly resolved at the regional
+[47]. Biomass equations for North America are listed in          scale [15,63,64]. Consensus has also yet to be reached on
+Ter-Mikaelian and Korzukhin [55], and for Europe in Zia-         how much carbon is being emitted by changes in trop-
+nis et al. [50] (2005). Similar databases for other parts of     ical land use (see, for example, [1,44,65-69]. There is
+the world would be of high value.                                thus an urgent need for calibrating and improving the
+  Most biomass papers are based on 10–30 sample trees            methods for determining tropical forest biomass and its
+per species, which is far too few for biomass estimation of      spatial distribution [70].
+large countries in the tropics. The accuracy of biomass es-
+timation ultimately depends on the accuracy of the ori-          Carbon stocks in soils
+ginal measurements used to develop biomass assessment            Soils are the largest carbon reservoir of the terrestrial car-
+tools, such as allometric models, biomass expansion fac-         bon cycle. Worldwide they contain three or four times
+tors (BEFs), and generic equations [56,57] and species           more organic carbon (1500 Gt to 1 m depth, 2500 Gt to
+group specific volume-to-biomass models [58]. In Europe,         2 m) than vegetation (610 Gt) and twice or three times as
+large data sets were compiled from which generic models          much carbon as the atmosphere (750 Gt, see Figure 1)
+were devised following several small scale biomass meas-         [71]. Carbon storage in soils is the balance between the in-
+urement campaigns. This sort of richness has not been            put of dead plant material (leaf, root litter, and decaying
+replicated in other areas of the world to this extent.           wood) and losses from decomposition and mineralization
+Therefore, the lack of representativeness is the major           of organic matter (‘heterotrophic respiration’). Under aer-
+drawback with current biomass equations.                         obic conditions, most of the carbon entering the soil
+  It is time-consuming and costly to sample sufficient           returns to the atmosphere by autotrophic root respiration
+trees to acquire information on species and size distribu-       and heterotrophic respiration (together called ‘soil respir-
+tion in a forest (particularly in a highly diverse tropical for- ation’ or ‘soil CO2 efflux’). The mineralization rate is a
+est). Grouping all species, even in species-rich tropical        function of temperature and moisture levels and chemical
+forests, produces regression equations with high r2 (gener-      environment with factors such as pH, Eh, nitrogen level
+ally greater than 0.95) [53]. Therefore using generic re-        and the cation exchange capacity of the minerals in the soil
+gression equations stratified by, for example ecological         affecting the mineralization rate of soil organic carbon
+zone or species group (broadleaf or conifer), might in-          (SOC) [72-78]. Under anaerobic conditions, resulting from
+crease the accuracy and precision of the equations, be-          constantly high water levels, part of the carbon entering
+cause they tend to be based on a large number of trees           the soil is not fully mineralized and accumulates as peat.
+and span a wider range of diameters [53], except in those           Guo and Gifford conducted a meta-analysis of 74 pub-
+cases where unique plant forms occur (e.g. species of            lications on the influence of land use changes on soil
+palms and early colonizers) and developing of local regres-      carbon stocks [79]; (see also a follow-up study by Laga-
+sion equations is recommended.                                   nière et al. [80]). They acknowledge the possible bias in
+
+Petrokofsky et al. Environmental Evidence 2012, 1:6                                                                         Page 5 of 21
+http://www.environmentalevidencejournal.org/content/1/1/6
+their findings as most data drew from only four coun-
+tries (Australia, Brazil, New Zealand, and USA) and a
+limited number of studies. They point to the need for a
+more comprehensive analysis of some hypotheses gener-
+ated in their study: soil carbon stocks decline after land
+use changes from pasture to plantation (−10%), native
+forest to plantation (−13%), native forest to crop (−42%),
+and pasture to crop (−59%). Soil carbon stocks increase
+after land use changes from native forest to pasture
+(+8%), crop to pasture (+19%), crop to plantation
+(+18%), and crop to secondary forest (+53%). Most land
+use on peat soils requires drainage and is associated with
+a continuous loss of soil carbon stock.
+   One of the limitations of many of these studies of the
+effect of land use change on soil carbon levels is that
+often the plots were established to study other para-
+meters, such as soil fertility, and early experimental pro-
+tocols did not consider extensive measurements of soil
+                                                                   Figure 2 Calculated minimum detectable difference (MDD) in
+carbon throughout the soil profile. Many studies only
+                                                                   soil organic carbon inventory as a function of variance (σ2) and
+measure the carbon change in the top 20 to 30 cm of                sample size (n). The MDD is the smallest difference that can be
+the soil profile and therefore do not show the effect of           detected (α = 0.05) between two mean soil organic carbon
+leaching and activity by earthworms, etc., on the move-            inventories with 90% confidence (1 − β) given the average variance
+ment of carbon down the profile. In addition temporal              (mean square error from ANOVA) and the sample size [82]. Used
+                                                                   with permission, from Journal of Environmental Quality, 1999
+sampling of SOC measurements tend to be sparse and
+                                                                   28:1359–1365.
+insufficient in number and interval to estimate SOC de-
+composition rates and final equilibrium [81]. Eddy co-
+variance measurement of CO2 flux is valuable in this
+regard if they cover longer time periods spanning a year         [75,84]. For the estimation of soil carbon stock changes
+or more [81]. In this respect the fluxnet network of long        only, systematic uncertainty components are of relevance,
+term eddy observation represents an invaluable source            such as those outlined in, for example, Lasslop et al. [85].
+of information, as illustrated in part in Figure 2 [82,83].         In order to scale-up plot estimates to the landscape,
+                                                                 country or continental scale, additional information about
+Mineral soils                                                    the spatial arrangement of soil types and land cover/land
+Estimates of soil organic carbon (SOC) stock changes are         use needs to be considered, which introduces additional
+applied to determine long-term carbon fluxes and to de-          sources of uncertainties [81]. One method for estimating
+sign carbon sequestration strategies. Several approaches to      SOC stocks of different ecosystems is a regression approach
+estimating these stock changes are currently in use and          in which regional SOC densities (mass SOC/area) are
+may provide conflicting results.                                 related to a number of auxiliary variables like temperature,
+   On the plot scale there are a number of methods to de-        precipitation, age class, and land-use history. An updated
+tect changes in soil organic carbon stocks. Repeated soil        methodology applies a geographic information system
+samples over a range of years to decades have been noted         (GIS) to calculate SOC densities for each forest type within
+above, but, in addition, long term flux measurements cov-        a region from soil databases and satellite-derived land cover
+ering comparable time periods, either by soil chambers or        information. Campbell et al. (2008) showed large differ-
+eddy covariance systems, can provide estimates of stock          ences in the outcomes of both approaches and identified
+changes. Long-term eddy covariance plays an important            the need to use direct measurements of SOC in order to
+role in this context because, depending on its footprint         determine absolute errors in both approaches [86]. The fact
+area, it is able to give an integrated picture of the ecosys-    that the methods have been used interchangeably in the
+tem under consideration [81].                                    past indicates that errors will have been perpetuated in the
+   In comparison to chamber measurements which are at            literature. Both methods are valuable for estimating soil
+the site or plot scale, eddy flux measurements therefore         carbon stocks but not for carbon stock changes, because
+provide a direct link to a higher spatial level and allow in-    the predictors of both parameters are different.
+tegrative analysis. However, there are a range of uncertain-        According to Mäkipää et al. [87] a reliable carbon
+ties associated with the method, such as u* correction, gap      stock change inventory for Finland with repeated soil
+filling, outlier filtering, advection and flux partitioning etc. carbon sampling would take 10 years and cost 8 million
+
+Petrokofsky et al. Environmental Evidence 2012, 1:6                                                              Page 6 of 21
+http://www.environmentalevidencejournal.org/content/1/1/6
+Euros. This high cost would almost certainly prevent            another 0.6 Gt CO2 per year on average [93]. During the
+more than a few countries from investing in soil carbon         1997–1998 El Niño drought, peat fires in Southeast Asia
+inventories; the reality is that a combination of models        emitted some 1.8 Gt CO2 [95-97], which is equivalent to
+and additional measurements is needed. Regardless of            10% of the total global anthropogenic emissions for the
+the methodology applied there is a clear need to identify       same year.
+the uncertainties associated with current understanding            Many variables linked to peat oxidation are not well
+of SOC stocks and stock changes [88]. It is important to        understood and few reliable measurements exist for
+pay particular attention to changes in soil carbon stock        many of them. Uncertainty begins with the extent of
+through direct measurements and soil carbon modelling           peatlands worldwide, and especially in the tropics and
+[89] as well as to regional variation of soil carbon stock.     with the amount of carbon stored in the peat layer. The
+   Soil carbon models can be used for estimating carbon         degree of peat humification has strong influence on the
+stocks and stock change estimation but they need to be          mass of peat and carbon per volume, the hydraulic con-
+parameterized and validated for each land use, vegetation       ductivity and the moisture retention capacity. Know-
+cover, climatic condition and soil type. This requires mea-     ledge of the 3D topology of peatlands is important for
+surements of the soil carbon in the soil profile as well as     hydrology and modelling, but peat depth and peatland
+spatially. In addition, models divide the soil carbon into      shape have been measured only in a few locations (e.g.,
+theoretical pools with different decay rates and their valid-   mapping by petroleum exploration companies in Borneo
+ation requires measurements of soil carbon types that can       forests). Sampling sufficient locations to allow for spatial
+be related to these pools [90,91]. Soil carbon models also      modelling is a time-consuming and costly exercise. New
+face the initialization problem due to the model partition-     technologies may be capable of reducing time and effort.
+ing the soil carbon into pools with different decay rates.         Even less is known about emissions factors, which are
+To model soil carbon changes associated with land use or        essential for reliably estimating GHG emissions. Emission
+land management change, the initial proportion of these         estimates from peat fires have large uncertainties, because
+partitions needs to be known for the first land use. For        of the highly variable mass of peat combusted and the
+change from a long term land use such as savannah or for-       various gases emitted depending on fire severity, water
+est to cropland, soil carbon models assume that at the be-      table, peat moisture and fire history. Data on most of these
+ginning of the simulation period equilibrium conditions         parameters are scarce or lacking. Long-term GHG emis-
+apply, i.e., that plant input and soil carbon stock are in bal- sions from biological oxidation of peat are even more sig-
+ance given the local climatic conditions. In order to simu-     nificant than the emissions from peatland fires [97,98].
+late land cover or land use change under constant or            Very few long term (> 1 year) measurements exist to as-
+changing climatic conditions the model needs a so-called        sess emission rates under different water management
+‘spin up’ period to reach equilibrium condition before any      regimes. A recent review shows that drained peatlands
+transition takes place. For cases where the prior land use      emit in the range of 9 CO2 t/ha/yr from peat oxidation for
+is less than 100 years the land use history must be known       each 10 cm of additional drainage depth [97]. The role of
+in order for this spin-up to be made, accounting for all the    tropical peat swamps is crucial not only in terms of GHG
+historical land use changes. Alternatively the initial pools    emissions but also for REDD+, as their peat carbon stock
+can be estimated from actual measurements of the soil           is on average 10-times larger than their above-ground bio-
+carbon pools [90]. There are a number of problems and           mass stock [94] and significant amounts of carbon are
+uncertainties related to this assumption and alternative        released by fire and bacterial decomposition. Emissions
+methods are discussed. It is therefore essential to quantify    from drained peatland occur worldwide. The largest emit-
+these effects in any soil carbon accounting [88,90,92,93].      ters include Indonesia, the European Union, Russia, China,
+                                                                USA, Malaysia, Mongolia, Belarus and Uganda [98].
+Organic (peat) soils                                               It is important to make the distinction between litter
+Only recently has science recognized the importance of          and soil when assessing terrestrial carbon stocks and to
+organic (peat) soils for greenhouse gas emissions and cli-      ensure that accurate data are collected and analysed. Litter
+mate change. With some 500 Gt of carbon stored on               includes leaves and other fallen plant material (including
+only 4 million km2 (= 3%) of land, peatlands constitute         fine woody debris of diameter less than 2 cm). Litter may
+the world’s most dense terrestrial carbon stocks [94]. In       be equivalent to only a small fraction of AGB in some eco-
+the case of peat swamp forest, emissions from peat oxi-         systems (e.g. 2% for montane forests in Mexico [99])
+dation and peat fires following drainage may be signifi-        whereas it can be substantially higher in others (e.g. 30%
+cantly larger and longer-lasting than above-ground              in sugarcane fields). Research on carbon in litter has been
+emissions from clearing or burning forest vegetation.           as neglected as that of below-ground biomass, but it is a
+Peat oxidation currently leads to worldwide emissions of        pool that must be taken into consideration when estimat-
+some 1.3 Gt CO2 per year, whereas peat fires contribute         ing carbon losses and movement between pools [100].
+
+Petrokofsky et al. Environmental Evidence 2012, 1:6                                                               Page 7 of 21
+http://www.environmentalevidencejournal.org/content/1/1/6
+This is important for the parameterization of soil carbon      by applying carbon density values from ground data or
+models. Some estimates of the litter pool in forests use       national forest inventories across land cover/vegetation
+quadrats to assess the litter mass per unit area at a given    maps obtained by remotely-sensed data. Spatial vegeta-
+point in time [100]. However, this method may suffer from      tion information from optical satellite sensors can be
+imprecision owing to the difficulty of distinguishing be-      related to ground-based measurements to estimate car-
+tween litter and soil organic matter. Litterfall traps, which  bon stocks. Direct measurements of AGB are limited to
+can monitor the input of litter falling over time, may be      small forest areas, because site-specific allometric equa-
+more accurate in distinguishing between pools. Many            tions cannot be generalized for a forest or region and
+studies are available which address decomposition rates        space-borne instruments cannot measure tropical forest
+and the implications for carbon cycles [101,102].              biomass directly. The use of space-borne radar backscat-
+                                                               ter data is becoming popular as a method for estimating
+Carbon stocks in agriculture and croplands                     woody biomass over large areas in the tropics because of
+According to the Fourth Assessment Report from the             its capability of penetrating through the forest canopy
+Intergovernmental Panel on Climate Change (IPCC), agri-        and all-weather acquisition.
+culture, forestry and other land uses (AFOLU) account for         Published studies very often use national forest inventory
+approximately 30% of the total anthropogenic GHG emis-         data to verify results of remote sensing estimates of carbon.
+sions [103]. Of these, agriculture accounts for about 60%      Many claim to show strong correlation. However, limita-
+of N2O and 50% of CH4 emissions, whereas deforestation         tions are reported in the literature, in particular the weak,
+and land use change are responsible for most of the CO2        or absent, relationship between radar backscatter and AGB
+emissions [103]. It is recognized that the relationship be-    associated with saturation, and errors in geo-location: for
+tween agricultural practices that affect CO2, CH4, and         example, old Global Positioning System (GPS) instruments
+N2O emissions can be especially complex in cropping and        used in constructing inventories may introduce uncertainty
+grazing systems. This systematic review, however, will         in establishing the ‘centre of plot’ location, compass direc-
+focus on carbon measurements and make recommenda-              tion, etc. [52].
+tions that future systematic reviews should look at assess-       There are a number of approaches to estimating AGB
+ment methods for other GHG emissions. Agriculture has          at larger spatial scales with remote sensing data by ex-
+the potential to mitigate between 5.5 and 6 GtCO2e/yr          trapolating those obtained from field plots. Such meth-
+[103], which means that there will be a need to assess car-    ods include multi-stage sampling, multiple regression
+bon accurately and reliably to comply with international       analysis, non-parametric k-nearest neighbour technique
+monitoring requirements or trading schemes.                    (k-NN), neural networks, or indirect relationships be-
+  Smith et al. review current methods available for meas-      tween forest attributes, determined by remote sensing,
+uring components of the carbon budget in croplands, and        and biomass. An increasing number of studies use fine
+examine some of the tools used for scaling the carbon          resolution imagery such as QuickBird, a high-resolution
+budget of croplands from ecosystem to continental levels       commercial earth observation satellite, launched in
+[104]. They highlight the complex nature of the evidence       2001, aerial photographs or IKONOS, a commercial
+that needs to be gathered at each site before a full carbon    earth observation satellite, which launched in 1999 to
+budget can be made. They also point at the “impossibility”     collect publicly-available high-resolution imagery at 1-
+of up-scaling results from sites to the continental level      and 4-metre resolution, for modelling tree parameters or
+(Europe is the focus in their synthesis), even with an ex-     forest canopy structures, though these are not applied to
+tensive network of sites, because of the lack of spatially ex- large areas owing to cost and technical demand.
+plicit information on management and soil for agricultural     Medium spatial resolution imagery such as Landsat has
+systems. However, they point out the value of such site-       been widely in use since 1972. Where optical sensors
+specific data for calibrating and validating ecosystem mod-    have limitation, radio detection and ranging (radar) and
+els for continental projections.                               light detection and ranging (LiDAR) data are being used.
+                                                                  Most studies on AGB estimates have not provided ac-
+Using remote sensing to estimate carbon stocks                 curacy or precision assessments with respect to ground
+Interest in the possibility of using remove sensing to de-     data [109]. Rosenqvist et al. undertook a qualitative review
+termine carbon stocks in terrestrial systems has been          of remote sensing techniques for use under the Kyoto
+growing in recent years for example, [54,70,105-108].          Protocol but did not provide an assessment of their oper-
+Remote sensing (space-borne or air-borne) usually pro-         ational status for use at national scales [110]. For the UK
+vides continuous spatial information over landscape-size       and countries with similar reporting requirements, Pate-
+areas (size depends on sensor characteristics) in contrast     naude et al. made quantitative assessments of the accur-
+to field inventory where information is generally limited      acy and comparative costs of optical, radar and LiDAR
+to plots or small areas. Carbon stocks can be estimated        techniques for reporting deforestation through land-cover
+
+Petrokofsky et al. Environmental Evidence 2012, 1:6                                                              Page 8 of 21
+http://www.environmentalevidencejournal.org/content/1/1/6
+classification analyses and quantification of forest above-    questions. In addition to discussions the group shared
+ground carbon stocks [111].                                    knowledge, mainly published papers but also ‘grey lit-
+   The accurate assessment of above-ground forest bio-         erature’ (project reports and discussion documents),
+mass and carbon stock over large areas requires a grid of      which contributed to an understanding of the potential
+ground sample plots (with very precise location or a           scope of the review question. The review questions
+nested sampling) together with a map of vegetation types       were further developed by two scoping groups (one
+and/or cover classes. Classification and mapping can be        meeting in person and the other via a teleconference)
+done either from ground sampling or on the basis of satel-     during the Bonn climate change meetings in June
+lite imagery or aerial photography. More precise vegeta-       2009.
+tion classification and a denser network of sample plots          Review authors met in November 2009 at a workshop
+would give more precise estimates at higher costs.             in FAO, Rome for three days to frame the review ques-
+                                                               tions precisely.
+The need for a multi-disciplinary systematic review of            The broad review question and three sub-questions
+terrestrial carbon                                             agreed after these extensive discussions were further
+It is clear that a wide range of efforts have been and are     clarified as follows:
+being undertaken in public and corporate research to pro-         Broad question:
+vide methods and data for carbon stock assessments in dif-
+ferent pools. There is a huge body of knowledge collected         “How do current methodologies compare in their abil-
+over decades. There has been a proliferation of scientific     ity to measure and assess terrestrial carbon stocks and
+and technical papers, but monitoring of forests is still ‘in-  changes in carbon stocks with accuracy and precision?”
+sufficiently accurate or precise for an international protocol
+that would administer finances based on monitoring                Where accuracy is a relative measure of the exactness of
+results of forest area or forest carbon storage’ [112], and    an estimate against true values, precision is the inverse of
+there is no reason to suppose that the situation for other     uncertainty with a measurement or estimate (e.g., the
+pools is any better. The adequacy of current or potential      standard error of the sample mean). The term “method-
+systems for reliably assessing carbon stocks at national, re-  ologies” includes methods (including direct measure-
+gional or local levels (under the REDD+ framework or else-     ments, sampling design, remote sensing and models) and
+where) has not been systematically evaluated, nor has the      systems that aggregate methods to measure and assess
+scientific underpinning of these approaches been properly      carbon stocks.
+examined. It has been argued that a REDD+ system must             Sub-questions:
+allow and account for variability in methodologies and ac-
+curacy. The latter is inevitable with such wide differences       1. “How accurate and precise are methodologies used
+between countries and assessment methods, but flexibility            for the conversion of in situ measurements into
+must come with knowledge of the limits of confidence in              carbon stock estimates at the plot or site level?”
+these variable approaches if REDD+ is to be credible, trans-
+parent and fair.                                               The term methodologies includes direct measurements
+   There is clearly a need to critically review the accuracy   of variables in the field (in situ) and methods that con-
+and precision of various remote sensing techniques against     vert them into carbon stock estimates at the site level.
+ground observation and among methods, and their applic-        “Site” refers to sample or assessment plot. This question
+ability in geographically varied regions.                      also looks at the geographical validity of methodologies
+                                                               developed at the site-level and examines the applicability
+Question development                                           of methodologies to different land use categories in dif-
+At an initial workshop held in FAO headquarters in             ferent environments, ecosystems and countries.
+March 2009, it was agreed that an international partici-
+patory initiative should be undertaken to scope the po-           2. “How accurate and precise are methodologies for
+tential for using an evidence-based approach to validate             generating carbon stock estimates for larger
+the knowledge base on carbon monitoring. A project                   geographical areas (landscape level) from site-level
+contact group of 50 people was chosen to represent a                 data?”
+range of organizations with academic, policy, consult-
+ancy and/or training focus in different countries.             The term “landscape level” encompasses the spatial
+   The contact group participated in iterative discus-         scales from site to sub-national and national levels
+sions (mostly by email and telephone) to develop a             through forest inventories, stratification, other sampling
+shared understanding of the problems which need to             schemes and modelling. This question also looks at sam-
+be addressed and to develop a series of possible review        pling and stratification by remote sensing and examines
+
+Petrokofsky et al. Environmental Evidence 2012, 1:6                                                                Page 9 of 21
+http://www.environmentalevidencejournal.org/content/1/1/6
+methodologies which attempt to assess changes in soil            three largest bibliographic databases (CAB Abstracts, Sco-
+carbon with land use conversion.                                 pus and Web of Science) will be retrieved through their
+                                                                 policy of translating titles into English and adding English
+   3. “How accurate and precise are direct remote sensing        abstracts and keywords. Table 1 shows the databases that
+      methodologies for estimating carbon stocks?”               will be searched and the search strategies proposed for
+                                                                 each one.
+   This question includes carbon stock estimates from direct
+measurements of variables by remote sensing instruments,         Study inclusion criteria
+coupled with field measurements and methodologies to             Studies will first be assessed for inclusion on the basis of
+convert measurements into stock estimates. Ground-based          title only, followed by assessment on the basis of ab-
+measurements such as terrestrial LiDAR will be included,         stract, and finally, full-text. Preliminary studies during
+and field biomass components will be identified from the         the scoping phase have revealed the difficulty of asses-
+source material where this information is available.             sing relevant studies on the basis of either title or ab-
+   The initial set of questions included the concept of repeat-  stract alone; studies will therefore be included unless
+ability, in addition to accuracy and precision. Repeatability is there is clear information to justify exclusion.
+a measure of the practical aspects of using a given method          Relevant studies must discuss all three elements:
+to assess carbon, including cost, and human and/or technical
+capacity. At an early phase of the review during pilot litera-       X [name of measuring/assessing method] (Appendix
+ture searches, however, it became clear that the concept ‘re-          B)
+peatability’ was not easy to define in a way that would not          Y [what is measured] (Appendix C)
+introduce unnecessary bias into the review, and seriously re-        Z [where the measurement is made (land-use type
+duce the number of papers available for analysis of the more           and carbon pool, not geographical entity].
+immediately critical questions relating to accuracy and preci-
+sion. The pragmatic decision was taken to remove this elem-         The Z component includes: all land uses and types
+ent of the review question (and sub-questions).                  (forest, wood, woodland, woodlot, park land, terrestrial
+                                                                 system, agricultural land, cropland, pasture, grazing land,
+Objectives                                                       savanna (woody and herbaceous), grassland, wetland,
+The primary objective of this systematic review is to            meadow, swamp, marsh, agroforestry, agroecosystem, bog,
+compile the evidence relating to the question:                   shrubs, trees, biomes, peatland, fen, and all other land) in
+   How do current methodologies compare in their abil-           the form of:
+ity to measure and assess terrestrial carbon stocks and
+changes in carbon stocks with accuracy and precision?                 Above-ground biomass
+   The three secondary questions identified aim to focus              Below-ground biomass
+the research and reporting of the review:                             Deadwood
+                                                                      Litter
+   1. How accurate and precise are methodologies used                 Soil, including peat
+      for the conversion of in situ measurements into
+      carbon stock estimates at the plot or site level?
+                                                                 Comparators
+   2. How accurate and precise are methodologies for
+      generating carbon stock estimates for larger               Studies must compare either one methodology of carbon
+      geographical areas (landscape level) from site-level data? stock/carbon stock change measurement or assessment
+   3. How accurate and precise are direct remote sensing         over time or space or one methodology against another
+      methodologies for estimating carbon stocks?                methodology (for example, [113]). It is possible there
+                                                                 will be a prohibitively large number of single method-
+Methods                                                          ology papers. At the study quality assessment stage it
+Search strategy and resources
+                                                                 will be determined whether it is feasible to include single
+Databases and search strings
+                                                                 methodology papers in the final review.
+Searches using the terms listed above will be carried out
+in French, Spanish, and Portuguese, and for peat also – as       Types of studies
+far as possible - in German, Finnish, Swedish, Russian,          Any primary study that compares methods of assessment
+Polish and Czech. Language experts familiar with the sub-        or estimation or attempts to assess the effectiveness of the
+ject will be used to advise on the extent to which it will be    method against clear criteria will be included.
+practical to retrieve in documents in other languages.              Studies reporting soil carbon model comparison with
+Documents in other languages that are indexed in the             data will only be considered if the data are from an
+
+Petrokofsky et al. Environmental Evidence 2012, 1:6                                                                                          Page 10 of 21
+http://www.environmentalevidencejournal.org/content/1/1/6
+Table 1 Databases searched and search strategy developed for each database
+Database/library name                                                       Search strategy
+US Department of Agriculture Forest Service Treesearch http://www.          Google search for: carbon OR biomass OR decomposition OR respiration
+treesearch.fs.fed.us/                                                       OR "woody debris".
+Australian Government Department of Climate Change website http://          Full-text articles in the "Agriculture", "Biodiversity",
+www.climate change.gov.au/index.html                                        "Forestry","International","Land use" and "Science" sections to be uploaded
+                                                                            and hand-searched.
+EDIS (Electronic Data Information Source) http://edis.ifas.ufl.edu/         Advanced search option for "any of the words": carbon orbiomass;
+                                                                            and"none of the words": monoxide, poultry, fish, drinking, gardener.
+Forests in flux http://www.unep-wcmc.org/forest/flux/index.htm; http://     The full library of full-text articles will be uploaded to Endnote and
+www.citeulike.org/user/ForestsInFlux                                        searched there.
+NRCAN Library Catalogue http://catalogue.nrcan.gc.ca                        Keyword combinations of: "carbon store"; "carbon stock"; "carbon
+                                                                            pool";"carbon biomass"; "carbon sequestration"; "allometric"; "allometry";
+                                                                            "biomass estimation"; "biomass determination"; "woody debris".
+World Environment Library http://www.nzdl.org/fast-cgi-bin/library?         Boolean searches using words in title: carbon, biomass, decomposition,
+a=p&p=about&c=envl                                                          respiration,allometric, allometry, "woody debris”.
+CGVlibrary http://vlibrary.cgiar.org                                        Advanced search option for "Any word = (carbonOR biomass OR
+                                                                            decomposition OR respiration OR woody debris) And Any word =
+                                                                            (measure Or measurement Or method Or estimate Or calculation Or
+                                                                            equation Or inventory Or survey)"
+UN-REDD Web Platform http://unfccc.int/methods_science/redd/items/          Search the title/abstract in advanced search using "carbon OR biomass".
+4531.php
+FAO Online Catalogues http://www4.fao.org/faobib                            Advanced search option in whole record for: measure,measurement,
+                                                                            method, estimate, estimation, calculation,calculate, assessment, survey,
+                                                                            inventory, technique, allometric, sequest, stock, store, flux, sink; and in the
+                                                                            title: carbon, biomass, decomposition, respiration, debris.
+CIFOR Publications http://www.cifor.cgiar.org/Publications                  Search the publications section in the advanced search option, 'subject
+                                                                            search', with the search string: "carbon OR biomass OR decomposition OR
+                                                                            respiration OR woody debris"
+ISRIC http://www.isric.org/                                                 Access via the 'staff publications' section and upload full-text after hand-
+                                                                            searching
+UNEP Publications http://www.unep.org/publications                          Search with single terms: carbon, biomass, debris, decomposition,
+                                                                            respiration, climate
+World Agroforestry Centre Publications http://www.worldagroforestry.org     Search publication using single terms: carbon, biomass, woody debris,
+                                                                            decomposition, respiration
+Columbia Earth Institute – International Research Institute for Climate and Upload full-text for assessment
+Society -http://portal.iri.columbia.edu/portal/server.pt
+European Space Agency Earth Observation Projects Department –www.           Upload list of publications in the Monographs, Conference proceedings
+esa.int                                                                     and Reports and Memoranda accessed via the product databasein the
+                                                                            publications section.
+Tropical Soil Biology and Fertility Institute ofCIAT (TSBF-CIAT):           Upload full publications list
+Conservation and Sustainable Management of _k;Below-_k;_Ground_k;
+Biomass project http://www.bgbd.net
+Global Forest Resources Assessment (FRA) 2005 of FAO and its country        Search (without the use of search keywords orsearch box) for the main
+reports http://www.fao.org/forestry/fr                                      FRA 2005 report and all country reports in the FRA 2005 section of the
+                                                                            main website: http://www.fao.org/forestry/fra/fra2005/en/
+National Forest Monitoring and Assessment(NFMA) of FAO and its              Browse publications and Country via the Country Projects Pages, for those
+reports http://www.fao.org/forestry/nfms/en/                                countries withcompleted projects.
+ISI Web of Knowledge (including Web of Knowledge with Conference            See Appendix A
+Proceedings, BIOSIS Previews http://apps.isiknowledge.com
+Scirus                                                                      Search in the advanced search option for “All the words = (carbon
+                                                                            method* measure*)” in the"complete document", and “Any word = (stock*
+                                                                            store* pool* flux* sink* balance* budget* sequest*)” in the "article title".
+                                                                            Subject areas restricted to agricultural and biological sciences and
+                                                                            environmental sciences.
+Google Scholar                                                              Search in the advanced search option for "All the words = (carbon
+                                                                            methodmeasure) And Any of the words = (stock store pool flux sink
+                                                                            balancebudget)". File type restricted to the subject areas: Biology, Life
+
+Petrokofsky et al. Environmental Evidence 2012, 1:6                                                                                    Page 11 of 21
+http://www.environmentalevidencejournal.org/content/1/1/6
+Table 1 Databases searched and search strategy developed for each database (Continued)
+                                                                        Sciences,and Environmental Science; Engineering, Computer Science,
+                                                                        andMathematics; and Physics, Astronomy, and Planetary Science
+Science Direct                                                          See Appendix A
+Georef                                                                  FIND ("Title"/"Index Terms"/"Abstract"/"Author Affil"/"Source"/"Notes"/
+                                                                        "Publication Type"/"Record ID" ct (carbon flux*/carbon stock*/
+                                                                        carbonpool*/carbon stor*/carbon sink*/carbon sequest*/carbon biomass/
+                                                                        carbon source*/carbon balance*/carbon budget*) & (peat*/wetland*/
+                                                                        forest*/wood*/tree*/soil*/crop*/grass*/pasture*/meadow*/harvest*/
+                                                                        agricultur*/land/timber/terrestrial) & (method*/approach*/technique*/
+                                                                        model*/equation*/satellite*/remote sens*/estimat*/calculat*/assess*/
+                                                                        predict*/tool*/measure*/simulat*/monitor*/function*))
+Scopus                                                                  See Appendix A
+Agricola                                                                See Appendix A
+CAB Abstracts                                                           See Appendix A
+ATROFI-UK; Archive of Tropical Forestry Inventory http://www.rdg.ac.uk/ Search directly for articles documenting inventory methods.
+ssc/atrofi/
+independent source (different plot, site or region), which                studies that do not meet the quality standards, except in
+was not used to calibrate model parameters. This specific-                exceptional cases, such as studies that discuss aspects of
+ally excludes studies where data of one plot/site or region               method which are not documented, but which appear to
+are split into validation and calibration. These measures                 have been carried out.
+have been adopted in order to reduce bias in the system-                    The hierarchy used will be a series of questions that
+atic review analysis.                                                     were agreed after a preliminary examination of a subset
+                                                                          of candidate included papers.
+Between-reviewer bias                                                       The basic questions are:
+To reduce the effects of between-reviewer bias, two
+reviewers will apply the inclusion criteria for a random                    1. comparison or not
+sample of 20% of the studies retrieved (up to a max-                          1.1 context of comparator
+imum of 200 studies) to assess repeatability of the selec-                    1.2 location
+tion criteria. Kappa analysis will be performed, with a                       1.3 time
+rating of substantial (0.6 or above) being required to                      2. statistics
+pass the assessment. Disagreement regarding inclusion                       3. other influencing factors, noise
+or exclusion of studies will be resolved by consensus, or
+following assessment by a third reviewer. If the Kappa                      Table 2 shows the full set of questions that will be used
+value is low, the reference list will be reassessed against               as the basis of assessing quality.
+adjusted inclusion and exclusion criteria. The same sub-
+set of references will be re-assessed by a second reviewer
+                                                                          Data extraction and synthesis
+with Kappa analysis. Reviewers will then consider arti-
+                                                                          Soil organic carbon
+cles viewed at full-text for relevance, either excluding
+                                                                          In studies investigating soil organic carbon (SOC) estima-
+them from, or admitting them to, the review.
+                                                                          tion, samples of soil are sub-divided and different analyt-
+                                                                          ical methods are applied to estimate sample SOC content.
+Reasons for heterogeneity                                                 Dry combustion is considered the (referent) ‘gold stand-
+Sources of heterogeneity that will be documented for                      ard’ method for point scale soil carbon estimates, with
+selected papers will include: differences in terrain/vege-                results reported as estimated mean %SOC or kgSOC per
+tation, spatial scale, temporal scale, technical and/or                   kg soil +/− error (the standard deviation or standard error
+personnel limitations.                                                    of the estimates). All other methods for point scale esti-
+                                                                          mates can therefore be reported as mean recovery rate
+Study quality assessment                                                  relative to SOC estimated by dry combustion (i.e. SOC by
+To assess the possible systematic errors or bias, each                    given method/SOC by dry combustion) +/− error, and/or
+study will be assessed at full-text using a simple list of                the coefficient of multiple determination (multiple R2) of
+study characteristics that indicate the quality of the                    the regression between %SOC estimated by dry combus-
+method as documented in the study. Time constraints                       tion (independent variable) and %SOC estimated by the
+will not permit us to contact individual authors for                      other method (dependent variable) +/− error. Dry
+
+Petrokofsky et al. Environmental Evidence 2012, 1:6                                                               Page 12 of 21
+http://www.environmentalevidencejournal.org/content/1/1/6
+Table 2 Study quality criteria                                     methods compared to either the golden standard of dry
+Question                                             YES NO UNSURE combustion or any other method. In order to assess the
+1          Does the study provide a comparison                     comparability of the results reported, the information
+           ofperformance of alternative methods?                   about the variable reported (e.g. SOC, TOC etc.), the
+           If YES, it is a comparative study. If NO,               time period covered, the country, region, biome, land
+           it is a single method study.
+                                                                   use, soil type and if possible geographic coordinates will
+FOR COMPARATIVE STUDIES ONLY
+                                                                   be extracted. Following this, the papers will be screened
+1.1        Is the comparator method used                           for the reported reference method (e.g. dry combustion)
+           appropriate? (e.g., used in
+           context where it was originally                         and the comparator together with the sample number as
+           developed for use with regard                           well as any available information concerning precision
+           to spatial scale,land use, etc.)[the                    like coefficient of determination, confidence intervals
+           question does not preclude use
+           of innovative methods applied                           and standard deviation. Where possible the intercept
+           in a new field]                                         and slope of a given linear regression model as well as
+1.2        Were the alternative methods applied                    recovery rates and error estimates such as root mean
+           to thesame location? (excluding                         square error (RSME) etc. will be extracted in order to
+           chronosequence studies for carbon                       assess the precision of the methods. These extracted
+           stock changes)
+                                                                   measures will then be used to rank the available meth-
+1.3        Were the alternative methods applied
+           within a reasonable time frame?
+                                                                   ods and discuss potential limitations.
+           (e.g., month, growing season)
+FOR ALL STUDIES
+                                                                   Above ground biomass
+2.         Are the accuracy and precision
+           statistics (e.g., means, variances)                     In studies on individual tree Above Ground Biomass
+           of methods provided?                                    (AGB), a number of different allometric models relating
+3.         Does the study report on other                          diameter at breast height (dbh), height, wood density
+           variables that may have influenced                      and basal area to individual AGB are compared to em-
+           the accuracy, precision, validity or                    pirical data using linear or non-linear regression techni-
+           repeatability of the methods?
+                                                                   ques. Model fit is assessed using multiple and/or
+FURTHER CRITERIA FOR STUDIES SCORING "YES" FOR QUESTIONS 1-3
+                                                                   adjusted R2 (multiple R2 penalized by sample size and
+4.         Are the locations for measurements                      the number of variables in the model), with some esti-
+           clearly identified?
+                                                                   mate of the error between observed and predicted values
+5.         Are all data points included in                         also reported. Generally, more than one model is fitted
+           the analyses?
+                                                                   to the data and reported on in each study. No one model
+                                                                   is considered the (referent) gold standard to which
+combustion methods have improved over time. Conse-                 others are compared.
+quently, analyser type and the time passed since the sam-             Studies on tree level AGB estimation differ from those
+ple was analysed will be incorporated into the analysis.           on SOC estimation methods in that the effectiveness of
+Going from the point scale to plot or site reporting SOC           AGB estimation methods is evaluated using empirical
+for a certain volume of soil, such as a square meter, down         data from the same individuals. Such methods are analo-
+to a certain depth of, e.g., 30 cm requires the estimation of      gous to those employed in clinical trials that evaluate
+the soil density - usually termed bulk density. This study         the effectiveness of diagnostic tests for medical condi-
+will not consider evaluating accuracy and precision of             tions, in which (generally) the same set of patients is
+methods for bulk density estimation even though there              subjected to a number of different tests (including a gold
+are considerable temporal and spatial uncertainties in             standard). Analysing data from such studies using pair-
+SOC estimates related to bulk density estimation methods.          wise fixed- and random-/mixed-effect techniques, but
+If the method of bulk density estimation used to deter-            MTC/NMA techniques are less well developed than
+mine the SOC content is given in the paper its potential           those for RCTs, particularly with regard to incorporating
+effect will be discussed in the light of the state of know-        data from multi- (>2) test trials. For each allometric
+ledge reported in the current literature. The same holds           equation comparison, data will be extracted on the
+true for the estimation of stone content in soils, which is        country/region and forest type where the equation was
+also not the subject of this analysis but which has an influ-      developed, whether it was a single- or multi-species
+ence on SOC estimates [114-119].                                   equation, sample size (number of trees in the
+   Following the quality assessment the selected papers            destructive-sampling efforts used as a base for the
+will be analysed to identify the scale the method was ap-          model), variables included in the model (dbh, height,
+plied (point, plot and landscape) together with the                wood density, basal area) and their treatment (linear,
+
+Petrokofsky et al. Environmental Evidence 2012, 1:6                                                             Page 13 of 21
+http://www.environmentalevidencejournal.org/content/1/1/6
+exponential, log, ln) As some studies compare the fit of      Endnotes
+                                                                a
+equations based on data from a given location to those            http://unfccc.int/2860.php
+from other studies, it will also be necessary to record
+whether the comparator-equation was derived from trees        Appendix
+in the study location or elsewhere. A fully-developed         A.1. Appendix A. Summary of search terms for major
+method will be devised after analysis of included papers      databases
+reveals the number of parameters in the studies that          Search strategies for large databases are detailed in this
+need to be taken into account to make meaningful com-         Appendix. For Web of Knowledge, Scopus, Science Direct,
+parisons between study results.                               and CAB Abstracts, there are three sets of searches (gen-
+                                                              eral, forest, and peat) to capture all relevant subjects.
+Carbon flux measurements and process or statistical
+                                                              A.1.1. Web of knowledge search
+models
+                                                              Search 1 (general)
+Long-term carbon flux estimation using Eddy covariance
+                                                                Topic = ((carbon SAME (flux* OR stock* OR pool* OR
+methods as well as chambers are quite often utilized to
+                                                              stor* OR sink* OR sequest* OR source* OR balance* OR
+evaluate and develop ecosystem of SOC models mainly
+                                                              budget* OR biomass))
+due to their high temporal resolution as well as integrative
+                                                                AND
+character on ecosystem level. These models can then be
+                                                                Topic = ((peat* OR wetland* OR forest* OR wood* OR
+used to make predictions about carbon exchange between
+                                                              tree* OR soil* OR crop* OR grass* OR pasture* OR
+ecosystem and atmosphere driven by environmental vari-
+                                                              meadow* OR harvest* OR agricultur* OR land OR
+ables other than the flux data. These model predictions
+                                                              timber OR terrestrial))
+are then compared to the flux data, with the most com-
+                                                                AND
+mon measure of model accuracy reported being the mul-
+                                                                Topic = ((method* OR approach* OR technique* OR
+tiple R2 of the regression between the predicted and
+                                                              model* OR equation* OR satellite* OR “remote sens*” OR
+observed values coupled in many cases with some esti-
+                                                              estimat* OR calculat* OR assessment OR predict* OR
+mate of the associated random and systematic errors.
+                                                              tool* OR measure* OR simulat*) SAME (compar* OR
+  In most of the studies, only one model is compared to
+                                                              contrast* OR reassess* OR re-assess* OR evaluat* OR re-
+the data, with no comparison of the fit of different models.
+                                                              view* OR examin* OR improve* OR precision OR bias*
+No single model can be considered as the gold standard
+                                                              OR accura* OR uncertainty OR error OR variance))
+against which others are compared. The R2 and error esti-
+                                                                Refined by: General Categories = (SCIENCE & TECH-
+mates are collected from studies applying models to forest
+                                                              NOLOGY) AND [excluding] Subject Areas = (DEMOG-
+and cropland ecosystem flux data. The review will only
+                                                              RAPHY OR IMMUNOLOGY OR GEOCHEMISTRY &
+consider studies where models are applied to independent
+                                                              GEOPHYSICS OR DENTISTRY, ORAL SURGERY &
+data excluding calibration sites. Based on the measures
+                                                              MEDICINE OR CARDIOVASCULAR SYSTEM &
+reported for accuracy and precision in the papers the
+                                                              CARDIOLOGY OR IMAGING SCIENCE & PHOTO-
+models can be ranked in their performance under the as-
+                                                              GRAPHIC TECHNOLOGY OR CONSTRUCTION &
+sumption the flux data are the independent variable.
+                                                              BUILDING TECHNOLOGY OR MICROSCOPY OR
+                                                              OBSTETRICS & GYNECOLOGY OR INFECTIOUS
+Data extraction for lidar-biomass meta-analysis               DISEASES OR SPECTROSCOPY OR GERIATRICS &
+Included studies of lidar studies of AGB estimation and       GERONTOLOGY OR ENTOMOLOGY OR PUBLIC
+multi-sensor fusion studies that include lidar will be ana-   ADMINISTRATION OR MEDICAL LABORATORY
+lysed to assess lidar relative to other (radar, optical) sen- TECHNOLOGY OR SURGERY OR PSYCHIATRY OR
+sors. That is, non-lidar regression statistics will only be   SOCIAL ISSUES OR HEMATOLOGY OR UROLOGY
+included from studies that developed both lidar and           & NEPHROLOGY OR NEUROSCIENCES & NEUR-
+non-lidar (including fusion) statistical models. Studies      OLOGY OR PUBLIC, ENVIRONMENTAL & OCCU-
+reporting only forest volume will not be included, owing      PATIONAL HEALTH OR GASTROENTEROLOGY &
+to the wide range of possible conversions of volume-to-       HEPATOLOGY OR DERMATOLOGY OR ENDO-
+biomass or carbon density. A fully developed method           CRINOLOGY & METABOLISM OR RHEUMATOL-
+will be devised after analysis of included papers reveals     OGY OR GOVERNMENT & LAW OR RESPIRATORY
+how studies that report carbon density values using           SYSTEM OR PARASITOLOGY OR BUSINESS & ECO-
+assumptions or measurements converting biomass to             NOMICS OR COMPUTER SCIENCE OR OPHTHAL-
+carbon (e.g. carbon as 50% of AGB) can be used to con-        MOLOGY OR HEALTH CARE SCIENCES &
+vert field estimates and associated statistical model         SERVICES OR VIROLOGY OR OCEANOGRAPHY OR
+errors (RMSE) to biomass values.                              ONCOLOGY OR OPTICS OR ANATOMY &
+
+Petrokofsky et al. Environmental Evidence 2012, 1:6                                                        Page 14 of 21
+http://www.environmentalevidencejournal.org/content/1/1/6
+MORPHOLOGY OR SOCIAL SCIENCES - OTHER                           meadow* OR harvest* OR agricultur* OR land OR
+TOPICS OR PHARMACOLOGY & PHARMACY OR                            timber OR terrestrial)
+RADIOLOGY, NUCLEAR MEDICINE & MEDICAL                          AND
+IMAGING OR ANTHROPOLOGY OR GENERAL &                           (method* OR approach* OR technique* OR model*
+INTERNAL MEDICINE OR ARCHAEOLOGY OR                             OR equation* OR satellite* OR “remote sens*” OR
+ANESTHESIOLOGY OR NUTRITION & DIETETICS                         estimat* OR calculat* OR assess* OR predict* OR tool*
+OR ORTHOPEDICS OR HISTORY OR PATHOLOGY                          OR measure* OR simulat* OR monitor* OR function*)
+OR VETERINARY SCIENCES OR SPORT SCIENCES                       AND
+OR TRANSPLANTATION OR FOOD SCIENCE &                           (compar* OR contrast* OR reassess* OR re-assess*
+TECHNOLOGY OR SOCIOLOGY OR EDUCATION &                          OR evaluat* OR review* OR precis* OR bias* OR
+EDUCATIONAL RESEARCH)                                           accura* OR uncertain* OR error* OR variance)
+  Search 2 (forest):                                           AND
+                                                               SUBJAREA(“AGRI” OR “EART“OR “BIOC” OR
+   Topic = ((dead$wood OR litter* OR “woody debris”            “ENVI” OR “MULT”)
+       OR volume OR density OR (height SAME tree*) OR
+       “diameter at breast height” OR “DBH” OR “basal        Search 2 (forest):
+       area” OR “leaf area index”) SAME (shoot* OR tree*
+       OR leaf* OR leaves OR soil* OR wood* OR timber*        TITLE-ABS-KEY(
+       OR lumber OR forest* OR necromass))                    (“deadwood” OR “dead wood” OR litter* OR “woody
+      AND                                                      debris” OR volume OR density OR (height w/15
+      Topic = ((method* OR approach* OR technique* OR          tree*) OR “diameter at breast height” OR DBH OR
+       model* OR equat* OR satellite* OR “remote sens*” OR      “basal area” OR “leaf area index”)
+       estimat* OR calculat* OR predict* OR quantif*) SAME     AND
+       (compar* OR contrast* OR re-assess* OR evaluat* OR      (shoot* OR tree* OR leaf* OR leaves OR soil* OR wood*
+       review* OR bias* OR accuracy OR precision))              OR timber* OR lumber OR forest* OR necromass)
+      AND                                                     AND
+      Topic = ((plot* OR allometr* OR stand* OR inventor*))   (method* OR approach* OR technique* OR model*
+      Search 3 (peat):                                         OR equation* OR tool* OR function*)
+      Topic = ((peat AND (depth OR thickness OR “bulk         AND
+       density” OR volume)))                                   (compar* OR contrast* OR reassess* OR re-assess*
+      AND                                                      OR evaluat* OR review* OR precis* OR bias* OR
+      Topic = ((quantifi* OR estimat* OR measure* OR           accura* OR uncertain* OR error* OR variance*)
+       determin* OR assess* OR calculat*))                     AND
+      AND                                                     (plot* OR allometr* OR stand* OR inventor*)
+      Topic = (((method* OR approach* OR technique*           AND
+       OR model* OR equation* OR satellite* OR “remote         SUBJAREA(“AGRI” OR “EART” OR “BIOC” OR
+       sens*” OR estimat* OR calculat* OR predict* OR           “ENVI” OR “MULT”)
+       tool*) SAME (contrast* OR reassess* OR re-assess*
+       OR evaluat* OR review* OR examin* OR differen*        Search 3 (peat):
+       OR improve* OR develop* OR uncertainty OR
+       precision OR bias OR accura*)))                        TITLE-ABS-KEY(
+                                                              ((peat w/15 depth) OR (peat w/15 thickness) OR
+A.1.2. Scopus search                                            (peat w/15 density) OR (peat w/15 volume))
+Search 1 (general):                                           AND
+                                                              (method* OR approach* OR technique* OR model*
+   TITLE-ABS-KEY(                                              OR equation* OR satellite* OR “remote sens*” OR
+   ((carbon w/5 flux*) OR (carbon w/5 stock*) OR               estimat* OR calculat* OR assess* OR predict* OR tool*
+       (carbon w/5 pool*) OR (carbon w/5 stor*) OR              OR measure* OR simulat* OR monitor* OR function*)
+       (carbon w/5 sink*) OR (carbon w/5 sequest*) OR         AND
+       (carbon w/15 biomass) OR (carbon w/5 source*) OR       (compar* OR contrast* OR reassess* OR re-assess*
+       (carbon w/5 balance*) OR (carbon w/5 budget*))           OR evaluat* OR review* OR examin* OR differen*
+   AND                                                         OR improve* OR develop* OR precis* OR bias* OR
+   (peat* OR wetland* OR forest* OR wood* OR tree*             accura* OR uncertain* OR error* OR varia*)
+       OR soil* OR crop* OR grass* OR pasture* OR             AND
+
+Petrokofsky et al. Environmental Evidence 2012, 1:6                                                        Page 15 of 21
+http://www.environmentalevidencejournal.org/content/1/1/6
+    SUBJAREA(”AGRI” OR”EART” OR”BIOC”                         OR “remote sens*” OR estimat* OR calculat* OR
+       OR”ENVI” OR “MULT”)                                     predict* OR tool*) AND (contrast* OR reassess* OR
+                                                               re-assess* OR evaluat* OR review* OR examin* OR
+A.1.3. Science direct search                                   differen* OR improve* OR develop* OR uncertainty
+Search 1 (general):                                            OR precision OR bias OR accura*)))
+   tak(((carbon)AND(flux* OR stock* OR pool* OR sink*         Limited to subject areas:
+OR sequest* OR source* OR budget* OR biomass))AND             agricultural and biological sciences
+(peat* OR wetland* OR forest* OR wood* OR tree* OR            computer science
+soil* OR crop* OR grass* OR pasture* OR meadow* OR            earth and planetary sciences
+harvest* OR agricultur* OR land OR timber OR terres-          energy
+trial) AND ((method* OR approach* OR technique* OR            environmental sciences
+model* OR equation* OR satellite* OR “remote sens*”           physics and astronomy
+OR estimat* OR calculat* OR assessment OR predict*
+OR tool* OR measure* OR simulat*) AND (compar* OR         A.1.4. Agricola search
+contrast* OR reassess* OR re-assess* OR evaluat* OR re-   Keyword searchSearch = (carbon)[in Abstract]AND(peat
+view* OR examin* OR improve* OR precision OR bias*        wetland forest wood tree soil crop grass pasture meadow
+OR accura* OR uncertainty OR error OR variance)))         harvest agricultur land timber terrestrial)[in Abstract]
+   Limited to subject areas:                              AND(method approach technique model equation tool
+                                                          function)[in Abstract]AND(compare contrast reassess
+      agricultural and biological sciences               evaluate review precision bias accurate accuracy uncer-
+      computer science                                   tain uncertainty error variance)[in Abstract]674 entries
+      earth and planetary sciences                         Advanced searchSearch Request: Command = carbon
+      energy                                             AND(flux OR stock OR pool OR storage OR sink OR
+      environmental sciences                             sequestration OR biomass OR source OR balance OR
+      physics and astronomy                              budget)AND(method OR approach OR technique OR
+                                                          model OR equation OR satellite OR “remote sensing”OR
+   Search 2 (forest):                                     estimate OR calculate OR assess OR predict OR tool OR
+   tak(((dead?wood OR litter* OR “woody debris” OR vol-   measure OR simulate OR monitor OR function)
+ume OR density OR (height AND tree*) OR”diameter at
+breast height” OR “DBH” OR “basal area” OR “leaf area     A.1.5. CAB abstracts search
+index”)) AND (shoot* OR tree* OR leaf* OR leaves OR       Search 1 (general):
+soil* OR wood* OR timber* OR lumber OR forest* OR
+necromass) AND ((method* OR approach* OR tech-               (Carbon sequestration or net ecosystem carbon
+nique* OR model* OR equat* OR satellite* OR “remote            balance or net ecosystem production or net primary
+sens*” OR estimat* OR calculat* OR predict* OR quan-           production or net ecosystem exchange or carbon
+tif*) AND (compar* OR contrast* OR re-assess* OR eva-          pathways or Carbon assimilation or Carbon cycle).
+luat* OR review* OR bias* OR accuracy OR precision))           de.
+AND (plot* OR allometr* OR stand* OR inventor*))              OR
+   Limited to subject areas:                                  ((“root zone flux” OR stocks OR biomass or biomass
+                                                               production).de.) AND (carbon.de.)
+      agricultural and biological sciences                   OR
+      computer science                                       ((carbon adj6 flux$) or (carbon adj6 stock$) or
+      earth and planetary sciences                            (carbon adj6 pool$) or (carbon adj6 stor$) or (carbon
+      energy                                                  adj6 sink$) or (carbon adj6 sequest$) or (carbon adj16
+      environmental sciences                                  biomass) or (carbon adj6 source$) or (carbon adj6
+      physics and astronomy                                   balance$) or (carbon adj6 budget$)).ab,ti
+                                                              AND
+   Search 3 (peat):                                           (peat$ or wetland$ or forest$ agroforest$ or bog$ or
+                                                               wood$ or tree$ or soil$ or crop$ or grass$ or
+    tak(((peat AND (depth OR thickness OR “bulk               pasture$ or meadow$ or harvest$ or agricultur$ or
+       density” OR volume)) AND (quantifi* OR estimat*         land or timber or terrestrial).ti,ab,de.
+       OR measure* OR determin* OR assess* OR                 AND
+       calculat*) AND ((method* OR approach* OR               (method$ or approach$ or technique$ or model$ or
+       technique* OR model* OR equation* OR satellite*         equation$ or satellite$ or “remote sens$” or estimat$ or
+
+Petrokofsky et al. Environmental Evidence 2012, 1:6                                                          Page 16 of 21
+http://www.environmentalevidencejournal.org/content/1/1/6
+       calculat$ or assess$ or predict$ or tool$ or measure$      Lidar (light detection and ranging)
+       or simulat$ or monitor$ or function$).ti,ab,de.            optical
+      AND                                                        Radar (radio detection and ranging)
+      (compar$ or contrast$ or reassess$ or re-assess$ or        spaceborne laser scanning
+       evaluat$ or review$ or precis$ or bias$ or accura$         airborne laser scanning, ALS
+       or uncertain$ or error$ or variance).ti,ab,de.             airborne mapping
+      Search 2 (forest):                                         GLAS
+      ((“branchwood” or “coarse woody debris” or “dead           satellite imagery
+       wood” or “dead trees” or “slash”).de.                      earth observations
+      OR                                                         satellite laser altimetry
+      ((volume or density or height) and tree$).de.              SRTM
+      OR                                                         decision tree approach
+      ((volume adj6 tree$) or (height$ adj6 tree$) or            regression tree model
+       (densit$$ adj6 tree$)).ab,ti.                              Laser Scanner (terrestrial, ground-based)
+      OR                                                         full waveform
+      (deadwood or “dead wood” or litter$ or “woody              neural networks
+       debris” or “diameter at breast height” or DBH or           support vector machines
+       “basal area” or “leaf area index”).ti,ab.)                 hyperspectral
+      AND
+      (method$ or approach$ or technique$ or model$ or      B.2.2. Modelling
+       equation$ or estimat$ or calculat$ or assess$ or
+       predict$ or tool$ or measure$ or simulat$ or               digital canopy height model, DCHM
+       monitor$ or function$).de,ti,ab.                           eddy correlation
+      AND                                                        footprint modelling
+      (compar$ or contrast$ or reassess$ or re-assess$ or        soil organic matter models,
+       evaluat$ or review$ or precis$ or bias$ or accura$         GIS
+       or uncertain$ or error$ or variance).de,ti,ab.             Up-scaling
+      AND                                                        gap filling strategies
+      (plot$ or allometr$ or stand or stands or inventor$).      surface energy exchange models
+       de,ti,ab.                                                  process based simulations
+                                                                  grassland ecosystem model
+  Search 3 (peat):                                                ecosystem flux techniques
+  (((peat adj16 depth) or (peat adj16 thickness) or (peat         ecosystem demography model (height structured
+adj16 density) or (peat adj16 volume)) and (method$ or             ecosystem model)
+approach$ or technique$ or model$ or equation$ or sat-            RothC (a soil carbon model)
+ellite$ or “remote sens$” or estimat$ or calculat$ or as-         Yasso
+sess$ or predict$ or tool$ or measure$ or simulat$ or             CENTURY
+monitor$ or function$) and (compar$ or contrast$ or re-           DNDC
+assess$ or re-assess$ or evaluat$ or review$ or examin$           Q model
+or different$ or improve$ or develop$ or precis$ or bias          CANDY model
+$ or accura$ or uncertain$ or error$ or varia$)).mp.              CERES model
+                                                                  Crop growth model
+Appendix B. List of methods to assess carbon                      Crop yield model
+stocks/changes (across all 3 sub-questions)                       DGVM, digital global vegetation models
+B.1. Broad methods                                                pedotransfer model
+Remote sensing, modelling, survey, inventories, conver-           pedotransfer function
+sion, field sampling, measurements                                process based model
+                                                                  pipe model theory
+B.2. All approaches within these broad methods                    peat growth model
+B.2.1. Remote sensing                                             peat accumulation model
+                                                                  peat decomposition model
+   aerial photography                                            Monte Carlo
+   infrared imagery                                              Bayesian
+   microwave radiation                                           Probability distribution function
+
+Petrokofsky et al. Environmental Evidence 2012, 1:6                                                        Page 17 of 21
+http://www.environmentalevidencejournal.org/content/1/1/6
+B.2.3. Survey                                             B.2.7. Measurements
+      random forest                                           FLUXNET
+      survey                                                  tower eddy flux network
+      inventory                                               AIR-based estimation
+      stock                                                   flask-based estimation
+      sampling                                                bulk density correction
+      statistical design and analysis                         network theories
+      transect                                                flux chamber techniques
+      strip                                                   carbon accounting
+      line                                                    closed dynamic chambers
+      cluster                                                 gas analyzers
+      point                                                   dendrometers
+      plot size                                               litterfall traps
+      plot shape                                              Litterbags
+      plotless                                                Litter traps
+                                                               microcosm experiment
+  B.2.4. Inventories                                           mesocosm experiment
+  biomass classification approach                              Marcocosm experiment
+  inventory plots                                              FACE – free air carbon enrichment
+                                                               SOMNET
+B.2.5. Conversion                                              soil cores
+      biomass expansion factors, BEF                     Appendix C. List of types of outcome measures
+      biomass equations                                  that relevant papers should contain
+      biomass assessment
+      biomass functions                                       All types – outcome measures
+      continuous biomass expansion factor method,             biomass
+       CBM                                                     biomass saturation values
+      allometric equations                                    biomass density
+      allometric relationship                                 biomass stock
+      allometric regression equations                         biomass accumulation
+      biometric equations (function)                          biomass turnover rates
+      biometric approach                                      biomass increment
+      conversion factor                                       carbon
+      mean biomass density method, MBM                        carbon density
+      mean ratio method, MRM                                  carbon credits
+      LORCA or LARCA (LOng term Rate of Carbon                carbon source
+       Accumulation)                                           carbon sink
+      ARCA (Actual Rate of Carbon Accumulation)               carbon sequestration
+      RERCA (REcent Rate of Carbon Accumulation)              carbon balance
+      Biomass conversion against volume                       carbon stock
+                                                               carbon flux – if it is in remote sensing papers, not
+B.2.6. Field sampling                                           relevant
+                                                               carbon surface flux
+      line intersect sampling (method) of CWD                 carbon cycling – if it is in remote sensing papers,
+      vertical intercept sampling                              not relevant
+      prism sweeps                                            carbon emission
+      diameter relascope sampling of CWD, DRS                 carbon storage
+      fixed area sampling (plots) of CWD                      carbon accumulation
+      point relascope sampling of CWD                         carbon estimate
+      soil sampling                                           carbon monitoring
+      soil organic carbon sampling                            carbon pool
+      soil organic matter sampling                            carbon uptake
+
+Petrokofsky et al. Environmental Evidence 2012, 1:6                                                                  Page 18 of 21
+http://www.environmentalevidencejournal.org/content/1/1/6
+      carbon stock change                                    stem volume [an inclusion keyword for remote
+      C pool                                                     sensing subgroup as it is a proxy for carbon but not
+      C stock                                                    used as an inclusion keyword for forestry subgroup]
+      net primary production, NPP                               stem density
+      gross primary production, GPP                             stem biomass
+      emission factors                                          root [not an inclusion keyword for forestry subgroup
+      net ecosystem production, NEP                              but it is one for remote sensing subgroup]
+      net ecosystem exchange, NEE                               root biomass (density)
+      gross ecosystem production                                root:shoot ratios (R/S)
+      net biome production, NBP                                 total forest plant mass
+      terrestrial organic carbon                                wood density
+      implied emission factor                                   wood specific gravity
+      volume as surrogate for biomass                           Deadwood and Litter – outcome measures
+      Soil – outcome measures                                   coarse woody debris, CWD
+      soil carbon                                               down and dead woody (DDW) materials
+      soil carbon transit times and age distribution            transect length
+      peat depth                                                litterfall
+      peat thickness                                            dead organic matter (DOM)
+      peat bulk density                                         Deadwood and Litter – measures of processes
+      peat volume                                               litter decomposition
+      CO2 exchange                                              litter input
+      CO2 efflux                                                litterfall/litter fall
+      soil organic matter, SOM                                  respiration
+      soil organic carbon                                       decomposition
+      CH4 efflux                                                Crop and grassland – outcome measures
+      DOC (dissolved organic carbon)                            yield
+      DIC (dissolved inorganic carbon [includes dissolved       grain
+       CO2])                                                     straw
+      POC (particulate organic carbon)                          residue
+      labile carbon                                             stubble
+      recalcitrant carbon                                       litter
+      protected carbon                                          tuber
+      bomb carbon                                               root
+      carbon age                                                cut
+      soil organic carbon, SOC                                  silage
+      Humic                                                     fodder
+      recalcitrant                                              seeds
+      labile                                                    forage
+      soil profile                                              foliage
+      Soil – measures of processes                              leaf
+      litter input                                              manure
+      decomposition                                             slurry
+      heterotrophic respiration                                 grass
+      Microbial activity                                        Crop and grassland – measures of processes
+      Decomposition rate                                        biomass decay rates
+      Q10 temperature sensitivity                               senescence rate
+      soil autotrophic respiration                              crop growth rate
+      soil heterotrophic respiration                            aboveground autotrophic respiration rate
+      DOC/DIC/POC loss                                          ecosystem respiration rate
+      wetting                                                   rate of photosynthesis
+      Forest – outcome measures
+      forest cover, canopy area [not an inclusion keyword Competing interests
+                                                           The review is funded in large part by the UN-REDD Programme,
+       for forestry subgroup but it is one for remote      administered by FAO, the employer of two review authors. Amongst its
+       sensing subgroup]                                   objectives, the UN-REDD Global Programme develops “common approaches,
+
+Petrokofsky et al. Environmental Evidence 2012, 1:6                                                                                                         Page 19 of 21
+http://www.environmentalevidencejournal.org/content/1/1/6
+analyses, methodologies, tools, data and guidelines that facilitate                  5.  United Nations Framework Convention on Climate Change (UNFCCC):
+REDD + readiness work”. No pressure will be exerted on any authors to                    Report of the Conference of the Parties on its thirteenth session, held in
+endorse or reject any REDD methodologies during the course of the review.                Bali from 3 to 15 December 2007. Addendum Part Two: Action taken by
+Periodic progress reports will be made in relevant UN-REDD meetings, but                 the Conference of the Parties 2007 at its thirteenth session. FCCC/CP/
+while feedback will be welcomed, these will not exert any influence or direct            2007/6/Add1* distributed 14 March 2008. [http://unfccc.int/resource/docs/
+the academic process of the review.                                                      2007/cop13/eng/06a01.pdf] [accessed 30/01/2012]
+                                                                                     6.  United Nations Framework Convention on Climate Change (UNFCCC):
+Acknowledgements                                                                         Report of the Conference of the Parties on its sixteenth session, held in
+The following people are acknowledged as contributors to this Protocol                   Cancun from 29 November to 10 December 2010 Addendum Part Two:
+from its earliest drafts: Ralph Ashton, Alessandro Baccini, Lisette Buyung-Ali,          Action taken by the Conference of the Parties at its sixteenth session.
+Barney Dickson, Holly Gibbs, Terje Gobakken, Claudia Hiepe, Matt Hansen,                 FCCC/CP/2010/7/Add1 distributed 15 March 2011. [http://unfccc.int/resource/
+Martin Herold, Ole Hofstad, Christoph Klein, Werner Kurz, Danae Maniatis,                docs/2010/cop16/eng/07a01.pdf] [accessed 30/01/2012]
+Danilo Mollicone, Christine Negra, Florian Siegert, Stephen Twomlow, and             7.  IPCC: Good Practice Guidance for Land Use, Land-Use Change and Forestry
+Jerry Vanclay. We also acknowledge Jamie Moore and Scott Zolkos who                      (GPG-LULUCF) Kanagawa, Japan: Intergovernmental Panel on Climate Change
+contributed to method development for data extraction and analysis, Tomas                Institute for Global Environmental Strategies; 2003. [http://wwwipcc-nggipigesorjp]
+Thuresson and John Palmer who reviewed parts of the Protocol, and the                8.  IPCC: Guidelines for National Greenhouse Gas Inventories – Volume 4:
+anonymous reviewers who gave valuable feedback.                                          Agriculture, Land Use and Forestry (GL-AFOLU) Kanagawa, Japan:
+                                                                                         Intergovernmental Panel on Climate Change Institute for Global
+Author details                                                                           Environmental Strategies; 2006. [http://wwwipcc-nggipigesorjp/]
+1                                                                                    9.  GOFC-GOLD: A sourcebook of methods and procedures for monitoring
+ Department of Plant Sciences, University of Oxford, South Parks Road,
+Oxford OX13RB, UK. 2Food and Agriculture Organization of the United                      and reporting anthropogenic greenhouse gas emissions and removals
+Nations (FAO), Climate, Energy and Tenure Division (NRC), Viale delle Terme              caused by deforestation, gains and losses of carbon stocks in forests
+di Caracalla, 00153, Rome, Italy. 3EC Joint Research Centre, Forest Resources            remaining forests, and forestation. In Global Observation of Forest and
+and Climate Unit, TP 440, I-21027 Ispra (VA), Italy. 4Woods Hole Research                Land Cover Dynamics, Report version COP15-1. Edited by Achard F, Brown S,
+Center, 149 Woods Hole Road, Falmouth, MA 02540-1644, USA. 5Institute of                 De Fries R, Grassi G, Herold M, Mollicone D, Pandey D, Souza C. Alberta:
+Botany and Landscape Ecology, University Greifswald, Grimmer Strasse 88,                 Canada GOFC-GOLD Project Office, Natural Resources; 2009. http://
+17487, Greifswald, Germany. 6Food and Agriculture Organization of the                    wwwgofc-golduni-jenade/redd/.
+United Nations (FAO), Climate, Energy and Tenure Division (NRC), Viale delle         10. FAO: Carbon sequestration in dryland soils. World Soil Resources Reports
+Terme di Caracalla, 00153, Rome, Italy. 7Finnish Forest Research Institute, PL           2004, 108
+18, FI-01301, Vantaa, Finland. 8Center for International Forestry Research           11. Brown S, Lugo AE: The storage and production of organic matter in tropical
+(CIFOR), CIP, Apartado 1558Lima 12, Peru. 9Centre for Evidence-Based                     forests and their role in the global carbon cycle. Biotropica 1982, 14:161–187.
+Conservation, School of Environment, Natural Resources and Geography,                12. Malhi Y, Baker TR, Phillips OL, Almeida S, Alvarez E, Arroyo L, Chave J, Czimczik
+University of Bangor, Deiniol Road, Bangor LL57 2UW, UK. 10Helmholtz                     CI, Fiore A, Higuchi N, et al: The above-ground coarse wood productivity of
+Centre Potsdam, GFZ German Research Centre for Geosciences, Section 5.4,                 104 neotropical forest plots. Global Change Biol 2004, 10:563–591.
+Hydrology, Telegrafenberg, C4 1.14, D-14473, Potsdam, Germany.                       13. Baker TR, Phillips OL, Malhi Y, Almeida S, Arroyo L, Di Fiore A, Erwin T,
+                                                                                         Killeen TJ, Laurance SG, Laurance WF, et al: Variation in wood density
+Authors’ contributions                                                                   determines spatial patterns in Amazonian forest biomass. Global Change
+GP devised the systematic review project in collaboration with PH, and                   Biol 2004, 10:545–562. doi:101111/j1365-2486200400751x.
+facilitated the two Workshops at which the review questions were                     14. Hansen MC, Stehman SV, Potapov PV, Loveland TR, Townshend JRG, DeFries
+developed. She drafted the background section and, together with HK,                     RS, Pittman KW, Arunarwati B, Stolle F, Steininger MK, Carroll M, DiMiceli C:
+coordinated authors’ input for each section. SG wrote the sections on                    Humid tropical forest clearing from 2000 to 2005 quantified by using
+remote sensing and will lead the full review. FA co-wrote the section on                 multitemporal and multiresolution remotely sensed data. PNAS 2008,
+remote sensing. PH devised the project, collaborated on question                         105:9439–9444. doi:101073/pnas0804042105.
+development and provided input to the manuscript generally. HJ wrote the             15. Houghton RA: Aboveground forest biomass and the global carbon balance.
+section on soil and peatlands. HK wrote the sections on literature searching             Global Change Biol 2005, 11:945–958. doi:101111/j1365-2486200500955x.
+and the Appendices, and coordinated authors’ inputs for each section. AL             16. Palace M, Keller M, Asner GP, Silva JNM, Passos C: Necromass in undisturbed and
+wrote the section on gas exchange and biomass assessment in forest                       logged forests in the Brazilian Amazon. For Ecol Manage 2007, 238:309–318.
+contributed to the section on biomass assessment in forest generally. MM             17. Barlow J, Peres CA, Lagan BO, Haugaasen T: Large tree mortality and the
+wrote the section on deadwood and fire in forest, and contributed to the                 decline of forest biomass following Amazonian wildfires. Ecol Lett 2003, 6:6–8.
+section on biomass assessment in forest generally. AP provided guidance on           18. Rice AH, Pyle EH, Saleska SR, Hutyra L, Palace M, Keller M, De Camargo PB,
+standards for systematic review and protocol development and contributed                 Portilho K, Marques DF, Wofsy SC: Carbon balance and vegetation dynamics
+to the manuscript as a whole. MW wrote the section on carbon assessment                  in an old-growth Amazonian forest. Ecol Appl 2004, 14(supplement):S55–S71.
+in soil and agricultural land. All authors read and approved the final               19. Keller M, Palace M, Asner GP, Pereira R Jr: Silva JNM: Coarse woody debris
+manuscript.                                                                              in undisturbed and logged forests in the eastern Brazilian Amazon. Glob
+                                                                                         Chang Biol 2004, 10:784–795.
+Received: 30 January 2012 Accepted: 17 March 2012                                    20. Mäkinen H, Hynynen J, Siitonen J, Sievänen R: Predicting the
+Published: 21 June 2012                                                                  decomposition of Scots pine, Norway spruce, and birch stems in Finland.
+                                                                                         Ecol Appl 2006, 16:1865–1879.
+                                                                                     21. Brown SL, Schroeder P, Kern JS: Spatial distribution of biomass in forests
+References
+                                                                                         of the eastern USA. For Ecol Manage 1999, 123:81–90.
+1. Van der Werf GR, Morton DC, Defries RS, Olivier JGJ, Kasibhatla PS, Jackson
+       RB, Collatz GJ, Randerson JT: CO2 emissions from forest loss. Nat Geosci      22. Chave J, Riéra B, Dubois MA: Estimation of biomass in a neotropical forest
+       2009, 2:737–738.                                                                  of French Guiana: spatial and temporal variability. J Trop Ecol 2001,
+2. Achard F, Eva HD, Stibig H, Mayaux P, Gallego J, Richards T, Malingreau J:            17:79–96. doi:101017/S0266467401001055.
+       Determination of deforestation rates of the world’s humid tropical            23. Gaveau DLA, Balzter H, Plummer S: Forest woody biomass classification
+       forests. Science 2002, 297:999–1002. doi:10.1126/science.1070656.                 with satellite-based radar coherence over 900 000 km2 in Central
+3. Gullison RE, Frumhoff PC, Canadell JG, Field CB, Nepstad DC, Hayhoe K,                Siberia. For Ecol Manage 2003, 174:65–75.
+       Avissar R, Curran LM, Friedlingstein P, Jones CD, et al: Tropical forests and 24. DeWalt SJ, Chave J: Structure and biomass of four lowland neotropical
+       climate policy. Science 2007, 316:985–986. doi:101126/science1136163.             forests. Biotropica 2004, 36:7–19.
+4. Santilli M, Moutinho P, Schwartzman S, Nepstad D, Curran L, Nobre C:              25. Segura M, Kanninen M: Allometric models for tree volume and total
+       Tropical deforestation and the Kyoto protocol. Clim Change 2005, 71:267–          aboveground biomass in a tropical humid forest in Costa Rica. Biotropica
+       276. doi:101007/s10584-005-8074-6.                                                2005, 37:2–8.
+
+Petrokofsky et al. Environmental Evidence 2012, 1:6                                                                                                     Page 20 of 21
+http://www.environmentalevidencejournal.org/content/1/1/6
+26. Saatchi S, Houghton RA: Dos Santos Alvalá RC, Soares JV, Yu Y:                    50. Zianis D, Muukkonen P, Mäkipää R, Mencuccini M: Biomass and stem volume
+     Distribution of aboveground live biomass in the Amazon basin. Global                 equations for tree species in Europe. Silva Fennica Monographs 2005, 4:1–63.
+     Change Biol 2007, 13:816–837. doi:101111/j1365-2486200701323x.                   51. Williams MS, Schreuder HT: Guidelines for choosing volume equations in
+27. Sales MH, Souza Júnior CM, Kyriakidis PC, Roberts DA, Vidal E: Improving              the presence of measurement error in height. Can J Res 2000, 30:306–310.
+     spatial distribution estimation of forest biomass with geostatistics: a          52. Alder, D, van Kuijk: A baseline assessment of forest carbon in Guyana Report
+     case study for Rondônia, Brazil. Ecol Model 2007, 205:221–230.                       prepared for Guyana Forestry Commission. Technical Report 2009, 34 pp.
+28. Baccini A, Laporte NT, Goetz SJ, Sun M: A first map of tropical Africa’s              [http://www.bio-met.co.uk]
+     above-ground biomass derived from satellite imagery. Environ Res Lett            53. Brown S: Measuring, monitoring and verification of carbon benefits from
+     2008, 045011(online). doi:101088/1748-9326/3/4/045011.                               forest –based projects. Philosophical Transactions of the Royal Society of
+29. Fox JC, Yosi CK, Nimiago P, Oavika F, PokanaJ JN, Lavong K, Keenan R:                 London A 2002, 360:1669–1683.
+     Assessment of aboveground carbon in primary and selectively harvested            54. Hofstad O: Review of biomass and volume functions for individual trees
+     tropical forest in Papua New Guinea. Biotropica 2010, 42:410–419.                    and shrubs in Southeast Africa. J Trop for Sci 2005, 17:151–162.
+30. Cannell MGR: World forest biomass and primary production data. London:            55. Ter-Mikaelian MT, Korzukhin MD: Biomass equations for sixty-five North
+     Academic; 1982.                                                                      American tree species. For Ecol Manage 1997, 97:1–24.
+31. Castellanos J, Maass M, Kummerow J: Root biomass of a dry deciduous               56. Wirth C, Schumacher J, Schulze ED: Generic biomass functions for Norway
+     tropical forest in Mexico. Plant Soil 1991, 131:225–228.                             spruce in Central Europe—a meta-analysis approach toward prediction
+32. Vance ED, Nadkarni NM: Root biomass distribution in a moist tropical                  and uncertainty estimation. Tree Physiol 2004, 24:121–139.
+     montane forest. Plant Soil 1992, 142:31–39. doi:10.1007/BF00010172.              57. Wutzler T, Wirth C, Schumacher J: Generic biomass functions for Common
+33. Cairns MA, Brown S, Helmer EH, Baumgardner GA: Root biomass allocation                beech (Fagus sylvatica) in Central Europe: predictions and components
+     in the world’s upland forests. Oecologia 1997, 111:1–11.                             of uncertainty. Can J For Res 2008, 38:1661–1675.
+34. Komiyama A, Havanond S, Srisawatt W, Mochida Y, Fujimoto K, Ohnishi T,            58. Smith JE, Heath LS, Jenkins JC: Forest Volume-to-Biomass Models and
+     Ishihara S, Miyagi T: Top/root biomass ratio of a secondary mangrove                 Estimates of Mass for Live and Standing Dead Trees of US Forests.
+     (Ceriops tagal (Perr) CB Rob) forest. For Ecol Manage 2000, 139:127–134.             General Technical Report NE-298, 2003
+35. Jaramillo VJ, Ahedo-Hernández R, Kauffman JB: Root biomass and carbon             59. Lehtonen A, Mäkipää R, Heikkinen J, Sievänen R, Liski J: Biomass expansion
+     in a tropical evergreen forest of Mexico: changes with secondary                     factors (BEF) for Scots pine, Norway spruce and birch according to stand
+     succession and forest conversion to pasture. J Trop Ecol 2003, 19:457–464.           age for boreal forests. For Ecol Manage 2004, 188:211–224.
+36. Green JJ, Dawson LA, Proctor J, Duff EI, Elston DA: Fine root dynamics in a       60. Lehtonen A, Cienciala E, Tatarinov F, Mäkipää R: Uncertainty estimation of
+     tropical rain forest is influenced by rainfall. Plant Soil 2005, 276:23–32.          biomass expansion factors for Norway spruce in the Czech Republic. Ann
+37. Pande PK: Biomass and productivity in some disturbed tropical dry deciduous           For Sci 2007, 64:133–140.
+     teak forests of Satpura plateau, Madhya Pradesh. Trop Ecol 2005, 46:229–239.     61. Teobaldelli M, Somogyi Z, Migliavacca M, Usoltsev VA: Generalized
+38. Saint-André L, Thongo M’Bou A, Mabiala A, Mouvondy W, Jourdan C,                      functions of biomass expansion factors for conifers and broadleaved by
+     Roupsard O, Deleporte P, Hamela O, Nouvellon Y: Age-related equations                stand age, growing stock and site index. For Ecol Manage 2009, 257:1004–
+     for above- and below-ground biomass of a Eucalyptus hybrid in Congo.                 1013.
+     For Ecol Manage 2005, 205:199–214.                                               62. Jalkanen A, Mäkipää R, Ståhl G, Lehtonen A, Petersson H: Estimation of the
+39. Kenzo T, Ichie T, Hattori D, Itioka T, Handa C, Ohkubo T, Kendawang JJ,               biomass stock of trees in Sweden: comparison of biomass equations and
+     Nakamura M, Sakaguchi M, Takahashi N: Development of allometric                      age-dependent biomass expansion factors. Ann For Sci 2005, 62:845–851.
+     relationships for accurate estimation of above- and below-ground                 63. Fearnside PM: Amazonian deforestation and global warming: carbon
+     biomass in tropical secondary forests in Sarawak, Malaysia. J Trop Ecol              stocks in vegetation replacing Brazil’s Amazon forest. For Ecol Manage
+     2009, 25:371–386.                                                                    1996, 80:21–34.
+40. Kenzo T, Ichie T, Hattori D, Kendawang JJ, Sakurai K, Ninomiya I: Changes in      64. Houghton RA, Lawrence KT, Hackler JL, Brown S: The spatial distribution of
+     above- and belowground biomass in early successional tropical                        forest biomass in the Brazilian Amazon: a comparison of estimates.
+     secondary forests after shifting cultivation in Sarawak, Malaysia. For Ecol          Global Change Biol 2001, 7:731–746. doi:101046/j1365-2486200100426x.
+     Manage 2010, 260:875–882.                                                        65. Malhi Y, Grace J: Tropical forests and atmospheric carbon dioxide. Trends
+41. Danjon F, Reubens B: Assessing and analyzing 3D architecture of woody                 Ecol Evol 2000, 15:332–337. doi:101016/S0169-5347(00)01906-6.
+     root systems, a review of methods and applications in tree and soil              66. Malhi Y, Meir P, Brown S: Forests, carbon and global climate. Philos
+     stability, resource acquisition and allocation. Plant Soil 2008, 303:1–34.           Transact Ser A Math Phys Eng Sci 2002, 360:1567–1591. doi:10.1098/
+42. Usoltsev VA: Forest Biomass of Northern Eurasia: Database and Geography.              rsta.2002.1020.
+     Yekarinenburg: Russian Academy of Sciences, Ural Branch; 2001 (in Russian).      67. Fearnside PM, Laurance WF: Comment on ‘Determination of deforestation
+43. Baker TR, Phillips OL, Malhi Y, Almeida S, Arroyo L, Di Fiore A, Erwin T, Higuchi     rates of the world’s humid tropical forests’. Science 2003, 299:1015.
+     N, Killeen TJ, Laurance SG, et al: Increasing biomass in Amazonian forest        68. Achard F, Eva HD, Mayaux P, Stibig HJ, Belward A: Improved estimates of
+     plots. Philos Trans R Soc B Biol Sci 2004, 359:353–365. doi:101098/rstb20031422.     net carbon emissions from land cover change in the tropics for the
+44. Ramankutty N, Gibbs HK, Achard F, Defries R, Foley JA, Houghton RA:                   1990s. Global Biogeochem Cycles 2004, 18:GB2008. doi:101029/
+     Challenges to estimating carbon emissions from tropical deforestation.               2003 GB002142.
+     Global Change Biol 2007, 13:51–66. doi:101111/j1365-2486200601272x.              69. DeFries R, Achard F, Brown S, Herold M, Murdiyarso D, Schlamadinger B,
+45. Chave J, Condit R, Aguilar S, Hernandez A, Lao S, Perez R: Error                      Souza C: Earth observations for estimating greenhouse gas emissions
+     propagation and sealing for tropical forest biomass estimates. Philos                from deforestation in developing countries. Environmental Science and
+     Trans R Soc B Biol Sci 2004, 359:409–420. doi:101098/rstb20031425.                   Policy 2007, 10:385–3942004.
+46. Vieira SA, Alves LF, Aidar M, Araújo LS, Baker T, Batista JLF, Campos MC,         70. Goetz SJ, Baccini A, Laporte N, Johns T, Walker WS, Kellndorfer JM,
+     Camargo PB, Chave J, Delitti WBC, et al: Estimation of biomass and carbon            Houghton RA, Sun M: Mapping & monitoring carbon stocks with satellite
+     stocks: the case of the Atlantic Forest Biota. Neotropica 2008, 8:21–29.             observations:a comparison of methods. Carbon Balance and Management
+     doi:101590/S1676-06032008000200001.                                                  2009. doi:101186/1750-0680-1184-1182. online.
+47. Chave J, Andalo C, Brown S, Cairns MA, Chambers JQ, Eamus D, Fölster H,           71. Batjes NH, Sombroek WG: Possibilities for carbon sequestration in tropical
+     Fromard F, Higuchi N, Kira T, et al: Tree allometry and improved                     and subtropical soils. Global Change Biol 1997, 3:161–173.
+     estimation of carbon stocks and balance in tropical forests. Oecologia           72. Li C, Frolking S, Harriss R: Modeling carbon biogeochemistry in
+     2005, 145:87–99. doi:101007/s00442-005-0100-x.                                       agricultural soils. Global Biogeochem Cy 1994, 8:237–254.
+48. Scatena FN, Silver W, Siccama T, Johnson A, Sanchez MJ: Biomass and nutrient      73. Kätterer T, Reichstein M, Andren O, Lomander A: Temperature dependence
+     content of the Bisley experimental watersheds, Luquillo Experimental Forest,         of organic matter decomposition: a critical review using literature data
+     Puerto Rico, before and after Hurricane Hugo, 1989. Biotropica 1993, 25:15–27.       analyzed with different models. Biol Fertil Soils 1998, 27:258–262.
+49. Van Leeuwen M, Nieuwenhuis M: Retrieval of forest structural parameters           74. Reichstein M, Bednorz F, Broll G, Kätterer T: Temperature dependence of
+     using LiDAR remote sensing. Eur J Forest Res 2010, 129:749–770.                      carbon mineralisation: conclusions from a long-term incubation of
+     doi:10.1007/s10342-010-0381-4.                                                       subalpine soil samples. Soil Biol Biochem 2000, 32:947–958.
+
+Petrokofsky et al. Environmental Evidence 2012, 1:6                                                                                                             Page 21 of 21
+http://www.environmentalevidencejournal.org/content/1/1/6
+75. Reichstein M, Rey A, Freibauer A, Tenhunen J, Valentini R, Banza J, Casals P,        99. Ordóñez JAB, de Jong BHJ, Garcia-Oliva F, Avina FL, Perez JV, Guerrero G,
+     Cheng Y, Grünzweig JM, Irvine J, Joffre R, Law BE, Loustau D, Miglietta F,               Martinez R, Masera O: Carbon content in vegetation, litter, and soil under
+     Oechel W, Ourcival JM, Pereira JS, Peressotti A, Ponti F, Qi Y, Rambal S,                10 different land-use and land-cover classes in the Central Highlands of
+     Rayment M, Romanya J, Rossi F, Tedeschi V, Tirone G, Xu M, Yakir D: Modeling             Michoacan, Mexico. For Ecol Manage 2008, 255:2074–2084.
+     temporal and large-scale spatial variability of soil respiration from soil          100. Ostertag R, Marín-Spiotta E, Silver WL, Schulten J: Litterfall and
+     water availability, temperature and vegetation productivity indices. Global              decomposition in relation to soil carbon pools along a secondary forest
+     Biogeochem Cycles 2003, 17(4):1104, 15 pp. doi:10.1029/2003GB00203.                      chronosequence in Puerto Rico. Ecosystems 2008, 11:701–714.
+76. Reichstein M, Falge E, Baldocchi D, Papale D, Aubinet M, Berbigier P, Bernhofer      101. Tuomi M, Thum T, Jarvinen H, Fronzek S, Berg B, Harmon M, Trofymow JA,
+     C, Buchmann N, Gilmanov T, Granier A, Grunwald T, Havrankova K, Ilvesniemi H,            Sevanto S, Liski J: Leaf litter decomposition-Estimates of global variability
+     Janous D, Knohl A, Laurila T, Lohila A, Loustau D, Matteucci G, Meyers T,                based on Yasso07 model. Ecol Model 2009, 220:3362–3371.
+     Miglietta F, Ourcival J-M, Pumpanen J, Rambal S, Rotenberg E, Sanz M,               102. Wieder RK, Scott KD, Kamminga K, Vile MA, Vitt DH, Bone T, Xu B, Benscoter
+     Tenhunen J, Seufert G, Vaccari F, Vesala T, Yakir D, Valentini R: On the separation      BW, Bhatti JS: Postfire carbon balance in boreal bogs of Alberta, Canada.
+     of net ecosystem exchange into assimilation and ecosystem respiration:                   Glob Chang Biol 2009, 15:63–81.
+     review and improved algorithm. Glob Chang Biol 2005, 11:1424–1439.                  103. IPCC: Agriculture in Climate change 2007: Mitigation Contribution of Working
+77. Reichstein M, Kätterer T, Andren O, Ciais P, Schulze ED, Cramer W, Papale D,              Group III to the Fourth Assessment Report of the Intergovernmental Panel on
+     Valentini R: Does the temperature sensitivity of decomposition vary with                 Climate Change. New York: Cambridge University Press; 2007.
+     soil organic matter quality?. Biogeosciences Discussions 2005, 2:737–747.           104. Smith P, Lanigan G, Kutsch WL: Measurements necessary for assessing the net
+78. Heimann M, Reichstein M: Terrestrial ecosystem carbon dynamics and                        ecosystem carbon budget of croplands. Agric Ecosyst Environ 2010, 139:302–315.
+     climate feedbacks. Nature 2008, 451:289–292.                                        105. Asner GP, Mascaro J, Muller-Landau HC, Vieilledent G, Vaudry R, Rasamoelina
+79. Guo LB, Gifford RM: Soil carbon stocks and land use change: a meta analysis.              MJ, Hall S, Van Breugel M: A universal airborne LiDAR approach for tropical
+     Global Change Biol 2002, 8:345–360. doi:101046/j1354-1013200200486x.                     forest carbon mapping. Oecologia 2011. doi:101007/s00442-011-2165-z.
+80. Laganière J, et al: Carbon accumulation in agricultural soils after                  106. Goetz SJ, Dubayah R: Advances in remote sensing technology and
+     afforestation: a meta-analysis. Glob Chang Biol 2009, 16:439–453.                        implications for measuring and monitoring forest carbon stocks and
+81. Post WM, Izaurralde RC, Mann LK, Bliss N: Monitoring and verifying                        change. Carbon Management 2011, 2:231–244.
+     changes of organic carbon in soil. Clim Chang 2001, 51:73–99.                       107. Asner GP, Powell GVN, Mascaroa J, Knapp DE, Clark JK, Jacobson J, Kennedy-
+82. Garten CT Jr: Wullschleger SD: Soil carbon dynamics beneath switchgrass                   Bowdoin T, Balaji A, Paez-Acosta G, Victoria E, Secada L, Valquid M: Flint
+     as indicated by stable isotope analysis. J Environ Qual 2000, 29:645–653.                Hughes R: High-resolution forest carbon stocks and emissions in the
+83. Jung M, et al: Global patterns of land-atmosphere fluxes of carbon                        Amazon. PNAS 2010, 107:16738–16742.
+     dioxide, latent heat, and sensible heat derived from eddy covariance,               108. Foody GM, Cutler MEJ: Tree biodiversity in protected and logged Bornean
+     satellite, and meteorological observations. J Geophys Res 2011, 116:1–16.                tropical rain forests and its measurement by satellite remote sensing. J
+84. Hollinger DY, Richardson AD: Uncertainty in eddy covariance measurements                  Biogeogr 2003, 30:1053–1066.
+     and its application to physiological models. Tree Physiol 2005, 25:873–885.         109. Lu D: The potential and challenge of remote sensing-based biomass
+85. Lasslop G, Reichstein M, Kattge J, Papale D: Influences of observation                    estimation. Int J Remote Sens 2006, 27:1297–1328. doi:101080/
+     errors in eddy flux data on inverse model parameter estimation.                          01431160500486732.
+     Biogeosciences 2008, 5:1311–1324.                                                   110. Rosenqvist Å, Milne A, Lucas R, Imhoff M, Dobson C: A review of remote sensing
+86. Campbell JE, Moen JC, Ney RA, Schnoor JL: Comparison of regression                        technology in support of the Kyoto Protocol. Environ Sci Policy 2003, 6:441–455.
+     coefficient and GIS-based methodologies for regional estimates of forest soil       111. Patenaude G, Milne R, Dawson TP: Synthesis of remote sensing
+     carbon stocks. Environ Pollut 2008, 152:267–273. doi:101016/jenvpol200706057.            approaches for forest carbon estimation: reporting to the Kyoto
+87. Mäkipää R, Häkkinen M, Muukkonen P, Peltoniemi M: The costs of                            Protocol. Environ Sci & Policy 2005, 8:161–178. doi:101016/jenvsci200412010.
+     monitoring changes in forest soil carbon stocks. Boreal Environment                 112. Holmgren P, Marklund LG, Freer-Smith PH, Broadmeadow MSJ, Lynch JM:
+     Research 2008, 13(suppl B):120.                                                          National forest monitoring systems: purposes, options and status. In
+88. Peltoniemi M, Palosuo T, Monni S, Mäkipää R: Factors affecting the                        Forestry and climate change. Wallingford, UK: CABI; 2007:163–1732007.
+     uncertainty of sinks and stocks of carbon in Finnish forests soils and              113. Guo Z, Fang J, Pan Y, Birdsey R: Inventory-based estimates of forest
+     vegetation. For Ecol Manage 2006, 232:75–85.                                             biomass carbon stocks in China: a comparison of three methods. For Ecol
+89. Peltoniemi M, et al: Models in country scale carbon accounting of forest                  Manage 2009, 259:1225–1231.
+     soils. Silva Fennica 2007, 41:575–602.                                              114. Hernanz JL, Peixoto H, Cerisola C, Sánchez-Girón V: An empirical model to predict
+90. Zimmermann M, Leifeld J, Schmidt MWI, Smith P, Fuhrer J: Measured soil                    soil bulk density profiles in field conditions using penetration resistance,
+     organic matter fractions can be related to pools in the RothC model. Eur                 moisture content and soil depth. Journal of Terramechanics 2000, 37:167–184.
+     J Soil Sci 2007, 58:658–667.                                                        115. Rousseva SS, Ahuja LR, Heathman GC: Use of a surface gamma-neutron
+91. Dondini M, Hastings A, Saiz G, Jones M, Smith P: The potential of Miscanthus              gauge for in situ measurement of changes in bulk density of the tilled
+     to sequester carbon in soils: comparing field measurements in Carlow,                    zone. Soil and Tillage Research 1988, 12:235–251.
+     Ireland to model predictions. Glob Change Biol Bioenergy 2009, 1:413–425.           116. Miller RE, Hazard J, Howes S: Precision, accuracy, and efficiency of four tools
+92. Wutzler T, Reichstein M: Soils apart from equilibrium; consequences for                   for measuring soil bulk density or strength. USDA Forest Service - Research
+     soil carbon balance modelling. Biogeosciences 2007, 4:125–136.                           Papers 2001, RMRS 1–17.
+93. Yeluripati JB, van Oijen M, Wattenbach M, Neftel A, Ammann A, Parton WJ,             117. Benites VM, Machado P, Fidalgo ECC, Coelho MR, Madari BE: Pedotransfer
+     Smith P: Bayesian calibration as a tool for initialising the carbon pools of             functions for estimating soil bulk density from existing soil survey
+     dynamic soil models. Soil Biol Biochem 2009, 41:2579–2583.                               reports in Brazil. Geoderma 2007, 139:90–97.
+94. Joosten H, Couwenberg J: Peatlands and carbon. In Assessment on                      118. Lee J, Hopmans JW, Rolston DE, Baer SG, Six J: Determining soil carbon
+     peatlands, biodiversity and climate change. Edited by Parish F, Sirin A,                 stock changes: Simple bulk density corrections fail. Agric Ecosyst Environ
+     Charman D, Joosten H, Minaeva T, Silvius M. Kuala Lumpur: Global                         2009, 134:251–256.
+     Environment Centre, and Wageningen:Wetlands International; 2008:99–117.             119. Page-Dumroese DS, Jurgensen MF, Brown RE, Mroz GD: Comparison of
+95. Page SE, Siegert F, Rieley JO, Boehm H-V, Jaya A, Limin S: The amount of                  methods for determining bulk densities of rocky forest soils. Soil Sci Soc
+     carbon released from peat and forest fires in Indonesia during 1997.                     Am J 1999, 63:379–383.
+     Nature 2002, 420:61–65. doi:101038/nature01131.
+96. Van der Werf GR, Dempewolf J, Trigg SN, et al: Climate regulation of fire              doi:10.1186/2047-2382-1-6
+     emissions and deforestation in equatorial Asia. PNAS 2008, 105:20350–20355.           Cite this article as: Petrokofsky et al.: Comparison of methods for
+97. Couwenberg J, Dommain R, Joosten H: Greenhouse gas fluxes from                         measuring and assessing carbon stocks and carbon stock changes in
+     tropical peatlands in Southeast Asia. Global Change Biol 2010, 16:1715–               terrestrial carbon pools. How do the accuracy and precision of current
+     1732. doi:10.1111/j.1365-2486.2009.02016.x.                                           methods compare? A systematic review protocol. Environmental Evidence
+98. Joosten H: The Global Peatland CO2 Picture Peatland status and emissions in            2012 1:6.
+     all countries of the World. Ede: Wetlands International; 2009.
+

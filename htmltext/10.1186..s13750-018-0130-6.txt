@@ -1,0 +1,365 @@
+Skip to main content
+Advertisement
+Search
+• Explore journals
+• Get published
+• About BMC
+• My account
+Search all BMC articles
+Search
+Environmental Evidence
+• Home
+• About
+• Articles
+• Submission Guidelines
+Download PDF
+• Systematic Map Protocol
+• Open Access
+• Published: 16 August 2018
+What is the available evidence for the application of genome editing as a new tool for plant trait modification and the potential occurrence of associated off-target effects: a systematic map protocol
+• Dominik Modrzejewski  ORCID: orcid.org/0000-0001-6545-75361,
+• Frank Hartung1,
+• Thorben Sprink1,
+• Dörthe Krause1,
+• Christian Kohl1,
+• Joachim Schiemann1 &
+• Ralf Wilhelm1
+Environmental Evidence volume 7, Article number: 18 (2018) Cite this article
+2123 Accesses
+8 Citations
+6 Altmetric
+Metrics details
+Abstract
+Background
+Plant breeding is a developing process and breeding methods have continuously evolved over time. In recent years, genome editing techniques such as clustered regularly interspaced short palindromic repeats/CRISPR associated proteins (CRISPR/Cas), transcription activator-like effector nucleases (TALENs), zinc-finger nucleases (ZFN), meganucleases (MN) and oligonucleotide-directed mutagenesis (ODM) enabled a precise modification of DNA sequences in plants. Genome editing has already been applied in a wide range of plant species due to its simplicity, time saving and cost-effective application compared to earlier breeding techniques including classical mutagenesis. Although genome editing techniques induce much less unintended modifications in the genome (off-target effects) compared to classical mutagenesis techniques, off-target effects are a prominent point of criticism as they might cause genomic instability, cytotoxicity and cell death.
+Methods
+The aim of this systematic map is to address the following primary question: “What is the available evidence for the application of genome editing as a new tool for plant trait modification and the potential occurrence of associated off-target effects”? The primary question will be considered by two secondary questions: One is aimed at the traits being modified by genome editing in plants and the other explores the occurrence of off-target effects. The systematic map will focus on model plants as well as on plants produced for agricultural production that were subjected to genome editing techniques. Academic and grey literature will be searched in English and German language. Inclusion/exclusion criteria were developed for the two secondary questions and will be applied on title/abstract and full text stage. Included studies will be catalogued in a searchable and open access database and study results will be summarized using descriptive statistics. Furthermore, the extracted data will serve as a preparatory step for further in-depth analysis, e.g. by a systematic review.
+Background
+Technological progress in agriculture and plant breeding has contributed significantly to a stable food supply and has formed the basis for high yields and the agricultural production of high quality products. However, in an ever changing world new challenges are encountered within the next decades. Aside the demands of the growing global population and limited fossil resources, climate change is a driver of breeding efforts as it is associated with increased extreme weather events like droughts or floods as well as changing dynamics of pests and diseases. Agriculture needs to ensure and increase the world agricultural production to serve extended demands with limited environmental resources like soil and water [1]. In contrast, intensification of agriculture causes considerable impact on nature, as naturally diverse landscapes are replaced by arable land for the cultivation of few plant species. Biodiversity is threatened through habitat loss and pesticide use which in turn is considered to increase disease and pest pressure [2]. Additionally, environmental impacts on agriculture are becoming increasingly important in societal debates. To solve all these challenges a combination of good agricultural practice (GAP) and innovation in plant breeding is needed. GAP addresses environmental, economic and social sustainability leading to safe and healthy food [3]. Examples for GAP are the preservation of natural soil fertility through suitable crop rotations, fertilization and plant protection according to the principles of integrated cultivation or a balanced and species-appropriate animal husbandry [3]. Besides, plant breeding is of crucial importance to manage environmental impacts on cultivation systems by providing varieties resistant to plant diseases or pests, and tolerant to abiotic stress. This may reduce pesticide use and result in less intense management efforts (e.g. irrigation). Further yield improvement will reduce the area required for food production and may balance with areas e.g. for nature conservation [2]. Plant breeding essentially relies on the utilization of genetic variation within the breeding material that can be used for crossing and selection steps to develop improved varieties. New genetic variation can occur naturally by spontaneous mutations that enable populations to adapt to changing environmental conditions. However, as the mutation rate is fairly low and at random, plant breeders and scientists artificially induce mutations for already several decades. The first generation of mutation breeding used chemical and physical mutagens to generate a plurality of nonspecific mutations. The increased mutation rate results in plants with a few positive, a lot of neutral and several negative characteristics. Thus, laborious backcrossing and selection steps are necessary in order to select for a desired trait. Nevertheless, today more than 3200 mutant varieties from 214 different plant species have been generated through undirected mutagenesis and have been officially registered [4].
+Glossary: [2, 5]
+Backcrossing Backcrossing is a crossing of a hybrid with one of its parents in order to achieve offsprings that are genetically closer to the selected parent. This way desired heterologous traits from the hybrid can be transferred into the genetic background of a parental line. Since crossing recombines all genes many backcrosses are necessary to achieve considerable dilution of unwanted genes from the hybrid.
+Mutagen A mutagen is an agent that increases the mutation rate within an organism or cell, e.g. X-rays, gamma-rays or chemicals like ethyl methane sulfonate (ESM).
+Mutation breeding A plant breeding approach using mutagens to enhance genetic variation. The resulting random mutations can generate new gene variations with positive traits that can be selected for further breeding. However, several of these mutations are negative and diminish the viability of the plant.
+Selection A process in breeding by which the breeder chooses only those individuals that show desired trait(s).
+In 1983, the first recombinant DNA was delivered to plant cells using Agrobacterium tumefaciens [6, 7]. From this time on, it is possible to work at a single gene level with genetic material from any organism generating plants that cannot be bred by conventional breeding techniques [8, 9]. Nevertheless, the induced mutations using chemical and physical mutagens as well as the “classical” transgenic approach show limited efficiencies due to the random targeting of the modified site [10]. In recent years, genome editing techniques have been developed enabling a precise modification of DNA sequences in a specific and site-directed manner [11]. To date, genome editing comprises two molecular approaches that efficiently induce targeted alterations in genomes: (1) site-directed nucleases (SDN) and (2) oligonucleotide-directed mutagenesis (ODM). Site-directed nucleases induce double-strand breaks (DSBs) in the DNA which are subsequently repaired by the hosts own cellular mechanisms. The type of repair can be categorized in three main types [11,12,13,14]:
+• 1.
+No additional template is added and the DSB is repaired by non-homologous end joining (NHEJ) resulting in small insertion–deletion (indel) mutations. This approach is defined as SDN1.
+• 2.
+A repair template is added which, except for a few nucleotides, is identical to the sequences in which the DSB is introduced. Then, the DSB is repaired via homology-directed repair (HDR), causing nucleotide substitution or targeted indels. This approach is defined as SDN2.
+• 3.
+The repair template harbors a recombinant DNA sequence additional to the homologous sequences in which the DSB is made and the break is repaired via HDR, resulting in more complex alterations i.e. the insertion of foreign genes. This approach is defined as SDN3.
+All three types of DSB repair can be induced using one of the following engineered nucleases: (i) Meganucleases (MN), (ii) zinc-finger nucleases (ZFN), (iii) transcription activator-like effector nucleases (TALENs) and (iv) clustered regularly interspaced short palindromic repeats/CRISPR associated proteins (CRISPR/Cas).
+Meganucleases
+Meganucleases are naturally occurring endonucleases that can be modified to bind to a specific DNA sequence and cleave it [15]. The advantage of meganucleases is their small size, making them appropriate to a majority of delivery methods [16]. However, the DNA-binding domain cannot be separated from the catalytic domain challenging the construction of MN [4]. MN have been applied successfully for genome editing in plants such as Arabidopsis [17], maize [18] and cotton [19].
+Zinc-finger nucleases
+In 1996, zinc-finger nucleases were reported as the first programmable site-specific nucleases [20]. ZFN are generated by fusing two independent protein domains. A zinc-finger protein, which comprises up to six zinc-finger domains each able to identify a nucleotide triplet of a specific DNA sequence, is fused with a synthetic endonuclease domain (most frequently FokI) [4, 9, 29]. Since the nuclease is active as a dimer, two zinc-finger nucleases are necessary in close proximity to target and cut a sequence in the genome.
+TALENs
+Similarly to ZFN, TALENs are also composed of two functional parts. The first part consists of the TALE which is originally derived from the Xanthomonas species and is crucial for the binding to a specific DNA sequence. The TALE is composed of a 34-amino acid repeat, each binding specifically to a single nucleotide in the target DNA [21]. In order to mediate the introduction of a targeted DSB, the TALE is fused to a FokI endonuclease domain. Compared to ZFN where each repeat recognizes a cluster of three nucleotides and interferes with neighboring repeats, the design of specific TALE DNA-binding domains is easier and amenable to programming [22]. Similar to ZFN, TALENs are most frequently used as pairs to introduce a DSB at a specific target site of the DNA [9].
+CRISPR/Cas9
+The most widely used CRISPR/Cas system is derived from Streptococcus pyogenes consisting of two elements. An artificial single guide RNA (sgRNA) is directing the nuclease to a specific DNA sequence. Afterwards, the Cas endonuclease induces a DSB at this targeted DNA sequence [23]. To induce a DSB, a protospacer-adjacent motif (PAM), such as 5′-NGG-3′, has to be present in the site specific target [24]. The difference to TALENs and ZFN is that, instead of a protein, a short sgRNA is used for target recognition within the CRISPR/Cas9 system. This sgRNA can be easily adapted to match the target sequence. Compared to ZFNs and TALENs the CRISPR/Cas9 system is easier, faster and more flexible since only the sgRNA has to be adapted to a new sequence instead of the whole binding proteins as it is the case for MN, ZFN or TALENs [25].
+Oligonucleotide-directed mutagenesis
+In contrast to MN, ZFN, TALENs and CRISPR/Cas9 the ODM technique does not require a nuclease and a DSB [26]. The mechanism of ODMs is based on the use of chemically synthesized oligonucleotides for the induction of site-specific mutations in the genome. The alteration generally affects one to four adjacent nucleotides resulting in point mutations [27]. The oligonucleotide is a modified DNA or DNA/RNA molecule of 20–100 nucleotides. It is homologous to a genomic sequence except for the nucleotide(s) that is/are supposed to be modified [8, 27]. The introduced oligonucleotide binds to the targeted DNA sequences and this sequence is then modified by the host cell´s mechanism of mismatch repair [11].
+Genome editing offers substantial advantages compared to previous mutation breeding techniques and conventional genetic engineering in terms of speed and precision. Genome editing provides the opportunity to selectively mutate or modify one or a few genes (SDN1, SDN2). In addition, it is now possible to precisely modify or selectively replace (SDN3) entire genes from both closely as well as distantly related organisms [11]. By the use of conventional genetic engineering traces of recombinant DNA, from the viruses or bacteria that were used as gene shuttle persist in the modified organism leading to clearly characterized genetically modified organisms. In contrast, by applying genome editing it is possible to modify crops without inserting foreign DNA sequences at all [28]. This may reduce the regulatory burden for plant breeders and increase the acceptance of genome editing within society. Based on the simplicity, time saving and cost effective application of genome editing, it has already been applied in a wide range of cultivars. Genome editing has been used for:
+• i.
+Analyzing gene functions (e.g. effect of the RAV2 gene for salt stress in rice [29]).
+• ii.
+Improvement of product quality (e.g. decreased linolic acid in soybean [30]).
+• iii.
+Development of disease resistant varieties (e.g. virus resistant cucumber [31]).
+• iv.
+Developing of herbicide tolerant varieties (e.g. resistance to the herbicide chlorsulfuron in oil seed rape [32]).
+• v.
+Improved adaption to abiotic stress, (e.g. drought tolerance in maize [33]).
+Even in plants like hexaploid wheat that were so far largely inaccessible for targeted genetic alterations the simultaneous mutation of all six alleles was successfully performed [34]. All these open new dimensions for the scientific, plant breeding and agricultural community.
+Compared to randomly induced mutations by chemicals or irradiation, the number of unintended mutations (off-target effects) is greatly reduced by genome editing techniques [11]. Nevertheless, their application does not completely or per se exclude the occurrence of off-targets. Off-targets are changes in a certain DNA sequence being similar to the targeted one but located at another site in the genome. Mainly, they occur due to the lack of exclusiveness and/or length of the recognition site [11, 35, 36]. Several methods have been developed to predict and identify off-target sites linked to the use of genome editing. One can differentiate between the prediction of off-target effects using in silico methods and the detection of off-targets using either biased detection methods to analyze individual DNA sequences or unbiased detection methods where genome-wide off-target analyses are conducted [37]. Depending on the detection method being used the results of identifying off-target mutations vary widely. Although genome editing techniques induce much less off-target effects compared to classical mutagenesis techniques, off-targets are an important point of criticism as they may possibly cause genomic instability, cytotoxicity and cell death [38,39,40].
+Risk assessors and decision makers are depending on the provision of a reliable body of evidence to support conclusions about potential risks being associated with the application of genome editing. Thus, the provided overview on the available evidence on the occurrence of off-target effects will be of crucial importance. Furthermore, this systematic map facilitates an objective debate by informing interested stakeholder communities in a transparent and retraceable manner about the status of research, the progress in genome editing in plants and the available evidence about the potential occurrence of associated off-target effects. The results of the systematic map will be discussed on a stakeholder conference as well as within an expert group established as part of the ELSA-GEA project. These meetings will be an important part to identify relevant key aspects that should further be analyzed within a systematic review.
+Objectives of the map
+Due to its strong implications of plant breeding, genome editing is of particular relevance to scientists, regulators and policy-makers in the EU and worldwide. Therefore, we want to survey the available evidence about applications of genome editing in plants. The main objectives are:
+Overview of the traits modified by genome editing in model plants as well as in crops produced for agricultural production.
+Overview of the available evidence about the occurrence of off-target effects due to the use of genome editing techniques in model plants as well as in crops produced for agricultural production.
+Identification of the volume of the available literature, evidence clusters and key characteristics of the evidence base to inform interested stakeholder communities.
+Identification of knowledge gaps concerning the occurrence of off-target effects in order to inform decision makers which future research might be needed for a risk assessment.
+Assessment whether the available evidence base is suitable for in-depth analyses such as by a systematic review.
+The primary question of the systematic map is:
+“What is the available evidence for the application of genome editing as a new tool for plant trait modification and the potential occurrence of associated off-target effects”?
+To answer this primary question, it is reconsidered by two secondary questions related to (1) the traits modified by genome editing and (2) the occurrence of off-target effects due to the use of genome editing.
+Secondary question one
+“What are the traits modified by genome editing in model plants as well as in crops produced for agricultural production?”
+Population::
+Any model plant or crop produced for agricultural production.
+Intervention::
+One of the following genome editing techniques was used to induce an alteration in the plant genome: clustered regularly interspaced short palindromic repeats/CRISPR associated proteins (CRISPR/Cas), transcription activator-like effector nucleases (TALENs), meganucleases (MN), zinc-finger nucleases (ZFN), oligonucleotide-directed mutagenesis (ODM).
+Outcome::
+The alteration of the genome (i.e. insertion, deletion or replacement of nucleotides) induced by the use of one of the genome editing techniques.
+Secondary question two
+“What is the available evidence for the potential occurrence of associated off-target effects due to the use of genome editing in model plants as well as in crops produced for agricultural production?”
+Population::
+Any model plant or crop produced for agricultural production.
+Intervention::
+One of the following genome editing techniques was used to induce an alteration in the plant genome: clustered regularly interspaced short palindromic repeats/CRISPR associated proteins (CRISPR/Cas), transcription activator-like effector nucleases (TALENs), meganucleases (MN), zinc-finger nucleases (ZFN), oligonucleotide-directed mutagenesis (ODM).
+Outcome::
+The occurrence of potential off-target events was assessed.
+Methods
+Search strategy
+To test the comprehensiveness of the search strategy a scoping search was carried out to validate the search string and to test it against a priori selected articles of relevance (Additional file 1). To revise the adequacy of the search string an iterative process was applied by testing search strings in Web of Science (WoS), recording numbers of hits and testing them against the test library. The development of the search string is shown in Additional file 2. The search string will be composed of two parts: The first part defines the population of interest and comprises less specific terms like crop, plant or seed and in addition model plants and crops produced for agricultural production including their English and Latin names to ensure broad coverage. The second part defines the intervention, i.e. the genome editing technique applied to induce an alteration in the plant genome (CRISPR, TALENs, ZFN, MN or ODM). The search terms describing each key element will be combined by the Boolean operator “OR” and the different key elements will be combined with the “AND” operator. Wildcards (‘*’) will be used to search for variant word endings. The final search terms shown in Additional file 3 will be adapted to the specific needs of each database to which it will be applied to. Database searches will be conducted in English and German language. Articles published after 1996, when the first study about a genome editing technique was published, will be considered.
+The following online publication databases will be searched to identify academic literature. Access to these databases is ensured by institutional subscriptions:
+Scopus
+PubMed
+Science direct
+Agris
+Web of Science (WoS)
+Biological Abstracts
+BIOSIS Previews
+CAB Abstracts
+FSTA
+SciELO Citation Index
+Furthermore, Google Scholar (https://scholar.google.com) will be searched using 30 different combinations of the most relevant (model) plants and genome editing terms. The first 20 search results, organized by relevance, of each combined search term will be assessed at the title/abstract stage. Additionally, the search engine Google will be used to identify companies working with genome editing and to search on websites of government agencies for clues on the application of genome editing for market approval.
+Furthermore, the references of each review article will be scanned for further relevant papers. All hits from each database will be imported into an EndNote X8.0.1 library file. Duplicates will be removed using the appropriate function within the EndNote software. After removing duplicates the remaining records will be imported into the open-access and non-profit database CADIMA [41] to increase transparency and traceability during the review process.
+Article screening and study inclusion criteria
+Study inclusion criteria
+In order to be included in the systematic map each article has to meet all the following inclusion criteria:
+Relevant population Any model plant or crop produced for agricultural production as well as higher fungi was used. Ornamental and medicinal plants as well as yeast will be excluded.
+Relevant intervention At least one of the following genome editing techniques was used to induce an alteration in the plant genome: clustered regularly interspaced short palindromic repeats/CRISPR associated proteins (CRISPR/Cas), Transcription Activator-like Effector Nuclease (TALENs), Zinc-Zinger Nuclease (ZFN), Meganuclease (MN), oligonucleotide-directed mutagenesis (ODM).
+Relevant outcome Due to the use of a genome editing technique an alteration in the plant genome was reported (insertion, deletion or replacement). Other techniques which do not induce a DSB and therewith do not employ the DNA repair mechanism of the cell will be excluded; among which are TALE (without a nuclease) and variations of a non-functional dCas9 (deadCas9) fused to a methylase, demethylase or transcription factor.
+Primary data Only those references will be included which comprise primary data referring to the use of a genome editing technique to induce a sequence alteration in the plant genome. If there is any doubt about the availability of primary data of an article on title/abstract stage, it will be kept for full text assessment.
+Article screening
+When applying the selection criteria at title/abstract stage, a consistency check will be conducted by all participating reviewers aiming to determine the inter-reviewer agreement. A minimum of 50 references or 10% of the total number up to a maximum of 200 references retrieved by the research will be checked until a kappa value with a score of at least 0.6 indicates a good reviewer agreement. If the kappa value is below 0.6, the reviewer will analyze the reasons for the insufficient kappa value within the whole review team and reassess the inclusion criteria. In a first step, all identified records will be assessed at title/abstract stage. In case that insufficient information is provided, the records will be passed on to the full text stage. Afterwards, the eligibility of records being retained after title/abstract screening will be checked at full text stage. A list of articles excluded at full text stage with the reason for exclusion will be provided. At title/abstract and at full text stage, the inclusion criteria will be applied to all articles by two reviewers working independently from each other. Inconsistencies in rating decisions will be documented and the reasons will be discussed in the review team.
+Study quality assessment
+The aim of this systematic map is to provide a broad overview of the current progress in modifying the plant genome as well as the occurrence of off-target effects observed due to the use of genome editing techniques. Therefore, a full critical appraisal of included studies will not be performed. In order to facilitate the decision whether a systematic review would be worthwhile for being performed on a specific section of the map, data being indicative for the validity of an included study will be extracted (e.g. search for off-targets, off-target detection method).
+Data coding strategy
+For each study, data will be extracted by one reviewer and the extracted data will be cross-checked by a second reviewer to minimize human error.
+The following superordinate categories will be considered:
+• 1.
+Bibliographic information (Reference type, authors, year of publication, title, abstract, keywords, periodical, issue number, page range, volume, DOI/ISBN, corresponding author and the name of the country the corresponding author is located).
+• 2.
+Information answering secondary question one about traits modified by genome editing (genome editing technique, plant species, sequence identifier, trait, kind of modification, progress in research towards application, key topic).
+• 3.
+Information answering secondary question two about the occurrence of off-target effects due to the use of genome editing (search for off-targets, prediction of potential off-targets (in silico), the prediction method used, identification of potential off-targets, detection of off-targets (biased/unbiased), detection method, number of identified off-targets (biased/unbiased).
+More detailed information about the data extraction strategy and the data extraction mode are shown in Additional file 4. In a pilot scheme 5% of the studies retained for data extraction (at least 20) will be checked a priori by all reviewers aiming to assess repeatability of the extraction process.
+Study mapping and presentation
+Included studies will be catalogued in a searchable database as well as in an Excel file. The database will be freely accessible on the project webpage http://www.dialog-gea.de. In addition, eligible studies will be characterized using descriptive statistics on key trends, including:
+Frequency distribution of countries which are working on genome editing.
+Frequency of different plants used for the application of genome editing.
+Frequency distribution of the use of each genome editing technique.
+Frequency for the additional analyses of off-target effects when using a genome editing technique.
+Frequency distribution of the method used to predict/detect off-target effects.
+How often off-targets were detected dependent on the used detection method.
+Knowledge gaps (un- or underrepresented subtopics that warrant further primary research) and knowledge clusters (well-represented subtopics that are amenable to full synthesis by a systematic review) will be identified e.g. by cross-tabulating key meta-data variables in heat maps. Furthermore, all results gained within this systematic map will be summarized in a narrative report. Moreover, additional files will include:
+An EndNote database of all studies included in the systematic map.
+An overview of all studies excluded at full text stage with the reason for exclusion.
+References
+• 1.
+Ronald P. Plant genetics, sustainable agriculture and global food security. Genetics. 2011;188:11–20. https://doi.org/10.1534/genetics.111.128553.
+Article  Google Scholar
+• 2.
+Becker H. Pflanzenzüchtung. 2nd ed. Stuttgart: UTB; 2011.
+Google Scholar
+• 3.
+FAO: Committee on Agriculture (17th session), 06.03.2003. http://www.fao.org/docrep/meeting/006/y8704e.htm. Accessed 5 Mar 2018.
+• 4.
+Sovová T, Kerins G, Demnerová K, Ovesná J. Genome editing with engineered nucleases in economically important animals and plants: state of the art in the research pipeline. Curr Issues Mol Biol. 2017. https://doi.org/10.21775/cimb.021.041.
+Article  Google Scholar
+• 5.
+Schlegel RHJ. Dictionary of plant breeding. 2nd ed. Boca Raton: CRC Press; 2009.
+Google Scholar
+• 6.
+Barton KA, Binns AN, Matzke AJM, Chilton M-D. Regeneration of intact tobacco plants containing full length copies of genetically engineered T-DNA, and transmission of T-DNA to R1 progeny. Cell. 1983;32:1033–43. https://doi.org/10.1016/0092-8674(83)90288-X.
+CAS  Article  Google Scholar
+• 7.
+Herrera-Estrella L, Depicker A, van Montagu M, Schell J. Expression of chimaeric genes transferred into plant cells using a Ti-plasmid-derived vector. Nature. 1983;303:209–13. https://doi.org/10.1038/303209a0.
+CAS  Article  Google Scholar
+• 8.
+Hartung F, Schiemann J. Precise plant breeding using new genome editing techniques: opportunities, safety and regulation in the EU. Plant J. 2014;78:742–52. https://doi.org/10.1111/tpj.12413.
+CAS  Article  Google Scholar
+• 9.
+Sprink T, Eriksson D, Schiemann J, Hartung F. Regulatory hurdles for genome editing: process- vs. product-based approaches in different regulatory contexts. Plant Cell Rep. 2016;35:1493–506. https://doi.org/10.1007/s00299-016-1990-2.
+CAS  Article  Google Scholar
+• 10.
+Govindan G, Ramalingam S. Programmable site-specific nucleases for targeted genome engineering in higher eukaryotes. J Cell Physiol. 2016;231:2380–92. https://doi.org/10.1002/jcp.25367.
+CAS  Article  Google Scholar
+• 11.
+SAM High Level Group of Scientific Advisors. New techniques in agricultural biotechnology. 2017. ISBN 978-92-79-66222-5. https://doi.org/10.2777/574498. https://ec.europa.eu/research/sam/index.cfm?pg=agribiotechnology#. Accessed 18 July 2017.
+• 12.
+European Food Safety Authority. Scientific opinion addressing the safety assessment of plants developed using zinc finger nuclease 3 and other site-directed nucleases with similar function. EFSA J. 2012;10(10):2943.
+Article  Google Scholar
+• 13.
+van de Wiel CCM, Schaart JG, Lotz LAP, Smulders MJM. New traits in crops produced by genome editing techniques based on deletions. Plant Biotechnol Rep. 2017;11:1–8. https://doi.org/10.1007/s11816-017-0425-z.
+Article  Google Scholar
+• 14.
+Podevin N, Davies HV, Hartung F, Nogué F, Casacuberta JM. Site-directed nucleases: a paradigm shift in predictable, knowledge-based plant breeding. Trends Biotechnol. 2013;31:375–83. https://doi.org/10.1016/j.tibtech.2013.03.004.
+CAS  Article  Google Scholar
+• 15.
+Puchta H, Fauser F. Synthetic nucleases for genome engineering in plants: prospects for a bright future. Plant J. 2014;78:727–41. https://doi.org/10.1111/tpj.12338.
+CAS  Article  Google Scholar
+• 16.
+Rinaldo AR, Ayliffe M. Gene targeting and editing in crop plants: a new era of precision opportunities. Mol Breeding. 2015;35:1126. https://doi.org/10.1007/s11032-015-0210-z.
+CAS  Article  Google Scholar
+• 17.
+Roth N, Klimesch J, Dukowic-Schulze S, Pacher M, Mannuss A, Puchta H. The requirement for recombination factors differs considerably between different pathways of homologous double-strand break repair in somatic plant cells. Plant J. 2012;72:781–90. https://doi.org/10.1111/j.1365-313X.2012.05119.x.
+CAS  Article  Google Scholar
+• 18.
+Djukanovic V, Smith J, Lowe K, Yang M, Gao H, Jones S, et al. Male-sterile maize plants produced by targeted mutagenesis of the cytochrome P450-like gene (MS26) using a re-designed I-CreI homing endonuclease. Plant J. 2013;76:888–99. https://doi.org/10.1111/tpj.12335.
+CAS  Article  Google Scholar
+• 19.
+D’Halluin K, Vanderstraeten C, van Hulle J, Rosolowska J, van den Brande I, Pennewaert A, et al. Targeted molecular trait stacking in cotton through targeted double-strand break induction. Plant Biotechnol J. 2013;11:933–41. https://doi.org/10.1111/pbi.12085.
+CAS  Article  Google Scholar
+• 20.
+Kim Y-GG, Cha J, Chandrasegaran s. Hybrid restriction enzymes: zinc finger fusions to Fok I cleavage domain. Proc Natl Acad Sci USA. 2010;1996(93):1156–60.
+Google Scholar
+• 21.
+Boch J, Bonas U. Xanthomonas AvrBs3 family-type III effectors: discovery and function. Annu Rev Phytopathol. 2010;2010(48):419–36. https://doi.org/10.1146/annurev-phyto-080508-081936.
+CAS  Article  Google Scholar
+• 22.
+Khandagale K, Nadaf A. Genome editing for targeted improvement of plants. Plant Biotechnol Rep. 2016;10:327–43. https://doi.org/10.1007/s11816-016-0417-4.
+Article  Google Scholar
+• 23.
+Jinek M, Chylinski K, Fonfara I, Hauer M, Doudna JA, Charpentier E. A programmable dual-RNA-guided DNA endonuclease in adaptive bacterial immunity. Science. 2012;337:816–21. https://doi.org/10.1126/science.1225829.
+CAS  Article  Google Scholar
+• 24.
+Subburaj S, Tu L, Jin Y-T, Bae S, Seo PJ, Jung YJ, Lee G-J. Targeted genome editing, an alternative tool for trait improvement in horticultural crops. Hortic Environ Biotechnol. 2016;57:531–43. https://doi.org/10.1007/s13580-016-0281-8.
+CAS  Article  Google Scholar
+• 25.
+Doudna JA, Charpentier E. Genome editing. The new frontier of genome engineering with CRISPR–Cas9. Science. 2014;346:1258096. https://doi.org/10.1126/science.1258096.
+CAS  Article  Google Scholar
+• 26.
+Hilscher J, Bürstmayr H, Stoger E. Targeted modification of plant genomes for precision crop breeding. Biotechnol J. 2017;12:1–14. https://doi.org/10.1002/biot.201600173.
+CAS  Article  Google Scholar
+• 27.
+Lusser M, Parisi C, Plan D, Rodriguez-Cerezo E. New plant breeding techniques. State-of-the-art and prospects for commercial development. 2011. http://ipts.jrc.ec.europa.eu/publications/pub.cfm?id=4100. Accessed 22 Aug 2017.
+• 28.
+Nationale Akademie der Wissenschaften Leopoldina, Deutsche Forschungs-gemeinschaft, acatech‒Deutsche Akademie der Technikwissenschaften, Union der deutschen Akademien der Wissenschaften. Chancen und Grenzen des genome editing/the opportunities and limits of genome editing. 2015; ISBN: 978-3-8047-3493-7.
+• 29.
+Duan Y-B, Li J, Qin R-Y, Xu R-F, Li H, Yang Y-C, et al. Identification of a regulatory element responsible for salt induction of rice OsRAV2 through ex situ and in situ promoter analysis. Plant Mol Biol. 2016;90:49–62. https://doi.org/10.1007/s11103-015-0393-z.
+CAS  Article  Google Scholar
+• 30.
+Demorest ZL, Coffman A, Baltes NJ, Stoddard TJ, Clasen BM, Luo S, et al. Direct stacking of sequence-specific nuclease-induced mutations to produce high oleic and low linolenic soybean oil. BMC Plant Biol. 2016;16:225. https://doi.org/10.1186/s12870-016-0906-1.
+CAS  Article  Google Scholar
+• 31.
+Chandrasekaran J, Brumin M, Wolf D, Leibman D, Klap C, Pearlsman M, et al. Development of broad virus resistance in non-transgenic cucumber using CRISPR/Cas9 technology. Mol Plant Pathol. 2016;17:1140–53. https://doi.org/10.1111/mpp.12375.
+CAS  Article  Google Scholar
+• 32.
+Gocal GFW, Schöpke C, Beetham PR. Oligo-mediated targeted gene editing. In: Advances in new technology for targeted modification of plant genomes. p. 73–89. https://doi.org/10.1007/978-1-4939-2556-8_5.
+Google Scholar
+• 33.
+Shi J, Gao H, Wang H, Lafitte HR, Archibald RL, Yang M, et al. ARGOS8 variants generated by CRISPR–Cas9 improve maize grain yield under field drought stress conditions. Plant Biotechnol J. 2017;15:207–16. https://doi.org/10.1111/pbi.12603.
+CAS  Article  Google Scholar
+• 34.
+Wang Y, Cheng X, Shan Q, Zhang Y, Liu J, Gao C, Qiu J-L. Simultaneous editing of three homoeoalleles in hexaploid bread wheat confers heritable resistance to powdery mildew. Nat Biotechnol. 2014;32:947–51. https://doi.org/10.1038/nbt.2969.
+CAS  Article  Google Scholar
+• 35.
+Barakate A, Stephens J. An Overview of CRISPR-based tools and their improvements: new opportunities in understanding plant–pathogen interactions for better crop protection. Front Plant Sci. 2016;7:765. https://doi.org/10.3389/fpls.2016.00765.
+Article  Google Scholar
+• 36.
+Xue C, Seetharam AS, Musharova O, Severinov KJ, Brouns SJ, Severin AJ, Sashital DG. CRISPR interference and priming varies with individual spacer sequences. Nucleic Acids Res. 2015;43:10831–47. https://doi.org/10.1093/nar/gkv1259.
+CAS  Article  Google Scholar
+• 37.
+Tycko J, Myer VE, Hsu PD. Methods for optimizing CRISPR–Cas9 genome editing specificity. Mol Cell. 2016;63:355–70. https://doi.org/10.1016/j.molcel.2016.07.004.
+CAS  Article  Google Scholar
+• 38.
+Agapito-Tenfen SZ, Wikmark O-G. Current status of emerging technologies for plant breeding. Biosafety and knowledge gaps of site directed nucleases and oligonucleotide-directed mutagenesis. Norway: GenØk-Centre for Biosafety; 2015.
+Google Scholar
+• 39.
+Zhang X-H, Tee LY, Wang X-G, Huang Q-S, Yang S-H. Off-target effects in CRISPR/Cas9-mediated genome engineering. Mol Ther Nucleic Acids. 2015;4:e264. https://doi.org/10.1038/mtna.2015.37.
+CAS  Article  Google Scholar
+• 40.
+Kanchiswamy CN, Maffei M, Malnoy M, Velasco R, Kim J-S. Fine-tuning next-generation genome editing tools. Trends Biotechnol. 2016;34:562–74. https://doi.org/10.1016/j.tibtech.2016.03.007.
+CAS  Article  Google Scholar
+• 41.
+Kohl C, McIntosh EJ, Unger S, Haddaway NR, Kecke S, Schiemann J, Wilhelm R. Online tools supporting the conduct and reporting of systematic reviews and systematic maps: a case study on CADIMA and review of existing tools. Environ Evid. 2018;7:2420. https://doi.org/10.1186/s13750-018-0115-5.
+Article  Google Scholar
+Download references
+Authors’ contributions
+DM, FH, TS, CK, DK, JS and RW conceived the review question. DM undertook pilot research. DM drafted the protocol text with support from FH, TS, CK, DK and RW. DM will coordinate the mapping process, analysis and presentation of the results. DM, FH, TS and DK will screen the articles. All authors read and approved the final manuscript.
+Acknowledgements
+The authors wish to thank Maren Fischer for carefully reading the manuscript.
+Competing interests
+The authors declare that they have no competing interests.
+Availability of data and materials
+The datasets generated and/or analyzed during the current study are available at the CADIMA website (http://www.cadima.info) as well as at the ELSA-GEA homepage http://www.dialog-gea.de.
+Consent for publication
+Not applicable.
+Ethics approval and consent to participate
+Not applicable.
+Funding
+This systematic map is part of the ELSA-GEA project funded by the Federal Ministry of Education and Research (BMBF).
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Author information
+Affiliations
+Institute for Biosafety in Plant Biotechnology, Federal Research Centre for Cultivated Plants, Julius Kühn-Institut, Erwin-Baur-Straße 27, 06484, Quedlinburg, Germany
+Dominik Modrzejewski, Frank Hartung, Thorben Sprink, Dörthe Krause, Christian Kohl, Joachim Schiemann & Ralf Wilhelm
+Authors
+• Dominik Modrzejewski
+View author publications
+You can also search for this author in PubMed Google Scholar
+• Frank Hartung
+View author publications
+You can also search for this author in PubMed Google Scholar
+• Thorben Sprink
+View author publications
+You can also search for this author in PubMed Google Scholar
+• Dörthe Krause
+View author publications
+You can also search for this author in PubMed Google Scholar
+• Christian Kohl
+View author publications
+You can also search for this author in PubMed Google Scholar
+• Joachim Schiemann
+View author publications
+You can also search for this author in PubMed Google Scholar
+• Ralf Wilhelm
+View author publications
+You can also search for this author in PubMed Google Scholar
+Corresponding author
+Correspondence to Dominik Modrzejewski.
+Additional files
+Additional file 1. List of publication in test library.
+Additional file 2. Search string development.
+Additional file 3. Final search terms.
+Additional file 4. Data extraction strategy.
+Rights and permissions
+Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+Reprints and Permissions
+About this article
+Cite this article
+Modrzejewski, D., Hartung, F., Sprink, T. et al. What is the available evidence for the application of genome editing as a new tool for plant trait modification and the potential occurrence of associated off-target effects: a systematic map protocol. Environ Evid 7, 18 (2018). https://doi.org/10.1186/s13750-018-0130-6
+Download citation
+Received: 09 November 2017
+Accepted: 28 July 2018
+Published: 16 August 2018
+DOI: https://doi.org/10.1186/s13750-018-0130-6
+Keywords
+• New plant breeding techniques
+• CRISPR/Cas
+• TALENs
+• Meganucleases
+• Zinc-finger nucleases
+• Oligonucleotide-directed mutagenesis
+• Chimeric oligonucleotides
+• Unintended effects
+• Evidence map
+• Evidence synthesis
+Download PDF
+Advertisement
+Environmental Evidence
+ISSN: 2047-2382
+Contact us
+• Submission enquiries: Access here and click Contact Us
+• General enquiries: info@biomedcentral.com
+• Read more on our blogs
+• Receive BMC newsletters
+• Manage article alerts
+• Language editing for authors
+• Scientific editing for authors
+• Policies
+• Accessibility
+• Press center
+• Support and Contact
+• Leave feedback
+• Careers
+Follow BMC
+• BMC Twitter page
+• BMC Facebook page
+• BMC Weibo page
+By using this website, you agree to our Terms and Conditions, Privacy statement and Cookies policy. Manage the cookies we use in the preference centre.
+© 2020 BioMed Central Ltd unless otherwise stated. Part of Springer Nature.

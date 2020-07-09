@@ -1,0 +1,816 @@
+Skip to main content
+Advertisement
+Search
+• Explore journals
+• Get published
+• About BMC
+• My account
+Search all BMC articles
+Search
+Environmental Evidence
+• Home
+• About
+• Articles
+• Submission Guidelines
+Download PDF
+• Systematic review
+• Open Access
+• Published: 31 January 2013
+Assessing community-based conservation projects: A systematic review and multilevel analysis of attitudinal, behavioral, ecological, and economic outcomes
+• Jeremy Brooks1,
+• Kerry Ann Waylen2 &
+• Monique Borgerhoff Mulder3
+Environmental Evidence volume 2, Article number: 2 (2013) Cite this article
+40k Accesses
+65 Citations
+18 Altmetric
+Metrics details
+Abstract
+Background
+Community-based conservation (CBC) promotes the idea that long-term conservation success requires engaging with, and providing benefits for local communities. Though widespread, CBC projects are not always successful or free of controversy. With criticisms on all sides of the conservation debates, it is critical to have a better understanding of (1) whether CBC is an effective conservation tool, and (2) of the factors associated with the success or failure of CBC projects, and the scale at which these factors operate. Recent CBC reviews have typically examined only a single resource domain, have limited geographic scope, consider only one outcome, or ignore the nested nature of socioecological systems. To remedy these issues, we use a newly coded global comparative database of CBC projects identified by systematic review to evaluate success in four outcome domains (attitudes, behaviors, ecological, economic) and explore synergies and tradeoffs among these outcomes. We test hypotheses about how features of the national context (H-NC), project design (H-PD), and local community characteristics (H-CC) affect these four measures of success.
+Methods
+To add to a sample of 62 projects that we used from previous systematic reviews, we systematically searched the conservation literature using six terms in four online databases. To increase the number of projects for each country in order to conduct a multilevel analysis, we also conducted a secondary search using the Advancing Conservation in a Social Context online library. We coded projects for 65 pieces of information. We conducted bivariate analyses using two-dimensional contingency tables and proportional odds logistic regression and conducted multivariate analyses by fitting reduced form proportional odds logistic regression models that were selected using a forward stepwise AIC approach.
+Results
+The primary and secondary searches produced 74 new projects to go along with the 62 projects from previous reviews for a total of 136 projects. The analyses suggest that project design, particularly capacity building in local communities, is critical in generating success across all outcomes. In addition, some community characteristics, such as tenure regimes and supportive cultural beliefs and institutions, are important for some aspects of project success. Surprisingly, there is less evidence that national context systematically influences project outcomes.
+Conclusions
+Our study supports the idea that conservation projects should be carefully designed to be effective and that some characteristics of local communities can facilitate success. That well-designed projects can prevail over disadvantages relating to the pre-existing national and local context is encouraging. As the evidence base on CBC grows, it will be useful to repeat this analysis with additional search terms, and consider additional variables related to national context to further evaluate the role of broader socio-political and economic contexts.
+Background
+Conservation practitioners continue to seek viable alternatives to strict protectionism, and it is increasingly argued that projects must achieve not only ecological but also economic, and social goals [1]. Since the 1980s, conservation efforts in developing countries have generally tried to incorporate the interests and views of local people, an approach often referred to as community-based conservation (CBC) [2]. A variety of approaches fall under the umbrella of CBC; each diverse in their details [3]. What unites these approaches, however, is that they typically aim to combine elements that link conservation with development, engage local communities as active stakeholders, and/or devolve control over natural resources. The shared rationale is that promoting socio-economic benefits, either directly or by compensating the costs associated with conservation, is important in both its own right, and as a key strategy for slowing deforestation and protecting endangered habitats and species.
+Contemporary CBC nevertheless faces criticism on several fronts. Communities are often idealized as harmonious units [4], decentralization initiatives stall in their implementation because centralized governments are unwilling to cede power [5, 6], and market-based approaches to community-based natural resource management [7] are challenged for assuming that resource commercialization is compatible with conservation goals [8]. Some conservationists anticipate sharp tradeoffs between conservation and economic development and fear that delegitimizing conservation as a priority will further water down already limited funds [9].
+With such controversies unresolved, and a strong need to make more effective use of the billions of dollars devoted to CBC efforts globally [10], we need a better understanding of the factors associated with the success and failure of conservation projects, and the scale at which these factors operate. There are many arguments in the literature about how to improve the practice of conservation [11]. Here, we directly test some of these arguments using a large comparative database of CBC projects identified with a systematic literature review. We use a multi-level design and model-fitting approach to evaluate CBC success in four outcomes (attitudinal, behavioral, ecological, economic) by testing a series of hypotheses about how features of the national context (H-NC), project design (H-PD), and community-level characteristics (H-CC) affect measures of success. We also explore the evidence that synergies between pairs of outcomes may be more common than anticipated.
+Insights from previous reviews
+Despite the prominence of CBC strategies, and strong arguments for and against their effectiveness [12], there have been few quantitative, comparative evaluations of CBC successes and failures. Two previous systematic reviews have studied the determinants of conservation success, focusing on the use of development as a conservation tool [13] and the effect of local cultural context and project engagement with local culture [14]. These reviews provide valuable insights into determinants of conservation success and the use of systematic reviews to understand CBC project outcomes. Although these studies focused on various aspects of project design and local context, they did not consider the influence of the broader socio-political institutional framework, such as quality of governance, economic inequality, or development progress and they had somewhat limited sample sizes.
+Several other qualitative [15–17] and quantitative [18–24] studies have been conducted on CBC or closely related topics. These studies suggest that a number of factors can be associated with project success and failure, including leadership, strong local institutions, local participation, capacity building, secure rights to land and resources, and provision and equitable distribution of economic benefits. Nevertheless most of these studies (a) examine only a single resource domain (e.g. forestry), (b) have limited geographic scope, (c) consider only one outcome (e.g. ecological success or economic success), and/or (d) ignore the nested nature of socio-ecological systems [25]. Nested analyses are particularly important because evidence from recent studies [23, 26, 27] suggests that national governance institutions, corruption, and standards of living can influence project outcomes. In fact, Tallis et al. [22] explicitly call for such a review to examine the trend that projects are successful in countries with effective government [28]. Therefore, this study was motivated by a desire to assess the effect of non-local factors on conservation projects in addition to the goal of increasing the sample size from previous reviews for a more robust statistical analysis.
+Our work is influenced by the systematic comparative work undertaken by the Workshop in Political Theory and Policy Analysis at Indiana University led by Elinor Ostrom as well as by efforts to systematically examine the effectiveness of different environmental management and policy initiatives through the Centre for Evidence Based Conservation [29]. Ostrom and her colleagues argue for the need to collect standardized data with which to examine the success of common property institutions (CPIs) and linked socioecological systems (SESs) [25, 30]. This work has produced some remarkable comparative articles [31–33], and influenced much other work, including some of the hypotheses introduced in Brooks et al. [13].
+Of particular relevance to this study is Ostrom’s introduction of the framework of decomposable systems and nested structures as a tool for analyzing CPIs and SESs [25, 34]. Our goal here is to employ this framework to understand the interaction between multiple factors and across multiple scales for existing programs devoted to linking conservation and development. Useful initial advances in this area (see [21, 35, 36]) suggest the utility of this approach, highlighting various sets of biophysical, social, economic and institutional considerations to be important in different contexts. We believe that it is now important to analyze more precisely the context itself, in particular the external socio-political context – such as measures of development progress, income inequality, and the effectiveness of state-level institutions - within which a natural resource management scheme exists.
+The 136 CBC projects in our sample focus on conservation challenges in managing forests, grasslands, wildlife, and fisheries in 40 countries, and are nested within national socio-economic and political contexts. As in the previous systematic reviews [13, 14], we used four measures of success in the analyses (attitudinal, behavioral, ecological, economic). We use these four outcomes measures because many of the debates in conservation are a result of an interest in different outcomes [37–39] reflecting the multiple goals inherent to CBC: for more explanation of these domains and the relationships between them see the description of outcome variables below and [18].
+We also want to note that this study contains several features that may not be typical for systematic reviews including the objective of testing multiple hypotheses, the use of secondary, national-level data, and a targeted search in a digital library. We describe each of these features below and justify their inclusion in the study.
+Objectives and hypotheses
+Objectives
+We have four objectives for this review. The primary objective is to examine the overall effectiveness of community-based conservation. The second and third objectives build on the primary objective by exploring the factors that might affect CBC success. For these two objectives, we test a number of hypotheses about how aspects of national context, project design, and community characteristics relate to multiple project outcomes to understand when and in what contexts CBC is likely to succeed. As such, we also present nine hypotheses for objectives two and three in the next section. Because of the scope of this study, the number of hypotheses tested, and corresponding large number of variables used in the analysis, this section of the study should be viewed as a test of broad hypotheses that can provide insights to generate additional research questions and hypotheses and point to avenues for future research. Our final objective is to determine how well our coding matches the intent of the authors of the articles from which we extracted our data.
+Objective 1. Is community-based conservation an effective conservation tool?
+The overarching question for this review is whether and to what degree CBC is effective as a strategy for solving diverse and multi-dimensional conservation problems. With this objective, we are building on previous systematic reviews [13, 14] by using a larger sample size.
+Objective 2. Which aspects, if any, of national socio-economic and political contexts affect the outcomes of local-level CBC projects?
+Using studies that provide information on at least two of the four outcome variables, we will assess the role of national socio-political context on the outcomes of community-based conservation projects. We are explicitly operationalizing the insights of Ostrom [25], and others [40], by examining how the success of different natural resource management strategies is both facilitated and constrained by aspects of the national socio-economic and political contexts in which these strategies are implemented.
+Objective 3. Which aspects, if any, of project design and community characteristics affect the outcome of CBC projects?
+Using studies that provide information on at least two of the four outcome variables, we will expand the dataset built through the previous reviews [13, 14] to note the growth in the evidence base and determine whether the results of these reviews (pertaining to local cultural context, market incursion, local participation, and access to resources) are refuted or more strongly supported. In doing so, we will examine which aspects of project design and community characteristics are associated with successful outcomes
+Objective 4: Coding validity
+The process of conducting an analytical systematic review by coding for variables in the literature is assumed to be valid. It is possible, however, that the way researchers code information about projects differs from the way the authors of project reports and articles intend their information to be interpreted. In this study, we asked the corresponding author of each article to respond to a questionnaire composed of subset of our coding sheet. Although we distributed the questionnaire primarily for the purpose of filling in missing values in the dataset, we used the opportunity to examine how well our coding matched the authors’ responses to the questionnaire as a way of testing the validity of our coding. This test is an initial step at examining the ability of coders to accurately extract information from project reports and articles for the purposes of a systematic review.
+Hypotheses for objectives 2 and 3
+Conservation typically requires restraint in current resource use to obtain long-term benefits from the resource base. Therefore, conservation behavior requires individuals to absorb short-term costs and potentially share benefits with a larger number of people. As such, conservation creates a collective action problem [41] whereby individuals are reluctant to cooperate by forgoing resource use without assurances that others will do the same. Deductive theory [17, 42] and inductive observations [43], provide insights into the conditions that both favor and disfavor the adoption of conservation behavior. From these insights, we predict that projects that contain the sets of factors described below will be more likely to succeed in all outcomes. The hypotheses that we are testing are derived from the theoretical perspectives on conservation behavior and common pool resource management noted above as well as from a careful reading of the CBC literature and the outcomes of previous CBC reviews and summaries [14, 15, 18, 19, 22, 44]. The variables listed in brackets after each hypothesis (as italicized text within parenthases) are described more fully in Table 1 and summary statistics are provided in Table 2. Note that conceptually similar variables were combined for the multivariate analysis. For more discussion of why variables were combined prior to the multivariate analysis see section 3.9.2 - Multivariate analysis. In the text below, where a combined variable was used for the multivariate analysis, its name is presented within square brackets preceding the relevant separate variables.
+Table 1 Description, measurement and coding of predictors and outcomes
+Full size table
+Table 2 Summary statistics for all independent and dependent variables for raw data before imputing missing values
+Full size table
+National context (H-NC)
+As noted above, conservation is akin to other forms of cooperation and faces similar obstacles. As such, conservation attitudes and behaviors require conditions of trust [27, 45]. The degree of stability, transparency, and accountability of national-level governance institutions might influence project outcomes by affecting confidence in local-level institutions and governance [26]. Despite the push for decentralization, well-functioning central governments may also be necessary to counteract the patronage that may exist, or can potentially arise, in rural communities [46].
+Hypothesis 1: NC1 - National political context: Success is more likely when projects are implemented in countries where there is greater transparency and stability in governance and where the populace has a voice in politics and enjoys common civil liberties. [NC-Governance, NC-Rights].
+Conservation efforts often restrict access to, or use of, natural resources. In societies with low or highly unequal standards of living these restrictions may be unpopular and full conformity may not be possible. In addition, low standards of living and low access to education and healthcare may also limit conservation efforts because individuals in such conditions are more likely to value immediate benefits from resources more than anticipated future benefits [47].
+Hypothesis 2: NC2 - National socioeconomic context: Success is more likely when projects are implemented in countries with a higher level of development progress as measured by the Human Development Index and in which there is greater economic equality as measured with Gini inequality coefficients. [NC-HDI, NC-Gini]
+Project design (H-PD)
+The design of projects can affect incentives to participate in conservation as well as the payoffs associated with foregoing resource use by determining who drafts project rules, what and how many benefits are provided and to whom, and the degree to which access to and use of resources is permitted. We broadly categorize these characteristics along the four dimensions of decentralization, utilization, effective benefit provision, and investment in human/social capital. We derive hypotheses for each of these dimensions below.
+A large body of literature suggests that devolving decision-making and control to local communities can be beneficial from a conservation perspective [48]. Local bodies are thought to be more responsive to local conditions, have more detailed knowledge of resource dynamics, and have more incentive to harvest resources sustainably because they tend to feel more secure in their access to future benefits and thus discount future returns less than outsiders [48]. Similarly, by engaging with local cultural traditions and leaders projects may encourage greater local participation and insight and decrease the likelihood of failure due to cultural insensitivity [49].
+Hypothesis 3: PD1 - Participation/Engagement: Success is more likely when there is more emphasis on participation in initiation, establishment, and day-to-day running of the project, and when the project engages positively with local governance institutions and with local cultural beliefs, practices and traditions. [PD-Participation (combined PD-Impetus, PD-Establishment, and PD-Decision-making), PD-Engagement (combined PD-Approach local culture and PD-Approach local institutions)]
+The evidence and arguments that resource utilization can be an effective conservation tool are less straightforward. While protectionism can sometimes result in ecological success [50], access to resources may produce economic and other benefits, which provides communities with an incentive to extract resources sustainably [51]. In addition, restricting or prohibiting access to resources, or providing insufficient compensation for the costs associated with the loss of access, may engender resentment [52] and subsequent biodiversity loss [53]. Our hypothesis is based on the latter logic.
+Hypothesis 4: PD2 - Access to and utilization of resources: Success is more likely when projects emphasize greater levels of utilization and subsequently generate support for, and compliance with, conservation initiatives. [PD-Protectionism, PD-Resource use]
+Linking resource use directly to performance payments [54], or providing alternative livelihoods [47], are examples of economic benefits that can lead to reduced harvests. The success of CBC projects may, therefore, depend on benefits provided through income from sales and wage labor opportunities, development infrastructure, or direct compensation. Because elite capture of benefits has been found to be a core obstacle to effective decentralization of resource management [55–57] economic benefits must also be equitably distributed among community members, with no capture of benefits by community elites.
+Hypothesis 5: PD3 - Project benefits: Success is more likely when projects provide clear and well-directed economic benefits, and ensure that such benefits are shared equitably and without elite capture. [PD-Economic benefits, PD-Equity (combines PD-Equitable distribution and PD-Elite capture)]
+Investing in human and social capital (including environmental education) in local communities may facilitate positive outcomes by lowering the costs associated with developing and enforcing local rules about resources use - referred to as transaction costs - and strengthening the ability of community members to coordinate [58]. Communities with greater capacity, knowledge, and social cohesion, are expected to have an easier time cooperating to manage resources because greater trust has developed [43, 59]. For example, one study of enterprise-based projects found that training locals as managers and using community policing was a better predictor of project success than economic returns [60].
+Hypothesis 6: PD4 - Human/Social capital: Success is more likely when projects invest in human and social capital. [PD-Capacity (combines PD-Capacity skills and PD-Capacity institutions), PD-Social capital, PD-Environmental education]
+Community characteristics (H-CC)
+Finally, characteristics of local communities might affect the likelihood of achieving collective action for conservation. Integration with local and global markets, threats from outside markets, community institutions, and population size and heterogeneity may be particularly important [43, 61].
+Logic from neoliberal economics suggests that market integration enables rural communities to benefit from sustainably utilizing, protecting, and conserving their resources [7]. Market integration can provide substitutes for locally harvested resources [47], add value to local products [62], and/or provide external wage labor opportunities that result in decreased pressure on local resources for subsistence needs [47]. On the other hand, market integration can potentially increase pressure on vulnerable resources and habitats through opportunities for market sales and rising prices, which can create incentives for higher rates of extraction [63]. An additional problem is that new roads that often accompany or facilitate market integration can attract migrants and put even more pressure on local resources [64]. Our hypothesis is based on the view that success is most likely in communities that are market integrated.
+Hypothesis 7: CC1 - Market integration: Success is more likely when projects are in communities that are more integrated into local and global markets and their species/habitats of interest face fewer preexisting threats. [CC-Market access, CC-Threat]
+Strong community institutions can either incentivize or constrain the behavior of resource users [48] and effective local governance and charismatic leadership can inspire trust that these institutions will function as intended [23]. Clearly-defined rights for excluding outsiders and managing resources are also important because communities with these rules provide the security that rights over future harvests are protected [31, 65]. Secure tenure over land and resources gives communities more buy-in, facilitates cooperation among users, enables greater flexibility in rules, and can result in communities valuing delayed returns to resources, all of which can contribute to good outcomes [15, 17, 31]. Finally, when community members are familiar with preexisting compatible institutions [66], one can expect more compliance and a higher likelihood of positive outcomes.
+Hypothesis 8 CC2 - Supportive local context: Success is more likely when projects are in communities with effective local governance, institutions that align with project goals, well-defined land tenure, and strong leadership. [CC-Local Institutions (combines CC-Effective local government and CC-Supportive local culture), CC-Tenure, CC-Charisma]
+Finally, both community size and heterogeneity can affect project success [43]. There is no consensus regarding the relationship between population size and successful community resource management with theory and empirical studies suggesting that there may be a positive linear relationship [67, 68], a negative linear relationship [32, 69] or an inverted U-shaped relationship [70]. In the latter case, the expectation is that small populations are unable to absorb the costs of coordinating to develop and enforce management institutions whereas large populations suffer prohibitively high costs of such coordination [71]. We use as our hypothesis the prediction of a U-shaped relationship, which is supported by empirical research [70]. CBC outcomes also depend on the degree of community heterogeneity and whether that heterogeneity is economic, socioeconomic, or political [72]. Similar to the uncertainty about the effects of group size on collective action, there is conflicting evidence about the effects of heterogeneity on community resource management outcomes [73, 74]. Here we make the simplest and most general prediction that socioeconomic heterogeneity has negative effects on outcome success [72, 75].
+Hypothesis 9: CC3 - Local context: Success is more likely when projects are in communities with moderate sized human populations, and in communities that are more culturally/ethnically homogenous. [CC-Population size, CC-Population heterogeneity]
+We also controlled for the length of time the project has been running (CTR- Yrs. running), the first author’s disciplinary background and affiliation (CTR-Auth discipline), and the status of the ecoregion in which the project was conducted (CTR-Ecoregion status).
+Methods
+Search strategy
+The protocol for this systematic review (CEE-09-021) can be found at the following URL: http://www.environmentalevidence.org/SR82.html and the final coding protocol can be found in Additional file 1: Appendix A. The initial set of 62 projects in this study was taken from previous systematic reviews conducted by Brooks et al. [13] and Waylen et al. [14]. Six projects from Waylen et al. [22] were not included in this review because they were covered by more recent studies identified by the current search. JSB and KAW collected all articles used in the previous systematic reviews.
+We expanded this initial sample by searching the publication databases ISI Web of Science, Anthropology Plus, and JSTOR, and by subsequently examining the first 500 hits for each search term on Google Scholar. We searched these databases for the years 2007 (when Waylen et al. [14] ended their search) to August 2009 (when the current review began). JSB conducted all new searches for the study, scanned all titles and abstracts and, where appropriate, completed the full text review. In cases of uncertainty, JSB sent a copy of the article to KAW for review and consultation.
+All searches were conducted in English using the search terms listed below. Each search term phrase was used individually:
+– community based conservation (including variants community-based conservation, “community based conservation”, “community-based conservation”)
+– integrated conservation and development (including variant “integrated conservation and development”)
+– ICDP
+– CBC
+– community conservation (including variant “community conservation”)
+– community based natural resource management (including variants community-based natural resource management, “community based natural resource management”, “community-based natural resource management)
+Specialist search
+A secondary search to find additional projects from each country already included in our sample was also conducted. This secondary search was conducted because we required as many cases as possible per country to investigate the effect of national predictors. The search was conducted using the digital library compiled by Advancing Conservation in a Social Context (ACSC) [76]. Because the ACSC library contains only sources that address conservation issues and projects, we searched the library by country name rather than the search terms listed above. JSB and a research assistant conducted this search. The research assistant was trained to identify projects in articles that met the search criteria. Following this training, the research assistant provided a summary of each of the projects in articles that were selected for a full review along with her inclusion/exclusion decision. The research assistant noted articles in which she was uncertain of the final decision and referred these to JSB.
+Comprehensiveness of the search
+We cannot be certain that this study includes every publication on relevant CBC and CBC-related projects, particularly since the search was conducted only in English. However, we believe our search was thorough, given that we considered 4,290 articles and our current sample of 136 projects is 5 times larger than our sample in 2006 [13] and over twice as large as the sample from 2010 [14]. In fact, our sample is larger than most, if not all, other reviews of community-based resource management (e.g. Gutierrez et al. [23] use 130 cases, Persha et al. [77] 84 cases, Oldekop et al. [78] 116 cases, Padgee et al. [19] 69 cases, and Cox et al. [44] 91 cases). While this does not provide evidence that our search captured all relevant projects, the systematic use of search terms means that we have a representative sample. Furthermore, we are certain that our search is replicable and we wanted the search to match, as much as possible, those from the previous reviews upon which we were building.
+That said, the concepts and terminology related to CBC are constantly changing, so we would welcome readers to add to our search terms and search in other languages in subsequent studies. Search terms that future researchers should consider are “payment for ecosystem services”, “co-management”, “indigenous protected areas”, and resource specific terms such as “community forestry”, “community wildlife management”, “community fisheries”, and relevant variants of each. Although we captured projects that used these approaches in our search, more may exist. Search terms that are specific to natural resource domains are likely to have captured projects in our sample, (e.g. a study on community forest management is likely to include keywords or text matching our search terms), but this may not always be the case.
+Study inclusion criteria
+Figure 1 provides an overview of the process for identifying which projects were accepted in this review. Projects were accepted if they met six criteria:
+• 1.
+The study was published in the primary or grey literature but not secondary sources. Where more than one acceptable article referred to the same project, we used the most recent article and used the older article to fill in any missing information.
+• 2.
+The study had to provide information on a community-based conservation project, defined broadly as any conservation and development project or any community-based project in which conservation was the primary aim. We define projects as purposeful interventions (either externally initiated or internally initiated) that operate under unique institutional guidelines and have conservation goals. For instance, many interventions in Zimbabwe fall under the CAMPFIRE initiative and are thus considered to be the same general “project” (see criteria 1). The projects in this study vary in size and geographic scope, however, they all aim to directly produce changes in natural resource management by engaging with one or more communities. Each project in this study has separate project management. Thus, our pool may consist of Integrated Conservation and Development (ICD) projects, eco-tourism projects, National Park outreach projects that aim to incorporate communities in conservation planning and practice, extractive reserves, and general community-based natural resource management projects. We did not include interventions designed without conservation goals, such as ecotourism operations set up without explicit conservation aims, or projects reviewing the impact of a protected area on local communities in the absence of a specific project.
+• 3.
+The subject of the CBC intervention could be any community or group of communities in a developing country (see #5 below). We included any study in which a CBC project was initiated in communities regardless of whether or not there was a protected area adjacent to the community or associated with the project.
+• 4.
+Different community-based conservation projects aim to deliver multiple and variable goals, but generally are expected to deliver both societal and ecological improvements. Accordingly, for this study we felt it was important for authors to be cognizant of the multiple goals inherent to CBC, and that without multiple measures of success we would lack a more comprehensive understanding of the effectiveness of the project. Therefore, the study of the specific project had to measure at least two of the four outcomes of interest (attitudinal, behavioral, ecological, economic). See section 3.8.2 Outcome variables for a more detailed description of the four outcome measures).
+• 5.
+The project could not be exclusively located within a most-developed country as determined by 2009 gross national income (GNI) per capita data provided by the World Bank.
+• 6.
+Finally, sufficient information had to be provided about the project. Projects for which there was missing information for more than 33% of important variables were not included. Projects for which an article provided only an overview or a descriptive explanation of implementation and outcomes were not used.
+Figure 1
+Systematic map of the search and inclusion process.
+Full size image
+Decisions about whether to include projects were made jointly by JSB and KAW. Both researchers read articles for projects that qualified for a full review and made a decision about inclusion. If the researchers differed in their decisions, they discussed the case until reaching agreement. A research assistant assisted in evaluating the suitability of projects in the secondary search, but consulted with JSB who made the final decision on inclusion/exclusion.
+Unit of analysis
+There are three terms that are important to keep in mind in regards to the unit of analysis.
+– “project” refers to the distinct CBC intervention that was analyzed and reported on
+– “article” refers to the publication from which data on the project was extracted
+– “study” refers to the research described in the article that pertains to the specific project.
+Potential effect modifiers and reasons for heterogeneity
+To test the aforementioned hypotheses we created a new dataset out of information extracted from the articles in our sample as well as secondary data. We collected information for predictor variables (effect modifiers) in three domains (national context, project design, and community characteristics) and attempted to include all theoretically relevant predictor variables that were feasible to measure given the data available in the articles. The variables in each domain listed below are the same as those listed within the previously stated hypothesis and are described more fully in Table 1.
+– National Context
+– Governance
+– Rights
+– HDI
+– Gini
+– Project Design
+– Participation
+– Engagement
+– Protectionism
+– Resource use
+– Economic benefits
+– Equity
+– Capacity
+– Social capital
+– Environmental education
+Community Characteristics
+– Market integration
+– Threat
+– Local institutions
+– Tenure
+– Charisma
+– Population size
+– Population heterogeneity
+Study quality assessment
+One of our criteria for study inclusion was the quality of the study. Sources for which more than 33% pieces of data were missing were discarded. This metric generally corresponded with articles that the reviewers felt were poorly conducted or presented minimal detail and tenuous conclusions, and therefore served as a filter for project descriptions of particularly low quality. In addition, we assessed the quality of each study with a coding protocol that was based on work by the Cochrane Collaboration (chapters 8 and 13) [79], but modified to account for the realities of conducting research on CBC. We coded for potential conflicts of interest, how well the methods were conveyed, the general study design category, whether the study used appropriate control cases and accounted for confounding variables, and the type of analysis employed. See Table 3 for a full description of each quality assessment variable.
+Table 3 Description of variables used in the quality assessment
+Full size table
+JSB and a research assistant conducted the study quality assessment. Both researchers coded 13 randomly selected projects to test the coding protocol and intercoder reliability. Cohen’s kappa values for intercoder reliability ranged from 0.28 to 1. Variables with a kappa value < 0.50 (conflict of interest, study design category, confounds) were discussed by the researchers and changes were made to the coding protocol to increase clarity. Conducting the reliability test after variables were recoded to reduce the number of categories would also have produced higher Cohen’s Kappa values indicating higher agreement. JSB coded 51 of the remaining projects, while the research assistant coded 75 of the remaining projects.
+We combined measures of quality into an overall score, which was then used to rank projects into three categories. The study quality assessment had a possible range of 0 (highest quality) to 11 (lowest quality). Projects with a score of 0–3 were ranked as high quality, 4–7 as moderate quality, and 8–11 as low quality. We did not use the quality assessment ranking to weight the projects in the analysis because there was little variation in the quality of the projects in our sample. It is also important to reiterate the difficulty of conducting high-quality experimental studies with appropriate control cases when investigating CBC projects. We relied on generally low quality studies out of necessity for this study, but this does not mean we can assume they are reliable just because they are more feasible to conduct.
+Data extraction
+We refined the coding protocols used by Brooks et al. [13] and Waylen et al. [14] and extracted information on a number of variables related to national socio-economic and political context, project design, local community characteristics, type of monitoring of outcomes and outcome types. We collected 65 pieces of information for each project. The full coding protocol can be found in Additional file 1: Appendix A. For this review, we present only those variables directly relevant to the major hypotheses.
+The final coding protocol was pre-tested on a sample of projects from Waylen et al. [14] that were discarded from this sample because our search uncovered more recent articles that addressed the same project. The coding occurred in two steps. First, JSB and KAW coded each of the 46 projects identified in the primary search and discussed disagreements to choose the appropriate coding. Then, JSB re-coded all projects from the prior reviews and coded all projects from the secondary (ACSC) search. K.A.W separately coded 47 (52%) of these remaining projects that required a second opinion. In all cases, coders based their decisions only on the information presented in the article.
+Inter-coder reliability was assessed for the 47 projects that JSB and KAW coded separately by calculating Cohen’s Kappa with the irr package [80] in R version 2.13.0 [81]. Cohen’s kappa represents the proportion of agreement after accounting for the level of agreement expected by chance when coding categorical data (Cohen 1960) and Cohen’s weighted kappa for ordinal data [82, 83].
+Predictors (Effect Modifiers) and outcome variables
+We used multiple predictor variables, or effect modifiers, for each of the nine hypotheses. We provide a full description of national- and project-level variables as well as all four outcomes in Table 1. Where possible, coding of variables matched those of Brooks et al. [13] and Waylen et al. [14] for comparison. Many of the recorded predictor variables relate to social phenomena, which it is difficult to quantify on a numeric scale. Therefore, variables were coded as categorical or ordered categorical variables, with the exception of national-level variables and the number of years the project had been running, for which continuous data were used.
+For each country represented in our sample, external sources were used to collect data on national-level characteristics from a variety of external sources. This was necessary because the authors of the studies/ publications included in this review rarely provide information on national governance, Human Development Index, political stability, and income inequality for the countries in which projects were conducted. Data for national level variables were collected from the following sources:
+Governance: World Bank (http://info.worldbank.org/governance/wgi/sc_country.asp#). Scores were taken from the year closest to the date of research.
+Rights: Freedom House: (http://www.freedomhouse.org/report-types/freedom-world). Scores were taken from the year closest to the date of research.
+HDI: The United Nations Development Programme (http://hdr.undp.org/en/statistics/). Scores were taken from the year closest to the date of research.
+Gini: World Resources Institute: Inequality coefficients ranked by country from data compiled from 2000–2007. One score was used for each country. Gini inequality coefficient data for the years 2000–2007 are no longer available from the World Resources Institute. However, the source of that compiled can be found at the World Bank (http://data.worldbank.org/indicator/SI.POV.GINI?page=2).
+Outcome variables
+Debates about conservation strategies often result from a focus on different outcomes. Some conservationists might emphasize a forest’s ability to sequester carbon and provide a home for forest-dwelling peoples [84], whereas others might have an interest in the ecologically functional populations of species within the ecosystem [85]. As such, authors will disagree over conservation strategies [37], which, in many cases, illustrates the different perspectives of social versus natural scientists [39].
+Because of these disagreements, and because CBC is based on the idea that multiple interrelated goals must be met to produce long-term conservation success, we included four outcome measures, attitudinal, behavioral, ecological, and economic. We coded each outcome variable according to the criteria below. In each case, coding decisions were based solely on information provided by the authors. Summary statistics for dependent variables can be found in Table 2.
+Attitudinal success: Whether the attitudes of the community-members have changed towards conservation in general, the specific CBC project, and/or the protected area associated with the project.
+Behavioral success: Whether levels of resource use, or other behaviors antithetical to conservation that were addressed by the project (e.g. killing nuisance wildlife), have decreased as a result of the project.
+Ecological success: Whether the habitat and/or species of interest is in better condition as a result of the project. (e.g. the population size of a species has increased, or a given resource is more abundant).
+Economic success: Whether the community has received economic (e.g. income, direct payments) or other development benefits (e.g. roads, schools, hospitals) as a result of the project.
+Each dependent variable was coded on a three-level scale (success, limited success, failure). Project evaluations sometimes included multiple indicators for a given outcome variable. As such, outcomes were coded “success” when most indicators showed improvement, and “failure” when most indicators showed no change or decline. We considered “no change” to be a failure because CBC interventions are generally intended to correct a perceived problem. If, after the implementation of the CBC project, there is no change in circumstances for a given outcome, this suggests that the intervention was ineffective. Thus, we feel justified in coding the project as failing for that outcome. Outcomes were coded “limited success” if (a) the author reported conflicting results for multiple measures of an outcome (e.g. community members had positive attitudes towards conservation in general, but negative attitudes towards the nearby National Park), (b) the project benefited some community members but not all (e.g. income increased for 40% of households but did not change for the rest), and (c) success was produced for some communities that were part of the project, but not all (e.g. forest clearance declined in 3 of 5 communities that were a part of the study). Not all projects collected data for each of the four outcomes. As such, the sample size for each outcome ranges from 77 (ecological) to 118 (economic) (see Figure 2).
+Figure 2
+Outcomes of CBC projects from studies that measured at least two outcome measures (success =black, limited success = dark grey, failure = light grey).
+Full size image
+Author questionnaire
+Missing information can be problematic for reviews like this because few articles address all of the variables for a given project that are of interest in this study. We attempted to reduce the number of missing values by systematically collecting information from the original authors of each source in our sample. A questionnaire was constructed that was composed of the questions in our coding sheet that we judged as most pertinent and which contained the greatest number of missing values. The corresponding author of each article was contacted via email with a request to complete the questionnaire.
+Data synthesis and presentation
+Bivariate analysis
+All analyses were conducted using R statistical computing [81]. Please contact the corresponding author for scripts for each step of the analysis. Bivariate analyses were conducted using two-dimensional contingency tables for categorical predictors and proportional odds logistic regression for continuous predictors. The Goodman-Kruskal gamma statistic was used to summarize the association between predictors and outcomes and as a test statistic for Monte Carlo significance tests (see [13]). Because of the way the variables were ordered, a gamma value relatively close to 1 was interpreted as evidence in support of our hypotheses. A Monte Carlo p-value was obtained for each test of ordinal association as follows. For an observed table, 10,000 random tables (having the same row and column sums as the observed table) were generated under the null hypothesis of independence of predictor and outcome. These tables were generated with the function r2dtable in R. For each random table, the Goodman-Kruskal gamma statistic was calculated and stored. A one-sided p-value was calculated as the number of random gamma statistics greater than or equal to the observed gamma, divided by 10,000.
+Models for each of the five continuous predictor variables and each outcome variable were fit using the proportional odds linear regression polr function in R. P-values were recorded from those models and added to the list of p-values obtained from the contingency tables.
+Multiple testing was controlled for by adjusting significance levels for our (29 predictors * 4 outcomes) 116 significance tests using q values [86, 87] to obtain approximate control of the False Discovery Rate (FDR). FDR is defined as the expected proportion of false-positive tests among tests called significant. The p-values obtained from the contingency tables and the regression models were supplied to the q value software (available at http://www.bioconductor.org/packages/release/bioc/html/qvalue.html), which calculates q values for the Monte Carlo significance tests. The “smoother” option was used in the q value software and the tuning parameter lambda was allowed to range in [0, 0.90]. Algorithms that take ordered significance levels (p values) from multiple hypothesis tests return a corresponding sequence of q values connected to the FDR for the tests [86]. Approximate control of the FDR is achieved by setting a threshold for the q values; for example, calling the tests having q values ≤0.05 significant implies that, of those tests, only about 5% are expected to be truly null-hypothesis cases.
+Multivariate analysis
+Proportional odds logistic regression models were fit to determine the best predictors of the four outcomes. The first step, however, was to modify the dataset in two ways. First, missing values were imputed to avoid possible sources of bias [88], and because the model-fitting procedure requires the removal of observations in which any of the independent variables is missing, which would have greatly reduced our sample size and constrained our ability to conduct this analysis. Five unique datasets were created using the Multivariate Imputation by Chained Equations MICE function in R. All predictor and outcome variables were used to impute missing values, though missing values in outcomes were not imputed. Second, after imputing missing values we combined variables that were conceptually similar to reduce the number of predictors in the model. The combined variables are depicted in Table 1. We examined Spearman’s nonparametric correlations between predictors for each of the five imputed datasets. Because the Spearman’s r-values were relatively low (see Additional file 2: Appendix B), we decided not to drop any variables from the analysis.
+To minimize the opposing problems of omitting important variables and over-fitting the model [89, 90], a reduced model was selected using a forward, stepwise AIC procedure [91]. In forward, stepwise AIC selection, variables are added, one at a time, to a model with no coefficients. The variable that produces the model with the lowest Akaike Information Criterion (AIC) score is selected. In subsequent steps, the remaining variables are added to the model one at a time and the variables already within the model are dropped until the model with the lowest AIC score is found. This process continues until no additions or deletions from the model can further reduce the AIC score [92].
+Some authors have suggested that stepwise regression can lead to biased estimates [93] and have suggested other approaches to model selection [94]. However, we believe stepwise AIC is the best approach because (a) problems associated with model over-fit [90] compel us to select a reduced model with fewer predictors, (b) alternative approaches for model reduction, such as those that penalize coefficients (e.g. Lasso [95]), are difficult to employ with ordered outcome variables, and (c) it is essential for us to calculate robust standard errors to account for clustering at the country level, which is most straightforward with our approach.
+Prior to fitting the models, the parallel slopes assumption that the relationship between all pairs of categories for a variable is the same was tested. The parallel slopes assumption was relaxed and a series of binary logistic regressions was run that included each predictor along with a dummy variable that was created by splitting the dependent variable into two levels (see [96]; pg 335). The linear predicted values we obtained from these regressions were plotted. If the differences in the values for each of the two levels in the binary regression are approximately equal for each category of the predictor variable, then the parallel slopes assumption has been met.
+Most, but not all, of our predictors met the assumption of parallel slopes for the four outcomes. Therefore, partial proportional odds models were fit and forward, stepwise AIC model selection was used. However, the set of variables in the reduced partial proportional odds models was very similar to the set of variables in the reduced standard proportional odds models. The variables were the same for Attitudinal Outcomes, there was one additional variable in the partial proportional odds model for Behavioral Outcomes, and there was one variable that differed between the two models for Economic Outcomes. The first seven selected variables were the same for the two Ecological outcomes models, but diverge after that. Because standard proportional odds models are easier to interpret and because it is easier to calculate robust standard errors from standard models, we only present the results of the standard proportional odds models here.
+After the stepAIC algorithm identified the model with the lowest AIC score, this reduced model was then fit using the lrm function, which produced the same coefficients as the polr function. The robcov function was then used to call the output from lrm to calculate robust standard errors for the coefficients. Robust standard errors were calculated to account for the clustering of projects at the country level.
+The results from the five imputed datasets were pooled [97]. For cases in which a variable was not in the reduced model for all five imputed datasets, we entered a value of 0 for the estimate and standard error in the model for that imputed dataset. We then averaged the estimates for the three imputed datasets and calculated pooled standard errors [97, 98]. See Additional file 3: Appendix A-D for the full results of the reduced-fit proportional odds logistic regression models and pooled values.
+Separation problems [99] emerged for one imputed dataset for the Attitudinal analysis and for all imputed datasets in the Ecological analysis. Complete separation occurs when one level of a predictor is associated with only one outcome value. In our case, separation problems prevented the forward stepwise AIC model selection algorithm from converging on a reduced form model. For instance, none of the projects that were attitudinal failures were cases in which social capital was enhanced. This zero value indicates a nearly deterministic relationship between social capital and attitudinal outcomes. As such, for the fourth imputed dataset, social capital was removed from the set of predictors to allow the model selection algorithm to converge. To account for its removal in this imputed dataset, pooled estimates and standard errors were only calculated for social capital using the model outputs from the remaining four imputed datasets.
+The separation problem was more prominent for the analysis of Ecological outcomes because of the smaller sample size. Market access and local institutions were removed from the set of predictors for all imputed datasets. In addition, combinations of resource use, charisma, and economic benefits were removed from the set of predictors for some of the imputed datasets. An investigation of the 2 × 2 tables of each predictor and Ecological outcomes suggests that the only variables for which there is a strong, and potentially deterministic relationship with Ecological outcomes is local institutions. However, because models would not converge with this variable included in the analysis for any of the imputed datasets, we cannot definitively say that local institutions are a significant predictor of ecological outcomes.
+Comparison of researcher’s coding with authors’ responses
+To compare our coding to the questionnaire responses of the corresponding authors of the articles in our sample we conduced an intercoder reliability test. We calculated Cohen’s kappa for categorical data and Cohen’s weighted kappa for ordinal data using the irr package in R [81].
+Results
+Review statistics
+The primary search began in August 2009 and continued through February 2010. The primary search resulted in 4290 hits. After screening titles and abstracts, 228 articles were selected for full review from the initial search. Google Scholar produced the most hits and articles that were suitable for inclusion in the review based on our a priori criteria (see Table 4).
+Table 4 Summary of search results
+Full size table
+JSB compiled a list of countries represented in the sample and began a search of the ACSC online library for CBC articles in the relevant countries with the help of a research assistant. The secondary search of the ACSC digital library could not be conducted until a full list of countries represented in the sample derived from the primary search was created, so it was not completed until April 2010. An additional 188 articles were selected for full review from the specialist review of the ACSC library, which resulted in an additional 28 projects from 25 articles for the analysis.
+In total, 74 projects from 68 articles were identified from both searches and these were added to the existing 62 projects carried over from the previous reviews. Overall, our sample includes 136 projects from 123 articles representing 40 countries (see Figure 1 for information about each aspect of the search). A full list of projects included in the sample is provided in Additional file 4: Appendix D. Because of the vast quantity of articles uncovered in our search, we did not keep records of the reasons that individual articles were discarded. However, projects were discarded when the article:
+– did not describe a community-based conservation project
+– described a project already covered by another more recent article (including interventions that fall under the same general policy, e.g. CAMPFIRE or ADMADE).
+– provided an overview of CBC or of a project with no information on outcomes
+– examined a project for which conservation was not one of the goals
+– focused on the planning of a project before it had been carried out
+– did not provide information on at least two outcomes
+– was a short comment piece that lacked sufficient information on predictor variables
+– used data to surmise about the potential effectiveness of an intervention, but did not address actual outcomes
+Description of projects
+The 136 CBC projects in our sample focus on conservation challenges in managing forests, grasslands, wildlife, and fisheries. This review also covered projects in communities with a variety of livelihood types and subsistence strategies including, among others, subsistence agriculture, hunting and gathering, fishing, pastoralism, wage labor, and various combinations of all of the above. We coded for this information, but did not include it in the analysis because of the frequency of missing values in the sample and because of the number of variables that we were exploring that are considered to be of greater importance.
+Forty countries were represented in the sample. Forty percent of projects were in least developed countries, 33% were in lower middle income countries, and 27% were in upper middle income countries (see Table 5). The number of projects per country ranged from one (16 countries) to 19 (Tanzania) (Table 6). There were five or more projects from Brazil, India, Indonesia, Madagascar, Mexico, Nepal, Philippines, South Africa, and Tanzania. The majority of projects were located in Africa (N=65), followed by Asia/Oceania/Pacific Islands (N=44), and the Americas (N=30).
+Table 5 Income groups correspond to 2009 gross national income (GNI) per capita (World Bank Atlas method)
+Full size table
+Table 6 Number of projects per country included in the sample
+Full size table
+Study quality assessment
+Over 80% [100] of the projects in our sample were considered to be low quality according our modified Cochrane Collaboration scale. The remaining 26 projects were in the moderate category (See Additional file 4: Appendix D for full list of results of quality assessment). The type of study design and analysis employed by the researchers largely determined the quality of the projects, which is to say that other biases and shortcomings contributed less to the low study quality rating. To demonstrate a causal link between a CBC intervention and the four outcomes of interest in this review, a study would have to use an experimental design and control for confounding factors like geographic location, ecosystem type and other environmental characteristics, the socio-economic make-up of the community and baseline conditions. Researchers would either have to conduct longitudinal studies after collecting sufficient baseline data, or replicate communities to have a treatment and control. Given the limited funding, scope and monitoring capacity associated with most CBC projects, taking these approaches is often infeasible.
+Some recent studies have used quasi-experimental matching techniques to identify communities similar to the ones in their studies to act as controls. This approach has been used to explore the relationship between protected areas and poverty alleviation/exacerbation (e.g. [101, 102]. In the context of CBC, this study design would allow one to ask how attitudinal, behavioral, ecological, and economic outcomes would have changed over time in the absence of an intervention. Such an approach would give scholars, policy makers, and conservation practitioners greater confidence that a CBC intervention had the effects they were presumed to have. Unfortunately, few if any such studies exist for CBC. We encourage scholars to employ such study designs where at all possible in the future.
+We largely viewed the quality assessment as an exercise to illustrate the generally low quality of the studies in our sample relative to the gold standard for experimental design. This analysis was not intended to guide our main statistical analysis and was not used to more strongly weight studies in the moderate risk category. We feel it is important enough to highlight some of the deficiencies in CBC research and some of the more recent study design innovations.
+Intecoder reliability tests between researchers
+For the intercoder reliability test between coders, Cohen’s kappa values ranged from a low of 0.35 (charisma) to a high of 0.91 (protectionism), with a mean value of 0.66 (Table 7). These results indicate that the level of agreement between coders was fair or better (>0.40) [103] for most of the key predictor variables in the analysis. However, seven of the predictors had poor agreement levels (kappa ≤ 0.40). Four of these predictors were excluded from the analysis. JSB and KAW reviewed the remaining three variables (tenure, local culture, charisma), modified and expanded the coding rules for each, and recoded them according to the new rules. The new level of agreement for each of the four outcome variables was substantial (kappa > 0.65) and averaged kappa = 0.78.
+Table 7 Results of the intercoder reliability test between researchers
+Full size table
+Narrative synthesis
+Readers can find citations for each project included in the study as well as its location, study quality rating, outcomes measured, type of monitoring of outcomes, and outcome type (success, limited success, failure) in Additional file 4: Appendix D. Overall, projects reported more successes than failures across all four domains (Figure 2). The proportion of projects that were considered successful was higher for ecological outcomes than the other three outcomes. The number of projects that provided information on the four outcomes ranged from 79 (ecological) to 121 (economic) with 97 and 102 projects providing information on attitudes and behaviors respectively.
+Quantitative synthesis
+This section provides a brief synthesis of the main review results. It is organized around the core question that our reviewed addressed as well as the nine hypotheses related to objectives 2 and 3.
+Objective 1: Is community-based conservation an effective conservation tool?
+There were more reported successes than failures of CBC interventions across all four outcomes. Forty-one percent of projects suggested attitudinal success whereas 24% suggested attitudinal failure. Forty-three percent of projects suggested behavioral success compared to 31% that suggested failure. Fifty-eight percent of projects suggested ecological success compared to 25% that suggested failure and 45% of projects suggested economic success compared to 25% that reported failure. See Figure 2 for a visual depiction and Table 2 for raw data.
+An examination of two-way contingency tables using the Goodman-Kruskal gamma statistic and Monte Carlo p-values indicated a positive and significant association between all pairs of outcome variables (Table 8). This statistical relationship between all pairs of outcomes indicates a tendency for author’s to report successful outcomes in more than one domain.
+Table 8 Goodman-Kruskal gamma statistic and associated p-value for association between pairings of Outcome variables
+Full size table
+The amount and type of monitoring was similar to that found in our previous reviews [13, 14] with the majority of projects failing to report on all four outcomes and most relying on qualitative monitoring or author’s judgment as opposed to quantitative monitoring of outcomes (see Figure 3). Twenty-seven projects (19%) measured all four outcomes, 67 projects (48%) measured three outcomes, and 45 projects (32%) measured two outcomes. Eight (30%) of the projects measuring all four outcomes considered all outcomes to be successful and two (7%) considered all outcomes to be failures. Twelve (18%) of the projects measuring three outcomes found each outcome to be successful and eight (12%) found each outcome to be a failure. Thirteen (29%) of the projects measuring two outcomes found them both to be successful, and seven (16%) found them both to be failures.
+Figure 3
+The frequency of type of monitoring for each outcome for studies that measured at least two outcomes: author’s judgment (light grey), qualitative (dark grey), quantitative (black).
+Full size image
+None of the projects quantitatively measured all four outcomes and 59 studies (42%) did not quantitatively monitor any of the four outcomes relying instead on the author’s judgment. However, there was no significant relationship between the type of monitoring and success for any of the outcomes (Attitudes, γ = 0.01, p>0.05, Behaviors, γ = 0.17, p>0.05, Ecological γ = −0.04, p>0.05, Economic γ = 0.18, p>0.05), which indicates that qualitative studies and those that use the author’s judgment were no more likely to report success or failure than quantitative studies.
+Objective 2: Which aspects, if any, of national socio-economic and political contexts affect the outcomes of local-level CBC projects?
+Hypothesis 1: NC1 - National political context: Success when projects are implemented in countries where there is greater transparency and stability in governance and where the populace has a voice in politics and enjoys common civil liberties. [NC-Governance, NC-Rights]
+Hypothesis 2: NC2 - National socioeconomic context: Success when projects are implemented in countries with a higher level of development progress and in which there is greater economic equality. [NC-HDI, NC-Gini]
+The bivariate analysis shows that projects in countries with better national-level socioeconomic conditions have greater behavioral and attitudinal success, projects in countries with more equitable distributions of wealth have greater attitudinal success, and projects in countries with better overall governance have greater behavioral success (see Table 9). However, the full multivariate model with controls indicates that national context does not play an important predictive role in any domain of project success as the 95% confidence intervals cross zero in all cases (Figure 4a-d).
+Objective 3: Which aspects, if any, of project design and community characteristics affect the outcome of CBC projects?
+Table 9 Coefficients from bivariate proportional odds logistic regression (continuous variables) and Goodman Kruskal gamma values from two-way contingency tables (categorical variables)
+Full size table
+Figure 4
+a – 4db . Plots of the pooled coefficients 50% confidence intervals and 95% confidence intervals (X-axis) for variables remaining in the reduced-fit model for each outcome variable as selected by forward, stepwise AIC. Asterisks indicate a significant association with an outcome.
+Full size image
+Project design
+Hypothesis 3: PD1 - Participation/Engagement: Success when there is more emphasis on participation in initiation, establishment, and day-to-day running of the project, and when the project engages positively with local governance institutions and with local cultural beliefs, practices and traditions. [PD-Participation (combined PD-Impetus, PD-Establishment, and PD-Decision-making), PD-Engagement (combined PD-Approach local culture and PD-Approach local institutions)]
+Hypothesis 4: PD2 - Access to and utilization of resources: Success when projects emphasize greater levels of utilization and subsequently generate support for, and compliance with, conservation initiatives. [PD-Protectionism, PD-Resource use]
+Hypothesis 5: PD3 - Project benefits: Success when projects provide clear and well-directed economic benefits, and ensure that such benefits are shared equitably and without elite capture. [PD-Economic benefits, PD-Equity (combines PD-Equitable provision and PD-Elite capture)]
+Hypothesis 6: PD4 - Human/Social capital: Success when projects invest in human and social capital. [PD-Capacity (combines PD-Capacity skills and PD-Capacity institutions), PD-Social capital, PD-Environmental education]
+The bivariate results suggest that project design is important for success. Participation, engagement, project benefits, and human/social capital were particularly crucial, as variables from these clusters were significantly associated with each of the four outcomes (Table 9). The results of the multivariate analysis (Figure 4a-d) support the bivariate results, in that several distinct aspects of project design are important predictors of success across all four outcomes (95% confidence intervals do not cross zero). Attitudinal success is most likely when the project produces or enhances social capital within communities (PD-Social capital), when the project emerges at the impetus of the community and the community is involved in project establishment and daily management (PD-Participation), and when benefits are equitably distributed without elite capture (PD-Equity). Behavioral success is positively affected by whether the project invests in the capacity of local individuals and institutions (PD-Capacity). Ecological success is promoted when the project engages positively with local cultural traditions and governance institutions (PD-Engagement) (see note on interpretation below), invests in the capacity of local individuals and institutions (PD-Capacity), and when the project emerges at the impetus of the community and the community is involved in project establishment and daily management (PD-Participation). Finally, economic success is most likely when the project builds capacity in the local community (PD-Capacity).
+Community characteristics
+Hypothesis 7: CC1 - Market integration: Success when projects are in communities that are more integrated into local and global markets and their species/habitats of interest face fewer preexisting threats. [CC-Market access, CC-Threat]
+Hypothesis 8: CC2 - Supportive local context: Success when projects are in communities with effective local governance, institutions that align with project goals, well-defined land tenure, and strong leadership. [CC-Local Institutions (combines (CC-Effective local government and CC-Supportive local culture), CC-Tenure, CC-Charisma]
+Hypothesis 9: CC3 - Local context: Success when projects are in communities with moderate sized human populations, and in communities that are more culturally/ethnically homogenous. [CC-Population size, CC-Population heterogeneity].
+Community characteristics were less likely to be associated with project outcomes than project design variables in the bivariate analysis (Table 9). Tenure showed the strongest effect and was associated with three outcomes. There was a similar trend in the multivariate analysis as only three variables were significant predictors and these were restricted to two domains - behavioral and economic (Figure 4a-d). Supportive cultural beliefs and effective institutions (CC-Local institutions) and smaller population size (CC-Population size) are associated with behavioral success, and strong tenure rights over the primary resources targeted by the project (CC-Tenure) (see note on interpretation below), are associated with economic success. Interestingly, the presence of charismatic leadership was negatively associated with the likelihood of economic success, although the apparent under-reporting of charismatic individuals may explain this result. Only 15% of projects in our sample reported a charismatic individual whereas, 69% of authors responding to our questionnaire reported that a charismatic individual was involved in the project.
+Control variables
+None of the control variables was significantly associated with the outcomes in the bivariate analysis. However, the length of time the project has been running (CTR-Yrs. running) was significantly and positively associated with economic success in the multivariate analysisa. There were no effects of author discipline or ecoregion status.
+Additional effect modifiers
+It is often difficult for project evaluations to include all information that may be relevant to this study because of the range of variables over space and time that could conceivably impact CBC projects. These factors might include historical data, ecological data, and socio-economic and political information from multiple scales and time periods. As a result, there is often missing information from project evaluations in articles. There were several variables that we intended to include in the analysis but were unable to because of a lack of information provided for the projects in our sample. These variables are described at the bottom of Table 1 and include:
+ecological variables including average rainfall, elevation, and habitat type(s)
+subsistence type(s) in the local community
+importance of targeted resource(s) to local peoples
+presence/absence of supportive national policies
+degree of implementation of national policies related to CBC
+type and quality of interaction between communities and government agencies/employees
+type of involvement of NGO or other external aid organization
+economic heterogeneity in communities
+The implications of excluding these effect modifiers from the analysis are discussed below.
+Note on interpretation
+We presented our results in Figure 4a-d to simplify the process of interpreting proportional odds models, which can be difficult. Categories of variables whose 95% confidence intervals do not cross zero are considered to be significantly associated with outcomes relative to the reference category for that variable, which is not shown in the model output. In proportional odds models, coefficients can be used to compare the odds of a fixed outcome between different values of the predictor. For instance, Participation (high) is a significant predictor of Attitudinal outcomes (Figure 2a). The significant coefficient for Participation (high) suggests that projects with high levels of participation are more likely to have attitudinal success than projects with no or low levels of participation. In this model, we compare the level of the variable reported in the model output (high) with that of the omitted reference value, which in this case is Participation (no/low).
+Readers may be aware that we present Engagement and Tenure as being important variables for Ecological and Economic outcomes, respectively, despite there being no indication of a significant relationship in Figure 4c or d. The reason for this is because of the details of interpreting the effect of categorical variables in proportional odds models.
+Models can be set such that variables have different reference categories. In this study, we set the reference category so that the categories that match our hypotheses are visible in the model output (e.g. Participation (high) is expected to be associated with successful outcomes, so Participation (no/low) was set as the reference category). However, we could have set the reference categories differently. Models with different reference categories are algebraically equivalent but can provide different insights into key relationships between categories of a given variable. For instance, Figure 2c shows how the high and moderate levels of Engagement relate to the reference category (no/low) but not to each other. A different parameterization of this model in which Engagement (high) is the reference category allows one to consider the relationship between moderate and high (not shown) and indicates that projects with moderate levels of Engagement are significantly less likely to result in Ecological success than projects with high levels of Engagement. The same is true for our discussion of the relationship between Tenure and Economic success despite no indication of significance in Figure 2d. A different parameterization of this model with Tenure (community) as the reference category indicates that projects in communities with mixed tenure regimes are significantly less likely to result in economic success than projects in communities with community-held tenure rights.
+Objective 4: Coding validity
+Questionnaires for 54 projects (40%) were returned. Functioning email addresses for twenty authors could not be located and eight authors were unable to complete the survey due to time constraints or an inability to remember the details of a project.
+Author’s responses were used to fill in missing values for a number of variables including tenure, market access, population size, population heterogeneity, effective local government, supportive local culture, capacity skill, approach to local culture, approach to local government, project impetus, establishment, decision-making, and resource use. Author responses were used most often to replace missing values for effective local government, supportive local culture, approach to local culture, approach to local government, and population heterogeneity. For each of these variables, between 20 and 30 missing values were replaced with the author’s response.
+The results of the intercoder reliability test to score the level of agreement between our coding and the corresponding authors’ responses to the questionnaires can be found in Table 10. The results suggest that there was a fair or better (>0.40) level of agreement with the corresponding author for half of the variables. Negative kappa values indicate disagreement between researchers and authors. It is important to note that there were high levels of agreement for all four of the outcome variables.
+Table 10 Results of inter-coder reliability test comparing researchers coding of a paper with the responses of corresponding authors to a questionnaire distributed by the researchers
+Full size table
+Discussion
+Using a considerably larger sample size and suite of predictor variables than our previous reviews, our results both support findings of prior studies and provide new insights into the role of project design, national context, local community characteristics, and outcome synergies. Although we do not find a systematic effect of national level variables on CBC outcomes, we do find some support for the importance of community characteristics, and strong support for success depending on several aspects of project design. Before discussing the wider implications of our results, we start by reviewing potential effect modifiers in this study, and how they may affect interpretation of our results.
+Reasons for heterogeneity
+While there is evidence that CBC can be an effective conservation tool, it is clearly not always successful. Here we discuss the ways in which particular variables might affect CBC success.
+The lack of evidence for significant effects of national level indicators on projects success fails to support our hypotheses (NC1 & NC2), which represent the view that transparent and effective national governance influences project success through various mechanisms. These mechanisms might include enhanced trust as well as conditions that facilitate valuing future returns from resources more highly among its citizens. This result also runs counter to the finding from the only other quantitative study of national indicators, that HDI is important for successful fisheries co-management [23].
+Conversely, project design variables were important for successful CBC outcomes. In fact, three of the four project design hypotheses (H-PD1, -PD-3, and -PD4) were supported to some degree, consistent with previous reviews emphasizing the importance of (a) building local institutional capacity [16] and training and skills development [15, 22], (b) equitable distribution of benefits including avoidance of elite capture [16, 104], (c) engagement with local institutions and cultural beliefs and traditions [14, 105, 106], (d) the provision of social capital and other intangible social benefits [15, 16, 23], and (e) participation in rule making and day-to-day decision-making associated with the project [16, 19, 77]. In our study, capacity building was a significant predictor of all but attitudinal outcomes indicating that it may be a particularly important component of project design. In addition to the straight-forward skills that may be necessary to maintain the project, Baland and Abraham [46] argue that capacity building may also help combat elite capture by ensuring that project finances are not simply funneled to a handful of local leaders.
+Several examples from projects included in our review illustrate the importance of these project design variables. For instance, in a project in Yunnan, China, community members were trained to monitor resources [107]. Through this process the community gained an awareness of broader forest management needs beyond timber and drafted their own rules for sustainable harvesting of forest products. A project in Tanzania had similar results in that participatory monitoring efforts led to reductions in wildlife traps found in local forests and general improvements in forest quality [108]. Additionally, evidence from a project in Costa Rica suggests that providing opportunities for community learning was an important component of successful and sustainable sea turtle egg-harvesting [109].
+Finally, although not considered a feature of project design in our study, we found (unlike previous reviews [20, 55]) that projects that have been established for a longer period of time are more likely to have economic success than more recently initiated projects. This result provides evidence that development opportunities and income generation may not emerge quickly and that CBC projects may require time before measureable economic success is achieved.
+On the other hand, community characteristics were less important for CBC success than were project design variables. Only two hypotheses in this domain - H-CC2 and, to a lesser extent H-CC3 - were supported. Strong tenure rights were related to economic success and both population size and local culture and institutions affected behavioral success. This does not mean that community characteristics are unimportant. In fact, many reviews point to aspects of local context that are thought to be key to securing successful outcomes, such as a supportive local belief system [15, 20] and well defined property rights and local tenure regimes [15, 19, 22]. In addition, we want to reiterate that the local institutions variable could not be included in the multivariate analysis for ecological outcomes (see the paragraph on separation problems in Section 3.9.2 Multivariate analysis). This issue leaves open the question of whether supportive local cultures and effective local institutions are important for ecological success.
+Among the cases in our sample, there are several examples of the importance of local context. Scanlon and Kull [110] note that cultural pride and a shared sense of belonging (as well as the provision of economic benefits) were important for attitudinal and behavioral success in a community conservancy in Namibia. Further, Bajracharya et al. [111] note that a history and culture of cooperation in addition to strong traditional management institutions (Ban Samiti) were crucial for the behavioral and ecological success of the Annapurna Conservation Area in Nepal. Finally, secure sea tenure provided an important foundation for the success of a marine protected area in the Solomon Islands [112]. These anecdotes provide examples of some of the ways in which local cultural contexts can affect project success. Local contexts might relate to lower rates of discounting the value of future resource availability, make communities responsible for broader environmental impacts (externalities), motivate sustainable resource use, increase accountability, and/or increase the salience of trust, reciprocity, and social norms [48, 58]. However, our findings again suggest that well-designed projects can, in many instances, overcome unfavorable features of the local cultural and institutional context.
+Several variables that we expected to be significantly associated with project success were not. In the realm of community characteristics, we found no evidence that market access was positively or negatively associated with any measure of success. This is important because some individual studies and reviews show positive associations between project outcomes and some measures of market integration [13, 21, 23], while others find that market integration can lead to greater resource extraction and ecological degradation [44, 77, 100, 113]. The lack of a significant association between market integration and any of the outcome variables may be attributable to two factors. First, we found coding for market integration to be problematic due to the limited information often presented in the project evaluations we coded. Authors of several previous reviews have also noted similar difficulties in adequately extracting measures of market integration [19, 78]. Second, it is likely that market effects are contingent on any number of other variables including the nature of the resources in question, the size and make-up of the community, and the type of market. These aspects of market integration deserve closer quantitative examination.
+Local ecological conditions are also mentioned frequently in the literature [15, 16, 21, 77], but had no discernable impact in our study. Few articles in our sample provided detailed information about ecological characteristics so it is not entirely surprising that our coarse measure of ecoregion status was not associated with project outcomes. Future research could benefit from including measures of habitat types, elevation, rainfall and other ecological characteristics from outside sources.
+In addition, there are several variables for which we attempted to collect information but that we omitted from the analysis because of insufficient information in the projects in our sample. These variables could have affected our results in a number of ways. For instance:
+– Local ecological conditions like rainfall, elevation or predominant habitat type could affect the abundance and spatial heterogeneity of valuable resources in any given year or set of years, which may not be captured in short-term project evaluations. Such variation could influence the ecological outcomes that are reported at a given point in time.
+– Historical inter-community and intra-community dynamics may affect levels of trust and cooperation as well as resource use patterns in ways that may not be visible to researchers.
+– Projects related to resources that are fundamental for subsistence may resonate more strongly in communities and thus result in greater community participation in all stages of the project than those related to resources that create a fundamental hardship for local peoples (e.g. land for agriculture vs. crop damage from wildlife). That is, levels of local participation may be higher for projects targeting resources that have a particular level of importance to a community.
+– The implementation of national policies related to CBC can differ greatly between nations [5, 6] making it difficult to ascertain how important national policies actually are for CBC outcomes.
+The degree and type of involvement of local or international NGOs and/or multilateral aid organizations could conceivably affect project outcomes. Such organizations may provide funding, consultation, or any number of other services and the nature of the organization (local, international, conservation-focused, development-focused, etc.) could influence the way a project is designed and implemented and how long funding is provided and for what activities. Similarly, one reviewer suggested that consideration be given to overlap in funders in the event that major funding organizations may influence the ways in which projects are designed and implemented. Unfortunately, many projects have multiple sources of funding making it difficult to discern how much funding came from a given source, not to mention how much influence such funding would have allowed. That said, future research could consider the potential that projects funded by the same agency or organization are designed and implemented in similar ways.
+In short, there is the potential that additional factors could directly affect outcomes or mediate the effect of particular predictors on outcomes.
+Review limitations and potential biases
+The review was somewhat limited by the omitted variables noted above, although this was unavoidable since it depended on the information presented in the articles we reviewed. A larger set of search terms (e.g. community forest management, community forestry, community fisheries, community wildlife management, payment for ecosystem services, co-management) might have also increased the sample size. Given (a) the number of variables identified through theory, modeling, and empirical studies that potentially influence CBC outcomes, and (b) the multiple scales at which those variables operate (household, community, region, nation), a larger sample could help further tease out key relationships between predictors and outcomes and aid in examining the role of national socio-economic and political contexts.
+This shortcoming is partially offset by fact that the current sample is nearly five times larger than that from Brooks et al. [13], and over twice as a large as that use in the analysis by Waylen et al. [14]. Further, it is unlikely that there would be any systematic bias as a result of the terms that we did or did not use in the search.
+The generally short time frame of many of the projects in our sample (an average of 7.7 years from the initiation of the project to the date research was conducted) may limit our ability to determine whether certain successful outcomes might presage other types of success in the future. For instance, while resource use may be considered to be economically beneficial at the time the data were collected, we have no evidence that the harvest of that resource is sustainable over the long term. Similarly, the relatively short time frame also precludes us from fully understanding the nature of synergies and tradeoffs.
+As for any review there is the potential for publication bias, in which authors fail to publish or report on projects that have not produced successful outcomes. However, given (a) the controversy and debates that highlight multiple perspectives on CBC and suggest that there is as much interest in documenting failure as documenting success, (b) the fact that 26% [103] of all outcomes were reported as failures, and (c) the absence of a relationship between author discipline and any of the four outcomes that would indicate a disciplinary bias in reporting results, we feel that publication bias presents a minimal problem for this analysis.
+It is also important to note that the 136 CBC projects in our analysis may not represent a random sample of CBC projects because information on all existing CBC projects is not available. It would be impossible to obtain a true random sample of projects because of the absence of documentation and reporting on all CBC projects. However, because we selected cases without knowledge of the outcomes, we believe it is appropriate to generalize the findings beyond this sample.
+Additional biases may include, [1] bias arising due to poor study designs, [2] author bias/conflict of interest, and [3] bias in how interventions are described and which aspects are reported. It is impossible to eliminate or even identify all these sources of bias, though it is important to be cognizant of them.
+Review conclusions
+Implications for policy and management
+Our primary objective was to examine whether and to what extent CBC interventions can be effective tools for conservation. Because CBC is inherently intended to address multiple, interrelated goals, we included four measures of success in our analysis. Our results indicate that CBC can be an effective tool as we found that there were more instances of success than failure for all four outcome measures and that this was especially true for ecological outcomes. However, we note that the number of failures is still large and the presence of a number of “limited success” results suggests that one should not be too optimistic about the likelihood of CBC success in all cases.
+It is important to note that some caution is needed in fully interpreting our results. First, reported outcomes are sometimes based on a narrow set of measures and come from studies of varying quality. For instance, economic success could be a function of increased income through the sale of goods and/or access to wage labor, construction of a basic health center or school, improved access to subsistence resources, or other factors. Authors may only report on a subset of these benefits and benefits from some activities could accrue more slowly than others. The same problem could hold true for all of the outcome measures. Second, we determined that many of the studies that make up our sample are not of high quality relative to controlled laboratory studies. However, we recognize that a host of obstacles exist that often prevent researchers from conducting studies of higher quality including time and funding limitations, the absence of true control communities, and the difficult logistics of working in multiple communities often in remote places.
+Finally, it is important note that outcomes can change over time. For instance, ecological and economic success may not persist if harvest rates become unsustainable or market fluctuations reduce the value of a resource. Practitioners must pay careful attention to the multiple measures of each outcome that are possible, how these multiple measures change over time, and how these measures might differ among households and communities involved in the project.
+In regards to objectives two and three, there are a number of important trends that we would like to highlight from the results of this analysis:
+• Project design variables appear to be critical and well-designed projects may be able to overcome national-level and community-level circumstances that might otherwise inhibit project success
+• The aspects of project design that are most important are capacity building (skills and institutional capacity), equitable distribution of resources (including avoidance of elite capture), creating or enhancing social capital, engaging with local cultural traditions, institutions, and leaders, and ensuring local participation in project initiation, design, and or daily management
+• Community characteristics were significantly associated with some outcomes, though this wasn’t as critical a domain as project design. The key community characteristics were supportive and effective local cultural institutions, low population size, and locally held tenure.
+• Our results suggest that working closely with local communities within the confines of their traditions and institutions, preparing and training communities with relevant skills and organization, emphasizing non-tangible, non-economic benefits, and ensuring equitable benefit distribution are all more important than the types of benefits communities receive and their degree of access to resources.
+The key result for objective two is that national context variables were not important predictors of project success. The significant associations between national-level predictors and outcomes in the bivariate analysis disappeared when national context, project design, and community characteristics were considered together in the multivariate analysis.
+Because countries were not equally represented by projects, and because there remains the potential that national-level indicators that were not included in this study may be important, we do not conclude that higher-level institutions do not matter. Rather, we suggest that well designed projects can be successful even in national contexts that are not typically viewed as conducive to success (such as low HDI, rampant corruption, unstable governments or poor regulatory quality). This result is encouraging because conservation practitioners typically cannot change national development progress, governance, or political rights and freedoms, and it suggests that conservation projects can succeed in challenging socio-economic and political contexts.
+The key finding for objective three is that project design variables were important predictors of success for all outcomes. Our results show the importance of design features that include emphasis on community participation, capacity building, and equitable distribution of economic benefits. In short, well-designed projects with many of these facets can help overcome pre-existing obstacles of society and setting. In contrast to project design variables, there is considerably less evidence for consistent effects of local community characteristics on project outcomes, although local tenure was associated with economic success and small populations and supportive local culture and institutions were associated with behavioral success.
+Our results largely support those of previous systematic reviews of CBC [13, 14]. However, we recognize that groupings of low quality studies have a higher likelihood of systematic bias and, as such, that both our review and the two previous reviews may be affected by such bias. Because of this concern, we think it is important to note that our results also in many ways match those of additional reviews and empirical studies that have examined fisheries co-management [23], integrated conservation and development projects [15, 22, 114] community forest management [16, 19, 21, 77, 78] and payment for ecosystem services [115]. In addition, our results also support several of our theoretically grounded hypotheses. These factors give us some degree of confidence in the variables that we have identified as key factors associated with successful outcomes of CBC projects. Taken together, our review along with other reviews, empirical studies and theoretical papers suggest that projects that balance economic incentives, community empowerment, and secure rights can succeed [116].
+We conclude that conservation practitioners and policy makers should not avoid implementing projects in places where national, or local, socio-economic and political conditions are not thought to be suitable for conservation success; in fact these may be places where conservation efforts are most needed. Rather, we suggest that CBC projects conducted in such ‘inhospitable’ contexts must pay particular attention to quality project design that emphasizes capacity building, participation, the importance of social capital, and engagement with local traditions and institutions.
+Implications for research
+CBC research
+This review highlights six key issues pertinent to future research on CBC.
+• 1.
+Integrating thorough and systematic monitoring into project design
+First, we would like to emphasize the need for more thorough and systematic monitoring of CBC projects. This statement echoes the conclusions reached in previous systematic reviews [13, 14] as well as by other scholars [29, 117]. This systematic review was, to some degree, constrained by the lack of standardized reporting of key independent variables and outcomes. As noted above, only 19% of projects in this review monitored all four outcomes, and no study monitored all four outcomes quantitatively. Further, the rate of quantitative monitoring was below 50% for each of the outcomes. This is not to say that qualitative monitoring cannot be useful. Indeed, qualitative data collected in well-designed projects can provide critical insights, particularly into complex social issues. For instance, our results indicate the importance of project design features like participation, capacity building, and strengthening social capital, but do not tell us how precisely to implement such features. That said, we view quantitative approaches as critical for testing hypotheses derived from nuanced qualitative work (e.g. 6, 8, 24), and conducting the systematic comparisons that are indispensable for guiding a broader understanding of the challenges and opportunities of CBC.
+Of course, there are financial and temporal constraints on projects that preclude more thorough monitoring of outcomes. That said, given the tremendous amount of money directed to CBC projects, and the repeated calls for more, and better, monitoring of outcomes, it is surprising that the quality and amount of monitoring has improved little since the reviews we conducted in 2006 and 2010.
+• 2.
+Exploring multiple measures of success
+We also emphasize the importance of including multiple measures of success. Rigorously collected data that address only one or two measures of success have limited analytical value because CBC projects almost inevitably have ecological, economic, and social consequences. Without measures of success that span these distinct dimensions, the overall effectiveness of CBC will be difficult to determine. Without a more statistically powerful study that includes ecological, economic, attitudinal, behavioral, and/or additional outcomes of interest, conservationists face a situation in which a given project is judged a success by an economist based on increased income for local inhabitants and a failure by an ecologist and an anthropologist based on, respectively, a critical population decline for an important species and negative community attitudes towards conservation efforts. Insofar as the CBC paradigm is based on the assumption that human and ecological well-being are inextricably linked, proper support for this paradigm will need to demonstrate empirically such an interdependence of measures of success. In fact, a larger sample of projects reporting rigorously collected and analyzed data from well-designed studies would help immensely with the logical extension of the current study. While we have investigated which factors are associated with each of four outcomes, we have, thus far, been unable to answer the question of which factors are associated with particular patterns of synergies and tradeoffs among the four outcomes. We strongly encourage researchers to pursue these questions in future studies.
+• 3.
+Addressing the multiple indicators of success or failure for each outcome
+The third issue, which relates to the limited amount of outcome monitoring and quality of reporting, is the issue of what is monitored and reported for outcome variables. For each outcome, a multitude of indicators could be monitored that might provide conflicting information. For instance, in the context of attitudinal outcomes, community members could express positive attitudes towards conservation in general, but negative attitudes towards a national park or CBC project. For behavioral outcomes, community members might reduce their harvest of fuelwood because of the intervention but maintain or increase their encroachment into a protected area to collect other non-timber forest products. For ecological outcomes, the population of one species could have increased as the result of a project, but habitat degradation due to a secondary threat could continue to negatively affect other species. In the context of economic outcomes, a project might build a community school, but also reduce access to critical subsistence resources, which can negatively affect household income. In each case, measuring one aspect of an outcome domain would give only partial insight into the effects of the project. The number of, and variability in, potential indicators highlights the importance of the project having clear goals and of the article’s authors clearly stating, to the best of their knowledge, those goals in the text. Primary researchers and evaluation teams need to be clear about the specific problem that the project is designed to address and the goals of the project in each of the four outcome areas.
+• 4.
+Greater attention to standardizing relevant predictors
+The fourth issue relates to which predictor variables are measured. The CBC literature is dominated by case studies that do not follow standardized guidelines for the type, quality, and amount of data that are collected. These problems are, in part, due to the interdisciplinary nature of CBC. Researchers from disciplinary perspectives ranging from ecology to political science to anthropology to human geography have an interest in CBC. With each disciplinary perspective comes a unique set of questions, theoretical backgrounds, and methodological toolkits that inevitably produce different kinds of data for different predictors. This diversity makes it difficult to compare interventions in diverse contexts because there are inevitably gaps in the information that is presented in any given publication.
+There are efforts to remedy the lack of standardized data collection and reporting [118, 119], although even these attempts have produced disagreements about which variables are most critical and how best to collect and organize data related to the inputs, design, and contexts that affect CBC outcomes. Further, while standardization will help with problems of what is reported, it will be of less help in improving study designs.
+• 5.
+Exploring non-local influences of CBC
+This study found little evidence for systematic effects of national level variables on project outcomes when other factors are also considered. However, this finding may be influenced by the variables chosen to represent effects at this level, or the possibility that national level variables interact with, or mediate, other influences with less direct effect. Furthermore, an institutional perspective suggests that there is no easy dichotomy between ‘local’ and ‘national’. Depending on context, it is entirely likely that a range of other factors (e.g. at the regional level) may also play an effect. We suggest a fruitful and useful area for future research is disentangling whether and how influences at different scales affect outcomes of CBC projects.
+• 6.
+Improving the quality of reporting
+The final and most general issue is the quality of the studies conducted on CBC projects. As noted above, many studies of CBC projects fail to use appropriate control cases or to consider potentially important confounding variables, such as baseline socio-economic conditions, geographic location, or ecological conditions and variation. Although in-depth, qualitative case studies can be valuable, many such studies do not account for the variety of variables that might otherwise make them ideal examples of robust qualitative research. We, therefore, believe that high priority should be given to longitudinal rather than cross-sectional studies of CBC projects wherever funding and manpower allows as well as to studies that employ quasi-experimental designs in cases where “control” communities can be identified. Such approaches address the problems of endogeneity (such as CBC projects being set up in already troubled areas) and the lack of counterfactuals (assuming that changes in outcomes would not have happened in the absence of the intervention).
+In addition to these broader implications for conducting CBC research we also have recommendations for future systematic reviews of CBC or related literatures that have emerged from this project.
+• 1.
+Practical constraints and feasibility of extensive coding protocols
+Both coders recognized the cognitive limitations of trying to code for 65 pieces of information in project reports and articles. While it is important to collect as much information from articles as possible, particularly for a topic as complex and interdisciplinary as CBC, there are diminishing returns to adding extra variables to a coding protocol. It is cognitively taxing to keep 65 pieces of information in mind while reading and coding for project information. We recommend that future reviews note the variables for which we were unable to collect adequate information as well as variables that were not significantly associated with any of the four outcomes in the bivariate or multivariate analyses. By excluding some of these variables, coders can focus their attention on more important factors.
+• 2.
+Supplementing data from the sources’ authors can be challenging but may be beneficial
+The author’s survey was beneficial for reducing the amount of missing information in our dataset, thus limiting the amount of imputed data. There were, however, some difficulties in the process of collecting author responses. We sought to minimize the survey length to avoid respondent fatigue and the potential for non-response. In doing so, we kept the directions and explanation for each question (which were distilled descriptions of our coding protocol) compact. We pre-tested the questionnaire with scholars who were both familiar and unfamiliar with CBC to make sure our instructions were clear. However, some respondents requested more detailed explanations of the variables about which we were inquiring as well as explanations of the distinctions between the response levels offered. While balancing survey length with survey clarity is always difficult, in hindsight it may have been better to reduce the number of questions and increase the explanation of the variable and response levels to ensure that respondents were interpreting variables as we had intended.
+Some authors also commented on the difficulty of distilling a complex topic like land tenure into a three or four-level categorical variable. We felt it was important to match the response options provided to the authors as closely as possible to the ones used in our coding for the sake of minimizing our interpretation of author’s responses and descriptions of the local conditions in the areas where they worked. If we had not, our interpretation of the author’s responses would have been no different from our interpretation of the information presented in their publications. Nevertheless, it may be necessary to highlight this goal in future research so that authors understand our need for their informed distillation of the concept into a categorical response.
+While our coding matched authors’ responses to the questionnaire in some cases, it differed in others. There are numerous explanations for deviation between researchers and authors. The researchers had extensive discussions about the coding protocol, tested it on a sample projects, and revised it based on an inter-coder reliability test. The authors did not have the benefit of this process. As such, the authors and researchers could have had different interpretations and understandings of a question. In fact, in several cases the authors provided information in open-ended comments that made it clear that their selection from the categories provided did not match how the researchers would have coded that variable. Future efforts may benefit from greater care in crafting questions for author responses.
+Similarly, the researchers became familiar with the different categories and arrived at a common classification scheme to differentiate between those categories (e.g. the difference between “moderate” and “high” levels of market access). Without such interactions, it is conceivable that the author’s perceptions of the differences between categories differed from those of the researchers, despite efforts to clarify those differences within the questionnaire.
+Finally, there is a discrepancy between the information available to the researchers and the information that can be drawn upon by the authors. While the researchers limited themselves to the information about a project presented in the articles, the authors were able to draw on their full experience with the project. In fact, many authors commented within the survey that there was more to the project than they were able to present in the associated article.
+We do think that the questionnaire was adequate for the limited purpose of filling in missing values in the database. With modification, in the future this approach may be a more useful tool for more fully assessing the validity of coding projects derived from a variety of research methods and analytical techniques and written by authors from diverse disciplinary backgrounds.
+• 3.
+Exploring interactions between key predictors to generate more detailed hypotheses
+In this study, we lacked the data to explore the ways in which variables within the same domain and variables from different domains may interact to affect conservation outcomes. It is possible, and even likely, that some of the effects we observed are dependent upon, or mediated by the effects of other predictors. For instance, the effectiveness of local institutions (a part of the Engagement variable, which was significantly related to behavioral success) may be related to the size of the population or sociocultural or economic heterogeneity in the community [32]. One could also imagine that equitable distribution of benefits may be a function of the degree of participation in project design and implementation. We believe that a crucial next step is to explore these, and other, potential interactions among variables. Qualitative case study analyses can assist with this, but more and better data are required before such a step can be taken using a quantitative comparative approach.
+General conclusion
+This systematic review provided further evidence that CBC can be an effective conservation tool, particularly when studies are well designed and initiated in favorable local contexts. This study aimed to be the first systematic review to explore the effect of national-level variables on the outcomes of CBC projects. Using multivariate analysis we find little support for the prediction that the measured national-level variables would be associated with CBC project outcomes. There were, however, some significant effects in bivariate studies, and these associations warrant further research. In future studies, it will be important to use meaningful measures of a range of outcome-types. Our other results broadly confirm the patterns of association between predictors and project outcomes that have been reported by some previous systematic reviews, as well as more generally in the conservation literature. The multivariate results provide strong indication that well-design projects may be able to overcome challenges imposed by national contexts (e.g. low human development, or rampant corruption) as well as local contexts (e.g. ineffective institutions or unsupportive cultural traditions). This is surely heartening to conservation policy and practitioners. However, understanding more about how factors from multiple scales affect project success, and thus improving conservation practice, is dependent on evidence. As such, improving the quantity and quality conservation monitoring and reporting is still a priority.
+Endnotes
+aThis disparity between the bivariate results and multivariate results can be explained by a statistical phenomenon known as Simpson’s paradox [120].
+bSee Methods section, multivariate analysis for treatment of separation problems for Attitudinal and Ecological analyses.
+References
+• 1.
+Robinson JG: Ethical pluralism, pragmatism and sustainability in conservation practice. Biol Conserv 2011,144(3):958–965.
+Article  Google Scholar
+• 2.
+Western D, Wright M (Eds): Natural connections: Perspectives in community-based conservation. Island Press, Washington, DC; 1994.
+Google Scholar
+• 3.
+Horwich RH, Lyon J: Community conservation: practitioners' answer to critics. Oryx 2007,41(3):376–385.
+Article  Google Scholar
+• 4.
+Agrawal A, Gibson CC: Enchantment and disenchantment: the role of community in natural resource conservation. World Develop 1999,27(4):629–649.
+Article  Google Scholar
+• 5.
+Ribot J, Agrawal A, Larson AM: Recentralizing while decentralizing: how national governments reappropriate forest resources. World Develop 2006,34(11):1864–1886.
+Article  Google Scholar
+• 6.
+Nelson F (Ed): Community Rights, Conservation, and Contested Land. Earthscan, Washington, DC; 2010.
+Google Scholar
+• 7.
+Hulme D, Murphree M: Communities, wildlife, and the "new conservation" in Africa. J Int Dev 1999,11(2):277–285.
+Article  Google Scholar
+• 8.
+Barrett CB, Arcese P: Are integrated conservation-development projects (ICDPs) sustainable? On the conservation of large mammals in Sub-Saharan Africa. World Develop 1995,23(7):1073–1084.
+Article  Google Scholar
+• 9.
+McShane T, Wells MP (Eds): Getting Biodiversity Projects to Work: Towards More Effective Conservation and Developmeny. Columbia University Press, New York; 2004.
+Google Scholar
+• 10.
+Brockington D, Scholfield K: Expenditure by conservation nongovernmental organizations in sub-Saharan Africa. Conserv Lett 2010,3(2):106–113.
+Article  Google Scholar
+• 11.
+Dressler W, et al.: From hope to crisis and back again? A critical history of the global CBNRM narrative. Environ Conserv 2010,37(1):5–15.
+Article  Google Scholar
+• 12.
+Chan KMA, et al.: When agendas collide: human welfare and biological conservation. Conserv Biol 2007,21(1):59–68.
+Article  Google Scholar
+• 13.
+Brooks JS, Franzen MA, Borgerhoff Mulder M, Holmes CH, Grote M: Development as a conservation tool: Evaluating ecoological, economic, behavioural, and attitudinal outcomes. in Systematic Review No. 20. Centre for Evidence-Based Conservation, Birmingham, UK; 2006.
+Google Scholar
+• 14.
+Waylen KA, Fischer A, McGowan PK, Thirgood SJ, Milner-Gulland EJ: The effect of local cultural context on community-based conservation interventions: evaluating ecological, economic, attitudinal, and behavioural outcomes. in Systematic Review No. 80. Collaboration for Environmental Evidence, Birmingham, U.K; 2010.
+Google Scholar
+• 15.
+Garnett ST, Sayer J, du Toit JT: Improving the effectiveness of interventions to balance conservation and development: a conceptual framework. Ecology and Society 2007,12(1):2.
+Google Scholar
+• 16.
+Tole L: Reforms from the ground up: a review of community-based forest management in tropical developing countries. Environ Manage 2010,45(6):1312–1331.
+Article  Google Scholar
+• 17.
+Borgerhoff Mulder M, Coppolillo P: Conservation: Linking Ecology, Economics and Culture. Princeton University Press, Princeton, NJ; 2005.
+Google Scholar
+• 18.
+Brooks JS, Franzen MA, Holmes CM, Grote M, Borgerhoff Mulder M: Testing hypotheses for the success of different conservation strategies. Conserv Biol 2006,20(5):1528–1538.
+Article  Google Scholar
+• 19.
+Padgee A, Kim Y, Daugherty PJ: What makes community forestry management successful: a meta-study from community forests throughout the world. Soc Natur Resour 2006,19(1):33–52.
+Article  Google Scholar
+• 20.
+Waylen KA, Fischer A, McGowan PK, Thirgood SJ, Milner-Gulland EJ: The effect of cultural context on the success of community-based conservation interventions. Conserv Biol 2010,24(4):1119–1129.
+Article  Google Scholar
+• 21.
+Agrawal A, Chhatre A: Explaining success on the commons: community forest governance in the Indian Himalaya. World Develop 2006,34(1):149–166.
+Article  Google Scholar
+• 22.
+Tallis H, Kareiva P, Marvier M, Chang A: An ecosystem services framework to suppport both practical conservation and economic development. Proc Nat Acad Sci USA 2008,105(28):9457–9464.
+CAS  Article  Google Scholar
+• 23.
+Gutierrez NL, Hilborn R, Defeo O: Leadership, social capital and incentives promote successful fisheries. Nature 2011, 470: 386–390.
+CAS  Article  Google Scholar
+• 24.
+Struhsaker TT, Struhsaker PJ, Siex KS: Conserving Africa's rain forests: problems in protected areas and possible solutions. Biol Conserv 2005,123(1):45–54.
+Article  Google Scholar
+• 25.
+Ostrom E: A diagnostic approach for going beyond panaceas. Proc Nat Acad Sci USA 2007,104(39):15181–15187.
+CAS  Article  Google Scholar
+• 26.
+Nelson F, Agrawal A: Patronage or participation? community-based natural resource management reform in Sub-Saharan Africa. Develop Change 2008,39(4):557–585.
+Article  Google Scholar
+• 27.
+Smith RJ, Muir RDJ, Walpole MJ, Balmford A, Leader-Williams N: Governance and the loss of biodiversity. Nature 2003, 426: 67–70.
+CAS  Article  Google Scholar
+• 28.
+Dasgupta P: Economics: A Very Short Introduction. Oxford University Press, Oxford; 2007.
+Google Scholar
+• 29.
+Sutherland WJ, Pullin AS, Dolman PM, Knight TM: The need for evidence-based conservation. Trend Ecol Evolut 2004,19(6):305–308.
+Article  Google Scholar
+• 30.
+Wollenberg E, Merino L, Agrawal A, Ostrom E: Fourteen years of monitoring community-managed forests: learning from IFRIs experience. Int For Rev 2007,9(2):670–683.
+Google Scholar
+• 31.
+Agrawal A, Ostrom E: Collective action, property rights, and decentralization in resource use in India and Nepal. Politics and Society 2001,29(4):485–514.
+Article  Google Scholar
+• 32.
+Poteete AR, Ostrom E: Heterogeneity, group size, and collective action: the role of institutions in forest management. Develop Change 2004,35(3):435–461.
+Article  Google Scholar
+• 33.
+Ruttan L: Sociocultural heterogeneity and the commons. Curr Anthropol 2006,47(5):843–853.
+Article  Google Scholar
+• 34.
+Ostrom E, Schlager E: The formation of property rights. In Rights to nature. Edited by: Hanna SS, Foke C, Maler KG. Island, Washington DC; 1996:127–156.
+Google Scholar
+• 35.
+Gibson C, Williams JT, Ostrom E: Local enforcement and better forests. World Develop 2005,33(2):273–284.
+Article  Google Scholar
+• 36.
+Gibson C, Doods D, Turner P: Explaining community-level forest outcomes: salience, scarcity and rules in Eastern Guatemala. Conserv Soc 2007,5(3):361–381.
+Google Scholar
+• 37.
+Schwartzman S, Nepstad D, Moreira A: Arguing tropical forest conservation: people versus parks. Conserv Biol 2000,14(5):1370–1374.
+Article  Google Scholar
+• 38.
+Redford KH, Padoch C: Conservation of neotropical forests: working from traditional resource use. Columbia University Press, New York; 1992:475. xiii
+Google Scholar
+• 39.
+Naughton-Treves L, Buck M, Brandon K: The role of protected areas in conserving biodiversity and sustaining local livelihoods. Annu Rev Environ Resour 2005,30(1):219–252.
+Article  Google Scholar
+• 40.
+Dietz T, Ostrom E, Stern PC: The struggle to govern the commons. Science 2003,302(5652):1907–1912.
+CAS  Article  Google Scholar
+• 41.
+Ostrom E: A behavioral approach to the rational choice theory of collective action. Am Pol Sci Rev 1998,92(1):1–22.
+Article  Google Scholar
+• 42.
+Alvard M: Indigenous hunting in the neotropics: conservation or optimal foraging. In Behavioral Ecology and Conservation Biology. Edited by: Caro T. Oxford University Press, New York; 1998.
+Google Scholar
+• 43.
+Agrawal A: Common property institutions and sustainable governance of resources. World Develop 2001,29(10):1649–1672.
+Article  Google Scholar
+• 44.
+Cox M, Arnold G, Tomas SV: A review of design principles for community-based natural resource management. Ecology and Society 2010,15(4):38–57.
+Google Scholar
+• 45.
+Ostrom E, Burger J, Field CB, Norgaard RB, Policansky D: Revisiting the commons: Local lessons, global challenges. Science 1999,284(5412):278–282.
+CAS  Article  Google Scholar
+• 46.
+Baland J, Abraham A: Participatory development and the preferences of endogenous community imperfections. J Dev Stud 2002,39(2):104–136.
+Article  Google Scholar
+• 47.
+Godoy R: Indians, Markets, & Rainforests: Theories, Methods & Analysis. Columbia University Press, New York; 2001.
+Google Scholar
+• 48.
+Ostrom E: Governing the Commons: The Evolution of Institutions for Collective Action. Cambridge University Press, Cambridge; 1990.
+Google Scholar
+• 49.
+Peterson R, Russell D, West PC, Brosius JP: Seeing (and doing) conservation through cultural lenses. Environ Manage 2010,45(1):5–18.
+Article  Google Scholar
+• 50.
+Bruner AG, Gullison RE, Rice RE, da Fonseca GAB: Effectiveness of parks in protecting tropical biodiversity. Science 2001,291(5501):125–128.
+CAS  Article  Google Scholar
+• 51.
+Berkes F: Re-thinking community-based conservation. Conserv Biol 2004,18(3):621–630.
+Article  Google Scholar
+• 52.
+Lindsay WK: Integrating parks and pastoralists: Some lessons from Amboseli. In Conservation in Africa: People, policies and practice. Edited by: Anderson D, Grove R. Cambridge University Press, Cambridge; 1987:149–167.
+Google Scholar
+• 53.
+Caro TM, et al.: Consequences of different forms of conservation for large mammals in Tanzania: preliminary analyses. Afr J Ecol 1998,36(4):303–320.
+Article  Google Scholar
+• 54.
+Ferraro PJ: The future of payments for environmental services. Conserv Biol 2011,25(6):1134–1138.
+Article  Google Scholar
+• 55.
+Bardhan P: Decentralization of governance and development. J Econ Perspect 2002,16(4):185–205.
+Article  Google Scholar
+• 56.
+Dasgupta A, Beard VA: Community driven development, collective action and elite capture in indonesia. Develop Change 2007,38(2):229–249.
+Article  Google Scholar
+• 57.
+Saito-Jensen M, Nathan I, Treue T: Beyond elite capture? community-based natural resource management and power in Mohammed Nagar village, Andhra Pradesh, India. Environ Conserv 2010,37(3):327–335.
+Article  Google Scholar
+• 58.
+Pretty J: Social capital and the collective management of resources. Science 2003,302(5652):1912–1914.
+CAS  Article  Google Scholar
+• 59.
+Janssen MA, Ostrom E: Adoption of a new regulation for the governance of common pool resources by a heterogeneous populations. In Inequality, Cooperation, and Environmental Sustainability. Edited by: Baland J, Bardhan P, Bowles S. Princeton University Press, Princeton, NJ; 2007:60–96.
+Google Scholar
+• 60.
+Salafsky N, et al.: A systematic test of an enterprise strategy for community-based biodiversity conservation. Conserv Biol 2001,15(6):1585–1595.
+Article  Google Scholar
+• 61.
+Baland JM, Bardhan P, Bowles S (Eds): Inequality, cooperation, and environmental sustainabllity. Princeton University Press, Princeton, N.J; 2007.
+Google Scholar
+• 62.
+Abbot JIO, Thomas DHL, Gardner AA, Neba SE, Khen MW: Understanding the links between conservation and development in the Bamenda highlands, Cameroon. World Develop 2001,29(7):1115–1136.
+Article  Google Scholar
+• 63.
+Brashares JS, Golden CD, Weinbaum KZ, Barrett CB, Okello GV: Economic and geographical drivers of wildlife consumption in rural Africa. Proc Nat Acad Sci USA 2011,108(34):13931–13936.
+CAS  Article  Google Scholar
+• 64.
+Sponsel LE, Headland TE, Bailey RC (Eds): Tropical Deforestation: The Human Dimensions. Columbia University Press, New York; 1996.
+Google Scholar
+• 65.
+Sayer J, Campbell B: The Science of Sustainable Development. Cambridge University Press, Cambridge, UK; 2004.
+Google Scholar
+• 66.
+Paciotti B, Borgerhoff Mulder M: Sungusungu: the role of preexisting and evolving social instiutions among Tanzanian vigilante organizations. Hum Organ 2004,63(1):112–124.
+Article  Google Scholar
+• 67.
+Carpenter JP: Punishing free-riders: how group size affects mutual monitoring and the provision of public good. Games Econ Behav 2007,60(1):31–51.
+Article  Google Scholar
+• 68.
+Marwell G, Oliver PE: The Critical Mass in Collective Action: A Micro-Social Theory. Cambridge University Press, New York; 1993.
+Google Scholar
+• 69.
+Olson M: The Logic of Collective Action: Public Goods and the Theory of Groups. Harvard University Press, Cambridge, Mass; 1965:176. x
+Google Scholar
+• 70.
+Agrawal A, Goyal S: Group size and collective action, third party monitoring in common-pool resources. Comp Pol Stud 2001,34(1):63–93.
+Article  Google Scholar
+• 71.
+Agrawal A, Yadama GN: How do local institutions mediate market and population pressures on resources? Forest Panchayats in Kumaon, India. Dev Change 1997,28(3):435–465.
+Article  Google Scholar
+• 72.
+Ruttan L: Economic heterogeneity and the commons: effects on collective action and collective goods provisioning. World Develop 2008,36(5):969–985.
+Article  Google Scholar
+• 73.
+Baland J, Platteau JP: The ambiguous impact of inequality on local resource management. World Develop 1999,27(5):773–788.
+Article  Google Scholar
+• 74.
+Adhikari BD, Lovett JC: Institutions and collective action: does heterogeneity matter in community-based resource management. J Dev Stud 2006,42(3):426–445.
+Article  Google Scholar
+• 75.
+Andersson K, Agrawal A: Inequalities, institutions, and forest commons. Glob Environ Chang 2011,21(3):866–875.
+Article  Google Scholar
+• 76.
+ACSC 2010.
+• 77.
+Persha L, Agrawal A, Chhatre A: Social and ecological synergy: local rulemaking, forest livelihoods, and biodiversity conservation. Science 2011,331(6024):1606–1608.
+CAS  Article  Google Scholar
+• 78.
+Oldekop JA, Bebbington AJ, Brockington D, Prieziosi RF: Understanding the lessons and limitations of conservation and development. Conserv Biol 2010,24(2):461–469.
+Article  Google Scholar
+• 79.
+Higgins J, Green S (Eds): In Cochrane Handbook for Systematic Reviews of Interventions (The Cochrane Collaboration. 2008. http://www.cochrane-handbook.org
+Google Scholar
+• 80.
+Gamer M, Lemon J, Fellows I: The irr package for R: various coefficients of interrater reliability and agreement. R foundation for Statistical Computing, Vienna; 2008.
+Google Scholar
+• 81.
+Team RDC: R: A language and environment for statistical computing. Version 2.13.0. R Foundation for Statistical Computing, Vienna; 2011.
+Google Scholar
+• 82.
+Cohen J: Weighted kappa: nominal scale agreement with provision for scaled disagreement or partial credit. Psychol Bull 1968,70(4):213–220.
+CAS  Article  Google Scholar
+• 83.
+Siegel S, Castellan NJJ: Nonparametric statistics for the life sciences. McGraw-Hill, London; 1988.
+Google Scholar
+• 84.
+Schwartzman S, Moreira A, Nepstad D: Rethinking tropical forest conservation: perils in parks. Conserv Biol 2000,14(5):1351–1357.
+Article  Google Scholar
+• 85.
+Redford KH: The empty forest. Bioscience 1992,42(6):412–422.
+Article  Google Scholar
+• 86.
+Storey JD: A direct approach to false discovery rates. J R Stat Soc B-Stat Methodol 2002,64(3):479–498.
+Article  Google Scholar
+• 87.
+Roback PJ, Askins RA: Judicious use of multiple hypothesis tests. Conserv Biol 2005,19(1):261–267.
+Article  Google Scholar
+• 88.
+Little RJA, Rubin DB: Statistical Analysis with Missing Data. 2nd edition. John Wiley, New York; 2002.
+Google Scholar
+• 89.
+Chatfield C: Model uncertainty, data mining and statistical inference. J R Stat Soc A 1995,158(3):419–466.
+Article  Google Scholar
+• 90.
+Babyak MA: What you see may not be what you get: a brief, nontechnical introduction to overfitting in regression-type models. Psychosom Med 2004,66(3):411–421.
+Google Scholar
+• 91.
+Venables WN, Ripley BD: Modern Applied Statistics with S. Fourth Edition. Springer Science New York, NY; 2002.
+Google Scholar
+• 92.
+Burnham KP, Anderson DR: Model Selection and Multi-Model Inference: a Practical Information-Theoretic Approach. Springer, New York, NY; 2002.
+Google Scholar
+• 93.
+Steyerberg EW, Marinus JC, Eijkemans J, Habbema DF: Stepwise selection in small data sets: a simulation study of bias in logistic regression analysis. J Clin Epidemiol 1999,52(10):935–942.
+CAS  Article  Google Scholar
+• 94.
+Reineking B, Schroder B: Constrain to perform: regularization of habitat models. Ecol Model 2006,19(3–4):675–690.
+Article  Google Scholar
+• 95.
+Tibshirani R: Regression shrinkage and selection via the lasso. J R Stat Soc B 1996,58(1):267–288.
+Google Scholar
+• 96.
+Harrell FE: Regression Modeling Strategies: With Applications to Linear Models, Logistic Regression, and Survival Analysis. Springer, New York; 2001.
+Google Scholar
+• 97.
+Gelman A, Hill J: Data Analysis Using Regression and Multilevel/Hierarchical Models. Cambridge Univeristy Press, New York, NY; 2007.
+Google Scholar
+• 98.
+Rubin DB: Multiple imputation for nonresponse in surveys. Wiley, New York; 1987.
+Google Scholar
+• 99.
+Albert A, Anderson JA: On the existence of maximum likelihood estimates in regression models. Biometrika 1984,71(1):1–10.
+Article  Google Scholar
+• 100.
+Sponsel LE, Bailey RC, Headland TN: Anthropological perspectives on the causes, consequences, and solutions of deforestation. In Tropical deforestation: The human dimension. Edited by: Sponsel LE, Headland TN, Bailey RC. Columbia University Press, New York; 1996:3–52.
+Google Scholar
+• 101.
+Andam KS, Ferraro PJ, Pfaff A, Sanchez-Azofiefa GA, Robalino JA: Measuring the effectiveness of protected areas networks in reducing deforestation. Proc Nat Acad Sci USA 2008,105(42):16089–16094.
+CAS  Article  Google Scholar
+• 102.
+Andam KS, Ferraro PJ, Sims KRE, Healy A, Holland MB: Protected areas reduced poverty in Costa Rica and Thailand. Proc Nat Acad Sci USA 2010,107(22):9996–10001.
+CAS  Article  Google Scholar
+• 103.
+Landis JR, Koch CG: The measurement of observer agreement for categorical data. Biometrics 1977,33(1):159–174.
+CAS  Article  Google Scholar
+• 104.
+Mansuri G, Rao V: Evaluating community-based and community-driven development: a crtical review of the evidence. (World Bank). 2003, 1–54.
+Google Scholar
+• 105.
+Klein J, Reau B, Kalland I, Edwards M: Conservation, development and a heterogeneous community: The case of the Ambohitantely Special Reserve. Soc Natur Resour 2007,20(5):451–467.
+Article  Google Scholar
+• 106.
+Stevens S: Conservation through cultural survival. Island Press, Washington DC; 1997.
+Google Scholar
+• 107.
+Van Rijsoort J, Jinfeng Z: Participatory resource monitoring as a means for promoting social change in Yunnan, China. Biodivers Conserv 2005,14(11):2543–2573.
+Article  Google Scholar
+• 108.
+Topp-Jorgensen E, Poulsen MK, Lund JF, Massao JF: Community-based monitoring of natural resource use and forest quality in montane forests and miombo woodlands of Tanzania. Biodivers Conserv 2005,14(11):2653–2677.
+Article  Google Scholar
+• 109.
+Campbell LM, Hallboom BJ, Trow J: Sustainability of community-based conservation: sea turtle egg harvesting in Ostinal (Costa Rica) ten years later. Environ Conserv 2007,34(2):122–131.
+Article  Google Scholar
+• 110.
+Scanlon LJ, Kull CA: Untangling the links between wildlife benefits and community-based conservation at Torra Conservancy, Namibia. Dev South Afr 2009,26(1):75–93.
+Article  Google Scholar
+• 111.
+Bajracharya SB, Furley PA, Newton AC: Effectiveness of community involvement in delivering conservation benefits to the Annapurna Conservation Area, Nepal. Environ Conserv 2005,32(3):239–247.
+Article  Google Scholar
+• 112.
+Aswani S, Albert S, Sabetian A, Furusawa T: Customary management as precautionary and adaptive principles for protecting coral reefs in Oceania. Coral Reefs 2007,26(4):1009–1021.
+Article  Google Scholar
+• 113.
+Porter-Bolland L, et al.: Community managed forests and forest protected areas: an assessment of their conservation effects across the tropics. Forest Ecol Manage 2011,268(15):6–17.
+Google Scholar
+• 114.
+Cao S, Zhing B, Yue H, Zeng H, Zeng J: Development and testing of a sustainable environmental restoration policy on eradicating the poverty trap in China's Changting County. Proc Nat Acad Sci USA 2009,106(26):10712–10716.
+CAS  Article  Google Scholar
+• 115.
+Tallis H, Goldman R, Uhl M, Brosi B: Integrating conservation and development in the field: implementing ecosystem service projects. Front Ecol Environ 2009.,7(1):
+• 116.
+Lele S, Wilhusen P, Brockington D, Seidler R, Bawa K: Beyond exclusion: alternative approaches to biodiversity conservation. Curr Opin Environ Sustain 2010,2(1–2):94–100.
+Article  Google Scholar
+• 117.
+Stem CJ, Lassoie JP, Lee DR, Deshler DD, Schelhas JW: Comunity participation in ecotourism benefits: the link to conservation practices and perspectives. Soc Natur Resour 2003, 64: 479–498.
+Google Scholar
+• 118.
+Conservation Measures Partnership. http://www.conservationmeasures.org/
+• 119.
+Cambridge Conservation Forum. http://www.cambridgeconservationforum.org.uk/projects/measures/
+• 120.
+Simspon EH: The interpretation of interaction in contingency tables. J R Stat Soc B 1951,13(2):238–241.
+Google Scholar
+• 121.
+Dudley N (Ed): TGuidelines for Applying Protected Area Management Categories. Gland, Switzerland: IUCN; 2008.
+Google Scholar
+Download references
+Acknowledgements
+We would like to thank Pete Brosius and his lab at the Center for Integrative Conservation Research at the University of Georgia for hosting JSB and KAW, which greatly helped this project get up and running. We would like to thank research assistants Shandel Brown, Lauren Weisenfluh, and David Samuel Kim for their tremendous help with ACSC library search, delivery of the author questionnaire, coding for the quality assessment, and coder validity analysis. We would also like to thank all of the authors who were kind enough to respond to our emails and respond to the questionnaire. Finally, we would also like to acknowledge support for JSB from the Arnold and Mabel Beckman Foundation through a postdoctoral fellowship at the Beckman Institute, University of Illinois Urbana-Champaign.
+Author information
+Affiliations
+The Ohio State University School of Environment and Natural Resources, 210 Kottman Hall, 2021 Coffey Rd, Columbus, OH, 43212, USA
+Jeremy Brooks
+The James Hutton Institute, Social, Economic, and Geographic Sciences Group Cragiebuckler, Aberdeen, Scotland, AB15 8QH, UK
+Kerry Ann Waylen
+Anthropology Department, University of California, Davis, 210 Young Hall, One Shields Ave., Davis, CA, 95616, USA
+Monique Borgerhoff Mulder
+Authors
+• Jeremy Brooks
+View author publications
+You can also search for this author in PubMed Google Scholar
+• Kerry Ann Waylen
+View author publications
+You can also search for this author in PubMed Google Scholar
+• Monique Borgerhoff Mulder
+View author publications
+You can also search for this author in PubMed Google Scholar
+Corresponding author
+Correspondence to Monique Borgerhoff Mulder.
+Additional information
+Competing interests
+The authors have no financial competing interests. Monique Borgerhoff Mulder is on the Editorial Board of Environmental Evidence and is on the Board of Directors of Savannas Forever, a Tanzania-based NGO that emphasizes conservation, communities, business and wildlife. No projects associated with Savannas Forever were included in the study.
+Authors’ contributions
+JSB contributed to the conception of the study conducted the search, organized articles, helped develop the hypotheses, helped create and revise the coding protocol, helped write the draft protocol, coded all projects, helped develop the author questionnaire, contacted corresponding authors with a request to complete the questionnaire, entered all data, conducted the analyses, created all tables and figures, participated in writing the systematic review, and trained and oversaw research assistants who participated in the search, contacting authors and conducting the study quality assessment. KAW contributed to the conception of the study, helped create and revise the coding protocol, helped develop the hypotheses, helped write the draft protocol, coded about half of the projects, commented on author questionnaires and analyses, and helped write the systematic review. MBM contributed to the conception of the study, helped develop the hypotheses, helped write the draft protocol, commented on the analyses, and helped write the systematic review. All authors read and approved the final manuscript.
+Electronic supplementary material
+Additional file 1: Appendix A. (DOCX 45 KB)
+Additional file 2: Appendix B. Correlation matrix using Spearman's r for predictors used in the multivariate analysis for all five imputed datasets. (DOCX 158 KB)
+Additional file 3: Appendix A-D. Results of proportional odds logistic regression after stepwise, forward AIC model selection technique. The estimates and standard errors for each variable from each of the five imputed datasets are shown. Pooled estimates, standard errors and confidence intervals are also included. (DOCX 139 KB)
+Additional file 4: Appendix D. Projects and associated publications included in the study along with study quality assessment results and the type of monitoring and outcome reported for each project (quant= quantitative, qual=qualitative, auth = author’s judgment). (DOCX 171 KB)
+Authors’ original submitted files for images
+Below are the links to the authors’ original submitted files for images.
+Authors’ original file for figure 1
+Authors’ original file for figure 2
+Authors’ original file for figure 3
+Authors’ original file for figure 4
+Authors’ original file for figure 5
+Authors’ original file for figure 6
+Authors’ original file for figure 7
+Rights and permissions
+Reprints and Permissions
+About this article
+Cite this article
+Brooks, J., Waylen, K.A. & Mulder, M.B. Assessing community-based conservation projects: A systematic review and multilevel analysis of attitudinal, behavioral, ecological, and economic outcomes. Environ Evid 2, 2 (2013). https://doi.org/10.1186/2047-2382-2-2
+Download citation
+Received: 14 May 2012
+Accepted: 09 January 2013
+Published: 31 January 2013
+DOI: https://doi.org/10.1186/2047-2382-2-2
+Keywords
+• Community-based conservation
+• Conservation and development
+• Conservation evaluation
+• Conservation interventions
+• Socio-ecological systems
+• Community institutions
+• Evidence based conservation
+• Multi-level analysis
+Download PDF
+Advertisement
+Environmental Evidence
+ISSN: 2047-2382
+Contact us
+• Submission enquiries: Access here and click Contact Us
+• General enquiries: info@biomedcentral.com
+• Read more on our blogs
+• Receive BMC newsletters
+• Manage article alerts
+• Language editing for authors
+• Scientific editing for authors
+• Policies
+• Accessibility
+• Press center
+• Support and Contact
+• Leave feedback
+• Careers
+Follow BMC
+• BMC Twitter page
+• BMC Facebook page
+• BMC Weibo page
+By using this website, you agree to our Terms and Conditions, Privacy statement and Cookies policy. Manage the cookies we use in the preference centre.
+© 2020 BioMed Central Ltd unless otherwise stated. Part of Springer Nature.

@@ -1,0 +1,1134 @@
+van der Meer et al. Environ Evid        (2020) 9:2
+https://doi.org/10.1186/s13750-020-0185-z                                                                              Environmental Evidence
+  SYSTEMATIC MAP                                                                                                                                              Open Access
+What evidence exists on the impact
+of agricultural practices in fruit orchards
+on biodiversity? A systematic map
+Markus van der Meer, Sonja Kay, Gisela Lüscher and Philippe Jeanneret*
+  Abstract
+  Background: Biodiversity loss, partly due to intensification of agriculture, has become a global issue. In this context,
+  fruit producers have been looking for nature-friendly production methods. By reducing intensive pesticide use and
+  enhancing orchard management, they aim to create habitats suitable for beneficial organisms. Fruit production, espe-
+  cially in low-stem orchards, requires several interventions (plant protection, tillage, greenwork) throughout the year,
+  each of them representing a disturbance. Thus, an expert system that evaluates and aggregates the impact of individ-
+  ual farming activities on a set of biodiversity indicators would be a valuable tool for developing new, less biodiversity-
+  damaging scenarios. This expert system should be based on expert knowledge and scientific evidence. Surprisingly,
+  our literature searches suggested that international journals contain few publications on the impact of most practices
+  (except pesticide use) in orchards on biodiversity in general and beneficial organisms in particular. However, in the
+  last decade, an increasing number of published articles have pointed out the rising importance of biodiversity in life
+  cycle assessment. We therefore compiled and structured the available evidence to (1) assess the state of research on
+  discrete biodiversity indicators and agricultural practices, (2) identify the literature relevant for assessing production
+  impact and habitat suitability for supporting biodiversity and (3) provide a wide-ranging overview of existing evi-
+  dence of the impact of agricultural practices in fruit orchards on biodiversity.
+  Methods: A systematic literature search was performed in scientific journals, agronomy magazines and across the
+  internet in English, German and French. The main reviewer followed a step-by-step eligibility scheme that was vali-
+  dated by a Kappa test between two reviewers. Additionally, a third reviewer checked a subset of articles. We mapped
+  a large range of parameters, which were structured in code sets. To compute a study validity assessment, we used
+  13 parameters that reflected the relevance of each article to the impact of agricultural practices in fruit orchards on
+  biodiversity indicator species groups.
+  Results: The search returned 947 included articles. The map identified major differences in the attention given to dif-
+  ferent indicators and practices over time, ranging from closely investigated (clusters) to neglected (gaps)—e.g. spiders
+  and birds or amphibians and reptiles, respectively. The majority of studies were short-term surveys, mainly done in
+  low-stem orchards. Main areas studied were Western Europe and Eastern North America. The resulting database is
+  presented along with descriptive statistics of the distribution and abundance of evidence across time, interventions
+  and outcomes.
+*Correspondence: philippe.jeanneret@agroscope.admin.ch
+Agrarlandschaft und Biodiversität, Agroscope, Reckenholzstrasse 191,
+8046 Zurich, Switzerland
+                                         © The Author(s) 2020. This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing,
+                                         adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and
+                                         the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material
+                                         in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material
+                                         is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the
+                                         permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creat​iveco​
+                                         mmons​.org/licen​ses/by/4.0/. The Creative Commons Public Domain Dedication waiver (http://creat​iveco​mmons​.org/publi​cdoma​in/
+                                         zero/1.0/) applies to the data made available in this article, unless otherwise stated in a credit line to the data.
+
+van der Meer et al. Environ Evid (2020) 9:2                                                                          Page 2 of 27
+  Conclusions: The current systematic map reveals that rigorous and comprehensive investigations on the suitability
+  of orchards as perennial habitats for wildlife, run on the long-term and following a holistic approach, are still basically
+  lacking. Although evidence base on orchard management effects on particular organisms has grown over the past
+  two decades, information to develop reliable close-to-nature management tools and strategies is insufficient. The
+  implications for policy and research suggest that—in view of worldwide biodiversity loss, which may cause a major
+  threat for food production—a better understanding of the role played by orchards and their management in agricul-
+  tural landscapes for biodiversity is required.
+  Keywords: Arboriculture, Habitat management, Management system, Natural enemies, Obstbau, SALCA-biodiversity,
+  Scoring, Semi-natural habitat, Verger
+Background                                                        relying on biodiversity (‘functional biodiversity’) has
+Biodiversity loss has been recognised as a global issue,          become increasingly important and successful in mod-
+and agriculture has been one of the main drivers of global        ern agriculture [13]. It is promoted by statutory organisa-
+biodiversity change [1]. In many parts of Europe, tradi-          tions [14, 15] and—at a more general level—by national
+tional low-intensity farming of recent centuries and its          and international policies [16–18]. Functional biodiver-
+interaction with varying climate, topography and soil             sity is a major pillar of agricultural production [19, 20].
+conditions have created diverse semi-natural habitats             The subject has become important enough to be assessed
+(SNH), which initially increased biodiversity although            in transnational research projects [21]. This emphasises
+natural habitats declined as agriculture spread [2]. How-         that sustainable production strategies require considera-
+ever, intensification of agriculture in recent decades has        tion of many factors, especially considering biodiversity
+occurred across scales: from field scale by increased             at large while looking at functions that particular groups
+inputs of agrochemicals and mechanical activities, to             of species may provide.
+landscape scale by the reduction, simplification and frag-          Decision-making for nature-friendly land use in
+mentation of habitats [3]. These processes have led to            farming landscapes needs methods and indicators for
+major and in some cases unpredictable effects on biodi-           assessing effects on both biodiversity conservation and
+versity, in terms of both conservation and function issues.       function. In the last decade, biodiversity therefore has
+  Agricultural production relies on interventions in              become an important topic as an impact category in life
+crops that maximise monocultural plant growth and pro-            cycle assessment (LCA) [22]. Several approaches have
+tect agro-ecosystems and yields from pests. Mostly, such          been developed, focusing on various aspects of biodiver-
+interventions cause unsuitable conditions for organisms           sity at different scales. Here, we contribute to improving
+except those capable of adapting. Among these interven-           an expert system that considers the impact of individual
+tions, the use of pesticides is one with the highest impact       farming activities on a set of 12 species groups selected
+on wild farmland species (e.g. [4–7]) and on important            as biodiversity indicators [23]. This expert system was
+functions they provide such as pollination [8].                   developed to include biodiversity as an LCA impact cat-
+  Public awareness has been growing, and produc-                  egory in agricultural production (SALCA-Biodiversity
+ers nowadays are looking for nature-friendly produc-              for Swiss Agricultural LCA [24]); it is based on a scor-
+tion methods that would allow reductions in pesticide             ing that estimates the suitability of farmland crops, of the
+use [9]. So, orchards have become typical production              practices with detailed management options occurring
+systems in the context of efforts to reduce pesticide use         there and of semi-natural habitats for the biodiversity
+and promote reliance on natural enemies of pests. The             indicators.
+role of organisms in supporting the fruit grower’s fight            The present aim is to extend the expert system to fruit
+against pests was recognised early [10, 11] and has led           growing orchards. These perennial systems offer a large
+to successfully applied pesticide substitutes such as the         number of contrasting production methods, even regard-
+release of predators and the mating disruption tech-              ing the basic design of an orchard. Orchards can range
+nique. However, the role of organism communities sup-             from intensive and highly technical low-stem systems
+ported by habitat management has been examined with               with extremely high tree densities of far over 1000 trees
+controversial results in recent decades [12]. Careful             per hectare, to extensive, traditional high-stem agro-for-
+examination reveals that research into negative or posi-          est systems with tree densities of 100 trees per hectare or
+tive impacts on biodiversity of all agricultural practices        even less. Each of these systems requires varying inputs
+remains fragmentary and incomplete, especially in fruit           of work, energy and substances within or between years.
+orchards. Yet, in the past few years, pest management             This means that the inputs and, therewith, the impacts
+
+van der Meer et al. Environ Evid (2020) 9:2                                                                       Page 3 of 27
+on biodiversity can vary not only between production          distribution; (2) to help in determining priorities for
+systems but also within a system from year to year. Fur-      future research on the impact of discrete practices on
+thermore, producers choose between different levels of        discrete indicators; and (3) to provide agricultural exten-
+conventional, integrated and organic management forms,        sion services and public science with a wide-ranging
+of which each possesses its own care strategy and sub-        overview of existing evidence aligning with major priori-
+stances input. Examples of contrasting orchard habitats       ties in biodiversity research, in order to improve knowl-
+include dense crops very well equipped with nets, stakes      edge transfer from science to agricultural practice. The
+and metal supports to protect against hail, or scattered      chosen mapping methods conform to ROSES reporting
+high-stem trees without specific protection. Examples         standards (see Additional file 4).
+of important agricultural practices in orchards (APO)
+are pesticide application, fertilisation, thinning of flow-   Methods
+ers and foliage, training system and architecture of the      Deviations from the protocol
+canopy, green cover in the inter-row and use of flowering     When progressing with the literature search and the
+mixtures, direct or indirect utilisation of natural enemies,  evaluation of the findings, we realised that, considering
+and tillage in the row and the inter-row.                     the wide range of different research fields, the sched-
+   The development of expert systems sensu largo relies       uled methods as described in the protocol [25] had to
+strongly on available information from scientific evidence    be amended and adapted. A first major change was the
+and thus requires a strong and clear extraction strategy.     extension of the eligibility key elements (see “Eligibility
+To improve the classification and ease the use of this        criteria” section). The ‘population’ was amended. Rep-
+information in later reviews, e.g. for similar processes or   tiles were added due to the suitability of orchards as their
+future extensions of the expert system described above,       habitats. When searching for ‘bees’, wild bees and honey
+we decided to develop a systematic map (Additional files      bees were included in the search results. Because honey
+1, 2) [25].                                                   bees are important pollinators in orchards, they were also
+                                                              recorded. Mammals were recorded as bats, small mam-
+Objective of the map                                          mals and other mammals. Botanical surveys in orchards
+Looking for best practice methods in agriculture requires     did not differentiate between flora of crops and grass-
+close cooperation between researchers and people with         lands, so the flora was recorded as ‘weeds’ and ‘grasses’.
+practical knowledge. With regard to the development of        The ‘comparator’ was subclassified due to the broad
+sustainable international policies, it is also necessary to   range of topics encountered. The ‘outcome’ was amended
+optimally combine evidence-based and experience-based         by evaluations of disturbance and of the habitat suitabil-
+knowledge [26]. The map therefore contains studies pub-       ity for ISG.
+lished in scientific journals, articles delivered by exten-      The search strings were adapted to the widened popu-
+sion services for farmers and information material from       lation. Furthermore, the internet search was done mostly
+popular science.                                              on Google Scholar because the general search with Bing
+   Orchards are highly diverse production systems, rang-      returned thousands of unusable hits. In addition to a con-
+ing from industrialised ‘tree fields’ to decennia-old SNH     sistency check between two reviewers, a third reviewer
+(Additional file 3: Pictures 1–10). The primary intent of     controlled 100 articles at full-text level. The validity crite-
+the map is to show the extent and distribution of research    ria were described in more detail especially by including
+on impacts of agricultural practices in fruit orchards on     factors influencing long-term management and descrip-
+biodiversity indicator species groups (ISG). This display     tions of the habitat quality and/or suitability for support-
+allows the evaluation of the current depth and degree to      ing biodiversity. To reduce a reviewer bias in the study
+which the relationship has been examined for specific         validity assessment, the factors scoring the articles were
+                                                              sented as both ­Access® and ­Excel® file. The glossary, the
+practices and species groups in different orchard habi-       quantified by a larger expert panel. The map will be pre-
+tats. It thus allows the detection of possible needs for fur-
+ther research or deeper review. The main question [27] is     list of terminology and the central common keyword
+therefore:                                                    list could not be implemented. Finally, the data coding
+                                                              strategy was amended and refined during the mapping
+What evidence exists on the impact of agricultural prac-      process.
+tices in fruit orchards on biodiversity indicator species
+groups? Potential uses of the map are (1) to show, for each   Search for articles
+ISG and APO, whether existing research is ample enough        The search included agricultural practices in orchards
+to answer impact questions regarding e.g. production and      and the 12 selected ISG (weeds, grasses, birds, mammals,
+management systems, methodologies and geographic              reptiles, amphibians, slugs and snails, spiders, carabids,
+
+van der Meer et al. Environ Evid (2020) 9:2                                                                          Page 4 of 27
+butterflies, honey and wild bees, and grasshoppers)              organisational websites, magazines and journals were
+(Additional file 3: Illustration 1).                             found in Switzerland, Germany, France, Italy (North
+   Based on the inventory data of the expert system devel-       Tyrol) and North America in their respective languages.
+oped for crops [23, 28], an inventory of orchard-specific        All information obtained from these websites and the
+practices has been established. The inventory discerns           internet search was considered. The full list of websites is
+three cultivation levels, the third being structured in cul-     shown in Additional file 5.
+tivation activities (‘options’). At the third cultivation level,
+48 main practices including a total of 187 activities were
+identified (Additional file 3: Illustration 2). Examples of      Article screening and study eligibility criteria
+practices are pruning, tillage, insecticide application,         Screening process
+machines, and installation of hail protection nets; exam-        The article screening was achieved with speed reading
+ples of options are type of fertiliser, type of pesticide, type  techniques [31] supported by electronic scanning. Dur-
+of machine, date or duration of the intervention, type of        ing the mapping process (Additional file 3: Illustration 4),
+tillage, etc. Out of these, nine generic search terms were       the team developed a step-by-step eligibility scheme from
+defined, which are likely to be used in most articles deal-      the online search to the full-text assessment (Additional
+ing with the subject.                                            file 3: Illustration 5). The eligibility process took place in
+   Because search functionalities vary across most pub-          three successive steps, always applying the criteria men-
+lishing houses, the search strings shown below were sub-         tioned in “Eligibility criteria” section below: (1) at title
+ject to slight modifications [25]. As far as possible, the       (online search), (2) at abstract (downloaded reference),
+search was restricted to title and abstract, but on most         and (3) at full-text (downloaded *.pdf ) level. Articles
+websites a search of the full text appeared necessary. A         excluded after step (2) or (3) were assigned an exclusion
+preliminary non-systematic literature search was imple-          reason and are shown in Additional file 6. This scheme
+mented in March and April 2016 to evaluate how much              shall also serve the later replicability of the exclusion
+relevant literature possibly exists, to draft search strings     process by others and allow the single reviewer in charge
+and coding strategies, and to ensure that no relevant            of screening the titles and abstracts to comply with the
+articles would be missed. All systematic searches were           eligibility criteria and, in case of doubt, to tend toward
+done from the beginning of November to mid December              inclusion at these steps. No stakeholders were involved in
+2016 by using the subscription of the ETH Zürich library         the review process. All publications included in the map
+[29, 30]. The full list of strings and search modalities         were found with the searches and compiled with the eli-
+effectively used on each website and the date of visit are       gibility scheme (Additional file 3: Illustration 5).
+shown in Additional file 5.                                         The conformance of the eligibility decision among
+   The search strings were always ‘orchard*’ combined            reviewers was validated by a Kappa test [32] at title and
+with one or more ISG and/or APO terms (Additional                abstract level: to control for consistency, two review-
+file 3: Illustration 3). Secondary terms were only used to       ers checked one publishing house independently and
+test the number of hits, but they appeared unnecessary           compared their results of agreement (meaning that both
+as they found no further articles than the main terms.           reviewers accepted or rejected the same title). The first
+Because searching for ‘bee*’ and ‘spider*’ resulted in           Kappa test showed a ‘substantial’ [33, 34] score at title
+many unfitting hits (finding e.g. ‘been’ and ‘spider mites’),    level (n = 473; agreement of 84% = kappa of 0.68) but an
+only the plural form was chosen. A ‘NOT’ was only used           insufficient ‘fair’ score at abstract level (n = 165; agree-
+on Google Scholar to exclude the terms ‘mite’ and ‘tropic’       ment of 70% = kappa of 0.31). The reviewers discussed
+(compare below in “Eligibility criteria” section).               their results and refined the eligibility scheme. They then
+   Searches were performed in English on websites of the         reassessed the articles on which they first had disagreed
+following eight publishing houses or compilations of dif-        and re-evaluated them. The second Kappa test then
+ferent publishers: CAB Direct, IngentaConnect, Oxford            showed an ‘almost perfect’ score (n = 473; agreement of
+Journals, Science Direct, Springer Link, Taylor Francis          94% = kappa of 0.88) at title level and a ‘substantial’ score
+Online, Web of Science, and Wiley Online Library.                (n = 188; agreement of 93% = kappa of 0.61) at abstract
+   With a view to gathering further scientific, agronomic        level. The main lessons learnt from the Kappa tests
+and grey literature, two internet searches using Google          were that (1) reviewers need familiarity with agronomi-
+Scholar (1990 checked hits) were performed in English,           cal and biological terminology and (2) in case of doubt,
+German and French. An internet search with a stand-              they should rather include than exclude. The enhanced
+ard search engine (Bing) was only performed during the           eligibility scheme was then used by the main reviewer to
+preliminary search; this search returned billions of unus-       implement the whole search.
+able hits. Furthermore, publications from 46 specialised
+
+van der Meer et al. Environ Evid (2020) 9:2                                                                      Page 5 of 27
+   As an additional validation of the exclusion process, a       We excluded all articles not accessible as full text and
+third reviewer checked at full text a subset of 100 arti-     those that only addressed:
+cles previously excluded by the main reviewer at abstract
+or full-text level. For exclusions at the abstract level, the    1. Berries, arable crops, vegetables, vineyards, forests or
+third reviewer disagreed on only two articles, whereas he           grasslands.
+agreed on 100% of the exclusions at full-text level. This        2. Tropical fruit and nut crops and citrus fruits grown
+validation led to another improvement of the eligibil-              in tropical climates.
+ity scheme that should now ensure that any third person          3. Agronomic aspects of an APO without description of
+could use it with similar decision results.                         its impact on an ISG.
+   Due to the large number of ISG and APO included in            4. Life trait aspects of an ISG without impact descrip-
+the map, the full-text assessment was first performed by            tion of an APO.
+an electronic scan of the *.pdf within the reference man-        5. Organisms other than the mentioned population.
+ager software to identify relevant terms in each article
+(Additional file 3: Illustration 6). No article was excluded
+based on this electronic scan: The terms were recorded        Study validity assessment
+on a spreadsheet that served as a meta-guide when read-       In line with the main intent of the map (i.e. to show the
+ing the full text and thus allowed us to easily decide upon   extent and distribution of research on impacts of agri-
+the final eligibility before mapping the relevant articles in cultural practices in fruit orchards on biodiversity ISG),
+detail.                                                       a validity assessment of individual articles was imple-
+                                                              mented. This assessment was for a systematic mapping
+Eligibility criteria                                          and thus not as thorough as for a systematic review [25].
+The geographical location of the eligible articles included   Although it sufficed for a swift preselection of the litera-
+dry, temperate and continental climates worldwide             ture (because it reflects a relevance of the articles with
+according to the Köppen–Geiger climate classification         regard to the map’s intent), it was not used in further
+[35, 36]. Eligible orchard crops assessed in articles or      synthesis.
+studies included crops of these climates (pome fruits,           To avoid a possible reviewer bias, it seemed neces-
+stone fruits, olives, nuts, kiwi and citrus). Eligible lan-   sary to attempt a quantification of some topics. Thirteen
+guages were English, German and French. All articles          mapped fields were used for the study validity assess-
+involving the following key elements were included.           ment (SVA): study design, number of sites, duration of
+   Eligible populations: Selected biodiversity indica-        the survey, number of samplings, frequency of samplings,
+tor groups (weeds, grasses, birds, mammals, reptiles,         tabular or graphical data visualisation, statistical process-
+amphibians, slugs and snails, spiders, carabids, butter-      ing, availability of species lists, treatment plan shown,
+flies, honey and wild bees, and grasshoppers).                precision of the shown treatment plan, highest descrip-
+   Eligible interventions: All identified APO [fertilisation, tion level of an ISG, highest description level of an APO,
+netting (hail, insects, birds), harvest, irrigation, mowing,  and spatial extent. These fields should reflect scientific
+mulching, grazing, pest control (biological, fungicide,       and thematic aspects. The fields chosen for the SVA were
+insecticide, herbicide, mechanical), pruning, thinning,       also outlined—with regard to the map’s intent and the
+tillage, vegetation management]. Factors influencing          guidelines of systematic mapping—to favour field-based
+long-term management, i.e. site choice and training sys-      research studies, because these are the most important
+tem [landscape, surroundings, biodiversity elements           ones when intending further, deeper going reviews or
+(hedges, flower strips, natural or artificial nests, heaps of analyses.
+stones, etc.)].                                                  The quantification should reflect a broader expert opin-
+   Eligible comparators: Comparison of pre- and post-         ion, wherefore a panel of 10 people with different back-
+intervention and comparison of impacts of practices with      ground but all involved in agricultural research were
+each other or with an untreated, abandoned or semi-nat-       assembled and asked to evaluate some mapped fields and
+ural site. Comparisons of the habitat quality and/or suit-    their codes. The panel assigned a rating from 0 to 5 (non-
+ability of orchards for supporting biodiversity.              relevant to important) to each code of these mapped
+   Eligible outcomes: (1) Measures of change in diversity,    fields (Additional file 7). The 10 individual ratings were
+dispersal and abundance of the ISG; (2) evaluations of        compared, using the standard deviation to assess agree-
+lethality, disturbance or life trait changes of the ISG; and  ment and disagreement. In consequence the median was
+(3) evaluations of the habitat quality/suitability for the    selected as the best reflection of the plurality of opinion
+biodiversity ISG.                                             and therefore to be assigned to each code. Then, the SVA
+   Eligible types of study design: All study designs.         was calculated by (i) replacing the mapped codes with the
+
+van der Meer et al. Environ Evid     (2020) 9:2                                                                                      Page 6 of 27
+medians, (ii) building the unweighted mean across the                              The mapping of the population and intervention cor-
+scores of the 13 fields, and (iii) transforming it into a per-                  responds to the column and row headings shown in
+centage value for easier understanding. Finally, the SVA                        the spreadsheets. To assess the importance assigned to
+was added to the map. Using the medians shown in Addi-                          the practices and organisms in the respective articles, a
+tional file 7 warrants the repeatability of the procedure,                      ‘description level’ was attributed, ranging from ‘men-
+e.g. in the frame of a later update of the map.                                 tioned without further discussion’ to ‘main focus’ or
+                                                                                ‘well discussed’. Keywords proposed by the authors of
+Data coding strategy                                                            the publications showed high diversity for the same topic
+Following the retrieval and screening process, spread-                          depending on their own work or research field. Adapt-
+sheets were built according to the information gained by                        ing the keywords to match across publications was not
+the digital scans and any other information recorded and                        feasible in the context of the present map. Because they
+coded while reading the full texts. The data coding relied                      might be of interest for further questions, the keywords
+on three main topics: (1) basic information downloaded                          are shown in Additional file 8.
+with the citations, (2) record of the contents and (3) eval-                       It became evident that many surveys compared prac-
+uation of the importance assigned to the ISG and APO                            tices in several procedures and even combinations of
+in the respective texts. An overview of the information                         practices. To properly use the comparator, surveys were
+recorded is given in Table 1. The complete list of code                         mapped to up to four fields called comparator/treatment
+sets for all subjects mentioned below is shown in Addi-                         1–4 in the map. These treatments also included habitat
+tional file 7.                                                                  codes for surveys that compared treatments in managed
+   Most of the recorded spreadsheet fields contain code                         orchards with SNH, or different habitats among each
+sets that were developed according to the findings of the                       other. Furthermore, many articles described e.g. risk
+full-text assessment. The repeatability of the coding was                       assessments, ecosystem services or life traits of organ-
+not tested. Yet, the codes were made as specific as possi-                      isms with no direct comparator; instead of a treatment,
+ble to facilitate the coding process. Most of the recorded                      these articles were attributed a theme. In addition, many
+fields were unambiguously formulated in the texts (e.g.                         publications did not compare single practices but rather
+duration, number of sites). Others were a simple ‘yes or                        whole management systems (organic, integrated, and
+no’ code. The given information (e.g. location, sampling                        conventional); these were coded accordingly. The fourth
+types, etc.) was not always clear in many publications, or                      key element of the map was the outcome ‘measures of
+they contained a mix of information, which made code                            change’, which implied pre- and post-treatment meas-
+assignment difficult. For this reason, the use of every sin-                    urements. In fact, most studies compared the impact
+gle code is described in the code sets. Although the code                       of different practices on organisms over extended time
+sets are quite comprehensive, later updates of the map                          spans. Furthermore, the map considered organisms of
+should be realisable with around half an hour of work per                       very different sizes, mobility and action range. For these
+article.                                                                        reasons, some impact questions could not be surveyed
+Table 1 Topics and records of the map
+Topic                            Record                                                                                 Spreadsheet
+Reference manager fields         Author, title, year, URL and source                                                    Map_References
+                                 Abstract                                                                               Map_Abstract
+Description level of ISG and APO In four classes according to the importance assigned to each ISG and APO: 1: only mar- Population_DL_ISG
+                                   ginally mentioned; 2: addressed but not deepened; 3: discussed; 4: main focus        Intervention_DL_APO
+Mapped fields                    Comparator 1: theme; comparator 2: grouped practices and habitat types; comparator     Comparator_&_Outcome
+                                   3: management system: organic, integrated, conventional; comparator 4: number of
+                                   samplings per year, type of sampling
+                                 Outcome 1: measures of change; outcome 2: biodiversity aspects
+                                 Language, reference types 1–2, design type, study design, number of sites, duration in Map_Study_Details
+                                   years/growing seasons, comment 1–2, schedular or graphical visualisation yes/no,
+                                   statistics yes/no, species list 1–3, treatment plan what and when
+                                 Continent, nation and state, region, spatial extent                                    Map_Location
+                                 Orchard crop, orchard type (system), other crop/farming type                           Map_Production
+                                 Orchard system and subhabitats that are surveyed/described in the articles and can be  Map_Habitat
+                                   used for habitat evaluation for each described ISG
+Computed fields                  SVA_Percent, SVA_mean (calculated on the basis of 13 mapped fields)                    StudyValidityAssessment
+
+van der Meer et al. Environ Evid  (2020) 9:2                                                                        Page 7 of 27
+as ‘measures of change’ at smaller scales and time spans          The spreadsheets ‘Population_DL_ISG’ and ‘Interven-
+(e.g. in censuses or life histories of organisms). There-       tion_DL_APO’ show the level of detail with which the
+fore, the code set considered six groups: (1) changes in        respective articles described the ISG and agricultural
+the occurrence of the surveyed organisms, (2) effects on        practices (“Data coding strategy” section). The interven-
+the surveyed organisms, (3) censuses, (4) descriptives,         tion sheet also contains a field listing up to 10 insecti-
+(5) practices and (6) sustainability. These outcomes were       cides surveyed or mentioned in the articles. Articles
+amended with the mainly discussed biodiversity aspect:          mentioning more than 10 insecticides were commented
+conservation, functional, habitat, or other.                    accordingly; fungicides and herbicides were not fully
+                                                                recorded because this would have gone beyond the scope
+                                                                of this map. For further use of the map, a classification of
+Data mapping method                                             the insecticides’ action spectrum was intended, which is
+                                                                shown in Additional file 9. Many articles retained in the
+                      ­ 7®). For data processing and prepa-
+All articles were recorded in a reference manager soft-
+                                                                map also contained information about other organisms
+                                                        ­ xcel®
+ware (EndNote X
+ration of the map, records were transferred to E                than the 12 focal ISG. To keep this information avail-
+spreadsheets via an *.xml file. An explicit identification      able, Additional file 8 contains records of additional 13
+(ID) attributed to each article was used to interlink the       arthropod taxa [Aphididae, Chrysopidae, Coccinellidae,
+                                                                Drosophila suzukii, Forficulidae, Formicidae, Hemiptera,
+were imported in an ­Access® database with around 160
+map’s spreadsheets. Finally, the individual spreadsheets
+                                                                Pseudococcidae, Staphylinidae, Syrphidae, Thysanoptera,
+single spreadsheet fields organised on 10 spreadsheets          Tortricidae, Apocrita (wasps)] and four functional classes
+(Table 1; Additional file 3: Illustration 7). Their respective  (beneficial, enemy, parasitoid and predator).
+contents are described in “Data coding strategy” section,         The spreadsheet ‘Comparator_&_Outcome’ contains
+and all code sets, with explanatory notes, are shown in         the above mentioned ‘comparator’ and ‘outcome’ (see
+Additional file 7. The code sets and other lists were elab-     “Objective of the map” section). Due to the broad range
+orated by ‘work in progress’, referring to the findings in      of topics encountered, five different comparators were
+the articles. These tools shall aid in the replicability of the mapped:
+mapping and in a potential later update.
+  The structure of the map as described in the follow-            Comp-I.	   A ‘theme’ describing the broader context
+ing might seem complex at first sight. However, it has                        of the survey was assigned to each article.
+the advantage that articles can be collated freely. Users                     Themes were: ecosystem services, habitat
+of the map can start with choosing a specific population,                     (needs and types), life traits, management
+intervention, comparator or outcome. It is also possible                      form, pest management, production increase,
+to collate articles according to study designs, geographi-                    and risk assessment.
+cal regions or any other mapped topic. The computed               Comp-II.	The compared or discussed treatments fre-
+SVA then indicates how complete—with a view to the                            quently included several different practices.
+tive article is. On the ­Access® version of the map, it is
+main question—the information contained in the respec-                        Thus, these comparisons had to be split in
+                                                                              ‘groups’ describing several practical or the-
+possible to freely create new spreadsheets according to                       matic aspects. For each article, at least one of
+the selected topics. The number of articles found with                        these groups was recorded. The groups were:
+this step-by-step sorting then identifies knowledge gaps                      bare ground, fungicides, greening, growth,
+and clusters. Some of these possibilities are presented in                    herbicides, insecticides, molluscicides, pre-
+“Results” section.                                                            vention, promotion, rodenticides, untreated,
+  The bibliographic references were the primary infor-                        various pesticides, and whole system.
+mation for all articles. They were recorded in the refer-         Comp-III.	Often, the impact of practices or the distri-
+ence manager and contained the following information:                         bution of organism groups was compared in
+authors, title, year of publication, place of publication,                    different habitat types, so these were mapped
+abstract and download-URL. Wherever possible, mainly                          in this same step. Habitat types were: orchard
+on websites of publisher houses, the ‘save citation’ func-                    managed, SNH, orchard unmanaged/aban-
+tion was used to record these data automatically in the                       doned, and other habitats.
+reference manager. Due to the varying accuracy of differ-         Comp-IV.	If mentioned, the management systems were
+ent websites, or the lack of this service, e.g. on specialist                 mapped; this mapping offered the possibil-
+websites, several references needed to be built manually.                     ity to select articles that compared or studied
+The spreadsheets ‘Map_References’ and ‘Map_Abstract’                          organic, conventional or integrated produc-
+contain this basic information.                                               tion methods. The management system was
+
+van der Meer et al. Environ Evid  (2020) 9:2                                                                        Page 8 of 27
+               mapped only when it was stated in the article.   state, and (3) international: across country/state borders.
+               When it was not stated—which was the case        Finally, non-field surveys and other articles were coded
+               in most articles—we assumed that a conven-       according to their content. Many reports, reviews, books,
+               tional management system was studied.            conference proceedings and models summarised interna-
+  Comp-V.	    Methods to compare impacts of APO on             tional data. On the other hand, the same publication types
+               ISG were highly diverse and changed over         could present data from a single continent, country/state,
+               time, which was also the case for the statis-    or even region; they were coded accordingly. Laboratory
+               tic evaluation of the respective results of each studies were assigned the country/state of the institution
+               study. Furthermore, sampling was frequently      where they took place. The locality indication in stud-
+               not done as pre- and post-treatment counts       ies ranged from very precise to absent, which impeded a
+               but at fixed times over the year. This impeded   subdivision of the code ‘area’ in the field ‘spatial extent’.
+               a thorough mapping of pre- and post-inter-       Please also note that the mapping primarily followed the
+               vention results. Therefore, the method of        indications given in the articles. In course of time, admin-
+               evaluating the impacts of APO on ISG via         istrative or geographical toponyms can change. It was not
+               ‘sampling’ had to be mapped first as sampling    always possible to avoid using outdated terms (e.g. ‘Yugo-
+               period/time, then with the number of sam-        slavia’, ‘DDR’, etc.). For French articles, the new 13 regions
+               plings per year.                                 were used [37]. Nevertheless, the mapping was done as
+                                                                precisely as possible by localising towns and villages on
+   We found the description of the impact of APO on             internet maps to fill in the field ‘region’ and to estimate
+ISG and of the habitat suitability of orchards for ISG to       the spatial extent. To relate the number of publications
+be very diverse. Accordingly, the description of the ‘out-      for a certain area to its importance for the worldwide fruit
+come’ was also mapped in different code sets (Additional        production, available statistical data were compiled. The
+file 7). They implied measures of differences in abun-          Food and Agriculture Organization of the United Nations
+dance, diversity or dispersal as well as observations of        shows data only at national range, which resulted in a
+(sub)lethal effects, descriptives, indications of sustain-      serious imbalance in the weighting and in the graphical
+ability or pure censuses. These outcomes were amended           visualisation (e.g. Alaska or Siberia, as part of the USA or
+with the mainly discussed biodiversity aspects conserva-        Russia, respectively, being shown as major fruit produc-
+tion, functionality, habitat suitability and ‘others’ to allow  ing regions on the world map). So, the largest nations
+a fine-tuned selection.                                         (Australia, Canada, China, India, Iran, Kazakhstan, South
+   The spreadsheet ‘Map_Study_Details’ contains infor-          Africa and USA) were split in their first-level administra-
+mation on the implementation of the studies (study              tive division or in segments producing versus segments
+design, number of sites, etc.) and the data analysis and        not producing deciduous fruits (Algeria, Argentina, Bra-
+visualisation. Further topics of general nature such as lan-    zil, Egypt, Libya, Mali, Mexico, Morocco, Russia) to cre-
+guage and reference type shall allow a fine-tuning and a        ate more comparable areas. For these nations, publicly
+quick selection related to own questionings. The spread-        available statistics in form of raw data or statistical year-
+sheet fields were grouped with code sets (Additional            books on fruit production were gathered at subnational
+file 7). If the respective article contained a species list     level (see Additional file 8). Indications were partially
+or a treatment, the available information was included.         amended by reports and publications of the United States
+Finally, the comments show additional information spe-          Department of Agriculture–Foreign Agricultural Service
+cific to the respective article.                                (2007–2017) and the Food and Agriculture Organization
+   To allow a geographical and spatial categorisation/clus-     Corporate Statistical Database (2014).
+tering of the articles, all indications of the study sites are     The spreadsheet ‘Map_Production’ contains indications
+shown on the spreadsheet ‘Map_Location’. Mapped fields          of the surveyed fruit crop, of the orchard type (system)
+were the continent, the nation, the state, and the region       and of other crops or farming types treated in the arti-
+as indicated in the articles. At country level, large nations,  cle. Although the search restriction was on orchards,
+federal states, or federations were split into single states    many articles surveyed other crops or farming types.
+or provinces to avoid discrepancies in size when compar-        Fruit cultivations were: almond, apricot, apple, cherry,
+ing data. Additionally, a field ‘spatial extent’ was assigned   citrus (all), kiwi, nuts (other than almond), olive, peach,
+according to the indications in the article. This field shall   pear, plum, fruits (other), and fruits (undefined). Other
+allow a rough estimation of the spatial extent of study         crops or farming types were: arable land, berries, gar-
+sites examined in studies. Primarily three spatial extents      dens, grasslands, vegetables, and vineyards. In the same
+were mapped: (1) smaller than 15 × 15 km within a region,       check, the orchard system (low-stem, middle-stem, or
+(2) larger than 15 × 15 km within a region or country/          high-stem) was assigned. Many authors used terms such
+
+van der Meer et al. Environ Evid     (2020) 9:2                                                                          Page 9 of 27
+as commercial, intensive, mature, deciduous, etc. and                   The study design was mapped for field surveys (599)
+did not explicitly mention the orchard system, where-                and non-field surveys (107). No study design was mapped
+fore an assignment was sometimes not possible. How-                  for articles that did not refer to own surveys (241).
+ever, in many cases, the spacing, planting density, or tree          Among field surveys, the favourite study design (Fig. 2a)
+height was indicated and could be used to assign a system            seemed to be ‘on farm’, which means a simple compari-
+(Table 2).                                                           son between treatments (44% of all surveys), followed by
+  The spreadsheet ‘Map_Habitat’ shows the surveyed                   ‘monitoring’ (21%) and ‘experimental’, meaning that the
+orchard subhabitat (Additional file 3: Picture 11) for each          treatments were repeated two or more times (15%). Non-
+ISG discussed. This distinction was important because                field surveys comprise laboratory and semi-field trials
+each orchard system implicated very different main-                  (14%) and modelling studies (2%).
+tenance and cultivation practices. Furthermore, many                    Almost half of 684 surveys lasted 1 year and nearly a
+articles described risk assessments, ecosystem services              quarter 2 years; another 20% lasted 3 to 4 years. Thus,
+or other themes, which had to be considered valid for                639 publications (93%) related results of short-term sur-
+all orchard systems (e.g. laboratory studies on pesticides           veys (Fig. 2b). Of the remaining 45 publications, only six
+used in orchards).                                                   lasted 10 years and longer.
+  Finally, the spreadsheet ‘StudyValidityAssessment’                    The number of sites at which studies were imple-
+shows the SVA percentage and SVA mean computed by                    mented was quite evenly distributed in four categories: at
+translating the code sets in numerical values (see “Study            one site (24%), in areas (23%), at two to five sites (25%)
+validity assessment” section above for details). The fields          and at more than five sites (28%) for a total of 685 studies
+used for computing were repeated on this spreadsheet to              (Fig. 2c).
+allow a swift selection.                                                The surveys were mostly implemented in low-stem
+                                                                     orchards (233) (Fig. 3, top), followed by high-stem (182)
+Results                                                              and middle-stem systems (116). The description of the
+Review of descriptive statistics                                     orchard system lacked precision in many studies; hence,
+Search results                                                       78 could only be coded as ‘probably’. Another 229 sur-
+The searches on eight publishing houses or compilations              veys were done in orchards, but the systems were not
+of different publishers, Google Scholar, an internet search          mentioned at all. Finally, 266 surveys did not take place
+engine and 46 specialist websites resulted in 21,122 hits.           in orchards but were relevant for orchards, e.g. describ-
+From these, 3074 references were downloaded at title                 ing laboratory assays on the impact of pesticides used in
+screening. The eligibility process yielded 947 articles              orchards.
+involving 862 studies included in the map after screening               Most surveys focused on apple (357 or 35%) or fruits
+and reading the abstract and the full text (Fig. 1).                 and nuts in general (291 or 28%) (Fig. 3, bottom). Stone
+                                                                     fruits—peach, cherry, plum and apricot (127), pear (79),
+Bibliographic references and study details                           citrus (67), nuts (51), olive (49), kiwi (7) and other fruits
+Of the 947 kept articles, 783 were in English, 97 in Ger-            (6) shared the other 37%. Many studies surveyed orchards
+man and 67 in French. Articles in other languages found              in addition to other crop or farming types. Among them,
+because of an English abstract were excluded. The                    grasslands were the most frequent (109) followed by ara-
+encountered reference types were manifold: 696 sur-                  ble crops, vineyards, vegetables, gardens, and berries (65,
+veys (studies, theses and conference proceedings), 160               64, 34, 17, and 12, respectively).
+reviews and reports and 91 knowledge transfer publica-                  More than one-third of all articles (346) contained
+tions (extension texts, books and websites). Most articles           lists of surveyed or inventoried organisms at different
+visualised their results (841) and most surveys analysed             taxonomic levels and various levels of detail, which for
+the results statistically (651). In contrast, the provision of       convenience were named ‘species lists’. However, taxa
+even superficial treatment plans was rather less common              included at lower taxonomic level (species, genus, fam-
+(107).                                                               ily) might be included in higher-taxon lists (e.g. carabids
+                                                                     in arthropods and invertebrates) (Fig. 4). Beside the
+Table 2 Classes of row spacing, density and total height             ISG addressed in the present map, these lists registered
+of trees used for assigning an orchard system                        many other organisms occurring in orchards: floral spe-
+                                                                     cies (96), arthropods in general (77), spiders (60), birds
+Variable                       Low-stem     Middle-stem    High-stem
+                                                                     (44), bees and other pollinators (24), carabids (19) and
+Spacing, in-row × alley (m)    <3×4         3 × 6 to 4 × 6 ≥6×6      mammals including bats (15). Other lists, found in fewer
+Density (trees per ha)         > 520        320–520        < 320     numbers, registered vertebrates (8), lepidopterans (8),
+Height (m)                     <3           3–5            >5        invertebrates (7), insects (7), reptiles (3), slugs and snails
+
+van der Meer et al. Environ Evid     (2020) 9:2                                                              Page 10 of 27
+  Fig. 1 ROSES flow diagram for systematic maps [38]
+(3), arachnids (3), coleopterans (3), grasshoppers (3), and  i.e. the agricultural practices in orchards. The levels
+amphibians (2). Furthermore, some articles clustered         1 and 2 mean that the subject was not deepened and
+organisms in functional groups, e.g. natural enemies (9).    only marginally mentioned, whereas levels 3 and 4 were
+Many other articles listed pest organisms, but those were    for articles thoroughly assessing the subject (see also
+not coded because they were not within the target of the     Table 1). When considering the description levels of the
+current map.                                                 ISG (Fig. 5, top), one organism group stood out by far:
+                                                             spiders, followed by birds, weeds, honey bees, grasses,
+Mapping the quantity of articles relevant to the question    wild bees, carabids, and small mammals. The remain-
+Eligibility key elements                                     ing ISG received less attention, with reptiles at last rank.
+The description level depicts how intensively the respec-    The same picture appeared for the agricultural prac-
+tive subject was discussed in the respective article. It was tices in orchards (Fig. 5, bottom): One practice was by
+mapped for the population, the ISG and the intervention,     far best studied, namely broad-spectrum insecticide use
+
+van der Meer et al. Environ Evid     (2020) 9:2                                                                                            Page 11 of 27
+  Fig. 2 Example of some fields recorded as ‘study details’. Numbers of recorded a study designs, b years of study duration, c study sites
+with 262 articles assessing it at description levels 3 and                    treatments; they had to be grouped (Fig. 6b) to enable an
+4. It was followed by studies on natural enemies and on                       overview. Among these groups, the strongest focus was
+the influence of landscape heterogeneity or greening on                       on comparisons of the impacts of insecticides with dif-
+ISG populations. Next was a series of quite well studied                      ferent action spectra (348). The second most frequent
+practices such as other pesticides and strategies of habi-                    group, prevention by netting, fencing or mating disrup-
+tat enhancement. Finally, many APO were comparatively                         tion (267), also had its focus mainly on insect control but
+poorly or nearly not surveyed, among them pruning, net-                       also on rodent control. Another frequently appearing
+ting, thinning, and the influence of the training system.                     aspect was the promotion of organisms (244), especially
+  The compared treatments, practices, impacts and other                       wild pollinators, by boosting biodiversity-enhancing ele-
+aspects were highly diverse; furthermore, authors used                        ments. Greening strategies (206) were mostly compared
+different designations to describe the surveyed treat-                        with each other but also with bare ground treatments
+ments and comparisons, and the vocabulary changed                             (117) or with the application of herbicides (116), which
+over time. So, it was necessary to first assign a superor-                    encompass all practices related to the chemical elimina-
+dinate theme (Fig. 6a). Among these, pest management                          tion of concurrency stress induced by plants. Fungicides
+comprising all strategies to protect trees and yield from                     (103) were quite frequently included in surveys, whereas
+fungal or animal infestation or destruction was most                          rodenticides (29) and molluscicides (4) received little
+encountered (281). The demands of organism groups on                          attention. Only 97 surveys compared a treatment with an
+habitats and the description of those also played a large                     untreated control. Growth-enhancing treatments such
+role in the analyses (205). The risk assessment (163)—                        as irrigation, fertilisation, pruning, thinning, etc. were
+mainly of pesticides—for several organism groups was                          rather poorly discussed in altogether 75 articles. Only
+also of high interest, as well as ecosystem services (147)                    15 articles evaluated the intensity with which the same
+delivered by them. Seventy-seven articles focused on life                     treatment (e.g. an active pesticide substance) was applied.
+traits of organisms and 63 compared management forms                          Habitat descriptions (263 articles), also considering habi-
+(also within the same management system). Finally, 11                         tat connectivity or fragmentation, were among the most
+articles dealt with production increase.                                      encountered groups.
+  In the second step of comparison or discussion, one                           These habitat descriptions considered different envi-
+or several practical or thematic aspects were applied in                      ronments (Fig. 6c): managed orchards (206), natural and
+
+van der Meer et al. Environ Evid      (2020) 9:2                                                                      Page 12 of 27
+                                                                     studies described a single sampling, and 24 studies did
+                                                                     not describe the sampling type.
+                                                                       According to the objectives of the map, the ‘outcome’
+                                                                     (Fig. 7a) was mapped as measures of changes in diversity,
+                                                                     dispersal and abundance (382) and as evaluation of dis-
+                                                                     turbance impact [lethal and sublethal effects, disturbance
+                                                                     in behaviour or life traits (380)]. In addition, there were
+                                                                     studies censusing fauna or flora of a site (89), describing
+                                                                     organisms (41), describing impacts of practices on organ-
+                                                                     isms in view of depleting or promoting populations (37),
+                                                                     and finally more holistic approaches to promote sustain-
+                                                                     able agriculture (18). In completion of the outcome, a
+                                                                     ‘biodiversity aspect’ was mapped (Fig. 7b). It showed that
+                                                                     the focus of the included articles was on conservation
+                                                                     aspects (436), followed by pollination and other func-
+                                                                     tional roles (256) and habitat suitability for the studied
+                                                                     organisms (198). However, some articles could not be
+                                                                     allocated to one of these main codes. They were mapped
+                                                                     according to their content in the description of long-term
+                                                                     adaptation to agronomic practices in species composi-
+                                                                     tions or single species (9), the enhancement of conditions
+                                                                     for total biodiversity (5), influences on a higher, environ-
+                                                                     mental level (2), pure life history of an organism (1) and
+                                                                     practices in view of enhancing production or production
+                                                                     safety with impacts on organisms only being mentioned
+                                                                     incidentally (40).
+  Fig. 3 Number of articles characterising orchard systems (top) and
+  crops (bottom). Many articles surveyed more than one system or
+  crop, which explains the numeric differences to the total of 947   Chronological increase in publications
+  publications                                                       To assess the annual increase in publications surveying
+                                                                     impacts of practices on indicators and their distribution
+                                                                     in time, Fig. 8 shows a chronology of the publications
+semi-natural habitats (149), unmanaged or abandoned                  found. The increase in publications on Web of Science is
+orchards (34) and other agricultural or anthropogenic                shown as a comparator. In parts B–D, the figure shows
+habitats (105). Out of 147 articles comparing manage-                the increase in the included publications according to the
+ment systems (Fig. 6d), 72 compared the effects of the               surveyed ISG.
+whole management system, whereas the remaining com-                    Since the mid-1990s, the increase in publications
+pared specific practices, e.g. organic vs. integrated vs.            with focus on biodiversity has been considerably higher
+conventional insecticides.                                           than the general increase in publications (Fig. 8a). How-
+  The combination of sampling period and type (Fig. 6e)              ever, broken down to single ISG, there are major differ-
+showed various patterns, which were related to the sur-              ences. Some organism groups were neglected (Fig. 8d)
+veyed organisms, the interventions and the configura-                although they could play a major role as predators of
+tion of the study design; however, these patterns were               pests in orchards; they included bats, predatory mam-
+irrelevant for 384 articles (laboratory surveys, reports,            mals, amphibians, reptiles and some slug species [39–
+etc.). The most frequent pattern (242) was sampling                  46]. Discussed small mammals were mostly mice and
+throughout the whole growing season with one to 70                   voles—thus pests. The interest in controlling them is high
+single samplings per year. It was followed by monitor-               because they can cause economically important dam-
+ing (183) with generally one to three samplings per year             age to producers, but the control methods are scarce
+but with a few broadly conceived surveys including sev-              (rodenticides, trapping, direct killing) and new effective
+eral hundred single samples. The third pattern was sam-              methods not in sight. Carabids on the other hand have
+pling for 1–2 months (66) including one to 56 single                 a possible high potential in insect pest control but are
+samplings. The fourth pattern, (pre- and) post-treatment             mostly ground dwelling and therefore rather uninterest-
+surveys (44), generally lasted less than 1 month and                 ing in the trees’ canopies; however, they seem to have
+included one to 28 single samplings per year. Finally, four          the potential of controlling pests overwintering on the
+
+van der Meer et al. Environ Evid      (2020) 9:2                                                                                                   Page 13 of 27
+  Fig. 4 Number of publications displaying lists of species (flora, vertebrates, and invertebrates). Note that (i) ‘i.g.’ means that several taxa were
+  included and (ii) the same publication might show several lists
+ground—therefore, research in this direction could be                            general increase, then declined between 2005 and 2010,
+valuable [47–49].                                                                and since then has followed the research on bees. This
+   On the other hand, research on spiders and birds fol-                         reactive research strikes as odd, knowing that research
+lowed the general increase in publications (Fig. 8b). With                       on the functional potential of wild bees and the pesticide
+birds, this agreement is not surprising: They have a long                        hazard to honey bees was already discussed long ago (e.g.
+history as bio-indicators, their role as predators (wild                         earliest mentions in articles included in this map: 1969
+and domestic species) is attested, and they are popular                          [57] and 1937 [58]). Also, the examination of multiple
+animals bearing sympathies within society. In contrast,                          interactions in plant–animal communities and their eco-
+spiders are not fully in vogue with most people. Until                           system services remain scarcely studied [59].
+the mid-1990s, their functional role was disregarded [50,                          The number of publications describing ISG and APO
+51]; since then, their potential as predators has been rec-                      at different description levels (Fig. 5) confirmed the pic-
+ognised [52–54], and there is ongoing research on this                           ture drawn by the chronological increase in publications.
+potential as well as on their endangerment or promotion                          In the past decennia, research concentrated on ‘species
+by agricultural practices.                                                       and practices of interest’. Among the best surveyed spe-
+   On bees and flora, we made another interesting obser-                         cies groups were spiders, birds and the flora, whereas e.g.
+vation (Fig. 8c). Although fruit production would scarcely                       amphibians or reptiles—which both occur in orchards
+be possible without pollination [55, 56], domestic and                           and both with a quite high functional potential—were
+wild bees were quite poorly surveyed until 2000/2005.                            rather disregarded. Among the practices, most interest
+Only after 2005, when the worldwide honey bee decease                            was conferred to the destructive impact of pesticides and
+became evident and menaced pollination of many crops,                            among them to broad-spectrum pesticides. On the other
+research was enhanced and literally exploded. When                               hand, many publications studied the positive effects of
+observing the evolution of articles considering the                              habitat enhancement under both conservation and func-
+orchard flora, the record shows that it first followed the                       tional aspects. Some practices such as thinning, pruning
+
+van der Meer et al. Environ Evid        (2020) 9:2                                                                                            Page 14 of 27
+  Fig. 5 Number of publications covering population (indicator species groups, top) and intervention (agricultural practices, bottom). The
+  description levels indicate how exhaustive the topic is discussed or surveyed in the respective publication. The results for indicator species groups
+  (ISG) are ranked for the levels 3–4 at the top on the right. PPP plant protection products
+or netting, which can have a high impact on organisms,                            when comparing the importance of research with the
+were nearly not studied at all. Finally, regarding the spe-                       importance of fruit production in the respective conti-
+cies lists published in the studies, most surveys concen-                         nents and regions, Western Europe and Eastern North
+trated on one or a few species groups, with a lack of total                       America appeared as leaders of research—which is not
+biodiversity records.                                                             surprising because these wealthy regions in the past
+                                                                                  could certainly invest more resources in research than
+                                                                                  others. When increasing the resolution and comparing
+Geographical distribution of research                                             the relevance of a nation’s fruit production relative to
+Figures 9 and 10 show—with the example of olive,                                  its total agricultural production, it appeared that wealth
+pome and stone fruit production—that research on the                              might not be the only decisive factor because Pakistan
+impact of practices on indicator species in orchards                              and the Czech Republic ranked among the 16 countries
+was done worldwide but by far not in every country or                             with the highest relevance (Table 3). Thus, the identi-
+state—in due consideration that a lot of research might                           fication of those other reasons would require a deeper
+be published in national languages and thus is not                                review of the studies.
+available in international scientific journals. However,
+
+van der Meer et al. Environ Evid     (2020) 9:2                                                                              Page 15 of 27
+  Fig. 6 Distribution of comparators among recorded publications. See Additional file 7 for the description of the code sets
+‘Hot spots’ of research                                                    of these agronomic research institutes was notably
+We found that certain regions showed above-average                         expressed by the share of regional on state publica-
+numbers of publications and therefore checked where                        tions (50–100%, all regions), the share of agronomic
+and by whom most of the research was done—in the                           institutes’ publications on the regional total (50–100%
+frame of this map only for the regions with the most                       in eight of 13 regions) and the regions’ partially small
+articles. To do so, we ranked the geographical distri-                     share on the total national area.
+bution of publications at subnational level in regions                        However, main players in other regions included uni-
+with nine and more publications and identified the key                     versities and environmental research institutes, such as
+players of the research and their study site choice. In                    governmental or non-governmental non-profit organi-
+most regions, one main player conducted the research                       sations (Andalusia, Spain). In two regions, three main
+(Table 4). In eight of 13 regions, this main player was                    players intensively cooperated in research. One region
+an agronomic research institute using own research                         (Baden-Württemberg, Germany) showed a rather fed-
+orchards or collaborating with a network of orchard-                       eralist distribution with little cooperation among insti-
+ists interested in developing practices. The importance                    tute types. Finally, we found that corporate players did
+
+van der Meer et al. Environ Evid    (2020) 9:2                                                                  Page 16 of 27
+                                                              (Fig. 11). Both endpoints of the scale—a score of less than
+                                                              20% or greater than 80%—were each represented with
+                                                              around 2% of the articles.
+                                                                 When aggregating the articles into research catego-
+                                                              ries (field surveys, models, controlled conditions, and
+                                                              others), we found that research-based studies achieved
+                                                              higher scores whereas literature-based articles scored
+                                                              under 33%. However, also literature-based articles such
+                                                              as reviews, reports or extension texts may contain valu-
+                                                              able information and shall therefore be shown but tagged
+                                                              by a low SVA score (Fig. 11). Using a quantification of the
+                                                              SVA allowed broadening the range of factors influencing
+                                                              a study’s importance for the present questions and also
+                                                              strengthening its expressiveness especially by breaking it
+                                                              down to the field codes.
+                                                              Metadata
+                                                              Among the 574 field surveys, many studies showed defi-
+                                                              cits in communicating relevant basic information about
+                                                              the surveys’ process flow. The deficits ranged from
+                                                              imprecise description of the study design or the geo-
+                                                              graphic region to lacking indications of the frequency
+  Fig. 7 Distribution of outcomes among included articles     and quantity of samplings or the orchard system (229).
+                                                              Concerning the actual review, the most missed informa-
+                                                              tion was the treatment plan. Indeed, detailed treatment
+not research or publish on their own but rather cooper-       plans would be major tools allowing reviews to connect
+ated with other institutions.                                 treatment and sampling times and so to better disentan-
+  The comparison of the number of publications per            gle impacts of different practices on organisms. Only 94
+region and per country/state showed that frequently—          field surveys supplied a treatment plan, and among those
+even in huge countries/states—research was concen-            only four described the full plan including all treatments
+trated in small areas. This is certainly due to the spatial   with the date of implementation. Although the produc-
+distribution of key players in those states but also reflects ers usually record this information, it seldom appears in
+a low diversity of external conditions (e.g. climate, soils). the scientific publications. E.g. only very few studies indi-
+On the other hand, countries/states and regions with less     cated the machine types used for spraying plant protec-
+acreage scattered the study sites independently of the key    tion products or for tillage, the depth of tillage was nearly
+player over the whole area and thus reflected a higher        never indicated, or indications of other practices than the
+diversity of external conditions.                             research topic were frequently missing.
+  Agronomic institutes appear to be the most impor-
+tant key players in research, but concentrating them in       Action spectrum of pesticides
+specific regions might lead to a spatial restriction to a     The use of pesticides is certainly the most controversial
+few external conditions (climate, weather, soils, etc.). In   agronomic practice, polarising proponents and oppo-
+turn, decentralising the involved institutes and promot-      nents [60–62]. The struggling with pests has probably
+ing cooperation with less wealthy states could lead to a      accompanied agriculture since its beginnings. There is
+higher diversity of study sites, which would warrant a        archaeological evidence of domestic fruit production
+higher regional and international validation of results.      in the Neolithic, gaining importance in the Bronze Age
+                                                              [63] and since then in altering landscapes [64]. For thou-
+Mapping the validity of articles relevant to the question     sands of years, plant protection relied on natural meth-
+Quantifying the study validity assessment                     ods for production: There is historical evidence that
+The total SVA scores ranged between 12.1% and 87.9%.          Romans and the Chinese purposefully used predators in
+Because the SVA was constructed from 13 single param-         fruit production 2000 years ago and continued to do so
+eters, it is not surprising that no study reached the full    throughout historical times [65–69] until today, e.g. ants
+score. In total, 556 studies reached a score of over 50%;     are still traditionally used in Asia and Africa [70]. Also,
+another 208 studies scored between 35% and 50%                the use of manufactured products based on e.g. sulphur
+
+van der Meer et al. Environ Evid        (2020) 9:2                                                                                           Page 17 of 27
+  Fig. 8 Chronological evolution of the number of publications recorded in the map. It is depicted by means of the moving average (a, c 5 years; b, d
+  10 years) and set in relation to the evolution of publications found on Web of Science (units ×100,000, red dotted line). a All publications, b–d the
+  indicator species groups discussed at description levels 2–4 in the articles
+  Fig. 9 Comparison of the fruit production and the number of recorded publications per continent. Fruit production in megatons (here: pome fruits,
+  stone fruits, olives and figs)
+
+                                                                                                                                                                                                    van der Meer et al. Environ Evid
+                                                                                                                                                                                                    (2020) 9:2
+Fig. 10 Number of publications per region in relation to the land use. Share of pome fruit, stone fruit and olive orchards in percentage of arable and perennial land use (coloration) and number
+of publications found per country/state/region (numbers). The regions with the highest relevance are highlighted with a green background. To avoid a search and language bias, all publications
+found on specialist websites are not shown: ­npub = 800. Source of production data: Food and Agriculture Organization Corporate Statistical Database, United States Department of Agriculture–
+Foreign Agricultural Service, national statistics offices and others. Source of geographic information system data: GADM database (www.gadm.org), version 2.8, November 2015
+                                                                                                                                                                                                    Page 18 of 27
+
+van der Meer et al. Environ Evid            (2020) 9:2                                                                                                       Page 19 of 27
+Table 3 Rank of relevance
+Country, state                               Rank of relevance          Relevance                    Number of publications Share PSO                      PSO hectares
+                                                                        of research
+Germany                                       1                         189.84                       71                             0.374                       45,193
+France                                        2                         100.35                       57                             0.568                     109,723
+Canada, Québec                                3                           95.69                      20                             0.209                         5402
+Canada, Ontario                               4                           80.46                      21                             0.261                       10,270
+Canada, British Columbia                      5                           68.26                      20                             0.293                         5976
+Australia, New South Wales                    6                           62.99                        8                            0.127                         8655
+United Kingdom                                7                           59.60                      18                             0.302                       18,944
+Denmark                                       8                           56.45                        7                            0.124                         3026
+USA, North Carolina                           9                           47.62                       5                             0.105                         2549
+Czech Republic                               10                           46.28                      23                             0.497                       15,999
+Switzerland                                  11                           33.24                      49                             1.474                         6276
+USA, Pennsylvania                            12                           27.37                      15                             0.548                         9948
+Canada, Nova Scotia                          13                           24.73                      16                             0.647                         1889
+USA, West Virginia                           14                           23.89                      15                             0.628                         2140
+Pakistan                                     15                           20.66                      10                             0.484                     151,238
+USA, Virginia                                16                           19.23                       7                             0.364                         4884
+Spain                                        43                            3.21                      51                            15.89                   2,731,199
+Italy                                        49                            1.84                      28                            15.193                  1,385,774
+Portugal                                     62                            0.48                      12                            25.214                     475,290
+Greece                                       68                            0.36                      10                            27.740                   1,033,305
+Turkey                                       69                            0.35                       2                             5.679                  1,359,818
+China, Beijing                               70                            0.31                       9                            29.165                       37,306
+Importance accorded by a country or state to the research on the impact of orchard practices on indicator species groups shown in relation to the importance of
+fruit production (here pome fruits, stone fruits and olives = PSO) in this country or state. The rank was computed in two steps: (1) the ‘share PSO’ describes the ratio
+of fruit production area to the total arable and perennial land area, and (2) this ratio is then set in relation to the number of publications to compute the ‘relevance’.
+The ranking was established for 77 countries and states fulfilling three conditions: (1) they have publications, (2) they have PSO production, and (3) the ‘share PSO’ is
+greater than 0.1%. The current table shows the list of the 16 countries and states (20%) with the highest relevance (numbers in italics) amended with the states with
+the largest PSO area, the highest ‘share PSO’ and the largest number of publications (numbers in bolditalic)
+or pyrethrum had been recorded throughout historical                                        Effect Database’ [74], although evaluating toxicity, did
+times [71]. The use of highly toxic broad-spectrum prod-                                    not specify the action spectrum, at least not in the freely
+ucts for plant protection culminated in the twentieth cen-                                  accessible section. Although it is correct and necessary
+tury but now experiences severe restrictions worldwide.                                     to evaluate the toxicity of active substances—because the
+   The present map shows an overview of all active sub-                                     pesticides’ toxic effects on target and non-target organ-
+stances used for plant protection in fruit production and                                   isms are at least partially species and dose dependent [4,
+found in the included articles. This list comprises various                                 75], this information is not helpful to the laity. Therefore
+kinds of pesticides. With regard to the further use of the                                  and for greatest possible transparency, the insecticides
+map, insecticides and acaricides were mapped according                                      and acaricides surveyed in the included articles are pre-
+to their action spectrum—broad, selective, and very nar-                                    sented on the spreadsheet ‘Intervention_DL_APO’, and
+row—whereas all other substances were mapped without                                        the estimation of their action range is shown in Addi-
+this differentiation. We found no common definition of                                      tional file 9, including the indication of all sources. This
+these terms, and worse, none of the consulted data-                                         listing is meant to estimate the action spectrum of these
+bases (Additional file 9) provided the basic information                                    pesticides based on several pesticide databases, Wiki-
+in a standardised form for all pesticides. This omission is                                 pedia and other information sources. It comprises 160
+surprising because the promotion of the use of selective                                    active substances and does not claim completeness or
+insecticides has been a major goal of integrated produc-                                    conclusive exactness.
+tion since the 1960s [72], starting in fruit orchards. In                                      Broad-spectrum pesticides used since the early twen-
+fact, we found only one source attempting such a clas-                                      tieth century were generally well studied, clearly defined
+sification [73]. Only a few of the described pesticides                                     and with clear findings on their action and action spec-
+were those mapped here. Even the ‘IOBC Pesticide Side                                       trum. The same was found for pesticides with a very
+
+Table 4 Field surveys and involved institutes at regional and country/state level
+Country, state             Area             No            Region                            Area              No           Affiliation                 Mainly involved institutes            Comments
+                           (1000× km2)      of field                                        (1000× km2)       of field
+                                            studies                                                           studies      ARI UNI ENV COR
+France                      641              59           Provence-Alpes-Côte-d’Azur        31                35            33            2            ARI: INRA (26) and CTIFL (7)          Strong collaboration with other
+                                                                                                                                                                                               institutes especially universities
+                                                                                                                                                                                                                                     van der Meer et al. Environ Evid
+                                                          Occitanie                         73                10             9            1            ARI: CTIFL (9)                        Strong collaboration with other
+                                                                                                                                                                                               institutes
+Germany                     357              44           Baden-Württemberg                 36                22             5     8      6     3      UNI: Universität Hohenheim (5);       Rather loose collaboration among
+                                                                                                                                                        ARI and ENV: several                   institute types
+                                                                                                                                                                                                                                     (2020) 9:2
+Spain                       506              44           Andalusia                         87                17             1     5     11            ENV: Estación Experimental del        Strong collaboration of Zaidin
+                                                                                                                                                         Zaidín (CSIC) (11)                    with universities and agronomic
+                                                                                                                                                                                               research institutes
+                                                          Asturias                          11                 9             9                         ARI: SERIDA, Villaviciosa             Nearly alone
+Switzerland                   41             22           All cantons                       41                22            13     3      3     3      ARI: FiBL (8) and Agroscope (5);      Strong collaboration between all
+                                                                                                                                                        ENV: Vogelwarte CH                     institute types
+USA, Washington             185              20           Yakima County                     11                10            10                         ARI: Yakima Agricultural Research Rather loose collaboration of
+                                                                                                                                                        Laboratory, USDA-ARS, Wapato       Yakima and universities
+USA, California             424              18           Central Valley                    47                13             1    11            1      UNI: mostly different depart-         Universities + farm advisors in
+                                                                                                                                                        ments of the University of            cooperative extension
+                                                                                                                                                        California in several cities
+CAN, British Columbia       925              17           Okanagan Valley                    1                17             6     7      4            ARI: Agriculture and Agri-Food        Strong collaboration between all
+                                                                                                                                                        Canada, Summerland; ENV:               institute types
+                                                                                                                                                        Canadian Wildlife Service
+CAN, Quebec                1365              17           Éstrie and Montérégie             22                16             8     4      4            ARI: Agriculture and Agri-Food        Strong collaboration between the
+                                                                                                                                                        Canada, Saint-Jean-sur-Rich-           three institutes
+                                                                                                                                                        elieu; UNI: McGill University;
+                                                                                                                                                        ENV: Canadian Wildlife Service
+CAN, Nova Scotia              53             13           Annapolis Valley                   8                13             9     4                   ARI: Agriculture and Agri-Food        Kentville was driver of IP-research
+                                                                                                                                                        Canada, Kentville                      in the 1960s/1970s (7)
+USA, West Virginia            63             12           Jefferson County                   1                12            11            1            ARI: Appalachian Fruit Research       Rather loose collaboration of Kear-
+                                                                                                                                                        Station, Kearneysville (USDA-          neysville and universities
+                                                                                                                                                        ARS)
+USA, Pennsylvania           119               9           Adams County                       1                 9                   8      1            UNI: different departments            Rather loose collaboration of
+                                                                                                                                                        of the Pennsylvania State              Pennsylvania State University
+                                                                                                                                                        University (7)                         with other institutes
+For an approximate comparison of countries/states and regions of different acreage, the table shows the area and the total number of field surveys of each country or region. This allows an appreciation of the importance
+that the involved institutes, i.e. the affiliation (numbers in italics), assume in research at country and regional level. The table shows all regions with nine and more publications per region (= median of all publications).
+If an ARI is involved in the publication, it is noted as such even if the main author is affiliated to another institute; otherwise, the main author’s affiliation is noted. Total of regional studies: Europe = 115, Canada = 46,
+USA = 44
+ARI Agronomic research institute, UNI university, ENV environmental organisation (governmental or non-governmental), COR corporations (eco-offices, trusts, private companies)
+                                                                                                                                                                                                                                     Page 20 of 27
+
+van der Meer et al. Environ Evid        (2020) 9:2                                                                                         Page 21 of 27
+  Fig. 11 Study validity assessment (SVA). The tree map on the left shows the share of SVA percentage scores of all articles in percentage classes
+  (minimum: 12.1%, maximum: 87.9%). The box plot on the right shows the median, the dispersion and the variability of the SVA percentage scores in
+  different article categories (the respective ‘n’ is indicated above the categories)
+narrow action spectrum, e.g. Bacillus thuringiensis or                             of pesticides on birds. Two other studies investigated
+Granulosis virus. One might also expect the same for                               the impact of weed control methods on the flora in an
+selective pesticides, the definition of ‘targeted action’                          experimental study design at one site in one region with
+seeming clear. However, the description of the pesti-                              monitoring the changes in floral composition. Although
+cides’ selectivity in the databases or other information                           the biodiversity aspects were mostly targeted at con-
+sources ranged from one single target species to several                           servation, the estimation of changes was rather diverse.
+targeted taxonomic groups with side-effects on non-tar-                            Even these long-term surveys lacked precision in meta-
+get species. Another complicating circumstance was the                             data description, e.g. when neither the crop type nor
+fact that many insecticides earlier considered as selec-                           the orchard system was mentioned or when the treat-
+tive are nowadays forbidden because of permanency in                               ment plan, statistical evaluations or species lists were not
+the environment or high toxicity; furthermore, some of                             shown.
+these pesticides should—according to the later descrip-
+tions—rather be classed as broad-spectrum. This result                             Habitat suitability, impact of practices, and life cycle
+questions findings of older surveys that declared a small                          assessment tools
+or no difference between integrated production and                                 An evaluation of the habitat suitability for different ISG
+conventional management systems. On the map’s APO-                                 was possible in 352 articles (Fig. 12). The habitat descrip-
+spreadsheet, the insecticides were thus mapped accord-                             tion could cover the whole orchard or the subhabitats
+ing to the indications in Additional file 9.                                       canopy (or tree), row and inter-row (or meadow) and
+                                                                                   several ISG in the same article. Considered separately
+Duration of field surveys                                                          for each (sub)habitat and ISG, this resulted in 1123 sin-
+Among all included publications, only six (less than 1%)                           gle descriptions. In terms of habitat, 443 articles evalu-
+presented long-term surveys lasting 10 years and longer                            ated the whole orchard, with the most surveyed systems
+(Table 5). Among those, one publication considered                                 being low-stem, followed by high-stem and middle-stem
+rather practical production aspects and only casually                              orchards. The research in subhabitats clearly focused on
+assessed impacts of practices on organisms. Five of these                          the orchard ground and paid less attention to the canopy.
+studies were implemented in five different countries in                            The most descriptions were by far found for spiders, fol-
+Europe, one in the USA. Two investigated the impact                                lowed by weeds, birds and grasses. Mammals, bees,
+
+Table 5 Comparing contents of long-term studies
+Publication number              976                              295                              3036                             3626                             978                              3379
+Duration in years               19                               10                               43                               10                               16                               35
+Study validity (%)              37.1                             71.78                            69.35                            66.13                            59.68                            77.42
+Continent                       Europe                           Europe                           Europe                           Europe                           North America                    Europe
+                                                                                                                                                                                                                                       van der Meer et al. Environ Evid
+Nation, state                   Ukraine                          Denmark                          Germany                          France                           USA, West Virginia               Italy
+Region                          East                             Several                          Baden-Württemberg                Bourgogne-Franche-               Jefferson County                 Apulia
+                                                                                                                                    Comté
+Study design                    On farm                          Monitoring                       Monitoring                       Monitoring                       Experimental                     Experimental                      (2020) 9:2
+Number of sites                 Area                             Area                             Area                             Area                             One site and region              One site and region
+Number of samplings per         Not_stated                       NA                               1                                Not_stated                       2                                2
+ year
+Statistical evaluation          –                                Yes                              Yes                              Yes                              –                                Yes
+Species list                    –                                1.1_birds                        –                                –                                3.0_flora                        –
+Treatment plan what and         –                                –                                –                                –                                –                                Herbicide per month
+  when
+Population: description         DL2: butterflies, other          DL4: birds                       DL4: birds; DL2: small and       DL4: bats                        DL4: grasses, weeds              DL4: grasses, weeds
+  level of ISG                   mammals, slugs/snails                                             other mammals
+Intervention: description       DL2: disruption, natural         DL4: rodenticide                 DL3: herbicide, insecticide DL4: bare ground;                     DL4: herbicide; tillage          DL4: herbicide; tillage; green-
+  level of APO                   enemies, insecticides                                             broad, surface elements,    landscape context; DL3:                                                cover; mowing
+                                 broad and narrow;                                                 landscape context           hedges
+                                 surface elements; land-
+                                 scape context
+Comparator I (theme)            Management system                Risk assessment                  Life traits                      Habitat (needs and types)        Pest management                  Pest management
+Comparator II (grouped)         Whole system                     Various pesticides               Various pesticides, semi-        Semi-natural habitat,    Herbicide bare ground                    Herbicide bare ground
+                                                                                                    natural habitat                  orchard managed, other                                           greening
+                                                                                                                                     habitat
+Comparator III (system)         Organic vs. conventional         –                                –                                –                                –                                –
+Comparator IV (sampling         Not_stated                       Monitoring                       Monitoring                       Monitoring                       Monitoring                       Monitoring
+ type)
+Outcome I (measures)            Practice                         Impacts: lethality/distur-       Impacts: life traits             Differences in dispersal         Differences in diversity and     Differences in diversity and
+                                                                   bance                                                                                              abundance                        abundance
+Outcome II (biodiversity-       Conservation                     Conservation                     Conservation                     Habitat suitability              Conservation                     Conservation
+ aspects)
+Production                      Apple, plum (and berries)        Agriculture in general           Fruits and nuts in general       Fruits and nuts in general       Fruits and nuts in general       Almond
+Orchard system                  Unclear                          Valid                            Unclear                          Unclear                          Probably low-stem                High-stem
+Display (i) of lacking metadata (bolditalic and ‘–‘) in the respective studies and (ii) of similarities (in italic) and differences between study pairs on similar populations (No. 295-3036 and No. 978-3379)
+                                                                                                                                                                                                                                       Page 22 of 27
+
+van der Meer et al. Environ Evid       (2020) 9:2                                                                                           Page 23 of 27
+  Fig. 12 Number of publications evaluating habitats and impacts suited for evaluation. Top: articles assessing habitat (low-, middle-, and high-stem
+  systems) and subhabitat (whole orchard, canopy, meadow or row and inter-row) suitability for the respective indicator species group. Bottom:
+  Articles allowing single evaluations of the impact of agricultural practices in orchards on indicator species groups summarised in the classes 5–10,
+  11–20, 21–30 and 31+ evaluations (see the line ‘herbicide’ for the length of the bar). Pairs with less than 5 evaluations were not shown
+carabids and small mammals also received attention                                interest, especially landscape heterogeneity and connec-
+whereas all other organisms were mostly neglected, with                           tivity of landscapes for birds, spiders and wild bees, the
+amphibians closing the list.                                                      greening of the orchard grounds for spiders, carabids and
+   Impact evaluation was possible for 664 articles, result-                       flora, or nesting aids for birds and wild bees. In contrast,
+ing in 377 APO–ISG pairs with 2369 single evaluations                             for 235 of the 377 identified APO–ISG pairs, the articles
+(Fig. 12). The best surveyed impact was that of broad-                            presented only one to four single evaluations, and many
+spectrum insecticides on spiders, birds, honey bees,                              possible pairs were not surveyed at all. This includes
+amphibians, carabids and wild bees; note that most stud-                          practices such as thinning and pruning with possible high
+ies on amphibians were laboratory surveys. Spatial con-                           impacts especially on the arthropod fauna and practices
+text or habitat management questions also were of high
+
+van der Meer et al. Environ Evid (2020) 9:2                                                                    Page 24 of 27
+such as irrigation or netting against hail, birds or insects   scope of a systematic map emerged. We also noticed
+that can also affect bigger organisms.                         a high variability in research on habitat suitability or
+  However, LCA tools—such as SALCA-Biodiversity                impact evaluation according to different organism groups
+[23]—require information on the whole inventory of             and practices (research clusters and gaps). Thus, the cur-
+possible practices in agricultural crops (for orchards see     rent systematic map presents some preliminary results
+Additional file 3: Illustrations 1 and 2). Of the 947 articles on these themes and discusses them as suggestion for
+included in the map, 728 could possibly be used to esti-       deeper reviews.
+mate the impact of practices or the habitat suitability for
+the ISG.                                                       Implication for policy or management
+                                                               Fruit production already started in the Neolithic, and
+Limitations of the map                                         orchards—as any other culture—needed to be protected
+Limitations due to the search strategy                         from yield loss. Protection was implemented very early
+The search results can be considered as very solid             by use of manufactured products and natural enemies.
+because access to most relevant journals was given.            In the early twentieth century, the use of synthetic broad-
+However, access was denied on 454 downloaded refer-            spectrum pesticides soared and nearly immediately
+ences. Applying the same exclusion rate on these as on         found opponents. The conclusions of this systematic
+the downloaded articles would yield around 80–100              map reflect the growing awareness of ecological prob-
+articles that could not be included. The ISG considered        lems generated by the short-sighted use of highly toxic
+in the current map were chosen because they had previ-         substances which has led to a current interest in con-
+ously been used in SALCA-Biodiversity for arable lands.        servation and functional biodiversity paired with close-
+In terms of total biodiversity in orchards, other species      to-nature agricultural production; this shifted interest is
+groups would also be of interest, especially under func-       reflected in a general increase in research on these top-
+tional aspects.                                                ics. However, there seems to be a loophole in defining
+  Searches on national specialist websites implied a lan-      ‘selective’ pesticides which seem to need better definition
+guage bias because more research than that found is            and regulation. Also, the bio-control potential of several
+certainly done and published in national languages (e.g.       organism groups and of ecosystem complexes remains
+in China, Southern Europe, North Africa or the Mid-            under-studied. Against the background of an alarming
+dle East), but this research is not internationally avail-     worldwide biodiversity loss, the promotion of enhanced,
+able. Furthermore, even at national level not every single     comprehensive and internationally coordinated long-
+organisation can be scanned for grey literature.               term research should be the prospective task of agro-
+                                                               nomic and environmental policies.
+Limitations due to bias in pool of articles found                 The current systematic map revealed that a grow-
+Some articles could not be mined digitally because             ing amount of research has been implemented in recent
+they were formatted as jpeg-based PDF or written with          years on many practices and organisms in orchards. It
+styles unreadable by common digital tools. This limita-        also revealed that there still are important knowledge
+tion handicapped the mapping process and might even            gaps, missing basic survey and scientific evidence, which
+result in a future loss of recorded data. In 10 years,         should be filled for a better understanding of complex
+the number of publications will probably have dou-             agro-ecosystems. Methods and tools like LCA are devel-
+bled. Any mapping then will require strong and reliable        oped to support policies and management in developing
+machine learning, search algorithms, etc. [76].                close-to-nature production methods. The map presented
+  In many, also recent, studies, the indication of meta-       will be the fundament of the impact assessment of agri-
+data was poor or remained unclear on one or several            cultural practices in orchards on biodiversity.
+methodical aspects, even such basic ones as specifying
+the orchard system, the sampling type or the machines          Implication for research
+used. At best, to allow a better and easier catch of exist-    The findings of the current map also show that research
+ing evidence, a clearly enhanced metadata record by the        is done worldwide. However, the geographical distribu-
+journals would be required.                                    tion of research shows that research is not evenly spread,
+                                                               with main areas in Western Europe and Eastern North
+Conclusions                                                    America. The identification of a possible region-depend-
+Per definition, systematic maps collate and catalogue          ent prevalence of research would require a deeper review
+existing evidence [26], whereas systematic reviews imple-      of the studies.
+ment content analyses and scorings. However, when we              There is a lack of long-term studies or monitoring of
+mapped the full texts, some topics going beyond the            the entire orchard fauna and flora (total biodiversity),
+
+van der Meer et al. Environ Evid              (2020) 9:2                                                                                                  Page 25 of 27
+with full record of metadata, describing the impact of                                Competing interests
+                                                                                      The authors declare that they have no competing interests.
+agricultural practices on these organisms and the changes
+in abundance, diversity and dispersal that they provoke.                              Received: 27 May 2019 Accepted: 6 January 2020
+This indeed requires a higher accuracy of researchers and
+publishers in the description of materials and methods.
+Only in front of this background, short-term studies can
+really validate their findings on negative or positive inter-                         References
+vention-effects in long-lasting perennial agricultural sys-                           1. IPBES. The IPBES regional assessment report on biodiversity and ecosys-
+                                                                                           tem services for Europe and Central Asia. Rounsevell M, Fischer M, Torre-
+tems such as orchards.                                                                     Marin Rando A, Mader A, editors. Bonn: Secretariat of the Intergovern-
+                                                                                           mental Science-Policy Platform on Biodiversity and Ecosystem Services;
+Supplementary information                                                                  2018.
+                                                                                      2. Bignal EM, McCracken DI. Low-intensity farming systems in the conserva-
+Supplementary information accompanies this paper at https​://doi.                          tion of the countryside. J Appl Ecol. 1996;33:413–24.
+org/10.1186/s1375​0-020-0185-z.                                                       3. Tscharntke T, Klein AM, Kruess A, Steffan-Dewenter I, Thies C. Landscape
+                                                                                           perspectives on agricultural intensification and biodiversity—ecosystem
+                                                                                           service management. Ecol Lett. 2005;8:857–74.
+  Additional file 1. List of relevant articles (Access-Version).
+                                                                                      4. Biondi A, Mommaerts V, Smagghe G, Viñuela E, Zappalà L, Desneux N. The
+  Additional file 2. List of relevant articles (Excel-Version).                            non-target impact of spinosyns on beneficial arthropods. Pest Manag Sci.
+  Additional file 3. Pictures of orchards, complemental figures and tables.                2012;68:1523–36.
+                                                                                      5. Devine GJ, Furlong MJ. Insecticide use: contexts and ecological conse-
+  Additional file 4. ROSES form for systematic map report.                                 quences. Agric Hum Values. 2007;24:281–306.
+  Additional file 5. List of search strings and literature sources searched.          6. EPPO. Environmental risk assessment scheme for plant protection
+                                                                                           products—Chapter 11: terrestrial vertebrates. Bull OEPP/EPPO Bull.
+  Additional file 6. List of excluded and unobtainable articles.                           2003;33(2):211–38.
+  Additional file 7. List of used code sets.                                          7. Jahn T, Hötker H, Oppermann R, Bleil R, Vele L. Protection of biodiversity
+                                                                                           of free living birds and mammals in respect of the effects of pesticides/
+  Additional file 8. Amendatory information on (i) interventions (defini-                  Das Schutzgut Biodiversität in der Umweltbewertung von Stoffen. http://
+  tions), (ii) additional organisms, (iii) sources of production statistics, and (iv)      digit​al.zlb.de/viewe​r/conte​nt?actio​n=appli​catio​n&sourc​epath​=15831​
+  original keywords listed by the articles’ authors.                                       638/texte​_30_2014_prote​ction​_of_biodi​versi​ty.pdf&forma​t=pdf. 2014.
+  Additional file 9. List and action spectrum of all insecticides/acaricides               Accessed 21 Mar 2016.
+  and some other pesticides mentioned in the included articles.                       8. Potts SG, Biesmeijer JC, Kremen C, Neumann P, Schweiger O, Kunin WE.
+                                                                                           Global pollinator declines: trends, impacts and drivers. Trends Ecol Evol.
+                                                                                           2010;25:345–53.
+Abbreviations                                                                         9. Mouron P, Heijne B, Naef A, Strassemeyer J, Hayer F, Avilla J, Alaphilippe
+APO: agricultural practices in orchards; DL: description level; ISG: indicator             A, Höhn H, Hernandez J, Mack G, et al. Sustainability assessment of crop
+species group(s); LCA: life cycle assessment; PSO: pome fruit, stone fruit and             protection systems: sustainOS methodology and its application for apple
+olive production; SALCA: Swiss Agricultural Life Cycle Assessment; SNH: semi-              orchards. Agric Syst. 2012;113:1–15.
+natural habitat(s); SVA: study validity assessment.                                   10. Audemard H. Lutte biologique et intégrée en vergers de pommiers, poiri-
+                                                                                           ers et abricotiers. Entomophaga. 1987;32:59–71.
+Acknowledgements                                                                      11. Kuenen DJ. General considerations on the significance of predators and
+Not applicable.                                                                            parasites in orchards. Entomophaga. 1962;7:221–6.
+                                                                                      12. Sylvaine S, Jean-Charles B, Jean-François D, Benoît S. Biodiversity and
+Authors’ contributions                                                                     pest management in orchard systems. A review. Agron Sustain Dev.
+MvdM carried out the literature search, drafted the coding and the systematic              2010;30:139–52.
+map’s contents and edited this manuscript. He also executed the main part of          13. Sutter L, Albrecht M. Synergistic interactions of ecosystem services:
+the mapping. GL and SK regularly checked subsets of the mapping, helped to                 florivorous pest control boosts crop yield increase through insect pollina-
+develop the data coding rules and the eligibility chart, and contributed to the            tion. Proc R Soc Lond B Biol Sci. 2016;283:20152529.
+consistency checks and to the final version of the manuscript. Furthermore, SK        14. BioSuisse. Teil II Richtlinien für den Pflanzenbau und die Tierhaltung in der
+plotted data in GIS and GL in ‘R’. PJ is responsible for the expert system devel-          Schweiz. http://www.bio-suiss​e.ch/media​/VundH​/Regel​werk/2016/DE/
+opment and initialising the literature search to complete the scoring for the              rl_2016_1.6_d_auszu​g_ii_14.07.2016.pdf. 2016. Accessed 23 Aug 2016
+impact of fruit orchard practices on biodiversity. He attended and supervised              (Bio Suisse).
+the whole mapping process and contributed substantially to the editing of             15. Kuske S, Naef A, Holliger E, Widmer A, Gölles M, Linder C, Dubuis P-H,
+the manuscript. The whole team contributed in developing the study validity                Kehrli P, Bohren C. Pflanzenschutzempfehlungen für den Erwerbsobstbau
+assessment and regularly discussed and developed the work in progress. All                 2014/2015—Flugschrift | 122. SCHWEIZER ZEITSCHRIFT FÜR OBST- UND
+authors read and approved the final manuscript.                                            WEINBAU | NR. 2 | 2014; 2014.
+                                                                                      16. URL. BMUB—Nationale Strategie zur biologischen Vielfalt. (Bundesmin-
+Funding                                                                                    isterium für Umwelt N, Bau und Reaktorsicherheit (BMUB) ed. http://
+Not applicable.                                                                            www.biolo​gisch​eviel​falt.de/filea​dmin/NBS/docum​ents/brosc​huere​_biolo​
+                                                                                           g_vielf​alt_strat​egie_bf.pdf. 2007. Accessed 23 Aug 2016.
+The literature references are published in the form of an ­Access® database.
+Availability of data and materials                                                    17. URL. MEEM—Stratégie nationale pour la biodiversité 2011–2020. http://
+                                                                                           www.devel​oppem​ent-durab​le.gouv.fr/IMG/pdf/SNB_03-08-2012.pdf.
+                                                                                           2011. Accessed 23 Aug 2016.
+Ethics approval and consent to participate                                            18. URL. Convention on biological diversity. https​://www.cbd.int/conve​ntion​
+Not applicable.                                                                            /text/. Accessed 23 Aug 2016.
+                                                                                      19. Klein A-M, Vaissière BE, Cane JH, Steffan-Dewenter I, Cunningham SA, Kre-
+Consent for publication                                                                    men C, Tscharntke T. Importance of pollinators in changing landscapes
+Not applicable.                                                                            for world crops. Proc R Soc B Biol Sci. 2007;274:303–13.
+
+van der Meer et al. Environ Evid          (2020) 9:2                                                                                                   Page 26 of 27
+20. Pimentel D, Wilson C, McCullum C, Huang R, Dwen P, Flack J, Tran Q,            44. Fuelling O, Walther B, Nentwig W, Airoldi J-P. Barriers, traps and predators-
+    Saltman T, Cliff B. Economic and environmental benefits of biodiversity.           an integrated approach to avoid vole damage. In: Proceedings to the
+    Bioscience. 1997;47:747–57.                                                        24th vertebrate pest conference University of California, Davis (Fager-
+21. URL. EcoOrchard/Pest management in organic apple orchards—increas-                 stone RMTaKA ed.) Univ. of Calif., Davis; 2010. p. 222–7.
+    ing functional agricultural biodiversity. http://coreo​rgani​cplus​.org/resea​ 45. Jay M, Ricard J-M, Bonnet X. BIODIVERSITÉ FONCTIONNELLE EN VERGER
+    rch-proje​cts/ecoor​chard​. Accessed 3 June 2016.                                  INTÉRÊT DES PLAQUES AU SOL POUR ÉTUDIER LA FAUNE TERRESTRE 1RE
+22. Curran M, Maia de Souza D, Antón A, Teixeira RFM, Michelsen O, Vidal-              PARTIE: LES SERPENTS, vol. 296. In: Infos-Ctifl; 2013.
+    Legaz B, Sala S, Milà i Canals L. How well does LCA model land use             46. Mc Donnell R, Santangelo R, Paine T, Hoddle M. The feeding behaviour
+    impacts on biodiversity?—a comparison with approaches from ecology                 of Rumina decollata (Subulinidae: Gastropoda) raises questions about
+    and conservation. Environ Sci Technol. 2016;50:2782–95.                            its efficacy as a biological control agent for Cornu aspersum (Helicidae:
+23. Jeanneret P, Baumgartner DU, Freiermuth Knuchel R, Koch B, Gaillard G.             Gastropoda). Biocontrol Sci Tech. 2016;26:331–6.
+    An expert system for integrating biodiversity into agricultural life-cycle     47. Riddick EW, Mills NJ. Potential of adult Carabids (Coleoptera: Carabidae)
+    assessment. Ecol Ind. 2014;46:224–31.                                              as predators of fifth-instar codling moth (Lepidoptera: Tortricidae) in
+24. URL. Life cycle assessment method SALCA. https​://www.agros​cope.                  apple orchards in California. Environ Entomol. 1994;23:1338–45.
+    admin​.ch/agros​cope/de/home/theme​n/umwel​t-resso​urcen​/oekob​ilanz​         48. Allen WR, Hagley EAC. Epigeal arthropods as predators of mature larvae
+    en/oekob​ilanz​-metho​den/oekob​ilanz​metho​de-salca​.html. Accessed 22            and pupae of the apple maggot (Diptera: Tephritidae). Environ Entomol.
+    May 2019.                                                                          1990;19:309–12.
+25. van der Meer M, Lüscher G, Kay S, Jeanneret P. What evidence exists on         49. Alain Garcin MJ, Jean-François Mandrin: Les aménagements du verger
+    the impact of agricultural practices in fruit orchards on biodiversity indi-       pour une biodiversité fonctionnelle, vol. 127. In: Infos-Ctifl; 2005.
+    cator species groups? A systematic map protocol. Environ Evid. 2017;6:14.      50. Nyffeler M, Benz G. Spiders in natural pest control: a review. J Appl Ento-
+26. James KL, Randall NP, Haddaway NR. A methodology for systematic map-               mol. 1987;103:321–39.
+    ping in environmental sciences. Environ Evid. 2016;5:1–13.                     51. Riechert SE, Lockley T. Spiders as biological control agents. Annu Rev
+27. Collaboration for Environmental Evidence. Guidelines for systematic                Entomol. 1984;29:299–320.
+    review and evidence synthesis in environmental management. Version             52. Nyffeler M, Birkhofer K. An estimated 400–800 million tons of prey are
+    4.2; 2013.                                                                         annually killed by the global spider community. Sci Nat. 2017;104:30.
+28. Jeanneret P, Baumgartner DU, Freiermuth Knuchel R, Gaillard G. SALCA           53. Marc P, Canard A. Maintaining spider biodiversity in agroecosystems as a
+    Biodiversity (terrestrial)/Methode zur Beurteilung der Wirkung land-               tool in pest control. Agric Ecosyst Environ. 1997;62:229–35.
+    wirtschaftlicher Aktivitäten auf die Biodiversität für Ökobilanzen (SALCA-     54. Rajeswaran J, Duraimurugan P, Shanmugam P. Role of spiders in agricul-
+    Biodiversität). https​://www.agros​cope.admin​.ch/agros​cope/en/home/              ture and horticulture ecosystem. J Food Agric Environ. 2005;3:147.
+    topic​s/envir​onmen​t-resou​rces/life-cycle​-asses​sment​/life-cycle​-asses​   55. Pickhardt A, Fluri P. Die Bestäubung der Blütenpflanzen durch Bienen.
+    sment​-metho​ds/life-cycle​-asses​sment​-metho​d-salca​.html#-65469​3770.          Biologie, Oekologie, Oekonomie. In: Mitt Schweizerisches Zentrum für
+    2009. Accessed 7 Feb 2017.                                                         Bienenforschung, vol. 38; 2000. p. 75.
+29. URL. ETH BrowZine library. https​://browz​ine.com/libra​ries/1165/subje​       56. Abrol DP. Honeybee and crop pollination. Pollination biology: biodiversity
+    cts?sort=title​. Accessed 15 Nov 2019.                                             conservation and agricultural production. New York: Springer; 2012. p.
+30. URL. ETH library. https​://www.libra​ry.ethz.ch/en/Resou​rces/Journ​als-           85–110.
+    newsp​apers​. Accessed 15 Nov 2019.                                            57. Lewis T, Smith BD. The insect faunas of pear and apple orchards and the
+31. URL. Wikipedia, the free encyclopedia/speed reading. https​://en.wikip​            effect of windbreaks on their distribution. Ann Appl Biol. 1969;64:11–20.
+    edia.org/wiki/Speed​_readi​ng. Accessed 16 June 2016.                          58. Böttcher F. Bienensterben durch Schädlingsbekämpfung. Angew Chem.
+32. Richard L. Kappa as a measure of concordance in categorical sorting.               1937;50:81–4.
+    www.vassa​rstat​s.net/kappa​.html. 2001. Accessed 13 Dec 2019.                 59. Saunders ME, Luck GW. Combining costs and benefits of animal
+33. Landis JR, Koch GG. The measurement of observer agreement for cat-                 activities to assess net yield outcomes in apple orchards. PLoS ONE.
+    egorical data. Biometrics. 1977;33:159–74.                                         2016;11:e0158618.
+34. Viera AJ, Garrett JM. Understanding interobserver agreement: the kappa         60. Cooper J, Dobson H. The benefits of pesticides to mankind and the
+    statistic. Fam Med. 2005;37:360–3.                                                 environment. Crop Prot. 2007;26:1337–48.
+35. Beck HE, Zimmermann NE, McVicar TR, Vergopolan N, Berg A, Wood EF.             61. Pimentel D. Environmental and economic costs of the application of pes-
+    Present and future Köppen-Geiger climate classification maps at 1-km               ticides primarily in the United States. Environ Dev Sustain. 2005;7:229–52.
+    resolution. Sci Data. 2018;5:180214.                                           62. Zadoks JC. Fifty years of crop protection, 1950–2000. NJAS Wagening J
+36. URL. Wikipedia, the free encyclopedia/Köppen climate classification.               Life Sci. 2003;50:181–93.
+    https​://en.wikip​edia.org/wiki/Köppen_clima​te_class​ifica​tion. Accessed     63. Ullinger JM, Sheridan SG, Guatelli-Steinberg D. Fruits of their labour:
+    18 Nov 2019.                                                                       urbanisation, orchard crops, and dental health in early bronze age Jordan.
+37. URL. Wikipedia, the free encyclopedia/Regions_of_France. https​://                 Int J Osteoarchaeol. 2015;25:753–64.
+    en.wikip​edia.org/wiki/Regio​ns_of_Franc​e. Accessed 15 June 2017.             64. Blondel J. The ‘design’ of mediterranean landscapes: a millennial story of
+38. Haddaway N, Macura B, Whaley P, Pullin A. ROSES flow diagram for sys-              humans and ecological systems during the historic period. Hum Ecol.
+    tematic maps. Version 1.0. https​://doi.org/10.6084/m9.figsh​are.60859​40;         2006;34:713–29.
+    2017.                                                                          65. Dayan FE, Cantrell CL, Duke SO. Natural products in crop protection.
+39. Chouinard G, Hill SB, Vincent C, Barthakur N. Border-row sprays for control        Bioorg Med Chem. 2009;17:4022–34.
+    of the plum curculio in apple orchards: behavioral study. J Econ Entomol.      66. Orr D, Lahiri S. Chapter 23—Biological control of insect pests in crops A2.
+    1992;85:1307–17.                                                                   In: Abrol DP, editor. Integrated pest management. San Diego: Academic
+40. Jay M, Boreau de Roincé C, Ricard J-M, Garcin A, Mandrin J-F, Lavigne C,           Press; 2014. p. 531–48.
+    Bouvier J-C, Tupinier Y, Puechmaille S. Biodiversité fonctionelle en verger    67. Barzman MS, Mills NJ, Thu Cuc NT. Traditional knowledge and rationale
+    de pommier—Les chauves-souris consomment-elles des ravageurs?, vol.                for weaver ant husbandry in the Mekong delta of Vietnam. Agric Hum
+    286. In: Infos-Ctifl; 2012.                                                        Values. 1996;13:2–9.
+41. Jay M, Tupinier Y. Les chauves-souris et vergers La distribution spatio-       68. Vayssières J-F. Weaver ants help farmers to capture organic markets.
+    temporelle des animaux, vol. 207. In: Infos-Ctifl; 2004.                           Appropr Technol. 2007;34(2):22.
+42. Macemon A. The big brown bat (Eptesicus fuscus) and the little brown bat       69. Van Mele P. A historical review of research on the weaver ant Oecophylla
+    (Myotis lucifugus) as a biological pest control for the adult female codling       in biological control. Agric For Entomol. 2008;10:13–22.
+    moth (Cydia pomonella) in Illinois Apple Orchards. 2011.                       70. Hoddle MS, Van Driesche RG. Chapter 24—Biological control of insect
+43. Barea-Azcón JM, Ballesteros-Duperón E, Gil-Sánchez JM, Virgós E. Badger            pests. In: Cardé RT, editor. Encyclopedia of insects, vol. 2. San Diego:
+    Meles meles feeding ecology in dry Mediterranean environments of the               Academic Press; 2009. p. 91–101.
+    southwest edge of its distribution range. Acta Theriol. 2010;55:45–52.         71. Banaszkiewicz T. Evolution of pesticide use. Influence of the pesticide
+                                                                                       dump on the environment. Olsztyn: Department of Land Reclamation
+
+van der Meer et al. Environ Evid        (2020) 9:2                                                                                                  Page 27 of 27
+    and Environmental Management, University of Warmia and Mazury;             75. Sánchez-Bayo F. Ecological impacts of insecticides. Advances in inte-
+    2010. p. 7.                                                                     grated pest management. Croatia: INTECH Open Access Publisher; 2012.
+72. URL. Wikipedia—Integrated farming. https​://en.wikip​edia.org/wiki/Integ​  76. Acheson E, Purves RS. Extracting and modeling geographic information
+    rated​_farmi​ng#Histo​ry. Accessed 15 Jan 2018.                                 from scientific articles. PLoS ONE; 2020 (submitted).
+73. URL. University of California—citrus—selectivity of insecticides and
+    miticides. http://ipm.ucanr​.edu/PMG/r1073​00811​.html. Accessed 07 May
+    2018.                                                                     Publisher’s Note
+74. URL. IOBC—pesticide side effect database. http://www.iobc-wprs.org/       Springer Nature remains neutral with regard to jurisdictional claims in pub-
+    ip_ipm/IOBC_Pesti​cide_Side_Effec​t_Datab​ase.html. Accessed 07 May       lished maps and institutional affiliations.
+    2018.
+                                                                                   Ready to submit your research ? Choose BMC and benefit from:
+                                                                                     • fast, convenient online submission
+                                                                                     • thorough peer review by experienced researchers in your field
+                                                                                     • rapid publication on acceptance
+                                                                                     • support for research data, including large and complex data types
+                                                                                     • gold Open Access which fosters wider collaboration and increased citations
+                                                                                     • maximum visibility for your research: over 100M website views per year
+                                                                                   At BMC, research is always in progress.
+                                                                                   Learn more biomedcentral.com/submissions
+

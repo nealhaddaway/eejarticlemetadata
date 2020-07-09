@@ -1,0 +1,650 @@
+Bennett et al. Environ Evid (2017) 6:18
+DOI 10.1186/s13750-017-0097-8                                                                                   Environmental Evidence
+  SYSTEMATIC REVIEW PROTOCOL                                                                                                                    Open Access
+Response of chlorophyll a to total
+nitrogen and total phosphorus concentrations
+in lotic ecosystems: a systematic review protocol
+Micah G. Bennett*, Kate A. Schofield, Sylvia S. Lee and Susan B. Norton
+  Abstract
+  Background: Eutrophication of freshwater ecosystems resulting from nitrogen and phosphorus pollution is a major
+  stressor across the globe. Despite recognition by scientists and stakeholders of the problems of nutrient pollution,
+  rigorous synthesis of scientific evidence is still needed to inform nutrient-related management decisions, especially
+  in streams and rivers. Nutrient stressor-response relationships are complicated by multiple interacting environmental
+  factors, complex and indirect causal pathways involving diverse biotic assemblages and food web compartments,
+  legacy (historic) nutrient sources such as agricultural sediments, and the naturally high spatiotemporal variability
+  of lotic ecosystems. Determining nutrient levels at which ecosystems are affected is a critical first step for identify-
+  ing, managing, and restoring aquatic resources impaired by eutrophication and maintaining currently unimpaired
+  resources. The systematic review outlined in this protocol will compile and synthesize literature on the response of
+  chlorophyll a to nutrients in streams, providing a state-of-the-science body of evidence to assess nutrient impacts to
+  one of the most widely-used measures of eutrophication. This review will address two questions: “What is the response
+  of chlorophyll a to total nitrogen and total phosphorus concentrations in lotic ecosystems?” and “How are these relation-
+  ships affected by other factors?”
+  Methods: Searches for published and unpublished articles (peer-reviewed and non-peer-reviewed) will be con-
+  ducted using bibliographic databases and search engines. Searches will be supplemented with bibliography searches
+  and requests for material from the scientific and management community. Articles will be screened for relevance
+  at the title/abstract and full text levels using pre-determined inclusion criteria; 10% (minimum 50, maximum 200)
+  of screened papers will be examined by multiple reviewers to ensure consistent application of criteria. Study risk of
+  bias will be evaluated using a questionnaire developed from existing frameworks and tailored to the specific study
+  types this review will encounter. Results will be synthesized using meta-analysis of correlation coefficients, as well as
+  narrative and tabular summaries, and will focus on the shape, direction, strength, and variability of available nutrient-
+  chlorophyll relationships. Sensitivity analysis and meta-regression will be used to evaluate potential effects of study
+  quality and modifying factors on nutrient-chlorophyll relationships.
+  Keywords: Nutrients, Pollution, Water quality, Stressor-response, Stream, River, Primary production, Eutrophication
+Background                                                                              of freshwater ecosystems, both across the United States
+Nutrient pollution by nitrogen (N) and phosphorus                                       and globally [1–6]. Nutrients and resulting stressors (e.g.
+(P)—defined here as nutrient concentrations higher                                      oxygen depletion) degrade ecosystem services worth
+than background or natural levels—is a major stressor                                   more than $2.2 billion annually in the United States
+                                                                                        alone [7]. Despite recognition by scientists and stake-
+                                                                                        holders that nutrient pollution and resulting eutrophi-
+*Correspondence: bennett.micah@epa.gov                                                  cation (increased ecosystem metabolism) are problems
+National Center for Environmental Assessment, Office of Research
+and Development, U.S. Environmental Protection Agency,
+                                                                                        in fresh waters [1, 4, 5, 8, 9], rigorous synthesis of scien-
+1200 Pennsylvania Ave. NW (8623‑P), Washington, DC 20460, USA                           tific evidence is still needed to inform nutrient-related
+                                        © The Author(s) 2017. This article is distributed under the terms of the Creative Commons Attribution 4.0 International License
+                                        (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium,
+                                        provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license,
+                                        and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/
+                                        publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+
+Bennett et al. Environ Evid (2017) 6:18                                                                         Page 2 of 13
+management decisions and policies, particularly in           on total nitrogen (TN) and total phosphorus (TP) con-
+streams and rivers [10]. There are several factors that      centrations in the water column. These constituents
+complicate nutrient stressor-response relationships in       were selected for both ecological and practical reasons.
+lotic systems. Several potential nutrient constituents (e.g. Although dissolved nutrient forms may be more available
+nitrate, ammonia) can act as stressors. Causal pathways      for immediate uptake by biota, total nutrient forms are
+between nutrients stressors and biological effects are       often more highly correlated with chl-a [28]. Dissolved
+complex and include many indirect effects. These path-       forms may undergo rapid uptake and release by primary
+ways also involve diverse assemblages (e.g. algae, mac-      producers, such that concentrations of dissolved nutri-
+roinvertebrates, fishes) and food web compartments (e.g.     ents in the water column may not represent true avail-
+“green” pathways involving primary producers, “brown”        ability [33, 34]. In contrast, total nutrient forms may best
+pathways involving heterotrophic bacteria and fungi [11,     represent trophic state and nutrient limitation in most
+12]); and many interacting environmental factors are         lotic ecosystems because TN and TP account for N and
+also involved, such as land use, flooding, and stream size,  P held within algae and sediment particles and thus rep-
+affect stressor-response relationships [13–15]. Temporal     resent integrated measures of biologically available nutri-
+factors also complicate relationships, with legacy (his-     ents [26, 34, 35]. TN and TP are also the most common
+toric) nutrient sources contributing to stressors [3, 16,    nutrient measures used by environmental managers in
+17]. Finally, high spatiotemporal variability of both nutri- the United States and around the globe to assess eutroph-
+ent concentrations [18] and lotic systems more gener-        ication of lotic ecosystems [36].
+ally [19] can complicate evaluation of stressor-response       This review was motivated by a need for comprehen-
+relationships in these systems. The effects of nutrient      sive information on stressor-response relationships to aid
+increases on biota have been documented in streams and       water quality scientists at the U.S. Environmental Protec-
+rivers with a variety of biological, chemical, and physi-    tion Agency (USEPA) and state environmental agencies
+cal conditions; however, to our knowledge, a synthesis of    in better understanding the effects of nutrient pollution.
+links between nutrient increases and impacts on stream       In several meetings held during 2016–2017, these poten-
+biota that also addresses the influence of differing condi-  tial end users helped refine the scope, specific questions
+tions across a breadth of lotic systems is lacking [20].     and objectives (including the relevant population, expo-
+   Biota integrate impacts over time and so can better rep-  sure, and outcome) of the systematic review, and the
+resent ecological condition compared to snapshot water       modifying factors of interest.
+quality measurements [21–24]. Environmental managers
+often use this biological information to evaluate impacts    Objective of the review
+of chronic pollution (e.g. [25]). However, high spatiotem-   The primary question addressed by this review is: What
+poral variability and other factors (e.g. those mentioned    is the response of chl-a to TN and TP concentrations in
+above) can mask links between nutrients and biota [26].      lotic ecosystems? The nutrient stressor (TN or TP) and
+A synthesis of nutrient stressor-response relationships      biotic response (chl-a) were chosen based on measures
+and how these relationships are modified by other factors    commonly used by U.S. state agencies to evaluate and
+could aid the setting of regulatory limits and identifica-   make regulatory decisions about impairment of lotic eco-
+tion impacted systems based on biota (e.g. [27]).            systems due to eutrophication. This question consists of
+   Algae are the main primary producers in lotic sys-        the following components:
+tems, and algal biomass is expected to be one of the first     Population: Lotic fresh waters, or mesocosms that
+ecological endpoints to respond to nutrient pollution        mimic these systems, in any geographic location.
+[28]. Increases in algal biomass are also associated with      Exposure: Concentration of TN or TP. We define TN as
+many of the negative human health and ecological con-        the sum of ammonia N, nitrate N, nitrite N, and organic
+sequences of eutrophication, such as reduced drinking        nitrogen forms; we define TP as the sum of dissolved and
+water quality [29, 30] and altered species composition       particulate phosphorus forms.
+[4]. Chlorophyll a (chl-a) is a photosynthetic pigment         Comparator: Control group (no added TN or TP, or
+used to measure algal biomass [31]. In streams and riv-      low exposure to TN or TP) (for experimental studies), or
+ers, researchers may sample benthic chl-a from hard sub-     comparison to lower or higher TN or TP concentrations
+strates or sestonic chl-a from the water column [31, 32]     across a gradient (for observational studies).
+to determine chl-a concentrations.                             Outcome: Chl-a concentration (sestonic or benthic).
+   This systematic review will compile and synthesize lit-     The secondary question addressed by this review is:
+erature on chl-a responses to nutrients in streams and       How are the relationships identified in the primary ques-
+rivers, to provide a state-of-the-science body of evi-       tion affected by other factors? An initial list of potential
+dence for assessing nutrient impacts. The review focuses     modifying factors is provided below (see “Methods” and
+
+Bennett et al. Environ Evid (2017) 6:18                                                                                           Page 3 of 13
+“Potential effect modifiers and reasons for heterogene-                        information (see “Supplemental searches”), because they
+ity”); others may be added as studies are examined in                          generally do not have sufficient relevant primary data and
+more detail.                                                                   results to extract, and non-electronic library resource
+                                                                               limitations prevent a full evaluation of these resources.
+Methods                                                                        No language restrictions will be applied to database
+Search strategy                                                                searches, and any other filters used for specific databases
+Search terms and filters                                                       (e.g. excluding full text search to limit irrelevant litera-
+Bibliographic databases will be searched using a combi-                        ture) will be detailed in the full systematic review.
+nation of terms representing the nutrient stressors (TN
+or TP), the biological response (chl-a), and habitat- or                       Databases
+study-specific terms (e.g. terms associated with types                         At least 16 bibliographic databases, representing peer-
+of lotic fresh waters and experimental stream stud-                            reviewed, non-peer-reviewed, and unpublished mate-
+ies) (Table 1). Databases vary in how they handle search                       rial, will be searched to obtain articles for the review
+strings, so searches will be adapted as needed for each                        (Table 2). When databases limit the search results that
+search. An appendix of search strings used for each data-                      can be viewed or downloaded, results will be filtered by
+base will be provided in the full systematic review (see                       year, when possible, to obtain subsets for viewing and
+ence™ database). Books, book chapters, pamphlets and
+Additional file 1 for an example based on the Web of Sci-                      download. Due to limitations on batch downloading of
+                                                                               citations, three databases (DART, National Technical
+conference abstracts will be excluded from consideration                       Reports Library, and OpenGrey) will be treated similarly
+unless they are submitted through calls for additional                         to website searches and the first 50 items returned (for
+                                                                               separate searches for TN and TP) will be examined (see
+                                                                               below) (Table 2).
+Table 1 Search terms to be used for database searches
+                                                                               Specialist websites
+Habitat terms              Nutrient terms              Chlorophyll a terms
+                                                                               Websites of the following organizations will be searched
+benth*                     “total nitrogen”            chlorophyll             for relevant literature:
+catchment                  “total N”                   “chlorophyll-a”
+watershed                                              “chl-a”                   ••  U.S. Environmental Protection Agency
+stream*                    “total phosphorus”          “chl a”                   ••  U.S. state- and territory-level environmental agency
+creek*                     “total P”                                                 websites (56 total entities)
+river*                                                                           ••  U.S. Department of Agriculture
+pool*                                                                            ••  U.S. Forest Service
+“flood plain”                                                                    ••  U.S. Fish and Wildlife Service
+floodplain                                                                       ••  U.S. Geological Survey
+riparia*                                                                         ••  U.S. National Oceanic and Atmospheric Administra-
+ditch*                                                                               tion (NOAA)
+lotic                                                                            ••  NOAA Fisheries
+spring*                                                                          ••  National Park Service
+seep*                                                                            ••  World Wildlife Fund
+riffle*                                                                          ••  American Rivers
+freshwater                                                                       ••  International Rivers
+freshwaters                                                                      ••  The Nature Conservancy
+“fresh water”                                                                    ••  United Nations Environment Program
+brook                                                                            ••  European Environment Agency
+“running water”                                                                  ••  European Commission Joint Research Center
+headwater                                                                        ••  Environment and Climate Change Canada (http://
+tributary                                                                            ec.gc.ca/default.asp?lang=En&n=FD9B0E51-1)
+mesocosm                                                                         ••  Fisheries and Oceans Canada
+flume                                                                            ••  Canadian Council of Ministers of the Environment
+microcosm
+                                                                                 The first 50 items returned, sorted by relevance, will be
+Terms within each of the three categories are combined with “OR” and the three
+categories are combined with “AND” for Boolean searches                        examined for each search. For websites without a search
+
+Bennett et al. Environ Evid (2017) 6:18                                                                                        Page 4 of 13
+Table 2 Bibliographic databases and relevant information
+Database                                  Field to search                                   Publication types covered
+ISI Web of Science Core Collection        Topic                                             Peer-reviewed articles and conference
+  (Science Citation Index Expanded)                                                           proceedings
+Scopus                                    Advanced search bar                               Peer-reviewed articles and conference
+                                                                                              proceedings
+JSTOR Life Sciences Archives              Full text—item type: articles                     Peer-reviewed articles
+CAB Abstracts and CAB Archive             Separate abstract and title searches              Peer-reviewed articles, books and conference
+                                                                                              proceedings
+ProQuest Environmental Science Collection Anywhere—except full text                         Peer-reviewed and non-peer-reviewed articles,
+                                                                                              books, reports, and conference proceedings
+BioOne                                    All fields                                        Peer-reviewed articles
+Ingenta Connect                           Title, keyword, abstract                          Peer-reviewed articles
+Science Direct                            Title/abstract/keywords—(Boolean)                 Peer-reviewed articles and books
+Wiley Online Library                      Separate searches for abstract and title          Peer-reviewed articles and books
+OpenGrey                                  Default—treated as website for screening pur-     Unpublished reports, dissertations, conference
+                                            poses due to download limitations                 papers, other grey literature
+National Technical Reports Library        Advanced search—treated as website for screen-    Federally-funded technical reports
+                                            ing purposes due to download limitations
+Greenfile                                 All fields                                        Published and unpublished papers and data
+AGRICOLA                                  Articles search—advanced search “gkey”            Published and unpublished articles and data
+AGRIS                                     Default search                                    Published and unpublished papers and data
+ProQuest dissertations and theses A & I   All fields except full text                       Dissertations and theses
+DART                                      Default search—treated as website for screening   Dissertations and theses
+                                            purposes due to download limitations
+function, relevant “publications” sections will be exam-              knowledge and through ECOLOG-L, Twitter, and
+ined to find documents. Because many websites do not                  ResearchGate. “Snowball” searches will also be con-
+accept Boolean search strings, separate searches will                 ducted: references that cite or are cited by a small set of
+be conducted for TN and TP, and a smaller set of terms                highly relevant literature (see below) will be compiled
+will be used each of these searches. All website searches             and any novel references not found during database
+will be documented in a spreadsheet that will include                 searches will be evaluated.
+the search date, the specific web URL and search terms
+used for each site, any website sub-sections used, the                Reference management
+total number of items returned, and the number of items               Articles returned by the search strategy will be stored in
+deemed relevant. Although the specialist website list is              an EndNote library. Duplicate entries will be removed,
+biased toward western countries, resource constraints                 and an initial title screen within EndNote will be used
+limit our ability to search more broadly in non-English               to remove entries that are clearly not relevant (e.g.
+speaking countries. The “Supplemental searches” will be               Front Matter, Meeting Programs and Abstracts, Books
+used to increase capture of relevant articles from other              Reviewed). The number of entries removed will be
+countries.                                                            recorded. The remaining articles will be imported into
+                                                                      the Rayyan software [37] (http://rayyan.qcri.org/) for
+Search engines                                                        title/abstract screening.
+Searches using Google and Google Scholar will be con-
+ducted, and the first 50 search results will be examined              Assessing search comprehensiveness
+for relevance as with website searches. Separate searches             Comprehensiveness of the search strategy will be
+will be conducted for TN and TP, and search terms used                assessed by: (1) determining whether all articles in a pre-
+for each search will be documented.                                   determined “test set” of approximately 15 relevant papers
+                                                                      per stressor-response relationship (i.e., TN—chl-a, TP—
+Supplemental searches                                                 chl-a; Table 3) are found with the search strategy; and
+To supplement these searches, additional resources                    (2) examining bibliographies of these “test set” papers,
+will be requested from colleagues with disciplinary                   and papers that cite the “test set” papers, to determine
+
+Bennett et al. Environ Evid (2017) 6:18                                                                                           Page 5 of 13
+Table 3 ”Test set” of sources used to test search strat-                        level and, subsequently, all relevant articles at the full
+egy comprehensiveness and trial study quality and data                          text level. Consistency during full text screening will be
+extraction approaches                                                           addressed by frequently convening reviewers to discuss
+Citation                                              Year        TN         TP the strategy and discuss and resolve any questions.
+                                                                                  The inclusion criteria (see below) will be applied to
+Bourassa and Cattaneo [61]                            1998        x          x
+                                                                                systematically exclude articles that are topically irrel-
+Braccia et al. [62]                                   2014        x
+                                                                                evant or do not contain relevant data, based on review
+Chambers et al. [32]                                  2012        x          x
+                                                                                of the title and abstract. Any article for which there is
+DeNicola and Lellock [63]                             2015        x          x
+                                                                                uncertainty about whether to include or exclude it based
+Heiskary and Bouchard [25]                            2015                   x  on title/abstract screening will be included for full text
+Justus et al. [64]                                    2010        x          x  screening. Following evaluation of all titles and abstracts,
+Lewis and McCutchan [65]                              2010                   x  full text screening will occur simultaneously with data
+Lohman et al. [66]                                    1992        x          x  extraction and quality assessment: as full text articles
+Maret et al. [15]                                     2010        x          x  are examined for data extraction and quality assessment,
+Morgan et al. [67]                                    2006        x          x  any article judged to be irrelevant will be excluded and
+Pan et al. [68]                                       1999        x          x  added to the appendix of excluded references, along
+Stevenson et al. [69]                                 2006        x          x  with the justification based on inclusion criteria. Articles
+Weigel and Robertson [70]                             2007        x          x  obtained through website searches will be screened dur-
+Zheng et al. [71]                                     2008        x          x  ing those searches by examining title/abstract/summary
+Rier and Stevenson [72]                               2006        x          x  and full text when necessary, and information on the
+Heiskary et al. [73]                                  2013        x          x  number of returns and relevant articles will be recorded
+Iowa Department of Natural Resources [74]             2013        x          x  separately.
+TN and TP columns indicate the nutrient(s) for which each citation reports a
+relationship with chl-a                                                         Inclusion criteria
+                                                                                The following inclusion criteria will be used to determine
+                                                                                relevant studies (see also Table 4):
+whether relevant citations are captured in our search. If                         Relevant population: Lotic freshwaters anywhere in the
+articles are missed, the search strategy will be evaluated                      world or mesocosms made to mimic these systems.
+and revised accordingly. The “test set” was created by                            Relevant exposure: Exposure to total nitrogen (TN) or
+searching the authors’ personal libraries for highly rele-                      total phosphorus (TP) measured as concentration (e.g.
+vant articles until at least 15 papers per stressor-response                    mg/L).
+relationship were obtained, and includes both journal                             Relevant comparator: Comparison to sites or treat-
+articles and reports (Table 3).                                                 ments with lower or higher levels of TN or TP across a
+                                                                                gradient, or comparison to a control group (no or back-
+Article screening and study inclusion criteria                                  ground TN or TP) or to lower or higher concentrations
+Screening process                                                               of TN or TP in experimental studies.
+Before screening all articles, consistency in applying                            Relevant outcome: Concentration of benthic or ses-
+inclusion criteria will be evaluated on a subset of arti-                       tonic chl-a, measured as mass per area or volume (e.g.
+cles using the kappa statistic (ranging from 0 to 1, with                       µg/cm2, mg/m2, µg/L).
+1 indicating complete agreement [38]). Two to four                                Relevant study type(s): Experimental studies in meso-
+reviewers will assess the same randomly-selected set of                         cosms or field sites, or field-based observational studies.
+10% of studies to be screened (minimum 50, maximum                                Relevant publication type(s): Study must contain origi-
+200) at the title/abstract level. Kappa will be calculated,                     nal data and sufficient detail on methodology to assess
+using modifications for more than two raters if necessary                       study quality. Book chapters and conference abstracts
+[39]. If kappa is low (<0.50) [40], reviewers will examine                      will be excluded unless specifically suggested by outside
+inconsistencies and clarify inclusion criteria; if kappa is                     experts.
+moderate or high (>0.50) [40], one to four reviewers will                         Language: No language restrictions will be applied.
+proceed to screen all retrieved articles at the title/abstract                    Date: No date restrictions will be applied.
+
+Bennett et al. Environ Evid (2017) 6:18                                                                                                                    Page 6 of 13
+Table 4 Detailed inclusion and exclusion criteria used to determine study inclusion in the systematic review
+Inclusion criteria                                                                 Exclusion criteria
+Population (unit of study)a
+  –Lotic fresh waters anywhere in the world;                                       –Lentic or non-fresh waters (wetlands, lakes, reservoirs, ponds, oceans,
+  –Mesocosms made to mimic lotic freshwater systems.                                  estuaries)
+Exposure (environmental variable to which population is exposed)
+  –Exposure to total nitrogen (TN) or total phosphorus (TP) measured as            –Exposure only to other nutrients, or nitrogen and phosphorus not
+    concentration (e.g. mg/L)                                                         reported as TN or TP
+Comparators (control or alternative intervention)
+  –Comparison to sites or treatments with lower or higher levels of TN or          –Studies of single sites (without sampling across time) or those without
+    TP across a gradient;                                                             comparison to lower or higher levels of TN or TP.
+  –Comparison to control group (no or background TN or TP) or to lower
+    or higher levels of TN or TP in experimental studies.
+Outcomes (relevant outcomes resulting from exposure)
+  –Concentration of benthic or sestonic chlorophyll a, measured as mass            –Studies examining only TN or TP with no data on biological responses;
+    per area or volume (e.g. µg/cm2, mg/m2, µg/L)                                  –Studies examining other biological effects
+Study type
+  –Experimental studies in mesocosms or field sites;                               –Studies examining only TN or TP with no data on biological responses;
+  –Field-based, observational studies                                              –Studies examining only biological effects other than chlorophyll a
+Publications (types of sources used)
+  –Study must contain original data;                                               –Articles with no original data (e.g. editorials, reviews);
+  –Study must contain sufficient detail on methodology to assess study             –Articles without sufficient information to evaluate pertinent relationships
+    quality                                                                           (chlorophyll a response to TN or TP) or study quality (e.g. methodology);
+                                                                                   –Retracted articles
+a
+   We included some search terms that may capture studies in lentic habitats related to flowing systems (e.g. floodplain, riparian) in an attempt to obtain relevant
+studies that might otherwise be missed. We recognize that there is some uncertainty with the lotic/lentic distinction (e.g. flowing freshwater springs) and will liberally
+include such articles at the title/abstract screening if otherwise relevant
+Multiple studies using same datasets                                                  Potential effect modifiers and reasons for heterogeneity
+For cases in which multiple studies use the same or simi-                             One motivation for this review is the apparent vari-
+lar datasets (e.g. a dissertation and one or more published                           ability in nutrient stressor-response relationships in lotic
+articles from that dissertation), the following criteria                              ecosystems. Factors that potentially modify stressor-
+(listed in order of priority) will be used to select a single                         response relationships will be extracted from relevant
+source: the study with the more complete dataset, the                                 studies when these factors were examined in the original
+version published as a peer-reviewed journal article, or                              study. Based on evaluation of highly relevant studies and
+the most recent version. The excluded duplicative study                               consultation with stakeholders and experts, the modifiers
+or studies may be used to fill in gaps in methodology or                              considered include:
+contextual information. These decisions will be docu-
+mented in an appendix.                                                                   ••  ecoregion;
+                                                                                         ••  latitude;
+Unobtainable articles                                                                    ••  altitude;
+Attempts to obtain full text of all articles not excluded                                ••  land cover/land use;
+during the screening process will be made using avail-                                   ••  stream size;
+able library resources or by contacting authors. Articles                                ••  watershed area;
+for which full text is not obtainable will be listed in an                               ••  geographic location;
+appendix. Abstracts of non-English language articles will                                ••  date/season/duration of sampling;
+be translated using Google Translate to assess relevance.                                ••  stream gradient;
+Every effort will be made to obtain translations of any                                  ••  flood stage/flow regime/flow permanence;
+highly relevant, non-English language papers; however,                                   ••  nutrient concentration range (lowest and highest TN
+this will depend on available resources. All non-Eng-                                        and/or TP);
+lish articles considered relevant based on title/abstract                                ••  existing background nutrient concentrations;
+screening but not fully translated will be listed in an                                  ••  temperature;
+appendix.                                                                                ••  canopy cover/light availability;
+
+Bennett et al. Environ Evid (2017) 6:18                                                                        Page 7 of 13
+   ••  pH;                                                   majority of studies of nutrient stressor-response rela-
+   ••  alkalinity;                                           tionships examine biotic responses across field sites with
+   ••  sediment/turbidity;                                   varying nutrient concentrations, although some com-
+   ••  conductivity;                                         pare “reference” to “impacted” sites or experimentally
+   ••  dominant algal species/groups; and                    manipulate nutrient concentrations. Most studies will
+   ••  grazing (primary consumer) pressure.                  thus use correlation or regression to assess relationships
+                                                             between nutrients and chl-a. The shape and direction
+   Other relevant modifying factors will be recorded as      (e.g. linear—increasing, linear—decreasing, logarithmic,
+they are encountered during screening and data extrac-       exponential, sigmoidal) and strength of these relation-
+tion. Existing geographic information system (GIS) layers    ships will form the basis for meta-analysis and narra-
+and tools that summarize important landscape and envi-       tive summary of the review results. In most instances,
+ronmental factors (e.g. StreamCat [41], Google Earth)        Pearson’s correlation coefficient or Spearman’s rho (r)
+may be used to obtain relevant modifying factors (e.g. lat-  between TN or TP and chl-a will be used as the effect
+itude, flow regime, land use/land cover, watershed area)     size. Other effect size measures (e.g. standardized slope
+for studies that do not report this information. If any out- coefficients: change in standard deviations of y associ-
+side data are associated with studies, care will be taken    ated with a change of one standard deviation of x [47–
+so as not to combine data from disparate sources (e.g.       50]) will also be extracted and explored; however, the
+if the National Land Cover Dataset is used to estimate       correlation coefficient was the most widely used and
+land cover, it will be used for all studies). Methodologi-   easily calculable from the example studies examined.
+cal modifiers, such as extraction method, measurement        Sample sizes will also be extracted for each effect size to
+method, or sampling location (benthic, sestonic) for chl-a   estimate effect size variances using meta-analysis models
+[31, 42], or fraction of water sample used for nutrient      (see “Data synthesis and presentation”). For experimen-
+measurement (filtered, unfiltered), will also be recorded.   tal studies that manipulate nutrient concentrations and
+                                                             report differences in chl-a concentration between con-
+Study quality assessment                                     trol and treatment groups, we will extract or calculate an
+Studies from articles included after title/abstract screen-  appropriate “standardized mean difference” effect statis-
+ing that are still categorized as relevant upon full text    tic such as Cohen’s d [50, 51].
+screening will be assessed for quality and risk of bias.       Authors will be contacted if a study indicates that an
+Aspects of quality and risk of bias from published critical  effect size was calculated, but not reported (e.g. for nega-
+appraisal frameworks in environmental science and med-       tive associations). For studies not reporting effect sizes,
+icine [43–45] were examined to develop a quality assess-     raw data will be extracted from figures using image anal-
+ment approach specific to this review, similar to [46]       ysis software when possible and effect sizes will be cal-
+(Tables 5, 6 and 7). For each study, aspects of study qual-  culated. If no effect size is reported and raw data are not
+ity contributing to a “low” or “high” risk of bias will be   presented (e.g. only site means are provided in a table),
+rated, based on specific criteria for three different study  these studies will not be use in meta-analysis. The initial
+designs: (1) observational field studies, which typically    “test set” of relevant literature will be used to refine the
+sample chl-a along a gradient of nutrient concentrations;    data extraction fields as needed.
+(2) mesocosm experiments; and (3) field experiments            One to six reviewers will participate in data extrac-
+(e.g. Before-After-Control-Impact designs [47]) (Tables 5,   tion from all relevant studies. To assess accuracy in data
+6 and 7). An overall risk of bias estimate for each study    extraction, a reviewer not involved in initial data extrac-
+will be generated by dividing the number of “high” scores    tion will independently extract data for 25% of stud-
+by the number of questions. Results of the systematic        ies, and any differences will be discussed and resolved.
+review will be discussed and analyzed in the context of      Extracted data from relevant studies will be provided
+this study quality assessment. All relevant studies will     as an appendix or in a publicly-available USEPA data
+undergo quality assessment. To assess accuracy in quality    repository.
+assessment, a reviewer not involved in the initial quality
+assessment will independently assess quality for 25% of      Data synthesis and presentation
+the studies evaluated by other reviewers, and reviewers      Meta-analysis and narrative and tabular summaries of
+will discuss and resolve any differences.                    stressor-response relationships will be used to synthe-
+                                                             size data from the systematic review. For all studies, the
+Data extraction                                              direction or shape of the response will be noted (see
+Data will be extracted from studies found in articles that   “Data extraction”) and summarized across studies and
+are considered relevant after full text screening. The       subgroups of interest (e.g. subsets based on ecoregion,
+
+Table 5 Study quality assessment framework for observational, field studies
+                                                                                                                                                                                                      Bennett et al. Environ Evid (2017) 6:18
+Bias area                   Characteristic                              Low risk of bias                                               High risk of bias
+Study design and sampling   Pairing of nutrient and chl-a measurements Nutrient and chl-a measurements taken at same place and         Nutrient and chl-a measurements are not paired in time and
+                                                                        time or index period                                            space
+                            Study timeframe                             Sampling includes relevant periods over multiple years         Sampling occurs only over a single season or year
+                            Gradient definition                         Gradient based on a nutrient related variable or its causal    Gradient based on a common causal descendant of TP, TN or
+                                                                         antecedent                                                     chl-a
+                            Sample size                                 Acceptable # sites (≥10) across gradient                       Low # sites (<10) across gradient low
+                            Replicates                                  Multiple samples taken at each site                            Single samples taken at each site
+                            Randomization of sampling (selection bias) Some form of randomized site selection (e.g. stratified         No randomization of site selection
+                                                                         random sampling)
+                            Confounding factors                         If not controlled by study design, confounding factors are     Confounding factors reported and not accounted for, or are
+                                                                           measured and adjusted for in statistical analysis            likely, and are not able to be adjusted for post hoc
+Data analysis and results   Clarity and detail                          Analysis methods described in detail sufficient to permit      Missing information not allowing for repeatability
+                                                                         repeating
+                            Uncertainty                                 Some estimate of uncertainty in effect or relationships        No estimates of uncertainty provided
+                                                                          provided (e.g. confidence intervals, standard error,
+                                                                          standard deviation, etc.)
+                            Reporting bias                              All variables, measurements, and statistical tests mentioned   Some variables, measurements, or statistical tests mentioned
+                                                                          in methods are reported in results or additional file          in methods are not reported
+Other biases                Detection bias                              No indication that outcomes were measured differently in       Some indication that outcomes were measured differently in
+                                                                         high versus low exposure sites                                  high versus low exposure sites
+                            Attrition bias                              No differences in loss of high versus low exposure sites       Differences in loss of high versus low exposure sites
+                            Research aim consistency                    Questions clearly stated and answers match questions           Questions not clearly stated or answers do not match stated
+                                                                                                                                        questions
+                                                                                                                                                                                                      Page 8 of 13
+
+Table 6 Study quality assessment framework for experimental mesocosm studies
+Bias area                   Characteristic                            Low risk of bias                                                High risk of bias
+Study design and sampling   Study timeframe                           Study timeframe considers risk of container effects             Study timeframe is long enough to be at risk of container
+                                                                        (<30 days, but can depend on size and flow-through vs.          effects and other random processes (typically >30 days but
+                                                                                                                                                                                                       Bennett et al. Environ Evid (2017) 6:18
+                                                                        recirculating)                                                  depends on size and flow-through vs. recirculating)
+                            Randomization of sampling (selection bias) Some form of randomized assignment of control and              No randomization of control and treatment assignments
+                                                                         treatment samples
+                            Control matching and performance bias     Control and treatment mesocosms are similar, or there is a      Evidence that control and treatment mesocosms differ in
+                                                                       clear effort to account for any differences                      aspects not related to treatments, with no effort to account
+                                                                                                                                        for differences
+                            Treatment clarity and detail              Method of nutrient addition clearly explained (e.g. pulse,      Method of nutrient addition not clear
+                                                                       continuous drip)
+                            Confounding factors                       No obvious confounding factors reported, or if reported are     Confounding factors reported and not accounted for, unclear
+                                                                       accounted for                                                   how accounted for, or are likely
+                            Replication                               ≥3 replicates per treatment, no pseudoreplication               <3 replicates per treatment, or evidence of pseudoreplication
+                            Measurement clarity and detail            Methods for design and sampling described in detail,            Missing information not allowing for repeatability
+                                                                       including chl-a extraction and measurement, water
+                                                                       filtering, and nutrient measurement
+Data analysis and results   Clarity and detail                        Analysis methods described in detail sufficient to permit       Missing information not allowing for repeatability
+                                                                       repeating
+                            Uncertainty                               Some estimate of uncertainty in effect or relationships         No estimates of uncertainty provided
+                                                                        provided (e.g. confidence intervals, standard error, stand-
+                                                                        ard deviation, etc.)
+                            Treatment vs. control                     Differences in treatments vs. controls reported quantitatively Differences in treatments vs. controls reported only qualita-
+                                                                       (e.g. actual values, response ratios, effect size)             tively (higher, lower) or otherwise unclear (e.g. only P value
+                                                                                                                                      given)
+                            Reporting bias                            All variables, measurements, and statistical tests mentioned    Some variables, measurements, or statistical tests mentioned
+                                                                        in methods are reported in results or additional file           in methods are not reported
+Other biases                Detection bias                            No indication that outcomes were measured differently in        Some indication that outcomes were measured differently in
+                                                                       control and treatment samples                                    control and treatment samples
+                            Attrition bias                            No differences in loss of control and treatment samples         Differences in loss of control and treatment samples
+                            Research aim consistency                  Questions clearly stated and answers match questions            Questions not clearly stated or answers do not match stated
+                                                                                                                                       questions
+                                                                                                                                                                                                       Page 9 of 13
+
+Table 7 Study quality assessment framework for experimental field studies
+Bias area                   Characteristic                             Low risk of bias                                              High risk of bias
+Study design and sampling   Study type                                 Before-After-Control-Impact design                            Before-After or Control-Impact design
+                            Treatment replication                      Treatment is applied or studied at multiple independent       Treatment not replicated at multiple sites
+                                                                         sites
+                            Study timeframe                            Sampling occurs over multiple years                           Sampling occurs only over a single season or year
+                                                                                                                                                                                                     Bennett et al. Environ Evid (2017) 6:18
+                            Pairing of nutrient and chl-a measurements Nutrient and chl-a measurements are taken at the same         Nutrient and chl-a measurements are not paired in time and
+                                                                        place and time or index period                                space
+                            Control matching and performance bias      Control and treatment systems are similar and there is a      Evidence that control and treatment systems differ in aspects
+                                                                        clear effort to account for any differences                    not related to treatments, with no effort to account for
+                                                                                                                                       differences
+                            Treatment clarity and detail               Method of nutrient addition clearly explained (e.g. pulse,    Method of nutrient addition not clear
+                                                                        continuous drip)
+                            Confounding factors                        Sample design minimizes effect of obvious confounding         Confounding factors reported and not accounted for, or are
+                                                                         factors; or if not controlled by sample design, they are     likely, and are not able to be adjusted for post hoc
+                                                                         measured and adjusted for in statistical analysis
+                            Temporal replication                      >1 replicate before and after treatment                        1 replicate before and after treatment
+                            Spatial replication                       >1 site per control/impact                                     1 site per control/impact
+                            Measurement clarity and detail            Methods for design and sampling described in detail, includ- Missing information not allowing for repeatability
+                                                                       ing chl-a extraction and measurement, water filtering, and
+                                                                       nutrient measurement
+Data analysis and results   Clarity and detail                        Analysis methods described in detail sufficient to permit      Missing information not allowing for repeatability
+                                                                       repeating
+                            Uncertainty                               Some estimate of uncertainty in effect or relationships pro-   No estimates of uncertainty provided
+                                                                        vided (e.g. confidence intervals, standard error, standard
+                                                                        deviation, etc.)
+                            Treatment vs. Control                     Differences in treatments vs. controls reported quantitatively Differences in treatments vs. controls reported only qualita-
+                                                                       (e.g. actual values, response ratios, effect size)             tively (higher, lower) or are otherwise unclear (e.g. only P
+                                                                                                                                      value given)
+                            Reporting bias                            All variables, measurements, and statistical tests mentioned   Some variables, measurements, or statistical tests mentioned
+                                                                        in methods are reported in results or additional file          in methods are not reported
+Other biases                Detection bias                            No indication that outcomes were measured differently in       Some indication that outcomes were measured differently in
+                                                                       control and treatment samples                                   control and treatment samples
+                            Attrition bias                            No differences in loss of control and treatment samples        Differences in loss of control and treatment samples
+                            Research aim consistency                  Questions clearly stated and answers match questions           Questions not clearly stated or answers do not match stated
+                                                                                                                                      questions
+                            Other bias                                No evidence of other sources of bias                           Evidence of bias from a source not considered above
+                                                                                                                                                                                                     Page 10 of 13
+
+Bennett et al. Environ Evid (2017) 6:18                                                                                                                Page 11 of 13
+stream size, chl-a or nutrient measurement method).                                 Competing interests
+                                                                                    The authors declare that they have no competing interests. Reviewers
+For studies with sufficient information, effect sizes (see                          involved in this review that are also authors of relevant articles will not be
+“Data extraction”) and variance within and among stud-                              included in the decisions connected to inclusion and quality assessment of
+ies will be examined across studies using a random                                  their articles.
+effects model. Random effects models assume that the                                Availability of data and materials
+true effect size differs among studies and treat this het-                          All data associated with the review will be made publicly available as appendi-
+erogeneity as random, and are appropriate for making                                ces to the publication or in a U.S. EPA data repository.
+unconditional inferences about a set of studies of which                            Funding
+the obtained studies are assumed to be a random sample                              The U.S. EPA, through its Office of Research and Development, funded and
+[51–54]. Pearson’s correlation coefficient or Spearman’s                            managed the systematic review protocol described here.
+rho (r) between TN or TP and chl-a will be used as the
+effect size in most instances. A Fisher’s z-transformation                          Publisher’s Note
+                                                                                    Springer Nature remains neutral with regard to jurisdictional claims in pub-
+of r will likely be necessary to improve normality and                              lished maps and institutional affiliations.
+variance [55, 56], although other effect size measures
+(e.g. standardized slope coefficients) will be explored.                            Received: 4 April 2017 Accepted: 11 July 2017
+Equations in Nakagawa and Cuthill [50], Lajeunesse [51]
+and meta-analysis packages in the R environment [57]
+(e.g. ‘MAc’ [58] and citations therein) will be used to
+convert other effect sizes (e.g. multiple regression coef-                          References
+ficients) to Pearson’s r. For analysis and presentation,                             1. Dubrovsky NM, Hamilton P. Nutrients in the Nation’s streams and
+results for TN and TP will be analyzed separately.                                        groundwater: National Findings and Implications. Nattional Water-Quality
+                                                                                          Assessment Program. Fact Sheet, United States Geological Survey. 2010.
+   Effects of modifying factors (e.g. canopy cover) or sub-                          2. Cao D, Cao W, Fang J, Cai L. Nitrogen and phosphorus losses from agricul-
+groupings (e.g. ecoregion) will be assessed using mixed-                                  tural systems in China: a meta-analysis. Mar Pollut Bull. 2014;85:727–32.
+effects models or meta-regression. Effect size variation                             3. Jarvie HP, Sharpley AN, Spears B, Buda AR, May L, Kleinman PJ. Water qual-
+                                                                                          ity remediation faces unprecedented challenges from “legacy phospho-
+and mean effect size will be visualized using forest plots.                               rus”. Environ Sci Technol. 2013;47:8997–8.
+Analyses will be conducted using several R packages,                                 4. Smith V. Eutrophication of freshwater and coastal marine ecosystems a
+including ‘metafor’ [53] and ‘MAc’ [58]. Quality assess-                                  global problem. Environ Sci Pollut Res. 2003;10:126–39.
+                                                                                     5. Conley DJ, Paerl HW, Howarth RW, Boesch DF, Seitzinger SP, Havens KE,
+ment scores will be used as factors in sensitivity analy-                                 et al. Controlling eutrophication: nitrogen and phosphorus. Science.
+sis to explore the impact of study quality on overall effect                              2009;323:1014–5.
+sizes and response shapes [40]. Publication bias will be                             6. Compton JE, Harrison JA, Dennis RL, Greaver TL, Hill BH, Jordan SJ, et al.
+                                                                                          Ecosystem services altered by human changes in the nitrogen cycle: a
+assessed using funnel plots comparing study effect sizes                                  new perspective for US decision making. Ecol Lett. 2011;14:804–15.
+with standard error [59, 60].                                                        7. Dodds WK, Bouska WW, Eitzmann JL, Pilger TJ, Pitts KL, Riley AJ, et al.
+                                                                                          Eutrophication of US freshwaters: analysis of potential economic dam-
+Additional file                                                                           ages. Environ Sci Technol. 2009;43:12–9.
+                                                                                     8. Beauvais J. Renewed call to action to reduce nutrient pollution and
+  Additional file 1. Search string for Web of Science™ advanced search.
+                                                                                          support for incremental actions to protect water quality and public
+                                                                                          health. Washington, DC: U.S. Environmental Protection Agency; 2016.
+  This search string will be adapted for use with other databases and                     p. 6. https://www.epa.gov/sites/production/files/2016-09/documents/
+  sources (e.g. websites, search engines). “TS” refers to topic search for Web            renewed-call-nutrient-memo-2016.pdf. Accessed 15 June 2017.
+  of Science advanced search.                                                        9. Stoner N. Working in partnership with states to address phosphorus
+                                                                                          and nitrogen pollution through use of a framework for state nutrient
+                                                                                          reductions. Washington, DC: U.S. Environmental Protection Agency;
+Authors’ contributions                                                                    2011. p. 6.
+This systematic review protocol was initiated and scoped by all authors. MGB         10. Dodds WK, Smith VH, Lohman K. Nitrogen and phosphorus relationships
+drafted the protocol with substantial edits and improvements by SSL, SBN,                 to benthic algal biomass in temperate streams. Can J Fish Aquat Sci.
+and KAS. All authors read and approved the final manuscript.                              2002;59:865–74.
+                                                                                     11. Rosemond AD, Benstead JP, Bumpers PM, Gulis V, Kominoski JS, Manning
+                                                                                          DWP, et al. Experimental nutrient additions accelerate terrestrial carbon
+Acknowledgements                                                                          loss from stream ecosystems. Science. 2015;384:318–21.
+We thank D. Gibbs, M. Lassiter, and A. Shields for helpful feedback on an earlier    12. Dodds WK, Smith VH. Nitrogen, phosphorus, and eutrophication in
+draft of the manuscript. D. Gibbs helped develop background information                   streams. Inland Waters. 2016;6:155–64.
+on meta-analysis. S. Jackson, L. Yuan, J. Alers-Garcia, R. Mitchell, G. Kaufman, B.  13. Biggs BJF. Eutrophication of streams and rivers: dissolved nutrient-chloro-
+Walsh, S. Santell, T. Crawford, N. Spear, T. Gardner, and J. Linn provided indis-         phyll relationships for benthic algae. J N Am Benthol Soc. 2000;19:17–31.
+pensable feedback for initiating and scoping the systematic review protocol.         14. Biggs BJ. The contribution of flood disturbance, catchment geology and
+Disclaimer: The U.S. EPA, through its Office of Research and Development,                 land use to the habitat template of periphyton in stream ecosystems.
+funded and managed the research described here. The views expressed in                    Freshw Biol. 1995;33:419–38.
+this article are those of the authors and do not necessarily represent the views     15. Maret TR, Konrad CP, Tranmer AW. Influence of environmental factors on
+or policies of the U.S. EPA. Any mention of trade names, products, or services            biotic responses to nutrient enrichment in agricultural streams. J Am
+does not imply an endorsement by the U.S. Government or the U.S. EPA.                     Water Resour Assoc. 2010;46:498–513.
+
+Bennett et al. Environ Evid (2017) 6:18                                                                                                             Page 12 of 13
+16. Van Meter KJ, Basu NB, Veenstra JJ, Burras CL. The nitrogen legacy: emerg-   41. Hill RA, Weber MH, Leibowitz SG, Olsen AR, Thornbrugh DJ. The Stream-
+    ing evidence of nitrogen accumulation in anthropogenic landscapes.               Catchment (StreamCat) dataset : a database of watershed metrics
+    Environ Res Lett. 2016;11:1–12.                                                  for the coterminous United States. JAWRA J Am Water Resour Assoc.
+17. Sharpley A, Jarvie HP, Buda A, May L, Spears B, Kleinman P. Phosphorus           2016;52:120–8.
+    legacy: overcoming the effects of past management practices to miti-         42. Hagerthey SE, William Louda J, Mongkronsri P. Evaluation of pigment
+    gate future water quality impairment. J Environ Qual. 2013;42:1308.              extraction methods and a recommended protocol for periphyton
+18. Pellerin BA, Bergamaschi BA, Gilliom RJ, Crawford CG, Saraceno J,                chlorophyll a determination and chemotaxonomic assessment. J Phycol.
+    Frederick CP, et al. Mississippi River nitrate loads from high frequency         2006;42:1125–36.
+    sensor measurements and regression-based load estimation. Environ Sci        43. Mupepele A-C, Walsh JC, Sutherland WJ, Dormann CF. An evidence
+    Technol. 2014;48:12612–9.                                                        assessment tool for ecosystem services and conservation studies. bioRxiv
+19. Poff NL, Ward JV. Physical habitat template of lotic systems: recovery in        Prep. 2015;26:1295–301.
+    the context of historical pattern of spatiotemporal heterogeneity. Environ   44. Bilotta GS, Milner AM, Boyd IL. Quality assessment tools for evidence from
+    Manag. 1990;14:629–45.                                                           environmental science. Environ Evid. 2014;3:14.
+20. Smith VH. Effects of eutrophication on maximum algal biomass in lake         45. Higgins J, Green S, editors. Cochrane handbook for systematic reviews of
+    and river ecosystems. Inland Waters. 2016;6:147–54.                              interventions. Version 5. The Cochrane Collaboration; 2011. http://www.
+21. Barbour MT, Gerritsen J, Snyder BD, Stribling JB. Rapid bioassessment            handbook.cochrane.org. Accessed 15 June 2017.
+    protocols for use in streams and wadeable rivers: periphyton, benthic        46. Haddaway NR, Burden A, Evans CD, Healey JR, Jones DL, Dalrymple SE,
+    macroinvertebrates and fish. 2nd ed. Washington, DC: U.S. Environmental          et al. Evaluating effects of land management on greenhouse gas fluxes
+    Protection Agency Offices Water. 1998. https://archive.epa.gov/water/            and carbon balances in boreo-temperate lowland peat systems. Environ.
+    archive/web/html/index-14.html. Accessed 15 June 2017.                           Evid. 2014;3:5.
+22. Nichols SJ, Barmuta LA, Chessman BC, Davies PE, Dyer FJ, Harrison ET,        47. Underwood AJ. Beyond BACI—the detection of environmental impacts
+    et al. The imperative need for nationally coordinated bioassessment of           on poulations in the real, but variable, world. J Exp Mar Biol Ecol.
+    rivers and streams. Mar Freshw Res. 2017;68:599–613.                             1992;161:145–78.
+23. Hering D, Borja A, Carstensen J, Carvalho L, Elliott M, Feld CK, et al. The  48. Te Morenga L, Mallard S, Mann J. Dietary sugars and body weight:
+    European Water Framework Directive at the age of 10: a critical review of        systematic review and meta-analyses of randomised controlled trials and
+    the achievements with recommendations for the future. Sci Total Environ.         cohort studies. BMJ. 2013;346:e7492.
+    2010;408:4007–19.                                                            49. Johnson PI, Sutton P, Atchley DS, Koustas E, Lam J, Sen S. The navigation
+24. Karr JR. Defining and measuring river health. Freshw Biol. 1999;41:221–34.       guide—evidence-based medicine meets environmental health: system-
+25. Heiskary SA, Bouchard RW, Heiskary SA. Development of eutrophication             atic review of human evidence for PFOA effects on fetal growth. Environ
+    criteria for Minnesota streams and rivers using multiple lines of evidence.      Heal Perspect. 2014;122:1028–39.
+    Freshw Sci. 2015;34:574–92.                                                  50. Nakagawa S, Cuthill IC. Effect size, confidence interval and statistical
+26. Dodds WK, Welch EB. Establishing nutrient criteria in streams. J N Am            significance: a practical guide for biologists. Biol Rev. 2007;82:591–605.
+    Benthol Soc. 2000;19:186–96.                                                 51. Lajeunesse M. Recovering missing or partial data from studies: a survey
+27. Sutula M. Review of indicators for development of nutrient numeric               of conversions and imputations for meta-analysis. In: Gurevitch J,
+    endpoints in California estuaries. Costa Mesa: Southern California Coastal       Mengersen K, editors. Handbook of meta-analysis ecology evolution.
+    Water Research Project; 2011.                                                    Princeton: Princeton University Press; 2013. p. 195–206.
+28. Dodds WK. Trophic state, eutrophication and nutrient criteria in streams.    52. Hedges LV, Vevea JL. Fixed- and random-effects models in meta-analysis.
+    Trends Ecol Evol. 2007;22:669–76.                                                Psychol Methods. 1998;3:486–504.
+29. Smith DR, King KW, Williams MR. What is causing the harmful algal            53. Viechtbauer W. Conducting meta-analyses in R with the meta for pack-
+    blooms in Lake Erie? J Soil Water Conserv. 2015;70:27A–9A.                       age. J Stat Softw. 2010;36:1–48.
+30. Otten TG, Paerl HW. Health effects of toxic cyanobacteria in U.S. drinking   54. Gurevitch J, Hedges LV. Statistical issues in ecological meta-analysis. Ecol-
+    and recreational waters: our current understanding and proposed direc-           ogy. 1999;80:1142–9.
+    tion. Curr Environ Heal Rep. 2015;70:75–84.                                  55. Worm B, Myers RA. Meta-analysis of cod-shrimp interactions revels top-
+31. Steinman AD, Lamberti GA, Leavitt PR. Biomass and pigments of benthic            down control in ocean food webs. Ecology. 2003;84:162–73.
+    algae. In: Hauer FR, Lamberti GE, editors. Methods in stream ecology.        56. Lassauce A, Paillet Y, Jactel H, Bouget C. Deadwood as a surrogate for
+    Burlington: Academic Press; 2006. p. 357–79.                                     forest biodiversity: meta-analysis of correlations between deadwood
+32. Chambers PA, McGoldrick DJ, Brua RB, Vis C, Culp JM, Benoy GA. Devel-            volume and species richness of saproxylic organisms. Ecol Indic.
+    opment of environmental thresholds for nitrogen and phosphorus in                2011;11:1027–39.
+    streams. J Environ Qual. 2012;41:7–20.                                       57. R Core Team. R: a language and environment for statistical computing.
+33. Dodds WK. What controls levels of dissolved phosphate and ammonium               Vienna, Austria: R Foundation for Statistical Computing; 2016. https://
+    in surface waters? Aquat Sci. 1993;55:132–42.                                    www.r-project.org. Accessed 15 June 2017.
+34. Dodds WK, Smith VH, Zander B. Developing nutrient targets to control         58. Del Re A, Hoyt WT. Package “MAc”: meta-analysis with correlations. 2015.
+    benthic chlorophyll levels in streams: a case study of the Clark Fork River.     https://cran.r-project.org/web/packages/MAc/MAc.pdf. Accessed 15
+    Water Res. 1997;31:1738–50.                                                      June 2017.
+35. Dodds WK. Misuse of inorganic N and soluble reactive P concentra-            59. Palmer AR. Datecting publication bias in meta-analyses: a case study of
+    tions to indicate nutrient status of surface waters. J N Am Benthol Soc.         fluctuating asymmetry and sexual selection. Am Nat. 1999;154:220–33.
+    2003;22:171–81.                                                              60. Egger M, Davey Smith G, Schneider M, Minder C. Bias in meta-analysis
+36. Bennett MG, Lee SS. Lotic ecosystem responses to nutrients: a research-          detected by a simple, graphical test. BMJ. 1997;315:629–34.
+    to-policy gap in experimental studies. Environ Sci Technol Submitt.          61. Bourassa N, Cattaneo A. Control of periphyton biomass in Laurentian
+37. Ouzzani M, Hammady H, Fedorowicz Z, Elmagarmid A. Rayyan—a web                   streams (Québec). J N Am Benthol Soc. 1998;17:420–9.
+    and mobile app for systematic reviews. Syst Rev. 2016;5:210.                 62. Braccia A, Eggert SL, King N. Macroinvertebrate colonization dynamics
+38. Cohen J. A coefficient of agreement for nominal scales. Educ Psychol             on artificial substrates along an algal resource gradient. Hydrobiologia.
+    Meas. 1960;20:37–46.                                                             2014;727:1–18.
+39. Fleiss JL. Measuring nominal scale agreement among many raters. Psy-         63. DeNicola DM, Lellock AJ. Nutrient limitation of algal periphyton in
+    chol Bull. 1971;76:378–82.                                                       streams along an acid mine drainage gradient. J Phycol. 2015;51:739–49.
+40. Collaboration for environmental evidence. Guidelines for systematic review   64. Justus BG, Petersen JC, Femmer SR, Davis JV, Wallace JE. A comparison
+    and evidence synthesis in environmental management. Version 4.2. 2013.           of algal, macroinvertebrate, and fish assemblage indices for assessing
+    http://www.environmentalevidence.org/wp-content/uploads/2014/06/                 low-level nutrient enrichment in wadeable Ozark streams. Ecol Indic.
+    Review-guidelines-version-4.2-final.pdf. Accessed 15 June 2017.                  2010;10:627–38.
+
+Bennett et al. Environ Evid (2017) 6:18                                                                                                         Page 13 of 13
+65. Lewis WM, Mccutchan JH. Ecological responses to nutrients in streams        70. Weigel BM, Robertson DM. Identifying biotic integrity and water chem-
+    and rivers of the Colorado mountains and foothills. Freshwater Biology          istry relations in nonwadeable rivers of Wisconsin: toward the develop-
+    2010;55:1973–83.                                                                ment of nutrient criteria. Environ Manag. 2007;40:691–708.
+66. Lohman K, Jones JR, Perkins BD. Effects of nutrient enrichment and flood    71. Zheng L, Gerritsen J, Beckman J, Ludwig J, Wilkes S. Land use, geology,
+    frequency on periphyton biomass in northern Ozark streams. Can J Fish           enrichment, and stream biota in the Eastern Ridge and Valley ecoregion:
+    Aquat Sci. 1992;49:1198–205.                                                    implications for nutrient criteria development. J Am Water Resour Assoc.
+67. Morgan AM, Royer TV, David MB, Gentry LE. Relationships among                   2008;44:1521–36.
+    nutrients, chlorophyll-a, and dissolved oxygen in agricultural streams in   72. Rier ST, Stevenson RJ. Response of periphytic algae to gradients in
+    Illinois. J Environ Qual. 2006;35:1110–7.                                       nitrogen and phosphorus in streamside mesocosms. Hydrobiologia.
+68. Pan Y, Stevenson RJ, Hill BH, Kaufmann PR, Herlihy AT. Spatial patterns and     2006;561:131–47.
+    ecological determinants of benthic algal assemblages in mid-Atlantic        73. Heiskary SA, Bouchard RW, Markus H. Minnesota nutrient criteria devel-
+    streams, USA. J Phycol. 1999;35:460–8.                                          opment for rivers. Saint Paul: Minnesota Pollution Control Agency; 2013.
+69. Stevenson RJ, Rier ST, Riseng CM, Schultz RE, Wiley MJ. Comparing effects   74. Iowa Department of Natural Resources. Development of nutrient enrich-
+    of nutrients on algal biomass in streams in two regions with different dis-     ment criteria for Iowa streams. Des Moines: Iowa Department of Natural
+    turbance regimes and with applications for developing nutrient criteria.        Resources; 2013.
+    Hydrobiologia. 2006;561:149–65.
+                                                                                    Submit your next manuscript to BioMed Central
+                                                                                    and we will help you at every step:
+                                                                                      • We accept pre-submission inquiries
+                                                                                      • Our selector tool helps you to find the most relevant journal
+                                                                                      • We provide round the clock customer support
+                                                                                      • Convenient online submission
+                                                                                      • Thorough peer review
+                                                                                      • Inclusion in PubMed and all major indexing services
+                                                                                      • Maximum visibility for your research
+                                                                                      Submit your manuscript at
+                                                                                      www.biomedcentral.com/submit
+

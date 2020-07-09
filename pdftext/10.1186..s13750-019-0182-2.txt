@@ -1,0 +1,396 @@
+Collins et al. Environ Evid         (2019) 8:38
+https://doi.org/10.1186/s13750-019-0182-2                                                                             Environmental Evidence
+  SYSTEMATIC MAP PROTOCOL                                                                                                                               Open Access
+What are the impacts of within‑field
+farmland management practices on the flux
+of greenhouse gases from arable cropland
+in temperate regions? A systematic map
+protocol
+Alexandra M. Collins1* , Neal R. Haddaway2,3, Biljana Macura2, James Thomas4, Nicola Randall5,
+Jessica J. Taylor6, Steve Cooke6 and Alyssa Gilbert7
+   Abstract
+   Background: Reducing greenhouse gas emissions is a vital step in limiting climate change and meeting the goals
+   outlined in the COP 21 Paris Agreement of 2015. Studies have suggested that agriculture accounts for around 11% of
+   total greenhouse gas emissions and the industry has a significant role in meeting international and national climate
+   change reduction objectives. However, there is currently little consensus on the mechanisms that regulate the pro-
+   duction and assimilation of greenhouse gases in arable land and the practical factors that affect the process. Practical
+   advice for farmers is often overly general, and models based on the amount of nitrogen fertiliser applied, for example,
+   are used despite a lack of knowledge of how local conditions affect the process, such as the importance of humus
+   content and soil types. Here, we propose a systematic map of the evidence relating to the impact on greenhouse gas
+   flux from the agricultural management of arable land in temperate regions.
+   Methods: Using established methods for systematic mapping in environmental sciences we will search for, collate
+   and catalogue research studies relating to the impacts of farming in temperate systems on greenhouse gas emissions.
+   We will search 6 bibliographic databases using a tested search string, and will hand search a web-based search engine
+   and a list of organisational web sites. Furthermore, evidence will be sought from key stakeholders. Search results will
+   then be screened for relevance at title, abstract and full text levels according to a predefined set of eligibility criteria.
+   Consistency checking will be employed to ensure the criteria are being applied accurately and consistently. Relevant
+   studies will then be subjected to coding and meta-data extraction, which will be used to populate a systematic map
+   database describing each relevant study’s settings, methods and measured outcomes. The mapping process will help
+   to identify knowledge gaps (subjects lacking in evidence warranting further primary research) and knowledge clus-
+   ters (subjects with sufficient studies to allow a useful full systematic review), and will highlight best and suboptimal
+   research methods.
+   Keywords: Methane, nitrous oxide, Climate change, Global warming, Climate, Carbon, COP, Climate targets, Farming,
+   Sustainable farming
+*Correspondence: alexandra.collins@imperial.ac.uk
+1
+  Centre for Environmental Policy, Imperial College London, 109 Weeks
+Building, 16‑18 Prince’s Gardens, South Kensington, London SW7 1NE, UK
+Full list of author information is available at the end of the article
+                                              © The Author(s) 2019. This article is distributed under the terms of the Creative Commons Attribution 4.0 International License
+                                              (http://creat​iveco​mmons​.org/licen​ses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium,
+                                              provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license,
+                                              and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/
+                                              publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+
+  Collins et al. Environ Evid (2019) 8:38                                                                       Page 2 of 7
+  Background                                                    Here, we propose a systematic map of the evidence
+  Reducing greenhouse gas emissions is a vital step in        relating to the impact of agricultural management of
+  attempting to reduce climate change and meet the            arable land in temperate regions on greenhouse gas flux,
+  goals outlined in the Paris Agreement resulting from        including both mineral and organic soils.
+  the COP21 in 2015 (http://unfcc​c .int/paris​_agree​ment/
+  items​/9485.php). Studies have suggested that agricul-      Stakeholder engagement
+  ture accounts for around 11% of total greenhouse gas        The topic of this systematic map was identified as a pri-
+  emissions [1] and the industry has a significant role       ority by academics and discussed with stakeholders
+  in meeting international and national climate change        including; the UK’s Department of Environment Food
+  reduction objectives (e.g. England and Wales’s National     and Rural Affairs (Defra), Environment Agency, Natural
+  Union of Farmers’ goal of reaching net zero greenhouse      Resources Wales, The Scottish Government, The Welsh
+  gas emissions across the agriculture sector by 2040 [2]     Government, Centre for Hydrology and Ecology (CEH),
+  and targets set for the agricultural sector in The Scot-    The Technical Support Unit of Working Group III of the
+  tish Government’s Climate Change Plan [3]).                 Intergovernmental Panel on Climate Change (IPCC), he
+    The atmospheric flux of greenhouse gases, includ-         National Farmers Union (NFU), World Wildlife Fund
+  ing the production of carbon dioxide ­(CO2), methane        (WWF) and the UK’s Natural Environment Research
+­(CH4) and nitrous oxide (­N2O), is governed by the           Council (NERC) who are also funding the work under
+ activity and turnover of microbial communities in the        their Environmental Evidence for the Future programme.
+ soil [4, 5], which is strongly regulated to changes in soil    Stakeholders have provided input to this protocol by
+ physical conditions, organic matter status and nutri-        helping to review and refine the map’s question. Stake-
+  ent availability resulting from agricultural manage-        holders will be asked to identify potentially relevant lit-
+  ment [6, 7]. For example the prevailing driver of ­N2O      erature, which will then be subject to the full screening
+  production, which has a global warming potential 298        process outlined below. Stakeholders will also be asked to
+  times larger than ­CO2 over a 100 year period [8], is the   comment on the coding strategy so that the information
+  conversion of nitrogen applied as fertilisers to nitrate    that is of most relevance to them is included in the map.
+  through processes such as nitrification and denitrifica-
+ tion [5] and into the atmosphere as the greenhouse gas
+ ­N2O. ­C H4 can only be produced under anaerobic con-        Objective of the map
+  ditions by bacteria (methanogens) but is also consumed      The effects of agricultural management on greenhouse
+  by other bacterial groups (methanotrophs) when oxy-         gases have previously been reviewed [11], but as yet there
+  gen is available, acting as a sink for the ­C H4 produced   is no consensus as to how context (i.e. climate, fertiliser
+ in the soil [9]. Production of ­C H4 in agricultural fields  type and quantity, soil drainage, soil texture, and organic
+ is usually connected to high soil organic carbon lev-        matter content) affects greenhouse gas fluxes. There
+  els, and organic soils that are sometimes water-logged      is therefore a need for a systematic map the impact of
+  are considered as the main sources of C    ­ H4 from agri-  arable farming practices on greenhouse gas emissions to
+  cultural soils [10]. Soil management by farmers there-      examine the influence of these sources of heterogeneity
+  fore plays a central role in defining the conditions for    across soil types and farming systems..
+  the soil bacteria and thus the production of greenhouse       This systematic map will aim to catalogue and describe
+  gases from soils.                                           the evidence relating to the impacts of agricultural man-
+    Despite this, there is currently little consensus on the  agement activities on greenhouse gas fluxes. Wherever
+  conditions and mechanisms that regulate the produc-         possible, evidence relating to the impact of other vari-
+  tion and assimilation of greenhouse gases in arable land    ables on greenhouse gas fluxes will be catalogued within
+  and the practical factors that affect the process. There    studies, such as climate, fertiliser type and quantity,
+  is a broad diversity of land management options avail-      soil drainage, soil texture, and organic matter content.
+  able to farmers (e.g. intensive tillage using mouldboard    This review will allow the identification of knowledge
+  plough versus direct drilling or conservation tillage) and  gaps and knowledge clusters to be identified that can be
+  the impacts of these different options on greenhouse gas    researched further with novel primary research and full
+  emissions is not well known. Practical advice for farmers   systematic reviews, respectively.
+  is therefore often overly general, and models based on        The primary question for this systematic map is as
+  the amount of nitrogen fertiliser applied, for example, are follows:
+  used despite a lack of knowledge of how local conditions       What evidence exists on the impacts of within-field
+  affect the process, such as the importance of drainage,        farmland management practices on the flux of
+  humus content and soil types.                                  greenhouse gases from arable cropland in temperate
+
+Collins et al. Environ Evid (2019) 8:38                                                                         Page 3 of 7
+    regions?                                                   Searches will be performed using the subscriptions of
+                                                            Carleton University and conducted in English. Non-Eng-
+   These questions can be broken down into the following
+                                                            lish articles search results will be recorded, (see “Article
+key elements:
+                                                            screening and study eligibility criteria” section).
+                                                               The search string proposed has been built based on
+      Population: Arable farmland in temperate regions.
+                                                            experience from a systematic review evaluating the
+      Intervention: All within-field farmland management
+                                                            effects of agricultural management on greenhouse gas
+      practices applied to arable cropland.
+                                                            emissions in lowland peatland systems [11] and a system-
+      Comparator: Without management, with different
+                                                            atic map investigating the effects of agricultural manage-
+      management, before management, with different
+                                                            ment on soil organic carbon [14]. Due to overlaps in the
+      intensities of management.
+                                                            intervention and outcome elements of these question
+      Outcome: Fluxes of greenhouse gases (methane,
+                                                            experience on the most appropriate search terms was
+      nitrous oxide, carbon dioxide).
+                                                            shared by authors who spanned the different reviews, i.e.
+      Study type: Replicated observational and manipula-
+                                                            the outcomes terms optimised during the development
+      tive studies.
+                                                            of Haddaway et al. [11] were used.
+                                                               The search string will be tested for sensitivity by com-
+                                                            paring a benchmark list of 25 articles known (see Addi-
+                                                            tional file 2) to be relevant to the review team and the
+Methods                                                     advisory group. Where articles are not identified in two
+The review will follow the Collaboration for Environ-       test databases (Web of Science and Scopus) the reasons
+mental Evidence Guidelines and Standards for Evidence       for missed items will be examined and the search string
+Synthesis in Environmental Management [12] and it con-      adapted accordingly. Any adaptation that may be neces-
+forms to ROSES reporting standards [13] (see Additional     sary will be clearly recorded in the final systematic map
+file 1).                                                    report.
+                                                               Attempts to identify grey literature will include
+                                                            searches of Google Scholar which has been demon-
+Searching for articles                                      strated to be effective in identifying traditional academic
+Searching for articles will involve attempts to source both and grey literature together [15]. Two simplified search
+traditional academic literature and grey literature.        strings consisting of arable or agriculture, and outcome
+   Seven bibliographic databases will be searched to        words related to greenhouse gases will be used, and the
+find academic literature, including: AGRIS Agricultural     resulting references will be sorted by relevance. The first
+database (FAO), Directory of Open Access Journals,          250 results from each search string will be exported into
+PubMed, Scopus, EThOS, ProQuest Dissertations and           Excel and duplicates will be removed. Each reference
+Theses Global, and Web of Science Core Collections.         will be examined and screened for appropriateness. Cus-
+These databases will be searched using the following Eng-   tomized search strings used in search engines will be
+lish language Boolean search string (presented in Web of    recorded in an appendix. All resulting relevant articles
+Science format):                                            will be included in the article database.
+    TS = ((arable OR agricult* OR farm* OR crop* OR            Additionally, the websites of key organisations will be
+    cultivat* OR field*) AND (plough* OR plow* OR till*     searched for relevant studies by using built-in search
+    OR “direct drill*” OR fertili* OR biosolid* OR “bio     facilities and by searching the sites ‘by hand’ (i.e. focus-
+    solid” OR organic OR manur* OR sewage OR com-           ing on any ‘Publications’ pages and examining site maps
+    post* OR amendment* OR biochar* OR digestate*           where available). These websites will include:
+    OR “crop residue*” OR “crop straw*” OR mulch*
+    OR “crop rotat*” OR “break crop*” OR “grass ley”           • British Society for Soil Science.
+    OR “clover ley” OR legume* OR “bioenergy crop*”            • Centre for Ecology and Hydrology.
+    OR “cover crop*” OR “grass clover” OR “cropping            • Department of Agriculture, Environment and Rural
+    system*” OR “crop system” OR “winter crop*” OR                Affairs, Northern Ireland.
+    “spring crop*” OR “summer fallow*” OR “catch crop*”        • European Environment Agency.
+    OR intercrop* OR conservation) AND (CH4 OR                 • Environment Protection Agency Ireland.
+    methane OR CO2 OR “carbon dioxide” OR N2O OR               • European Commission Joint Research Centre.
+    “nitrous oxide” OR GHG* OR “greenhouse gas*” OR            • Gov.UK.
+    “green-house gas*”) AND (flux* OR dynamic* OR              • National Trust.
+    emission* OR exchang* OR balanc*))                         • Natural England.
+
+Collins et al. Environ Evid (2019) 8:38                                                                          Page 4 of 7
+   •  Natural Resources Wales.                                 Eligible subject(s):	    Arable farmland in temper-
+   •  Project Drawdown.                                                                  ate climates defined as fully
+   •  Rothamsted Repository.                                                             humid and summer dry, i.e.,
+   •  Scottish Environment Protection Agency.                                            Cfa, Cfb, Cfc, Csa, Csb, Cs
+   •  Scottish Government.                                                               in Köppen–Geiger classifica-
+   •  SNIFFER.                                                                           tion [17]. Peatlands will be
+                                                                                         included only when being
+   Finally, a public call for relevant studies and sources of                            used for agricultural pur-
+studies that may not be readily identified will be made                                  poses. Crops that are primar-
+via the expert advisors’ and stakeholders’ networks and                                  ily found in tropical regions
+social media (e.g. Twitter and Research Gate).                                           (e.g., rice, sugarcane, bananas)
+   After the search results have been collated, duplicates
+                                                                                         will be excluded as these were
+will be removed using a combination of reference man-
+                                                                                         considered as not relevant to
+agement software (EndNote) and systematic review man-
+                                                                                         the stakeholders. Grasslands,
+agement software (EPPI-Reviewer 4) [16]. The review will
+                                                                                         pastures and forests, will be
+be managed within EPPI-Reviewer 4.
+                                                                                         excluded.
+Article screening and study eligibility criteria               Eligible intervention(s):	
+                                                                                         Any farmland management
+Screening process                                                                        practice applied to the crop
+The final set of deduplicated search results will then be                                or the soil, and that could be
+subjected to screening in a two-stage approach, assessing                                applied to entire fields. This
+title and abstracts and finally full text documents; includ-                             would include, for exam-
+ing only those articles that are eligible in the subsequent                              ple: fertilisation; addition of
+stage. At each stage the number of excluded results will                                 amendments (e.g. lime); dif-
+be documented, and the reasons for excluding articles                                    ferent crop rotations; soil till-
+at abstract and full text will also be recorded in an addi-                              age. Practices such as buffer
+tional file published alongside the final map report.                                    strips that are not feasible as
+   Before screening is performed in full, eligibility will                               whole-field interventions are
+be assessed at each stage by two reviewers on a random                                   excluded. Comparisons of dif-
+subset of 10% of articles, and the level of agreement (con-                              ferent starting soil types/con-
+sistency) will be tested by calculating a Kappa statistic                                tents (e.g. phosphorus con-
+[17]. All disagreements will be discussed in detail and                                  centration, moisture content)
+inclusion criteria definitions improved where necessary.                                 will be excluded if no actual
+Where the level of agreement results in a Kappa statistic                                intervention is present in the
+below 0.6 the consistency checking will be repeated until                                study. Land use change stud-
+a ‘moderate’ agreement is achieved.                                                      ies will be excluded, i.e. where
+   In order to retrieve full text documents the review team
+                                                                                         land is changed from arable to
+will have access to the libraries and subscriptions of the
+                                                                                         another type of use e.g. from
+organisations participating in the review team and advi-
+                                                                                         arable to urban development.
+sory group. Where articles cannot be sourced due to a
+                                                               Eligible comparator(s):	Different levels of a manage-
+lack of subscription, inter-library loans will be requested
+and/or authors will be contacted directly with requests                                  ment practice or an absence
+for digital offprints. Unobtainable articles will be listed in                           of a particular practice, either
+an appendix to the final review report.                                                  spatially (nearby control fields
+   Reviewers who have authored articles considered in                                    or plots) or temporally (i.e.
+this review will not pass decisions regarding screening or                               before a management practice
+study validity assessment of their own work.                                             was initiated). Studies without
+                                                                                         a comparator at the interven-
+Eligibility criteria                                                                     tion level will not be eligible.
+At each stage, eligibility will be assessed according to the                             Studies that compare differ-
+subject scope and methods in each primary research arti-                                 ent crops (e.g., wheat vs corn)
+cle. For the purposes of clarity, we break this down into                                with the same intervention
+the following eligibility criteria:                                                      will be excluded.
+
+Collins et al. Environ Evid  (2019) 8:38                                                                                                         Page 5 of 7
+Eligible outcomes:	            Fluxes of greenhouse gases                       Study validity assessment
+                                ­(CO2, ­CH4, ­N2O).                              Formal study validity assessment will not be conducted
+Eligible study designs:	Any observational or manip-                             as part of this SM in line with standard guidance for sys-
+                                ulative experimental study.                      tematic maps [18]. Rather, we will record a selection of
+                                Modelling studies, green-                        meta-data and coding variables that affect study valid-
+                                house or laboratory studies                      ity (e.g. sample size). No critical appraisal of these data
+                                and ex situ experiments will                     will be undertaken, but sufficient information will be
+                                not be included.                                 extracted to allow full critical appraisal in any subsequent
+Eligible languages:	           Attempts to include arti-                        systematic review(s) conducted on the map outputs. This
+                                                                                 information will include:
+                                cles in a range of languages
+                                in addition to English will
+                                                                                     •  Study design type.
+                                be made. These are likely to
+                                                                                     •  Length of study.
+                                include French, Danish, Ger-
+                                                                                     •  Replication and randomisation details.
+                                man, Norwegian and Swed-
+                                                                                     •  Clarity and detail of methods.
+                                ish. Articles judged as eligible
+                                but in other languages will
+                                be listed in an additional file                  Data coding strategy
+                                published alongside the final                    Following full text screening, a database of all relevant
+                                review report.                                   studies will be produced, which will describe the articles
+                                                                                 from which the studies are taken along with information
+                                                                                 about the study setting, experimental design, and meas-
+                                                                                 urement methods used (see Table 1 for the proposed
+Table 1 Proposed coding and meta-data extraction schema
+Variable                          Description                                                                                          Meta-data or coding
+Study ID                          Unique study identifier linked to article ID                                                         Meta-data
+Citation                          Full citation of the article containing the study                                                    Meta-data
+Email address                     Main author email address provided within the publication if present                                 Meta-data
+Study country                                                                                                                          Coding
+Latitude                          Decimal degree                                                                                       Meta-data
+Longitude                         Decimal degree                                                                                       Meta-data
+Köppen-Geiger climate zone        Climate zones                                                                                        Coding
+Soil texture classification       USDA texture classifications                                                                         Coding
+Soil comments                     Description of soil texture, including clay, silt, sand percentages, alternative soil classification Meta-data
+                                    names, etc.
+Intervention start                Year during which the intervention began                                                             Meta-data
+Intervention end                  Year during which the intervention ended or when the study was completed                             Meta-data
+Intervention duration             Length of the study period in years                                                                  Meta-data
+Intervention type                 Amendments, crop rotation, fertiliser, tillage, other, multiple                                      Coding
+Number of different treatments    Total number of farming practices investigated and reported                                          Meta-data
+Different treatments detail       Description of the treatments investigated and reported                                              Meta-data
+Study design                      Before-after-control-intervention, before-after, comparator-intervention                             Coding
+Experimental design               Randomised control trial, split/strip plot, Latin square, paired design, purposive                   Coding
+Spatial replication               Number of true spatial replicates at the intervention level, i.e. if the intervention was applied Meta-data
+                                    at the field scale replication would need to be at the field scale also
+Temporal replication              Multiple time points measured after intervention (yes/no)                                            Coding
+Measured outcome                  N2O, ­CO2, ­CH4                                                                                      Coding
+Quantification method             Description of GHG measurement method, e.g. infrared spectrometer                                    Meta-data
+Sampling equipment                Static chamber, dynamic chambers, eddy flux covariance tower                                         Coding
+Sampling equipment description Description of tower set-up, including tower height, gap filling, etc. Description of mitiga-           Meta-data
+                                    tion measures for chamber equipment, e.g. presence of boardwalks, permanent collars,
+                                    pressure equalisers, radiators, etc.
+
+Collins et al. Environ Evid       (2019) 8:38                                                                                                         Page 6 of 7
+coding strategy). Information regarding possible sources                      thank the review team involved in that project for their excellent basis from
+                                                                              which we were able to work.
+of heterogeneity will be extracted (in the form of meta-
+data and coding) from across the eligible articles. Such                      Authors’ contributions
+variables will include: climate zone; fertiliser type; fer-                   NRH produced a first draft of this manuscript, heavily revised by AMC, edited,
+                                                                              and commented on by all authors. All authors read and approved the final
+tiliser quantity; presence of soil drainage; soil texture                     manuscript.
+classification; soil physical characteristics; crop type;
+above-ground biomass; concurrent land management;                             Funding
+                                                                              This work is funded by the UK Natural Environment Research Council (Grant
+land management history; and organic matter content.                          Reference NE/S015949/1)
+Study mapping and presentation                                                Availability of data and materials
+                                                                              Not applicable.
+A final SM report will be submitted to the Open
+Access journal Environmental Evidence. The report                             Ethics approval and consent to participate
+will describe the evidence base using text, figures and                       Not applicable.
+tables, summarising the quantity of evidence found                            Consent for publication
+within major categories and major management prac-                            Not applicable.
+tice groups (e.g. organic versus conventional), fertiliser
+                                                                              Competing interests
+regimes (e.g. organic, mineral, other amendments), and                        The authors declare that they have no competing interests.
+soil texture classifications. A narrative synthesis in the
+final review report will combine this with additional                         Author details
+                                                                              1
+                                                                                Centre for Environmental Policy, Imperial College London, 109 Weeks Build-
+details documenting all activities involved in the crea-                      ing, 16‑18 Prince’s Gardens, South Kensington, London SW7 1NE, UK. 2 Stock-
+tion of the map in appendices to the report. The report                       holm Environment Institute, Linnégatan 87D, Stockholm, Sweden. 3 Africa
+will conclude with a section on the implications of the                       Centre for Evidence, University of Johannesburg, Johannesburg, South Africa.
+                                                                              4
+                                                                                EPPI‑Centre, Social Science Research Unit, UCL Institute of Education, Uni-
+findings for research and policy.                                             versity College London, 18 Woburn Square, London WC1H 0NR, UK. 5 Centre
+                                                                              for Evidence Based Agriculture, Harper Adams University, Newport TF10 8NB,
+                                                                              Shropshire, UK. 6 Canadian Centre for Evidence‑Based Conservation and Envi-
+                                                                              ronmental Management, Carleton University, 1125 Colonel By Drive, Ottawa,
+Knowledge gap and cluster identification strategy                             ON K1S 5B6, Canada. 7 Grantham Institute‑Climate Change and the Environ-
+A series of heat maps (cross tabulations of key descrip-                      ment, Imperial College London, Exhibition Road, London SW7 2AZ, UK.
+tors, e.g. interventions and outcomes, interventions
+                                                                              Received: 5 August 2019 Accepted: 18 November 2019
+and populations/settings) will be produced. These will
+be compared with one another and the differences
+between groupings to systematically identify knowl-
+edge clusters (subtopics that are well-represented by
+                                                                              References
+research studies) and knowledge gaps (subtopics that                           1. Tubiello FN, Salvatore M, Ferrara AF, House J, Federici S, Rossi S, et al. The
+are comparatively under-represented by research stud-                               contribution of agriculture, forestry and other land use activities to global
+                                                                                    warming, 1990–2012. Glob Change Biol. 2015;21(7):2655–60.
+ies). This will be performed by visual inspection by a
+                                                                               2. National Union of Farmers (NFU). (2019). Achieving net zero Farming’s
+methodology expert of the review team (i.e. not a sub-                              2040 goal. https​://www.nfuon​line.com/nfu-onlin​e/busin​ess/regul​ation​/
+ject expert to avoid preconception bias). Additionally,                             achie​ving-net-zero-farmi​ngs-2040-goal/. Accessed 17 Sept 2019.
+                                                                               3. The Scottish Government. 2018. Climate change plan The Third Report
+we will aim to present the results using the EviAtlas
+                                                                                    on Proposals and Policies 2018–2032.
+tool [19], which will allow studies to be presented via                        4. Ronn R, Griffiths BS, Ekelund F, Christensen S. Spatial distribution and suc-
+location of the study and make use of dropdown filters                              cessional pattern of microbial activity and micro-faunal populations on
+                                                                                    decomposing barley roots. J Appl Ecol. 1996;33:662–72.
+so that studies relating to different soil types, interven-
+                                                                               5. Christensen S, Bjørnlund L, Vestergård M. Decomposer biomass in the
+tions and GHG emissions can be easily identified.                                   rhizosphere to assess rhizodeposition. Oikos. 2007;116(1):65–74.
+                                                                               6. Christensen S, Degórska A, Priemé A. Combined assessment of methane
+                                                                                    oxidation and nitrification: an indicator of air-borne soil pollution? Biol
+Supplementary information                                                           Fertil Soils. 2001;34(5):325–33.
+Supplementary information accompanies this paper at https​://doi.              7. Bardgett R. The biology of soil: a community and ecosystem approach.
+org/10.1186/s1375​0-019-0182-2.                                                     Oxford: Oxford University Press; 2005.
+                                                                               8. Myhre G, Shindell D, Bréon F-M, Collins W, Fuglestvedt J, Huang J, Koch
+                                                                                    D, Lamarque J-F, Lee D, Nakajima BMT, Robock A, Stephens G. Anthropo-
+  Additional file 1. ROSES form for systematic map protocols.
+                                                                                    genic and natural radiative forcing. In: Stocker SKA, Qin D, Plattner G-K,
+  Additional file 2. A List of benchmark articles.                                  Tignor M, Boschung PMMJ, Nauels A, Xia Y, editors. Climate change 2013:
+                                                                                    The physical science basis. Contribution of working group I to the fifth
+                                                                                    assessment report of the intergovernmental panel on climate change.
+Acknowledgements                                                                    Cambridge and New York: Cambridge University Press; 2013.
+This protocol has been developed from a Mistra EviEM systematic mapping        9. Topp E, Pattey E. Soils as sources and sinks for atmospheric methane. Can
+project (http://eviem​.se/en/proje​cts/soil-organ​ic-carbo​n-stock​s/) and we       J Soil Sci. 1997;77(2):167–77.
+
+Collins et al. Environ Evid         (2019) 8:38                                                                                                             Page 7 of 7
+10. Kasimir Klemedtsson Å, Weslien P, Klemedtsson L. Methane and                    16. Thomas J, Brunton J, Graziosi S. EPPI-Reviewer 4.0: software for research
+     nitrous oxide fluxes from a farmed Swedish Histosol. Eur J Soil Sci.                synthesis EPPI-Centre Software. London: Social Science Research Unit.
+     2009;60(3):321–31.                                                                  Institute of education, University of London; 2010.
+11. Haddaway NR, Burden A, Evans CD, Healey JR, Jones DL, Dalrymple SE,             17. Cohen J. Weighted kappa: nominal scale agreement provision for scaled
+     et al. Evaluating effects of land management on greenhouse gas fluxes               disagreement or partial credit. Psychol Bull. 1968;70(4):213.
+     and carbon balances in boreo-temperate lowland peatland systems.               18. Kottek M, Grieser J, Beck C, Rudolf B, Rubel F. World map of the Köppen–
+     Environ Evid. 2014;3(1):1.                                                          Geiger climate classification updated. Meteorol Z. 2006;15(3):259–63.
+12. Collaboration for Environmental Evidence. Guidelines and standards for          19. Haddaway NR, Feierman A, Grainger MJ, Gray CT, Tanriver-Ayder E,
+     evidence synthesis in environmental management. Version 5.0. In: Pullin             Dhaubanjar S, Westgate MJ. EviAtlas: a tool for visualising evidence
+     A, Frampton G, Livoreil B, Petrokofsky G, editors. 2018. http://www.envir​          synthesis databases. Environ Evid. 2019;8(1):22. https​://doi.org/10.1186/
+     onmen​talev​idenc​e.org/infor​matio​n-for-autho​rs. Accessed 03 Jan 2019.           s1375​0-019-0167-1.
+13. Haddaway NR, Macura B, Whaley P, and Pullin AS. 2017. ROSES for System-
+     atic Map Protocols. Version 1.0. https​://doi.org/10.6084/m9.figsh​are.58972​
+     84.                                                                           Publisher’s Note
+14. Haddaway NR, Hedlund K, Jackson LE, Kätterer T, Lugato E, Thomsen IK,          Springer Nature remains neutral with regard to jurisdictional claims in pub-
+     Jørgensen HB, Söderström B. What are the effects of agricultural manage-      lished maps and institutional affiliations.
+     ment on soil organic carbon in boreo-temperate systems? Environ Evid.
+     2015;4(1):23. https​://doi.org/10.1186/s1375​0-015-0049-0.
+15. Haddaway NR, Collins AM, Coughlin D, Kirk S. The role of Google Scholar
+     in evidence reviews and its applicability to grey literature searching. PLoS
+     ONE. 2015;10(9):e0138237.
+                                                                                        Ready to submit your research ? Choose BMC and benefit from:
+                                                                                          • fast, convenient online submission
+                                                                                          • thorough peer review by experienced researchers in your field
+                                                                                          • rapid publication on acceptance
+                                                                                          • support for research data, including large and complex data types
+                                                                                          • gold Open Access which fosters wider collaboration and increased citations
+                                                                                          • maximum visibility for your research: over 100M website views per year
+                                                                                        At BMC, research is always in progress.
+                                                                                        Learn more biomedcentral.com/submissions
+

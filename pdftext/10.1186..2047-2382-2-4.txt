@@ -1,0 +1,1593 @@
+Sciberras et al. Environmental Evidence 2013, 2:4
+http://www.environmentalevidencejournal.org/content/2/1/4
+  SYSTEMATIC REVIEW                                                                                                                                    Open Access
+Evaluating the biological effectiveness of fully
+and partially protected marine areas
+Marija Sciberras1*, Stuart R Jenkins1, Michel J Kaiser1, Stephen J Hawkins2 and Andrew S Pullin3
+  Abstract
+  Background: Marine Protected Areas (MPAs) encompass a range of protection levels, from fully protected no-take
+  areas to restriction of only particular activities, gear types, user groups, target species or extraction periods. We
+  synthesized the results of empirical studies that compared partially protected areas (PPA) to (i) no-take marine
+  reserves (NTR) and (ii) to open access areas (Open), to assess the potential benefits of different levels of protection
+  for fish and invertebrate populations.
+  Methods: A systematic search for relevant articles used terms describing MPAs, the biota (e.g. fish, invertebrates)
+  and measures (e.g. density, biomass) of interest. Articles were examined for relevance using specified inclusion
+  criteria. Included articles were appraised critically; the influence of studies whose effect of protection was identified
+  to be confounded by habitat was examined by running a sensitivity analysis parallel to the main analysis that
+  included all studies. Random effect meta-analysis on ln-transformed response ratios was used to examine the
+  response to protection. Subgroup analyses and meta-regression were used to explore variation in effectiveness in
+  relation to MPA and species covariates.
+  Results: Synthesis of available evidence suggests that while PPAs resulted in higher values of biological metrics
+  (density and biomass) than unprotected areas, greatest benefits were apparent in NTR areas when NTRs and PPAs
+  were compared. For fish, the positive response to protection, whether full or partial protection, was primarily driven
+  by targeted fish species. Although positive benefits were also apparent in non-target fish species, the results were
+  more variable, perhaps because of fewer studies focusing on this group. Invertebrate studies were
+  underrepresented and those available focused mainly on scallops, lobsters and sea urchins. Among the targeted
+  species groups, benefits from partial protection relative to fished areas were highest for scallops, whereas benefits
+  from full relative to partial protection were highest for lobsters. The examination of fish and invertebrate response
+  to protection in terms of species richness and length was hampered by small sample sizes. There was significant
+  variability in the magnitude of response to protection among the MPAs included in this study. The factors
+  determining such variation were generally unclear although the size and protection regime of the PPA explained
+  some of this variability.
+  Conclusions: The available evidence suggests that no-take reserves provide some benefit over less protected areas,
+  nevertheless the significant ecological effects of partially protected areas relative to open access areas suggest that
+  partially protected areas are a valuable spatial management tool particularly in areas where exclusion of all
+  extractive activities is not a socio-economically and politically viable option.
+  A glossary of terms is given in Appendix.
+  Registration number: CEE-09-018
+  Keywords: Marine protected areas, Protection level, Fish, Invertebrates, Exploitation status, MPA design, Weighted
+  meta-analysis
+* Correspondence: marija_sciberras@yahoo.com
+1
+ School of Ocean Sciences, Bangor University, Menai Bridge, Anglesey
+LL59 5AB, UK
+Full list of author information is available at the end of the article
+                                            © 2013 Sciberras et al.; licensee BioMed Central Ltd. This is an Open Access article distributed under the terms of the Creative
+                                            Commons Attribution License (http://creativecommons.org/licenses/by/2.0), which permits unrestricted use, distribution, and
+                                            reproduction in any medium, provided the original work is properly cited.
+
+Sciberras et al. Environmental Evidence 2013, 2:4                                                              Page 2 of 31
+http://www.environmentalevidencejournal.org/content/2/1/4
+Background                                                    and habitat structure inside partially protected areas [7],
+Only in the last decade has there been recognition that       others did not detect benefits over unprotected fished
+marine ecosystems worldwide are suffering massive and         areas [25,28]. There have been numerous reviews on
+acute declines in biodiversity and irreparable alterations    the effectiveness of no-take marine reserves for fish
+to ecosystem functioning [1,2]. Marine protected areas        populations [29-39], however few attempts have been
+(MPAs) and other forms of marine spatial closures             made to generalize the ecological effects of partially
+are increasingly common components of management              protected areas to date (but see [40]). Furthermore, pre-
+programmes for living marine resources [3]. The use of        vious reviews have primarily addressed work on fish.
+MPAs has been primarily advocated for protection of           Here, we also address work on invertebrates; a taxon
+sensitive marine habitats and associated species [4,5].       neglected in the past. The review by Stewart et al. [41]
+Increasingly, these management tools have been recognized     is, to our knowledge, the only other systematic examin-
+to make an important contribution to fishery management       ation of the impacts of temperate no-take areas on mar-
+goals, for example for protecting essential fish habitats and ine biota (fish, invertebrates and macroalgae). Here, we
+promoting export of adults and larvae to adjacent areas       build on this by undertaking a global synthesis of studies
+[6-8]. Furthermore, by protecting defined areas of the sea    by examining the efficacy of MPAs that confer varying
+that include both resident species and their biophysical      levels of protection from extractive activities for fish and
+environments, MPAs encompass an ecosystem-based ap-           invertebrates. Systematic reviews are an improvement
+proach to conservation and fisheries management, which is     over conventional reviews in that they provide a com-
+distinct from the traditional focus on single species man-    prehensive and robust assessment and summary of avail-
+agement [9,10].                                               able evidence by following a strict methodological
+   Various types of MPAs exist, all of which can be           protocol [42,43]. This minimizes the chance of bias and
+defined based mainly upon the level of protection             improves transparency, repeatability and reliability of the
+offered and their primary management goals. Some              outcomes of the review [44].
+MPAs, such as no-take marine reserves, represent the             Here, we synthesize data on marine protected area
+extreme case of the precautionary approach to managing        (MPA) performance from studies that have made direct
+marine resources (e.g. [11]) by prohibiting all extractive    comparisons between (i) partially protected areas (PPA)
+(e.g. fishing) and potentially damaging (e.g. anchoring,      and open access areas (Open) and (ii) partially protected
+SCUBA diving) activities. Alternatively, multiple-use         areas (PPA) and no-take reserves (NTR) to examine how
+marine areas seek a balance between the need to protect       the level of protection inside the MPA determines bene-
+biodiversity while allowing some continued human use          fit to fish and invertebrate populations. Species may re-
+of the area. Despite the evidence of beneficial effects of    spond differently to protection depending on the
+no-take marine reserves for enhancing biomass and             intensity of exploitation to which they are subject to out-
+density of exploited species within the boundaries of the     side the MPA [45-47]. Therefore, we also examined
+reserve [12-14], enhancing reproductive output [15,16],       whether the response to protection differed for target
+rehabilitating community structure [17,18] and biomass        and non-target species. Previous quantitative syntheses
+export through adult migration [19-21], the prohibition       of fish populations in no-take reserves have linked the
+of all extractive activities in certain areas can have        heterogeneity in response to protection among reserves
+negative socio-economic impacts [22]. Indeed, even if         to a number of MPA characteristics such as duration of
+reserves benefit fisheries, local fishers may be negatively   protection and size of MPA [35,37-39,48]. Insights into
+affected by the loss of fishing grounds, decreased catches    the influence of such characteristics are fundamental for
+and increased travelling time to fishing grounds, at least    the development of a more general understanding of
+in the short-term [23,24]. Consequently, no-take marine       partially protected area effectiveness and design. There-
+reserves may face strong opposition from fishers, making      fore, we investigate whether MPA parameters including
+the process of reserve implementation and subsequent          the protection regime within the partially protected area,
+enforcement difficult. MPAs that impart partial protec-       the duration of protection, the size of the MPA and the
+tion from certain types of fishing are often advocated by     distance to MPA border influence the magnitude of
+groups with direct fishing interests and promoted as a        response to protection.
+‘compromise’ solution allowing both protection and
+fishing [25].                                                 Objectives
+   The effectiveness of partially protected marine areas      Primary objective
+for fisheries and ecosystem restoration remains some-         To examine how the level of protection inside the MPA
+what variable. Whereas some studies have recorded             ranging from full to partial to no protection, determines
+enhanced abundance and reproductive potential for             benefit to fish and invertebrate populations in terms of
+exploited species [26,27] and recovery of community           density, biomass, species richness and body size (length).
+
+Sciberras et al. Environmental Evidence 2013, 2:4                                                              Page 3 of 31
+http://www.environmentalevidencejournal.org/content/2/1/4
+Secondary objectives                                         Search sources
+To assess whether the magnitude of response to protec-       Electronic databases Literature searches up until the
+tion differs between target and non-target fish and inver-   end of February 2011 were carried out using the
+tebrate species.                                             following electronic databases:
+  To examine how MPA parameters including:
+protection regime within the partially protected area,          Aquatic Sciences and Fisheries Abstracts (since
+duration of protection, size of the MPA, proximity of             1971)
+the protected area to open access control sites and/            ISI Web of Knowledge (Web of Science and
+or to other protected areas, influence the response               Proceedings, since 1941)
+to protection.                                                   Science Direct (since 1823)
+                                                                 Directory of Open Access Journals
+                                                                 Copac
+Methods                                                          Index to Theses Online
+Search strategy                                                  CAB Abstracts
+Search terms
+We conducted a comprehensive search of peer-reviewed         All references cited in the publications examined at full
+scientific literature and grey literature to compile a data- text were also checked for relevance, as were references
+base of studies that documented and compared the bio-        and abstracts cited in the extended book of abstracts
+logical effects of (i) no-take reserves (NTRs) to partially  from the “European Symposium on Marine Protected
+protected areas (PPAs), or (ii) partially protected areas    Areas as a Tool for Fisheries Management and Ecosys-
+(PPAs) to open access areas (Open). Owing to the di-         tem Conservation” that convened research from several
+verse range of terminology referring to Marine Protected     MPA-related projects including PROTECT, EMPAFISH
+Areas (defined as discrete geographic areas of the sea       and BIOMEX.
+that are protected by spatially explicit restrictions
+designated under international, national, tribal or local    Internet sources Searches were carried out in general
+laws to enhance long-term conservation of natural            web search engines including http://scholar.google.com/
+resources therein [49]), we have attempted to make our       and http://www.scirus.com/. The first fifty hits (Word and/
+search as comprehensive as possible by including the         or PDF documents) from each search were checked for
+following search terms (* represents a wildcard):            relevant pages or documents, as recommended by the CEE
+                                                             review guidelines.
+  “marine reserve*”                                            Additional searches were carried out in specific
+  marine sanctuary                                           websites listed below. In this case, each website was
+  marine AND “no take zone”                                  searched using the website’s own search facilities
+  marine AND harvest refug*                                  where available, and reports and publications sections
+  marine AND “buffer zone”                                   were searched in detail in all cases. Search terms were
+  marine AND partial* AND protect*                           limited to ‘marine protected areas’ and ‘marine
+  marine AND closed area                                     reserves’ as website search engines generally only
+  marine AND area closure                                    accepted simple search terms. The websites searched
+  fisher* AND (reserve OR closure)                           were:
+  fishing gear restriction*
+  recreational fishing AND protection                          Joint Nature Conservation Committee: http://jncc.
+  marine protected area*                                       defra.gov.uk/
+                                                               Department for Environment, Food and Rural Affairs:
+  Whenever the search generated by the search terms            http://www.defra.gov.uk/
+above was too broad, we included combinations of the           Centre for Environment, Fisheries & Aquaculture
+following terms to target specific literature relevant to      Science: http://www.cefas.defra.gov.uk/
+the review questions:                                          NCCOS Center for Coastal Monitoring and
+                                                               Assessment: http://ccma.nos.noaa.gov/
+  Subject terms: “fish”, “fishes”, “invertebrate*”             NOAA National Marine Protected Areas Centre:
+  Outcome terms: “abundance”, “density”, “size”, “length”,     http://mpa.gov/
+  “biomass”, “richness”, “diversity”                           California Cooperative Oceanic Fisheries Investigations:
+                                                               http://www.calcofi.org/
+  A full list of the search term combinations used is          Department of Conservation, New Zealand: http://
+given in Additional file 1.                                    www.doc.govt.nz/
+
+Sciberras et al. Environmental Evidence 2013, 2:4                                                               Page 4 of 31
+http://www.environmentalevidencejournal.org/content/2/1/4
+  Department of Sustainability, Environment, Water:               the study reported mean and sample size values (e.g.
+  http://www.environment.gov.au/                                    number of transects or point counts) and an
+  Population and Communities                                        appropriate variance measure (SD, SE, variance, 95%
+                                                                    CI) for both the MPA and its comparator.
+Article screening and study inclusion criteria
+All articles retrieved using the above search strategy           When several studies reported on the effects of protec-
+were subjected to a three stage process to identify the       tion for the same MPA, the most recent study was
+most relevant articles for the review questions. The aim      retained unless the studies measured different metrics
+of this process was to systematically remove articles that    (i.e. density, biomass) or presented data at different
+were not relevant or did not contain relevant informa-        levels of aggregation (e.g. total or individual species
+tion or data. At each stage, if there was insufficient in-    mean values). This avoided the risk of double counting
+formation to exclude an article it was retained until the     data. Studies that presented data aggregated for several
+next stage.                                                   MPAs with different characteristics (e.g. [50]) were not
+  In the first instance, the title of articles was assessed   included.
+using the inclusion criteria set out below, in order to re-      In order to assess and limit the effects of between-
+move spurious citations. Articles remaining after this fil-   reviewer differences in determining relevance, two
+ter were filtered on viewing the abstract and then the        reviewers applied the inclusion criteria to a random sub-
+full text. In order to pass the title and abstract stage each set of 120 abstracts from articles accepted at the title
+article had to meet the following criteria:                   level. A kappa statistic [51] of 0.73 was calculated, which
+                                                              indicates significant agreement in the selection of
+   Relevant populations: fish, invertebrates                 articles by the two reviewers.
+   Types of intervention: Marine Protected Area
+       (where partially protected area, fishery reserves,     Study quality assessment
+       fishery closures, gear restriction zones, buffer zones All articles accepted at full text were critically appraised
+       and marine reserves are all specific cases of MPAs     according to their study design and quality. For each art-
+       [49])                                                  icle we recorded design elements that reduced suscepti-
+   Types of outcome: Change in abundance (e.g.               bility to bias. Firstly the articles were categorised
+       density, CPUE), biomass (or weight), species           according to the study design into: Before After Control
+       richness (or number or diversity), length (or other    Impact (BACI) studies, Control Impact (CI) studies and
+       measure of body size).                                 Before After (BA) studies (see Table 1). Ecosystem
+                                                              processes are spatially and temporally variable at mul-
+  Furthermore, the following criteria were used to accept     tiple scales and these variations can obscure the detec-
+articles at the level of full text:                           tion of the effects of protection [52]. BACI studies that
+                                                              account for both spatial and temporal variability in the
+   the primary study provided empirical data for             environment [53], thus allow for unambiguous inference
+       outcomes quantified in (i) a NTR and a PPA, or (ii)    about the effect of protection. We attempted to explore
+       a PPA and an Open area or (iii) a combination of all   the influence of sampling design on the magnitude of
+       the three levels of protection (NTR vs. PPA vs.        the response to protection by running a sensitivity ana-
+       Open). Studies that presented data from within a       lysis using all studies and those with BACI design only.
+       NTR and a PPA, were included in subsequent             However this was not possible as the majority of studies
+       quantitative analysis only when the two were           (85%) were based on CI studies after the MPA had
+       established at the same time or within 2 years of      already been established; only 10% were BACI data and
+       each other                                             5% presented BA data (refer to Table 1).
+   the study presented data from after protection was           Studies of assessment of the effect of protection may
+       implemented; or from before and after the creation     suffer from the possibility of bias due to differences in
+       of the MPA; or both (i.e. Before After Control         habitat among the MPA and control sites [5,54]. Some
+       Impact (BACI) designs)                                 authors have argued that the apparent effect of protec-
+   the study reported biological data (e.g. density or       tion is not due to protection per se, but rather due to
+       biomass) for individual species or genus or family, or higher-quality habitat or site-specific features in reserves
+       reported total density or biomass for groups of fish   before the onset of protection (e.g. [5,55]). In order to
+       and invertebrates separately                           account for the systematic bias associated with baseline
+   the study reported exploitation status (i.e. target,      differences in reserve location, a sensitivity analysis was
+       non-target) for all individuals when data was given    conducted parallel to the main analysis to examine the
+       at the species, genus or family taxonomic level        influence of including the ‘habitat-confounded studies’
+
+Sciberras et al. Environmental Evidence 2013, 2:4                                                                               Page 5 of 31
+http://www.environmentalevidencejournal.org/content/2/1/4
+Table 1 Hierarchy of study quality assessment based on sampling design
+Sampling design                                Spatial replication                          Temporal replication
+                                    Treatment (MPA)                Control             Before                  After            No of studies
+Beyond-BACI                               multiple                 multiple            multiple              multiple                 1
+                                          multiple                 multiple             once                 multiple                 1
+BACI                                        one                     one                multiple              multiple                 3
+                                            one                     one                 once                   once                   1
+After Control-Impact                      multiple                 multiple               -                  multiple                 7
+                                          multiple                 multiple               -                    once                   5
+                                          multiple                  one                   -                  multiple                 4
+                                          multiple                  one                   -                    once                   2
+                                            one                    multiple               -                    once                   1
+                                            one                     one                   -                  multiple                18
+                                            one                     one                   -                    once                  14
+Before-After                                one                       -                   -                  multiple                 2
+                                            one                       -                   -                    once                   1
+Study quality in terms of sampling design decreases down the list.
+on the overall magnitude and direction of the protection ef-                These included protection regime within the MPA (i.e.
+fect, and report the results for the sensitivity analyses when              activities permitted and restricted), MPA size (km2), geo-
+the two differed. ‘Habitat-confounded studies’ refer to those               graphical location, time between implementation of pro-
+studies where habitat variation, in terms of features such as               tection and survey (MPA age), habitat type and depth.
+substratum type, substratum composition and complexity,                     When enforcement lagged behind the establishment
+rugosity and exposure, was reported to be significantly dif-                date, the first year of enforcement was used as the first
+ferent for the locations studied inside and outside the MPA.                year of protection. MPA characteristics were extracted
+   Whenever studies reported that the enforcement of                        for both the NTRs and the PPAs separately. Methodo-
+protection was poor or deteriorating during the course                      logical information such as total survey area (m2), survey
+of the study, that study was excluded from the analyses.                    method (e.g. strip transects, point counts, trawl hauls),
+Additionally, study reliability is dependent on the repli-                  the total number of species reported in the study and
+cation of sampling effort within the MPA (e.g. the num-                     the distance between the PPA and the NTR and/or the
+ber of transects or trawls undertaken) and on the                           Open area were also recorded. Whenever given, the
+number of MPAs sampled. The level of replication (sam-                      exploitation status (i.e. targeted or non-targeted species)
+pling effort and number of MPAs included) was                               of fish and invertebrate species was extracted for
+recorded for each study.                                                    each species.
+Data extraction                                                             Data handling
+Data extraction was undertaken using a review-specific data                 When data for density, biomass and species number
+extraction form given in Additional file 2. Abundance                       were provided for a number of sites within and outside
+(including density and CPUE), biomass, length and species                   the MPA (e.g. [56]), mean values for each of these
+richness were treated as continuous variables. Measures of                  metrics were converted to a single mean value for the
+abundance were used to address questions of density                         MPA and control area, respectively. The variance of the
+differences, while biomass allowed understanding of the                     mean among sites was calculated using the following
+contribution made by larger individuals. Sample sizes,                      equation [57];
+means and variance (or other variance measures including
+                                                                                               !    2                                    !
+standard deviation, standard error, 95% confidence interval)                       1 X  m
+                                                                                                      1       X m       X  pﬃﬃﬃﬃﬃpﬃﬃﬃﬃﬃ
+values were extracted as presented from tables or within                     var            Yi   ¼                 Vi þ     rij Vi Vj
+                                                                                   m i¼1             m         i¼1      i≠j
+text. Data from figures were extracted using the data-
+extraction software TechDig v.2.                                                                                                     ðEq:1Þ
+Potential effect modifiers                                                  where Vi is the variance for the mean (Yi) at each site, m
+Several MPA characteristics that might influence the                        is the number of sites within or outside the MPA and r
+response to protection among MPAs were recorded.                            is the correlation coefficient that describes the extent to
+
+Sciberras et al. Environmental Evidence 2013, 2:4                                                                    Page 6 of 31
+http://www.environmentalevidencejournal.org/content/2/1/4
+which the means at the different sites co-vary. Assuming         Meta-analysis The natural logarithm transformed re-
+that each site represents an independent sample, then            sponse ratio, LnRR [68] was used as the effect size for
+r = 0 and the variance is just the sum of the individual         density and biomass data. The response ratio is defined
+variances divided by the number of sites squared.                as the ratio of the mean density or biomass estimate
+                                                                 measured inside and outside the MPA [68]:
+                         !    2               !
+            1 X   m
+                                1       X m                                                
+     var              Yi   ¼                 Vi           ðEq:2Þ                      X PPA
+           m i¼1                m                                     LnRR ¼ Ln                                         ðEq:3Þ
+                                         i¼1                                         X Open
+  Whenever a study reported paired inside-outside                   The mean difference (D) between the protected and
+estimates from more than one MPA, each pair was                  open access area was used as the effect size for species
+included separately in our database (e.g. [56,58-62]).           richness, as absolute change in the number of species
+When data were reported from two or more MPAs but                would be more informative to policy makers and
+one control area (e.g. [63-67]), data estimates within           managers. Hence, using this effect size an increase
+each MPA were included separately and compared to                from 1 to 2 was treated the same as an increase
+the same control. When there was more than one sam-              from 10 to 11.
+pling event after MPA establishment, the most recent                         PPA  X Open
+                                                                      D¼X                                                ðEq:4Þ
+sampling event, representing the longest duration of
+protection was used. This avoids analytical problems                Weighted summary effect sizes (      LnRR ) across the dif-
+associated with temporal autocorrelation. Furthermore,           ferent MPA case studies were calculated using random
+averaging data collected after, for example 2 years and 8 -      effects meta-analysis, which acknowledges that differences
+years of protection might underestimate the effect of            in observed effects may be due to differences among stud-
+protection, since effectiveness of MPAs has been shown           ies such as different designs and characteristics of MPAs
+to increase with age of MPA [35,48]. However, when the           rather than due to sampling error alone [57].
+data were collected within the same year (most fre-
+quently over different seasons) a composite effect size                         Xk
+                                                                                        W LnRRi
+                                                                                    i¼1 i
+was used for subsequent analysis to eliminate any sea-               LnRR ¼       Xk                                    ðEq:5Þ
+sonal effects associated with the timing of sampling.                                       W
+                                                                                         i¼1 i
+Similarly, mean data presented for different depths
+within the same MPA were aggregated into a composite             where LnRRi and Wi are the effect size and weight (inverse
+effect size and its variance (Composite ESS,D and Com-           variance) associated with each MPA included in the ana-
+posite VarS,D respectively) using a fixed-effect model,          lysis, respectively, and k is the number of MPAs. For dens-
+whereby the weight assigned to each subgroup effect size         ity and biomass, the weight (Wi) was equal to the inverse
+was equal to the inverse of the within-subgroup variance         of the variance calculated as [68]:
+(note that as the composite effect size is calculated for
+subgroups within the same MPA, the between-study                                   SD2PPA              SD2Open
+                                                                      VLnRR ¼                   2þ             2      ðEq:6Þ
+variance, τ2, relevant to a random effects model is 0,                          nPPA ðX
+                                                                                          PPA Þ    nOpen X  Open
+therefore a fixed-effect model is adequate in this
+                                                                           
+case) [57].                                                      where X     , SD and n are the mean density or biomass
+                                                                 values, the standard deviation of the mean and the sample
+Data synthesis                                                   size used for the estimation of the mean, respectively. For
+MPA-level analyses                                               species richness, effect sizes were weighted based on the
+To quantify the overall effect of protection on fish and         inverse of the natural logarithm of the total area surveyed
+invertebrate assemblages, we carried out a meta-analysis         in each study. Total survey area ranged between
+using effect sizes calculated for MPAs that reported total       0.004 km2 and 0.03 km2 for fish studies and between
+mean values, or mean values for a sizeable proportion of         6.4 × 10−6 km2 and 70.08 km2 for invertebrate studies.
+the fish fauna surveyed (i.e. when the data were reported        Since the likelihood of finding new species increases with
+for 10 or more species or for more than 75% of the total         the size of area surveyed, we regarded weighting by survey
+catch of all fish counts). Separate meta-analyses were           area instead by sample size and variance, as a more bio-
+carried out using density, biomass and species richness          logically meaningful weighting scheme for species rich-
+estimates to quantify the effect of (i) partial protection       ness. Note that the effect size and the variance for
+over no protection and of (ii) full protection over partial      comparison of the NTRs and PPAs were calculated by re-
+protection in terms of each of these measures of MPA             placing PPA with NTR and Open with PPA in the
+effectiveness.                                                   equations above (Eq. 3, 4, 6).
+
+Sciberras et al. Environmental Evidence 2013, 2:4                                                                  Page 7 of 31
+http://www.environmentalevidencejournal.org/content/2/1/4
+   The weighted summary effects (             LnRR ), 95% confi- (see Additional file 3 for details on the ‘protection re-
+dence in the summary effect (95% CI) (17.9, p.132, [57])          gime’ classification scheme). It was hypothesized that in-
+and prediction interval (PI) (17.10, p. 133, [57]) were           discriminate PPAs will exhibit smaller responses to
+calculated for each of the following variables: fish dens-        protection than discriminate PPAs as habitat restoration
+ity, fish biomass, fish species richness, invertebrate dens-      will have to occur before some species’ populations can
+ity and invertebrate biomass. Whilst the confidence               begin to recover. Additionally, the effect of protection
+interval (95% CI) quantifies the accuracy of the summary          for populations in DR was hypothesized to be greater
+effect size, the prediction interval addresses the disper-        than for those in DC PPAs.
+sion of the effect sizes around the ‘true effect’. The pre-         A categorical mixed model meta-analysis comparing
+diction interval is the interval within which the effect          each of the three protection regime categories was
+size for a new MPA would fall 95% of the time if a MPA            carried out. Differences in effect sizes among categories
+was selected at random from the population [57].                  were tested using QM statistic, which partitions the total
+   Positive values of the     LnRR indicate greater density or   variance (of all categories about the grand mean effect
+biomass inside the PPA relative to Open area, or inside           size) into variance within categories and variance be-
+the NTR relative to the PPA. A decrease is represented            tween categories (of category means about the grand
+by a ln-ratio of less than zero. The summary effect size          mean) [57,69].
+(LnRR ) is considered to be significantly different from           Meta-regression was performed to examine the effect
+zero (i.e. there is a significant either positive or negative     of the following continuous variables: MPA age, MPA
+effect of protection) when the 95% CI does not over               size, distance between MPA and control sites and total
+lap zero.                                                         survey area on protection effectiveness. The total area
+                                                                  surveyed inside and outside the MPA and the proximity
+                                                                  between the MPA and the control sites were included to
+Potential correlates of response to protection Where              account for methodological variation among studies that
+there were sufficient data, the influence of the following        may have a strong impact on the results obtained.
+potential effect modifiers on the response of fish assem-           The relatively small numbers of MPAs did not permit
+blage to protection were tested; protection regime of the         the construction of models with multiple variables,
+PPA, MPA age, size of the MPA, the total area surveyed            therefore weighted simple mixed effects regression
+inside and outside the MPA and the minimum distance               models were used throughout the analyses.
+(in km) of the control sites to the MPA.
+   The protection regime of the PPA is described here as          Species-level analyses: exploitation status
+the combination of fishing activities prohibited and              A considerable proportion of studies in our database
+permitted inside the PPA. Based on the information                presented mean and variance values for one or more in-
+extracted on the type of activities prohibited within the         dividual species with different degrees of exploitation.
+PPA, we divided partially protected areas into (i) ‘indis-        We therefore included these studies in separate meta-
+criminate’ PPAs, if they prohibit fishing activities that         analyses to determine the effect of (i) partial protection
+are damaging to bottom habitats and non-target species            over no protection and of (ii) full protection over partial
+(e.g. scallop dredging and bottom trawling) and (ii) ‘dis-        protection for target and non-target species. ‘Target spe-
+criminate’ PPAs, if they prohibit activities which effect         cies’ is taken to refer to those species that are primarily
+particular target species but not the surrounding envir-          sought by the fishermen in a particular fishery and are
+onment (e.g. seine nets, long lines, spearfishing).               the subject of directed fishing effort. This category was
+Furthermore, based on information on the permitted                further subdivided into target species that were
+activities inside the PPA, ‘discriminate’ PPAs were sub-          protected in both the NTR and the PPA (TP) and target
+divided into those that allow commercial or artisanal             species that were protected in the NTR but still allowed
+fishing from those that allow recreational fishing or fish-       to be fished inside the PPA (TNP). ‘Non-target species’
+ing for domestic purposes only. This categorization               denotes species for which fishing gear is not specifically
+serves as an indication of the intensity of use by the dif-       set, although the possibility that these species are acci-
+ferent user-groups permitted to fish in the PPA. We               dentally caught as by-catch cannot be ruled out.
+refer to these sub-categories as ‘commercial’ and ‘recre-
+ational’, respectively. Fishing practices permitted inside        Meta-analysis Individual species ln-transformed response
+‘indiscriminate’ PPAs were carried out on a commercial            ratios (LnRRi) were calculated for each MPA using species
+scale. Therefore, PPAs were categorized into three                density or biomass or body length estimates inside and out-
+discrete groups based on their protection regime: (a) in-         side the MPA. When a species was absent either inside or
+discriminate, commercial (IdC); (b) discriminate, com-            outside the MPA (i.e. the density or biomass estimate was
+mercial (DC); and (c) discriminate, recreational (DR)             zero), the species was removed from the analysis. As the
+
+Sciberras et al. Environmental Evidence 2013, 2:4                                                                           Page 8 of 31
+http://www.environmentalevidencejournal.org/content/2/1/4
+effect sizes of individual species within a MPA are unlikely             Potential correlates of response to protection As for
+to be independent of each other, a single effect size measure            the reserve-level analyses we examined the influence of
+for each ‘exploitation status’ category within each MPA was              a number of MPA characteristics on target species re-
+generated to handle non-independence of data [70,71]. In-                sponse to protection. As the overall response to protec-
+dividual species response ratios (LnRRi) were therefore                  tion was not significantly different between TP and TNP
+averaged to produce a single study-average effect size for               (see Results section Species-level analysis: Comparison
+each exploitation category (i.e. LnRRTP , LnRRTNP , LnRRNT).             of partial protection vs. no protection and Species-level
+The variance associated with the single study-average effect             analysis: Comparison of full vs. partial protection), we
+size was calculated using (Eq. 1) in the ‘Data handling’ sec-            pooled the effect sizes from these two sub-categories so
+tion, where Yi is the individual species’ response ratio                 as to retain more power in the analysis through a bigger
+(LnRRi), Vi and Vj are the within-study variance for species i           sample size. The sample sizes for the NT species cat-
+to j, m is the number of species within each ‘exploitation               egory were too small to allow further analysis. The
+status’ category and r is the correlation coefficient that               variables examined for the target species data were: (i)
+describes the extent to which the means of two different                 MPA age (years); (ii) size of the PPA (for comparison of
+species co-vary. Since the correlation coefficient among                 PPA vs. Open), or alternatively, the size ratio of the NTR
+species within a study was never reported, a range of correl-            to the PPA (for comparison of NTR vs. PPA); (iii) PPA
+ation coefficient values were used in the calculation                    protection regime (for comparison of PPA vs. Open);
+(rho = 0, 0.2, 0.5, 0.8, 1) and the analyses repeated                    and (iv) the proximity of the non-protected control sites
+for each value of r.                                                     to the PPA border (for comparison of PPA vs. Open), or
+   The effect of species ‘exploitation status’ on the re-                alternatively, the distance between the borders of the
+sponse to protection was examined by conducting a                        no-take area and partially-protected area (for compari-
+random effects subgroup analysis using the QM statistic                  son of NTR vs. PPA). The distance of the NTR to the
+[69] to determine whether the between-group responses                    PPA was not examined for target species density as all
+were significantly different. A weakness of this approach,               the MPAs except for one were characterized by a zon-
+however, is that if for example we hypothesize that dur-                 ation scheme, consisting of NTR and an adjacent PPA.
+ation of protection influences effect size, then the com-                Furthermore, the number of species pooled to calculate
+parison of target to non-target species might be                         the effect size for each exploitation category was also
+confounded by the age of the MPA. Therefore, to                          examined because averages composed of large numbers
+minimize ecological and performance biases across dif-                   of species may exhibit stronger positive responses due to
+ferent studies [72], we calculated a second effect size                  the higher probability of including species that benefit
+(ESDIFF) that consists of the difference between target                  from protection [73].
+(LnRRTP) and non-target (LnRRNT) effect sizes for each                      Analyses were conducted using the software package
+MPA:                                                                     Metawin (v. 2.0: [69]) for calculation of effect size and
+                                                                         within-study variance and in R using the metaphor pack-
+     Effect size difference ESDIFFi ¼ LnRRTPi  LnRRNTi                  age [74] for conducting random-effects meta-analyses.
+                                                                  (Eq.7)
+                                                                         Results
+     Variance ðVarDIFF Þvar ðLnRRTPi  LnRRNTi Þ                         Studies found
+                                     pﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ pﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ        The electronic database search identified 4581 poten-
+        ¼ varTPi þ varNTi  2r varTPi varNTi                      ðEq:8Þ
+                                                                         tially relevant articles. After the title inclusion stage, 675
+                                                                         articles were retained with an additional 198 articles
+                                                                         from internet searches. After the abstract inclusion stage
+[57] where ESDIFFi is the effect size difference for MPAi,               298 articles were included with an additional 75 articles
+varTPi and varNTi are the variance for target-protected                  from organizational searches and bibliographies. At full
+and non-target species for MPAi and r is the correlation                 text a total of 62 studies were found to be relevant and
+coefficient (rho = 0, 0.5, 1).                                           provided data for inclusion in the meta-analysis. Many
+   The within-MPA effect size (ESDIFFi ) was used to esti-               studies were not included in the review because the
+mate a summary effect size across the different MPAs to                  studies lacked an adequate comparator (i.e. an open ac-
+determine if there were significant differences in the                   cess area for PPA vs. Open comparison, and a partially
+magnitude of response between different exploitation                     protected MPA for NTR vs. PPA comparison), or studies
+categories. Only the TP and NT categories for fish density,              compared no-take areas with open access areas only.
+biomass and length provided a big enough sample size for                 Studies were excluded from full text inclusion when the
+formal significance testing. Results from the two approaches             ‘protection regime’ (i.e. the activities prohibited and/or
+were cross-checked and discussed when different.                         allowed) within the MPA were not described clearly in
+
+Sciberras et al. Environmental Evidence 2013, 2:4                                                                                          Page 9 of 31
+http://www.environmentalevidencejournal.org/content/2/1/4
+                                                             Initial search
+                                                                 4581
+                               198 articles
+                                                                                                              3906 articles
+                               relevant from                  Title inclusion
+                                                                                                              not relevant to
+                               internet
+                                                                                                              the SR
+                               searches                        675 articles
+                                                                                                              questions
+                             Organizational
+                             searches and                   Abstract inclusion
+                             bibliographies
+                             found in search                   298 articles
+                             75 articles
+                                                            Full text inclusion                                311 articles
+                                                                                                               not relevant
+                                                                62 articles
+                                67 MPA case-studies                                                 32 MPA case-studies
+                                to evaluate                                                         to evaluate
+                                    PPA vs. Open                                                       NTR vs. PPA
+ Figure 1 Flowchart of the process for identifying the articles and studies relevant to the review questions.
+the study, such that it was difficult to decide whether                 protection on both fish and invertebrate populations
+the MPA was a NTR or a PPA. The full list of studies                    (Figure 4A). The majority of MPAs were based on
+and reason/s as to why the study was excluded from the                  control-impact studies sampled only once (39%, n = 30)
+review at the full text stage are given in Additional file 4.           or on multiple occasions (34%, n = 26). BACI data were
+The 62 studies retained at full text assessment provided                presented for 18% (n = 14) of the MPAs, however 64%
+data on fish or invertebrate population measures for 77                 (n = 9) of these MPAs were from the same study [59],
+MPAs, of which 65 MPAs were used to assess partial                      and thus subject to selection/performance bias. Only 2
+protection over no protection and 26 MPAs were used
+to compare the effect of full protection over partial pro-
+                                                                                               35
+tection (Figure 1).
+                                                                                               30                               PPA vs. Open
+Description of studies used in PPA vs. Open analysis                                                                            NTR vs. PPA
+                                                                              Number of MPAs
+                                                                                               25
+The majority of the PPAs were based in North America
+(45%) and Europe (29%) (Figure 2). PPA age at the time                                         20
+of study ranged between 1 and 61 years; the modal age                                          15
+was 4 years. The size of the PPA ranged between 0.14
+and 11980 km2; 24% (n = 13) were smaller than 2 km2,                                           10
+whereas 32% (n = 16) were larger than 50 km2. Studies                                          5
+of PPAs in soft sediment were under-represented
+                                                                                               0
+compared to those carried out on hard substrata, and
+coral reefs were the most studied habitats (Figure 3). In
+total, 49 MPAs provided data on fish species, and 25
+                                                                          Figure 2 Distribution of MPAs included in the systematic
+MPAs for invertebrate species. Density and biomass
+                                                                          review synthesis.
+were the most common measures for assessment of
+
+Sciberras et al. Environmental Evidence 2013, 2:4                                                                                             Page 10 of 31
+http://www.environmentalevidencejournal.org/content/2/1/4
+                   30
+                                                                                               between 2 and 25 years. The size of the NTR ranged be-
+                                                                                               tween 0.13 and 74 km2 and that for the PPA between
+                                                                    PPA vs. Open
+                   25                                                                          4.5 and 609.95 km2. 44% (n = 8) of the studies for which
+                                                                    NTR vs. PPA
+                                                                                               the area of the NTR and the PPA were available, the size
+  Number of MPAs
+                   20
+                                                                                               of the NTR was less than 10% that of the PPA. The
+                   15                                                                          NTR was larger than the PPA for only 2 MPAs. All stud-
+                                                                                               ies were conducted on coral reefs, seagrass meadows or
+                   10                                                                          rocky reefs (Figure 3). In total, 20 MPAs provided data
+                   5
+                                                                                               on fish species, and 14 MPAs for invertebrate species.
+                                                                                               Density and biomass were the most common measures
+                   0                                                                           for assessment of protection on fish, whereas density
+                                                                                               was most studied for invertebrate populations (Figure 4B).
+                                                    Habitat                                    The majority of MPAs were based on after control-
+ Figure 3 Distribution of habitat types for the MPA case-studies                               impact studies sampled only once (31%, n = 10) or on
+ included in the systematic review synthesis.                                                  multiple occasions (59%, n = 19). BACI data were
+                                                                                               presented only for 2 MPAs. Most studies were based on
+MPAs presented before-after data. Most studies were                                            underwater visual transects (fish studies: 63%, n = 15;
+based on underwater visual transects (fish studies: 75%,                                       invertebrate studies: 69%, n = 9), the remaining studies
+n = 38; invertebrate studies: 48%, n = 12). Experimental                                       used point count methods such as stationary UVC,
+trawl hauls were the second most common method used                                            quadrats and baited underwater video camera. The full
+for fish studies (18%, n = 9), whereas point count                                             details on MPA characteristics, survey design and
+methods that included techniques like baited pots, grabs                                       methodology, and taxa (fish, invertebrate) and metrics
+and photographic techniques were the second most                                               (density, biomass, length, species richness) measured for
+common method (36%, n = 9) for invertebrate studies.                                           each MPA are given in Tables 2a and 2b in Additional
+The full details on PPA characteristics, survey design                                         file 5.
+and methodology, and taxa (fish, invertebrate) and
+metrics (density, biomass, length, species richness)
+measured for each PPA are given in Tables 1a and 1b in                                         Quantitative synthesis / Meta-analysis
+Additional file 5.                                                                             MPA-level analyses: Comparison of partial protection vs. no
+                                                                                               protection
+Description of studies used in NTR vs. PPA analysis                                     Fish density and biomass Overall, fish density and bio-
+The majority of MPAs (50%) were based in Europe, the                                    mass were significantly higher inside the PPA than in the
+remaining MPAs were mainly found in Australia and                                       Open area. Fish density was on average 1.4 times higher
+New Zealand (27%) (Figure 2). These MPAs were com-                                      within PPA boundaries (weighted summary effect size,
+monly characterized by a zonation scheme, consisting                                    
+                                                                                        LnRR = 0.33, confidence interval (CI) = 0.04 → 0.63) and
+of a no-take area where all extractive activities are                                   biomass was 1.54 times greater in PPA than in open access
+prohibited and an adjacent buffer zone or partially                                     areas (LnRR = 0.43, CI = 0.26 → 0.61). However, when the
+protected area where some but not all extractive activ-                                 analysis was repeated excluding studies that reported an
+ities are prohibited. MPA age at the time of study ranged                               effect of habitat on the assessment of PPA efficacy (4/21
+                                         45   (A)    PPA vs. Open                                        (B)   NTR vs. PPA
+                                                                                                    45
+                                         40                                                         40                       Fish
+                        Number of MPAs
+                                         35                                                                                  Invertebrates
+                                                                                   Number of MPAs
+                                                                                                    35
+                                         30                                                         30
+                                         25                                                         25
+                                         20                                                         20
+                                         15                                                         15
+                                         10                                                         10
+                                         5                                                          5
+                                         0                                                          0
+ Figure 4 Distribution of outcomes measured for fish and invertebrate species for the studies comparing (A) a partially protected area
+ to an open access area (PPA vs. Open) and (B) a no-take reserve to a partially protected area (NTR vs. PPA).
+
+Sciberras et al. Environmental Evidence 2013, 2:4                                                                                         Page 11 of 31
+http://www.environmentalevidencejournal.org/content/2/1/4
+for density, Figure 5; 3/21 for biomass, Figure 6), the effect                  our datasets (density: Q = 893.68, df = 20, p < 0.0001;
+size for fish density was reduced from 1.4 to 1.22 times                        biomass: Q = 81.87, df = 20, p < 0.0001) (Figure 5, Figure 6).
+higher inside the PPA and was barely significant              ( LnRR =         Several potential effect modifiers were tested in an attempt
+0 · 22, CI = 0.02 → 0.39). This indicates a weaker overall re-                  to explain the variability in effect sizes between studies.
+sponse of density to protection when only those MPAs                               To examine whether the response to protection was
+with no habitat confounding effect were taken into ac-                          influenced by the type of fishing activities prohibited and
+count. On the other hand, the overall response for fish                         permitted within the PPA, we conducted a categorical
+biomass did not change (           LnRR = 0.41, CI = 0.21 → 0.61)              meta-analysis for the effect of ‘protection regime’ on fish
+when the ‘habitat-confounded’ studies were removed. The                         assemblage. Of the six comparisons between PPAs and
+prediction interval indicated a large range of effect sizes                     Open areas (three types of protection regime for each of
+(Prediction interval (PI) for density = −0.89 → 1.57,                           density and biomass) only one (biomass for the ‘discrim-
+Figure 5; PI for biomass = −0.15 → 1.02, Figure 6). Hence,                      inate, commercial’ DC category) showed significantly
+the meta-analysis suggests that in general PPAs increase                        higher biomass inside the PPA relative to the Open area
+fish density and biomass compared to Open areas but,                            (Figure 7). Comparison of the response to partial protec-
+there is a 29% and 19% possibility of finding lower fish                        tion among the three protection regime categories
+density and biomass, respectively, in the PPA relative to                       examined was not significantly different for fish assemblage
+the Open area.                                                                  density (sensitivity analysis: QM = 0.63, df = 3, p = 0.73) or
+   There was significant heterogeneity in the response                          biomass (sensitivity analysis: QM = 2.01, df = 3, p = 0.37).
+of fish assemblages to protection among PPAs in                                 We emphasize however, that the results for this effect
+                        MPA name                                                                               Ln(RR) [95% CI]
+                        Arraial de Cabo                                                                      0.36 [ −0.76 , 1.49 ]
+                        Sugar Loaf Island PPA                                                                 1.41 [ 1.30 , 1.52 ]
+                        Sugar Loaf Island FCA                                                                 1.44 [ 1.28 , 1.60 ]
+                        Virgin Island CRNM                                                                 −0.08 [ −0.12 , −0.03 ]
+                        CA−II                                                                               −0.14 [ −0.43 , 0.15 ]
+                        25nm FMZ                                                                             1.10 [ −0.02 , 2.22 ]
+                        Off Northeast coast                                                                  0.33 [ −0.11 , 0.77 ]
+                        Langanesgrunn                                                                       −0.16 [ −0.48 , 0.15 ]
+                        Northeast of Horn                                                                    0.61 [ −0.04 , 1.26 ]
+                        CA−I                                                                                 0.47 [ −0.26 , 1.20 ]
+                        Mimiwhangata MP                                                                      0.00 [ −0.56 , 0.57 ]
+                        Scandola PPA                                                                        −0.07 [ −0.15 , 0.01 ]
+                        Tabarca Island BZ                                                                     0.38 [ 0.03 , 0.72 ]
+                        Kealakekua Bay MLCD                                                                 −0.62 [ −1.70 , 0.45 ]
+                        Pupukea MLCD                                                                         0.29 [ −1.51 , 2.09 ]
+                        La Jolla ER                                                                         −0.34 [ −0.96 , 0.29 ]
+                        TMPA − PPA2                                                                          0.15 [ −0.15 , 0.45 ]
+                        TMPA − PPA1                                                                          0.19 [ −0.10 , 0.47 ]
+                        Virgin Island NP                                                                     0.28 [ −0.01 , 0.57 ]
+                        Jurien Bay MP                                                                         0.60 [ 0.18 , 1.03 ]
+                        Barbados MR                                                                           0.63 [ 0.46 , 0.81 ]
+                        Summary effect with PI                                                                0.33 [ 0.04 , 0.63 ]
+                                                    −2.48      −1.11       0.26       1.63         3
+                                                                   Ln(Response Ratio)
+  Figure 5 Forest plot of fish assemblage effect sizes based on density data in the PPA and the Open area. Each row represents a paired
+  PPA-Open comparison. The first top four PPAs (separated by a spacer from the other PPAs) were excluded from the sensitivity analysis, due to
+  habitat confounding effect. The vertical dotted line at LnRR = 0 represents equal fish density inside and outside of the PPA;  LnRR > 0 means
+  more fish inside the PPA;  LnRR < 0 means fewer fish in the PPA. The squares are the effect size for each PPA, the error bars are the 95%
+  confidence interval for each PPA, whose values are given on the right hand side of the figure. The size of each square is proportional to the
+  weight of the study. Summary effect: the diamond represents the weighted mean calculated from the random effects meta-analysis of all MPAs
+  included in the main analysis, the width of the diamond is proportional to the estimation in the error of the mean (95% CI) and the horizontal
+  dotted line is the prediction interval were 95% of true effects are predicted to occur.
+
+Sciberras et al. Environmental Evidence 2013, 2:4                                                                                       Page 12 of 31
+http://www.environmentalevidencejournal.org/content/2/1/4
+                        MPA name                                                                 Ln(Response Ratio) [95% CI]
+                        Italcomis Reef MUZ                                                                −0.09 [ −0.90 , 0.72 ]
+                        Virgin Island CRNM                                                                   0.25 [ 0.18 , 0.33 ]
+                        Mtang'ata CFMZ                                                                       1.72 [ 1.09 , 2.35 ]
+                        CA−II                                                                             −0.03 [ −0.58 , 0.53 ]
+                        CA−I                                                                                0.47 [ −0.04 , 0.97 ]
+                        Cerbere−Banyuls MNR                                                                 0.25 [ −0.14 , 0.64 ]
+                        25nm FMZ                                                                          −0.47 [ −1.34 , 0.39 ]
+                        Virgin Island NP                                                                    0.30 [ −0.04 , 0.65 ]
+                        Waialea Bay MLCD                                                                     0.60 [ 0.10 , 1.10 ]
+                        Lapakahi MLCD                                                                        0.47 [ 0.17 , 0.77 ]
+                        Old−Kona Airport MLCD                                                                0.38 [ 0.08 , 0.67 ]
+                        Manele−Hulopoe MLCD                                                                 0.18 [ −0.31 , 0.67 ]
+                        Molokini Shoal MLCD                                                                  1.89 [ 1.44 , 2.35 ]
+                        Kealakekua Bay MLCD                                                                 0.14 [ −1.69 , 1.98 ]
+                        Pupukea MLCD                                                                        1.56 [ −0.86 , 3.99 ]
+                        Scandola PPA                                                                        0.09 [ −2.33 , 2.51 ]
+                        La Jolla ER                                                                         0.66 [ −0.41 , 1.74 ]
+                        Jurien Bay MP                                                                     −0.33 [ −1.48 , 0.81 ]
+                        TMPA − PPA2                                                                         0.27 [ −0.03 , 0.57 ]
+                        TMPA − PPA1                                                                          0.26 [ 0.05 , 0.46 ]
+                        Ahus Island TA                                                                       0.48 [ 0.20 , 0.76 ]
+                        Summary effect with prediction interval                                              0.43 [ 0.26 , 0.61 ]
+                                                    −3.6      −1.39      0.82       3.04       5.25
+                                                                 Ln(Response Ratio)
+  Figure 6 Forest plot of fish assemblage effect sizes based on biomass data in the PPA and the Open area. Each row represents a paired
+  PPA-Open comparison. The first top three PPAs (separated by a spacer from the other PPAs) were excluded from the sensitivity analysis, due to
+  habitat confounding effect. The vertical dotted line at 
+                                                          LnRR = 0 represents equal fish biomass inside and outside of the PPA;  LnRR > 0 means
+  higher biomass inside the PPA;   LnRR < 0 means lower biomass in the PPA. The squares are the effect size for each MPA, the error bars are the
+  95% confidence interval for each PPA, whose values are given on the right hand side of the figure. The size of the square is proportional to the
+  weight assigned to the study via the within-study variance. Summary effect: the diamond represents the weighted mean calculated from the
+  random effects meta-analysis of all MPAs included in the main analysis, the width of the diamond is proportional to the estimation in the error of
+  the mean and the horizontal dotted line is the prediction interval were 95% of true effects are predicted to occur.
+modifier on fish assemblage data should be interpreted with                   of Ln(RR) on log size of PPA = −0.17; SE = 0.06, p = 0.009)
+caution owing to the small number of PPA case-studies                         (Table 3). The relationship was still significant when
+within each category, which reduces the robustness of the                     ‘habitat-confounded’ studies were removed from the
+average effect size.                                                          analysis. None of the other effect modifiers (i.e. PPA age,
+   MPA age and the size of the PPA were not significantly                     census area, distance to PPA) explained any of the
+related to the effect size for fish assemblage density                        between-study variability for fish assemblage biomass when
+(Table 2). The difference in the survey methodology                           ‘habitat-confounded’ studies were excluded (Table 3).
+represented here by the total area surveyed was not a sig-
+nificant effect modifier (Table 2). A positive significant rela-
+tionship was found between effect size and the distance of                    Fish diversity The average effect of partial protection on
+the control area from the PPA boundary (Table 2), which                       fish species richness was not significantly different from
+suggested a 28% increase in effect size for every 1 km in-                    zero (D = 2.08, CI = −3.54 → 7.69), and this effect was
+crease in distance between the control area and the PPA.                      homogeneous among the included studies (Q = 0.88, df = 9,
+However this relationship became non-significant when the                     p = 0.99).
+analysis was repeated excluding the habitat-confounded
+PPAs (Table 2).
+   The response to protection for fish assemblage biomass                     Invertebrates: density, biomass, diversity The small
+was found to be negatively correlated to the size of the                      number of studies investigating the effectiveness of PPAs
+PPA, such that effect size (partial:open) decreased by 17%                    relative to Open areas precluded us from examining the in-
+for every ten-fold increase in PPA size (slope of regression                  fluence of protection on invertebrate assemblages (density:
+
+Sciberras et al. Environmental Evidence 2013, 2:4                                                                                                  Page 13 of 31
+http://www.environmentalevidencejournal.org/content/2/1/4
+                                            IdC                                                            (3)
+                                  Biomass
+                                            DC                                                                         (13)
+                                            DR                                                                           (2)
+                                            IdC                                                      (6)
+                                  Density
+                                            DC                                                       (8)
+                                            DR                                                                   (3)
+                                                  −1.0        −0.5    0.0       0.5        1.0                                 1.5
+                                                              Ln Response Ratio (partial:open)
+  Figure 7 Mean response ratio       ( LnRR ) based on density and biomass data in the partially protected area and the open access area
+  (partial:open) for each ‘protection regime’ category (IdC: Indiscriminate, commercial; DC: discriminate, commercial; DR: discriminate,
+  recreational). Results are shown for the entire fish assemblage. Sample size (i.e. the number of MPAs) for each ratio is shown in parentheses. The
+  vertical dotted line at 
+                          ( LnRR ) = 0 represents equal fish density or biomass inside and outside of the PPA; 
+                                                                                                               ( LnRR ) > 0 means more fish inside the
+  PPA; ( LnRR ) < 0 means fewer fish in the PPA.
+5 studies; biomass: 4 studies; species number: 5 studies)                          but the difference was not significant, whether the ‘habitat-
+(see Additional file 5 for a list of these studies).                               confounded’ studies were removed from the full dataset
+                                                                                   or not (main analysis:    LnRR = 0.1, CI = −0.15 – 0.36)
+MPA-level analyses: Comparison of full vs. partial                                 (Figure 8). Conversely, fish assemblage biomass was
+protection                                                                         on average 1.92 times higher in NTRs than PPAs    ( LnRR =
+Fish density and biomass Fish assemblage density was                               0.65, CI = 0.25 → 1.06) (Figure 9), even when the ‘habitat-
+on average 1.11 times higher in NTRs relative to PPAs,                             confounded’ study was excluded. The prediction interval
+Table 2 Summary of the weighted simple random-effects regression models for each of the four moderator variables
+on fish assemblage density effect size
+All MPA case-studies included
+Moderator variable                                  No MPAs                              Slope [95% CI]                                    QM, p-val
+MPA age (year)                                           21                              −0.001 [−0.03 → 0.03]                             QM = 0.007, p = 0.94
+                 2
+Log10 (size) (km )                                       21                              −0.002 [−0.24 → 0.23]                             QM = 0.0004, p = 0.98
+Log10(census area) (m2)                                  19                              −0.005 [−0.31 → 0.30]                             QM = 0.001, p = 0.97
+Min. Distance (km)                                       19                              0.28 [0.18 → 0.37]                                QM = 31.59, p < 0.0001
+Sensitivity analysis; habitat confounded studies excluded
+Min. Distance (km)                                       15                              −0.23 [−0.65 → 0.19]                              QM = 1.17, p = 0.28
+Data under sensitivity analysis is given only for the moderator variable which showed a considerably different result from when all studies were included.
+
+Sciberras et al. Environmental Evidence 2013, 2:4                                                                                                   Page 14 of 31
+http://www.environmentalevidencejournal.org/content/2/1/4
+Table 3 Summary of the weighted simple random-effects regression models for each of the four moderator variables
+on fish assemblage biomass effect size
+All MPA case-studies included
+Moderator variable                                    No MPAs                           Slope [95% CI]                                     QM, p-val
+MPA age (year)                                           21                             0.004 [−0.007 → 0.02]                              QM = 0.49, p = 0.49
+                 2
+Log10 (size) (km )                                       20                             −0.17 [−0.27 → 0.06]                               QM = 9.28, p = 0.002
+Log10(census area) (m2)                                  18                             −0.26 [−0.52 → 0.004]                              QM = 3.73, p = 0.05
+Min. Distance (km)                                       18                             0.05 [0.02 → 0.09]                                 QM = 11.59, p = 0.0007
+Sensitivity analysis; habitat confounded studies excluded
+Log10 (size) (km2)                                       18                             −0.17 [−0.29 → −0.04]                              QM = 6.78, p = 0.01
+Log10(census area) (m ) 2
+                                                         15                             −0.24 [−0.51 → 0.03]                               QM = 3.13, p = 0.08
+Min. Distance (km)                                       15                             −0.13 [−0.31 → 0.06]                               QM = 1.82, p = 0.18
+Data under sensitivity analysis is given only for the moderator variable which showed considerable different result from when all studies were included.
+for both measures overlapped zero (Prediction interval (PI)                          an increase inside the NTR relative to the PPA by as
+for density = −0.27 → 0.27, Figure 8; PI for biomass =                               much as 4 times.
+−0.12 → 1.42, Figure 9) and suggest that a new MPA                                      Between-study heterogeneity was significant for fish
+might have lower or higher density inside the NTR                                    density (Q = 98.62, df = 8, p < 0.0001), as well as for
+than in the PPA. Fish biomass, however, may show                                     biomass (Q = 20.83, df = 5, p = 0.0009). However, the
+                            NTR vs. PPA                                                                              Ln(RR) [95% CI]
+                          Kisite MNP vs. Mpunguti MNR                                                                 0.77 [ 0.61 , 0.93 ]
+                          Mayor Island NTMR vs. RFA                                                                  0.16 [ −0.08 , 0.40 ]
+                          Scandola IR vs. PPA                                                                     −0.12 [ −0.23 , −0.01 ]
+                          Capraia Is zone 1 vs. zone 2                                                             −0.06 [ −0.21 , 0.09 ]
+                          Laguna ER vs. La Jolla ER                                                                   0.56 [ 0.00 , 1.11 ]
+                          Ustica Island IR vs. PR                                                                  −0.31 [ −0.75 , 0.12 ]
+                          Ustica Island IR vs. GR                                                                  −0.20 [ −0.60 , 0.21 ]
+                          Jurien Bay SZ vs. RZ                                                                     −0.08 [ −0.62 , 0.46 ]
+                          Giannutri Island HPA vs. LPA                                                                0.17 [ 0.01 , 0.33 ]
+                          Summary effect with PI                                                                     0.10 [ −0.15 , 0.36 ]
+                                                        −1.13       −0.47       0.18      0.84         1.49
+                                                                        Ln(Response Ratio)
+  Figure 8 Forest plot of fish population effect sizes based on density data in the NTR and the PPA. Each row represents a paired NTR-PPA
+  comparison. The top two MPAs (separated by a spacer from the other MPAs) were excluded from the sensitivity analysis, due to habitat
+  confounding effect. The vertical dotted line at      LnRR = 0 represents equal fish density in the NTR and PPA;      LnRR > 0 means more fish inside the
+  NTR;   LnRR < 0 means fewer fish in the NTR. The squares are the effect size for each MPA, the error bars are the 95% confidence interval for each
+  MPA, whose values are given on the right hand side of the figure. Summary effect: the diamond represents the weighted mean calculated from
+  the random effects meta-analysis, the width of the diamond is proportional to the estimation in the error of the mean and the horizontal dotted
+  line is the prediction interval were 95% of true effects are predicted to lie.
+
+Sciberras et al. Environmental Evidence 2013, 2:4                                                                                       Page 15 of 31
+http://www.environmentalevidencejournal.org/content/2/1/4
+                         NTR vs. PPA                                                                        Ln(RR) [95% CI]
+                        Italcomis Reef NTZ vs. MUZ                                                         0.12 [ −0.58 , 0.82 ]
+                        Scandola IR vs. PPA                                                                 1.58 [ 0.29 , 2.86 ]
+                        Laguna ER vs. La Jolla ER                                                          0.25 [ −0.41 , 0.92 ]
+                        Jurien Bay SZ vs. RZ                                                              −0.34 [ −1.20 , 0.52 ]
+                        Tavolara IR vs. GR                                                                  1.04 [ 0.76 , 1.32 ]
+                        Tavolara IR vs. PR                                                                  1.05 [ 0.87 , 1.24 ]
+                        Summary effect with PI                                                              0.65 [ 0.25 , 1.06 ]
+                                                    −2.01     −0.59       0.83       2.25       3.67
+                                                                  Ln(Response Ratio)
+  Figure 9 Forest plot of fish assemblage effect sizes based on biomass data in the NTR and the PPA. Each row represents a paired NTR-
+  PPA comparison. Italcomis Reef NTZ vs. MUZ was excluded from the sensitivity analysis due to habitat confounding effect. The vertical dotted line
+  at LnRR = 0 represents equal fish density in the NTR and PPA;   LnRR > 0 means more fish inside the NTR; LnRR < 0 means fewer fish in the NTR.
+  The squares are the effect size for each MPA, the error bars are the 95% confidence interval for each MPA, whose values are given on the right
+  hand side of the figure. Summary effect: the diamond represents the weighted mean calculated from the random effects meta-analysis, the
+  width of the diamond is proportional to the estimation in the error of the mean and the horizontal dotted line is the prediction interval were
+  95% of true effects are predicted to lie.
+small number of studies (9 for density and 6 for                               than zero). However, when the analysis was repeated ex-
+biomass) precluded further meta-analysis for examin-                           cluding habitat-confounded’ studies, there was no signifi-
+ing the effect of MPA age, the size ratio of the NTR to                        cant effect of protection for non-target species
+the PPA and the distance between the NTR and PPA                               (Table 4b, note that CI for non-target species overlaps
+on the response of fish assemblages to full protection.                        zero). In terms of biomass, the response for TP species
+                                                                               was on average 1.5 times higher inside the PPA than
+Fish diversity The average effect of full over partial pro-                    outside, whereas that of TNP and NT species did not
+tection on fish species richness was not significantly differ-                 differ significantly inside and outside of the PPA
+ent from zero (D = −0.45, CI = −2.81 → 1.91), and this effect                  (Table 5). When the analyses were re-run under different
+was homogeneous among the included studies (Q = 1.88,                          scenarios of correlation coefficients among species
+df = 8, p = 0.97).                                                             (rho = 0, 0.2, 0.5, 0.8, 1) similar trends for the direction
+                                                                               of protection effect were obtained, in spite of some
+Invertebrates: density, biomass, diversity The small                           differences in the magnitude of effect for TNP and NT
+number of studies investigating the effectiveness of NTRs                      categories (Tables 4, 5).
+relative to PPAs precluded us from examining the influence                     In spite of some significant differences in density and
+of full protection on invertebrate assemblages (density: 1                     biomass between the protected and open access areas,
+study; biomass: 0; species richness: 3 studies).                               the magnitude of response to protection was not signifi-
+                                                                               cantly different among the three ‘exploitation status’ cat-
+Species-level analysis: Comparison of partial protection vs.                   egories (TP, TNP, NT) (sensitivity analysis for density:
+no protection                                                                  QM = 3.98, df = 2, p = 0.14; sensitivity analysis for bio-
+Fish density and biomass Target and non-target fish                            mass: QM = 0.15, df = 2, p = 0.93). To minimize the eco-
+species had significantly higher density inside PPAs than                      logical and performance biases across different studies,
+in Open areas (Table 4a, note that all CIs are greater                         we calculated a second effect size (ESDIFF) that consisted
+
+Sciberras et al. Environmental Evidence 2013, 2:4                                                                                                     Page 16 of 31
+http://www.environmentalevidencejournal.org/content/2/1/4
+Table 4 The response to protection                 ( LnRR [95% CI]) for each ‘exploitation status’ category (target-protected [TP],
+target-not protected [TNP] and non-target [NT]), using density data
+                               (a) All MPA case-studies included                              (b) Sensitivity analysis; habitat confounded studies excluded
+                         TP                       TNP                        NT                      TP                       TNP                        NT
+                       N = 29                    N=5                      N = 10                   N = 27                    N=5                       N=8
+rho = 0          0.47 [0.22 → 0.72]      0.78 [0.18 → 1.38]        0.57 [0.17 → 0.97]        0.41 [0.21 → 0.61]       0.76 [0.30 → 1.22]        0.21 [−0.12 → 0.54]
+rho = 0.2        0.47 [0.21 → 0.73]      0.81 [0.17 → 1.46]        0.59 [0.16 → 1.04]        0.41 [0.20 → 0.61]       0.80 [0.32 → 1.28]        0.19 [−0.19 → 0.56]
+rho = 0.5        0.47 [0.20 → 0.74]      0.85 [0.17 → 1.52]        0.64 [0.17 → 1.12]        0.41 [0.20 → 0.62]       0.85 [0.34 → 1.35]        0.18 [−0.23 → 0.60]
+rho = 0.8        0.47 [0.20 → 0.75]      0.87 [0.17 → 1.57]        0.68 [0.18 → 1.17]        0.41 [0.20 → 0.63]       0.88 [0.36 → 1.41]        0.19 [−0.26 → 0.63]
+rho = 1          0.47 [0.19 → 0.75]      0.89 [0.18 → 1.60]        0.70 [0.20 → 1.20]        0.41 [0.20 → 0.63]       0.90 [0.36 → 1.44]        0.19 [−0.27 → 0.65]
+Results where different correlation coefficients (rho = 0, 0.2, 0.5, 0.8, 1) among individual species responses were used to compute the within-study sampling
+variance are given on separate rows. The summary effect size and 95% CI are given for analysis using (a) all PPA case-studies, and (b) excluding PPAs with habitat
+confounded effects. N represents the number of PPAs for each exploitation category.                                                    < 0 means fewer fish in the
+                                                                                            LnRR > 0 means more fish inside the PPA; LnRR
+PPA. When the CI overlaps 0 it implies a non-significant difference between PPA and non-protected area.
+Table 5 The response to protection (                  LnRR , [95% CI]) for each ‘exploitation status’ category (target-protected [TP],
+target-not protected [TNP] and non-target [NT]), using biomass data
+                                (a) All MPA case-studies included                              (b) Sensitivity analysis; habitat confounded studies excluded
+                         TP                       TNP                         NT                      TP                      TNP                        NT
+                      N = 12                     N=5                        N=7                     N = 10                    N=5                      N=6
+rho = 0         0.35 [0.12 → 0.59]       0.43 [0.07 → 0.79]        0.18 [−0.14 → 0.50]        0.42 [0.18 → 0.67]       0.43 [0.07 → 0.79]       0.23 [−0.10 → 0.56]
+rho = 0.2       0.38 [0.12 → 0.64]       0.42 [0.03 → 0.80]        0.22 [−0.16 → 0.60]        0.44 [0.17 → 0.71]       0.42 [0.04 → 0.80]       0.29 [−0.11 → 0.69]
+rho = 0.5       0.40 [0.11 → 0.69]      0.40 [−0.02 → 0.82]        0.26 [−0.17 → 0.68]        0.45 [0.15 → 0.76]      0.40 [−0.02 → 0.81]       0.35 [−0.10 → 0.80]
+rho = 0.8       0.40 [0.09 → 0.72]      0.38 [−0.07 → 0.82]        0.28 [−0.18 → 0.74]        0.46 [0.13 → 0.80]      0.38 [−0.06 → 0.82]       0.39 [−0.10 → 0.88]
+rho = 1         0.41 [0.08 → 0.74]      0.37 [−0.09 → 0.83]        0.29 [−0.18 → 0.77]        0.47 [0.12 → 0.82]      0.37 [−0.09 → 0.82]       0.41 [−0.10 → 0.92]
+Results where different correlation coefficients (rho = 0, 0.2, 0.5, 0.8, 1) among individual species responses were used to compute the within-study sampling
+variance are given on separate rows. The summary effect size and 95% CI are given for analysis using (a) all PPA case-studies, and (b) excluding PPAs with habitat
+confounded effects. N represents the number of PPAs for each exploitation category. Ln(RR) > 0 means more fish inside the PPA; Ln(RR) < 0 means fewer fish in
+the PPA. When the CI overlaps 0 it implies a non-significant difference between PPA and non-protected area.
+Table 6 The difference in the magnitude of response to protection (ESDIFF) between target-protected [TP] and non-
+target [NT] species for density data
+                     (a) All MPA case-studies included (N = 9)                      (b) Sensitivity analysis; habitat confounded studies excluded (N = 7)
+                  ESDIFF           95% CI             Z-val          p-val           ESDIFF                   95% CI                   Z-val               p-val
+rho = 0           −0.32         −0.72 → 0.08          −1.55          0.12            −0.09                 −0.37 → 0.19                −0.64                0.52
+rho = 0.5         −0.29         −0.69 → 0.11          −1.42          0.15            −0.08                 −0.37 → 0.22                −0.52                0.60
+rho = 1           −0.25         −0.56 → 0.06          −1.60          0.11            −0.03                 −0.28 → 0.22                −0.23                0.82
+Studies were weighted by the variance of the difference between two correlated variables (correlation coefficients of rho = 0, 0.5, 1). The ESDIFF, 95% confidence
+interval, Z-val and p-val are given for (a) all PPA case-studies that provided data for both categories and (b) for PPAs with no habitat confounded effect. N
+represents the number of PPAs included in the analysis.
+Table 7 The difference in the magnitude of response to protection (ESDIFF) between target-protected and non-target
+species for biomass data
+                     (a) All MPA case-studies included (N = 6)                      (b) Sensitivity analysis; habitat confounded studies excluded (N = 5)
+                  ESDIFF            95% CI            Z-val          p-val           ESDIFF                   95% CI                   Z-val               p-val
+rho = 0            0.04          −0.56 → 0.64          0.13          0.89             0.008                −0.67 → 0.69                 0.02                0.98
+rho = 0.5          0.13          −0.48 → 0.74          0.41          0.67             0.10                 −0.60 → 0.80                 0.27                0.79
+rho = 1            0.19          −0.15 → 0.53          1.09          0.27             0.16                 −0.23 → 0.55                 0.81                0.42
+Studies were weighted by the variance of the difference between two correlated variables (correlation coefficients of rho = 0, 0.5, 1). The ESDIFF, 95% confidence
+interval, Z-val and p-val are given for (a) all PPA case-studies that provide data for both categories and (b) for PPAs with no habitat confounded effect. N
+represents the number of PPAs included in the analysis.
+
+Sciberras et al. Environmental Evidence 2013, 2:4                                                                                       Page 17 of 31
+http://www.environmentalevidencejournal.org/content/2/1/4
+                                             IdC                                                     (4)
+                                   Biomass
+                                             DC                                                (7)
+                                             DR                                                               (6)
+                                             IdC                                               (11)
+                                   Density
+                                             DC                                                                     (8)
+                                             DR                                                                           (6)
+                                                   −1.0          −0.5       0.0          0.5          1.0                 1.5
+                                                                     Ln Response Ratio (partial:open)
+  Figure 10 Mean response ratio      ( LnRR ) based on density and biomass data for target species in the partially protected area and the
+  open access area (partial:open) for each ‘protection regime’ category (IdC: Indiscriminate, commercial; DC: discriminate, commercial;
+  DR: discriminate, recreational). Sample size (i.e. the number of MPAs) for each ratio is shown in parentheses. The vertical dotted line at
+  
+  ( LnRR) = 0 represents equal fish density or biomass inside and outside of the MPA; 
+                                                                                      ( LnRR ) > 0 means more fish inside the PPA; 
+                                                                                                                                   ( LnRR) < 0 means
+  fewer fish in the PPA.
+of the difference between the average effect size for two                           There was significant heterogeneity in the response of
+exploitation categories. Given that there were too few                            target fish species to protection among MPAs in our
+studies that reported data for species density and biomass                        datasets (density: Q = 112.84, df = 19, p < 0.0001; bio-
+for each of the TNP vs. NT and TP vs. TNP category                                mass: Q = 30.39, df = 12, p = 0.002). Several potential ef-
+combinations, the ESDIFF could only be used to compare                            fect modifiers were tested in an attempt to explain the
+the magnitude of response to protection between TP and                            variability in effect sizes between studies. A categorical
+NT species. We did not find significant differences in the                        meta-analysis was conducted to examine if the response
+magnitude of response to protection between TP and NT                             of target species to protection was influenced by the
+species [effect size difference (ESDIFF) ranged between −0.03                     protection regime of the PPA. Density and biomass were
+and −0.09] whether density (Table 6) or biomass (Table 7)                         significantly greater (on average twice as high) in the
+data were used. This outcome is in agreement with that of                         PPA that allows fishing on a recreational basis or for
+the QM statistic above.                                                           domestic use only (DR) compared to the Open area
+Table 8 Summary of the simple regression models for each of the four moderator variables on target fish biomass
+All MPA case-studies included
+Moderator variable                                        No MPAs                      Slope [95% CI]                               QM, p-val
+MPA age (year)                                              16                         −0.03 [−0.06 → -0.003]                       QM = 4.57, p = 0.03
+Log10 (size) (km2)                                          17                         −0.07 [−0.25 → 0.11]                         QM = 0.60, p = 0.44
+Min. Distance (km)                                          14                         0.007 [−0.05 → 0.06]                         QM = 0.06, p = 0.81
+# species combined                                          16                         −0.02 [−0.09 → 0.05]                         QM = 0.28, p = 0.60
+Similar results were obtained for the sensitivity analysis.
+
+Sciberras et al. Environmental Evidence 2013, 2:4                                                                                       Page 18 of 31
+http://www.environmentalevidencejournal.org/content/2/1/4
+(density (main analysis): LnRRDR = 0.79, CI = 0.21 – 1.37;                    The biomass of target fish species inside the PPA
+LnRRDC = 0.64, CI = 0.12 – 1.17; LnRRIdC = 0.15, CI =                      showed a slight (~3%) but significant reduction relative
+−0.27 – 0.58; Figure 10) (biomass (main analysis):                         to the open access area upon increasing the duration of
+LnRRDR = 0.63, CI = 0.37 – 0.88; LnRRDC = 0.1, CI =                        protection (slope = −0.03, CI = −0.06 – 0.003, Table 8,
+−0.34 – 0.53; LnRRIdC = 0.15, CI = −0.33 – 0.62). Never-                   Figure 11). MPA age did not affect target species density
+theless, the magnitude of response to protection did not                   (Table 9). The response to protection for target species
+differ significantly among the three protection regimes                    biomass (Table 8) and density (Table 9) was not related
+for target species density (QM2,17 = 3.74, p = 0.15), and                  to PPA size. The relationship between effect size and the
+was marginally non-significant for target species biomass                  distance of the open access area to the PPA border was
+(QM2,14 = 5.89, p = 0.05).                                                 not significant for target species in terms of density or
+  Figure 11 The relationship of target species’ response to partial protection (partial:open) with MPA-related parameters (MPA age (yrs),
+  Log PPA size (sq-km), dist). PPA to NP (km) for density and biomass data. Size of the circles is proportional to the weight of the study.
+
+Sciberras et al. Environmental Evidence 2013, 2:4                                                                                           Page 19 of 31
+http://www.environmentalevidencejournal.org/content/2/1/4
+Table 9 Summary of the simple regression models for each of the four moderator variables examined on target fish density
+All MPA case-studies included
+Moderator variable                                    No MPAs                            Slope [95% CI]                                  QM, p-val
+MPA age (year)                                             33                            −0.01 [−0.03 → 0.02]                            QM = 0.57, p = 0.45
+Log10 (size) (km )2
+                                                           24                            −0.20 [−0.44 → 0.03]                            QM = 2.79, p = 0.09
+Min. Distance (km)                                         20                            0.04 [−0.02 → 0.11]                             QM = 1.6, p = 0.21
+# species combined                                         34                            −0.04 [−0.11 → 0.02]                            QM = 1.67, p = 0.20
+Similar results were obtained for the sensitivity analysis.
+biomass (Tables 8, 9). The influence of aggregating effect                        Fish length The influence of protection on fish body size
+sizes across several species to generate an average effect                        (i.e. mean length) was only examined for TP species, as the
+size for each MPA (represented here by the ‘number of                             TNP and NT species categories were under-represented in
+species combined’) was not significantly related to target                        the studies included for this review (see Figure 12). Overall,
+species response to protection (Tables 8, 9). Re-running                          target species length was not significantly different
+the analysis under scenarios of different correlation                             between the partially protected and the open access areas
+coefficients among species (rho = 0, 0.2, 0.5, 0.8, 1) gave                      ( LnRR = 0.02, 95% CI = −0.04 → 0.08, Figure 12).
+a similar result, hence only the result for rho = 0.5 are                            There was considerable variability in the response to
+presented in Tables 8 and 9, and Figure 11.                                       protection for target fish species among the different
+  Figure 12 Forest plot of the fish species effect sizes based on species’ length data in the PPA and the Open area. Studies are grouped
+  by exploitation status (target-protected, target-non-protected, non-target). The weighted summary effect size (represented by the diamond; 0.02
+  [−0.04, 0.08]) is only given for target-protected species, as sample size is too small for robust analysis for the other two categories.
+
+Sciberras et al. Environmental Evidence 2013, 2:4                                                                                          Page 20 of 31
+http://www.environmentalevidencejournal.org/content/2/1/4
+Table 10 Summary of the simple regression models for each of the four moderator variables on target fish length
+All MPA case-studies included
+Moderator variable                                   No MPAs                           Slope [95% CI]                                   QM, p-val
+MPA age (year)                                            11                           −0.005 [−0.01 → 0.004]                           QM = 1.14, p = 0.28
+Log10 (size) (km2)                                        12                           −0.03 [−0.09 → 0.02]                             QM = 1.39, p = 0.24
+Min. Distance (km)                                        12                           0.02 [−0.02 → 0.05]                              QM = 0.94, p = 0.33
+# species combined                                        12                           0.002 [−0.02 → 0.02]                             QM = 0.04, p = 0.84
+Similar results were obtained for the sensitivity analysis.
+PPA case-studies (Q = 80.14, df = 11, p < 0.0001). How-                          taxonomic groups with very different life history and
+ever none of the moderator variables examined (PPA                               ecological characteristics. Hence, the effect of protection
+age, size, distance to control, # of species combined)                           was examined separately for each taxonomic group.
+explained a significant amount of variation in target species                    Replication was sufficient only to assess the effect of
+length effect sizes among MPAs (Table 10).                                       protection on scallops (class: Bivalvia), lobsters (Class:
+                                                                                 Decapoda) and sea urchins (class: Echinoidea).
+Invertebrates: density, biomass, length As the re-                                 Lobsters and scallops that are targeted by fisheries’ out-
+sponse to protection (partial:open) is likely to be                              side the PPA, showed a positive response to partial protec-
+influenced by species characteristics (e.g. growth rate,                         tion, however the response was stronger and more
+larval dispersal potential, adult mobility), it would be in-                     consistent for scallops (Figure 13). In contrast, non-target
+adequate to aggregate data across different invertebrate                         echinoid species generally had smaller density (Figure 13)
+  Figure 13 Forest plot of the response ratio (partial:open) of target and non-target invertebrate density categorized by taxonomic
+  class. The vertical dotted line at   LnRR = 0 represents equal invertebrate density inside and outside of the PPA. The squares are the effect size for
+  each PPA, the error bars are the 95% confidence interval, whose values are given on the right hand side of the figure. The overall weighted mean
+  effect is given by the ‘Summary effect’.
+
+Sciberras et al. Environmental Evidence 2013, 2:4                                                                                                    Page 21 of 31
+http://www.environmentalevidencejournal.org/content/2/1/4
+  Figure 14 Forest plot of the response ratio (partial:open) of target and non-target invertebrate biomass categorized by taxonomic
+  class. The vertical dotted line at   LnRR = 0 represents equal invertebrate density inside and outside of the PPA. The squares are the effect size for
+  each PPA, the error bars are the 95% confidence interval, whose values are given on the right hand side of the figure. The overall weighted mean
+  effect is given by the ‘Summary effect’.
+and biomass (Figure 14) in the PPA relative to the Open                                  this increase was only significant for target species
+area. There were too few studies to investigate the effect                               that are protected inside the no-take reserve but not
+of protection in terms of species body size (i.e. length).                               in the partially protected area, TNP (Table 11). The ef-
+                                                                                         fect of protection on non-target species biomass could
+Species-level analysis: Comparison of full vs. partial                                   not be examined due to insufficient data (Table 11).
+protection                                                                               For density, the overall response to full protection was
+Fish density and biomass On average, the biomass of                                      positive for the two target species categories, but
+target species was higher in NTRs than in PPAs, but                                      negative for non-target species (sensitivity analysis in
+Table 11 The summary effect size                 LnRR and [95% CI] based on biomass data for target-protected [TP] and target-not
+protected [TNP] exploitation categories, weighted by sampling variances
+                              (a) All MPA case-studies included                               (b) Sensitivity analysis; habitat confounded studies excluded
+               Target - protected        Target - non-protected               Non-target       Target - protected        Target - non-protected         Non-target
+                        N=7                          N=7                        N=4                    N=6                        N=4                      N=2
+rho = 0          0.33 [0.05 → 0.61]           0.27 [0.03 → 0.51]                  -             0.35 [0.06 → 0.63]                  -                         -
+rho = 0.2        0.30 [0.01 → 0.58]           0.28 [0.03 → 0.52]                  -             0.31 [0.01 → 0.60]                  -                         -
+rho = 0.5       0.26 [−0.02 → 0.55]           0.28 [0.04 → 0.52]                  -            0.26 [−0.03 → 0.56]                  -                         -
+rho = 0.8       0.24 [−0.06 → 0.53]           0.28 [0.04 → 0.53]                  -            0.24 [−0.06 → 0.53]                  -                         -
+rho = 1         0.23 [−0.07 → 0.52]           0.29 [0.04 → 0.53]                  -            0.22 [−0.06 → 0.52]                  -                         -
+Results where different correlation coefficients (rho = 0, 0.2, 0.5, 0.8, 1) among individual species responses were used to compute the within-study sampling
+variance are given on separate rows. The   LnRR and 95% CI are given for analysis using (a) all MPA case-studies, and (b) excluding MPAs with habitat confounded
+effects. N represents the number of MPAs for each exploitation category. Sample size for non-target species was inadequate for the analysis.
+
+Sciberras et al. Environmental Evidence 2013, 2:4                                                                                                      Page 22 of 31
+http://www.environmentalevidencejournal.org/content/2/1/4
+Table 12 The summary effect size                 LnRR and [95% CI] based on density data for each ‘exploitation status’ categories
+(target-protected [TP], target-not protected [TNP] and non-target [NT]), weighted by sampling variances
+                          (a) All MPA case-studies included                          (b) Sensitivity analysis; habitat confounded studies
+                                                                                                              excluded
+                 Target -            Target - non-              Non-target             Target -            Target - non-          Non-target
+                protected              protected                                      protected              protected
+                   N=9                    N=9                      N=7                   N=8                    N=5                   N=5
+rho = 0        0.35 [0.01 →           0.37 [0.03 →           −0.21 [−0.58 →         0.34 [−0.07 →          0.47 [−0.07 →        −0.24 [−0.74 →          QM = 4.48,
+                   0.69]                   0.71]                    0.16]                0.74]                  1.02]                 0.25]              p = 0.11
+rho =         0.35 [−0.02 →           0.38 [0.03 →           −0.20 [−0.60 →         0.33 [−0.11 →          0.48 [−0.09 →        −0.23 [−0.78 →          QM = 3.58,
+0.2                0.72]                   0.73]                    0.21]                0.78]                  1.05]                 0.32]              p = 0.17
+rho =         0.34 [−0.05 →           0.39 [0.04 →           −0.17 [−0.61 →         0.33 [−0.14 →           0.48 [−0.1 →        −0.21 [−0.8 →           QM = 3.01,
+0.5                0.73]                   0.74]                    0.26]                0.79]                  1.06]                 0.38]              p = 0.22
+rho =         0.33 [−0.07 →           0.40 [0.05 →           −0.16 [−0.60 →         0.32 [−0.16 →          0.49 [−0.09 →        −0.19 [−0.81 →          QM = 2.69,
+0.8                0.74]                   0.74]                    0.29]                 0.8]                  1.06]                 0.42]              p = 0.26
+rho = 1       0.33 [−0.08 →           0.40 [0.07 →           −0.15 [−0.66 →         0.32 [−0.17 →          0.49 [−0.08 →        −0.18 [−0.81 →          QM = 2.54,
+                   0.74]                   0.74]                    0.30]                 0.8]                  1.06]                 0.45]              p = 0.28
+Results where different correlation coefficients (rho = 0, 0.2, 0.5, 0.8, 1) among individual species responses were used to compute the within-study sampling
+variance are given on separate rows. The    LnRR and 95% CI are given for analysis using (a) all MPA case-studies, and (b) excluding MPAs with habitat confounded
+effects. N represents the number of MPAs for each exploitation category.       LnRR > 0 means more fish inside the NTR; 
+                                                                                                                         LnRR < 0 means fewer fish in the NTR. When
+the CI overlaps 0 it implies a non-significant difference between NTR and PPA. QM values indicate the magnitude of the difference between
+exploitation categories.
+Table 12). However, the magnitude of response to                                         to partial protection on fish body size (i.e. mean length).
+protection did not differ significantly among the three                                  In three out of five MPAs, target species length did not
+‘exploitation status’ categories (sensitivity analysis:                                  appear to be different between the NTR and the PPA
+density at rho 0.5; QM = 3.01, df = 3, p = 0.22, Table 12).                              (Figure 15). Similarly, in two out of three MPAs there
+    MPA age, the size of the NTR relative to the PPA                                     was no difference in the body size (i.e. length) of non-
+(size ratio) and the distance between the NTR and PPA                                    target species inside and outside the no-take reserve (the
+did not explain the variation in the response of target                                  95% CI overlaps 0) (Figure 15).
+species to protection, both for density (Table 13) and
+biomass (Table 14). The effect size for target species’
+biomass was positively related to the number of species                                  Invertebrates: density, biomass, length Replication
+pooled in the construction of the average effect size for                                was sufficient only to assess the effect of protection on
+each MPA (sensitivity analysis in Table 14).                                             lobsters (Class: Decapoda) for target species and on sea
+                                                                                         urchins (class: Echinoidea) for non-target species. Lobster
+Fish length The small number of studies precluded for-                                   density was on average 1.76 times higher inside the NTR
+mal examination of the effect of full protection relative                                than in the PPA, and this increase was significant
+Table 13 Summary of the simple regression models for each of the three moderator variables on target species
+density
+Moderator variable                                     No MPAs                                  Slope [95% CI]                                     QM, p-val
+MPA age (year)                                             18                                   0.03 [−0.02 → 0.09]                                QM = 1.29, p = 0.26
+Size ratio (NTR:PPA)                                       13                                   −0.11 [−0.9 → 0.69]                                QM = 0.07, p = 0.79
+# species combined                                         18                                   −0.04 [−0.14 → 0.07]                               QM = 0.51, p = 0.47
+Sensitivity analysis; habitat confounded studies excluded
+Size ratio (NTR:PPA)                                       11                                   −2.33 [−5.12 → 0.45]                               QM = 2.70, p = 0.1
+Effect sizes are weighted by the variance of the mean of several correlated variables calculated for correlation coefficients of rho = 0.5. Data under sensitivity
+analysis is given only for the moderator variable which showed considerable different result from when all studies were included.
+
+Sciberras et al. Environmental Evidence 2013, 2:4                                                                                                      Page 23 of 31
+http://www.environmentalevidencejournal.org/content/2/1/4
+Table 14 Summary of the simple regression models for each of the four moderator variables on target species biomass
+Moderator variable                                     No MPAs                                Slope [95% CI]                                      QM, p-val
+MPA age (year)                                             14                                 0.03 [−0.005 → 0.07]                                QM = 2.89, p = 0.09
+Size ratio (NTR:PPA)                                       11                                 −0.35 [−0.92 → 0.22]                                QM = 1.45, p = 0.23
+Log(distance NTR to PPA)                                   14                                 −0.09 [−0.19 → 0.02]                                QM = 2.82, p = 0.09
+# species combined                                         14                                 0.002 [−0.10 → 0.11]                                QM = 0.001, p = 0.98
+Sensitivity analysis; habitat confounded studies excluded
+# species combined                                         10                                 0.10 [0.02 → 0.19]                                  QM = 5.75, p = 0.02
+Effect sizes are weighted by the variance of the mean of several correlated variables calculated for correlation coefficients of rho = 0.5. Data under sensitivity
+analysis is given only for the moderator variable which showed considerable different result from when all studies were included.
+(Figure 16). The response of sea-urchins to protection was                           Discussion
+more variable and the overall mean effect size was only                              Biological effects of MPAs
+marginally significant (LnRR = 0.33, CI = −0.02 → 0.64)                              Fish
+(Figure 16).                                                                         Our synthesis suggests that while PPAs resulted in
+   There was not enough data to investigate the re-                                  higher density and biomass than open (unprotected)
+sponse of invertebrate species to protection in terms of                             areas, greatest benefits were apparent in NTR areas
+biomass and length, or to explore the influence of ‘ef-                              when NTRs and PPAs were compared. Improvements
+fect modifiers’ on the response to protection.                                       were largely driven by change in targeted fish species,
+                            Fish exploitation status                                                                    Ln(RR) [95% CI]
+                           Target, protected
+                            Mandu SZ vs. RZ                                                                             0.11 [ 0.05 , 0.17 ]
+                            Osprey SZ vs. RZ                                                                           0.07 [ −0.04 , 0.18 ]
+                            Maud SZ vs. RZ                                                                              0.25 [ 0.14 , 0.35 ]
+                            Laguna ER vs. La Jolla ER                                                                −0.10 [ −1.13 , 0.92 ]
+                            Long−Is MR vs. Charlotte Sound                                                             0.10 [ −1.29 , 1.49 ]
+                           Target, not protected
+                            Kingston vs. Rottnest                                                                       0.33 [ 0.22 , 0.44 ]
+                           Non−target
+                            Laguna ER vs. La Jolla ER                                                                  0.17 [ −1.51 , 1.85 ]
+                            Kingston vs. Rottnest                                                                      0.14 [ −0.04 , 0.31 ]
+                            Long−Is MR vs. Charlotte Sound                                                              0.20 [ 0.08 , 0.32 ]
+                            Summary effect                                                                              0.18 [ 0.10 , 0.25 ]
+                                                       −2.18       −1.01        0.17        1.35         2.52
+  Figure 15 Forest plot of the fish species effect sizes based on target species’ length data in the NTR and the PPA. Studies are grouped
+  by exploitation status (target-protected [TP], target-non-protected [TNP], non-target [NT]).
+
+Sciberras et al. Environmental Evidence 2013, 2:4                                                                                        Page 24 of 31
+http://www.environmentalevidencejournal.org/content/2/1/4
+  Figure 16 Forest plot of the response ratio (no-take:partial) of target and non-target invertebrate density categorized by taxonomic
+  class. The vertical dotted line at 
+                                     LnRR = 0 represents equal invertebrate density inside and outside of the NTR. The squares are the effect size for
+  each PPA, the error bars are the 95% confidence interval, whose values are given on the right hand side of the figure. The overall weighted mean
+  effect is given by the ‘Summary effect’.
+and although positive benefits were also apparent in                          to control for specific taxon traits or the exploitation
+non-target species, the results were more variable, per-                      status of the species included. Almost certainly, the
+haps because of fewer studies focusing on this group.                         frequency and intensity of exploitation experienced by a
+   MPAs may meet their objectives in a number of ways                         species in a fishery will greatly influence the magnitude
+without necessarily excluding all extractive activities;                      of response to protection from fishing. For example,
+habitat protection can be achieved by exclusion of ben-                       reductions in the spawning stock biomass resulting from
+thic gears (e.g. [29,75,76]), avoidance of conflict can be                    high levels of fishing mortality, reduces the ability of fish
+achieved by spatial segregation of uses (e.g. [26,77]), sus-                  populations to recover after a population decline [79].
+tainable exploitation or recovery of over-exploited fish                      Hence, the reduction or elimination of fishing mortality
+stocks can occur within gear-specific exclusion areas                         following the effective implementation of a MPA is
+(e.g. [7,78]). We have thus synthesized data for studies                      expected to increase population density and biomass as
+that have examined the effect of partially protected                          stocks recover from exploitation. Indeed, we found that
+MPAs relative to open access areas to further increase                        the positive response to protection in PPAs relative to
+our understanding of the potential value of those MPAs                        Open areas was mainly driven by target species of com-
+which strike a balance between allowing user access and                       mercial importance (Tables 4, 5). Furthermore, Lester and
+achieving management and conservation measures. We                            Halpern [40] acknowledge that failure to document signifi-
+found significantly higher density and biomass of fish in-                    cant effects of partially protected MPAs may have resulted
+side the PPA relative to open access areas (Figures 5, 6).                    from the fact that most of the studies they reviewed
+This finding contrasts with that by Lester and Halpern                        reported results for species targeted in both open access
+[40] in that they did not find significant ecological                         and partially protected areas. We have accounted for this
+effects (in terms of density, biomass) of PPAs relative to                    potential effect modifier by keeping target species that are
+Open areas, perhaps because they aggregated data across                       protected by the PPA (TP) separate from those not entirely
+all taxa (fish, invertebrates, algae) and thus were not able                  protected in the PPA (TNP) and found significantly higher
+
+Sciberras et al. Environmental Evidence 2013, 2:4                                                                 Page 25 of 31
+http://www.environmentalevidencejournal.org/content/2/1/4
+fish biomass inside the PPA relative to the Open area only       [80-83]). The cessation of scallop dredging not only
+for TP species (Table 5). Our analysis comparing PPAs to         reduces fishing mortality of adult scallops [27], but
+Open areas therefore suggests that well-managed PPAs             also eliminates the deleterious effects on benthic
+with some restrictions on use are a valuable tool to counter-    communities [84]. Closed areas with significantly
+act the decline of target populations, given that these are ef-  greater biomass of attached species such as hydroids
+fectively protected under the protection regime in place.        have been suggested to be important settlement sub-
+   Albeit, the higher benefits of PPAs over Open                 strata for pectinid larvae [85,86], so that protection
+areas, we found greater benefits of protection in                during this critical phase may assist in the recovery
+NTRs compared to PPAs. The response to protec-                   of scallop populations in the closed area.
+tion (no-take:partial) was higher for fish biomass                  The studies on non-target invertebrate species fo-
+(
+ RR = 1.92) than for fish density (       RR = 1.11). One pos-  cused mainly on echinoids. The response of non-
+sible explanation for this discrepancy in protection             target echinoid species to protection was considerably
+effect between density and biomass is that the dens-             variable. Overall, we found lower density and biomass
+ity of individuals is susceptible to stochastic recruit-         of non-target invertebrate species inside partially
+ment events, such that the movement of juvenile                  protected areas compared to open areas, but did not
+fish across the no-take reserve boundary into the ad-            find significant difference in density between fully-
+jacent partially protected area may have resulted in             and partially-protected areas. This variability may be
+the smaller magnitude of protection effect observed              explained through a number of factors. Some studies
+for fish density. The high positive response for fish            linked the lower abundance of sea urchins inside
+biomass provides evidence towards the protection                 MPAs to the increase in predation pressure following
+benefit of fully protected areas from size-selective             the recovery of predatory fish populations after pro-
+fishing or accidental catch. In their review of the              tection [18,87,88]. Alternatively, factors such as higher
+benefits of NTRs over PPAs, Lester and Halpern                   spatial heterogeneity and availability of shelter (e.g.
+[40] also reported stronger effects of protection for            more crevices) inside the MPA have been linked to
+NTRs than for PPAs. However, whereas we found                    higher abundance of sea urchins in MPAs, as these
+significantly higher response for biomass than for               may reduce the exposure of urchins to fish predators
+density, Lester and Halpern [40] reported signifi-               [89,90].
+cantly higher response ratios (no-take:partial) for dens-
+ity ( RR = 1.79) but not for biomass (          RR = 1.22). As Reasons for variation in effectiveness
+alluded above, one important difference between the              There was a large degree of variability in the magni-
+two syntheses is that whereas our study focussed on fish         tude of response to protection and MPA success was
+species only, Lester and Halpern [40] aggregated data            highly variable. The factors determining such variation
+across broad taxonomic groups (fish, invertebrates,              were generally unclear although the size of the PPA
+algae) with different life history (e.g. growth rate) and        explained some of this variability. Examination of the
+ecological characteristics (e.g. larval dispersal potential,     protection regime within the partially protected area
+adult mobility). For example, the sessile nature and the         provided novel insights into the efficacy of partial
+relative low mobility of some species (e.g. urchins,             MPAs for conservation and management.
+gastropods, corals, sponges) included in Lester and                 We found that the ‘protection regime’, which defined
+Halpern [40], might have resulted in the larger                  the amount of protection afforded to species by the par-
+differences in density that they observed between no-            tially protected area, was a key determinant of the mag-
+take reserves and partially protected areas.                     nitude of MPA efficacy. Of the three categories of
+                                                                 protection regime (IdC, DC, DR), our analysis revealed
+Invertebrates                                                    that the response of target fish species to partial protec-
+The studies on target invertebrate species focused               tion was the largest for partially protected areas that
+mainly on scallops and lobsters, for which strong                excluded commercial fishing with mid-water gear but
+positive effect sizes were reported for both density             permitted fishing on a recreational basis (DR). Such pro-
+and biomass in the partially protected area relative to          tection regimes typically exist in tropical and sub-
+open access area, and also in the no-take reserve rela-          tropical regions (e.g. [19,25,64,66,91]). Interestingly, such
+tive to the partially-protected area. This is in agree-          protection resulted in greater positive response than
+ment with findings in other studies that reported                those MPAs (typically found in temperate regions) which
+positive responses for lobster populations following             excluded bottom-towed gear but allowed fishing with
+marine reserve designation, possibly owing to the spe-           mid-water gear (e.g. nets and long-lines) or static gear
+cies’ short home range and migration to deeper                   (e.g. pots, traps). This is perhaps counter-intuitive given
+waters where fishing pressure is generally lower (e.g.           the well-recognized negative impact of bottom-towed
+
+Sciberras et al. Environmental Evidence 2013, 2:4                                                            Page 26 of 31
+http://www.environmentalevidencejournal.org/content/2/1/4
+fishing gear on biota and habitat [92-94]. However,       higher-quality habitat before the onset of protection (e.g.
+MPAs that excluded bottom towed gear were typically       [5,55]) or due to site-specific features in reserves that
+established to protect large mobile demersal fish such as differ from those in control areas [5,13,54,100]. A
+cod, haddock, hake and saithe (e.g. [60,67,95]), which    strong-point of this meta-analysis is that we tried to
+are likely to experience less benefits from protection    minimize habitat bias on protection effect by running a
+(e.g. compared to reef-associated species) due to their   sensitivity analysis alongside the main analysis, whereby
+high mobility and dispersal distances. Additionally,      studies with reported habitat differences between the
+benthopelagic species that rely on benthic invertebrates  protected and control area were excluded from the sen-
+for their food might take longer to respond to protection sitivity analysis (e.g. [64,101]). The analyses have shown
+as habitat recovery following disturbance by bottom-      several instances when the outcome of the sensitivity
+towed gear will have to occur before these species can    and main analyses were different. For example, the mag-
+begin to recover.                                         nitude of the effect size comparing PPAs to Open areas
+   Interestingly, we found that increasing the size of    for fish density was smaller when the habitat-
+the PPA, in particular above 1000 km2, reduced the        confounded studies were removed from the analysis.
+effectiveness of partial protection relative to no pro-   The positive effect of protection (partial:open) on non-
+tection for fish assemblages as well as for fish target   target fish species changed from significant to non-
+species. This was somewhat surprising given that pre-     significant when the habitat-confounded studies were
+vious theoretical and empirical studies have shown        excluded from the analysis. Other times, the two ana-
+that larger no-take reserves are more effective at in-    lyses did not differ. For example, the response for fish
+creasing biodiversity and density of commercial spe-      assemblage density in NTRs relative to PPAs was not
+cies [35,96,97]. It is not unrealistic to assume that     significant, whether the ‘habitat-confounded’ studies
+non-compliance and infringement of regulations are        were removed from the full dataset or not. These
+more likely in large than in small MPAs [98]. The         observations highlight the importance of examining the
+size of the partially protected areas in the dataset      influence of habitat effects on the response of biota to
+comparing PPAs to Open areas ranged between 1.5           protection in future assessments of MPA efficacy. Fur-
+km2 and 11980 km2 and although a single instance of       thermore, the implications of ignoring confounding
+illegal fishing in a small PPA can have a more dam-       effects due to habitat differences between protected and
+aging effect than in a large PPA, it is more likely that  control areas means that potentially unreliable and
+the occurrence of illegal fishing is higher in large      biased recommendations are made to policy-makers and
+PPAs. This may explain the lower effectiveness of         conservation managers about the effects of protection.
+protection that we observed for partially protected          The identification of ‘habitat-confounded’ studies
+areas over 1000 km2 in size. Another possible explan-     has been a challenge in itself. Although most studies
+ation for results not conforming to expectation is the    in this review stated whether sampling occurred on
+inadequacy of the sampling effort and replication.        seagrass meadows (e.g. [102-104]) or rocky bottoms (e.g.
+Among the studies included in our analysis, the ma-       [45,56,66,105]) or coral reefs (e.g. [65,91,106-110]), there
+jority (24 out of 27) surveyed an area equivalent to      was a general lack of data quantifying the relation-
+less than 1% of the total area of the PPA, raising        ship between biota and habitat structure inside and out-
+issues about the representativeness of the observations   side the MPA (but see [45,91,101,108-112]). We could
+for the entire MPA. The proportion of area surveyed       only identify ‘habitat-confounded’ studies with confi-
+for MPAs larger than 20 km2 was only 0.1% of the          dence when the authors explicitly reported significant
+MPA area, suggesting that the sampling in large           differences in habitat among the sites studied inside and
+MPAs may have inadequate power to detect subtle           outside the MPA. Given that most studies did not exam-
+changes in density or biomass between the protected       ine the variation in habitat structure between protected
+and unprotected areas.                                    and control areas, it is possible that some potentially
+                                                          habitat-confounded studies were not excluded from the
+Key challenges met in this review                         sensitivity analysis, albeit our best efforts to eliminate this
+Confounded baselines have been identified as barriers to  bias. We stress therefore, the importance for future stud-
+the interpretation of MPA studies previously              ies to measure habitat covariates alongside biological data
+[30,31,73,99] and they remain a hindrance in this ana-    if assessment of change in a community is to be related
+lysis. A first source of confounding emerges from the     to protection or to an intrinsic structural feature of the
+fact that habitat structure may not be comparable be-     protected area.
+tween the protected and unprotected areas. Some              A further challenge was controlling for the range
+authors have argued that the apparent effect of protec-   and intensity of activities permitted within the PPAs
+tion is not due to protection per se, but rather due to   as information on fishing intensity and effort
+
+Sciberras et al. Environmental Evidence 2013, 2:4                                                              Page 27 of 31
+http://www.environmentalevidencejournal.org/content/2/1/4
+characteristic of the fishery in the PPA was essen-            were limited to a daily bag limit of 7 lobsters per person.
+tially negligible. In the absence of such detailed in-         In contrast, when they compared the MPA to a commer-
+formation, we used information on whether the                  cially fished area where fishing occurred by 3–5 fishers
+permitted activities inside the PPA occurred on a              using 750–1000 traps, lobster density was 57% higher in-
+commercial or recreational basis to define PPA pro-            side the MPA than outside. Similarly, Tupper and Rudd
+tection       regime       categories.        We  based   this [91] found that fish density was 9 times higher in the
+categorization on the assumption that fishing pres-            MPA when compared to a moderately fished area
+sure and efficiency are lower for recreational fishing         (LnRR = 1.03) than when compared to a lightly fished
+than for commercial fishing practices. Although this           area (LnRR = 0.11). These examples serve to show
+assumption holds true for some recreational fisher-            the importance of including exploitation intensity in-
+ies, there is a growing body of evidence indicating            side and outside the MPA for a more within-context
+that recreational fishing can constitute a significant         interpretation of the efficacy of MPAs, which remain
+portion of the regional catch for some species                 somewhat overlooked in most studies including those
+[113,114]. We recommend that measures of fishing               reviewed in this study.
+pressure such as the number of traps per area, the                A valid constraint that needs to be acknowledged in
+number of vessels/nets per area, the number of                 our analyses is that response variables (density, bio-
+spear fishers allowed per annum and the time spent             mass, length, species diversity) comparisons were
+at sea are reported in future MPA studies.                     based on single snapshot datasets after MPA estab-
+                                                               lishment. Only a handful of studies included in our
+Key limitations                                                analysis were based on strong experimental designs
+A number of key limitations encountered in this re-            such as BACI and beyond-BACI studies [53,122] (see
+view are worth highlighting. First was the lack of data        Additional file 5). Ecosystem processes are spatially
+on the historic levels of exploitation inside the MPA          and temporally variable at multiple scales and these
+prior to its designation, which is one factor highly           variations can obscure the detection of the effects of
+likely to influence the magnitude of protection effect.        protection [52].
+For example, Edgar et al. [112] found low level of                Pooling of individual species responses for MPA-
+change for fish between the MPA and fished areas be-           level analyses may introduce methodological bias. For
+cause pre-existent fishing pressure across the region          example, studies that have measured large numbers of
+was low and historically depressed stocks only                 species may exhibit stronger positive responses due to
+slightly. Conversely, McLean et al. [115] found very           the higher probability of including species that benefit
+little change between protected and unprotected                from protection. The number of species pooled to-
+populations of Lethrinus harak even after 15 years of          gether to create average effect sizes for each ‘exploit-
+protection because previously high levels of exploit-          ation status’ category was found to be significantly
+ation combined with low recruitment years for this             related to the magnitude of response of target species
+species led to large reductions in the abundance of            biomass to protection in fully- vs. partially-protected
+this species across the region. Second was the insuffi-        areas. Although this covariate did not influence target
+cient information on the range and relative intensity          species density or the effect size comparing partially-
+of exploitation activities in reference fished areas. The      vs. open areas, we cannot rule out the potential
+majority of studies only provided a very vague de-             methodological bias introduced by pooling individual
+scription of activities in the unprotected control area        species responses.
+(e.g. “fully open to fishing” [25]; “all kinds of com-            Small sample sizes and lack of power are clearly
+mercial and recreational fishing” [116], but see               problematic in some instances, for example inverte-
+Forcada et al. [117]). Information about the relative          brate species and biological measures such as species
+intensity of exploitation was even scarcer (but see            length. The limited number of studies made it hard
+[45,67,118-121]). Two examples that show the poten-            to draw firm conclusions about the impact of pro-
+tially important implications of exploitation intensity        tection on this group of organisms and biological
+in the control area for a within-context interpret-            measure.
+ation of the magnitude of protection effect include a
+study by Iacchei et al. [119] on lobster density and           Concluding remarks
+another by Tupper and Rudd [91] on target fish                 Implications for management / policy / conservation
+density. Iacchei et al. [119] recorded a 3% increase           This review addressed an important question for
+in lobster (Panulirus interruptus) density in the MPA          managers and policy-makers of whether partially
+relative to a recreationally fished control area where         protected areas are an effective management option
+lobsters were caught by hand or hoop nets and catches          for conservation and fisheries compared to fully
+
+Sciberras et al. Environmental Evidence 2013, 2:4                                                                                          Page 28 of 31
+http://www.environmentalevidencejournal.org/content/2/1/4
+protected and open areas. The available evidence                              regarding species richness and length (i.e. body size)
+suggests that no-take reserves provide some benefit                           of individual species and the effect of protection in
+over less protected areas, nevertheless the significant                       soft sediment systems. It is also very difficult to dis-
+ecological effects of partially protected areas relative                      tinguish habitat effects from reserve effects without
+to open access areas suggest that partially protected                         integrated experimental monitoring programs that
+areas are a valuable spatial management tool particu-                         present data regarding the baseline condition. Hence,
+larly in areas where exclusion of all extractive activ-                       we urge future studies to measure habitat covariates
+ities is not a socio-economically and politically viable                      alongside biological data. Given the clear evidence of
+option. Change in the distribution of fishing effort                          the influence of exploitation intensity on MPA per-
+could result in economically negligible net benefits                          formance, we stress that measures of the fishing
+[123] or may be detrimental to habitats previously                            pressure outside the MPA, the historic levels of ex-
+undisturbed by anthropogenic activities [124]. Hence,                         ploitation within the MPA prior to designation and
+while acknowledging that MPAs are not a panacea                               the range of restricted and permitted activities
+for conservation and fisheries management, under                              within partially protected MPAs should be routinely
+the right conditions (that may include additional re-                         reported as these factors allow for a robust within-
+duction of fishing effort in fishing grounds                                  context interpretation of the protection effect. Data
+surrounding MPAs, or a network of MPAs that allow                             regarding the degree of enforcement and compliance
+a mix of protection levels, or involvement of mul-                            inside an MPA are required alongside biological
+tiple stakeholder groups during the designation                               metrics for monitoring to be effective. Whilst ac-
+process), MPAs offering partial protection are valu-                          knowledging the time constraints and increased fi-
+able tools for the preservation and enhancement of                            nancial costs associated with BACI empirical studies,
+fish and invertebrate populations.                                            we advocate that the controversy as to whether any
+                                                                              differences are a consequence of protection or are
+Implications for research and further work                                    merely coincidental can only be satisfactorily
+Lack of data is a hindrance in the development of                             addressed by further monitoring incorporating as-
+an evidence-base regarding the effectiveness of mar-                          sessment of change from baseline conditions.
+ine protected areas. Small sample sizes result in high
+uncertainty about the impacts on specific taxa, in
+particular, invertebrates, and species groups such as                         Appendix
+non-target fish species. Insufficient data are available                      Table 15 shows glossary of terms.
+Table 15 Glossary of terms
+Glossary
+Abb.       Term                              Definition
+                                             Discrete geographic areas of the sea that are protected by spatially explicit restrictions designated
+MPA        Marine Protected Area             under international, national, tribal or local laws to enhance long-term conservation of natural
+                                             resources therein.
+NTR        No-take reserve                   MPAs where all anthropogenic activities are excluded, apart from scientific research.
+PPA        Partially protected area          MPAs whereby regulations restrict some extractive uses but permit others.
+Open       Open access area                  Areas outside the MPA that are open to fishing.
+TP         Target-protected species          Target species that were protected in both the NTR and the PPA
+TNP        Target non-protected species      Target species that were protected in the NTR but still allowed to be fished inside the PPA
+                                             Species for which fishing gear is not specifically set, although the possibility that these species are
+NT         Non-target species
+                                             accidentally caught as by-catch cannot be ruled out
+                                             PPAs that prohibit fishing activities which are damaging to bottom habitats and non-target species (e.
+IdC        Indiscriminate, commercial PPA    g. scallop dredging, bottom trawling) but allow other forms of commercial fishing with mid-water
+                                             towed gear or static bottom gear
+                                             PPAs that prohibit activities which affect particular target species but not the surrounding environment
+DC         Discriminate, commercial PPA
+                                             (e.g. seine nets, long lines, spearfishing) but allow subsistence fishing on a commercial basis
+                                             PPAs that prohibit activities which affect particular target species but not the surrounding environment
+DR         Discriminate, recreational PPA
+                                             (e.g. seine nets, long lines, spearfishing) but allow fishing on a recreational basis
+BACI       Before-After-Control-Impact study
+CI         Control-Impact study
+
+Sciberras et al. Environmental Evidence 2013, 2:4                                                                                                     Page 29 of 31
+http://www.environmentalevidencejournal.org/content/2/1/4
+Additional files                                                                  11. Lauck T, Clark CW, Mangel M, Munro GR: Implementing the precautionary
+                                                                                      principle in fisheries management through marine reserves. Ecol Appl
+                                                                                      1998, 8:72–78.
+  Additional file 1: Systematic review search terms.
+                                                                                  12. Garcia-Rubies A, Zabala M: Effects of total fishing prohibition on the rocky
+  Additional file 2: Data extraction form.                                            fish assemblages of Medes Islands marine reserve (NW Mediterranean).
+  Additional file 3: Protection regime categorization scheme.                         Sci Mar 1990, 54(4):317–328.
+  Additional file 4: List of excluded studies & reasons for exclusion.            13. Garcia-Charton JA, Perez-Ruzafa A, Sanchez-Jerez P, Bayle-Sempere JT,
+                                                                                      Renones O, Moreno D: Multi-scale spatial heterogeneity, habitat structure,
+  Additional file 5: Description of MPA & methodology characteristics                 and the effect of marine reserves on Western Mediterranean rocky reef
+  for the studies included in the review.                                             fish assemblages. Mar Biol 2004, 144:161–182.
+                                                                                  14. Guidetti P, Bussotti S, Boero F: Evaluating the effects of protection on fish
+                                                                                      predators and sea urchins in shallow artificial rocky habitats: A case
+Competing interests                                                                   study in the northern Adriatic Sea. Mar Environ Res 2005, 59:333–348.
+None identified. The research work for this publication was partially funded      15. Planes S, Galzin R, Garcia Rubies A, Goni R, Harmelin JG, Le Direach L,
+by the Malta Government Scholarship Scheme grant number MGSS PHD                      Lenfant P, Quetglas A: Effects of marine protected areas on recruitment
+2008–02, the IMAREST Stanley-Gray Fellowship 2008/2009 and the David                  processes with special reference to Mediterranean littoral ecosystems.
+Edwards Memorial Award, Bangor University.                                            Environ Conserv 2000, 27(2):126–143.
+                                                                                  16. Goni R, Quetglas A, Renones O: Size at maturity, fecundity and
+Authors’ contributions                                                                reproductive potential of a protected population of the spiny lobster
+MS designed the systematic review, carried out the literature search,                 Palinurus elephas (Fabricius, 1787) from the western Mediterranean. Mar
+performed the statistical analyses, and wrote the protocol and manuscript.            Biol 2003, 143:583–592.
+ASP directed the conduct of the systematic review. SRJ and SJH checked for        17. Castilla JC: Coastal marine communities: trends and perspectives from
+consistency in the study inclusion (second and third reviewers). ASP, SRJ,            human exclusion experiments. Trends Ecol Evol 1999, 14:280–283.
+SJH, MJK supervised the work, advised on analysis and provided thorough           18. Shears NT, Babcock RC: Marine reserves demonstrate top-down control of
+editing of the manuscript. All authors commented and approved the final               community structure on temperate reefs. Oecologia 2002, 132:131–142.
+manuscript.                                                                       19. Chapman MR, Kramer DL: Gradients in coral reef fish density and size
+                                                                                      across the Barbados marine Reserve boundary: effects of reserve
+Acknowledgements                                                                      protection and habitat characteristics. Mar Ecol Prog Ser 1999,
+We thank Rebecca Mant and Elena Kulinskaya for discussions about the                  181:81–96.
+dataset and statistical assistance. Thanks to all authors of the included papers  20. Goni R, Quetglas A, Renones O: Spillover of spiny lobsters Palinurus
+in this review, who contributed additional data and details about their               elephas from a marine reserve to an adjoining fishery. Mar Ecol Prog Ser
+studies on MPAs whenever necessary.                                                   2006, 308:207–219.
+                                                                                  21. Halpern BS, Lester SE, Kellner JB: Spillover from marine reserves and the
+Author details                                                                        replenishment of fished stocks. Environ Conserv 2010, 36(4):268–276.
+1
+ School of Ocean Sciences, Bangor University, Menai Bridge, Anglesey              22. Richardson EA, Kaiser MJ, Edwards-Jones G, Possingham HP: Sensitivity of
+LL59 5AB, UK. 2Ocean and Earth Science, National Oceanography Centre                  marine-reserve design to the spatial resolution of socioeconomic data.
+Southampton, University of Southampton, Southampton SO16 4ZH, UK.                     Conserv Biol 2006, 20(4):1191–1202.
+3
+ Centre for Evidence-Based Conservation, School of the Environment, Natural       23. Fiske SJ: Sociocultural aspects of establishing marine protected areas.
+Resources and Geography, Bangor University, Bangor LL57 2UW, UK.                      Ocean Coast Manage 1992, 18:25–46.
+                                                                                  24. Steele JH, Beet AR: Marine protected areas in 'nonlinear' ecosystems.
+Received: 24 July 2012 Accepted: 13 February 2013                                     Proceedings of the Royal Society of London B 2003, 270:S230–S233.
+Published: 28 February 2013                                                       25. Denny CM, Babcock RC: Do partial reserves protect reef fish
+                                                                                      assemblages? Biol Conserv 2004, 116:119–129.
+References                                                                        26. Pipitone C, Badalamenti F, D’Anna G, Patti B: Fish biomass increase after a
+1. Boersma PD, Parrish JK: Limiting abuse: marine protected areas, a limiting         four-year trawl ban in the Gulf of Castellammare (NW Sicily,
+      solution. Ecol Econ 1999, 31(2):287–304.                                        Mediterranean Sea). Fish Res 2000, 48:23–30.
+2. Millennium Ecosystem Assessment: Ecosystems and human well-being:              27. Beukers-Stewart BD, Vause BJ, Mosley MWJ, Rossetti HL, Brand AR: Benefits
+      Biodiversity synthesis. Washington: World Resources Institute; 2005.            of closed area protection for a population of scallops. Mar Ecol Prog Ser
+3. NRC: Marine Protected Areas. Tools for sustaining ocean ecosystems. National       2005, 298:189–204.
+      Research Council (NRC), Committee on the Evaluation, Design, and Monitoring 28. Piet GJ, Rijnsdrop AD: Changes in the demersal fish assemblage in the
+      of Marine Reserves and Protected Areas in the United States. Washington:        south-eastern North Sea following the establishment of a protected area
+      National Academy Press; 2001:272.                                               ("plaice box"). ICES J Mar Sci 1998, 55:420–429.
+4. Roberts CM, Bohnsack JA, Gell F, Hawkins JP, Goodridge R: Effects of           29. Roberts CM, Polunin NVC: Are marine reserves effective in management
+      marine reserves on adjacent fisheries. Science 2001, 294:1920–1923.             of reef fisheries? Rev Fish Biol Fisher 1991, 1:65–91.
+5. Willis TJ, Millar RB, Babcock RC: Protection of exploited fish in temperate    30. Mosquera I, Cote IM, Jennings S, Reynolds S: Conservation benefits
+      regions: high density and biomass of snapper Pagrus auratus (Sparidae)          of marine reserves for fish populations. Anim Conserv 2000,
+      in northern New Zealand marine reserves. J Appl Ecol 2003, 40:214–227.          3:321–332.
+6. Lindeman KC, Pugliese C, Waugh GT, Ault JS: Developmental patterns             31. Cote IM, Mosqueira I, Reynolds JD: Effects of marine reserve characteristics
+      within a multispecies reef fishery: Management applications for essential       on the protection of fish populations: a meta-analysis. J Fish Biol 2001,
+      fish habitats and protected areas. Bull Mar Sci 2000, 66(3):929–956.            59(Suppl A):178–189.
+7. Murawski SA, Brown R, Lai HL, Rago PJ, Hendrickson L: Large-scale closed       32. Fraschetti S, Terlizzi A, Micheli F, Benedetti-Cecchi L, Boero F: Marine
+      areas as a fishery-management tool in temperate marine systems: The             protected areas in the Mediterranean Sea: Objectives, effectiveness and
+      Georges Bank experience. Bull Mar Sci 2000, 66(3):775–798.                      monitoring. Mar Ecol 2002, 23(S1):190–200.
+8. Gell FR, Roberts CM: Benefits beyond boundaries: the fishery effects of        33. Halpern BS: The impact of marine reserves: Do reserves work and does
+      marine reserves and fishery closures. Trends Ecol Evol 2003, 18:448–455.        reserve size matter? Ecol Appl 2003, 13(1):117–137.
+9. Browman HI, Stergiou KI: Marine protected areas as a central element of        34. Ojeda-Martinez C, Bayle-Sempere JT, Sanchez-Jerez P, Forcada A, Valle C:
+      ecosystem-based management: defining their location, size and number.           Detecting conservation benefits in spatially protected fish populations
+      Mar Ecol Prog Ser 2004, 274:271–272.                                            with meta-analysis of long term monitoring data. Mar Biol 2007,
+10. Sissenwine M, Murawski S: Moving beyond ‘intelligent tinkering’:                  151:1153–1161.
+      Advancing an ecosystem approach to fisheries. Mar Ecol Prog Ser 2004,       35. Claudet J, Osenberg CW, Benedetti-Cecchi L, et al: Marine reserves: size
+      274:291–295.                                                                    and age do matter. Ecol Lett 2008, 11:481–489.
+
+Sciberras et al. Environmental Evidence 2013, 2:4                                                                                                     Page 30 of 31
+http://www.environmentalevidencejournal.org/content/2/1/4
+36. Garcia-Charton JA, Perez-Ruzafa A, Marcos C, et al: Effectiveness of              Management Area. In Report to the Twenty-Third Hawai‘i Legislature Regular
+     European Atlanto-Mediterranean MPAs: do they accomplish the                      Session of 2005. 2004:38.
+     expected effects on populations, communities and ecosystems? J Nat           60. Link J, Almeida F, Valentine P, Auster P, Reid R, Vitaliano J: The effects of
+     Conserv 2008, 16:193–221.                                                        area closures on Georges Bank. In Benthic Habitats and the Effects of
+37. Lester SE, Halpern BS, Grorud-Colvert K, Lubchenco J, Ruttenberg BI, Gaines       Fishing (American Fisheries Society, Symposium 41, Bethesda, Maryland, 12–14
+     SD, Airame S, Warner RR: Biological effects within no-take marine                November, 2002). Edited by Barnes PW, Thomas JP. USA: American Fisheries
+     reserves: a global analysis. Mar Ecol Prog Ser 2009, 384:33–46.                  Society; 2005:345–368.
+38. Maliao RJ, White AT, Maypa AP, Turigan RG: Trajectories and magnitude of      61. Friedlander AM, Brown E, Monaco ME, Clark A: Fish habitat utilization
+     change in coral reef fish populations in Philippine marine reserves: a           patterns and evaluation of the efficacy of Marine Protected Areas in Hawaii:
+     meta-analysis. Coral Reefs 2009, 28:809–822.                                     Integration of NOAA digital benthic habitat mapping and coral reef ecological
+39. Vandeperre F, Higgins RM, Sanchez-Meca J, Maynou F, Goni R, Martin-Sosa           studies. Silver Spring: NOAA Technical Memorandum NOS NCCOS 23;
+     P, et al: Effects of no-take area size and age of marine protected areas         2006:217.
+     on fisheries yields: a meta-analytical approach. Fish Fish 2011, 12:412–426. 62. Friedlander AM, Wedding LM, Brown E, Monaco ME: Monitoring Hawaii’s
+40. Lester SE, Halpern BS: Biological responses in marine no-take reserves            Marine Protected Areas: Examining spatial and temporal trends using a
+     versus partially protected areas. Mar Ecol Prog Ser 2008, 367:49–56.             seascape approach. Silver Spring: NOAA Technical Memorandum NOS
+41. Stewart GB, Cote IM, Kaiser MJ, Halpern BS, Lester SE, Bayliss HR, Mengersen      NCCOS 117; 2010:130.
+     K, Pullin AS: Are marine protected areas effective tools for sustainable     63. La Mesa G, Vacchi M: An analysis of the coastal fish assemblage of the
+     fisheries management? I. Biodiversity impact of marine reserves in               Ustica Island Marine Reserve. PSZN I: Marine Ecology 1999, 20:147–165.
+     temperate zones. In Systematic Review No. 23. Collaboration for              64. Miller R, Williams B, Duffy C: Reef fish of the Sugar Loaf Islands (Ngä
+     Environmental Evidence. 2008.                                                    Motu) Marine Protected Area, New Zealand. DOC Research & Development
+42. Gates S: Review of methodology of quantitative reviews using meta-                Series 2005, 226:26.
+     analysis in ecology. J Ani Ecol 2002, 71:547–557.                            65. Tupper MH: Spillover of commercially valuable reef fishes from
+43. Roberts PD, Stewart GB, Pullin AS: Are review articles a reliable source of       marine protected areas in Guam, Micronesia. Fish Bull 2007,
+     evidence to support conservation and environmental management?                   105(4):527–537.
+     A comparison with medicine. Biol Conserv 2006, 132:409–423.                  66. Di Franco A, Bussotti S, Navone A, Panzalis P, Guidetti P: Evaluating effects
+44. Stewart GB, Coles CF, Pullin AS: Applying evidence-based practice in              of total and partial restrictions to fishing on Mediterranean rocky-reef
+     conservation management: Lessons from the first systematic review and            fish assemblages. Mar Ecol Prog Ser 2009, 387:275–285.
+     dissemination projects. Biol Conserv 2005, 126(2):270–278.                   67. Jaworski A, Solmundsson J, Ragnarsson SA: Fish assemblages inside and
+45. Tetreault I, Ambrose RF: Temperate marine reserves enhance targeted but not       outside marine protected areas off northern Iceland: protection effects
+     untargeted fishes in multiple no-take MPAs. Ecol Appl 2007, 17(8):2251–2267.     or environmental confounds? Fish Res 2010, 102:50–59.
+46. Williamson DH, Russ GR, Ayling AM: No-take marine reserves increase           68. Hedges LV, Gurevitch J, Curtis PS: The meta-analysis of response ratios in
+     abundance and biomass of reef fish on inshore fringing reefs of the              experimental ecology. Ecology 1999, 80(4):1150–1156.
+     Great Barrier Reef. Environ Conserv 2004, 31(2):149–159.                     69. Rosenberg MS, Adams DC, Gurevitch J: MetaWin: Statistical software for
+47. Watson DL: Anderson, MJ, Kendrick GA, Nardi K, Harvey ES: Effects of              meta-analysis, version 2.0. New York: Sinauer Associates, Inc; 2000.
+     protection from fishing on the lengths of targeted and non-targeted fish     70. Raudenbush SW, Becker BJ, Kalaian H: Modeling multivariate effect sizes.
+     species at the Houtman Abrolhos Islands, Western Australia. Mar Ecol             Psychol Bull 1988, 103:111–120.
+     Prog Ser 2009, 384:241–249.                                                  71. Hedges LV, Tipton E, Johnson MC: Robust variance estimation in meta-
+48. Molloy PP, McLean IB, Cote IM: Effects of marine reserve age on fish              regression with dependent effect size estimates. Research Synthesis
+     populations: a global meta-analysis. J Appl Ecol 2009, 46:743–751.               Methods 2010, 1:39–65.
+49. Claudet J: Marine protected areas: a multidisciplinary approach. UK:          72. Thompson SG, Higgins JPT: How should meta-regression analyses be
+     Cambridge University Press; 2011.                                                undertaken and interpreted? Stat Med 2002, 21:1559–1573.
+50. Friedlander AM, Brown EK, Jokei PL, Smith WR, Rodgers KS: Effects of          73. Micheli F, Halpern BS, Botsford LW, Warner RR: Trajectories and correlates
+     habitat, wave exposure, and marine protected area status on coral reef           of community change in no-take marine reserves. Ecol Appl 2004,
+     fish assemblages in the Hawaiian archipelago. Coral Reefs 2003,                  14(6):1709–1723.
+     22(3):291–305.                                                               74. Viechtbauer W: Conducting meta-analyses in R with the metaphor
+51. Carletta J: Assessing agreement on classification tasks: The kappa                package. J Stat Softw 2010, 36(3):1–48.
+     analysis. Computational Linguistics 1996, 22(2):249–254.                     75. Fogarty MJ, Murawski SA: Large-scale disturbance and the structure of
+52. García-Charton JA, Pérez-Ruzafa A: Ecological heterogeneity and the               marine systems: Fishery impacts on Georges Bank. Ecol Appl 1998,
+     evaluation of the effects of marine reserves. Fish Res 1999, 42:1–20.            8(1):S6–S22.
+53. Guidetti P: The importance of experimental design in detecting the            76. Smith MD, Grabowski JH, Yund PO: The role of closed areas in rebuilding
+     effects of protection measures on fish in Mediterranean MPAs. Aquat              monkfish populations in the Gulf of Maine. ICES J Mar Sci 2008,
+     Conserv Mar Freshwat Ecosyst 2002, 12:619–634.                                   65(7):1326–1333.
+54. Claudet J, Garcia-Charton JA, Lenfant P: Combined effects of level of         77. Blyth RE, Kaiser MJ, Edwards-Jones G, Hart PJB: Voluntary management in
+     protection and environmental variables at different spatial resolutions          an inshore fishery has conservation benefits. Environ Conserv 2002,
+     on fish assemblages in a Marine Protected Area. Conserv Biol 2011,               29(4):493–508.
+     25(1):105–114.                                                               78. Fisher JAD, Frank KT: Changes in finfish community structure associated
+55. Edgar GJ, Bustamente RH, Farina JM, Calvopina M, Martinez C, Toral-Granda         with an offshore fishery closed area on the Scotian Shelf. Mar Ecol Prog
+     MV: Bias in evaluating the effects of marine protected areas: the                Ser 2002, 240:249–265.
+     importance of baseline data for the Galapagos Marine Reserve. Environ        79. Hutchings JA: Influence of population decline, fishing and spawner
+     Conserv 2004, 31(3):212–218.                                                     variability on the recovery of marine fishes. J Fish Biol 2001,
+56. Tuya F, Garcia-Diez C, Espino F, Haroun RJ: Assessment of the effectiveness       59(suppl. A)):306–322.
+     of two marine reserves in the Canary Islands (eastern Atlantic). Ciencias    80. Edgar GJ, Barrett NS: Short term monitoring of biotic change in
+     Marinas 2006, 32(3):505–522.                                                     Tasmanian marine reserves. J Exp Mar Biol Ecol 1997, 213(2):261–279.
+57. Borenstein M, Hedges LV, Higgins JPT, Rothstein HR: Introduction to Meta-     81. Goni R, Renones O, et al: Dynamics of a protected Western
+     Analysis. Chichester: John Wiley & Sons Ltd; 2009.                               Mediterranean population of the European spiny lobster Palinurus
+58. Nardi K, Jones GP, Moran MJ, Cheng YW: Contrasting effects of marine              elephas (Fabricius, 1787) assessed by trap surveys. Mar Freshw Res
+     protected areas on the abundance of two exploited reef fishes at the             2001, 52(8):1577–1587.
+     sub-tropical Houtman Abrolhos Islands, Western Australia. Environ            82. Babcock RC, Phillips BJC, Lourey AM, Clapin G: Increased density,
+     Conserv 2004, 31(2):160–168.                                                     biomass and egg production in an unfished population ofWestern
+59. Walsh WJ, Tissot BN, Hallacher LE: A report on the findings and                   Rock Lobster (Panulirus cygnus) at Rottnest Island, Western Australia.
+     recommendations of effectiveness of the West Hawaii Regional Fishery             Mar Freshw Res 2007, 58:286–292.
+
+Sciberras et al. Environmental Evidence 2013, 2:4                                                                                                       Page 31 of 31
+http://www.environmentalevidencejournal.org/content/2/1/4
+83. Hoskin MG, Coleman RA, von Carlshausen E, Davis CM: Variable population       106. Watson M, Ormond RFG: Effect of an Artisanal Fishery on the Fish and
+     responses by large decapod crustaceans to the establishment of a                   Urchin Populations of a Kenyan Coral-Reef. Mar Ecol Prog Ser 1994,
+     temperate marine no-take zone. Can J Fish Aquat Sci 2011, 68:185–200.              109(2–3):115–129.
+84. Blyth RE, Kaiser MJ, Edwards-Jones G, Hart PJB: Implications of a zoned       107. Acosta CA, Robertson DN: Comparative spatial ecology of fished spiny
+     fishery management system for marine benthic communities. J Appl Ecol              lobsters Panulirus argus and an unfished congener P. guttatus in an
+     2004, 41:951–961.                                                                  isolated marine reserve at Glover's Reef atoll, Belize. Coral Reefs 2003,
+85. Bradshaw C, Collins P, Brand AR: To what extent does upright sessile                22(1):1–9.
+     epifauna affect benthic biodiversity and community composition? Mar          108. Westera M, Lavery P, Hyndes G: Differences in recreationally targeted
+     Biol 2003, 143:783–791.                                                            fishes between protected and fished areas of a coral reef marine park.
+86. Lambert GI, Jennings S, Kaiser MJ, Hinz H, Hiddink JG: Quantification and            J Exp Mar Biol Ecol 2003, 294(2):145–168.
+     prediction of the impact of fishing on epifaunal communities. Mar Ecol       109. Monaco ME, Friedlander AM, Caldow C, Christensen JD, Rogers C, Beets J, Miller J,
+     Prog Ser 2011, 430:71–86.                                                          Boulon R: Characterising reef fish populations and habitats within and outside
+87. Clemente S, Hernandez JC, Brito A: Evidence of the top–down role of predators       the US Virgin Islands Coral Reef National Monument: a lesson in marine
+     in structuring sublittoral rocky-reef communities in a Marine Protected Area       protected area design. Fish Manag Ecol 2007, 14(1):33–40.
+     and nearby areas of the Canary Islands. ICES J Mar Sci 2009, 66:64–71.       110. Francini RB, de Moura RL: Dynamics of fish assemblages on coral reefs
+88. Clemente S, Hernández JC, Brito A: Context-dependent effects of marine              subjected to different management regimes in the Abrolhos Bank,
+     protected areas on predatory interactions. Mar Ecol Prog Ser 2011,                 eastern Brazil. Aquat Conserv Mar Freshwat Ecosyst 2008, 18(7):1166–1179.
+     437:119–133.                                                                 111. Chaves LDC, Monteiro-Neto C: Comparative analysis of rocky reef fish
+89. Sala E, Zabala M: Fish predation and the structure of the sea urchin                community structure in coastal islands of south-eastern Brazil. J Mar Biol
+     Paracentrotus lividus populations in the NW Mediterranean. Mar Ecol                Assoc UK 2009, 89(3):609–619.
+     Prog Ser 1996, 140:71–81.                                                    112. Edgar GJ, Barrett NS, Crane K, Bancroft K: Ecosystem monitoring of subtidal
+90. Sala E, Ribes M, Hereu B, Zabala M, Alvar V, Coma R, Garrabou J: Temporal           reefs in different management zones of the Jurien Bay Marine Park 1999–2007.
+     variability in abundance of the sea urchins Paracentrotus lividus and              Project Report. Hobart: Tasmanian Aquaculture and Fisheries Institute; 2009.
+     Arbacia lixula in the northwestern Mediterranean: comparison between         113. Coleman FC, Figueira WF, Ueland JS, Crowder LB: The impact of United
+     a marine reserve and an unprotected area. Mar Ecol Prog Ser 1998,                  States recreational fisheries on marine fish populations. Science 2004,
+     168:135–145.                                                                       305:1958–1960.
+91. Tupper M, Rudd MA: Species-specific impacts of a small marine reserve         114. Cooke SJ, Cowx IG: The role of recreational fishing in global fish crises.
+     on reef fish production and fishing productivity in the Turks and Caicos           Bioscience 2004, 54:857–859.
+     Islands. Environ Conserv 2002, 29(4):484–492.                                115. McLean DL, Harvey ES, Fairclough DV, Newman SJ: Large decline in the
+92. Collie JS, Hall SJ, Kaiser MJ, Poiner IR: A quantitative analysis of fishing        abundance of a targeted tropical lethrinid in areas open and closed to
+     impacts on shelf-sea benthos. J Anim Ecol 2000, 69:785–798.                        fishing. Mar Ecol Prog Ser 2010, 418:189–199.
+93. Kaiser MJ, Clarke KR, Hinz H, Austen MCV, Somerfield PJ, Karakassis I: Global 116. Hernandez JC, Clemente S, Sangil C, Brito A: Actual status of the sea urchin
+     analysis of response and recovery of benthic biota to fishing. Mar Ecol            Diadema aff. antillarum populations and macroalgal cover in marine
+     Prog Ser 2006, 311:1–14.                                                           protected areas compared to a highly fished area (Canary Islands - eastern
+94. Hinz H, Prieto V, Kaiser MJ: Trawl disturbance on benthic communities:              Atlantic Ocean). Aquat Conserv Mar Freshwat Ecosyst 2008, 18(7):1091–1108.
+     chronic effects and experimental predictions. Ecol Appl 2009, 19:761–773.    117. Forcada A, Valle C, et al: Effects of habitat on spillover from marine
+95. Dimech M, Camilleri M, Hiddink JG, Kaiser MJ, Ragonese S, Schembri PJ:              protected areas to artisanal fisheries. Mar Ecol Prog Ser 2009, 379:197–211.
+     Differences in demersal community structure and biomass size spectra         118. Cinner JE, Marnane MJ, McClanahan TR: Conservation and community
+     within and outside the Maltese Fishery Management Zone (FMZ). Sci                  benefits from traditional coral reef management at Ahus Island, Papua
+     Mar 2008, 72(4):669–682.                                                           New Guinea. Conserv Biol 2005, 19(6):1714–1723.
+96. Hastings A, Botsford LW: Comparing designs of marine reserves for             119. Iacchei M, Robinson P, Miller KA: Direct impacts of commercial and
+     fisheries and for biodiversity. Ecol Appl 2003, 13(1):S65–S70.                     recreational fishing on spiny lobster, Panulirus interruptus, populations
+                                                                                        at Santa Catalina Island, California, United States. N Z J Mar Freshw Res
+97. Roberts CM, Branch G, Bustamente RH, Castilla JC, Dugan J, Halpern BS,
+                                                                                        2005, 39:1201–1214.
+     Lafferty KD, et al: Application of ecological criteria in selecting marine
+                                                                                  120. Asch RG, Collie JS: Changes in a benthic megafaunal community due to
+     reserves and developing reserve networks. Ecol Appl 2003, 13(1):215–228.
+                                                                                        disturbance from bottom fishing and the establishment of a fishery
+98. Chiappone M, Sullivan-Sealey KM: Marine reserve design criteria and
+                                                                                        closure. Fish Bull 2008, 106(4):438–456.
+     measures of success: Lessons learned from the Exuma Cays Land and
+                                                                                  121. Grizzle RE, Ward LG, et al: Effects of a large fishing closure on benthic
+     Sea Park, Bahamas. Bull Mar Sci 2000, 66(3):691–705.
+                                                                                        communities in the western Gulf of Maine: recovery from the effects of
+99. Stewart GB, Kaiser MJ, Cote IM, Halpern BS, Lester SE, Bayliss HR, Pullin AS:
+                                                                                        gillnets and otter trawls. Fish Bull 2009, 107(3):308–317.
+     Temperate marine reserves: global ecological effects and guidelines for
+                                                                                  122. Underwood AJ: Beyond BACI: the detection of environmental impacts on
+     future networks. Conserv Lett 2009, 2(6):243–253.
+                                                                                        populations in the real, but variable, world. J Exp Mar Biol Ecol 1992,
+100. Anderson MJ, Millar RB: Spatial variation and effects of habitat on
+                                                                                        161:145–178.
+     temperate reef fish assemblages in northeastern New Zealand. J Exp Mar
+                                                                                  123. Jones PJS: Fishing industry and related perspectives on the issues raised
+     Biol Ecol 2004, 305:191–221.
+                                                                                        by no-take marine protected area proposals. Mar Pol 2008, 32:749–758.
+101. Monaco ME, Friedlander AM, Caldow C, Hile SD, Menza C, Boulon RH: Long-term
+                                                                                  124. Hiddink JG, Hutton T, Jennings S, Kaiser MJ: Predicting the effects of area
+     monitoring of habitats and reef fish found inside and outside of the US
+                                                                                        closures and fishing effort restrictions on the production, biomass, and
+     Virgin Islands Coral Reef National Monument: a comparative assessment.
+                                                                                        species richness of benthic invertebrate communities. ICES J Mar Sci
+     Caribb J Sci 2009, 45:338–347.
+                                                                                        2006, 63:822–830.
+102. Francour P: The effect of protection level on a coastal fish community at
+     Scandola. Corsica Rev Ecol (Terre Vie) 1991, 46:65–81.
+                                                                                    doi:10.1186/2047-2382-2-4
+103. Micheli F, Benedetti-Cecchi L, et al: Human impacts, Marine protected
+                                                                                    Cite this article as: Sciberras et al.: Evaluating the biological
+     areas, and the structure of Mediterranean reef assemblages. Ecol Monogr
+                                                                                    effectiveness of fully and partially protected marine areas. Environmental
+     2005, 75(1):81–103.                                                            Evidence 2013 2:4.
+104. Valle C, Bayle-Sempere JT: Effects of a marine protected area on fish
+     assemblage associated with Posidonia oceanica seagrass beds: temporal
+     and depth variations. J Appl Ichthyol 2009, 25(5):537–544.
+105. Jouvenel JY, Pollard DA: Some effects of marine reserve protection on the
+     population structure of two spearfishing target-fish species,
+     Dicentrarchus labrax (Moronidae) and Sparus aurata (Sparidae), in
+     shallow inshore waters, along a rocky coast in the northwestern
+     Mediterranean Sea. Aquat Conserv Mar Freshwat Ecosyst 2001, 11(1):1–9.
+

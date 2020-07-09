@@ -1,0 +1,701 @@
+Jakobsson et al. Environ Evid (2018) 7:17
+https://doi.org/10.1186/s13750-018-0129-z                                                                             Environmental Evidence
+  SYSTEMATIC REVIEW                                                                                                                                     Open Access
+How does roadside vegetation
+management affect the diversity of vascular
+plants and invertebrates? A systematic review
+Simon Jakobsson1* , Claes Bernes2, James M. Bullock3, Kris Verheyen4 and Regina Lindborg1
+  Abstract
+  Background: With appropriate management, based on vegetation removal that reverses late-successional veg-
+  etation stages, roadsides can support high levels of biodiversity. However, current recommendations for roadside
+  management to conserve or restore biodiversity are largely based on research on non-roadside grassland habitats,
+  and much of the evidence on how roadside management practices affect biodiversity is found in non-peer-reviewed
+  grey literature. Therefore, based on suggestions from key stakeholders and an initial systematic map that identified 97
+  studies on how biodiversity is affected by vegetation removal on roadsides, we conducted a full systematic review of
+  the effects on plant and invertebrate diversity of disturbance-based maintenance of roadsides.
+  Methods: The review was restricted to effects of non-chemical interventions such as mowing, burning, grazing
+  and mechanical shrub removal. Studies were selected from the systematic map and from an updated search for
+  more recent literature using a priori eligibility criteria. Relevant articles were subject to critical appraisal of clarity and
+  susceptibility to bias, and studies with low or unclear validity were excluded from the review. Data on species rich-
+  ness, species diversity and abundance of functional groups were extracted together with metadata on site properties
+  and other potential effect modifiers. Results from the 54 included studies were summarised in a narrative synthesis,
+  and impacts of mowing practices on the total species richness and diversity of plants and on the abundance of forbs,
+  graminoids and woody plants were quantitatively analysed using t tests of study-level effect ratios.
+  Results: Nearly all of the 54 studies included in the review were conducted in Europe (29) or North America (24).
+  The vast majority of studies (48) examined impacts of mowing. Effects on vascular plants were reported in 51 studies,
+  whereas 8 of the studies reported on invertebrates. Quantitative analysis of plant species richness and species diver-
+  sity showed that mowing effects were dependent on the interplay between mowing frequency and hay removal.
+  Thus, there were no statistically significant overall effects of mowing vs. no mowing, frequency of mowing, timing of
+  mowing or hay removal. However, species richness was higher in roadsides mowed once or twice per year with hay
+  removal than in unmown roadsides, and positively affected by mowing twice compared to once per year. Similar, but
+  less pronounced, effects were found for plant species diversity. In addition, mowing had a negative impact on woody
+  plant abundance, and increased mowing frequency had a negative impact on graminoid abundance. The few studies
+  on invertebrates showed effects that diverged across taxon groups, and there was not enough data for quantitative
+  analysis of these results.
+  Conclusions: The results provide evidence on the effects of mowing on plant species richness. To increase plant
+  species richness, roadsides should be mowed each year, preferably twice per year, and hay should be removed after
+  each cutting. The review also identifies large knowledge gaps concerning roadside management and its effects on
+*Correspondence: simon.jakobsson@natgeo.su.se
+1
+  Department of Physical Geography, Stockholm University, 106
+91 Stockholm, Sweden
+Full list of author information is available at the end of the article
+                                              © The Author(s) 2018. This article is distributed under the terms of the Creative Commons Attribution 4.0 International License
+                                              (http://creat​iveco​mmons​.org/licen​ses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium,
+                                              provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license,
+                                              and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creat​iveco​mmons​.org/
+                                              publi​cdoma​in/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+
+Jakobsson et al. Environ Evid (2018) 7:17                                                                          Page 2 of 14
+  biodiversity, especially regarding invertebrates. Hence, this systematic review provides not only a valuable basis for
+  evidence-based management but also guidance for future research on this topic, essential to inform management of
+  road networks for biodiversity conservation.
+  Keywords: Biodiversity, Burning, Grazing, Invertebrates, Mowing, Species diversity, Species richness, Vegetation
+  removal
+Background                                                        semi-natural grasslands [2], where the effects of grazing
+With the construction of an increasing number of roads            and mowing on biodiversity are well studied [16]. How-
+to fulfil rising transportation needs, roadside habitats          ever, due to construction and management activities spe-
+have also expanded throughout the world. Most road-               cific to roadsides, the impact of mowing and grazing on
+sides are managed to some extent, mainly for traffic-             roadside biodiversity could potentially be different com-
+safety purposes. However, with appropriate maintenance,           pared to effects documented from grassland manage-
+many roadsides can also benefit biodiversity by harbour-          ment. Soil preparation, ditching, use of salt for de-icing
+ing a rich flora and fauna. Roadsides offer opportuni-            and other measures for infrastructure construction and
+ties particularly for grassland species [1, 2] and have           maintenance could modify the effects of roadside man-
+therefore been acknowledged as potential substitutes              agement. In addition, roadsides receive a continuous
+for grasslands and similar open habitats [3], which are           influx of nutrients and base cations via run-off from the
+currently declining globally [4, 5]. More specifically, the       road surface. The higher temperature on the road surface
+management regimes and abiotic conditions of roadsides            further contributes to the specific environment of road-
+may be similar to those of mown or grazed semi-natural            sides, making them not directly comparable with other
+grasslands [6].                                                   grassland habitats. Management effects on biodiversity
+   Semi-natural grasslands are known for their high bio-          are less well studied along roadsides than in meadows
+diversity [7, 8] but their extent has declined rapidly in         and pastures, and much of the existing evidence on road-
+Europe over the last century due to agricultural inten-           sides is comprised of grey literature not assessed by inde-
+sification and abandonment of traditional management              pendent reviewers. For these reasons, key stakeholders
+[9, 10]. Many species that historically were associated           in Sweden have emphasised the need for more targeted
+with the traditional low-intensity management of mead-            guidelines for roadside management based on actual
+ows and pastures now thrive along roads instead [11]. In          studies of roadsides [17].
+Sweden, some 190,000 ha of managed grasslands occur                 Following a suggestion from the Swedish Board of
+along built infrastructure, 164,000 ha of which consti-           Agriculture, we recently performed systematic mapping
+tute roadsides [12]. This amounts to more than a third of         of the available knowledge on how roadside manage-
+the total extent of meadows and pastures in Sweden (ca.           ment affects biodiversity and the dispersal of species [18].
+450,000 ha) [13]. It is therefore crucial to optimise road-       Since we wanted to look for evidence on general patterns
+side management in order to sustain biodiversity values           of management effects, we made a global survey with no
+linked to semi-natural grassland habitats.                        particular focus on Scandinavian conditions. The system-
+   Managing grassland habitats for biodiversity usually           atic map showed that much of the literature on ecologi-
+requires removing vegetation, e.g. by mowing, graz-               cal effects of roadside management describes attempts
+ing or burning, thereby slowing or halting succession to          to revegetate recently constructed roadsides, or the use
+more woody communities [14]. Differences in mowing                of herbicides for controlling roadside vegetation in gen-
+regimes may affect both animal and plant populations.             eral and invasive/nuisance plants in particular. Chemical
+For instance, mowing before flowering and seed produc-            management of roadsides is nowadays largely restricted
+tion will weaken the link between pollinators and flower-         in many countries, and the literature that we found on
+ing plants, as many plants need assistance by pollinators         such management was dominated by older American
+to produce seeds and pollinators need the flowers for             studies (many of them dating from the 1970s or earlier)
+nectar and pollen resources [15]. Disturbance-tolerant            on substances that are now obsolete.
+plant species will generally be favoured by mowing, while           However, we also found more than a hundred studies
+species representing late-successional stages will be             with more obvious relevance to biodiversity conserva-
+disfavoured.                                                      tion or restoration in roadsides, including their role as
+   Current recommendations for roadside manage-                   substitutes for grasslands and other habitats under threat
+ment to promote conservation values are largely based             in intensively managed landscapes. More specifically,
+on botanical research on meadows, pastures and other              we identified 97 studies of how the richness, diversity or
+
+Jakobsson et al. Environ Evid (2018) 7:17                                                                      Page 3 of 14
+abundance of various taxonomic or functional species         applied no geographical restrictions when collecting and
+groups in roadsides is affected by vegetation management     analysing the evidence.
+such as regular mowing, burning, grazing or selective
+mechanical removal of plants. These disturbance-based        Primary question
+management practices can be regarded as comparable, as       How does roadside maintenance and restoration imple-
+all of them entail partial or total removal of biomass [19]. menting non-chemical vegetation removal affect the
+A review of their impact on biodiversity could therefore     diversity of vascular plants and invertebrates?
+permit some generalisable conclusions. Most of the 97
+studies recorded management effects on vascular plants,
+                                                             Components of the primary question
+but there were also 14 potentially relevant investigations
+of insects or other invertebrates.
+                                                             Population:	     roadside habitats and the species of
+   Studies of non-chemical interventions that might aid
+                                                                               vascular plants and invertebrates found
+the conservation or restoration of roadside biodiversity
+should be of considerable interest to roadside manag-                          within them.
+ers, including transportation and conservation agencies,     Intervention:	maintenance or restoration of roadside
+park authorities, municipalities, farmers and other land-                      habitats based on non-chemical vegeta-
+owners. This has been confirmed by our contacts with                           tion removal such as mowing, grazing,
+Swedish stakeholders. For instance, according to a rep-                        burning, clearance of shrubs and sap-
+resentative of the Swedish Transport Administration, it                        lings, coppicing, pruning, or mechanical
+is of central importance to clarify precisely how mowing                       removal of invasive plants.
+and similar kinds of roadside management should be car-      Comparator:	non-intervention or alternative forms of
+ried out to give the desired results under various biotic                      the interventions.
+and abiotic circumstances. Effects of different manage-      Outcomes:	       measures      of    functional/taxonomic
+ment interventions and the frequency with which they                           diversity (including abundance) of vas-
+are performed were mentioned as being of particular                            cular plants or invertebrates.
+interest (Anders Sjölund, pers. comm.). A representative
+of the Swedish Biodiversity Centre also underscored the
+importance of considering potential effect modifiers such    Methods
+as soil type, nutrient status, shading, management history   Search strategy
+and presence/absence of invasive species (Tommy Len-         Most of the evidence synthesised in this systematic
+nartsson, pers. comm.).                                      review was selected from the recently compiled system-
+   Encouraged by the input from stakeholders, we decided     atic map of biodiversity impacts of roadside management
+to proceed with a full systematic review of how distur-      [18]. The systematic map was based on literature searches
+bance-based maintenance or restoration of roadsides          using 13 publication databases, four search engines and
+affects the diversity of vascular plants and invertebrates.  36 specialist websites. The majority of these searches
+Systematic reviews are designed to permit unbiased           were performed in October–December 2015. English
+quantitative conclusions. Our review follows the guide-      was the primary search language, but searches on spe-
+lines for systematic reviews in environmental manage-        cialist websites for relevant literature in Danish, Dutch,
+ment issued by the Collaboration for Environmental           French, German, Norwegian, Spanish or Swedish were
+Evidence [20, 21]. The design of the review was estab-       made using search terms in these languages. We checked
+lished in detail in a peer-reviewed protocol [22].           the comprehensiveness of our searches using the bibliog-
+                                                             raphies of five literature reviews (see Bernes et al. [17] for
+Objective of the review                                      details on the search strategy and a full list of specialist
+The primary aim of the systematic review was to clarify      websites and literature reviews).
+how the diversity of vascular plants and invertebrates is      When deciding whether an article included in the sys-
+affected by roadside maintenance or restoration using        tematic map was also eligible for inclusion in the review,
+various forms of non-chemical vegetation removal. The        we used the criteria described in the next section. This
+ultimate aim of the review was to facilitate evidence-       set of eligibility criteria is a more restrictive version of
+based management of roadsides to conserve or restore         that used for the systematic map.
+the diversity of plants and invertebrates. The review          To identify more recently-published literature on the
+is largely based on studies selected from our system-        specific topic of the systematic review, we also performed
+atic map of the evidence on how roadside management          a search update, using the following subset of the search
+affects biodiversity and the dispersal of species [18]. We   terms used for the systematic map:
+
+Jakobsson et al. Environ Evid (2018) 7:17                                                                        Page 4 of 14
+Population:	     roadside*, “road side*”, (road* AND        assess studies authored by themselves. Final decisions
+                  (verge* OR edge*)), roundabout*, “traffic  on whether to include doubtful cases were taken by the
+                  island*”, “median strip*”, “central reser- review team as a whole. A list of studies rejected on the
+                  vation*”, boulevard*, parkway*, (avenue*   basis of full-text assessment is provided in Additional
+                  AND tree*).                                file 2 together with the reasons for exclusion.
+Outcomes:	*diversity, species, abundance, vegetation.          In order to be included in the review, studies included
+                                                             in the systematic map or identified during the search
+  The terms within the ‘population’ and ‘outcomes’ cat-      update had to pass each of the following criteria:
+egories were combined using the Boolean operator
+‘OR’. The two categories were then combined using the           ••  Relevant subjects Roadsides anywhere in the world.
+Boolean operator ‘AND’. An asterisk (*) is a ‘wildcard’ that        We defined a roadside as the unpaved zone of a road
+represents any group of characters, including no charac-            that is exposed to roadside management.
+ter. The search terms were identical to the original search     ••  Relevant types of intervention Maintenance or resto-
+terms except for “dispers*”, which was not included in              ration of roadsides based on non-chemical vegetation
+this updated search because species dispersal was not of            removal such as mowing, grazing, burning, clear-
+interest for this review (and we did not find any relevant          ance of shrubs and saplings, coppicing, pruning, or
+studies on this topic in the systematic map).                       mechanical removal of invasive plants.
+  The search update was performed in May 2017 and               ••  Relevant type of comparator Non-intervention or
+covered literature published in 2015 or later. When mak-            alternative forms of the interventions. Comparisons
+ing literature searches for the systematic map, we found            can in principle be made both temporally and spa-
+that about 90% of recent studies eventually included                tially. Studies with a ‘BA’ (Before/After) design com-
+as relevant had been identified through Scopus and/                 pare data collected at the same site prior to and fol-
+or Transport Research International Documentation                   lowing an intervention. Other studies may be based
+(TRID). Therefore, we considered it sufficient to base              on comparison of different parts of a roadside, some
+the search update on these two resources, with a sup-               that have been subject to a certain kind of manage-
+plementary search in Google Scholar. When searching                 ment and some that have not. These may be termed
+in Google Scholar, we examined the first 200 hits (based            as ‘CI’ (Comparator/Intervention) studies, or ‘BACI’
+on relevance) for appropriate data. No language or docu-            (Before/After/Comparator/Intervention) if they pre-
+ment type restrictions were applied, but searches were              sent data collected both before and after the inter-
+conducted using English search terms only. A detailed               vention.
+description of our searches for literature is available in      ••  Relevant types of outcome Measures of functional/
+Additional file 1.                                                  taxonomic diversity of vascular plants or inverte-
+                                                                    brates (including abundance of assemblages and
+Article screening and study eligibility criteria                    single species). Ratings of intervention effects based
+Articles identified during the search update were evalu-            on visual assessments of vegetation vitality were not
+ated for inclusion at three successive levels. First, they          considered to be relevant.
+were assessed by title. Next, each article found to be          ••  Relevant type of study Primary field studies (reviews
+potentially relevant on the basis of title was judged for           and other secondary compilations were not
+inclusion on the basis of abstract. Finally, each article           included).
+found to be potentially relevant on the basis of abstract       ••  Language Full text written in English, Danish, Dutch,
+was judged for inclusion based on the full text. At all             French, German, Norwegian, Spanish or Swedish.
+stages of this screening process, the reviewer tended
+towards inclusion in cases of uncertainty.
+  The screening was performed by reviewers who par-          Study validity assessment
+ticipated in the main screening of studies for the system-   Studies that passed the eligibility criteria described above
+atic map and who were therefore well acquainted with         were subject to critical appraisal: Based on assessments
+the relevant literature and with the study eligibility cri-  of their clarity and susceptibility to bias, they were cat-
+teria. The screening of articles from the search update      egorised as having high, low or unclear validity (with
+could be seen as a continuation of the main screening,       regard to our review question).
+for which detailed, multi-level consistency checking was        Studies were excluded from the review due to low
+performed. Articles identified by the primary reviewer       validity if any of the following factors applied:
+as potentially utilisable based on the full text were also
+assessed by a second reviewer, and reviewers did not            ••  No true replication (interventions not replicated).
+
+Jakobsson et al. Environ Evid (2018) 7:17                                                                     Page 5 of 14
+  ••  Intervention and comparator sites not well-matched     a comparison between an intervention and a control (no
+      (sites substantially different before intervention).   intervention). The second spreadsheet was used for stud-
+  ••  Severely confounding factors present (e.g. additional  ies where no untreated control was included; here, each
+      treatments carried out at the intervention sites but   row represented a comparison between two different
+      not at the comparator sites).                          kinds of intervention. Extracted data were examined by a
+                                                             second reviewer.
+  We also excluded studies that were unclear to such an
+extent that their validity could not be judged, for instance Potential effect modifiers and reasons for heterogeneity
+due to absence of key information on study design. More      To the extent that data were available, the following
+specifically, we categorised a study as having unclear       potential effect modifiers were considered and recorded:
+validity if any of the following factors applied:
+                                                             Roadside data
+  ••  Methodological description insufficient (e.g. not           Type, timing and intensity/frequency of roadside
+      clear to what extent the study was actually conducted       management.
+      at roadsides).                                              Goals of the management (e.g. conservation/resto-
+  ••  Intervention data could not be interpreted (e.g. since      ration of biodiversity).
+      they consisted of post hoc records such as ‘evidence        Roadside manager.
+      of mowing’).                                                Width, aspect and slope of roadside.
+                                                                  Type and structure of roadside vegetation.
+  If none of the above five factors applied, the study was        Soil type.
+considered to have high validity and was included in the          Nutrient status of the soil.
+systematic review.                                                Shading, e.g. by trees.
+  The validity of each study was assessed by one reviewer
+and double-checked by another one. Reviewers did not         Road data
+assess studies authored by themselves. Final decisions            Road type (width, type of surface).
+on how to judge doubtful cases were taken by the review           Time elapsed since the road (or roadside) was con-
+team as a whole. A list of studies rejected on the basis          structed.
+of validity assessment is provided in Additional file 3           Traffic (no. of vehicles per day).
+together with the reasons for exclusion.                          Road maintenance (e.g. salting, gritting, dust con-
+                                                                  trol, snow clearance).
+Data extraction strategy
+Outcome means and measures of variability (standard          Study setting
+deviation) or precision (standard error) were extracted           Geographical coordinates.
+from tables, graphs and text in the included articles.            Altitude.
+When necessary, image analysis software (WebPlot-                 Mean annual temperature and precipitation.
+Digitizer, http://aroha​tgi.info/WebPl​otDig​itize​r/) was        Vegetation, land use and history of land use in the
+used. Extracted outcomes included measures of species             surroundings of the road.
+richness, species diversity (e.g. diversity indices) and
+abundance of taxonomic or functional groups of organ-        Study setting
+isms. Data on abundances of individual species were not           Geographical coordinates.
+extracted, since such data have limited relevance to our          Altitude.
+review question and since few studies had reported on             Mean annual temperature and precipitation.
+the same species.                                                 Vegetation, land use and history of land use in the
+  Where relevant outcomes had been reported in a for-             surroundings of the road.
+mat that impeded inclusion in quantitative analyses,
+study authors were asked to supply raw or summarised           Where data on altitude and climate were not available
+digital data instead. Received raw data were compiled        in the included articles, we retrieved them from Google
+and summarised by ourselves (if needed). Metadata, such      Earth and WorldClim [23], respectively, using the coordi-
+as data on potential effect modifiers (see below), were      nates of study sites.
+extracted if present in the published material; no requests
+were sent for unpublished data of that kind.                 Data synthesis and presentation
+  Data were recorded using two Excel spreadsheets (see       The studies included in this review reported on
+Additional file 4). In the first one, each row represented   several different types of vegetation removal (e.g.
+
+Jakobsson et al. Environ Evid (2018) 7:17                                                                     Page 6 of 14
+mowing, burning and grazing) and their effects on dif-       been reported over several years, we only used data from
+ferent measures of biodiversity (species richness, spe-      the final year of sampling.
+cies diversity and abundance) of vascular plants and           To the extent possible, we analysed how each of the five
+invertebrates. However, the only combinations of             plant-community aspects were affected by (i) mowing
+intervention and outcome that allowed for quantitative       in general (vs. no mowing), (ii) specific mowing regimes
+analysis, being covered by at least three studies, were      (vs. no mowing), and (iii) differences between mowing
+the impacts of mowing (including different mowing            regimes. We characterised the mowing regimes based
+regimes) on five aspects of plant communities: over-         on three elements: (1) frequency, i.e. number of treat-
+all species richness and species diversity of plants, and    ments per year, (2) timing of the treatment(s), and (3)
+abundance (cover) of forbs, graminoids and woody             hay treatment (removal or no removal). When examin-
+plants. Data on species richness were included in our        ing specific mowing regimes, we analysed the effects of
+analyses only if reported as the total number of vas-        each of these three elements separately (based on com-
+cular plant species (we did not use data on subcatego-       parisons where the other two elements had been kept
+ries such as invasive or native species, flowering herbs,    unchanged), but we also analysed the effects of specific
+annual species etc.). Our analyses of species diversity      combinations of mowing frequency and hay treatment.
+were limited to data on the Shannon index (H′), since        Similarly, when examining differences between mow-
+this was the only species diversity index consistently       ing regimes, we made separate analyses of the effects
+reported across studies.                                     of mowing frequency, timing of mowing, and hay treat-
+   Due to the heterogeneity of the published statistical     ment. These analyses were made both across all avail-
+analyses in general, and the lack of reported measures of    able data on such changes, and on subsets with specific
+variability in particular (such measures were only avail-    selections of regime elements (e.g. comparisons between
+able for 37% of the studies), we conducted no meta-anal-     mowing once and twice per year that only included cases
+ysis of the extracted outcomes. None of the imputation       with hay removal).
+methods described by Wiebe et al. [24] were considered         Each set of study-mean effect ratios was analysed
+appropriate for the data analysed in this review. Specifi-   using a one-sample t test, testing the null hypothesis that
+cally, an approach based on weighted mean imputation of      effect ratios were different from one. This was done for
+variance would suffer from the large between-study vari-     both weighted and unweighted data. Adjusted from [25],
+ation, and imputation methods using p values were not        weighting was based on the number of replicate treat-
+considered feasible due to inconsistent reporting of such    ments (n) and the sampling area within each replicate (s),
+values.                                                      following Eq. 3. In the original equation, Steward et al.
+   Therefore, we analysed the effects of mowing on biodi-    [25] multiplied the replicate term by both area sampled
+versity using a simplified approach based on one-sample      and plot area, but as we use data from both observational
+t tests of study-level mean effect ratios. The analysis was  and experimental studies we applied only sampling area
+conducted exclusively on the effects of mowing and how       within replicates in our calculation.
+those effects depended on different mowing regimes.                                                    √
+Other effect modifiers were not considered applicable in                                  3 nI × n C      s
+the analysis as they were not reported consistently across         Observation weight =              ×                (3)
+                                                                                            nI + nC      2
+studies.
+   Effect ratios were calculated according to Eqs. 1 or 2,
+depending on the study design (CI or BACI):                    Thus, weighted analyses were restricted to studies
+                                                             reporting both n and s. To be able to compare results
+      Effect ratio (CI) = BDI /BDC                       (1) based on weighted and unweighted data, we also made
+                                                            unweighted analyses using the same subsets of studies as
+                                    BDIA    BDIB
+      Effect ratio (BACI) =                              (2) for the weighted analyses.
+                                    BDCA    BDCB               Additionally, we analysed the difference between effects
+                                                             on forbs and graminoids with paired t tests, using only
+where BD = biodiversity measure, I = intervention,           studies that had reported abundances of both groups.
+C = comparator, B = before, A = after. Generally, for each     We were not able to examine the possible influence of
+analysis, we calculated the average effect ratio across      publication bias on the synthesis because of the incom-
+all relevant comparisons reported by a study. However,       plete reporting of variation, precision and statistical sig-
+where studies provided separate outcomes for different       nificance in the included studies. The findings of studies
+road types (e.g. highways and rural roads), we calculated    included in the review have also been summarised in a
+separate means for each road type. Where outcomes had        narrative synthesis.
+
+Jakobsson et al. Environ Evid (2018) 7:17                                                                        Page 7 of 14
+Results                                                           Our updated search for recently published literature
+Review descriptive statistics                                  on effects of roadside management returned 1228 arti-
+Literature identification and screening                        cles from Scopus and 56 articles from TRID (Transport
+Our systematic map of impacts of various forms of road-        Research International Documentation). Of these arti-
+side management included a total of 301 studies [18]. Of       cles, 1054 had not been available when we searched for
+them, 97 were listed as describing effects of non-chem-        literature for the systematic map (see Additional file 1).
+ical vegetation removal and thus potentially eligible for      Title screening of the new articles left 320 that we consid-
+inclusion in this review. When reassessing these studies,      ered as potentially relevant to the review. After screening
+we concluded that eight of them (reported in five differ-      on abstracts, 55 of these articles remained. At this stage
+ent articles—see Additional file 2) described interven-        of the screening process, we also introduced one arti-
+tions or outcomes that were not fully consistent with our      cle that had been identified in Google Scholar and one
+eligibility criteria. This left 89 studies from the systematic that we received from an author. Of the 57 articles thus
+map that we considered as relevant to the review (Fig. 1).     selected, five could not be retrieved. Full-text screening
+  Fig. 1 Overview of article inclusion and screening
+
+Jakobsson et al. Environ Evid (2018) 7:17                                                                      Page 8 of 14
+of the other ones led to the exclusion of 46 articles, leav-    Most of the studies in the review (41) were based on
+ing six articles that each described one relevant study      quasi-experimental interventions on existing roadsides,
+(Fig. 1). Reasons for exclusion based on full text are pro-  but 13 studies were observational in the sense that they
+vided in Additional file 2—the most common reason was        only recorded effects of regular roadside maintenance.
+absence of usable information on how roadsides were          The ultimate goals of the interventions were not always
+managed.                                                     stated explicitly, but 13 of the 41 experimental studies
+  Critical appraisal of the 95 studies that had passed rel-  examined management options intended to conserve
+evance screening led to the exclusion of 41 studies due to   or restore roadside biodiversity in general, another nine
+low or unclear validity (see Additional file 3 and the nar-  focused on attempts to restore native vegetation, whereas
+rative synthesis below).                                     seven investigated different ways of controlling specific
+  Consequently, 54 studies (described in 51 articles)        invasive or otherwise undesirable species. Eleven studies
+were included in this review. Three articles described the   examined the efficiency of various options for controlling
+same experiment [26–28], and another experiment was          weed growth and vegetation height without considering
+described in two articles [29, 30], but we retained all of   any biodiversity aspects.
+these five articles as separate studies since they presented    The majority of included studies were relatively short-
+partly different selections of outcomes and/or covered       term—36 of them were made over a period of 3 years or
+different time periods. However, quantitative data were      less, but 13 studies examined interventions or mainte-
+extracted only from van de Haterd et al. [26] and Parr       nance procedures that had lasted for 4–9 years, and five
+and Way [30], which reported on the most recent results.     studies were made over a period of 10 years or more. The
+  The majority of articles (43) were written in English,     longest-term studies reported on an experiment that had
+but four were written in Dutch, two in Danish, one in        run for 23 years [26, 27]. A BACI design had been applied
+Norwegian and one in Swedish. About two-thirds of the        by 12 of the studies, whereas all of the other ones (42)
+articles (32) were published in peer-reviewed scientific     had a CI design. None of the included studies had a BA
+journals, whereas the other articles could be character-     design.
+ised as ‘grey literature’, consisting of reports issued or      Nearly all of the studies in the review (51) examined
+commissioned by authorities (15), conference proceed-        effects of roadside management on vascular plants,
+ings (2), or academic theses (2). The year of publication    whereas effects on invertebrates were reported in eight
+ranged from 1970 to 2016, with a median of 2006.             studies. Of the plant studies, 19 reported effects on spe-
+                                                             cies richness and/or species diversity indices. Abundance
+                                                             (measured as cover, frequency, density or biomass) was
+Characteristics of included studies                          reported for vegetation as a whole in eight studies and for
+Slightly more than half of the studies (29) included in the  major subgroups of vascular plants in 11 studies, whereas
+review were conducted in Europe, with six in the Nether-     18 studies focused on the abundance of one or a few indi-
+lands, five each in Finland and Sweden, four in Norway,      vidual plant species.
+three in the UK, two each in Denmark and France, and            Of the invertebrate studies, five reported on the abun-
+one each in Austria and Belgium. Nearly all of the other     dance and/or species richness of insect groups (such as
+studies were conducted in North America (24), with 23        lepidopterans), while two studies focused on the abun-
+being performed in the US and one in Canada. One study       dance of a single ant or butterfly species, and one study
+was made in South Africa, but we found no relevant           reported on the abundance and species richness of
+studies from Asia, Australia and South America and none      arthropods in general.
+from tropical regions.
+  The vast majority of included studies (48) examined        Narrative synthesis including study quality assessment
+effects of mowing, whereas effects of burning were           Of the 41 studies excluded based on our critical appraisal
+reported by seven studies (three of which investigated       (see above), 21 were classified as having low validity, while
+both mowing and burning). One study reported on              the other 20 were classified as having unclear validity (see
+effects of grazing and one on effects of shrub removal. Of   Additional file 3). The most common exclusion categories
+the mowing studies, 38 compared mown and unmown              were ‘intervention data difficult to interpret’ (15 studies),
+roadsides. Effects of different mowing frequencies were      ‘severely confounding factors present’ (11 studies), and
+examined by 28 studies, whereas 16 studies compared          ‘methodological description insufficient’ (10 studies) (see
+effects of mowing in different seasons and 14 compared       “Study validity assessment” under “Methods”).
+effects of hay removal vs. no hay removal after mowing.         An overview of included studies is provided in Addi-
+Many studies included more than one of these kinds of        tional file 5. For each study, the table gives the full refer-
+comparison.                                                  ence, data on study location(s) including characteristics
+
+Jakobsson et al. Environ Evid (2018) 7:17                                                                      Page 9 of 14
+of roads and roadsides, details on study design, interven-  mowed than in unmowed roadsides, although also with
+tions and sampling, and a brief summary of biodiver-        the clearest effect in roadsides mowed twice per year. The
+sity outcomes as reported by the study authors. Of the      responses of functional group abundances to other mow-
+included studies, 37 analysed effects of roadside man-      ing regimes showed too large variability to allow overall
+agement on biodiversity using statistical tests. Among      conclusions (Fig. 3, Additional file 6).
+these studies, 20 investigated effects on species richness     We found very similar effects on the biodiversity out-
+or diversity and/or abundances of functional groups of      comes using weighted and unweighted data (Additional
+plants or invertebrates (whereas the other ones mainly      files 6, 7); individual mean effect ratios were strongly cor-
+reported on total vegetation cover/biomass or individual    related between the two approaches (r = 0.95 and 0.91 for
+species). We found 22 datasets (data from Jantunen et al.   species richness (n = 26) and Shannon diversity (n = 9),
+[31] were separated by road type into four different com-   respectively).
+parable studies) where effects of mowing on plant species
+richness, plant diversity and abundances of functional      Effects of other interventions on vascular plants
+plant groups were reported in a way that allowed us to      One study investigated impacts of roadside grazing, find-
+analyse them quantitatively. Of these datasets, 13 com-     ing no effects on vascular plant species richness [32].
+pared effects of mowing vs. no mowing, 13 compared          Camp and Best [33] found that graminoid abundance was
+different mowing frequencies, five compared different       lower in burned than in unburned roadsides, and Gor-
+timings of mowing, and six compared effects of removal      don et al. [34] found that mowing had negative effects on
+vs. no removal of hay. Data on the effects of other inter-  shrub density compared to burning. In addition, Young
+ventions on vascular plants and effects of mowing on        and Claassen [35] found positive effects of burning on the
+invertebrates did not allow for quantitative analysis, but  cover of annuals but no effect on native perennial cover,
+they are qualitatively synthesised below. Several studies   similar to the effects of mowing, and Charvat et al. [36]
+investigated effects of mowing on the cover of individual   found effects of burning on neither native nor exotic spe-
+species or vegetation as a whole; these are summarised in   cies cover.
+Additional file 5.
+                                                            Effects of mowing on invertebrates
+Data synthesis                                              Few studies had investigated the same groups of inverte-
+Effects of mowing on vascular plants                        brates being exposed to the same roadside management
+Quantitative analysis of plant species richness and Shan-   regimes. Consequently, findings on management effects
+non diversity showed that mowing effects were depend-       on these groups are difficult to generalise. Noordijk
+ent on the interplay between mowing frequency and           et al. [37] found positive effects on the species rich-
+hay removal. Thus, there were no statistically significant  ness of arthropods in general of increasing the mowing
+overall effects of mowing vs. no mowing, frequency of       frequency from once to twice per year in medium- and
+mowing, timing of mowing or hay removal on plant spe-       high-productive roadsides, and of hay removal in
+cies richness and Shannon diversity. However, species       medium-productive verges. According to the same study,
+richness of plants was higher in roadsides mowed once or    arthropod abundance was positively affected by more
+twice per year with hay removal compared to unmowed         frequent mowing and/or by hay removal (depending on
+roadsides, and also higher in roadsides mowed twice         roadside productivity). In addition, Noordijk et al. [38]
+compared to once per year (with or without removal of       found positive effects of higher mowing frequency on the
+hay), whereas mowing more than twice per year did not       abundance of flower-visiting insects. In contrast, Helden
+increase species richness. Shannon diversity of plants      and Leather [39] found that grassland Hemiptera species
+was also higher in roadsides mowed twice per year. There    richness and abundance were negatively affected by more
+were not enough studies to analyse the effects of hay       frequent mowing, whereas Halbritter et al. [40] found no
+removal on species diversity, and the variability was too   effect of the mowing frequency on butterfly abundance.
+large to allow conclusions on the effects of early vs. late Comparing roadsides mowed early and late in the year,
+mowing on plant species richness and Shannon diversity      Valtonen et al. [41] found no differences in species rich-
+(Fig. 2).                                                   ness and diversity of butterflies and diurnal moths.
+  Similarly, mowing frequency influenced how mow-
+ing affected abundances of functional groups. Mowing        Discussion
+twice instead of once per year had a statistically signifi- We found a small number of studies that could be used
+cant negative impact on graminoid abundance (cover),        to address quantitatively the primary question of this
+with a parallel positive trend towards higher abundance     systematic review. Studies on invertebrates were very
+of forbs. Woody plant abundance was in general lower in     scarce, and the vast majority of studies on vascular plants
+
+Jakobsson et al. Environ Evid (2018) 7:17                                                                                                    Page 10 of 14
+  Fig. 2 Mean effect ratios of mowing regimes on plant species richness and species diversity. Means and 95% CI are indicated by squares and lines,
+  respectively. Diversity is measured as Shannon index (H’), and all data are based on unweighted t tests. Left columns specify mowing frequency (1–3
+  per year), hay removal (Y/N) and timing of mowing (E = early, L = late, S = several). Data are divided into effects of mowing vs. no mowing (black
+  squares), frequency of mowing (blue), timing of mowing (green) and hay removal (red), with overall comparisons (averaging across other elements
+  of the mowing regime) in grey rows. Number of datasets used to calculate each mean effect ratio is given in brackets. Statistical significance
+  (p < 0.05) indicated by a * next to the number of studies
+focused on mowing impacts. Mowing itself is a rather                             negative. For example, Young and Claassen [35] found
+complex process, varying in frequency and in whether or                          positive effects of mowing on annuals but no effect on
+not cuttings are removed. Indeed, our analyses showed                            native perennials. Mowing twice instead of once per year
+that the effects of mowing on vascular plants were                               had different effects on vascular plant species richness
+dependent on the interplay between frequency of mow-                             and/or diversity depending on site properties [28, 37, 44].
+ing and hay removal, thus there were no statistically sig-                       For instance, Noordijk et al. [37] found positive effects
+nificant overall effects of mowing. Specifically, where cut                      only in moderately productive roadsides, and van Schaik
+hay was removed, mowing versus no mowing, or mow-                                and van den Hengel [28] found higher species richness
+ing twice a year compared to once led generally to higher                        in roadsides mowed twice compared to once per year
+plant species richness across the studies. Furthermore,                          except on shaded sandy soils. In contrast, Chaudron et al.
+mowing twice instead of once per year in general reduced                         [45] reported on negative effects on species richness of
+graminoid abundance, which supplies a mechanism for                              mowing twice per year compared to once per year early
+increased species richness. In grasslands, management                            in the season.
+that reduces graminoid cover often leads to increased
+species richness by benefitting forb species (e.g. [42, 43]).                    Reasons for heterogeneity
+   Perusal of the studies included in the narrative syn-                         The low number of studies with comparable study designs
+thesis supports these quantitative findings, but it also                         and the rather sparsely reported study contexts, i.e. effect
+illustrates the variability in outcomes. All studies that                        modifiers, made it difficult to detect clear effects of mow-
+compared mowing with no mowing found at least partly                             ing regimes on biodiversity. In particular, roadside pro-
+positive effects on vascular plant species richness. Under                       ductivity and road type seem to be of major importance
+certain conditions, the effect was absent, but it was never                      for how vascular plant diversity responds to mowing
+
+Jakobsson et al. Environ Evid (2018) 7:17                                                                                                       Page 11 of 14
+  Fig. 3 Mean effect ratios of mowing regimes on abundance of forbs, graminoids and woody plants. Means and 95% CI are indicated by squares
+  and lines, respectively. Diversity is measured as Shannon index (H’), and all data are based on unweighted t tests. When we analysed the abundance
+  of forbs and graminoids, we also included data on vegetation reported by study authors as herbaceous broadleaves and grasses, respectively. Left
+  columns specify mowing frequency (1–3 per year), hay removal (Y/N) and timing of mowing (E = early, L = late, S = several). Data are divided into
+  effects of mowing vs. no mowing (black squares) and frequency of mowing (blue) (there were not sufficient data for analysing effects of timing of
+  mowing and hay removal), with overall comparisons (averaging across other elements of the mowing regime) in grey rows. Number of datasets
+  used to calculate each mean effect ratio is given in brackets. Statistical significance (p < 0.05) indicated by a * next to the number of studies
+regimes [26–28, 31, 37]. This most likely contributed to                              Some aspects of mowing regimes were poorly repre-
+the variability of reported outcomes, but information on                           sented in the reviewed studies, especially different rou-
+roadside productivity was unfortunately absent in most                             tines for hay removal and different timing of mowing.
+of the included studies. Most studies provided informa-                            The review was also constrained by data limitations.
+tion about road type/size, but because of the lack of rep-                         Measures of variability or precision were often inad-
+lication across studies for certain combinations of road                           equately reported, which prevented us from conducting
+type and intervention/outcome, we did not include that                             a meta-analysis. In addition, we had to settle for analy-
+factor in the analyses.                                                            ses of taxonomic diversity and abundance of functional
+   Other potential effect modifiers, such as time elapsed                          groups due to the lack of available data on other aspects
+between intervention and sampling, roadside age,                                   of biodiversity, e.g. functional diversity and abundance of
+road maintenance and surrounding land use, may have                                individual rare species.
+affected the outcomes too, but these modifiers were also                              Effects of roadside management on invertebrates could
+too incompletely reported to allow us to consider them.                            not be analysed quantitatively due to the small number
+The lack of a standard protocol across studies meant that                          of comparable datasets—studies generally focused on
+data were gathered using different scales of measure-                              different taxonomic groups of invertebrates. Geographi-
+ments and different intervention combinations, further                             cally, there was a large bias towards European and North
+contributing to data heterogeneity.                                                American studies (29 and 24 studies, respectively, out
+                                                                                   of 54 in total), with no studies from Asia, Australia and
+                                                                                   South America and none from tropical regions. This lim-
+Review limitations                                                                 its the generalisability of the review, especially as soil type
+Mowing was the only management practice replicated                                 seems to be of major importance, implying that manage-
+well enough across studies to allow for a quantitative syn-                        ment effects may differ considerably between geographi-
+thesis of its effects on vascular plants. We were able to                          cal regions.
+compare effects of different mowing regimes, but there
+were insufficient data for analysing effects of e.g. grazing,                      Roadside vs. grassland management
+burning and removal of shrubs/saplings, and for compar-                            Despite the fact that management effects on grassland
+ing effects of the latter interventions to those of mowing.                        biodiversity have been extensively studied, there is—to
+
+Jakobsson et al. Environ Evid (2018) 7:17                                                                    Page 12 of 14
+our knowledge—no synthesis available that summarises        unable to draw general conclusions on how this taxo-
+the effects across different contexts and management        nomic group responds to roadside management.
+regimes. However, a few studies (e.g. [46, 47]) have ana-      Differences in roadside type as well as lack of infor-
+lysed biodiversity responses to multiple grassland man-     mation on other effect modifiers (such as time elapsed
+agement regimes across large environmental gradients        between intervention and sampling, roadside age, road
+and in different contexts. The conclusions were similar to  maintenance and soil type) make it somewhat difficult
+ours: a positive effect of mowing or, more generally, dis-  to inform policy or managers in more general ways on
+turbance was found, but results were strongly modified      how to manage roadsides. Nevertheless, based on our
+by interactions with site conditions.                       review we conclude that vascular plant richness is likely
+   There are, however, reasons to believe that effects of   to increase (i) if roadsides are mowed each year, (ii) if
+management in roadsides may diverge in the long run         they are mowed twice rather than once a year (this can
+from effects on grasslands. In unfertilised grasslands,     be expected to benefit forb diversity specifically), and (iii)
+sustained mowing and hay removal can lead to depletion      if hay is removed after each cutting. We believe that the
+of nutrients (e.g. [48]) in nutrient-poor sites, whereas    findings in this review could function as a first step in
+roadsides may be less affected. Nutrient-enriched run-off   guiding policymakers and managers on how to manage
+and/or dust from roads may counterbalance their export      roadsides most effectively for increased plant diversity in
+via hay removal. This influx of elements can be considera-  parallel with managing for traffic safety.
+ble (e.g. [49]), and it depends on factors such as pavement
+type and traffic load. At this time we can only speculate   Implications for research
+about the effects of these roadside-specific processes on   This systematic review shows that there are large knowl-
+biodiversity and the way they interact with management.     edge gaps on how management of roadsides affects diver-
+However, they might, among other processes, prevent         sity of vascular plants and invertebrates. First, relevant
+roadside vegetation from losing species that require a      studies on invertebrates were very few. Secondly, studies
+regular, but modest nutrient input in the long run, which   on vascular plant diversity are almost exclusively focused
+is of importance for conservation in some regions [50,      on mowing; few studies test effects of other management
+51].                                                        options such as burning or grazing, or effects of roadside
+   The input of pollutants, such as salt and heavy metals,  management in combination with influx of chemicals,
+is another run-off-related factor that may cause a diver-   nutrients or salt. The studies also suffer from short exper-
+gence in management effects between roadsides and           imental duration, limited geographic distribution, and
+grasslands. These inputs have the potential to alter pro-   lack of common research protocols.
+ductivity and competitive interactions between species         Studying roadside management is important to under-
+[52]. However, we do not know yet if, when, and where       stand effects on roadside biodiversity specifically, but
+they would lead to different management effects com-        also to understand effects of grassland management in
+pared to grasslands.                                        general and how management of roadsides can enhance
+                                                            overall landscape biodiversity. As semi-natural grass-
+                                                            lands currently are declining, roadsides harbouring many
+Conclusions                                                 grasslands species could with proper management be an
+Implications for policy/management                          important part of the green infrastructure in rural land-
+Although our first literature search gathered a large body  scapes [3]. Future studies should include both animals
+of studies, relatively few could be used to answer quan-    and plants to increase the knowledge of how roadside
+titatively the primary question of this systematic review.  management affects overall biodiversity and important
+Most studies focused on vascular plants and the impact      biodiversity relationships such as the link between plants
+of mowing regimes. Effects of mowing on plant species       and pollinating insects. Research should also target other
+richness were dependent on the interplay between fre-       aspects of biodiversity, such as threatened grassland spe-
+quency of mowing and hay removal. Species richness          cies and how the functional diversity of plant and animal
+was positively affected only when cut hay was removed       communities is affected by roadside management.
+and when mowing was done twice compared to once a              Our review highlights the need for studies specifically
+year, but no negative effect of mowing was found. How-      designed for measuring effects of roadside management
+ever, we acknowledge that specific management implica-      on a wider range of biodiversity values to understand
+tions regarding biodiversity values beyond plant species    how traffic safety and biodiversity conservation goals
+diversity and dominance shifts between main functional      can be combined in a win–win solution. Specifically, we
+groups cannot be drawn based on this review. Similarly,     stress the need for targeted studies on more organism
+due to the scarcity of studies on invertebrates, we are     groups, functional diversity and species of conservation
+
+Jakobsson et al. Environ Evid (2018) 7:17                                                                                                                  Page 13 of 14
+concern in order to identify roadside management                                  References
+                                                                                  1. The good verge guide. Salisbury; 2016. https​://www.plant​life.org.uk/appli​
+regimes that benefit a wider range of biodiversity                                    catio​n/files​/4614/8232/2916/Road_verge​_guide​_17_6.pdf. Accessed 5
+aspects.                                                                              July 2018.
+                                                                                  2. Auestad I, Rydgren K, Austad I. Road verges: potential refuges for declin-
+Additional files                                                                      ing grassland species despite remnant vegetation dynamics. Ann Bot
+                                                                                      Fenn. 2011;48:289–303.
+                                                                                  3. Lindborg R, Plue J, Andersson K, Cousins SAO. Function of small habitat
+   Additional file 1. Literature searches (search update).                            elements for enhancing plant diversity in different agricultural land-
+   Additional file 2. Articles excluded as irrelevant to the review.                  scapes. Biol Conserv. 2014;169:206–13.
+                                                                                  4. Egoh BN, Bengtsson J, Lindborg R, Bullock JM, Dixon AP, Rouget M. The
+   Additional file 3. Studies excluded due to low or unclear validity.                importance of grasslands in providing ecosystem services: opportunities
+   Additional file 4. Extracted data records.                                         for poverty alleviation. In: Potschin M, Haines-Young R, Fish R, Turner R,
+                                                                                      editors. Routledge Handb Ecosyst Serv. London and New York: Routledge;
+   Additional file 5. Narrative table.                                                2016. p. 421–41.
+   Additional file 6. Unweighted quantitative analysis.                           5. Lemaire G, Hodgson J, Chabbi A. Grassland productivity and ecosystem
+                                                                                      services. Wallingford: CABI; 2011.
+   Additional file 7. Weighted quantitative analysis.
+                                                                                  6. Rydgren K, Jørn-Frode N, Ingvild A, Inger A, Einar H. Recreating semi-nat-
+                                                                                      ural grasslands: a comparison of four methods. Ecol Eng. 2010;36:1672–9.
+                                                                                  7. Habel JC, Dengler J, Janišová M, Török P, Wellstein C, Wiezik M. European
+Authors’ contributions                                                                grassland ecosystems: threatened hotspots of biodiversity. Biodivers
+All authors contributed to the design of this review and to the screening of          Conserv. 2013;22:2131–8.
+literature from the systematic map. Additional literature was searched for by     8. Wilson JB, Peet RK, Dengler J, Pärtel M. Plant species richness: the world
+CB and screened by SJ and CB. All authors participated in the critical appraisal      records. J Veg Sci. 2012;23:796–802.
+of studies and in drafting the narrative synthesis. SJ and CB double-checked      9. Eriksson O. Land-use history and fragmentation of traditionally managed
+and finalised the narrative synthesis. SJ extracted and analysed quantitative         grasslands in Scandinavia. J Veg Sci. 2002;13:743–8.
+outcomes. All authors drafted parts of the manuscript. All authors read and       10. Bullock JM, Jefferson RG, Blackstock TH, Pakeman RJ, Emmett BA, Pywell
+approved the final manuscript.                                                        RF, Grime JP, Silvertown J. Semi-natural grasslands. In: The UK National
+                                                                                      Ecosystem Assessment Technical Report. UNEP-WCMC, Cambridge, 2011.
+Author details                                                                        http://uknea​.unep-wcmc.org/Resou​rces/tabid​/82/Defau​lt.aspx. Accessed
+1
+  Department of Physical Geography, Stockholm University, 106 91 Stockholm,           19 June 2018.
+Sweden. 2 Mistra Council for Evidence‑Based Environmental Management,             11. Lennartsson T, Gylje S. Infrastrukturens biotoper – en refug för biologisk
+Stockholm Environment Institute, Box 24218, 104 51 Stockholm, Sweden.                 mångfald. Uppsala: Centrum för biologisk mångfald; 2009.
+3
+  NERC Centre for Ecology and Hydrology, Maclean Building, Benson Lane,           12. Stenmark M. Infrastrukturens gräs- och buskmarker. Hur stora arealer gräs
+Crowmarsh Gifford, Wallingford, Oxfordshire OX10 8BB, UK. 4 Department                och buskmarker finns i anslutning till transportinfrastruktur och bidrar
+of Environment, Forest & Nature Lab, Ghent University, Geraardsbergsesteen-           dessa till miljömålsarbetet? Jordbruksverket. Sweden: Jönköping; 2012.
+weg 267, 9090 Melle‑Gontrode, Belgium.                                            13. Jordbruksverket. Jordbruksstatistisk sammanställning 2016. Sweden:
+                                                                                      Jönköping; 2016. http://www.jordb​ruksv​erket​.se/omjor​dbruk​sverk​et/stati​
+Acknowledgements                                                                      stik/jordb​rukss​tatis​tisks​amman​stall​ning/jordb​rukss​tatis​tisks​amman​stall​
+The authors wish to thank Kjell Asplund, Tommy Lennartsson, Mats Lindqvist,           ning2​016.4.4a82b​0a715​5953b​608a8​4f0c.html. Accessed 20 May 2017.
+Jerry Melillo, Katherine Richardson and Henrik Smith for their valuable com-      14. Queiroz C, Beilin R, Folke C, Lindborg R. Farmland abandonment: threat
+ments on the manuscript. Thanks to Clémence Chaudron, Rob van de Haterd,              or opportunity for biodiversity conservation? A global review. Front Ecol
+Juha Jantunen, Sacha Jellinek, Jinze Noordijk and Patrick O’Farrell for providing     Environ. 2014;12:288–96.
+data from their studies (unfortunately, some data could not be used in the        15. Milberg P, Bergman KO, Cronvall E, Eriksson ÅI, Glimskär A, Islamovic A,
+analyses).                                                                            et al. Flower abundance and vegetation height as predictors for nectar-
+                                                                                      feeding insect occurrence in Swedish semi-natural grasslands. Agric
+Competing interests                                                                   Ecosyst Environ. 2016;230:47–54.
+The authors declare that they have no competing interests.                        16. Lindborg R, Bengtsson J, Berg Å, Cousins SAO, Eriksson O, Gustafsson T,
+                                                                                      et al. A landscape perspective on conservation of semi-natural grass-
+Availability of data and materials                                                    lands. Agric Ecosyst Environ. 2008;125:213–22.
+Not applicable.                                                                   17. Bernes C, Bullock JM, Jakobsson S, Rundlöf M, Verheyen K, Lindborg R.
+                                                                                      How are biodiversity and dispersal of species affected by the manage-
+Consent for publication                                                               ment of roadsides? A systematic map protocol. Environ Evid. 2016;5:4.
+Not applicable.                                                                   18. Bernes C, Bullock JM, Jakobsson S, Rundlöf M, Verheyen K, Lindborg R.
+                                                                                      How are biodiversity and dispersal of species affected by the manage-
+Ethics approval and consent to participate                                            ment of roadsides? A systematic map. Environ Evid. 2017;6:24.
+Not applicable.                                                                   19. Grime JP. Plant strategies and vegetation processes. Chichester: Wiley;
+                                                                                      1979.
+Funding                                                                           20. CEE. Collaboration for environmental evidence: guidelines and standards
+The review was financed by the Mistra Council for Evidence-Based Environ-             for evidence synthesis in environmental management. Version 5.0. 2018.
+mental Management (EviEM).                                                            www.envir​onmen​talev​idenc​e.org/infor​matio​n-for-autho​rs. Accessed 08
+                                                                                      Mar 2018.
+                                                                                  21. CEE. Guidelines for systematic reviews in environmental management.
+Publisher’s Note                                                                      Version 4.2. Bangor; 2013.
+Springer Nature remains neutral with regard to jurisdictional claims in pub-      22. Bernes C, Bullock JM, Jakobsson S, Verheyen K, Lindborg R. How does
+lished maps and institutional affiliations.                                           roadside vegetation management affect the diversity of vascular plants
+                                                                                      and invertebrates? A systematic review protocol. Environ Evid. 2017;6:16.
+Received: 24 April 2018 Accepted: 3 July 2018                                     23. Hijmans RJ, Cameron SE, Parra JL, Jones PG, Jarvis A. Very high resolu-
+                                                                                      tion interpolated climate surfaces for global land areas. Int J Climatol.
+                                                                                      2005;25:1965–78.
+
+Jakobsson et al. Environ Evid (2018) 7:17                                                                                                           Page 14 of 14
+24. Wiebe N, Vandermeer B, Platt RW, Klassen TP, Moher D, Barrowman NJ.        39. Helden AJ, Leather SR. Biodiversity on urban roundabouts—Hemip-
+    A systematic review identifies a lack of standardization in methods for         tera, management and the species-area relationship. Basic Appl Ecol.
+    handling missing variance data. J Clin Epidemiol. 2006;59:342–53.               2004;5:367–77.
+25. Steward PR, Dougill AJ, Thierfelder C, Pittelkow CM, Stringer LC, Kudzala  40. Halbritter DA, Daniels JC, Whitaker DC, Huang L. Reducing mowing fre-
+    M, et al. The adaptive capacity of maize-based conservation agriculture         quency increases floral resource and butterfly (Lepidoptera: Hesperioidea
+    systems to climate stress in tropical and subtropical environments: a           and Papilionoidea) abundance in managed roadside margins. Florida
+    meta-regression of yields. Agric Ecosyst Environ. 2018;251:194–202.             Entomol. 2015;98:1081–92.
+26. van de Haterd RJ, Vleeming S, Hoefsloot G, Krijgsveld KL, Smits RR. De     41. Valtonen A, Saarinen K, Jantunen J. Effect of different mowing regimes
+    effecten van beheer op wegbermvegetaties. Resultaten van langjarig              on butterflies and diurnal moths on road verges. Anim Biodivers Conserv.
+    onderzoek naar vijf maairegimes en naar mantel- en zoombeheer. Bureau           2006;29:133–48.
+    Waardenburg bv, Culemborg. Technical report 07-223. 2007.                  42. Milchunas DG, Sala OE, Lauenroth WK. Quantitative effects of grazing
+27. van de Haterd RJW, van den Hengel B, Keizer PJ. Lange termijn effecten          on vegetation and soils over a global range of environments. Am Nat.
+    van maaibeheer in wegbermen. De Levende Natuur. 2009;110:88–94.                 1988;132:87–106.
+28. van Schaik AW., van den Hengel L. De effecten van een aantal maaire-       43. Bullock JM, Franklin J, Stevenson MJ, Silvertown J, Sarah J, Gregory SJ,
+    gimes op flora en vegetatie in wegbermen. Rijkswaterstaat, Dienst Weg-          et al. A plant trait analysis of responses to grazing in a long-term experi-
+    en Waterbouwkunde, Hoofdafdeling Milieu. Technical report P-DWW-                ment. J Appl Ecol. 2001;38:253–67.
+    044-706. 1994.                                                             44. Anonymous. Slåning af vejkanter. Odense, Fyns Amt; 1995.
+29. Parr T, Way J. Management of roadside vegetation: the long-term effects    45. Chaudron C, Perronne R, Bonthoux S, Di Pietro F. Influence of manage-
+    of cutting. J Appl Ecol. 1988;25:1073–87.                                       ment practices on plant assemblages of road–field boundaries in an
+30. Way JM. Further observations on the management of road verges for               agricultural landscape. Appl Veg Sci. 2016;19:644–54.
+    amenity and wildlife. In: Conference proceedings: Road verges in Scot-     46. Gaujour E, Amiaud B, Mignolet C, Plantureux S. Factors and processes
+    land. Scotland: Edinburgh; 1970. p. 1–13.                                       affecting plant biodiversity in permanent grasslands. A review. Agron
+31. Jantunen J, Saarinen K, Valtonen A, Saarnio S. Grassland vegetation along       Sustain Dev. 2012;32:133–60.
+    roads differing in size and traffic density. Ann Bot Fenn. 2006;43:107–17. 47. Socher SA, Prati D, Boch S, Müller J, Baumbach H, Gockel S, et al. Interact-
+32. O’Farrell PJ, Milton SJ. Road verge and rangeland plant communities in          ing effects of fertilization, mowing and grazing on plant species diversity
+    the southern Karoo: exploring what influences diversity, dominance and          of 1500 grasslands in Germany differ between regions. Basic Appl Ecol.
+    cover. Biodivers Conserv. 2006;15:921–38.                                       2013;14:126–36.
+33. Camp M, Best LB. Bird abundance and species richness in roadsides          48. Schelfhout S, Mertens J, Perring MP, Raman M, Baeten L, Demey A, et al.
+    adjacent to Iowa rowcrop fields. Wildl Soc Bull. 1993;21:315–25.                P-removal for restoration of Nardus grasslands on former agricultural
+34. Gordon, D R, Cox A., Seamon G., Slapcinsky JL, Jones DA. Native sandhill        land: cutting traditions. Restor Ecol. 2017;25:S178–87.
+    species revegetation techniques. University of Florida and the Florida     49. Kayhanian M, Suverkropp C, Ruby A, Tsay K. Characterization and predic-
+    Department of Transportation, US Technical report. 2001.                        tion of highway runoff constituent event mean concentration. J Environ
+35. Young SL, Claassen VP. Release of roadside native perennial grasses fol-        Manage. 2007;85:279–95.
+    lowing removal of yellow starthistle. Ecol Restor. 2008;26:357–64.         50. Duprè C, Stevens CJ, Ranke T, Bleeker A, Peppler-Lisbach C, Gowing DJG,
+36. Charvat I, Agwa H, Hebberger J, Tallaksen J, Raley M, Gould E, et al.           et al. Changes in species richness and composition in European acidic
+    Mycorrhizal/plant factors involved in roadside reclamation. University of       grasslands over the past 70 years: the contribution of cumulative atmos-
+    Minnesota and Minnesota Department of Transportation, US Technical              pheric nitrogen deposition. Glob Chang Biol. 2010;16:344–57.
+    report MN/RC-2000-30. 2000.                                                51. Peppler-Lisbach C, Könitz N. Vegetation changes in Nardus grasslands of
+37. Noordijk J, Schaffers AP, Heijerman T, Boer P, Gleichman M, Sykora KV.          the Werra-Meissner region (Hesse, Lower Saxony, Central Germany) after
+    Effects of vegetation management by mowing on ground-dwelling                   25 years. Tuexenia. 2017;37:201–28.
+    arthropods. Ecol Eng. 2010;36:740–50.                                      52. Beyschlag W, Ryel RJ, Ullman I, Eckstein J. Experimental studies on the
+38. Noordijk J, Delille K, Schaffers AP, Sykora KV. Optimizing grassland            competitive balance between two Central European roadside grasses
+    management for flower-visiting insects in roadside verges. Biol Conserv.        with different growth forms. Bot Acta. 1996;109:449–55.
+    2009;142:2097–103.
+                                                                                   Ready to submit your research ? Choose BMC and benefit from:
+                                                                                     • fast, convenient online submission
+                                                                                     • thorough peer review by experienced researchers in your field
+                                                                                     • rapid publication on acceptance
+                                                                                     • support for research data, including large and complex data types
+                                                                                     • gold Open Access which fosters wider collaboration and increased citations
+                                                                                     • maximum visibility for your research: over 100M website views per year
+                                                                                   At BMC, research is always in progress.
+                                                                                   Learn more biomedcentral.com/submissions
+

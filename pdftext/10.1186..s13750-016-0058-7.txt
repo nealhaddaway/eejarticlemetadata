@@ -1,0 +1,1226 @@
+McKinnon et al. Environ Evid (2016) 5:8
+DOI 10.1186/s13750-016-0058-7                                                                                         Environmental Evidence
+  SYSTEMATIC MAP                                                                                                                                      Open Access
+What are the effects of nature
+conservation on human well‑being? A
+systematic map of empirical evidence
+from developing countries
+Madeleine C. McKinnon1,2* , Samantha H. Cheng3,4*, Samuel Dupre5, Janet Edmond1, Ruth Garside6,
+Louise Glew7, Margaret B. Holland5, Eliot Levine8, Yuta J. Masuda9, Daniel C. Miller10, Isabella Oliveira11,
+Justine Revenaz12, Dilys Roe13, Sierra Shamer5, David Wilkie14, Supin Wongbusarakum15,16
+and Emily Woodhouse17
+   Abstract
+   Background: Global policy initiatives and international conservation organizations have sought to emphasize and
+   strengthen the link between the conservation of natural ecosystems and human development. While many indices
+   have been developed to measure various social outcomes to conservation interventions, the quantity and strength of
+   evidence to support the effects, both positive and negative, of conservation on different dimensions of human well-
+   being, remain unclear, dispersed and inconsistent.
+   Methods: We searched 11 academic citation databases, two search engines and 30 organisational websites for
+   relevant articles using search terms tested with a library of 20 relevant articles. Key informants were contacted with
+   requests for articles and possible sources of evidence. Articles were screened for relevance against predefined inclu-
+   sion criteria at title, abstract and full text levels according to a published protocol. Included articles were coded using
+   a questionnaire. A critical appraisal of eight systematic reviews was conducted to assess the reliability of methods and
+   confidence in study findings. A visual matrix of the occurrence and extent of existing evidence was also produced.
+   Results: A total of 1043 articles were included in the systematic map database. Included articles measured effects across
+   eight nature conservation-related intervention and ten human well-being related outcome categories. Linkages between
+   interventions and outcomes with high occurrence of evidence include resource management interventions, such as
+   fisheries and forestry, and economic and material outcomes. Over 25 % of included articles examined linkages between
+   protected areas and aspects of economic well-being. Fewer than 2 % of articles evaluated human health outcomes.
+   Robust study designs were limited with less than 9 % of articles using quantitative approaches to evaluate causal effects of
+   interventions. Over 700 articles occurred in forest biomes with less than 50 articles in deserts or mangroves, combined.
+   Conclusions: The evidence base is growing on conservation-human well-being linkages, but biases in the extent
+   and robustness of articles on key linkages persist. Priorities for systematic review, include linkages between marine
+   resource management and economic/material well-being outcomes; and protected areas and governance outcomes.
+   Greater and more robust evidence is needed for many established interventions to better understand synergies and
+   trade-offs between interventions, in particular those that are emerging or contested.
+*Correspondence: mmckinnon@conservation.org; cheng@nceas.uscb.
+edu
+1
+  Conservation International, Arlington, VA, USA
+3
+  National Center for Ecological Analysis and Synthesis, University
+of California, Santa Barbara, CA, USA
+Full list of author information is available at the end of the article
+                                              © 2016 McKinnon et al. This article is distributed under the terms of the Creative Commons Attribution 4.0 International License
+                                              (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium,
+                                              provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license,
+                                              and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/
+                                              publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+
+McKinnon et al. Environ Evid (2016) 5:8                                                                      Page 2 of 25
+  Registration CEE review 14-012
+  Keywords: Biodiversity conservation, Natural resource management, Human welfare, Poverty, Human development,
+  Sustainability
+Background                                                  well-being, (e.g., social cohesion, culture and freedom
+Across the globe, national governments are increas-         of political choice) [11]. For example, there are frequent
+ingly pursuing policies to secure biodiversity and natu-    claims that marine protected areas increase the food
+ral ecosystems while ensuring economic prosperity and       security of local fishers through the dual mechanisms of
+other aspects of human well-being including health,         sustaining ecosystem services and the preferential reallo-
+social relations and cultural values. In September 2015,    cation of rights to fishing areas [17]. Similarly, commu-
+the United Nations launched a set of 17 new Sustainable     nity-based natural resource management is commonly
+Development Goals to shape the international devel-         linked to increased economic and material well-being,
+opment agenda for the next 15 years [53]. In parallel       generated by commercial enterprises (e.g., eco-tourism
+to such policy shifts, several major international non-     or trophy hunting) that rely on the presence of charis-
+governmental organizations with a historical focus on       matic species [34]. Education and awareness interven-
+nature conservation—including Birdlife International,       tions (e.g., informational campaigns) are assumed to
+Conservation International, The Nature Conservancy          improve knowledge and skills that encourage more sus-
+and Fauna & Flora International—now explicitly refer-       tainable practices and behavior [15]. Alternatively, regu-
+ence people in their mission and vision statements and      lations restricting access might affect vulnerable groups
+aspire to achieving socially beneficial outcomes through    dependent on natural resources for their livelihoods [56]
+their conservation efforts [24]. To achieve stated politi-  or bring communities into conflict with wildlife popula-
+cal and institutions goals, and to be able to monitor pro-  tions managed under conservation arrangements [50].
+gress towards them, empirical data, relevant metrics,       These hypotheses have shaped conservation and devel-
+and monitoring systems are needed to quantify the link-     opment practices on the ground giving rise to integrated
+ages between specific conservation efforts and different    planning strategies (e.g., focus by USAID on Sustainable
+aspects of human well-being [25, 30].                       Landscapes models), an expansion of incentive-based
+  While greater emphasis on the human dimensions            conservation measures, such as Payments for Envi-
+of conservation efforts has undoubtedly occurred, evi-      ronmental Services (PES) [35], and socially-oriented
+dence on the resulting socioeconomic outcomes is so         approaches to conservation [10]. Over the past decade,
+far inconclusive. Over the years, conservation has been     conservation scholars and practitioners have developed
+portrayed as both a win–win solution for poverty allevia-   conceptual frameworks for understanding and quantify-
+tion and sustainable development, and as a constraint on    ing human well-being [31, 32, 66] and others that empha-
+economic growth [52]. While several conservation pro-       sis social effects from an ecosystem services perspective
+jects and policies have achieved both conservation and      [48]. Fields outside of conservation have also started to
+development goals [2, 3], conflicts and negative relation-  express interest in conservation and nature. For instance,
+ships between conservation and human well-being have        the public health field has recently called for a new dis-
+also been highlighted [42], including loss of access rights cipline: planetary health [21], which emphasizes how
+[18], human-wildlife conflict [61], and evictions from      unsustainable resource consumption and environmen-
+protected areas [8]. Thus, increased monitoring of socio-   tal degradation can setback decades of global health
+economic outcomes has thus been dually influenced by        gains [58]. This interest aims to clarify the link between
+a need to demonstrate contributions to broader develop-     degrading natural systems and human health. In paral-
+ment goals, e.g., United States Agency for International    lel, efforts have also been made to document the social
+Development’s Biodiversity Policy 2014, [54], World         impacts of conservation, and specific mechanisms by
+Bank Biodiversity road map [63], and by a genuine desire    which these impacts are manifested [14, 45, 65], and syn-
+to “do no harm” and to ensure the longevity of natural      thesize empirical evidence on linkages between specific
+ecosystems upon which vulnerable populations depend         ecosystem services and aspects of poverty [40, 47].
+[64].                                                          Data on the effects of conservation on human well-
+  Diverse hypotheses exist about the explicit effects       being is currently scattered across multiple sources, many
+of conservation interventions. These might be related       of which are inaccessible to policy makers and other
+to measurable impacts, (e.g., economic and material         decision makers [37]. In the absence of a more compre-
+well-being) as well as harder to quantify dimensions of     hensive evidence base, anecdotal evidence is frequently
+
+McKinnon et al. Environ Evid (2016) 5:8                                                                        Page 3 of 25
+used to support or refute particular positions or hypoth-    Objectives
+eses. However, such evidence is highly variable and sub-     The primary question of this systematic map was:
+ject to differing interpretations, inhibiting the ability      What is the extent and occurrence of empirical evi-
+of decision makers to confirm linkages between human         dence documenting nature conservation impacts on
+well-being outcomes and conservation interventions, or       human well-being in developing countries?
+to understand the trade-offs and synergies between dif-
+ferent interventions in meeting specific social targets. In    This question has the following components:
+response, a growing number of evidence syntheses have
+emerged on social impacts of conservation. Recent sys-         ••  Population Human populations including individu-
+tematic reviews have focused on prominent interventions            als, households or communities within non-Organi-
+including protected areas [38], integrated water man-              sation for Economic Cooperation and Development
+agement [19], payment for environmental services [43],             (OECD) countries
+and community-based conservation (e.g., [7, 9, 44]). The       ••  Intervention In-situ nature conservation interven-
+benefits of a broader review of evidence include the abil-         tions based upon the International Union for Con-
+ity to (1) reflect the scale at which strategic, investment,       servation of Nature (IUCN) and Conservation Meas-
+and political decisions for nature conservation are made           ures Partnership (CMP) typology of conservation
+by governments, international bodies, and non-govern-              actions [41]
+mental organizations; (2) avoid unsupported assump-            ••  Comparator Absence of intervention either between
+tions about the efficacy of widely applied interventions;          sites or groups, and/or over time
+(3) incorporate non-traditional or lesser known inter-         ••  Outcome Positive or negative effects on multi-dimen-
+ventions and aspects of well-being; (4) capture multiple           sional well-being status of human population
+pathways and options by which conservation might affect        ••  Study type Article empirically measuring effects of
+well-being; and (5) place other specific reviews in broader        a program, activity or policy using observational
+context and highlight well-studied areas and potential             or experimental data from primary or secondary
+research gaps or biases.                                           sources
+  The recent launch of the UN Sustainable Develop-
+ment Goals underscores the need for greater and better         Secondary questions of this systematic map were:
+evidence for identifying, monitoring and evaluating pro-
+gress toward proposed targets [25]. While many indices         ••  What is the frequency and type of nature conser-
+and frameworks have been developed to document or                  vation interventions for which evidence are docu-
+measure various human well-being domains affected by               mented on human well-being outcomes?
+conservation interventions, these have not been associ-        ••  What are the characteristics of documented evidence
+ated with critical assessments of extent and robustness            in terms of quantity, type of outcome measures, geo-
+of these assumed linkages between people and nature.               graphic location, and study design?
+To meet this important gap, we use systematic evidence         ••  Where do gaps exist in the evidence base that repre-
+mapping as a tool to identify, characterize and synthe-            sent research priorities?
+size empirical research, documenting the impacts of            ••  What are promising areas for further synthesis?
+nature conservation on human well-being. Systematic
+maps, also referred to as evidence gap maps or evidence      Methods
+maps, are thematic collections of primary research arti-     This systematic mapping process was undertaken as part
+cles and systematic reviews within a sector [46]. The        of an initiative led by the international conservation non-
+key output is a visual graphic that illustrates the distri-  government organization, Conservation International,
+bution and occurrence of existing evidence using a cat-      which was concerned with the extent and robustness
+egorical framework of policy-relevant interventions and      of the evidence base, the pathways by which conserva-
+outcomes. Our synthesis aims to shed light on areas of       tion affects human well-being, and the role of ecosystem
+high and low occurrences of empirical research, existing     services in mediating these relationships. In November
+biases in research efforts, and the robustness of current    2013, a technical workshop of conservation, development
+evaluation approaches. It is intended to be dynamic and      and research experts convened to scope and review the
+ideally will be regularly updated to reflect new research    search strategy and draft the systematic review protocol.
+findings and trends. The map will help researchers and       The protocol was published in August 2014 [6]. Follow-
+policy makers rapidly locate and assess relevant scientific  ing preliminary screening, a further expert workshop
+evidence to understand conservation interventions and        organized by the Science for Nature and People Partner-
+human well-being outcomes are frequently evaluated.          ship, was convened in February 2015 to further refine
+
+McKinnon et al. Environ Evid (2016) 5:8                                                                     Page 4 of 25
+categories for interventions and outcomes, coding of       38, 40, 43, 44] and explored the effect of alternate terms,
+study design, and additional sources of evidence to be     wildcards, and use of standardized Boolean search con-
+searched. The methods presented here are largely similar   ventions commonly used in information systems and
+to those outlined in Bottrill et al. [6]. Adjustments from online databases.
+the original protocol are noted.
+                                                           Searches
+Search strategy                                            Two peer-reviewed publication databases were searched:
+A comprehensive search of multiple electronic informa-     SciVerse’s Scopus and Thomson Reuters Web of Sci-
+tion sources attempted to capture an unbiased sample       ence, both of which cover natural and social sciences. A
+of literature, encompassing both published and grey lit-   full description of the construction of the search string is
+erature. Searches were conducted from November 2014        documented [6].
+to April 2015. Our mapping process followed the search        We identified ‘grey’ literature (i.e., published and
+strategy described in a protocol [6]. Different sources of unpublished documents not available on online pub-
+information, e.g., online publication databases, search    lication databases) in several ways. First, we searched
+engines, topical databases and organisation websites,      a list of websites for relevant articles and systematic
+were searched to maximize the coverage of the search.      reviews and maps, in particular grey unpublished lit-
+                                                           erature not documented in peer-reviewed journals
+Search terms and languages                                 (Additional file 1: Appendix 1 Table S1). Given the
+A search string comprising the following English search    limitations of search engines on specialist websites, we
+terms were used to query online bibliographic databases    used an abridged set of search terms. Appendix 1 (Spe-
+and internet search engines:                               cialist search strategy) provides a description of revised
+                                                           search terms and search results from organization web-
+Intervention terms                                         sites and specialist databases. Furthermore, a subset
+(“conservation” OR “conserve” OR “conservancy” OR          of academic thesis databases was searched (Additional
+“protect*” OR “management” OR “awareness” OR “law*”        file 1: Appendix 1 Table S2) using a revised list of search
+OR “policy*” OR “reserve*” OR “govern*” OR “capacity-      terms. In addition, we contacted 50 key informants by
+build*” OR “train*” OR “regulation” OR “payment for        email, representing a range of organizations, research
+ecosystem services” OR “PES” OR “ecotourism” OR “sus-      institutes and geographic regions, with a request for rel-
+tainable use”) AND                                         evant documents and/or journals, databases or websites
+                                                           where additional articles might be found. If no response
+Intervention adjacent terms                                was given following the first email, a second reminder
+“marine” OR “freshwater” OR “coastal” OR “forest*” OR      email was sent.
+“ecosystem*” OR “species” OR “habitat*” OR “biodiver-         We screened bibliographies of related systematic maps
+sity” OR “sustainab*” OR “ecolog*” OR “integrated” OR      and reviews for relevant articles. In addition, if non-sys-
+“landscape” OR “seascape” OR “coral reef*” OR “natural     tematic reviews were identified then their bibliographies
+resource*”) AND                                            were searched for relevant articles meeting inclusion
+                                                           criteria. Due to the volume of articles identified and
+Outcome terms                                              resource constraints, we did not conduct forward and
+(“wellbeing” OR “well-being” OR “well being” OR            backward screening of bibliographies of included articles.
+“ecosystem service*” OR “nutrition” OR “skill*” OR
+“empower*” OR “clean water” OR “livelihood*” OR            Inclusion and exclusion criteria
+“(food) security” OR “resilience*” OR “vulnerability” OR   Following compilation of search results from the various
+“(social) capital” OR “attitude*” OR “perception*” OR      sources listed above, the screening process was imple-
+“(human) health*” OR “human capital” OR “(traditional      mented using an established set of inclusion and exclu-
+knowledge” or TEK) AND                                     sion criteria to determine the relevance of articles. All
+                                                           criteria are required to be met for inclusion in the final
+Outcome adjacent terms                                     dataset. Categories of interventions and outcomes are
+(“human*” OR “people” OR “person*” OR “community*”         described in Tables 1 and 2. Categories selected were
+OR “household*” OR “fisher*” OR “collaborative”)           based upon established frameworks such as the IUCN-
+  The search string was developed through a scoping        Conservation Measures Partnership classification of
+exercise which examined relevant frameworks and search     Conservation Actions [41] and the Millennium Ecosys-
+terms used from related systematic reviews and maps [7,    tem Assessment (MEA 2005).
+
+McKinnon et al. Environ Evid (2016) 5:8                                                                                       Page 5 of 25
+Table 1 Categories and subcategories of nature conserva-                       Capacity Building, Health, Subjective well-being, Secu-
+tion interventions                                                             rity and Safety, Culture and Spirituality, Social Rela-
+Category                        Code      Subcategory                          tions, Freedom of Choice and Action
+Land/water protection           PA1       Site or area protection            Study type(s)
+Land/water management           LM1       Site management
+                                LM2       Invasive species control
+                                                                             ••  The study involves empirical measurement of direct
+                                LM3       Restoration
+                                                                                 or indirect effects of a policy or program
+Resource management             RM1       Resource management                ••  Systematic reviews and meta-analyses were marked
+Species management              SM1       Species management                     and set aside separately for bibliographic searching
+                                SM2       Species recovery
+                                SM3       Species re-introduction         Exclusion criteria
+Education and awareness         E1        Formal education                Population(s)
+                                E2        Training
+                                E3        Awareness and communications       ••  The study focuses on OECD country(s)
+Law and policy                  LP1       Legislation                        ••  The study comments on effects of undefined groups
+                                LP2       Policies and regulations
+                                LP3       Private sector standards and
+                                                                             Intervention(s)
+                                            codes
+                                LP4       Compliance and enforcement
+Economic, livelihoods and       EL1       Linked enterprises and liveli-
+                                                                             ••  The study documents or measures daily use or inter-
+   other incentives                         hood alternatives                    action by people with natural ecosystems and/or eco-
+                                EL2       Substitution                           system goods or services rather than associated with
+                                EL3       Market forces                          a specific and discrete intervention
+                                EL4       Conservation payments              ••  The study is focused on environmental regulatory
+                                EL5       Non-monetary values                    measures and mitigation (e.g., air quality control,
+External capacity building      CB1       Institutional and civil society        waste management, energy production) and ex situ
+                                            development                          conservation efforts (e.g., zoos, captive breeding,
+                                CB1       Alliance and partnership devel-        seed banks etc.)
+                                            opment
+                                CB1       Conservation finance
+                                                                             Outcome(s)
+Intervention framework adapted from the IUCN-CMP classification of
+conservation actions [41]
+                                                                             ••  The study does not empirically observe or measure
+                                                                                 human well-being outcome(s)
+Inclusion criteria                                                           ••  The study only focuses on biophysical outcomes of
+Population(s)                                                                    conservation or solely examines how status or trends
+                                                                                 in human well-being affect conservation outcomes
+• 	 The study focuses on the well-being of discrete indi-
+     viduals, households or communities, or nation states                    Study type(s)
+     living in non-OECD countries
+                                                                             ••  Theoretical articles or models
+   Intervention(s)                                                           ••  Commentary, editorials and narrative reviews
+• 	 The study involves establishment, adoption, imple-                    Screening
+     mentation or refinement of a program or policy that                  Following implementation of the search strategy, all titles
+     regulates, protects or manages biodiversity and natural              and abstracts were uploaded into Excel and reviewed
+     ecosystems through in situ activities                                against the inclusion and exclusion criteria above. The
+                                                                          title and abstract screening was by two researchers inde-
+   Outcome(s)                                                             pendently (MCM, SHC). If there was any doubt about
+                                                                          the relevance of an article, it was retained for full text
+• 	 The study measures or observes effects on one or more                 assessment. The assessors performed an initial screen-
+     domains of human well-being categorized as follows:                  ing of a random subset of 1000 titles in a pilot exercise
+     Economic Living Standards, Material Living Stand-                    to assess repeatability and consistency of selection cri-
+     ards, Governance and Empowerment, Education and                      teria between assessors. Articles appearing to meet
+
+McKinnon et al. Environ Evid (2016) 5:8                                                                                                           Page 6 of 25
+Table 2 Domains and definitions of human well-being outcomes
+Domain                              Code      Definition
+Economic living standards           HWB1      Income, employment, employment opportunities, wealth, poverty, savings, payments, loans
+Material living standards           HWB2      Assets owned, access and availability of food, fiber and fuel basic infrastructure (electricity, water, telecom-
+                                                munications and transportation), shelter
+Health                              HWB3      Physical health, nutrition, longevity/life expectancy, maternal health, child health, access to health care,
+                                                occurrence of diseases, mental health
+Education                           HWB4      Education infrastructure (access to school, access to training, quality of education); informal education
+                                                (transfer of knowledge and skills includes livelihood skills, traditional knowledge and skills); formal
+                                                education (degrees awarded, students enrolled)
+Social relations                    HWB5      Interactions between individuals, within and/or between groups (communities, stakeholders, ethnic
+                                                groups, gender); conflict, relationships, connectedness, ability to work together, ability to help others,
+                                                and trust
+Security and safety                 HWB6      Physical security (personal safety and security), resource security; tenure security; human rights; vulner-
+                                                ability, resilience and adaptive capacity
+Governance (and empowerment) HWB7             Structures and processes for decision making including both formal and informal rules; includes participa-
+                                                tion and control in decision making, accountability, justice, transparency and governance skills
+Subjective well-being               HWB8      Measures of happiness, quality of life, satisfactions supported by some value of ecosystem(s) and/or
+                                                resources
+Culture and spirituality            HWB9      Cultural, societal and traditional values of natural resources and nature to the community; sense of home;
+                                                cultural identity and heritage; spiritual or religious beliefs and/or values
+Freedom of choice and action        HWB10 Ability to pursue what you value doing and being
+Domains of human well-being are adapted from a subset of complementary typologies [23, 29, 60]
+inclusion criteria from screening the title and abstract                         efficient manner was developed in Google Forms, which
+were obtained as full text, and further screened against                         was then automatically compiled into a spreadsheet.
+the inclusion criteria by two reviewers independently to                            The following broad categories of data were extracted:
+produce the final set of included articles.
+                                                                                    ••  Unique ID and assessor identification
+Study coding strategy                                                               ••  Bibliographic information
+Each included article was examined using a standard                                 ••  Basic information about intervention
+coding tool and supplementary codebook to extract and                               ••  Basic information about study design, scale and loca-
+categorize data from each article. In our coding strategy,                              tion
+we did not distinguish between articles and studies, and                            ••  Information about human well-being outcomes
+treated all articles as single cases. While some articles                           ••  Information about occurrence and type of concep-
+discuss results from multiple studies, these were gener-                                tual framework
+ally treated as reviews and excluded from our dataset. If                           ••  Summary information on main findings
+we had counted individual studies within each article,
+the number of occurrences might be greater than those                               Data on the robustness of study design were collated
+reported in this paper. Additionally, it is possible that a                      (as implemented within the article). Categories of design
+study could be included in multiple articles. However,                           were adapted from Margoluis et al. [27]. Each article was
+post hoc separation of articles and individual studies                           coded in the systematic map at full text using four cri-
+within articles would require additional recoding.                               teria: (1) type of data (quantitative, qualitative, mixed);
+   The coding tool was piloted by two assessors (MCM,                            (2) random assignment of a treatment group; (3) occur-
+SHC) for a sample of 10 articles to ensure consistency.                          rence of comparison group or site; and (4) occurrence of
+Results of piloting were compared. Due to the large vol-                         comparison over continuous or interrupted/punctuated
+ume of articles, double extraction by two assessors of all                       time series. This classification scheme was not intended
+articles was not possible. The research team met regularly                       to infer quality but rather categorize articles according
+to discuss any ambiguous or unresolved articles. The ini-                        to different designs with respect to levels of internal and
+tial extraction tool included in the protocol was adapted                        external validity. We were specifically interested in the
+(see Additional file 2: Appendix 2 coding tool for data                          extent and occurrence of impact evaluations—systematic
+extraction). A form for entering data in a consistent and                        designs measuring the intended and unintended causal
+
+McKinnon et al. Environ Evid (2016) 5:8                                                                            Page 7 of 25
+effects of conservation interventions on social and eco-      Results
+logical conditions [28].                                      Number and types of articles
+                                                              Figure 1 illustrates the step-by-step results from the
+Data analysis and synthesis                                   searching and screening strategies. Given the scope of
+A structured matrix of the distribution and frequencies       this map, the search of online publication databases and
+of articles to document specific relationships, or link-      additional sources yielded a large quantity of potential
+ages, between a range of interventions and outcomes was       articles. Title and abstract screening significantly reduced
+compiled. The matrix uses nested categories based upon        the number of relevant articles. Full text assessment of
+a longer list of subcategories. Categories for describing     articles further refined the list of included articles to a
+intervention and outcome type were identified a priori        subset of 1043 articles for data extraction. A bibliography
+(Tables 1 and 2) and form the basis of a structural matrix,   of included articles is listed in Additional file 3: Appendix
+the major output of the mapping process. Evidence on          3 in supplementary material (Additional file 3: Appendix
+different outcomes (in rows) is mapped on to different        3 Table S3. Bibliography of included articles). Excluded
+categories of interventions (in columns). Each cell repre-    articles at the full text assessment stage are listed in
+sents a linkage. The matrix represents the primary output     Additional file 4: Appendix 4 Table S4. Coded data for
+of the systematic mapping process and allows an intuitive     each individual article included in this study is listed in
+visual format for synthesizing data on specific articles      Additional file 5: Appendix 5.
+and linkages.                                                   Articles utilized a range of different comparators to
+  Data extracted from each article was compiled into a        examine effects of conservation interventions between
+database using the statistical programming language, R        sites and populations and over time periods. Almost
+[39], to organize fields of data across many articles and     a quarter of included articles were non-comparative
+enable rapid analysis. The database was used to generate      (Fig. 2). About 12 % of articles compared effects of the
+descriptive statistics on key trends across and between       intervention over time either using a baseline before the
+articles, regions and linkages.                               start of the intervention or other interrupted time series
+  Coded data were sorted and compiled into an interro-        data.
+gable database using the packages ‘dplyr’ and ‘tidyr’ in R      The robustness of study designs is low with 9 % of arti-
+version 3.1.0 (R Development Core Team). A structural         cles applying quantitative methods to examine causal
+matrix of linkages between interventions and outcomes         effects either before/after an intervention or a compari-
+was visualized as a heat map using the package ggplot2        son group or site. Among these articles, 22 % percent
+[59].                                                         used non-experimental, 73 % used quasi-experimental
+                                                              and 0.04 % used experimental methods to assign treat-
+Quality assessment                                            ments to different groups or sites. Due to the size of
+Given the broad scope of a systematic map, individual         the evidence base, data were not collated on qualitative
+articles were not appraised for quality, e.g., a detailed     approaches to impact evaluations such as stratified ran-
+assessment of research design and study character-            dom sampling of interview subjects. Subsequent refer-
+istics based upon study reliability and relevance [12].       ence in this study to impact evaluations thus refer only
+Instead, appraisal was limited to assessing the con-          to articles which quantitatively considered a counterfac-
+fidence in the methods and findings of systematic             tual by which to compare effects and thus better attribute
+reviews identified.                                           effects to an intervention (n = 67).
+  To assess the reliability of systematic reviews included      We found few articles prior to 1990 with a signifi-
+within the evidence gap map, each review article was          cant increase after 2002 (Fig. 3). The number of articles
+assessed according to a set of 14 criteria adapted by the     has increased exponentially since then. The number of
+International Initiative (3ie) [46] from the checklist devel- impact evaluations on this topic has increased the past
+oped by the SURE collaboration (The SURE collaboration        10 years with the earliest article documented in 2002.
+[49]. These criteria assess the reliability of the methodol-
+ogy utilised by the systematic review in its search strat-    Geographical representativeness of articles
+egy, methods for critical appraisal of included articles,     The dataset of included articles represents a range of geo-
+such as in criteria used to assess biases, and confidence     graphic regions (Fig. 4a). The most studied regions, with
+in the interpretation of study findings. The checklist is     over 200 articles, are Eastern Africa, Southern Asia, and
+a standardised critical appraisal tool, giving reviews an     Southeast Asia whereas North Africa and the Middle
+overall rating of high, medium or low in terms of the con-    East had some of the fewest articles for their geographic
+fidence with which their findings can be assured based        extent. The five countries with the greatest number of
+upon methodological design.                                   all included articles are India, Nepal, China, Brazil and
+
+McKinnon et al. Environ Evid (2016) 5:8                                                                                                         Page 8 of 25
+  Fig. 1 Flow diagram illustrating articles retrieved in initial search and articles included following subsequent screening and full text assessment.
+  Diagram stages adapted from PRISM guidance (Moher et al. 2009)
+Tanzania (Fig. 4b). In contrast, countries with the high-                          reefs were the most studied (n = 100). Relatively few
+est number of impact evaluations (n > 5) include China,                            articles were documented for freshwater biomes over-
+Costa Rica, Brazil, Thailand and Tanzania (Fig. 4c).                               all (n = 44) including freshwater floodplains and rivers,
+                                                                                   and lakes.
+Ecological coverage
+Articles were distributed across a range of terrestrial                            Types of conservation interventions
+and marine biomes (Fig. 5) with tropical moist broad-                              Figure 6a presents the distribution and extent of articles
+leaf forests the most studied with more than 400 articles                          included according to ten broad intervention categories
+documented. Other relatively well-studied terrestrial                              (Table 1). The occurrences of evidence, or the number of
+biomes include tropical grasslands and savannas and                                times a linkage between an intervention evaluated and
+montane grasslands. In marine biomes, tropical coral                               outcomes measured is documented in our systematic
+
+McKinnon et al. Environ Evid (2016) 5:8                                                                                   Page 9 of 25
+  Fig. 2 Frequency of comparators used by included articles
+  Fig. 3 Number of articles and impact evaluations at 5-year increments
+map is also indicated. Multiple linkages might be docu-                 Dimensions of human well‑being studied
+mented within a single article.                                         Figure 7 presents the distribution of articles identified by
+  Well-studied intervention categories, documented                      outcome category. Most articles measured more than one
+in over 300 articles, include Area protection, Land and                 outcome with the average number of outcomes measured
+Water management, Resource management, and inter-                       by article = 2.65 (±1.35SD).
+ventions associated with Economic, livelihoods or other                   Economic well-being was the most frequently docu-
+incentives. Many articles evaluated multiple interven-                  mented outcome with over 700 articles including this as
+tions. Figure 6b characterizes the distribution and extent              a measure. Over 400 articles measured outcomes asso-
+of articles and occurrences of evidence by the adapted list             ciated with “Material well-being” and “Governance and
+of IUCN-CMP intervention types. These subcategories                     empowerment”, respectively. Among outcome measures,
+relate to specific types of activities, policies or programs            few articles evaluated health effects of nature conserva-
+within a broader category. The most frequently identified               tion interventions. Other types of outcomes based upon
+intervention subcategory was resource management/pro-                   measuring well-being perceived by individuals, such
+tection (n = 1153 occurrences).                                         as “Culture and Spirituality”, “Freedom of Choice and
+
+McKinnon et al. Environ Evid (2016) 5:8                    Page 10 of 25
+      a
+      b
+                    50
+                 y   0
+                   -50
+                                          -100   0   100
+                                                 x
+       c
+
+McKinnon et al. Environ Evid (2016) 5:8                                                                                                   Page 11 of 25
+ (See figure on previous page.)
+ Fig. 4 a Number of articles by region. b Geographical distribution of articles occurring in non-OECD countries. Darker countries indicate countries
+ with higher occurrences of articles, lighter indicate lower occurrence. c Number of impact evaluations by country
+                                                                               Action” and “Subjective well-being”, which may be more
+                                                                               challenging to measure, were rarely documented.
+                                                                               Intersection of conservation interventions and human
+                                                                               well‑being outcomes
+                                                                               Figure 8a maps the intersection of different conservation
+                                                                               interventions and human well-being outcomes evalu-
+                                                                               ated by articles included in our systematic map. Linkages
+                                                                               with higher occurrences of evidence might be promis-
+                                                                               ing areas for further synthesis, such as with a systematic
+  Fig. 5 Number of articles by biome
+                                                                               review or meta-analysis. Linkages with moderate or low
+                      a
+                      b
+  Fig. 6 a Number of articles by broad intervention category. Occurrences of evidence are indicated by numeric values. b Number of articles by
+  intervention sub-category and grouped by broad categories. Occurrences of evidence are indicated by numeric values
+
+McKinnon et al. Environ Evid (2016) 5:8                                                                               Page 12 of 25
+                                                                   conservation is still relatively low, impact evaluations
+                                                              700
+                                                                   make up a higher proportion of overall evidence for this
+                                                 416
+                                60
+                                                                   linkage than other linkages with many overall articles.
+                                      184                             Figures 9, 10 and 11 present a subset of articles that
+                                           310                     occurred in forest biomes (n = 733), marine biomes
+                                   94
+                                                 422
+                                                                   (n = 131), and freshwater biomes (n = 44), respectively.
+                                   98                              For forest biomes, the intersections between “Area pro-
+                               49                                  tection and Economic living standards” and “Resource
+                             7
+                                                                   management and Economic living standards” have the
+                             8
+                                                                   highest level of occurrence.
+                                                                      In Fig. 10, the subset of articles identified that occur in
+  Fig. 7 Number of articles by human well-being outcome categories marine biomes are mapped according to interventions
+                                                                   evaluated and outcomes measured. The linkage with the
+                                                                   highest occurrence of evidence is “Resource management
+                                                                   and Material well-being”. This likely reflects the emphasis
+occurrences of evidence, but which are priority topics for
+                                                                   on fisheries management in marine biomes. In parallel to
+policy or program management by national governments,
+                                                                   Fig. 8a, linkages associated with economic and material
+NGOs or conservation donors, might be promising areas
+                                                                   well-being outcomes and area protection and land and
+for investment in research and additional impact evalu-
+                                                                   water management also are well-studied. In contrast with
+ations. Figure 8a provides an overview of the distribu-
+                                                                   trends across the evidence base overall, this subset has
+tion and frequency of linkages across the framework of
+                                                                   a higher occurrence of evidence for linkages associated
+interventions and outcomes, and thus reflects the overall
+                                                                   with subjective well-being and education.
+“systematic map” and major output for this study. Addi-
+tional matrices (Figs. 8b, 9, 10, 11) illustrate the diversity
+                                                                   Synthesis of systematic review findings
+of ways that the data might be presented and patterns in
+                                                                   Eight systematic reviews were included (Table 3) in our
+evidence explored as discussed below.
+                                                                   study.
+   The linkage with the highest occurrence of evidence is
+                                                                      Figure 12 indicates the overlap between completed sys-
+“Resource Management and Economic well-being”. Other
+                                                                   tematic reviews (n = 8, Table 3) and occurrence of evi-
+linkages with high occurrence of articles include “Area
+                                                                   dence documented by our map. In general, recent review
+Protection and Economic well-being”, “Land and Water
+                                                                   efforts converge with the distribution and frequency of
+Management and Economic Well-being” and “Economic,
+                                                                   existing evidence. Systematic reviews have targeted well-
+livelihoods and other incentives and Economic well-
+                                                                   studied linkages associated with “Area Protection and
+being”. Interventions with relatively low occurrences of
+                                                                   Economic Well-being”, “Land and Water Management
+evidence include “Education” and “External Capacity-
+                                                                   and Economic well-being” and “Resource Management
+building”. Few articles have examined the health effects
+                                                                   and Economic well-being”. Linkages, with high occur-
+of any conservation intervention, effects on personal or
+                                                                   rences of evidence, but which have yet to be the target of
+community safety, or effects on culture and spirituality.
+                                                                   a systematic review include “Governance and empower-
+Limited to no evidence was documented for the effects
+                                                                   ment and all HWB outcomes” and “Species Management
+of conservation on individual or collective freedom of
+                                                                   and Economic well-being”.
+choice and action.
+                                                                      Among the eight systematic reviews, four were assessed
+   Figure 8b illustrates the distribution and frequency
+                                                                   as medium confidence based upon the 14 criteria devel-
+of the subset of impact evaluations, i.e., those articles
+                                                                   oped by 3ie (Snilstveit et al. [46]. The remaining four had
+using a counterfactual comparison. Areas of high occur-
+                                                                   low confidence due to the absence of bias reduction in their
+rence are closely aligned to the full set of articles with
+                                                                   screening strategies and a lack of meta-analysis. No reviews
+an emphasis on evaluating economic and material well-
+                                                                   were rated as having high confidence. The four systematic
+being outcomes from area protection, land and water
+                                                                   reviews (SRs) with medium confidence encompass 19 cells
+management, resource management, and “Economic,
+                                                                   (from a possible 80 cells total) or intervention-outcome
+livelihoods and other incentives”. On the other hand,
+                                                                   linkages within our evidence gap across five intervention
+linkages between conservation and “Governance and
+                                                                   subcategories and four outcomes. We briefly summarize
+empowerment” outcomes have relatively high occur-
+                                                                   the main findings for the four SRs with medium confidence.
+rences of overall evidence, with few evaluations using
+                                                                      Pullin et al. [38] examined the impacts of terres-
+more robust study designs were documented. While the
+                                                                   trial protected areas globally and human well-being.
+evidence from impact evaluations for health impacts of
+                                                                   79 impact evaluations were critically appraised for
+
+McKinnon et al. Environ Evid (2016) 5:8                                                                                                            Page 13 of 25
+                     a
+                                              CONSERVATION INTERVENTION
+                                                                                                                                HUMAN WELL-BEING
+                     b
+                                               CONSERVATION INTERVENTION
+                                                                                                                             HUMAN WELL-BEING
+                             NO. OF STUDIES
+  Fig. 8 a A systematic map on linkages between nature conservation and human well-being illustrated as a structural matrix of the distribution and
+  frequency of occurrences of evidence Darker-shaded cells indicate higher occurrence of evidence with lower occurrence indicate by lighter cells indi-
+  cating low. b Structural matrix illustrating the distribution and frequency of quantitative experimental, quasi-experimental, and non-experimental
+  articles on linkages on nature conservation and human well-being
+quantitative analysis with a further 34 qualitative arti-                     Pullin and authors find existing evidence remains dispa-
+cles to understand broader context. Despite being one of                      rate and fragmented. They conclude the existing evidence
+the most frequently applied conservation interventions,                       base is insufficient to draw conclusions about the scale of
+
+McKinnon et al. Environ Evid (2016) 5:8                                                                                                          Page 14 of 25
+                                             CONSERVATION INTERVENTION
+                                              /W  ate rM
+                                        Re so              an ag  em
+                                               urc  em                 en t
+                                        Sp ec            an age  me
+                                              ies   ma   na          nt
+                                        Ed uc              ge  me   nt
+                                               ati
+                           rot
+                                                   on  &a   w are
+                              ec
+                                        Law   &P                  ne  ss
+                                tio
+                                                   oli cy
+                                        Liv
+                                    n
+                                            eli ho od
+                                        Ex              inc en tiv
+                                           t. C                   es
+                        Ar
+                                                ap  ac ity
+                          ea
+                                        Su                 Bu
+                                  La       sta  ina            ild ing
+                             P      nd              ble   Us e
+                                         Ot he  r
+                                                                                             Economic living standards
+                                                                                                                              HUMAN WELL-BEING
+                                                                                             Material living standards
+                                                                                             Health
+                                                                                             Education
+                                                                                             Social relations
+                                                                                             Security & safety
+                                                                                             Governance & empowerment
+                                                                                             Subjective well-being
+                                                                                             Culture/Spirituality
+                                                                                             Freedom of choice/action
+                                                                                             Other
+                        NO. OF STUDIES
+  Fig. 9 Structural matrix illustrating the distribution and frequency of occurrences of evidence from articles involving forest biomes
+positive or negative impacts of protected area on human                        example, up to 35 % per capita expenditure in Ethio-
+well-being. Impacts of protected areas were highly con-                        pia). Overall, the evidence base was limited in quality
+text dependent and the limited robustness and quantity                         and quantity. Furthermore, the review found no impact
+of rigorous evidence restricted the authors’ ability to                        evaluations which jointly measured deforestation and
+generalize policy recommendations based on current                             welfare effects.
+evidence.                                                                        With a similar scope to the systematic review on DFM,
+   Bowler et al. [7] examined the impacts of community                         Samii et al. [44] conducted another systematic review
+forest management (CFM)—resource management in                                 on the effects of payments for environmental services
+developing countries on global environmental benefits                          (PES) on deforestation and poverty outcomes in low and
+associated with securing carbon in existing forests and                        middle-income countries. With 11 quantitative articles
+aspects of local livelihoods, including income, employ-                        included, the evidence base was limited in quantity and
+ment, income equality, social equity, food security and                        quality. There were no randomized control trials or joint
+health. From among 42 included impact evaluations,                             measurement of linked deforestation and welfare effects.
+some environmental benefits were observed, however                             In two articles examining poverty outcomes, income
+evidence was insufficient to conclude effect of CFM on                         increased by 4 % in Mozambique and 14 % in China
+livelihoods.                                                                   among participants. Findings suggest that PES does
+   In a related systematic review, Samii et al. [43]                           reduce deforestation, but impacts are modest and ineffi-
+explored the current evidence base for decentralized                           cient. Evidence from welfare impacts were inconclusive.
+forest management (DFM) on deforestation and poverty                             All of the four systematic reviews assessed focused
+in low and middle income countries. Like Bowler et al.                         on terrestrial ecosystems and primarily forest biomes.
+[7], this review sought to understand potential win–                           Broadly, the evidence base is insufficient to make general-
+win outcomes from land management policies. In three                           izations about policy effectiveness or trade-offs between
+quantitative articles identified on human well-being                           different options for improving human well-being
+effects, DFM did boost forest or household income (for                         through nature-based conservation.
+
+McKinnon et al. Environ Evid (2016) 5:8                                                                                                                                               Page 15 of 25
+                                                      CONSERVATION INTERVENTION
+                                                    nt                          s
+                                                me         nt         t        es                                g
+                                                           me                                      s
+                                                                                                         ity
+                                               ge                    en       ren                tiv e
+                                               na        ge      em        wa                                Bu
+                                tio                   na         ag
+                                                                                                 en             ild      le
+                                    n      Ma
+                                                      ma                  &a                 inc                    in      Us
+                                                                                                                               e
+                          Pr             ter
+                                                                an             &P
+                             ote                  rce       sm        tio        oli       od         ac            ab
+                                 c      /W a
+                                                                          n         cy   eli       Ca            tai
+                                                ou         cie        ca                    ho        p             n              r
+                        Ar           nd                                       w                                              Othe
+                           ea                  Re        Sp      Ed                  Liv         Ex          Su
+                                  La              s         e       u         La                    t.          s
+                                                                                                                                       Economic living standards
+                                                                                                                                                                   HUMAN WELL-BEING
+                                                                                                                                       Material living standards
+                                                                                                                                       Health
+                                                                                                                                       Education
+                                                                                                                                       Social relations
+                                                                                                                                       Security & safety
+                                                                                                                                       Governance & empowerment
+                                                                                                                                       Subjective well-being
+                                                                                                                                       Culture/Spirituality
+                                                                                                                                       Freedom of choice/action
+                                                                                                                                       Other
+                        NO. OF STUDIES
+  Fig. 10 Structural matrix illustrating the distribution and frequency of occurrences of evidence from articles involving marine biomes
+Types of mechanisms for linking nature conservation                                                       management and/or conservation and aspects of poverty
+and human well‑being                                                                                      or human well-being (Table 4).
+In conjunction with characterizing the evidence base, we                                                     The majority of articles developed bespoke, project-
+were interested in understanding the type and frequency                                                   specific conceptual models, designed to reflect the spe-
+of pathways and specific mechanisms by which conserva-                                                    cific operational or geographic context in which the
+tion affects well-being and the extent to which these are                                                 program being evaluated occurs. The most commonly
+empirically supported by existing evidence. As a first step                                               referenced conceptual model was the “Sustainable Live-
+to characterize these pathways, we identified articles with                                               lihoods Framework” established by the UK Department
+or without conceptual models. We define a conceptual                                                      for International Development [13].
+model as a visual illustration of how interventions and
+specific activities are assumed to directly or indirectly                                                 Discussion
+connect the intermediate and long-term outcomes asso-                                                     This study has compiled the largest thematic synthe-
+ciated with changes in human well-being. These are also                                                   sis to date of primary research articles documenting the
+referred to as theory of change models or results chains                                                  impacts of nature conservation on human well-being
+[26, 57]. During coding of included articles, occurrence                                                  outcomes in developing countries. This collection con-
+of conceptual models was recorded when a visual graphic                                                   firms recent and considerable research efforts on this
+or diagram was included—other articles also included                                                      topic across a vast array of linkages between conserva-
+narrative description of models, but these individual                                                     tion and socioeconomic outcomes. Well-studied rela-
+qualitative descriptions were too varied and subjective                                                   tionships focus on established interventions, such as
+to consistently characterize across the whole evidence                                                    protected areas and community-based natural resource
+base. Within the full evidence base, only 20 % of articles                                                management, and economic and material aspects of well-
+contain a visual conceptual model (n = 212 articles).                                                     being, such as income, employment and physical assets.
+Among these articles, a range of different models were                                                    Prominent gaps in the evidence base include the lack of
+used, including from established conceptual frameworks,                                                   evidence for interventions, such as education and species
+to characterize linkages between natural conservation                                                     management, and measurement of important aspects
+
+McKinnon et al. Environ Evid (2016) 5:8                                                                                                                                               Page 16 of 25
+                                                      CONSERVATION INTERVENTION
+                                                    nt                          s
+                                                me         nt                  es
+                                                                                                                      ity
+                                                                      t                            s
+                                                           me        en       ren                tiv
+                                               ge                                                    e                    Bu
+                                               na        ge      em        wa                            Su                  ild
+                                tio        Ma         na         ag
+                                                                                                 en         sta                  ing
+                                    n
+                                                      ma                  &a                 inc                ina
+                          Pr             ter
+                                                                an             &P                                   ble
+                             ote                  rce       sm        tio        oli       od         ac
+                                                                                                                        Us
+                                 c      /W a
+                                                                          n         cy   eli       Ca                      e
+                                                ou         cie        ca                    ho        p  Ot
+                        Ar           nd                                       w                             he
+                           ea     La           Re s      Sp e
+                                                                 Ed
+                                                                    u         La     Liv         Ex t.         r
+                                                                                                                                       Economic living standards
+                                                                                                                                                                   HUMAN WELL-BEING
+                                                                                                                                       Material living standards
+                                                                                                                                       Health
+                                                                                                                                       Education
+                                                                                                                                       Social relations
+                                                                                                                                       Security & safety
+                                                                                                                                       Governance & empowerment
+                                                                                                                                       Subjective well-being
+                                                                                                                                       Culture/Spirituality
+                                                                                                                                       Freedom of choice/action
+                                                                                                                                       Other
+                        NO. OF STUDIES
+  Fig. 11 Structural matrix illustrating the distribution and frequency of occurrences of evidence from articles involving freshwater ecosystems
+of well-being, such as social relations between groups,                                                   interventions and outcomes should be policy relevant.
+that may be more difficult to quantify. The robustness of                                                 Where possible, we aimed to utilize well-established
+the evidence base overall is low with few articles apply-                                                 typologies with broader currency to define and catego-
+ing robust quantitative methods. Where they exist, arti-                                                  rize different characteristics of the evidence base (e.g.,
+cles are focused on just a few linkages and geographic                                                    IUCN-CMP Classification of Conservation Actions, [41].
+regions, indicating a substantial research bias. The vol-                                                 However, there might be many competing frameworks
+ume of articles compiled by this mapping exercise indi-                                                   to choose as we found with categorizing dimensions of
+cates a broad scope and diversity of ongoing interest in                                                  human well-being. Standardized and consistent typolo-
+this topic, but also required an enormous synthesis effort                                                gies for interventions and outcomes could help coordi-
+to comprehensively capture and compile these data. The                                                    nate and target research efforts and inform policy about
+scale and standardization of the research effort however                                                  collective impacts [25]. Second, systematic maps enable
+demonstrates the value of systematic mapping in help-                                                     other researchers to rapidly locate and assess the state of
+ing other researchers and practitioners more easily locate                                                the evidence base. They illuminate well-studied linkages,
+and assess existing evidence. The outputs of this study, a                                                confirm knowledge gaps and identify “known unknowns”.
+graphical map illustrating the extent and distribution of                                                 While searching, screening and coding of data requires
+evidence occurring, confirms well-studied linkages, high-                                                 extraordinary efforts by a small research team, maps
+lights knowledge gaps, and provides a tool for decision                                                   save significant time for other researchers. Finally, maps
+making by a range of stakeholders.                                                                        currently provide a single snapshot of the existing evi-
+   This study represents one of the first systematic maps                                                 dence base, but could become more dynamic with peri-
+for the environmental sector, and the largest to date.                                                    odic updating every 3–5 years. Recent improvements to
+It therefore offers several general insights on the value                                                 synthesis approaches and new tools, such as use of ref-
+and existing barriers of systematic mapping as a tool for                                                 erence management software (e.g., EPPI Reviewer) and
+supporting evidence-informed decision making. First,                                                      text mining (e.g., TerMine), could automate and expedite
+the scope and resonance of systematic maps is depend-                                                     stages of the mapping process to be more efficient, accu-
+ent upon clear and discrete typologies. Categories for                                                    rate and replicable in the future.
+
+Table 3 Descriptive characteristics of included systematic reviews with details of relevant inclusion criteria (population, intervention and outcomes) and over-
+lapping articles included with our systematic map
+Review type Lead author Title            Year   Status     Population     Related           Relevant out‑     Population Study type Level of confi‑ # included   # overlapping
+                                                                          intervention      come category                           dence           studies      with EGM
+                                                                          category
+EGM         McKinnon     This study                        non-OECD       see Table 1       see Table 2       non-OECD     Quant; qual              1043
+SR          Blackman     The evidence     2009 Completed Global           Resource mgmt; Economic living      LMIC         Quant; qual Low          37           5
+                           base for envi-                                  economic liveli- standards
+                                                                                                                                                                                 McKinnon et al. Environ Evid (2016) 5:8
+                           ronmental and                                   hoods
+                           socioeconomic
+                           impacts of
+                           “sustainable”
+                           certification
+SR          Bowler       The evidence      2012 Completed LMIC; forests   Resource manage- Economic living LMIC            Quant; qual Low          42           14
+                           base for com-                   only            ment; land/water standards; mate-
+                           munity forest                                   management        rial living stand-
+                           management                                                        ards; health;
+                           as a mechanism                                                    Education
+                           for supplying
+                           global environ-
+                           mental benefits
+                           and improving
+                           local welfare
+SR          Brooks       Assessing com- 2013 Completed LMIC               Economic incen- Economic            Developing   Quant; qual Low          136          n/a
+                          munity- based                                     tives           well-being;
+                          conservation                                                      social relations;
+                          projects: a sys-                                                  governance and
+                          tematic review                                                    empowerment
+                          and multi-level
+                          analyses of atti-
+                          tudinal behav-
+                          ioral, ecological
+                          and economic
+                          outcomes
+SR          Caplow       Evaluating land 2011 Completed LMIC; forests     Land/water        Economic living   LMIC         Quant; qual Low          32           6
+                           use and liveli-               only               manage-           standards
+                           hood impacts                                     ment; resource
+                           of early forest                                  management;
+                           carbon projects:                                 economic incen-
+                           lessons for                                      tives
+                           learning about
+                           REDD+
+                                                                                                                                                                                 Page 17 of 25
+
+Table 3 continued
+Review type Lead author Title                          Year    Status         Population        Related              Relevant out‑         Population Study type Level of confi‑ # included                  # overlapping
+                                                                                                intervention         come category                               dence           studies                     with EGM
+                                                                                                category
+SR               Hepworth         What factors      2012 Completed LMIC; freshwa- Land/water man- Economic living                          Developing      Quant; qual Low                   38              0
+                                   determine the                    ter only        agement         standards
+                                   performance
+                                   of institutional
+                                   mechanisms for
+                                   water resources
+                                                                                                                                                                                                                               McKinnon et al. Environ Evid (2016) 5:8
+                                   management
+                                   in developing
+                                   countries in
+                                   delivering pro-
+                                   poor outcomes
+                                   and supporting
+                                   sustainable eco-
+                                   nomic growth?
+SR               Pullin           Human well-      2013 Completed Global; terres- Area protection;                   Econ; material;       Terrestrial     Quant; qual Medium                79              56
+                                   being impacts                    trial only      law & policy                       health
+                                   of terrestrial
+                                   protected areas
+SR               Samii            Effects of decen- 2014 Completed LMIC; forests                Land/water           Economic living LMIC                  IE with coun- Medium              20              3
+                                    tralized forest                 only                          management;          standards; mate-                      terfact ual
+                                    management                                                    resource man-        rial living stand-
+                                    (DFM) on                                                      agement              ards; health;
+                                    deforestation                                                                      education
+                                    and poverty
+                                    in low and
+                                    middle income
+                                    countries: a sys-
+                                    tematic review
+SR               Samii            Effects of        2014 Completed LMIC                         Law and policy; Economic living LMIC                       IE with coun- Medium              20              2
+                                    payment for                                                   economic incen- standards; mate-                           terfact ual
+                                    environmental                                                 tives           rial living stand-
+                                    services (PES)                                                                ards; health
+                                    on deforesta-
+                                    tion and pov-
+                                    erty in low and
+                                    middle income
+                                    countries
+A level of confidence is provided based upon assessment of reliability. Number of included articles indicate the total number of articles reviewed by each article. Overlapping indicates those articles that meet inclusion
+criteria and are included in this systematic map
+                                                                                                                                                                                                                               Page 18 of 25
+
+McKinnon et al. Environ Evid (2016) 5:8                                                                                                        Page 19 of 25
+                                            CONSERVATION INTERVENTION
+                         Ar ea   Pr ote
+                         La             cti on
+                           nd  /W  ate
+                         Re            rM   an ag
+                            so  urc  em            em   en t
+                         Sp ec            an age  me
+                               ies   ma   na          nt
+                         Ed uc  ati          ge me   nt
+                                   on   &a   w
+                         La w  &P              are ne  ss
+                                    olicy
+                         Liv eliho  od   inc en
+                         Ex t. C ap             tiv es
+                                     ac ity Bu
+                         Su sta  ina            ild ing
+                                     ble   Us e
+                          Ot he  r
+                                                                                           Economic living standards
+                                                                                                                            HUMAN WELL-BEING
+                                                                                           Material living standards
+                                                                                           Health
+                                                                                           Education
+                                                                                           Social relations
+                                                                                           Security & safety
+                                                                                           Governance & empowerment
+                                                                                           Subjective well-being
+                                                                                           Culture/Spirituality
+                                                                                           Freedom of choice/action
+                                                                                           Other
+  Fig. 12 Structural matrix illustrating the distribution of systematic reviews included in the systematic map and the level of confidence based upon
+  reliability of review methodology. Numbers within the circles indicate the total number of systematic reviews on that particular linkage that fall
+  within different levels of confidence
+                                                                              Expansion of the geographic scope to a global scale might
+Table 4 Frequency and types of conceptual models docu-
+mented by included articles                                                   allow interesting comparisons in interventions evalu-
+                                                                              ated, outcomes measured and study designs used given
+Type of conceptual model                             % of articles with       variation in research capacity, economic prosperity and
+                                                     conceptual models
+                                                                              ecosystem health between developed and developing
+Bespoke                                              85.8 % (182)             countries.
+Sustainable livelihoods framework                    12.7 % (27)                In addition to limitations to the scope of the search
+Transformative learning theory                       1.4 % (3)                strategy, several caveats related to how data were synthe-
+Bespoke models are custom models designed for the specific programmatic       sized and presented should be considered when inter-
+context in which the article occurs                                           preting results and using the systematic map for decision
+                                                                              making. First, data extraction was intended to capture
+Limitations of our systematic map                                             general characteristics for each article. This did not
+The scope of our systematic map presented several limi-                       include assessment of the directionality or distribution
+tations, which might be addressed in subsequent updates.                      of impacts observed by individual articles nor synthesis
+First, while our search strategy was comprehensive, it                        of average effect sizes for multiple articles as might be
+was not exhaustive. Finite time and resources precluded                       conducted as part of a more detailed systematic review
+additional searches of additional databases, forward and                      or meta-analysis. Second, we extracted only limited
+backward screening of the 1000+ included articles, and                        information on the specific pathways and mechanisms
+double assessment of the full dataset by two review-                          by which conservation affects human well-being, directly
+ers. Second, the search was limited to English language                       or indirectly. In part this was due to the inconsistent and
+literature, although results from a search of Portuguese,                     subjective nature of how these data were reported by
+Spanish and French language literature are forthcom-                          articles as well as the volume of articles identified. Finally,
+ing. Third, the map was focused on non-OECD countries                         high occurrence of evidence for a specific linkage or
+which excluded research from 20+ developed countries.                         type of article does not equate to positive impact of an
+
+McKinnon et al. Environ Evid (2016) 5:8                                                                          Page 20 of 25
+intervention on a particular outcome nor is evidence of         larger more diffuse programs which potentially might
+higher levels of robustness. Our map gives an indication        have greater reach and impacts on well-being are more
+of robustness of the evidence, based on study design, but       difficult to measure and thus less represented in the evi-
+does not give a detailed quality appraisal of articles and      dence base. Finally, the expertise required for analyzing
+how they deal with susceptibility to biases and heteroge-       linkages between many aspects of human well-being and
+neity of effects.                                               conservation typically rest outside the realm of those
+   The extent and robustness of the evidence base was also      working within conservation fields. Better understanding
+affected by factors outside the design and scope of our         of health impacts for example would require knowledge
+study related to issues of accessibility, availability and bias on epidemiology, nutrition and health economics. Inter-
+in current research efforts. We were primarily limited to       disciplinary collaboration is therefore essential when
+articles, documents and reports that were available elec-       considering future research strategies to address these
+tronically and distributed online. Books, monographs,           gaps.
+and geographically discrete journals or those that tar-            Biases in research efforts have significant effect of the
+geting specialist groups, e.g., the Indian Forester, were       extent and distribution of existing evidence. Some biases,
+less accessible from the library collections to which the       such as preferences for specific countries or biomes are
+research team subscribed. In addition, access to inde-          well-documented, more broadly across the sector [20,
+pendent evaluations or reviews not published in peer-           51]. Others such as the types of outcomes measured,
+reviewed literature were dependent on commissioning             interventions evaluated and study designs used are more
+organizations or researchers involved making these avail-       specific to the research question at hand. Determinants
+able and locatable electronically to the general public.        of these biases are numerous, but include historical
+                                                                trends, individual researcher focus, and data availability.
+Gaps and biases in the evidence base                            The lack of robustness of study designs, or lack thereof,
+Beyond limitations in search strategy as discussed above,       was one of the most prominent biases observed in the
+the current state of the evidence base is determined by         evidence base. This trend has been observed by other
+gaps and biases in the distribution and extent of existing      related reviews [38, 43, 44]. Applications of rigorous
+articles.                                                       impact evaluation methods in conservation remains lim-
+   Limited or non-existent evidence, or gaps, on a specific     ited relative to efforts more broadly on conservation per-
+linkage might be due to either a systemic bias in research      formance measurement [4, 15, 16]. Efforts to date have
+efforts or rather to a lack of theory supporting a causal       been concentrated in countries with political support,
+relationship between a specific intervention and out-           consistent longitudinal datasets, and focus on interven-
+come. The absence of evidence for some linkages might           tions involving rapid applications, e.g., protected areas or
+also indicate that a relationship is not plausible based        payment for environmental services [33, 55].
+upon existing theoretical thinking. Prominent linkages             Evaluations of conservation-related programs and
+where we might have expected higher levels evidence             policies have also focused first on biophysical out-
+to exist include articles measuring outcomes related to         comes with less attention to socioeconomic outcomes.
+culture, security and safety, and human health. We posit        Among the broader literature in environmental articles
+several reasons for occurrence of these gaps. First, con-       [1], recent reviews have observed few articles address-
+sistent time series data on more subjective outcomes,           ing joint effects between social and ecological outcomes
+associated with dimensions such as culture, are rarely          [7, 43, 44]. A related bias observed in our study was the
+available at broad scales and often require primary data        predominance of articles measuring specific aspects of
+collection from individuals. Second, measurement of             well-being, e.g., economic and material. In many cases,
+these outcome types involve lengthy timeframes, beyond          these patterns may reflect the availability and accessi-
+the average program timeline, to observe demonstrable           bility of secondary quantitative datasets, e.g., USAID’s
+changes. Third, conservation might have a proximate             Demographic and Health Survey data, the World Bank’s
+or indirect effect on these types of outcomes, making it        Living Standards measurement surveys. There were few
+inherently more challenging methodologically to tease           examples of articles measuring other important aspects
+apart a specific interaction. Similarly, certain interven-      of well-being, such as, culture and spirituality, freedom
+tions associated with capacity building or empowerment          of choice and action. These aspects may be difficult to
+within communities are often viewed as secondary activi-        quantify but scales could be developed. They may be
+ties intended to support other interventions, and thus          more suited for qualitative evaluation designs, e.g., strati-
+might not be the target of monitoring. Fourth, the evi-         fied random sampling of household interviews, and thus
+dence base is skewed towards site level interventions in        require greater understanding of local contexts and data
+which direct, observable effects are more likely whereas        on tailored indicators collected from individual subjects.
+
+McKinnon et al. Environ Evid (2016) 5:8                                                                        Page 21 of 25
+Better understanding of these dimensions may be par-          with an impact evaluation. In the following sections, we
+ticularly important given trade offs between financial and    discuss promising and priority questions related to each
+other outcomes, and because these may be distributed          of these actions.
+unequally across social strata, with the potential for wid-
+ening social and health inequity [22].                        Promising and priority questions for synthesis
+                                                              Our results suggest several areas in which evidence is suf-
+Recommendations for conservation policy, practice             ficient for more detailed analysis and synthesis. The first
+and research                                                  relates to linkages between conservation and economic
+Interpretation of our results and their implications for      and material well-being. The high occurrence of evidence
+conservation policy and practice are confined to find-        on these linkages confirms the continued predominance
+ings from the included systematic reviews as these alone      of economic constructs of poverty and development (see
+include critical appraisal of the direction and distribu-     e.g., World Bank Group [62]).
+tion of impacts between different interventions. Existing        Economic and material well-being have also been sub-
+systematic reviews across this topic are targeted towards     ject to a greater proportion of more rigorous impact
+a subset of interventions (e.g., protected areas, commu-      evaluations and systematic reviews than other human
+nity-based conservation and certification) and primar-        well-being outcomes. Because these reviews vary in reli-
+ily in terrestrial biomes. Collectively, the reviews found    ability (Fig. 10) and a number of new, robust articles have
+conservation has both positive and negative effects on        been undertaken since some of these reviews were pub-
+human well-being; yet benefits of specific interventions      lished there is an opportunity to carry out additional syn-
+were inconclusive (e.g., community forest management,         theses on these linkages and expand their scope to marine
+Bowler et al. [7]). A major implication is that existing      and freshwater biomes. Synthesis of this evidence across
+evidence base is insufficient to determine the relative       intervention types opens up new possibilities for assess-
+contribution of different interventions versus others to      ing the relative effectiveness of different (and emerging)
+different aspects of well-being. As has been concluded by     strategies, such as market-based approaches, in realizing
+other recent reviews (e.g., [38]), the quantity and robust-   economic/material well-being goals, but also possible
+ness of evidence needs to be dramatically increased to        trade-offs with other aspects of well-being. Despite its
+permit more concrete policy recommendations, and thus         value to theory, policy, and practice, there has been lit-
+enable evidence-informed decision making. Our exist-          tle to no comparative research of this kind to date. Such
+ing systematic map expands on these efforts by compil-        research is especially timely in the context of the Sustain-
+ing a more complete range of interventions being applied      able Development Goals and as the international com-
+across the sector and a more holistic overview of human       munity seeks the most effective means to reach the Aichi
+well-being. This broad perspective helps to identify addi-    targets under the Convention on Biological Diversity.
+tional areas for further synthesis and critical frontiers for    The second area ripe for more detailed synthesis con-
+improved evaluation.                                          cerns governance and empowerment outcomes. There
+   We recommend using this systematic map to support          is sufficient evidence to examine links between these
+three follow-up actions: evidence synthesis, knowledge        aspects of well-being and area and resource manage-
+generation and theory development. Deciding which             ment. Though relatively few, there appears to be enough
+of these actions to take is dependent on occurrence           rigorous evaluations to explore this linkage. Exploration
+and robustness of evidence across linkages identified in      of the range of ways in which governance factors influ-
+the evidence base. For linkages with high occurrence of       ence conservation human-well-being linkages is particu-
+evidence, further evidence synthesis using systematic         larly pressing. Effective governance of natural resources
+reviews and, where possible, meta-analyses can provide        might be a desired outcome of conservation policies and
+information about directionality and distribution of          programs, but also a factor affecting the achievement of
+impacts and in what contexts. For linkages with moder-        other social and ecological outcomes. There is a need,
+ate occurrences of evidence and/or less robust evidence,      then, for synthesis of evidence on governance as an out-
+we recommend implementing impact evaluations using            come. Specifically, those conservation programs that
+robust study designs to boost internal and external valid-    aim to target gaps or weaknesses in governance in their
+ity. Where evidence is lacking or non-existent, explora-      activities.
+tion of underlying assumptions and existing theory is
+necessary. If a linkage is thought to be important, but no    Promising and priority research questions
+evidence exists, then it is important to examine whether      Further empirical evaluation is needed to document the
+a relationship between an intervention and an outcome         magnitude and direction of particular conservation-well-
+is theoretically possible, and then to test this empirically  being linkages, in particular for relationships commonly
+
+McKinnon et al. Environ Evid (2016) 5:8                                                                       Page 22 of 25
+assumed in conceptual models, institutional strategies or      For scholars, the map highlights immediate research
+global policy goals. Higher occurrence and more robust      priorities as well as emergent properties of the evidence
+evidence on the contribution to sustainable development     base for further analytical investigation, such as associa-
+is an obvious priority given the recent launch of the Sus-  tions between individual intervention-outcome linkages,
+tainable Development Goals. For example, surprisingly       or internal (i.e., research design) and external (i.e., politi-
+little evidence exists on the contribution of biodiversity  cal, social, ecological or economic context) factors that
+conservation to Sustainable Development Goals 4 (Edu-       shape evidence quantity or quantity.
+cation), 5 (Gender Equality) 10 (Reduced Inequality),          For policymakers, the map places specific interventions
+and 16 (Peace, Justice and Strong Institutions). The link-  into a broader context by highlighting possible intersec-
+age between conservation and human health is an espe-       tions between conservation, sustainability and economic
+cially promising area for further research which might be   development. Development agencies such as the World
+informed by several ongoing initiatives such as the Health  Bank or USAID, therefore, might use the map to assess
+and Ecosystems: Analysis of Linkages (HEAL) collabora-      the extent to which conservation might present an alter-
+tion (http://www.wcs-heal.org). While benefits of conserv-  native strategy to achieving poverty alleviation to com-
+ing wild populations for food provision and the flow of     pare with existing strategies.
+ecological processes upon which agriculture depends are        For practitioners, the map offers a tool to support
+promoted as part of ecosystem-based approaches [5, 36],     design, implementation and monitoring of conservation
+the map reveals health outcomes from conservation inter-    interventions at local, national or global scales. While the
+ventions, such as trends in nutrition and disease risk, are map does not provide sufficient information to determine
+surprisingly understudied.                                  which interventions are most effective in which contexts
+   In addition to improving evidence on a broader range     (further synthesis would be required), it does provide a
+of human well-being outcomes, other promising areas         range of options to choose from, what outcomes they are
+for research involve expanding the scope of evaluations     associated with, and where they have been applied before.
+to target less studied interventions such as market forces  This might help validate existing efforts, highlight new or
+and livelihood alternatives. Understanding effects of       non-traditional approaches, and improve program design
+these incentive-based interventions is important given      and implementation. The map might also be used to
+greater interest in market-based approaches among           inform and guide monitoring of conservation programs
+NGOs (e.g., ACDI/VOCA, WWF) and foundations (e.g.,          by highlighting relevant indicators and tested methods
+new strategies by the Gordon and Betty Moore Founda-        for tracking them. Existing evidence can provide useful
+tion) as well as new models for implementation involv-      information on types of data and methods for monitor-
+ing public–private partnerships (e.g., USAID and the        ing specific outcomes. The map can also inform alloca-
+Walt Disney Corporation in Alto Mayo, Peru). Reliance       tion of monitoring efforts. For example, where evidence
+on evidence solely from traditional interventions limits    is currently lacking and therefore impacts are uncertain,
+the range of options for those planning and investing in    it might be beneficial to direct monitoring to these areas
+conservation, and also presents a potential risk by not     to help manage potential risks.
+reporting unintended or even negative outcomes from            Our ambition for this systematic map is to improve the
+new, but increasingly popular, interventions.               evidence base and specifically to encourage generation
+                                                            of stronger and more rigorous evidence on key linkages.
+How the map should be used                                  We must also be realistic that a complete evidence base
+In this paper, we present the first systematic effort to    might never be possible and decisions are made with
+map the evidence on the relationship between conser-        imperfect knowledge. All linkages are not equally impor-
+vation interventions and human well-being. By syn-          tant and the value of the map is its ability to help decision
+thesizing existing evidence into a single, searchable       makers weigh the value of evidence between different
+resource, the map becomes, in effect, a ‘treasure’ map,     linkages between conservation and human well-being. A
+simultaneously revealing rich seams of evidence ripe        next step to build on this map is thus provide guidance
+for synthesis as well as under-explored topics for tar-     on how the current evidence base matches to existing
+geted research. The evidence map allows conservation        evidence needs, and thus which linkages are highest pri-
+scholars, policymakers and practitioners to mine the        orities for establishing stronger evidence.
+evidence base to support a range of decisions. In the
+first instance, the map provides a ‘potted’ reading list    Conclusions
+for particular interventions or outcome types, poten-       The importance of identifying linkages between nature and
+tially saving considerable time and resources for any-      people in all development and conservation domains, and
+one interested in this topic.                               the necessity of incorporating considerations of human
+
+McKinnon et al. Environ Evid (2016) 5:8                                                                                                                Page 23 of 25
+well-being in conservation programs are now widely recog-                         of a Science for Nature and People working group on Evidence-based
+                                                                                  Conservation, in particular, Julien Brun, Rebecca Butterfield, Andrew Pullin,
+nized. Yet, effective policy-making and informed decisions                        Mark Schildhauer, Birte Snilstveit and Will Turner. We thank key informants for
+about how simultaneously to enhance human well-being                              providing additional sources of evidence. We are grateful for comments from
+and conserve nature depend on access to a robust and                              three anonymous reviewers on an earlier version of this manuscript.
+comprehensive evidence database. Furthermore, greater                             Competing interests
+attention and research investment should be directed to                           The authors declare that they have no competing interests.
+improving evaluation study designs, increasing case studies
+                                                                                  Funding
+that address intangible and subjective domains of human                           This study was made possible by a grant from the Gordon and Betty Moore
+well-being that are evidence poor, and expanding research                         Foundation to Conservation International (Grant No. 3519). This research was
+to include articles in data-poor geographies, biomes, and                         conducted by the Evidence-based Conservation Working Group and finan-
+                                                                                  cially supported in part by SNAP: Science for Nature and People, a collabora-
+intervention categories. It is only with ongoing effort that                      tion of The Nature Conservancy, the Wildlife Conservation Society and the
+sufficient evidence will be available to draw informed con-                       National Center for Ecological Analysis and Synthesis (NCEAS).
+clusions about the impacts of conservation on people and
+                                                                                  Received: 5 January 2016 Accepted: 11 April 2016
+to effectively balance the economic, social and environ-
+mental dimensions of achieving the 17 Goals of the Agenda
+for Sustainable Development at the site and global levels.
+Additional files                                                                  References
+                                                                                  1. Agrawal A, Chhatre A. Against mono-consequentialism: multiple
+   Additional file 1: Appendix 1. Search strategy. Table S1. List of                    outcomes and their drivers in social-ecological systems. Glob Environ
+   websites searched for relevant articles. Table S2. List of academic thesis           Change. 2011;21:1–3.
+   databases searched for relevant articles.                                      2. Andam KS, Ferraro PJ, Sims KR, Healy A, Holland MB. Protected areas
+                                                                                        reduced poverty in Costa Rica and Thailand. Proc Natl Acad Sci USA.
+   Additional file 2: Appendix 2. Data extraction code book and                         2010;107:9996–10001.
+   questionnaire.                                                                 3. Baral N, Stern M, Heinen J. Integrated conservation and development
+   Additional file 3: Appendix 3. Included articles. Table S3. List of                  project life cycles in the Annapurna conservation area, Nepal: is develop-
+   included articles.                                                                   ment overpowering conservation? Biodivers Conserv. 2007;16:2903–17.
+                                                                                  4. Baylis K, Honey-Rosés J, Börner J, Corbera E, Ezzine-de-Blas D, Ferraro PJ,
+   Additional file 4: Appendix 4. Excluded articles. Table S4. List of                  Lapeyre R, Persson UM, Pfaff A, Wunder S. Mainstreaming impact evalua-
+   excluded articles at full text assessment.                                           tion in nature conservation. Conserv Lett. 2015;9(1):58–64.
+   Additional file 5: Appendix 5. Coded data from systematic data for all         5. Bharucha Z, Pretty J. The roles and values of wild foods in agricultural
+   included articles.                                                                   systems. Philos Trans R Soc B Biol Sci. 2010;365:2913–26.
+                                                                                  6. Bottrill MC, Cheng S, Garside R, Wongbusarakum S, Roe D, Holland M, Edmond
+                                                                                        J, Turner WR. What are the impacts of nature conservation interventions on
+                                                                                        human well-being: a systematic map protocol. Environ Evid. 2014;3:16.
+Authors’ contributions                                                            7. Bowler DE, Buyung-Ali LM, Healey JR, Jones JP, Knight TM, Pullin AS. Does
+MCM conceived of the idea for the systematic map. All authors provided con-             community forest management provide global environmental benefits
+ceptual and technical input on the scope of the systematic map and design of            and improve local welfare? Front Ecol Environ. 2012;10:29–36.
+search strategy. MCM, SHC, DP, JE, MBH, IO, JR and SS implemented the search      8. Brockington D, Igoe J. Eviction for conservation: a global overview. Con-
+strategy, screening and coding of included articles. MCM and SHC conducted              serv Soc. 2006;4:424–70.
+analysis and presentation of data. MCM and SHC wrote the manuscript and           9. Brooks J, Waylen KA, Borgerhoff Mulder M. Assessing community-based
+all authors provided critical review on a draft version. All authors read and           conservation projects: a systematic review and multilevel analysis of
+approved the final manuscript.                                                          attitudinal, behavioral, ecological, and economic outcomes. Environ Evid.
+                                                                                        2013;2:2.
+Author details                                                                    10. Campese J, Sunderland T, Greiber T, Oviedo G. Rights-based approaches:
+1
+  Conservation International, Arlington, VA, USA. 2 School of Biological Sci-           exploring issues and opportunities for conservation. Bogor: CIFOR and
+ences, University of Queensland, St Lucia 4072, Australia. 3 National Center            IUCN; 2009.
+for Ecological Analysis and Synthesis, University of California, Santa Barbara,   11. CMP. Addressing social results and human wellbeing targets in conservation
+CA, USA. 4 Department of Ecology and Evolutionary Biology, University                   projects. Draft guidance. June 27. Conservation Measures Partnership. 2012.
+of California-Los Angeles, Los Angeles, CA, USA. 5 University of Maryland-        12. Collaboration for Environmental Evidence. Guidelines for systematic
+Baltimore County, Baltimore, MD, USA. 6 European Centre for Environment                 review and evidence synthesis in environmental management. Version
+and Human Health, University of Exeter Medical School, Truro, UK. 7 World               4.2. Bangor: Environmental Evidence; 2013.
+Wildlife Fund, Washington, DC, USA. 8 Mercy Corps, Portland, OR, USA. 9 The       13. DfID. Guidance document on livelihoods framework. 1999.
+Nature Conservancy, Boston, MA, USA. 10 University of Illinois at Urbana-Cham-    14. Ferraro PJ, Hanauer MM. Quantifying causal mechanisms to determine
+paign, Champaign, IL, USA. 11 University of Queensland, St Lucia, QLD, Aus-             how protected areas affect poverty through changes in ecosystem
+tralia. 12 Independent consultant, Montreal, Canada. 13 International Institute         services and infrastructure. Proc Natl Acad Sci. 2014;111:4332–7.
+for Environment and Development, London, UK. 14 Wildlife Conservation Soci-       15. Ferraro PJ, Pattanayak SK. Money for nothing? A call for empirical evalua-
+ety, New York, NY, USA. 15 Joint Institute for Marine and Atmospheric Research,         tion of biodiversity conservation investments. PLoS Biol. 2006;4:482–8.
+University of Hawaii, Honolulu, HI, USA. 16 Ecosystem Sciences Divisions, Pacific 16. Fisher B, Balmford A, Ferraro PJ, Glew L, Mascia M, Naidoo R, Ricketts TH.
+Islands Fisheries Science Center, National Oceanic and Atmospheric Adminis-             Moving rio forward and avoiding 10 more years with little evidence for
+tration, Honolulu, HI, USA. 17 University College London, London, UK.                   effective conservation policy. Conserv Biol. 2014;28:880–2.
+                                                                                  17. Fox HE, Haisfield KM, Brown MS, Stevenson TC, Tissot BN, Walsh WJ, Wil-
+Acknowledgements                                                                        liams ID. Influences of oceanographic and meteorological features on
+We are grateful for constructive comments on aspects of the study scope,                reef fish recruitment in Hawai’i. Mar Ecol Prog Ser. 2012;463:259–72.
+methodological approaches and data management from additional members
+
+McKinnon et al. Environ Evid (2016) 5:8                                                                                                                Page 24 of 25
+18. Gleason M, McCreary S, Miller-Henson M, Ugoretz J, Fox E, Merrifield M,       41. Salafsky N, Salzer D, Stattersfield AJ, Hilton-Taylor C, Neugarten R, Butchart
+    McClintock W, Serpa P, Hoffman K. Science-based and stakeholder-driven            SHM, Collen B, Cox N, Master LL, O’Connor S, Wilkie D. A standard Lexicon
+    marine protected area network planning: a successful case study from              for biodiversity conservation: unified classifications of threats and actions.
+    north central California. Ocean Coast Manag. 2010;53:52–68.                       Conserv Biol. 2008;22:897–911.
+19. Hepworth ND, Hooper V, Hellebrandt D, Lankford B. What factors deter-         42. Salafsky N, Wollenberg V. Linking livelihoods and conservation: a concep-
+    mine the performance of institutional mechanisms for water resources              tual framework and scale for assessing the integration of human needs
+    management in developing countries in delivering pro-poor outcomes                and biodiversity. World Dev. 2000;28:1421–38.
+    and supporting sustainable economic growth? CEE Review 11-006. Col-           43. Samii C, Lisiecki M, Kulkarni P, Paler L, Chavis L. Effects of payment for
+    laboration for Environmental Evidence. 2013.                                      environmental services (PES) on deforestation and poverty in low and
+20. Holmes G, Scholfield K, Brockington D. A comparison of global conserva-           middle income countries: a systematic review CEE 13-015b. Collaboration
+    tion prioritization models with spatial spending patterns of conservation         for Environmental Evidence. 2014a.
+    non-governmental organization. Conserv Biol. 2012;26:602–9.                   44. Samii C, Paler L, Chavis L, Kulkarni P, Lisiecki M. Effects of decentralised for-
+21. Horton R, Lo S. Planetary health: a new science for exceptional action.           est management (DFM) on deforestation and poverty in low and middle
+    Lancet. 2015;386:1921–2.                                                          income countries: a systematic review. Collaboration for Environmental
+22. Klein CJ, McKinnon MC, Wright BT, Possingham HP, Halpern BS. Social               Evidence, CEE review 13-015a. 2014b.
+    equity and the probability of success of biodiversity conservation. Glob      45. Schreckenberg K, Camargo I, Withnall K, Corrigan C, Franks P, Roe D,
+    Environ Change. 2015;35:299–306.                                                  Scherl LM, Richardson V. Social assessment of conservation initiatives:
+23. Leisher C, Samberg LH, van Beukering P, Sanjayan M. Focal areas for               a review of rapid methodologies. London: Natural Resource Issues IIED;
+    measuring the human well-being impacts of a conservation initiative.              2010.
+    Sustainability. 2013;5:997–1010.                                              46. Snilstveit B, Vojtkova M, Bhavsar A, Gaarder M. Evidence gap maps: a tool
+24. Leisher C, Sanjayan M, Blockhus J, Larsen N, Kontoleon N. 2012. Does              for promoting evidence-informed policy and prioritizing future research.
+    conserving biodiversity work to reduce poverty? A state of knowledge              World Bank Policy Research Working Paper No. 6725. 2013.
+    review. Biodiversity Conservation and Poverty Alleviation: Exploring the      47. Suich H, Howe C, Mace GM. Ecosystem services and poverty allevia-
+    Evidence for a Link 2012;143–59.                                                  tion: a review of the empirical links. Ecosyst Serv. 2015;12:137–47.
+25. Lu Y, Nakicenovic N, Visbeck M, Stevance AS. Policy: five priorities for the  48. Tallis H, Kareiva P, Marvier M, Chang M. An ecosystem services framework
+    UN sustainable development goals. Nature. 2015;520:432–3.                         to support both practical conservation and economic development. Proc
+26. Margoluis R, Stem C, Swaminathan V, Brown M, Johnson A, Placci G,                 Natl Acad Sci. 2008;105:9457–64.
+    Salafsky N, Tilders I. Results chains. A tool for conservation action design, 49. The SURE collaboration. SURE Checklist for making judgements about
+    management, and evaluation. Ecol Soc. 2013;18:22.                                 how much confidence to place in a systematic review. SURE guides for
+27. Margoluis R, Stem C, Salafsky N, Brown M. Design alternatives for evaluat-        preparing and using policy briefs. Version 2.1, The SURE collaboration.
+    ing the impact of conservation projects. New Dir Eval. 2009;122:85–96.            2011.
+28. Mascia MB, Pailler S, Thieme ML, Rowe A, Bottrill MC, Danielsen F,            50. Thirgood S, Woodroffe R, Rabinowitz A, editors. The impact of human-
+    Geldmann J, Naidoo R, Pullin AS, Burgess ND. Commonalities and                    wildlife conflict on human lives and livelihoods, Cambridge, 2005.
+    complementarities among approaches to conservation monitoring and             51. Trimble MJ, van Aarde RJ. Geographical and taxonomic biases in research
+    evaluation. Biol Conserv. 2014;169:258–67.                                        on biodiversity in human-modified landscapes. Ecosphere. 2012;3:119.
+29. Masuda YJ, Tallis H, Musengezi J, Wongbusarakum S. Human well-being           52. Turner WR, Brandon K, Brooks TM, Gascon C, Gibbs HK, Lawrence KS, Mit-
+    impacts: incorporating, monitoring, and evaluating human well-being in            termeier RA, Selig ER. Global biodiversity conservation and the alleviation
+    conservation programs. Arlington: The Nature Conservancy; 2015.                   of poverty. Bioscience. 2012;62:85–92.
+30. McKinnon MC, Cheng SH, Garside R, Masuda YJ, Miller DC. Sustainability:       53. UN. Transforming our world: the 2030 agenda for sustainable develop-
+    map the evidence. Nature. 2015;528:185–7.                                         ment. New York: UN General Assembly; 2015.
+31. Millennium Ecosystem Assessment. Ecosystems and human well-being:             54. USAID. USAID biodiversity policy. Washington: US Agency for Interna-
+    policy responses: findings of the responses working group of the millen-          tional Development; 2014.
+    nium ecosystem assessment. Washington: Island Press; 2005.                    55. Watson JEM, Dudley N, Segan DB, Hockings M. The performance and
+32. Milner-Gulland EJ, McGregor JA, Agarwala M, Atkinson G, Bevan P, Cle-             potential of protected areas. Nature. 2014;515:67–73.
+    ments T, Daw TM, Homewood K, Kumpel N, Lewis J, Mourato S, Palmer             56. West P, Igoe J, Brockington D. Parks and peoples: the social impact of
+    Fry B, Redshaw M, Rowcliffe JM, Suon S, Wallace G, Washington H, Wilkie           protected areas. Annu Rev Anthropol. 2006;35:251–77.
+    D. Accounting for the impact of conservation on human well-being.             57. White H. Theory-based impact evaluation: principles and practice. Work-
+    Conserv Biol. 2014;28:1160–6.                                                     ing paper 3. New Delhi: International Initiative for Impact Evaluation;
+33. Miteva DA, Pattanayak SK, Ferraro PJ. Evaluation of biodiversity policy           2009.
+    instruments: what works and what doesn’t? Oxford Rev Econ Policy.             58. Whitmee S, Halnes A, Beyrer C, Boltz F, Capon AG, de Souza Dias BF, Ezeh
+    2012;28:69–92.                                                                    A, Frumkin H, Gong P, Head P, Horton R, Mace GM, Marten R, Myers SS,
+34. Naidoo R, Weaver LC, Stuart-Hill G, Tagg J. Effect of biodiversity on             Nishtar S, Osofsky SA, Pattanayak SK, Pongsiri MJ, Romanelli C, Soucat A,
+    economic benefits from communal lands in Namibia. J Appl Ecol.                    Vega J, Yach D. Safeguarding human health in the Anthropocene epoch:
+    2011;48:310–6.                                                                    report of the Rockefeller Foundation-Lancet Commission on planetary
+35. Pattanayak SK, Wunder S, Ferraro PJ. Show me the money: do payments               health. The Lancet. 2015;386:1973–2028.
+    supply environmental services in developing countries? Rev Environ            59. Wickham R. ggplot 2: elegant graphics for data analysis (Use R!). New
+    Econ Policy. 2010;4:254–74.                                                       York: Springer; 2009.
+36. Powers AG. Ecosystem services and agriculture: trade-offs and synergies.      60. Wongbusarakum S, Madeira EM, Hartanto H. Strengthening the social
+    Philos Trans R Soc B Biol Sci. 2010;365:2959–71.                                  impacts of sustainable landscapes programs: a practitioner’s guidebook
+37. Pullin AS. Why is the evidence base for effectiveness of win-win interven-        to strengthen and monitor human well-being outcomes. Arlington: The
+    tions to benefit humans and biodiversity so poor? Environ Evid. 2015;4:19.        Nature Conservancy; 2014.
+38. Pullin AS, Bangpan M, Dalrymple S, Dickson K, Haddaway HR, Healey JR,         61. Woodroffe R, Thirgood SJ, Rabinowitz A. People and wildlife: conflict or
+    Hauari H, Hockley H, Jones JPG, Knight T, Vigurs C, Oliver S. Human well-         coexistence?. Cambridge: Cambridge University Press; 2005.
+    being impacts of terrestrial protected areas. Environ Evid. 2013;2:19.        62. World Bank Group. Annual report: end extreme poverty. Promote Shared
+39. R Development Core Team. R: a language and environment for statistical            Prosperity. Washington D.C.: World Bank Group; 2013
+    computing. Vienna: R Foundation for Statistical Computing; 2005.              63. World Bank Group. Investing in natural capital for eradicating extreme
+40. Roe D, Fancourt M, Sandbrook C, Sibanda M, Giuliani A, Gordon-Maclean             poverty and boosting shared prosperity: a biodiversity roadmap for the
+    A. Which components or attributes of biodiversity influence which                 WBG. Agriculture and environmental services discussion paper. No 11.
+    dimensions of poverty? Environ Evid. 2014;3:3.                                    Washington: World Bank Group; 2014.
+
+McKinnon et al. Environ Evid (2016) 5:8                                                                                                        Page 25 of 25
+64. Yang W, Dietz T, Liu W, Luo J, Liu J. Going beyond the millennium ecosys- 66. Yang W, McKinnon MC, Turner WR. Quantifying human well-being for
+    tem assessment: an index system of human dependence on ecosystem              sustainability research and policy. Ecosyst Health Sustain. 2015;1:1–13.
+    services. PLoS One. 2013;8:e64581.
+65. Yang W, Liu W, Viña A, Tuanmu MN, He G, Dietz T, Liu J. Nonlinear effects
+    of group size on collective action and resource outcomes. Proc Natl Acad
+    Sci USA. 2013;110:10916–21.
+                                                                                  Submit your next manuscript to BioMed Central
+                                                                                  and we will help you at every step:
+                                                                                   • We accept pre-submission inquiries
+                                                                                   • Our selector tool helps you to find the most relevant journal
+                                                                                   • We provide round the clock customer support
+                                                                                   • Convenient online submission
+                                                                                   • Thorough peer review
+                                                                                   • Inclusion in PubMed and all major indexing services
+                                                                                   • Maximum visibility for your research
+                                                                                   Submit your manuscript at
+                                                                                   www.biomedcentral.com/submit
+

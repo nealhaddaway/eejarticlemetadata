@@ -1,0 +1,758 @@
+James et al. Environ Evid (2016) 5:7
+DOI 10.1186/s13750-016-0059-6                                                                                          Environmental Evidence
+  METHODOLOGY                                                                                                                                         Open Access
+A methodology for systematic mapping
+in environmental sciences
+Katy L. James1, Nicola P. Randall1* and Neal R. Haddaway2
+   Abstract
+   Systematic mapping was developed in social sciences in response to a lack of empirical data when answering ques-
+   tions using systematic review methods, and a need for a method to describe the literature across a broad subject of
+   interest. Systematic mapping does not attempt to answer a specific question as do systematic reviews, but instead
+   collates, describes and catalogues available evidence (e.g. primary, secondary, theoretical, economic) relating to a
+   topic or question of interest. The included studies can be used to identify evidence for policy-relevant questions,
+   knowledge gaps (to help direct future primary research) and knowledge clusters (sub-sets of evidence that may be
+   suitable for secondary research, for example systematic review). Evidence synthesis in environmental sciences faces
+   similar challenges to those found in social sciences. Here we describe the translation of systematic mapping meth-
+   odology from social sciences for use in environmental sciences. We provide the first process-based methodology for
+   systematic maps, describing the stages involved: establishing the review team and engaging stakeholders; setting
+   the scope and question; setting inclusion criteria for studies; scoping stage; protocol development and publica-
+   tion; searching for evidence; screening evidence; coding; production of a systematic map database; critical appraisal
+   (optional); describing and visualising the findings; report production and supporting information. We discuss the
+   similarities and differences in methodology between systematic review and systematic mapping and provide guid-
+   ance for those choosing which type of synthesis is most suitable for their requirements. Furthermore, we discuss the
+   merits and uses of systematic mapping and make recommendations for improving this evolving methodology in
+   environmental sciences.
+   Keywords: Systematic mapping, Evidence-based environmental management, Systematic evidence synthesis,
+   Evidence review, Knowledge gaps, Knowledge clusters
+Background                                                                                    follow rigorous, objective and transparent processes
+The last decade saw increasing concerns that scientific                                       that, unlike traditional literature reviews, aim to reduce
+research was not being used to underpin policy and                                            reviewer selection bias and publication bias, and enable
+practice in the fields of conservation and environmental                                      the reader to view all the decisions made for inclusion
+science [1–7], with decisions generally being experience-                                     and appraisal of research, and how conclusions have been
+based rather than evidence-based [2, 8]. Methods for                                          reached. Evidence syntheses are now receiving significant
+evidence-based decision-making are more developed in                                          interest in environmental sciences, gaining increasing
+disciplines such as medicine and social science. In these                                     recognition from research funders e.g. [12, 13]. One of
+sectors a suite of ‘systematic evidence synthesis’ meth-                                      the most recognised evidence synthesis methods is sys-
+odologies have been developed to gather and collate evi-                                      tematic review, which is often regarded as the gold stand-
+dence, and sometimes appraise studies and synthesise                                          ard [2, 3, 8, 14, 15].
+study results e.g. [9–11]. Evidence synthesis methods                                           Systematic reviews use existing primary research to,
+                                                                                              where possible, answer a specific question by combin-
+*Correspondence: nrandall@harper‑adams.ac.uk                                                  ing suitable data from multiple studies, either quantita-
+1
+  Centre for Evidence‑Based Agriculture, Harper Adams University,                             tively (e.g. using meta-analysis) or qualitatively (e.g. using
+Newport, Shropshire TF10 8NB, UK                                                              meta-ethnography) [11, 16]. In environmental sciences
+Full list of author information is available at the end of the article
+                                              © 2016 James et al. This article is distributed under the terms of the Creative Commons Attribution 4.0 International License
+                                              (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium,
+                                              provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license,
+                                              and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/
+                                              publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+
+James et al. Environ Evid (2016) 5:7                                                                            Page 2 of 13
+‘meta-analysis’, a powerful statistical tool, is often used  a review question using meta-analysis can be hampered
+in quantitative reviews to combine the results of multiple   by data availability [21]. High quality quantitative data
+studies [17]. This improves precision and power through      is not always abundant in environmental science [22]
+increased effective sample size, and allows additional       and methodological detail and results are often poorly
+sources of variability across studies to be investigated     reported, unreported, and/or unrecorded [23–25].
+[18]. This process of combining the results of multiple         Often, multiple options for key question elements (e.g.
+studies to answer a question is often called ‘synthesis’     multiple populations, interventions or exposures) are
+[11]. However, ‘synthesis’ can also be used to describe the  needed to answer questions. Also, policy-makers fre-
+methodological process used to gather and collate evi-       quently ask questions relating to barriers to effective-
+dence, which may or may not include extraction of results    ness of interventions (e.g. cost of implementation; lack
+and combining of study results to answer a question.         of awareness of intervention) and how these can be over-
+Here we use the term ‘evidence synthesis’ to describe the    come. The studies collated for these type of questions are
+whole methodology used to gather and collate evidence        often highly heterogeneous (mixed) including different
+(e.g. systematic review, systematic mapping) and the term    methodologies and outcomes or a mixture of quantita-
+‘synthesis of results’ to describe the combining of results  tive and qualitative research. This may make synthesising
+from multiple studies either quantitatively or qualita-      the results of individual studies (e.g. via meta-analysis),
+tively to answer a question.                                 to answer the question, challenging or impossible. In
+   Questions suitable for systematic review are struc-       these cases, a means of collating the evidence to identify
+tured to contain a number of key elements; explicit com-     sub-sets of evidence or questions suitable for systematic
+ponents that specify the essential aspects of a primary      review would be beneficial, particularly where the evi-
+research study to be able to answer the review question      dence base is extensive [11, 16].
+[19]. In environmental evidence, the most common ques-          Questions posed by user groups in policy and practice
+tion type relates to the effects of an intervention or expo- are sometimes ‘open-framed’ (questions that lack specifi-
+sure and generally has 4 key elements that need to be        cation of some key elements) and may not readily trans-
+specified; population (P), intervention (I) or exposure (E), late into closed-framed questions suitable for systematic
+comparator (C) and outcome (O) commonly referred to          review. Decision makers often ask questions relating
+the PICO or PECO elements [17]. Other types of ques-         to the state of evidence on a topic: How much evidence
+tion structures exist [20] and may be developed for par-     is there? Where is the evidence? What interventions or
+ticular circumstances. For example, the European Food        exposures have been studied? Which outcomes have been
+Safety Authority (EFSA) are often interested in questions    studied? How have the studies been undertaken? An
+related to the accuracy of a test method for detection or    example question relevant to environmental sciences
+diagnosis, in which case the population (P), index test (I)  might be: ‘What are ‘integrated landscape approaches’
+and target condition (T) must be specified. This struc-      and where and how have they been implemented in the
+ture is often called a ‘PIT’ question type. For questions    tropics?’ (adapted from [26]). For this type of question
+regarding the prevalence of a condition, or occurrence of    it is difficult to define inclusion criteria for specific key
+an outcome for a particular population, the key elements     elements (to decide what studies are relevant) and an
+are the population (P) and outcome (O), often referred to    iterative approach may have to be taken. The evidence
+as ‘PO’ question types [12, 19]. Some examples of PICO,      gathered may be used to inform the development of
+PECO, PIT and PO question types are given in Box 1.          new theories, conceptualisations or understandings [11,
+   These questions where all the key elements are clearly    16, 26]. In environmental sciences, a method of collat-
+specified are termed ‘closed-framed’ [19] and help ena-      ing studies to address these types of question is often
+ble systematic review teams to envisage the type of pri-     needed.
+mary research study designs and settings that would be          Sometimes the aim of collating evidence may be
+included [12], Sometimes all elements of the question are    to inform secondary synthesis other than systematic
+not explicit in PICO or PECO type questions because the      review. For example, to gather data for modelling [27].
+intervention or exposure and comparator elements are         Stakeholders may also be interested in research activity
+considered together, for example when comparing differ-      already captured in existing systematic reviews either to
+ent levels of exposure to a chemical and the effects on the  ask questions about the nature of the research field or
+outcome, but these questions are still considered closed-    to identify primary research that could be used in fur-
+framed [19].                                                 ther secondary synthesis [11]. Again, this highlights the
+   Despite being ‘gold standards’ in evidence synthesis,     need for a means of cataloguing all the available evidence
+systematic reviews are not always feasible. The ability of   in a comprehensive, transparent and objective manner
+systematic reviews to produce a quantitative answer to       to describe the state of knowledge, identify sub-sets of
+
+James et al. Environ Evid (2016) 5:7                                                                            Page 3 of 13
+evidence or topics suitable for further secondary synthe-      investigating the effectiveness of a specific interven-
+sis or identify where there is a lack of evidence.             tion, for a particular outcome in a specific population),
+  In the social sciences, ‘systematic mapping’ methodol-       more complex cross-tabulations can also be carried out.
+ogy was developed in response to the need to adapt exist-      By interrogating the meta-data it is possible to identify
+ing systematic review methodology for a broader range of       trends, knowledge gaps and clusters. In further contrast
+circumstances including some of those mentioned above          with systematic reviews, systematic maps are unlikely to
+[10, 28–30].                                                   include extraction of study results or synthesis of results.
+  Systematic mapping does not aim to answer a specific         To date those published within social science disciplines
+question as does a systematic review, but instead collates,    also exclude critical appraisal of included studies [10].
+describes and catalogues available evidence (e.g. pri-         Table 1 outlines the key differences between systematic
+mary, secondary, quantitative or qualitative) relating to a    review and systematic mapping.
+topic of interest [10]. The included studies can be used
+to develop a greater understanding of concepts, identify
+evidence for policy-relevant questions, knowledge gaps           Box 1. Examples of different key element
+(topics that are underrepresented in the literature that         question types
+would benefit from primary research), and knowledge              Pico
+clusters (sub-sets of evidence that may be suitable for          ‘Do deflector systems on planting equipment reduce
+secondary research, for example using systematic review)         dust from neonicotinoid treated-seed contaminating
+[10, 11, 30–32].                                                 surrounding flora?’
+  Systematic mapping follows the same rigorous, objec-             Population = flora; Intervention = defector systems;
+tive and transparent processes as do systematic reviews          Comparator = no defector system or alternative inter-
+to capture evidence that is relevant to a particular topic,      vention; Outcome = concentration of neonicotinoid
+thus avoiding the potential pitfalls of traditional literature   treated seed-dust on surrounding flora.
+reviews (e.g. reviewer and publication bias). However,
+since systematic mapping is not restricted by having to          Peco
+include fully specified and defined key elements, it can         ‘Does exposure to imidacloprid impair foraging in
+be used to address open-framed or closed-framed ques-            honey bees?’
+tions on broad or narrow topics. Systematic mapping is             Population = honey bees; Exposure = imidacloprid;
+particularly valuable for broad, multi-faceted questions         Comparator = no-exposure; Outcome = honey bee
+relating to a topic of interest that may not be suitable         foraging
+for systematic review due to the inclusion of multiple
+interventions, populations or outcomes or evidence not           Pit
+limited to primary research. Systematic maps play an             ‘What is the detection limit of the modified QuECh-
+important role in evidence syntheses because they are            ERS method and liquid chromatography coupled to
+able to cover the breadth of science often needed for pol-       tandem mass spectrometry for quantifying imidaclo-
+icy-based questions [33].                                        prid residue in honey?’
+  In systematic mapping, the evidence collated is cata-            Population = honey; Index test = modified QuECh-
+logued, usually in the form of a database, providing             ERS method and liquid chromatography coupled to
+detailed ‘meta-data’ (a set of data that describes and           tandem mass spectrometry; Target condition = con-
+gives information about other data) about each study             centration of imidacloprid residue
+(e.g. study setting, design, intervention/s, population/s)
+and the article it appears in (e.g. author, title, year, peer    Po
+review journal, conference proceeding). These meta-data          ‘What concentrations of imidacloprid are found in the
+are used to describe the quantity and nature of research         pollen and nectar of imidacloprid seed-treated oilseed
+in a particular area. For example, the number of articles        rape?’
+published in journals, books, conferences; the number of           Population = oilseed rape pollen and nectar; Out-
+publications per year; the number of studies from each           come = concentration of imidacloprid
+country of origin; the type and number of interventions;
+type and number of different study designs (e.g. survey,
+randomised controlled trial (RCT), cohort study); the          History of systematic mapping
+population types (e.g. species studied). As systematic         Methodology for systematic mapping was originally
+maps may include multiple populations, interventions           developed by the Evidence for Policy and Practice Infor-
+or exposures, or outcomes (e.g. the number of studies          mation and Co-ordinating Centre (EPPI-Centre) [28, 29].
+
+James et al. Environ Evid (2016) 5:7                                                                                                                 Page 4 of 13
+Table 1 Differences between a systematic map and systematic review
+Stage in ‘evidence          Systematic map                                                   Systematic review
+synthesis’
+Objective                   Describes the state of knowledge for a question or topic         Aims to answer questions with a quantitative or qualitative
+                                                                                               answer
+Question formulation        Question can be open-framed or closed-framed. Topic can Question is usually closed-framed
+                              be broad or narrow
+Search strategy             No limitation on research evidence that can be included          Evidence is limited to primary qualitative or quantitative
+                              (e.g. primary and secondary research)                            research. For example comparative, prevalence or occurrence
+                                                                                               type studies
+Article screening           Articles not obtainable at full text (where the full docu-       Article full text is usually required to extract relevant data
+                              ment is not available) or studies with limited data may
+                              be included
+Data extraction             Information describing the study and its methods are             Information describing the study and its methods and studies’
+                              extracted. Study results may not be extracted                    qualitative and or quantitative results extracted
+Critical appraisal          Critical appraisal optional                                      All included studies critically appraised for study internal and
+                                                                                               external validity
+Synthesis                   Trends in the literature, knowledge gaps and clusters iden- Qualitative or quantitative synthesis of study results where
+                              tified but no ‘synthesis of study results’ carried out           possible using appropriate methodology (e.g. meta-analysis).
+                                                                                               Knowledge gaps identified
+Report                      Describes and catalogues available evidence relating             Narrative and qualitative or quantitative synthesis study results
+                              to a topic of interest, identifying knowledge gaps and           (e.g. meta-analysis) to answer the question (where feasible).
+                              knowledge clusters. Implications for policy, practice and        Implications for policy and practice, and identification of
+                              research made                                                    knowledge gaps for future research
+These systematic maps, sometimes termed ‘descriptive                               reviewer experience in undertaking systematic maps in
+maps’, are often used in a two-stage model of systematic                           environmental sciences, and lessons from different map-
+review as a means of initially characterising the evidence                         ping approaches used in other disciplines.
+base, followed by the identification of smaller sub-sets
+of studies that can be used to answer focused questions
+through systematic review [28, 29, 34].                                              Box 2. Alternative definitions of ‘systematic
+   The EPPI-Centre mapping methodology was subse-                                    mapping’ in other disciplines
+quently adapted by the Social Care Institute for Excel-                              The term ‘mapping’ for evidence is used in a variety
+lence (SCIE) in response to a lack of empirical data to                              of different disciplines, sometimes with very different
+answer specific questions using systematic review meth-                              meanings and methodological approaches.
+odology, and a need for methodology to describe the lit-                                In public health, the term’systematic map’ has been
+erature in a broad field of interest [10]. SCIE term this                            used to describe what in environmental sciences is
+methodology ‘systematic mapping’ and have developed                                  referred to as a scoping review [39]; a rapid review
+detailed guidance for reviewers [10]. It is this guidance,                           method for gaining a basic overview of the literature
+used together with completed SCIE systematic maps                                    prior to defining full systematic reviews. This poten-
+[35–37], that was first used to pilot systematic mapping                             tial confusion can be reduced by avoiding the use of
+for use in environmental science [38] and that provides                              ‘systematic mapping’ for methods that fall outside of
+the framework for methodology described in this paper.                               those described here.
+   There are a number of variations in terminology relat-                               ‘Evidence gap maps’, developed by the International
+ing to systematic mapping in different disciplines and                               Initiative for Impact Evaluation (3ie), are thematic
+these are detailed in Box 2.                                                         evidence collections of completed and ongoing sys-
+   In environmental sciences, systematic mapping is                                  tematic reviews and impact evaluations on the effec-
+receiving increasing attention as a methodology in evi-                              tiveness of interventions alone (and no other type of
+dence synthesis e.g. [13, 33, 44], but as yet is only briefly                        evidence) in a particular international development
+discussed in current CEE systematic review guidance                                  sector (e.g. water, sanitation and hygiene sector). They
+[17].                                                                                follow very similar methodology to that used in social
+   Here, we describe a framework and recommendations                                 science systematic maps in the way that evidence is
+for undertaking systematic mapping of environmen-                                    searched for, screened for inclusion in the review and
+tal research based on guidance developed by SCIE [10],
+
+James et al. Environ Evid (2016) 5:7                                                                                           Page 5 of 13
+  catalogued (also termed coding) but differ in that the                                          STAGE 1
+  type of evidence they include is limited and that they                   Establishing the review team and engaging stakeholders
+  carry out critical appraisal for all included systematic
+                                                                                        Seng the scope and queson
+  reviews. The resulting ‘map’ provides a graphical dis-
+  play of areas with strong, weak or non-existent evi-                                Seng inclusion criteria for studies
+  dence and access to summaries of the included impact                                           Scoping study
+  evaluations and systematic reviews [40, 41].
+                                                                                    Protocol development and publicaon
+    Descriptive mapping (as defined by the EPPI-Cen-
+  tre) is also used in medicine e.g. [42] and ‘evidence
+                                                                                                  STAGE 2
+  maps’ have been developed by The Global Evidence
+                                                                                          Searching for evidence
+  Mapping Initiative to create an overview of existing
+  research in Traumatic Brain Injury (TBI) and Spinal
+                                                                                                  STAGE 3
+  Cord Injury (SCI) research e.g. [43]. Both of these
+  types of evidence syntheses are similar in methodol-                                      Screening evidence
+  ogy to systematic map methods developed by SCIE.
+                                                                                                  STAGE 4
+Methodological framework for systematic                                                            Coding
+mapping                                                                        Producon of the systemac map database
+Before commencing any review, it is important to estab-
+lish a team who will be involved throughout the review                                            STAGE 5
+process [10, 17]. The review team should ensure that they
+                                                                                        Crical appraisal (oponal)
+have adequate means of searching multiple sources for
+relevant published and unpublished literature (e.g. access
+                                                                                                  STAGE 6
+to relevant bibliographic literature databases, web-based
+search engines, websites of specialist organisations) and                          Describing and visualising the findings
+accessing full texts (e.g. subscriptions to relevant jour-                    Report producon and supporng informaon
+nals, adequate funds for interlibrary loans), as a compre-     Fig. 1 Stages in the systematic mapping process
+hensive and unbiased search is essential to the systematic
+mapping process. Systematic mapping is conducted in
+sequential stages (Fig. 1). The first stages (1–3) generally where users are interested in taking a sub-set of evidence
+follow those of CEE systematic review guidance [17]. Fol-    from the systematic map to be used to address a system-
+lowing screening and full text retrieval, however, stages    atic review question, critical appraisal on specific impor-
+are cut short, since no synthesis of study results is under- tant aspects of methodology may be required that were
+taken. Instead, a database is populated with study meta-     not undertaken as part of the systematic map. Following
+data using predefined categories assigned to each study      coding and optional critical appraisal, meta-data in the
+for a suite of variables that describe the study’s setting   map database are used to describe the evidence base in a
+and design. This process is termed ‘coding’ [10].            narrative synthesis (the results text within the systematic
+   For systematic mapping in environmental sciences, the     map report). The key benefits and outputs of a systematic
+major divergence between the guidance herein and sys-        map are given in Box 3 and described in more detail in
+tematic mapping methodology described by SCIE [10]           each stage of the systematic mapping process below.
+is in the optional inclusion of a ‘critical appraisal’ stage   In the following pages we set out a stage-by-stage
+following coding. It may be advantageous to include          framework for the systematic mapping process. Key defi-
+this a priori defined stage to assess the reliability of the nitions used in systematic mapping are given in Box 4.
+evidence base in whole or in part, and to help identify
+sub-topics or questions that may be suitable for further     Stage 1
+secondary synthesis (e.g. systematic review). It must be     Establishing a review team and engaging stakeholders
+pointed out, however, that any critical appraisal carried    As for systematic review [17], a review team should be
+out in systematic maps should be viewed with caution         established for a systematic map. The team should include
+when considering any secondary synthesis. For example,       members that have the necessary knowledge and skills
+external validity of studies may not have been assessed      required to carry out the systematic map [11]; for exam-
+in the systematic map, but this important aspect of          ple, knowledge of the topic or disciplines included, and
+appraisal is required for systematic review. Furthermore,    skills for literature searching and coding. Establishment
+
+James et al. Environ Evid (2016) 5:7                                                                             Page 6 of 13
+of a team is also needed for any quality assurance carried           further secondary research and knowledge gaps for
+out in the systematic map, since this should involve more            primary research?
+than one reviewer (e.g. for the quality assurance of screen-
+ing and coding of studies). The review team would benefit     Is the scope of topic
+from being led by an experienced project manager who             ••  Multi-faceted and likely to collate very heteroge-
+is responsible for managing tasks, people and resources              neous studies that would make synthesis of results
+involved in the systematic mapping process.                          using systematic review challenging or difficult?
+   The composition of review teams are likely to be simi-        ••  Narrow but includes multiple options for key ele-
+lar to those for systematic review teams, although as no             ments and is therefore likely to gather very heteroge-
+synthesis of results takes place, there is unlikely to be a          neous studies?
+requirement for specialist statistical expertise within the      ••  Likely to be supported by an extensive evidence base
+team. Instead experts in databases may offer value.                  that would benefit from initial characterisation to
+   There are distinct benefits to setting the scope of a             identify sub-topics or sub-groups of evidence for fur-
+systematic map in collaboration with stakeholders, and               ther secondary research?
+reviewers should attempt to solicit interest from a rep-
+resentative group of relevant stakeholders. Stakeholders         If the answer to any of these questions is ‘yes’ then a
+may be consulted for their expertise to help shape the        systematic mapping approach should be considered.
+scope and ensure the relevance of the systematic map             Question formulation follows a similar procedure as
+[11]. They may also have commissioned the systematic          for systematic reviews [17] (i.e. PICO, PECO, PIT or PO
+map. Systematic maps may be of potential interest to a        formulae) alternatively the question may be more open-
+wide range of stakeholders, including policy makers, prac-    framed where, for example, it is not known what inter-
+titioners, non-governmental organisations, levy boards,       ventions or outcomes have been studied or how the
+scientists and research funding bodies e.g. [26, 45–52].      studies have been undertaken. Box 5 shows published
+   It should be noted that stakeholders may have a            examples of systematic mapping questions.
+strongly vested interest in the topic and care must be
+taken to avoid any resultant bias to the systematic map-      Setting inclusion criteria for studies
+ping process. The systematic map must state clearly who       Establishing the inclusion criteria for systematic maps is
+was involved in the process and funders must be declared      similar to that for systematic reviews [17]. Criteria should
+to provide transparency to the reader.                        be set in consultation with stakeholders where possible
+                                                              and considerable effort should be expended in ensuring
+Setting the scope and question                                they are appropriate and well-defined, since they form
+Firstly, the review team must consider the scope of the       the backbone of the systematic map. The review team
+topic and the aim of the question to decide whether sys-      must decide on the extent to which criteria are pre-spec-
+tematic mapping is the most appropriate approach. When        ified or developed during the mapping process and this
+setting the scope of the systematic map it is sometimes       will depend on the type of question asked.
+useful to develop a conceptual framework or model (vis-          Inclusion criteria may be decided by splitting the map
+ual or textual) to outline what is to be explored by the      into its key elements, as in systematic review (e.g. PICO,
+map e.g. [45, 46]. This makes explicit the assumptions and    PECO, PIT or PO), and may be broad or narrow depend-
+mechanisms that provide the background to the map, and        ing on the breadth and depth of the question.
+can help test the suitability of the topic being addressed       Systematic maps are potentially less limited in the types
+for the commissioner’s or stakeholder’s needs [13].           of evidence that may be included than systematic reviews
+   The review team should consider the following              because no synthesis of study results is undertaken. Sys-
+questions:                                                    tematic maps can include a wide range of research (e.g.
+                                                              primary, secondary, theoretical, economic) and study
+Is the aim of the question to                                 designs (e.g. experimental, quasi-experimental or obser-
+   ••  Describe the current state of knowledge for a topic or vational). The chosen approach for inclusion of studies
+       question rather than answering a question through      should be detailed in the protocol and the type of evi-
+       ‘synthesis of results’?                                dence clearly documented in the map database.
+   ••  Discover: how much evidence there is? What popula-
+       tions, interventions, exposure or outcomes have been   Scoping study
+       studied? How studies have been carried out?            Scoping (sometimes referred to as a ‘pilot study’) is a vital
+   ••  Gather and collate evidence to identify suitable top-  part of systematic reviews [17] and the process should
+       ics or sub-groups of evidence that may be suitable for not differ for systematic maps. Scoping can be seen as a
+
+James et al. Environ Evid (2016) 5:7                                                                               Page 7 of 13
+‘trial run’ of the full systematic map, and helps to shape     or public calls for submission of articles (e.g. via Twitter).
+the planned method for the review and inform develop-          In some cases, systematic maps may return a greater vol-
+ment of the protocol. In scoping, the search strategy is       ume of evidence than would be expected for systematic
+tried and tested, the number of results found is recorded      reviews, since systematic maps can address questions
+(typically from searches in just one academic database),       that may be multi-faceted, relating to broad topics that
+and screening is undertaken on a subset of search results      aim to gather a wide range of evidence types.
+to assess proportional relevance at title, abstract and full
+text levels. Trialling the search strategy in scoping can      Stage 3
+help reviewers to find an appropriate balance between          Screening evidence
+sensitivity (getting all information of relevance) and spec-   Screening of search results (also referred to as ‘study
+ificity (the proportion of articles that are relevant). If the inclusion’) against inclusion criteria proceeds in system-
+search strategy is too sensitive and not specific enough,      atic maps in the same way as in systematic reviews: via
+the search may return a large amounts of not only rele-        title, abstract and full text screening stages [17].
+vant but also irrelevant information that is too extensive        Where articles appear to be relevant but full texts can-
+to screen within reasonable time and resource limits; too      not be obtained (e.g. the conference proceedings the
+specific and not sensitive enough and the search strategy      article is published in is unavailable) it may be useful to
+may miss vital evidence. Sometimes the scoping stage           include them within systematic maps as their inclusion
+may help identify whether a systematic map or a full sys-      can contribute to the overall state of knowledge. There
+tematic review is the most appropriate method to address       are many reasons why full text may not be obtainable (e.g.
+a question. For example, a decision on the most appro-         the study may not have been published; the reviewer may
+priate approach to be taken may be influenced by the           be unable to access conference proceedings or contact
+amount and type of evidence found during the scoping           study authors; the published article is no longer available
+stage. If this is the case, once the scoping stage is com-     on a website). Studies that have not been obtained in any
+pleted it must be specified a priori whether a systematic      full text articles should be categorised separately to full
+map or systematic review will be conducted.                    text articles. Where systematic maps identify potentially
+                                                               relevant but unobtainable articles it may be beneficial to
+Protocol development and publication                           include two databases, one of relevant abstracts and one
+The systematic map protocol takes a similar format to          of meta-data extracted full texts [49]. Only studies with
+that of a systematic review protocol, and should detail the    suitable available meta-data can be carried forward to the
+approach that will be taken for all stages of the mapping      critical appraisal stage, if this is undertaken.
+process. The systematic map protocol is submitted, peer-          In recent years, text mining technologies have been
+reviewed and published in the same way as for a CEE sys-       developed to reduce screening workload (especially in
+tematic review [17]. Planned outputs (usually in the form      large, complex evidence bases) and prioritise records
+of freely accessible databases) should be written into the     for manual screening [39]. Text mining software is read-
+protocol. If, for unforeseen reasons, a change in method-      ily available, is included in some systematic review man-
+ology is needed then these differences from the protocol       agement software, such as EPPI-Reviewer [53], and may
+must be clearly stated and detailed in the final systematic    prove particularly useful for rapidly coding information
+map report.                                                    from within large evidence bases such as those typically
+                                                               identified by systematic mapping.
+Stage 2                                                           As with systematic reviews, it is good practice for the
+Searching for evidence                                         screening process in systematic maps to be checked for
+Searching for evidence and recording the methods for           consistency and clarity between multiple review team
+searching and the numbers of articles captured within a        members [10] (e.g. using a Kappa analysis) as described
+systematic map follows the same procedures as within a         in CEE guidance [17], with team members discussing and
+systematic review [17]. The methods used for searching         resolving any ambiguities.
+for evidence should be documented a priori in the pro-            A record of the screening process, with numbers of
+tocol, with any variation recorded in the systematic map       articles excluded at each stage and reasons for exclu-
+report. As with systematic review, the search for litera-      sion for full texts should be included with the systematic
+ture should aim to be as comprehensive as possible, for        map report for transparency. For example, using a similar
+example using (but not limited to) relevant bibliographic      template to that provided in CEE guidance for systematic
+databases, web-based search engines, websites of special-      review [17] or a PRISMA-type flow chart [54]. This infor-
+ist organisations, bibliographies of relevant reviews, and     mation can be provided as supplementary material, pub-
+targeted calls for evidence using professional networks        lished alongside the systematic map.
+
+James et al. Environ Evid (2016) 5:7                                                                                          Page 8 of 13
+Stage 4                                                               is the unique investigation. The study unit is difficult to
+Coding                                                                define. In some cases this may be a geographical area: in
+In systematic reviews, data extraction includes both                  others it may be a unit in time. Four key variables help to
+meta-data (information describing the study and its                   define a study; the researchers, the location, the time, and
+methods) and study qualitative and/or quantitative                    the method. Which of these variables are used as cut-
+results. In systematic maps, data extraction may con-                 offs and where those cut-offs may be is a decision for the
+sist only of meta-data e.g. [38, 47]. As stated above, the            review team.
+process of assigning categories to each study for a suite                In systematic maps, coding is typically based on infor-
+of variables that describe the study setting and design               mation from full text articles, since many essential
+is referred to as coding [10]. Coding is carried out for a            details required for screening must be gained from the
+combination of generic (e.g. author, title, year of publica-          complete text, and abstract quality is extremely variable
+tion, publication type, data source type, data type) and              across the evidence base [55], although some basic cod-
+topic-specific (e.g. intervention/s, population/s, length             ing (e.g. generic and some topic specific coding, such as
+of study, sampling strategy) fields describing the study              intervention/s studied where it can be determined) may
+setting (Table 2), which will later be collated into a sys-           be undertaken for studies included at title or abstract
+tematic map database. The mapping process is designed                 stage e.g. [49].
+to create a useful and structured resource that provides                 It is important to consider the level of detail recorded
+sufficient detail of studies to be of use in future work.             for study design should any form of critical appraisal be
+Whilst coding may be undertaken in systematic reviews,                planned. Study results are not usually summarised in sys-
+it is likely to be more extensive in systematic maps, where           tematic maps reports as no synthesis of results is under-
+it is designed to be an output in itself.                             taken, and collating results may encourage vote-counting
+   Deciding what information to include in a systematic               (where the number of statistically significant results for
+map database can be a challenge. Systematic maps may be               and against a hypothesis are counted and weighed against
+more widely useful if they detail a broad range of aspects            each other) which is actively discouraged by CEE [17].
+of study designs and settings, but resources may not allow            However, authors may decide in some cases to include
+this, particularly for large volumes of evidence. A balance           data relating to results within the database e.g. [49],
+should therefore be struck between utility and available              since this may facilitate future analyses in a full system-
+resources, with the information that is most relevant to              atic review. In these cases the authors should explicitly
+the systematic map question prioritised for coding.                   state the limitations of the data to guide appropriate
+   The most basic map would consist of a list of unique               interpretation.
+studies rather than articles. An article is the published                The coding tool (the list of meta-data variables to be
+format in which authors present their research. A study               extracted) and the categories that will be assigned, should
+Table 2 Examples of coding variables for systematic maps
+Coding variable                                  Example of information that may be recorded
+Full reference                                   Author(s), title, date, publisher
+Year of publication                              Date of publication in years
+Publication type                                 Academic journal, book, conference paper or thesis
+Language                                         Article language
+Study country                                    Name of country
+Linked study                                     Other articles reporting the same study
+Data source                                      e.g. Primary or secondary research
+Data type                                        e.g. Quantitative or qualitative
+Study design                                     e.g. Experimental, quasi-experimental, observational, survey
+Population(s)                                    e.g. Species, group
+Intervention(s)                                  Type(s) of intervention investigated
+Exposure(s)                                      Type(s) of exposure investigated
+Comparator(s)                                    Type(s) of comparator used
+Outcome(s) assessed                              Types of outcome assessed
+Sampling strategy                                e.g. None specified, randomised, systematic
+Length/period of study                           e.g. Number of days, weeks, months, years or time period over which study was undertaken
+
+James et al. Environ Evid (2016) 5:7                                                                             Page 9 of 13
+be developed with expert assistance and subjected to            It is important to retain a high degree of clarity across
+peer-review within the protocol. Coding can often be          any databases produced in order to go beyond a sim-
+complex and it is advisable to pilot the process before       ple list of citations. Where multiple articles discuss one
+the protocol is completed, to ensure that coding is objec-    study or where studies appear to be linked, they should
+tive, repeatable and adequately reflects the content of the   be highlighted in the database e.g. [48, 49], particularly
+studies.                                                      where studies have been reported in multiple articles
+   Software can assist coding, and can be used as long as     where dual publication can risk double-counting within a
+it facilitates the production of one or more searchable       map. This helps to avoid double counting of study results
+databases. For example, EPPI-Reviewer software [53]           in future syntheses that might miss linkages between
+designed for systematic reviews in the social sciences        study lines in the database.
+lends itself well to coding within systematic maps, since it
+allows codes to be assigned to full-text electronic articles  Stage 5
+using a tick-box style process.                               Critical appraisal (optional)
+   At present, no standards exist in environmental sci-       Critical appraisal within systematic mapping is a use-
+ences for how many reviewers should carry out cod-            ful tool to investigating the overall validity of the evi-
+ing within systematic maps, and planning for coding is        dence base or subsets of evidence, something that may be
+likely to depend on available resources. As a guide, SCIE     specified by stakeholders commissioning reviews. Criti-
+standards for data extraction recommend the independ-         cal appraisal in systematic maps e.g. [47–49] is optional,
+ent coding of all records by at least two people. Once the    however, since there is no synthesis of results and it is
+coding has been completed a random sample of 20 % of          difficult to assess external validity (generalisability) when
+papers are separately coded for quality assurance by an       a question has not been explicitly specified as with a sys-
+assessor independent of the project team [10].                tematic review. Critical appraisal for systematic mapping
+                                                              may follow the processes outlined for systematic review
+Production of the systematic map database                     [17], and should only be undertaken for studies using
+The included studies and their meta-data can be pre-          full-text articles where a sufficient level of detail in study
+sented within one or more databases. Where possible, it       methods is provided.
+is strongly recommended that these databases are search-        Since systematic maps are often designed to provide
+able e.g. [48, 49]. This facilitates interrogation by end-    an overview of all evidence relating to a topic, they may
+users, who may, for example, want to explore a wider          include a wide variety of different types of study, some of
+range of questions relating to the map and identify rel-      which would normally be excluded from more focussed
+evant sub-sets of evidence.                                   systematic reviews. In these cases, critical appraisal may
+   A database is any organised collation of data. Databases   be particularly useful where inferences regarding the
+are managed by database management systems (DBMS),            ‘robustness’ of different aspects of the evidence base can
+such as Microsoft Access and Microsoft Excel. Some            be made and used to complement conclusions regarding
+software is more user-friendly, whilst other software is      the volume of evidence.
+more powerful. The choice of DBMS is entirely up to the
+reviewers, but consideration should be made regarding         Stage 6
+accessibility of software for users, and of ease of use. Help Describing the findings
+files can be vital resources in detailing for end users how   The systematic map database can be used to describe the
+to access and interrogate the systematic map database         scope of the research and identify knowledge clusters
+e.g. [38].                                                    and gaps. The map can be interrogated by users allowing
+   Reviewers may choose to create more than one data-         them to find information relating to any chosen combi-
+base from a systematic map to provide varying levels of       nations of subsets of the meta-data. Simple numerical
+information. For example, a database of all included stud-    accounts of frequencies in each category (e.g. the num-
+ies with basic meta-data (including potentially relevant      ber of studies investigating a particular species) and more
+studies for which no full text articles are available) pro-   complex cross-tabulations (e.g. number of studies inves-
+vides users with a basic overview of the state of evidence.   tigating the effectiveness of a particular intervention, in
+A second database containing only full text articles that     a specific farming system for a named species) enable
+have additional coding fields provides additional value,      correlations, trends, gaps and clusters to be identified e.g.
+since, although it contains fewer included studies, it may    [38, 46–49].
+be of greater use in supporting decision-making, particu-       A systematic map report should describe the evi-
+larly if it can be coded to inform critical evaluation. See   dence base in a similar way to the descriptive statistics
+[49] for example.                                             section in a systematic review (see report production
+
+James et al. Environ Evid (2016) 5:7                                                                              Page 10 of 13
+section below). Authors usually start by describing simple   exclusion [17]. The database file should be provided in
+generic (e.g. number of studies per year, country, publica-  a clear and readily digestible format as a supplementary
+tion type) and study-specific trends (e.g. number of stud-   file that is uploaded and published alongside the final sys-
+ies per intervention, population, outcome, study design)     tematic map report. Database files may be accompanied
+before describing more complex, in depth analysis of         by help files, again in supplementary information.
+the evidence base e.g. [38, 46–49]. Compared to system-         In general, a narrative report would include:
+atic review, systematic maps may put more emphasis on
+describing the evidence, since this is the primary objec-       ••  Background and rationale for the systematic map as
+tive of the map.                                                     in systematic review.
+                                                                ••  Clear, transparent detail of the methodology follow-
+Visualising the findings                                              ing that for systematic review but including system-
+Pivot tables and pivot charts are useful ways of easily vis-          atic map specific stages.
+ualising the quantity (and quality if assessed) of evidence     ••  A description of the volume and characteristics of
+across a suite of meta-data variables e.g. [38]. It may be            the evidence base, including generic (e.g. geographi-
+suitable and useful to present study meta-data as a layer             cal location, publication source) and study-specific
+within a geographical information system (GIS). This                  trends (e.g. the number and type of population and
+may be a simple world map showing the location and                    interventions studied and outcomes measured) as
+number of included studies e.g. [48] or a more complex                well as describing more complex and in depth analy-
+interactive world map which also enables the reader to                sis of trends in the evidence base.
+select studies from sub-topics of interest and access study     ••  (Where critical appraisal is included.) A description
+meta-data e.g. [50, 51]. This can easily be undertaken                of the evidence to include relative reliability of sub-
+using online tools, such as Google Maps, if all study lines           sets of studies. A description of whether the evidence
+in an Excel database have latitude and longitude associ-              within each study is consistent, contested or mixed
+ated with them. Such visualisations are relevant to sys-              may also be included.
+tematic maps with a global or large-scale scope, where          ••  Recommendations for primary research based on
+geographical distribution of study effort and type may be             knowledge gaps that have been identified, and rec-
+particularly interesting.                                             ommendations for secondary research in relation to
+  Other useful forms of visualisation include two-dimen-              knowledge clusters.
+sional figures and tables e.g. [46, 47]. Such visualisations    ••  Priorities and scope for future systematic review
+can show, for example, the number of studies, critical                based on the available evidence and policy/practice
+appraisal findings or sample size across countries, out-              needs.
+comes, populations or covariates. Categorical variables         ••  Implications for research, policy and practice.
+can be included in these visualisations as additional
+dimensions.
+                                                               Box 3. Key benefits of systematic maps
+  We anticipate that novel ways of visualising systematic
+                                                               Systematic maps
+map data will be developed and adapted as systematic
+                                                                   ••  follow the same rigorous, objective and transpar-
+mapping becomes more widely used.
+                                                                        ent processes used in systematic review to capture
+                                                                        and collate evidence and minimise reviewer publi-
+Report production and supporting information
+                                                                        cation and selection bias.
+All systematic maps should involve a full written report
+                                                                   ••  can be used to address closed-framed or open-
+that accompanies the systematic map database. This
+                                                                        framed questions, with either a broad or narrow
+report documents the methods used in the mapping pro-
+                                                                        focus.
+cess in a transparent, objective and repeatable manner.
+                                                                   ••  may have multiple inclusion criteria and are par-
+The systematic map report should follow the same basic
+                                                                        ticularly useful for describing features of topics
+format as for a systematic review report [17] and include
+                                                                        supported by extensive or heterogeneous evi-
+stages specific to systematic maps in the methods, with
+                                                                        dence bases.
+all activities clearly justified and explained in detail.
+                                                                   ••  catalogue and describe the evidence and its meta-
+  Reporting of specific details (such as search string
+                                                                        data (information about the study and the article
+modification for individual academic databases, search
+                                                                        in which it appears) often in a searchable database
+dates and numbers of results) can be documented within
+                                                                        that can be further interrogated by end-users to
+supplementary information, as with systematic reviews.
+                                                                        explore a wide range of questions on sub-sets of
+CEE requires that the report be accompanied by a list
+                                                                        evidence related to the systematic map.
+of excluded articles assessed at full text with reasons for
+
+James et al. Environ Evid (2016) 5:7                                                                         Page 11 of 13
+    ••  may include critical appraisal of included studies    Box 5. Examples of systematic map questions
+        to investigate the overall validity of the evidence   Systematic mapping may be used for policy based
+        base and identify sub-topics or evidence suitable     questions that aim to provide a better understanding
+        for systematic review.                                of the multiple impacts of an intervention or expo-
+    ••  highlight areas where sufficient evidence exists to   sure. These questions often have broad inclusion crite-
+        permit more detailed secondary research such as       ria and collate a wide range of different research types
+        a systematic review (knowledge clusters).             and methodologies. For example:
+    ••  can identify which subjects have not been fre-          What are the socio-economic and environmental
+        quently studied and would benefit from primary        impacts of wood energy value chains in Sub-Saharan
+        research (knowledge gaps).                            Africa? [45]
+    ••  have a range of potential uses including directing      The example below is a multi-faceted question
+        funding (e.g. research funding to fill knowledge      where it is not possible to pre-define all included cri-
+        gaps); identifying evidence to answer pre-existing    teria for particular key elements. It uses systematic
+        policy questions or help develop policy questions;    mapping to first inform a better understanding of an
+        informing development of concepts.                    approach by mapping its development and consolidat-
+                                                              ing existing definitions and conceptual frameworks
+                                                              before addressing where and how effectively these
+                                                              approaches have been implemented.
+                                                                What are ‘Integrated Landscape Approaches’ and
+  Box 4. Key definitions used in systematic                   how effectively have they been implemented in the
+  mapping                                                     tropics? [26]
+  It is important to establish some basic definitions to        A systematic map approach may be chosen if the
+  clarify the terminology used in systematic mapping in       aim is to collate data for purposes other than answer-
+  environmental sciences.                                     ing a question through systematic review. For exam-
+                                                              ple, the question below was formulated to identify
+    ••  Systematic mapping is a form of evidence synthe-      relevant information for modelling and to assess the
+        sis. It is the method used to collect, collate, and   potential for evolution of resistance of different crop-
+        present research evidence.                            Bt-protein-species combinations:
+    ••  A systematic map protocol is prepared a priori          What is the evidence on the inheritance of resist-
+        before review activities commence to outline the      ance alleles in populations of lepidopteran/coleopteran
+        methods to be used, together with the background      maize pest species? [27]
+        and scope of the topic to be addressed.
+    ••  The systematic map database, is a database (or
+        some other collation) of the included studies and   Systematic maps and the wider evidence base
+        their meta-data, that supports the systematic map   The main aim of a systematic map is to collate and cata-
+        report.                                             logue a body of evidence to describe the state of knowl-
+    ••  The systematic map report is a narrative docu-      edge for a particular topic or question. This catalogue
+        ment, that describes the systematic mapping         (the database) forms a searchable resource that is pub-
+        process (whilst referring to the protocol), and     lished alongside the systematic map report and can be
+        summarises the information contained in the sys-    interrogated to allow users to subset studies based on any
+        tematic map database.                               of the measured meta-data variables.
+    ••  Since systematic reviews and systematic maps           Databases not only facilitate user interaction with the
+        (collectively referred to herein as reviews) should outputs of systematic map reports, but also updating (as
+        be differentiated clearly to avoid confusion by     new evidence is published) and upgrading (proceeding
+        the reader, use of the term systematic map is still from a systematic map to full systematic review).
+        useful in systematic map report titles, but should     The map database allows researchers to identify areas
+        encompass the whole systematic mapping pro-         of the evidence base that are sufficiently represented to
+        cess (methodology) and outputs (database and        allow meaningful systematic review. Using a system-
+        report).                                            atic map as the basis for a systematic review should
+
+James et al. Environ Evid (2016) 5:7                                                                                                                 Page 12 of 13
+be a relatively rapid process, since often collation and                        Acknowledgements
+                                                                                The authors wish to thank anonymous reviewers for comments on an earlier
+coding of all available relevant evidence has already                           drafts of the manuscript.
+been performed (although sometimes additional,
+more focused searches may be required). The exten-                              Competing interests
+                                                                                The authors declare that they have no competing interests.
+sion of a subtopic into a separate systematic review
+would involve: drafting of a systematic review protocol;                        Received: 22 March 2016 Accepted: 13 April 2016
+selection of relevant studies from the systematic map;
+updating searches to capture research published since
+the original search; collection of full text articles; full
+critical appraisal for study internal and external valid-
+                                                                                References
+ity (reviewers should not assume that critical appraisal                        1. Pullin AS, Knight TM, Stone DA, Charman K. Do conservation managers
+carried out on studies in systematic maps is sufficient                              use scientific evidence to support their decision making? Biol Conserv.
+or appropriate for systematic review) extraction of                                  2004;119:245–52.
+                                                                                2. Sutherland WJ, Pullin AS, Dolman PM, Knight TM. The need for evidence-
+quantitative or qualitative data; synthesis of results                               based conservation. Trends Ecol Evol. 2004;19:305–8.
+using appropriate quantitative or qualitative methodol-                         3. Pullin AS, Knight TM. Doing more good than harm—Building an
+ogy where possible; and drafting of a systematic review                              evidence-base for conservation and environmental management. Biol
+                                                                                     Conserv. 2009;142:931–4.
+report. The original systematic map database may also                           4. Sunderland T, Sunderland-Groves J, Shanley P, Campbell B. Bridging the
+be included for additional value.                                                    Gap: how can information access and exchange between conservation
+   Policies for registering, planning and undertaking a                              biologists and field practitioners be improved for better conservation
+                                                                                     outcomes? Biotropica. 2009;41:549–54.
+CEE systematic review or map update are under devel-                            5. Cook CN, Carter RW, Fuller RA, Hockings M. Managers consider multiple
+opment [56], and are likely to be equally as relevant to                             lines of evidence important for biodiversity management decisions. J
+extensions of systematic maps into systematic reviews.                               Environ Manage. 2012;113:341–6.
+                                                                                6. Department for Environment Food and Rural Affairs. Defra’s evidence
+However, updating systematic maps is likely to depend                                investment strategy: 2010–2013 and beyond. London: Defra; 2013.
+on availability of funds and interest of stakeholders.                          7. Matzek V, Covino J, Funk JL, Saunders M. Closing the knowing-doing gap
+   Systematic maps may also be used to identify evidence                             in invasive plant management: accessibility and interdisciplinarity of
+                                                                                     scientific research. Conserv Lett. 2014;7:208–15.
+for other secondary research purposes other than sys-                           8. Pullin AS, Knight TM. Effectiveness in conservation practice: pointers from
+tematic review, for example modelling e.g. [24] and ‘syn-                            medicine and public health. Conserv Biol. 2001;15:50–4.
+opses of conservation evidence’ [38, 57].                                       9. Campbell Collaboration. Campbell collaboration systematic reviews: poli-
+                                                                                     cies and guidelines version 11 Oslo, Norway, 2015. Campbell Systematic
+   As with systematic reviews, systematic map reports                                Reviews. 2015. doi: 10.4073/csr.2015.1. http://www.campbellcollabora-
+may identify deficiencies in the evidence regarding study                            tion.org/artman2/uploads/1/C2_Policies_and_Guidelines_Doc_Ver-
+methods. These deficiencies can allow reviewers to make                              sion_1_1-3.pdf Accessed 19 Oct 2015.
+                                                                                10. Clapton J, Rutter D, Sharif N. SCIE Systematic mapping guidance; April
+recommendations of changes in practice, or highlight the                             2009. http://www.scie.org.uk/publications/researchresources/rr03.pdf
+need for improved funding to allow more accurate meas-                               Accessed 19 Oct 2015.
+urements to be taken.                                                           11. Gough D, Oliver S, Thomas J. An introduction to systematic reviews.
+                                                                                     London: Sage Publications Ltd; 2012.
+                                                                                12. EFSA. Application of systematic review methodology to food and feed
+Summary                                                                              safety assessments to support decision making: EFSA guidance for those
+Systematic maps are a novel evidence collation method                                carrying out systematic reviews. EFSA Journal. 2010;8(6):1637.
+                                                                                13. Collins A, Miller J, Coughlin D, Kirk S. The production of quick scoping
+in environmental sciences. They offer a reliable means                               reviews and rapid evidence assessments: A how to guide. Joint Water Evi-
+of summarising and describing the broad bodies of evi-                               dence Group Beta Version 2; April 2014. https://connect.innovateuk.org/
+dence pertaining to a specific topic and are particularly                            documents/3058188/3918930/The+Production+of+QSRs+and+REAs-
+                                                                                     +A+How+to+guide.pdf/45975020-be7d-4788-b74b-f3b6ed32c73a
+useful where systematic review may be unsuitable. Here,                              Accessed 19 Oct 2015.
+we have described a methodology and proposed stand-                             14. Fazey I, Sailsbury JG, Lindenmayer DB, Maindonald J, Douglas R. Can
+ards for undertaking a systematic map and discussed                                  methods applied in medicine be used to summarize and disseminate
+                                                                                     conservation research? Environ Conserv. 2004;31:190–8.
+the various options available. Systematic maps are likely                       15. Segan DB, Bottrill MC, Baxter PW, Possingham HP. Using conservation
+to become a common method in evidence synthesis as a                                 evidence to guide management. Conserv Biol. 2010;25:200–2.
+result of their broad relevance and usability.                                  16. Gough D, Thomas J, Oliver S. Clarifying differences between review
+                                                                                     designs and methods. Syst Rev. 2012;1:28.
+Authors’ contributions                                                          17. Collaboration for Environmental Evidence. Guidelines for systematic
+KLJ, NPR and NRH contributed equally to the preparation of this article and KLJ      review and evidence synthesis in environmental Management. Version
+drafted the manuscript. All authors read and approved the final manuscript.          4.2. Environmental Evidence 2013 http://www.environmentalevidence.
+                                                                                     org/wp-content/uploads/2014/06/Review-guidelines-version-4.2-final.
+Author details                                                                       pdf Accessed 19 Oct 2015.
+1
+  Centre for Evidence‑Based Agriculture, Harper Adams University, Newport,      18. Stewart G. Meta-analysis in applied ecology. Biol Lett. 2010;6:78–81.
+Shropshire TF10 8NB, UK. 2 Mistra Council for Evidence‑based Environmental      19. Aiassa E, Higgins JPT, Frampton GK, Greiner M, Afonso A, Amzal B, Deeks
+Management, Stockholm Environment Institute, Stockholm, Sweden.                      J, Dorne JL, Glanville J, Lövei GL, Nienstedt K, O’Connor AM, Pullin AS,
+                                                                                     Rajić A, Verloo D. Applicability and feasibility of systematic review for
+
+James et al. Environ Evid (2016) 5:7                                                                                                                Page 13 of 13
+    performing evidence-based risk assessment in food and feed safety. Crit      40. Snilstveit B, Vojtkova M, Bhavsar A, Gaarder M. Evidence gap maps a tool for
+    Rev Food Sci. 2015;55(7):1016–34.                                                promoting evidence-informed policy and prioritizing future research policy
+20. Booth A. Formulating answerable questions. In: Booth A, Brice A, editors.        research working paper 6725 December 2013. http://www-wds.worldbank.
+    Evidence-based practice: an information professional’s handbook. Lon-            org/external/default/WDSContentServer/WDSP/IB/2013/12/13/000158349_
+    don: Facet; 2004. p. 61–70.                                                      20131213135609/Rendered/PDF/WPS6725.pdf Accessed 19 Oct 2015.
+21. Haddaway NR. A call for better reporting of conservation research data       41. Rankin K, Cameron DB, Ingraham K, Mishra A, Burke J, Picon M, Miranda
+    for use in meta-analyses. Conserv Biol. 2015;29(4):1242–5.                       J, Brown AN. Youth and transferable skills: an evidence gap map. 3ie
+22. Newton AC, Stewart GB, Diaz A, Golicher D, Pullin AS. Bayseian belief            Evidence Gap Report 2. New Delhi: International Initiative for Impact
+    networks as a tool for evidence-based conservation management. J Nat             Evaluation (3ie). Report: http://www.3ieimpact.org/media/filer_pub-
+    Conserv. 2007;15:144–60.                                                         lic/2015/09/01/egm2-youth_and_transferable_skills.pdf and Gap Map:
+23. Pullin AS, Salafsky N. Save the whales? Save the rainforests? Save the data!     http://gapmaps.3ieimpact.org/evidence-maps/youth-transferable-skills-
+    Conserv Biol. 2010;24:915–7.                                                     evidence-gap-map Accessed 19 Oct 2015.
+24. Haddaway NR. Maximizing legacy and impact of primary research: a call        42. Frampton GK, Harris P, Cooper K, Cooper T, Cleland J, Jones J, Shepherd
+    for better reporting of results. Ambio. 2014;43(5):703–6.                        J, Clegg A, Graves N, Welch K, Cuthbertson BH. Educational interven-
+25. Haddaway NR, Verhoeven JTA. Poor methodological detail precludes                 tions for preventing vascular catheter bloodstream infections in critical
+    experimental repeatability and hampers synthesis in ecology. Ecol Evol.          care: evidence map, systematic review and economic evaluation. Health
+    2015;5(19):4451–4.                                                               Technol Asses. 2014;18(15):1–365.
+26. Reed J, Deakin L, Sunderland T. What are the ‘integrated landscape           43. Bragge P, Clavisi O, Turner T, Tavender E, Collie A, Gruen R. The global
+    approaches’ and how effectively have they been implemented in the                evidence mapping initiative: scoping research in broad topic areas. BMC
+    tropics: a systematic map protocol. Environ Evid. 2015;4:2.                      Med Res Methodol. 2011;11:92.
+27. Gathman A, Priesnitz KU. What is the evidence on the inheritance of          44. Environmental Evidence Journal: http://environmentalevidencejournal.
+    resistance alleles in populations of lepidopteran/coleopteran maize pest         biomedcentral.com/ Accessed 19 Oct 2015.
+    species: a systematic map protocol. Environ Evid. 2014;3:13.                 45. Cerutti P, Sola P, Chenevoy A, Iiyama M, Yila J, Zhou W, Djoudi H, Atyi R,
+28. Peersman G. A descriptive mapping of health promotion in young                   Gautier D, Gumbo D, Kuehl Y, Levang P, Martius C, Matthews R, Nasi R,
+    people, London: EPPI-Centre, Social Sciences Research Unit, Institute of         Neufeldt H, Njenga M, Petrokofsky G, Saunders M, Shepherd G, Sonwa D,
+    Education, University of London; 1996. http://www.eppi.ioe.ac.uk/eppi/           Sundberg C, van Noordwijk M. The socioeconomic and environmental
+    Evidence/EPPI_reviews/Health_promotion/Review2/des_map_hp_stud-                  impacts of wood energy value chains in Sub-Saharan Africa: a systematic
+    ies_yp.pdf Accessed 19 Oct 2015.                                                 map protocol. Environ Evid. 2015;4:12.
+29. Oakley A, Gough D, Oliver S, James T. The politics of evidence and meth-     46. Roe D, Fancourt M, Sandbrook C, Sibanda M, Giuliani A, Gordon-Maclean
+    odology: lessons from the EPPI-Centre. Evid Policy. 2005;1(1):5–31.              A. Which components or attributes of biodiversity influence which
+30. Bates S, Clapton J, Coren E. Systematic maps to support the evidence             dimensions of poverty? Environ Evid. 2013;3:3.
+    base in social care. Evid Policy. 2007;3:539–51.                             47. Neaves LE, Eales J, Whitlock R, Hollingsworth PM, Burke T, Pullin AS. The
+31. Coren E, Fisher M. The conduct of systematic research reviews for SCIE           fitness consequences of inbreeding in natural populations and their impli-
+    knowledge reviews. UK: Social Care Institute for Excellence; 2006. http://       cations for species conservation—a systematic map. Environ Evid. 2014;4:5.
+    lx.iriss.org.uk/sites/default/files/resources/The%20conduct.pdf Accessed     48. Haddaway NR, Styles D, Pullin AS. Environmental impacts of farm land
+    19 October 2015.                                                                 abandonment in high altitude/mountain regions: a systematic map.
+32. Grant MJ, Booth A. A typology of reviews: an analysis of 14 review types         Environ Evid. 2014;3:17.
+    and associated methodologies. Health Info Libr J. 2009;26:91–108.            49. Randall NP, Donnison LM, Lewis PJ, James KL. How effective are on-farm
+33. Dicks LV, Walsh JC, Sutherland WJ. Organising evidence for environmental         mitigation measures for delivering an improved water environment? A
+    management decisions: a ‘4S’ hierarchy. Trends Ecol Evol. 2014;29:607–13.        systematic map. Environ Evid. 2015;4:18.
+34. Shepherd J, Dewhirst S, Pickett K, Byrne J, Speller V, Grace M, Almond P,    50. Bernes C, Jonsson BG, Junninen K, Lõhmus A, Macdonald E, Müller J,
+    Hartwell D, Roderick P. Factors facilitating and constraining the delivery       Sandström J. What is the impact of active management on biodiversity
+    of effective teacher training to promote health and well-being in schools:       in forests set aside for conservation or restoration? A systematic map.
+    a survey of current practice and systematic review. Public Health Res.           Environ Evid. 2015;4:25.
+    2013;1(2):1–187.                                                             51. Haddaway NR, Hedlund K, Jackson LE, Kätterer T, Lugato E, Thomsen IK, Jør-
+35. Bates S, Coren E. SCIE systematic map report 1. The extent and impact of         gensen HB, Söderström B. What are the effects of agricultural management
+    parental mental health problems on families and the acceptability, acces-        on soil organic carbon in boreo-temperate systems? Environ Evid. 2015;4:23.
+    sibility and effectiveness of interventions June 2006. http://www.scie.org.  52. Macura B, Secco L, Pullin AS. What evidence exists on the impact of gov-
+    uk/publications/map/map01.asp Accessed 19 Oct 2015.                              ernance type on the conservation effectiveness of forest protected areas?
+36. Carr S, Clapton J. Systematic map report 2. The recovery approach in             Knowledge base and evidence gaps. Environ Evid. 2015;4:24.
+    community-based vocational and training adult mental health day              53. Thomas J, Brunton J, Graziosi S. EPPI-Reviewer 4.0: software for research
+    services July 2007. http://www.scie.org.uk/publications/map/map02.asp            synthesis. EPPI-Centre Software 2010. London: Social Science Research
+    Accessed 19 Oct 2015.                                                            Unit, Institute of Education, University of London; 2010. http://eppi.ioe.
+37. Sharif N, Walt Brown W, Rutter D. Systematic map report 3: The extent            ac.uk/cms/Default.aspx?tabid=1913 Accessed 19 Oct 2015.
+    and impact of depression on BME older people and the acceptability,          54. Moher D, Liberati A, Tetzlaff J, Altman DG. Preferred Reporting Items for
+    accessibility and effectiveness of social care provision December 2008.          Systematic Reviews and Meta-Analyses: the PRISMA Statement. PLoS
+    http://www.scie.org.uk/publications/map/map03.asp Accessed 19 Oct                Med. 2009;6(7):e1000097.
+    2015.                                                                        55. Pitkin RM, Branagan MA, Burmeister LF. Accuracy of data in abstracts of
+38. Randall NP, James KL. The effectiveness of integrated farm manage-               published research articles. J Am Med Assoc. 1999;281(12):1110–1.
+    ment, organic farming and agri-environment schemes for conserving            56. Pullin AS. Updating reviews: commitments and opportunities. Environ
+    biodiversity in temperate Europe—A systematic map. Environ Evid.                 Evid. 2014;3:18.
+    2012;1:4.                                                                    57. Dicks LV, Ashpole JE, Dänhardt J, James K, Jönsson A, Randall N, Showler
+39. Shemilt I, Simon A, Hollands GJ, Marteau TM, Ogilvie D, O’Mara-Eves A,           DA, Smith RK, Turpie S, Williams D, Sutherland WJ. Farmland Conservation:
+    Kelly MP, Thomas J. Pinpointing needles in giant haystacks: use of text          Evidence for the effects of interventions in northern and western Europe.
+    mining to reduce impractical screening workload in extremely large               Exeter: Pelagic Publishing; 2014.
+    scoping reviews. Res Synth Methods. 2013;5:31–49.
+

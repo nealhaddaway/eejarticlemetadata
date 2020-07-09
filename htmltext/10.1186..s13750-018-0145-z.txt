@@ -1,0 +1,313 @@
+Skip to main content
+Advertisement
+Search
+• Explore journals
+• Get published
+• About BMC
+• My account
+Search all BMC articles
+Search
+Environmental Evidence
+• Home
+• About
+• Articles
+• Submission Guidelines
+Download PDF
+• Systematic Map Protocol
+• Open Access
+• Published: 02 January 2019
+What ecotechnologies exist for recycling carbon and nutrients from domestic wastewater? A systematic map protocol
+• Neal R. Haddaway1,
+• Solveig L. Johannesdottir2,
+• Mikołaj Piniewski3 &
+• Biljana Macura1
+Environmental Evidence volume 8, Article number: 1 (2019) Cite this article
+1802 Accesses
+9 Citations
+10 Altmetric
+Metrics details
+Abstract
+Background
+Pollution of the Baltic Sea continues to be a problem. Major terrestrial sources of nutrient emissions to the Baltic Sea are agriculture and wastewater, both major causes of eutrophication. Wastewater contains nutrients and organic matter that could constitute valuable products such as agricultural fertilizers and source of energy. With the EU’s action plan for circular economy, waste management and resource utilization is central. Thus the integration of resource recovery to wastewater management could create benefits beyond the wastewater sector. There is a growing interest in resource recovery from wastewater. However, there is no systematic overview of the literature on technologies to recover nutrients and carbon from wastewater sources done to date.
+Methods
+This systematic map will identify a representative list of studies on ecotechnologies for reusing carbon and nutrients (nitrogen and phosphorus) from domestic wastewater, which includes e.g. sewage sludge and wastewater fractions. Searches will be performed in five bibliographic databases, one search engine and 38 specialist websites. Searches will mainly be performed in English, search for literature in specialist websites will also include Finnish, Polish and Swedish. Coding and meta-data extraction will include information on ecotechnology name and short description, reuse outcome (i.e. reuse of carbon, nitrogen and/or phosphorus), type of reuse (i.e. whether it is explicit or implicit), study country and location, latitude and longitude. All screening and coding will be done after initial consistency checking. The outcomes of this systematic map will be a searchable database of coded studies. Findings will be presented in a geo-informational system (i.e. an evidence atlas) and knowledge gaps and clusters will be visualised via heat maps.
+Background
+The Baltic Sea is particularly vulnerable to waterborne nutrient loadings because of its large catchment in relation to the sea area, a long renewal time and limited water exchange with the North Sea. The ecological status of the open water in the Baltic Sea is poor and affected by eutrophication [1]. The spatial extent of open water eutrophication in the Baltic Sea has increased in recent years [2], despite measures to decrease emissions. The primary cause of eutrophication is increased primary production as a result of increased loading of inorganic nutrients from terrestrial sources, followed by an increase in organic matter loading [1].
+The major sources of nutrient emissions to the Baltic Sea are diffuse, mostly agricultural, followed by point sources, mostly from municipal wastewater treatment plants [3]. Both nitrogen and phosphorous biogeochemical cycles are considered planetary boundaries, within which humans can be safely sustained by the earth systems [4]. The global nitrogen cycle has severely overstepped its threshold, and fixation of nitrogen from the atmosphere should be reduced [4, 5]. Additionally, fixation of atmospheric nitrogen by the Haber–Bosch process to produce nitrogen fertilizer is very energy consuming, leading to fossil fuel originated emissions [6]. Phosphorus, naturally occurring in the earths’ crust, is a non-renewable resource on its way to depletion [4]. The European Commission has identified phosphate rock and phosphorus as critical raw materials with high economic importance and supply-risk [7].
+Cornejo et al. [8] found that nutrient recovery from wastewater can, by substituting mineral fertilizers, reduce the eutrophication potential by up to 8% and total carbon footprint by up to 4%, depending on the size of the treatment plant. The study also showed that by integrating recovery of water, nutrients and energy the eutrophication potential could decrease by 18% and carbon footprint by 34% when treating wastewater from 100,000 people [8]. Recycled nutrients from waste and wastewater could substitute mineral nitrogen and phosphorous fertilizers in agriculture. There are also other uses for nutrients in industry and other resources in waste that could be utilized. For example, Mihelcic et al. [9] estimated, based on data for the year 2009, that phosphorus in the excreta of the whole human population could satisfy 22% of global phosphorous demand.
+Utilizing resources in waste is a sustainable practice and central in a circular economy [10]. The wastewater treatment of today could provide multiple benefits to society if integrated with resource recovery [11]. There exists a number of technologies to recover nutrients, and other resources, from wastewater. There is a growing interest in recovering resources, such as energy and plant nutrients, from wastewater. The conventional treatment of wastewater is focused on the removal of nutrients and carbon, but it seems to be shifting towards recovery [12, 13]. However, there is no systematic overview of the literature on technologies to recover nutrients and carbon from wastewater sources done to date.
+In order to focus the study, the concept of ecotechnology was used. The term ‘ecotechnology’ describes combinations of practices relating to the environment and technical innovation. It has been used since the early 1970s, but a recent systematic review and thematic synthesis of the research literature shows it has been used as a buzzword with few explicit definitions [14]. We have based our definition of ecotechnology on theirs:
+“Eco-technologies are human interventions in social-ecological systems in the form of practices and/or biological, physical, and chemical processes designed to minimise harm to the environment and provide services of value to society” [14]
+We use this broad definition, which encompasses both technologies and practices, so as to remain conservative and broadly relevant. For this map, we add on to the definition that the ecotechnologies should be related to wastewater management and facilitate the reuse of carbon and/or nutrients.
+Stakeholder engagement
+The topic for this review was initially proposed by the research funder BONUS (https://www.bonusportal.org/). The scope of the project was then refined through expert discussions as part of the process of drafting an application in response to the call by the research funder. Stakeholders, consisting of the broader BONUS RETURN consortium members, were involved in discussions of the scope and search strategy for the map. Within the stakeholder group, methodological experts on systematic maps and reviews as well as experts in resource recovery technologies for waste and wastewater are represented.
+Objectives
+The primary question for this systematic map is: What ecotechnologies exist for the recovery or reuse of carbon, phosphorus and nitrogen from municipal and domestic wastewater systems globally?
+This review will identify a comprehensive list of studies on ecotechnologies for recovering or reusing carbon and nutrients (nitrogen and phosphorus). The systematic map will then describe these studies in terms of the settings, the PIO elements [population(s), intervention(s) and outcome(s)] and methods in each study. The key outputs will be as follows:
+• 1.
+A comprehensive list of studied ecotechnologies.
+• 2.
+A detailed database of studies and descriptive information such as type of technology and reuse.
+• 3.
+An evidence atlas (i.e. a geographical information system mapping studies by their locations).
+• 4.
+A series of heat maps (cross tabulations of key descriptors, e.g. interventions and outcomes, interventions and populations/settings, and interventions and methods) that will be used to systematically identify knowledge clusters (subtopics that are well-represented by research studies) and knowledge gaps (subtopics that are un- or under-represented by research studies).
+• 5.
+A list of synthesis gaps/knowledge clusters that would be suitable for full systematic review and a list of knowledge gaps that warrant further primary research effort.
+Definitions of the question components
+Population(s):
+Domestic wastewater systems, including systems for treatment and disposal of wastewater-derived residues and products such as digestate, effluent water etc. Both municipal and on-site systems are relevant, as well as co-treatment of wastewater with other organic wastes. No industrial or agricultural wastewater systems will be considered. Carbon and nutrient recycling from agricultural sources is planned to be addressed in a related map [15].
+Intervention(s):
+Any practice undertaken for the purposes of extracting/capturing and reusing carbon and/or nutrients in the wastewater management process. This includes wastewater, sewage sludge, human urine etc. and recovering carbon in the form of energy.
+Outcome(s):
+Described reuse of carbon and nutrients from the wastewater management process.
+Study type(s):
+Studies on nutrient and/or carbon recovery and/or reuse excluding review studies.
+Methods
+The review will follow the Collaboration for Environmental Evidence guidelines and standards for evidence synthesis in environmental management [16] and it conforms to ROSES reporting standards [17] (see Additional file 1).
+Searching
+Bibliographic databases
+We will search for evidence in the following bibliographic databases:
+• 1.
+Scopus.
+• 2.
+Web of Science Core Collections (consisting of the following indexes: SCI-EXPANDED, SSCI, A&HCI, CPCI-S, CPCI-SSH, and ESCI).
+• 3.
+Electronic Theses Online Service (eThOS).
+• 4.
+Digital Access to Research Theses (DART).
+• 5.
+Directory Of Open Access Journals (DOAJ).
+Searches will be performed using English language search terms across all bibliographic databases. Subscriptions from the Warsaw University of Life Sciences will be used. See Additional file 2 for details of the search strings and their adaptations to the databases Web of Science and Scopus. The following search string will be used in bibliographic databases: (“organic carbon” OR DOC OR “organic C” OR “organic matter” OR nutrient* OR nitrogen OR nitrate OR nitrite OR ammoni* OR phosphorus OR phosphate) AND (wastewater OR “waste water” OR “storm water” OR stormwater OR blackwater OR “black water” OR greywater OR “grey water” OR graywater OR “gray water” OR sludge OR septage OR sewage OR “organic waste*” OR “septic sludge” OR sewerage* OR digestate* OR “toilet waste”) AND (return OR recovery OR recover OR conversion OR convert OR circulate OR circular OR reuse OR recycle).
+Searches in bibliographic databases will be restricted in timescale to the period 2013 to 2017. This is due to the ongoing paradigm shift in the wastewater sector towards resource recovery we are primarily interested in studies published in recent years.
+Search engines
+Searches will be performed in Google Scholar, which has been shown to be useful for grey literature searches [18]. Searches will be performed in English. Searches will make use of terms related both to synonyms for ecotechnologies (e.g. ‘eco-technology’), and combinations of outcome terms and reuse terms (e.g. ‘carbon reuse’). See Additional file 2 for grey literature search terms across all languages. Google Scholar searches will be restricted to articles published in the time period 2013 to 2018 as with bibliographic searches above. The first 1000 search results will be extracted as citations using Publish or Perish software [19] and introduced into the duplication removal and screening workflow alongside records from bibliographic databases.
+Organisational websites
+We will apply a case study approach for searching for grey literature relevant for the Baltic Sea catchment area. Searches will be performed across a suite of relevant organisational websites for ecotechnologies for the reuse of carbon and nutrients. Apart from searches in English, searches will be performed in Swedish, Finnish and Polish, representing the case-study countries within the BONUS RETURN project as well as many of the Baltic languages. Each website will also be hand searched for relevant publications. Searches will make use of terms related both to synonyms for ecotechnologies and combinations of outcome terms and reuse terms. See Additional file 2 for grey literature search terms across all languages. Literature from organisational websites will be screened separately for relevance before being combined with other records.
+The following websites will be searched:
+Website Search language
+1. Foundation for Applied Water Research (STOWA) (http://www.stowa.nl) English
+2. Ekologgruppen i Landskrona AB (http://www.ekologgruppen.com/) English
+3. Danish Centre for Environment and Energy (DCE) (http://dce.au.dk) English
+4. European Environment Agency (EEA) (https://www.eea.europa.eu/) English
+5. Finnish Environment Institute (SYKE) (http://www.syke.fi) English
+6. Federal Environment Agency (UmweltBundesAmt, Germany) (https://www.umweltbundesamt.de) English
+7. Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB) (http://www.igb-berlin.de) English
+8. United States Environmental Protection Agency (US EPA) (https://www.epa.gov/) English
+9. EAWAG Aquatic Research (https://www.eawag.ch/en/) English
+10. Netherlands National Institute for Public Health and the Environment (RIVM) (https://www.rivm.nl/en) English
+11. Swedish Environmental Protection Agency (SEPA) (http://www.naturvardsverket.se) English, Swedish
+12. Swedish Board of Agriculture (http://www.jordbruksverket.se) English, Swedish
+13. The Swedish Agency for Marine and Water Management (https://www.havochvatten.se) English, Swedish
+14. Swedish directory of Master thesis (DiVA) (http://www.diva-portal.org) English, Swedish
+15. The Swedish Water and Wastewater Association (SWWA) (http://www.svensktvatten.se) Swedish
+16. Federation of Swedish Farmers (http://www.lrf.se) Swedish
+17. The Swedish Environmental Institute (http://www.IVL.se) Swedish
+18. Agro base (http://agro.icm.edu.pl/agro) Polish
+19. Tech base (http://baztech.icm.edu.pl) Polish
+20. Catalog of the WULS diploma and doctoral dissertations (https://sgw0.bg.sggw.pl) Polish
+21. Archive of Diploma Theses of the University of Agriculture Hugo Kołłątaj, Krakow (https://apd.ur.krakow.pl/catalogue) Polish
+22. Archive of Diploma Papers of the University of Technology and Life Sciences in Bydgoszcz (https://apd.utp.edu.pl/catalogue) Polish
+23. Central Catalog of Polish Journals (http://mak.bn.org.pl/cgi-bin/makwww.exe?BM=7) Polish
+24. NUKat (http://katalog.nukat.edu.pl) Polish
+25. Portal of Scientific Journals (http://www.ejournals.eu) Polish
+26. Journal repository of the Nicolaus Copernicus University (http://wydawnictwoumk.pl/czasopisma) Polish
+27. Repository of the Open Science Center (http://depot.ceon.pl) Polish
+28. SYMPOnet (https://gate.bg.pw.edu.pl/) Polish
+29. Melinda (https://melinda.kansalliskirjasto.fi) Finnish
+30. ARTO (https://arto.linneanet.fi/vwebv/searchBasic?sk=fi_FI) Finnish
+31. HELDA Institutional repository (https://helda.helsinki.fi) Finnish
+32. DORIA Institutional repository (https://www.doria.fi) Finnish
+33. JUKURI (http://jukuri.luke.fi) Finnish
+34. TAMPUB (http://tampub.uta.fi) Finnish
+35. THESEUS (http://www.theseus.fi) Finnish
+36. University of Lapland (http://lauda.ulapland.fi) Finnish
+37. Aalto University (https://aaltodoc.aalto.fi) Finnish
+38. SYKE library collection (http://kirjasto.ymparisto.fi/syke/fi/search_yha.htm) Finnish
+Testing comprehensiveness
+A benchmark list of 25 articles (see Additional file 3) of known relevance to the review will be screened against scoping search results to examine whether searches are able to locate relevant evidence. If articles are not found during scoping, search terms will be examined to identify why articles were missed and adapted where relevant. In addition, the reference lists of all relevant reviews will be screened for relevant studies at title, abstract and full text levels.
+Assembling a library of search results
+Results of the bibliographic searching and Google Scholar will be combined, and duplicates will be removed prior to screening. A library of search results will be assembled in a review management software (i.e. EPPI reviewer [20]).
+Article screening and study eligibility criteria
+Screening process
+Screening will be done at two levels: at title and abstract (screened concurrently for efficiency) and at full text. Potentially relevant abstracts will be retrieved, tracking those that cannot be located or accessed and reporting this in the final review. Retrieved records will then be screened at full text, with each record being assessed by one experienced reviewer.
+Prior to commencing screening, consistency checking will be performed with all reviewers on a subset of articles at both title and abstract level and full text level screening. A subset of approximately 10% of title and abstract records and full text records will be independently screened by all reviewers. The results of the consistency checking will then be compared between reviewers and all disagreements discussed in detail. Where the level of agreement is low (below c. 0.8 agreement), further consistency checking will be performed on an additional set of articles and then discussed.
+Eligibility criteria
+The following criteria will be applied at all levels of screening:
+Eligible population(s):
+Wastewater systems, including systems for treatment and disposal of wastewater-derived residues and fractions such as digestate, effluent water, urine etc. Both municipal and on-site systems are relevant, as well as co-treatment of wastewater with other organic wastes. Industrial and agricultural wastewaters are not eligible.
+Eligible intervention(s):
+Any practice undertaken for the purposes of extracting/capturing and reusing carbon and/or nutrients in from the wastewater management process. See above definition of ‘ecotechnology’ for further details.
+Eligible outcome(s):
+Described reuse of carbon and nutrients from wastewater management process. Carbon outcomes include: energy, methane, soil carbon, soil organic carbon, total carbon, dissolved organic carbon, and organic matter, but also chemical oxygen demand and biological oxygen demand, which are proxies for carbon. Nutrient outcomes include: nitrogen compounds (nitrogen, nitrate, nitrite, ammonium) and phosphorus compounds (phosphorus, phosphate).
+Eligible study type(s):
+Studies on nutrient and/or carbon recovery and/or reuse excluding reviews.
+We will provide a list of articles excluded at title and abstract, and at full text, with reasons for exclusion provided for all excluded articles.
+Study validity assessment
+The validity of articles will not be appraised as part of this systematic map in accordance with accepted systematic mapping methodological guidance [21].
+Data coding strategy
+The following data coding and meta-data extraction will be undertaken for all relevant studies:
+Ecotechnology name.
+Short description.
+Reuse outcome.
+Carbon.
+Nutrients N.
+Nutrients P.
+Type of reuse.
+Explicit, fully described reuse.
+Implicit or potential reuse.
+Study country.
+Study location.
+Latitude.
+Longitude.
+Reuse outcome refers to what substance from the wastewater process is reused, which could be one, two or all three of carbon, nitrogen or phosphorus. Type of reuse refers to how the recovered nutrients and/or carbon is used, e.g. as energy or for agricultural purposes. The type of reuse is explicit, fully described, if it is stated in the article how the reuse outcome will be used, e.g. as a fertilizer. It is implicit or potential reuse if the use of the carbon or nutrients is not described, or reuse is stated as a possibility.
+Meta-data extraction will be performed by multiple reviewers following consistency checking on a parallel coding of subset of between 23 and 45 full texts, discussing all disagreements. The remaining full texts will then be screened. If resources allow we may contact authors by email with requests for missing information.
+Study mapping and presentation
+Narrative synthesis strategy
+The evidence base identified within this systematic map will be described primarily within a systematic map database; a searchable spreadsheet with columns containing codes and meta-data related to the variables described in the meta-data extraction and coding schema, above. In addition, we will produce heat maps that cross tabulate two variables and detail the volume of evidence (number of studies) within each cell of the table. Various combinations of variables will be used for these heat maps, including: the types of ecotechnology and the outcome(s) that can be targeted; the types of ecotechnology and the study setting; the types of ecotechnology and the study country. We will also produce an evidence atlas using study latitude and longitude meta-data, where studies are plotted on an interactive cartographic map. Groups of studies, knowledge gaps and knowledge clusters will be described and listed.
+Knowledge gap and cluster identification strategy
+Heat maps will be used to identify knowledge clusters. These will then be prioritised by stakeholders and the authors independently, with both prioritisations being provided along with listed clusters that are suitable for systematic review. Knowledge gaps will be highlighted by identifying un- or underrepresented subtopics in the heat maps. Subtopics with zero studies will be listed together with those that feature a smaller than would be expected number of studies. In practice this will be performed by visual inspection by a methodology expert of the review team (i.e. not a subject expert to avoid preconception bias). This list of knowledge gaps will then be prioritised in the same way as knowledge clusters described above.
+References
+• 1.
+HELCOM. Ecosystem health of the Baltic Sea 2003–2007: HELCOM initial holistic assessment. Baltic Sea Environ Proc. 2010;122:63.
+Google Scholar
+• 2.
+Fleming-Lehtinen V, et al. Recent developments in assessment methodology reveal that the Baltic Sea eutrophication problem is expanding. Ecol Ind. 2015;48:380–8.
+CAS  Article  Google Scholar
+• 3.
+HELCOM. Sources and pathways for nutrients to the Baltic Sea (PLC-6). Baltic Sea Environment Proceedings No. 153. 2018.
+• 4.
+Rockström J, et al. A safe operating space for humanity. Nature. 2009;461:472.
+Article  Google Scholar
+• 5.
+Steffen W, et al. Planetary boundaries: guiding human development on a changing planet. Science. 2015;347(6223):1259855.
+Article  Google Scholar
+• 6.
+Fowler D, et al. The global nitrogen cycle in the twenty-first century. Philos Trans R Soc Lond B Biol Sci. 2013;368(1621):20130164.
+Article  Google Scholar
+• 7.
+EC. On the 2017 list of critical raw materials for the EU. 2017.
+• 8.
+Cornejo PK, Zhang Q, Mihelcic JR. How does scale of implementation impact the environmental sustainability of wastewater treatment integrated with resource recovery? Environ Sci Technol. 2016;50(13):6680–9.
+CAS  Article  Google Scholar
+• 9.
+Mihelcic JR, Fry LM, Shaw R. Global potential of phosphorus recovery from human urine and feces. Chemosphere. 2011;84(6):832–9.
+CAS  Article  Google Scholar
+• 10.
+EC. Closing the loop—an EU action plan for the circular economy. In: COM/2015/0614 final. 2015.
+• 11.
+Trimmer JT, Cusick RD, Guest JS. Amplifying progress toward multiple development goals through resource recovery from sanitation. Environ Sci Technol. 2017;51(18):10765–76.
+CAS  Article  Google Scholar
+• 12.
+Guest JS, et al. A new planning and design paradigm to achieve sustainable resource recovery from wastewater. Environ Sci Technol. 2009;43(16):6126–30.
+CAS  Article  Google Scholar
+• 13.
+Larsen TA, Udert KM, Lienert J. Source separation and decentralization for wastewater management. London: IWA Publishing; 2013.
+Google Scholar
+• 14.
+Haddaway N, McConville J, Piniewski M. How is the term ‘ecotechnology’ used in the research literature? A systematic review with thematic synthesis. Ecohydrol Hydrobiol. (In press).
+• 15.
+Haddaway NR, Piniewski M, Macura B. [under revision in environmental evidence]. What evidence exists relating to ecotechnologies in agriculture for the recovery and reuse of carbon and nutrients in the Baltic and boreo-temperate regions? A systematic map protocol.
+• 16.
+Collaboration for Environmental Evidence. Guidelines and standards for evidence synthesis in environmental management. Version 5.0. In: Pullin A, Frampton GK, Livoreil B, Petrokofsky G Editors. 2018. http://www.environmentalevidence.org/information-for-authors. Accessed 27 Dec 2018
+• 17.
+Haddaway NR, et al. ROSES RepOrting standards for systematic evidence syntheses: pro forma, flow-diagram and descriptive summary of the plan and conduct of environmental systematic reviews and systematic maps. Environ Evid. 2018;7(1):7.
+Article  Google Scholar
+• 18.
+Haddaway NR, et al. The role of Google Scholar in evidence reviews and its applicability to grey literature searching. PLoS ONE. 2015;10(9):e0138237.
+Article  Google Scholar
+• 19.
+Harzing AW. Publish or Perish. 2007. https://harzing.com/resources/publish-orperish.
+• 20.
+Thomas J, Brunton J, Graziosi S. EPPI-Reviewer 4.0: software for research synthesis. EPPI-Centre Software. London: Science Research Unit, Institute of Education, University of London; 2010.
+Google Scholar
+• 21.
+James KL, Randall NP, Haddaway NR. A methodology for systematic mapping in environmental sciences. Environ Evid. 2016;5(1):7.
+Article  Google Scholar
+Download references
+Authors’ contributions
+NH drafted the first version of the manuscript, SJ, MP and BM edited and finalised the manuscript. All authors read and approved the final manuscript.
+Acknowledgements
+We thank the BONUS Secretariat for their generous funding, and Mistra EviEM for covering article processing fees.
+Competing interests
+The authors declare that they have no competing interests.
+Availability of data and materials
+Not applicable.
+Consent for publication
+Not applicable.
+Ethics approval and consent to participate
+Not applicable.
+Funding
+BONUS RETURN has received funding from BONUS (Art 185), funded jointly by the EU and Swedish Foundation for Strategic Environmental Research FORMAS, Innovation Fund Denmark, Academy of Finland and National Centre for Research and Development in Poland. Article processing fees were covered by Mistra EviEM.
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Author information
+Affiliations
+Stockholm Environment Institute, Linnégatan 87D, Stockholm, Sweden
+Neal R. Haddaway & Biljana Macura
+Research Institutes of Sweden, Drottning Kristinas väg 61, Stockholm, Sweden
+Solveig L. Johannesdottir
+Department of Hydraulic Engineering, Warsaw University of Life Sciences, Nowoursynowska 166, 02-787, Warsaw, Poland
+Mikołaj Piniewski
+Authors
+• Neal R. Haddaway
+View author publications
+You can also search for this author in PubMed Google Scholar
+• Solveig L. Johannesdottir
+View author publications
+You can also search for this author in PubMed Google Scholar
+• Mikołaj Piniewski
+View author publications
+You can also search for this author in PubMed Google Scholar
+• Biljana Macura
+View author publications
+You can also search for this author in PubMed Google Scholar
+Corresponding author
+Correspondence to Solveig L. Johannesdottir.
+Additional files
+Additional file 1. ROSES form for systematic map protocols.
+Additional file 2. Search strategy.
+Additional file 3. Benchmark list.
+Rights and permissions
+Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+Reprints and Permissions
+About this article
+Cite this article
+Haddaway, N.R., Johannesdottir, S.L., Piniewski, M. et al. What ecotechnologies exist for recycling carbon and nutrients from domestic wastewater? A systematic map protocol. Environ Evid 8, 1 (2019). https://doi.org/10.1186/s13750-018-0145-z
+Download citation
+Received: 27 July 2018
+Accepted: 21 December 2018
+Published: 02 January 2019
+DOI: https://doi.org/10.1186/s13750-018-0145-z
+Keywords
+• Circular economy
+• Energy recovery
+• Nitrogen
+• Nutrient recovery
+• Phosphorus
+• Resource recovery
+• Sewage
+Download PDF
+Advertisement
+Environmental Evidence
+ISSN: 2047-2382
+Contact us
+• Submission enquiries: Access here and click Contact Us
+• General enquiries: info@biomedcentral.com
+• Read more on our blogs
+• Receive BMC newsletters
+• Manage article alerts
+• Language editing for authors
+• Scientific editing for authors
+• Policies
+• Accessibility
+• Press center
+• Support and Contact
+• Leave feedback
+• Careers
+Follow BMC
+• BMC Twitter page
+• BMC Facebook page
+• BMC Weibo page
+By using this website, you agree to our Terms and Conditions, Privacy statement and Cookies policy. Manage the cookies we use in the preference centre.
+© 2020 BioMed Central Ltd unless otherwise stated. Part of Springer Nature.

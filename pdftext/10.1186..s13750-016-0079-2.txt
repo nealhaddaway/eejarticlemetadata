@@ -1,0 +1,648 @@
+Haddaway et al. Environ Evid (2017) 6:1
+DOI 10.1186/s13750-016-0079-2                                                                                         Environmental Evidence
+  METHODOLOGY                                                                                                                                         Open Access
+A rapid method to increase transparency
+and efficiency in web‑based searches
+Neal R. Haddaway1*, Alexandra M. Collins2,3, Deborah Coughlin3,4 and Stuart Kirk3,5
+  Abstract
+  Background: Many online search facilities allow searching for academic literature. The majority are bibliographic
+  databases that catalogue published research in an iterative, semi-automated manner, e.g. Web of Science Core Collec-
+  tions, which indexes articles published in selected journals. Other resources, such as Google Scholar, identify aca-
+  demic articles by using search engines that crawl the internet for potentially relevant information. Often, systematic
+  reviewers wish to document their searches for transparency or later screening. Indeed, such transparency is a corner-
+  stone of systematic review methodology. Whilst bibliographic databases typically allow users to extract search results
+  as citations in bulk, several other key resources, such as Google Scholar and organisation websites, do not allow this:
+  citations must be extracted individually, which is often prohibitively time consuming.
+  Methods: Here, we describe novel methods for downloading results from searches of websites and web-based
+  search engines into comprehensive databases as citations using free-to-use software. Citations from web-based
+  search engines can then be integrated into review procedures along with those from traditional online bibliographic
+  databases.
+  Results and conclusions: These methods substantially increase transparency and repeatability when searching
+  online resources. They may also significantly reduce resource requirements for such searches and therefore represent
+  a significant increase in efficiency.
+  Keywords: Grey literature, Systematic review, Repeatability, Literature, Searching, Evidence, Web searching
+Background                                                                                    to an undisclosed algorithm, whereas bibliographic
+Researchers commonly perform searches using biblio-                                           databases are populated via a systematic process based
+graphic databases, such as web of science. Bibliographic                                      on newly published articles appearing in a selection of
+databases contain citations for articles published in aca-                                    journals (e.g. https://oneentry.wordpress.com/faq-web-
+demic publications and studies can generally be searched                                      of-science), meaning individual bibliographic databases
+for using title, abstract or keyword search terms, and                                        are less comprehensive than resources such as Google
+restrictions based on particular publication dates,                                           Scholar [4]. There are distinct advantages and disadvan-
+authors, or journals can be included. Recently, free-to-                                      tages of each type of resource, as summarised in Table 1.
+use web-based search engines for academic literature,                                            Academics often rely on resources such as Google
+such as Google Scholar, have provided a potential alter-                                      Scholar when searching for academic information. One
+native to subscription-based bibliographic databases                                          academic at Carleton University recently Tweeted: “I
+[1–3]. These web-based search engines automatically                                           would be lost without Google Scholar—it is the single
+catalogue new academic publications from across the                                           most important research tool that I use…” [Professor
+internet and return results sorted by relevance according                                     Steven Cooke @SJC_fishy, 2015]. Other researchers use
+                                                                                              internet searches to complement bibliographic databases
+                                                                                              when looking for articles.
+*Correspondence: neal_haddaway@hotmail.com                                                       In systematic reviews searches for grey literature are a
+1
+  MISTRA EviEM, Stockholm Environment Institute, Box 24218,
+Stockholm, Sweden                                                                             critical means of mitigating publication bias. As a result,
+Full list of author information is available at the end of the article
+                                              © The Author(s) 2017. This article is distributed under the terms of the Creative Commons Attribution 4.0 International License
+                                              (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium,
+                                              provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license,
+                                              and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/
+                                              publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+
+                                                                                                                                                                                                                   Haddaway et al. Environ Evid (2017) 6:1
+Table 1 Advantages and disadvantages of using bibliographic databases and web-based search engines
+                Bibliographic databases                                                                        Academic search engines
+Advantages      Citations are entered into individual databases according to selected journals so all          Citations are identified automatically according to multiple criteria, including; the presence
+                  entries are legitimate academic sources                                                        of a bibliography, a title followed by authorship (see http://scholar.google.co.uk/intl/en/
+                Duplicates are uncommon [0.01% ± 0.0 (SD) (n = 10,000 records) (Haddaway et al. in               scholar/inclusion.html for details)
+                  press)]                                                                                      Citations are collated on approximately a weekly basis so they are very up-to-date
+                Citations are classified according to predetermined subject categories                         All citations are included, not just those from specific journals or publishers
+                Full citation information is typically provided; including full abstracts (where available),   A wide range of grey literature is also included (such as organisational/government
+                  author contact information and keywords                                                        reports)
+                Some grey literature may be included (such as conference proceedings and theses)               Access to the search facility is free-of-charge
+                                                                                                               Introduction of typographical mistakes in catalogued citations is avoided since citations
+                                                                                                                 are taken directly from their sources
+                                                                                                               Articles published on multiple sites are combined into single entries to minimise duplica-
+                                                                                                                 tion
+Disadvantages   Not all legitimate academic sources are included                                               Duplicates are relatively common [0.6% ± 0.6 (SD) (n = 6988 records) for full text searches
+                Inclusion may take considerable time, sometimes several months or more since first               and 3.1% ± 1.5 (SD) (n = 4194 records) (Haddaway et al. in press)] [duplicates are caused
+                  appearing online                                                                               by errors during automatic text scanning and manual entry]
+                Typically cannot include ‘online first’ manuscripts that are published online but not in       Mistakes at source are copied into collated citations, contributing to duplicate entries
+                  print                                                                                          where citations are published on multiple sites
+                Subscription costs may be high                                                                 Citations are not full, since titles, abstracts and journal names are often shortened to fit into
+                Typographical mistakes may be introduced as citations are transcribed manually                   limited space
+                  (although many databases receive citations electronically)                                   Citations may only be exported singly
+                                                                                                               Reproducibility of searches may be particularly low in comparison to bibliographic data-
+                                                                                                                 bases
+                                                                                                                                                                                                                   Page 2 of 14
+
+Haddaway et al. Environ Evid (2017) 6:1                                                                         Page 3 of 14
+best practice is to combine searches of bibliographic             Here, we describe methods for transparently docu-
+databases with web-based academic search engines and           menting searches (i.e. both the search process and the
+organisation websites [5]. The relative strengths and          search results) of various internet-based resources,
+weaknesses highlighted in Table 1 mean that a combined         including major academic search engines, using several
+approach can be particularly productive in undertaking         novel software programs. Two approaches are described.
+a comprehensive search for academic and grey literature        The first approach (‘Searches for grey literature’, below)
+(i.e. one that is able to detect a high proportion of the rel- uses web-crawling software to collate data primarily
+evant literature). However, searching for grey literature      from organisation website search results into one data-
+in environmental reviews is often difficult and time con-      base in the form of detailed citations that can be readily
+suming due the diverse sources in which it is found.           updated, combined and modified. The second approach
+   When synthesising evidence in a systematic review it        (‘Extraction of full citations from search engines’) uses
+is vital that processes are documented transparently to        download management software alongside web-crawling
+ensure a high level of repeatability [5, 6]. Transparency      software to allow search results from academic search
+also allows verification of objectivity in the methods used    engines to be extracted as citations. We do not advo-
+by the review to identify and include/exclude studies. In      cate the use of search engines such as Google Scholar
+turn, this allows the reader to make judgements regarding      as alternatives to bibliographic databases in systematic
+the robustness of the review’s findings, increasing trust in   reviews: this has been demonstrated to lack comprehen-
+the review’s outputs. As environmental decision making         siveness and repeatability [1]. Rather, we provide meth-
+is often dominated by multiple stakeholders with optimal       ods to transparently document the use of web-based
+solutions hard to identify, transparency is valued as it can   search engines to maximise their effectiveness as sup-
+help to increase confidence in the decisions that the review   plementary sources of studies in a review. We detail two
+informs. Transparency can likewise improve the rigour and      case studies that demonstrate the functionality of these
+credibility of other review methods that involve searches      methods.
+for information, such as traditional literature reviews and       Both methods described here make use of free-to-use
+meta-analyses, demonstrating that an unbiased approach         web crawling software Import.io [10]. This was initially
+to the collation of information has been used [7]. Whilst      developed to allow detailed information on competitors
+searching and screening (i.e. which articles are found, and    and their pricing to be extracted and updated regularly
+which are included at what stage) of bibliographic data-       by web-based businesses [11]. Here we describe meth-
+bases can be documented readily; documenting searches of       ods that can apply the use of this software to web based
+organisation websites and search engines (such as Google       searches and highlight the suitability of these methods
+Scholar) may be much less transparent [8].                     using examples from each of the two approaches. We
+   Given the ability to publish supplementary mate-            have found the software easy to use, and is supported by
+rial in the majority of online academic journals, authors      detailed help files, videos and personal assistance. Some
+of reviews should make efforts to fully document what          of these methods require a moderate level of understand-
+evidence has been assessed. Not only does this provide         ing of computing, but do not require a high degree of
+proof of activities, but it also allows the reader to exam-    expertise, whilst other methods are simple to use.
+ine in detail how the review was undertaken. The aca-
+demic community is becoming increasingly aware of              Searching for grey literature
+the reproducibility crisis [9]: the inability to reproduce     Searches of organisation websites required to find grey
+the findings of a worrying volume of published studies.        literature can be simplified using web-crawling software
+By fully documenting searching and screening activities,       to combine and transparently document searches, down-
+the analytical reproducibility (i.e. the ability to arrive at  loading citations into updatable databases. Extracted
+the same conclusions of a review given an identical set of     information may include: document/page titles, author-
+search results) of reviews can be substantially improved.      ship, publication date, descriptions, and links to further
+Furthermore, by transparently documenting the outputs          descriptive information and full texts.
+of searching, review repeatability (the ability to replicate      Web crawling software works by using Applica-
+a study based on the methods provided) is enhanced.            tion Program Interfaces (APIs), which can be trained
+Since the internet is not a static entity (made worse by       to detect repeated patterns in the text of source HTML
+undisclosed changes to algorithms of key web-based             files that indicate the presence of potentially useful data
+search engines) searching via web-based tools can never        [12]. The method is not unlike text mining [13], but
+be truly reproducible. However, reviewers can maximise         specifically mines web page code for patterns that meet
+repeatability and analytical reproducibility (i.e. screening   certain predefined criteria. APIs allow an external pro-
+onwards) by using the methods described herein.                gram to interact with websites to extract information
+
+Haddaway et al. Environ Evid (2017) 6:1                                                                                                    Page 4 of 14
+in a programmable way. These APIs can also be used to                                  with multiple pages to be screened and information
+search organisation websites and allow results (see Fig. 1)                            extracted into one database.
+to be downloaded as citations.                                                      3. Thirdly, websites with built-in search facilities can
+   The main purpose of web crawling software is to search                              be queried, using APIs known as connectors. Once
+existing web-based search engines to extract data into                                 the API has been trained, multiple websites can be
+a patterned database (i.e. downloading search results).                                searched simultaneously using key terms from within
+Additionally, it can crawl across a specific domain (i.e. an                           the web crawling software, with all search results
+entire website), extracting patterned data from all linked                             extracted into one database. These queries can be
+web pages. The former role can only examine indexed                                    refreshed and modified from within the web crawl-
+web pages, whilst the latter allows pages from the deep                                ing software without having to revisit the individual
+web (parts of the internet not indexed by search engines)                              pages and undertake multiple searches.
+to be examined.
+   Web crawling software can work in three alternative                              All of these APIs tools are refreshable, sharable and
+ways, which enable searching where information is pre-                           reusable, with minor editing necessary as and when web-
+sented on web pages in differing formats.                                        sites are modified.
+   1. Firstly, information on a web page that contains a                         • 	 Training APIs
+       table of data or any other relatively well-structured
+       HTML code with a variety of columns (e.g. web-                               Web crawling APIs are easily trained to recognise pat-
+       based search results) can be extracted into an offline                    terned data by the user highlighting which patterns in
+       database using a tool known within Import.io as an                        the data on a web-page constitute the required informa-
+       extractor.                                                                tion and adding this to a ‘row’ within the final database
+   2. Secondly, APIs, referred to within Import.io as crawl-                     of search results. Once the APIs have been trained to fill
+       ers, can be used to extract data from pages that are                      rows, individual columns must be created by highlight-
+       similar across a website. This works by training the                      ing, for example, a title, the authorship, and the publi-
+       crawler to perform a specified number of clicks so                        cation date. Occasionally, several examples are needed
+       that information across web-pages with a similar                          so that the software can consistently recognise pat-
+       layout can be obtained. This enables entire websites                      terns; particularly where formatting across the pages of
+  Fig. 1 Results of an organisation website search (the International Institute for Environment and Development). Displayed are the extractable data,
+  including: title and link to the document, publication date, format, topic area, and description
+
+Haddaway et al. Environ Evid (2017) 6:1                                                                          Page 5 of 14
+a website is variable. Along with text and images, URL       (as a link), full_text_url (as a link), description, organisa-
+links can be extracted by setting the type of data within    tional_label, subject_category, source/publisher.
+a column to a ‘link’, allowing the user to proceed directly
+to the relevant page from within the downloaded data-        • 	 Time requirements
+base. Once the structure of the API has been established,
+a small number of example pages must be checked for             APIs can be established for websites as extractors,
+consistency, but this is a quick process using the training  crawlers and connectors easily and rapidly in 5–10 min.
+already provided. Finally the API is checked by the soft-    Crawlers that extract data from multiple pages across a
+ware to ensure it can be repeatedly queried.                 website may take longer if link depth (the number of
+   The most relevant APIs for academic purposes are          pages through which all links are followed) is high (i.e.
+likely to be connectors, since these can combine website     greater than 10) and websites are large. Once estab-
+search facilities into one tool that could save consider-    lished, APIs can easily be updated to reflect changes in
+able time and will significantly increase transparency.      website design: web crawling software such as Import.
+For example, rather than having to visit each website        io will regularly check the functioning of APIs, notify-
+and enter terms into their search facilities individually,   ing the user when updates are necessary. Based on the
+one search could be performed for multiple websites          authors’ experiences of working with this software and
+and the results returned into one combined database.         organisation websites for systematic review searches for
+However, extractors and crawlers may also prove useful       grey literature, minor updates are necessary a few times
+in academia. For example, regularly updated lists (e.g.      per year, but the frequency will vary hugely depending
+a list species identified within a national park) could be   on the remit and resources of the organisation. Querying
+extracted instantaneously as they are populated with         and refreshing existing APIs can be done instantaneously,
+new information. Similarly, websites could be crawled        approximately as fast as the original website can return
+regularly to extract information from new pages that         search results.
+match a specific pattern, such as descriptions of reports
+or meetings.                                                 • 	 Outputs
+   Where a diverse range of websites must be searched
+and search terms cover a range of different topics, review-     The outputs of web crawling organisation websites are
+ers may not wish to use the same terms and strategies for    databases (e.g. spreadsheets) of search results separated
+every website. In such cases, connectors may not always      into multiple columns as provided on each website. The
+be appropriate. However, in many cases reviewers will        outputs are downloadable in a variety of formats, includ-
+wish to use the same search terms across multiple web-       ing CSV and XLS files (Fig. 2). Along with the extracted
+sites, e.g. in systematic reviews. In these instances con-   data, the trained APIs can be shared amongst users,
+nectors may prove to be particularly resource efficient.     increasing time-efficiency as training time is negated.
+   Some websites that use Google Custom Search as their      Users can also refresh their own APIs as and when a
+website search facility are unable to be queried remotely    repeat search is necessary. The most notable beneficial
+via web crawling software as a result of restrictions put    output from this process is the entirely transparent doc-
+in place by Google. For these websites, search results can   umentation of searches (i.e. both search strategies and
+be extracted once as a snapshot of a particular search,      search results).
+but cannot be modified or combined with other APIs
+as described above (see “Searching for grey literature”      Extraction of full citations from search engines
+section).                                                    Search engines are powerful means of identifying poten-
+                                                             tially relevant information on the internet. This is par-
+• 	 Schema                                                   ticularly true for those with advanced settings, such as
+                                                             Google Scholar, which include author, journal, and date
+   In order to ensure consistency where several APIs         range options, along with Boolean operators and title ver-
+are combined to produce one database, a standard col-        sus full text search options [see 14]. Search engines often
+umn labelling system should be used (also known as a         display multiple types of descriptive data for each search
+schema). As such, the column names used when train-          result (see Fig. 3), including: authorship (and links to
+ing APIs should be identical across different websites to    author profiles), publication date, excerpts of summaries
+allow the web crawling software to stack matching col-       or abstracts, source publication and publisher, article for-
+umns together. The following column names may be use-        mats, links to full descriptive information and full texts,
+ful templates: title, publication_date, authors, format, url and numbers of citations of and cited references within
+
+Haddaway et al. Environ Evid (2017) 6:1                                                                                                               Page 6 of 14
+ Fig. 2 Downloaded database of search results from a search of Google Scholar. Search used Import.io, demonstrating the type of data that can be
+ downloaded
+ Fig. 3 Search results from an online search engine (Google Scholar). Figure shows information extractable as patterned data using web crawling
+ APIs. Format (e.g. ‘[CITATION]’), title, title link, authorship, journal, publication year, publisher/source, description/abstract excerpt, citations (number/
+ link), similar articles link, and full text links can all be extracted as separate columns for each result. Google and the Google logo are registered
+ trademarks of Google Inc., used with permission
+academic articles. Basic citations (i.e. authorship, publi-                            at once, and automatic restriction facilities relating to fair
+cation year, title, journal, volume, and page) are manually                            use policies often limit the number of extractable cita-
+extractable from some search engines, such as Google                                   tions within a given period. In the authors’ experience,
+Scholar, but multiple citations often cannot be extracted                              manual extraction of several hundred individual citations
+
+Haddaway et al. Environ Evid (2017) 6:1                                                                       Page 7 of 14
+within a short period of time (i.e. several hours) is suf-      servation OR nature) NOT park [author: Smith,
+ficient to result in a block on a particular IP address for     publication years: 2000 to 2014, publication name:
+c. 2 days. Websites typically restrict access to prevent        Nature]
+their servers from being overloaded from malicious web
+traffic. This is problematic since it can reduce compre-        Google Scholar Search String: conservation OR
+hensiveness of a search, significantly hampering efforts        nature “evidence based” -park author:smith [pub-
+to conduct systematic searches using electronic search          lication years: 2000 to 2014, publication name:
+engines such as Google Scholar in a transparent manner.         nature]
+   We describe two easy-to-use methods that can extract
+search engine results in bulk. The first method builds on       Google Scholar URL: http://scholar.google.co.uk/
+the web crawling method detailed above for organisation         scholar?start=0&q=conservation+OR+nature+
+website searching allowing extraction of up to 1000 full        %22evidence+based%22+-park+author:smith&
+citations from search engines such as Google Scholar.           hl=en&as_publication=nature&as_sdt=0,5&as_
+The second method uses citation management/analysis             ylo=2000&as_yhi=2014
+software to extract simple citations (lacking abstracts).
+                                                               Using the pattern for page numbers within the above
+Method 1—import.io method
+                                                            URL it is possible to generate a sequence of up to 100
+This method can extract detailed citations including a      URLs for the first 1000 search results in Google Scholar.
+short description (typically an extract from the abstract). This can be done easily in spreadsheet software, such as
+It consists of a three-stage approach: preparing a list of  Microsoft Excel, using a concatenate function (i.e. the
+URLs, downloading search results as HTML files, and         function that joins cells contents together into one string;
+scraping these locally saved HTML files for data. This      “=CONCATENATE (A1,B1,C1)”) that splits the URL
+approach is beneficial since a number of search engines     into two parts and replaces the start number (‘0’ in the
+prevent the use of APIs and block IP addresses in an        Google Scholar URL above) with numbers from 0 to 990
+attempt to prevent overloading by automated use of their    in steps of 10, covering the first 1000 records. Google
+websites. It should be noted that attempts to circumvent    Scholar limits search results to the first 1000 records,
+these restrictions may constitute a breach of the condi-    limiting both the number of results visible online and the
+tions of use, and users should establish whether this may   number of results extractable using the method detailed
+be the case before proceeding.                              herein. Other search engines do not have the same lim-
+                                                            its. Systematic reviews published by the Collaboration
+                                                            for Environmental Evidence [5] typically screen the first
+• 	 Step 1: Producing a list of URLs
+                                                            50 search results from Google Scholar [15]; the method
+                                                            described here facilitates the screening of substantially
+   The transparency of website searches can be rapidly
+                                                            more results. The Additional file 1 provided allows a list
+improved by saving search results as HTML files, which
+                                                            of URLs for Google Scholar to be produced based on
+typically preserve most information regarding the terms,
+                                                            advanced search input boxes (see Additional file 2 for
+dates and websites used. This also forms the first stage
+                                                            detailed instructions). Once a list of URLs has been pro-
+of the process for downloading citations from search
+                                                            duced, these URLs should be saved as an unformatted
+engines. This is particularly easy in Google Scholar,
+                                                            text file (TXT) for use in the next step.
+where URLs of search results can be generated based
+on patterns within the URL itself (patterns are only evi-
+                                                            • 	 Step 2: Downloading HTML files as a snapshot of
+dent from page 2 of the search results onwards, but can
+                                                                 search results
+be back-generated for page 1). For example, a search for
+“crayfish” in Google Scholar yields the following URL for
+page 2: http://scholar.google.co.uk/scholar?start=10&q=        In order to download search results as HTML files
+crayfish&hl=en&as_sdt=0,5. This URL clearly contains        an add-on for the internet browser Mozilla Firefox,
+the search term (‘crayfish’) and the starting record num-   ‘DownThemAll!’, is available free of charge [16]. This soft-
+ber (‘10’).                                                 ware allows Firefox to download a list of URLs (using
+   Advanced searches can also be created in this way. For   the TXT file detailed above) as HTML files, saving them
+example, the following Boolean search string can be used    locally as a snapshot of search results. Detailed instruc-
+to generate an associated URL for page 3 of the search      tions for this process are available as Additional file 3.
+results:                                                    The downloaded HTML files can then be scraped for data
+                                                            using Import.io in a similar method to that described
+    Boolean search string: “evidence-based” AND (con-       above for organisation websites.
+
+Haddaway et al. Environ Evid (2017) 6:1                                                                         Page 8 of 14
+• 	 Step 3: Extracting full citations from locally saved     are freely available. Search results are saved to the user’s
+     HTML files                                              Mendeley account and can be accessed through the desk-
+                                                             top programme. Google Scholar search results that are
+   Once HTML files have been saved locally as a snapshot     available as ‘citations’ only (i.e. references from within
+of a particular search, Import.io can be used to extract     other articles with no active link to a publisher’s site) are
+full citations. An API for Google Scholar search results     not extractable with this method.
+can be readily produced using the methods described for
+organisation websites above. Before data can be extracted    • 	 Publish or Perish (http://www.harzing.com/resources/
+from the downloaded HTML files, they must be made                publish-or-perish)
+available on a local server to be accessible by Import.io.
+Detailed instructions for this process are provided via the     This free software is designed for authors to track
+Import.io website [10]. The process should take no more      citations to their papers, but the programme includes a
+than a few minutes to set up.                                facility for searching Google Scholar using the advanced
+   One final step can help to preserve information regard-   search function (e.g. basic Boolean operators and title or
+ing the page number of each HTML page of search              full text searching). Using this facility, researchers can
+results. This information aids ordering of search results    extract up to 1000 search results as basic citations. These
+so that the location of individual citations within the      citations include details of authorship, publication year,
+results can be preserved. A second scraper can be trained    title, source journal, volume and pages, and include a
+to recognise only the page numbers in the search results.    link to the publisher’s web site. No abstract is extracted.
+A VLOOKUP formula (explained in further detail on            Users can extract the search results in a variety of for-
+the Microsoft Support website [17]) can then be used in      mats, including excel files, comma separated value files,
+Excel to look up page numbers for each saved HTML file       or reference management software files (e.g. RIS). Google
+from this second database of page numbers and HTML           Scholar search results that are available as ‘citations’ only
+file names.                                                  (i.e. references from within other articles with no active
+                                                             link to a publisher’s site) are not extractable with this
+• 	 Outputs                                                  method.
+   The output is similar to that of the organisation web-    • 	 Zotero (https://www.zotero.org/)
+site searches described above: a database of up to 1000
+search results split into a variety of columns representing     Zotero is a free programme for reference manage-
+aspects of the full citations. These citations can include   ment, similar to Mendeley. Zotero also has an internet
+links to further descriptions and full texts if required,    browser add-on that allows the user to download cita-
+which can be accessed directly from the downloaded           tions from a web site such as a page of results in Google
+databases.                                                   Scholar, allowing the extraction of up to 20 citations from
+                                                             each page, one page at a time. These results are saved
+Method 2—citation management software method                 to the user’s local (i.e. non-cloud-based) Zotero library.
+Free to use software, namely Mendeley, ‘Publish or Per-      Abstracts are not extracted using this software but full
+ish’, and Zotero can be used individually to extract search  texts are, where they are freely available. Google Scholar
+engine results in bulk. Other software platforms may         ‘citations’ are also extracted as citations.
+work in a similar way and the methods detailed here will
+likely apply to other programmes.                            Comparison of methods
+                                                             There are advantages and disadvantages of the methods
+• 	 Mendeley (https://www.mendeley.com/join/)                described to extract full citations from search engines
+                                                             (i.e. citation management/analysis software versus web-
+   Mendeley is a reference management programme for          crawling software). Reference management/analysis
+research authors, which stores citations and full text arti- software allows more precise and complete extraction
+cles in the cloud. The programme includes an add-on          of citation titles, whilst the web-crawling method will
+for internet browsers that allows the user to extract cita-  extract only what is displayed by Google Scholar, which
+tions from within a web site, including from a page of up    may result in incomplete records where titles are long.
+to 10 search results from search engines such as Google      Some of the methods cannot extract results displayed as
+Scholar, one page at a time. Thus, users can extract         ‘citations’ (e.g. Mendeley), whilst others can (e.g. Zotero
+results one page at a time. Citations do not include         and web-crawling). Reference management software
+abstracts, but they do include full text PDFs where these    (e.g. Mendeley and Zotero) typically extract full text
+
+Haddaway et al. Environ Evid (2017) 6:1                                                                       Page 9 of 14
+PDFs where they are freely available, whilst web-crawlers   2 pages of results allowed between 10 and 50 results to
+and cannot. Neither of these methods is able to extract     be extracted per search string and included in the results.
+more than 1000 search results from Google Scholar. The      The results of a combined, updatable search of these web-
+Import.io method, whilst more laborious, allows the user    sites are provided in supplementary information, detail-
+to define precisely what information is extracted and is    ing the types of citation information extractable from the
+usable across a range of different search engines, whilst   included websites (Additional file 4).
+the other methods using citation management software
+are typically restricted to one or a few pre-specified      Extraction of full citations from search engines
+search facilities (e.g. Google Scholar and PubMed).         A search update was undertaken for a systematic review
+                                                            on the impacts of tillage intensity on soil organic carbon
+Case studies                                                (SOC) in arable farmland (according to a protocol [20]),
+We describe below two case study searches that were         which followed on from a systematic map on the impacts
+performed for organisation websites and for a web-based     of agricultural management on SOC [21]. The origi-
+search engine (Google Scholar).                             nal systematic map employed hand searching of Google
+                                                            Scholar and reporting of any relevant results found
+Searches for grey literature                                within the first 100 hits. Conversely, Import.io was used
+A total of 40 commonly cited websites were identified       to download up to the maximum of 1000 search results
+from an assessment of 57 recent systematic reviews pub-     from Google Scholar in the search update of the tillage
+lished in the journal Environmental Evidence (Table 2).     systematic review. These records were then screened at
+These were selected to cover a diverse range of organi-     title, abstract and full text stages parallel to the search
+sation websites that belong to organisations that deal      update for bibliographic databases. As part of this search
+with environmental management topics for systematic         update, full text and title searches of Google Scholar were
+reviews of a diverse range of subjects, for example “What   undertaken using an adapted search string, as follows:
+are the human well-being impacts of terrestrial protected      Full Boolean search string: soil* AND (arable OR agri-
+areas?” [18] and “What is the impact of land management     cult* OR farm* OR crop* OR cultivat*) AND (till* OR
+of lowland peatlands on greenhouse gas fluxes and car-      “no till*” OR “reduced till*” OR “direct drill*” OR “con-
+bon cycling?” [19].                                         servation till*” OR “minimum till*”) AND (“soil organic
+   Updatable APIs were successfully established for 30      carbon” OR “soil carbon” OR “soil C” OR “soil organic C”
+of the websites identified by using the methods out-        OR SOC OR “carbon pool” OR “carbon stock” OR “car-
+lined above, meaning that these sites could be searched     bon storage” OR “soil organic matter” OR SOM OR “car-
+together using a set of predefined search terms across all  bon sequestrat*” OR “C sequestrat*”)
+sites simultaneously, returning typically up to 200 results    Adapted Google Scholar search string: soil AND carbon
+per search term for each site into one common database.     AND (till OR tillage OR “reduced tillage” OR “conserva-
+In each case an API could be established in under 5 min.    tion tillage” OR “no tillage” OR “direct drill” OR “mini-
+For these websites, up to 10 pages of search results (typi- mum till”) [Google Scholar format: soil carbon till OR
+cally 10 results per page depending on the number of        tillage OR “reduced tillage” OR “conservation tillage” OR
+results displayed per page) were extracted using updat-     “no tillage” OR “direct drill” OR “minimum till”]
+able search strings. Details of this process are outlined      Title and full text searches returned 163 and 23,200
+in Table 2 and outputs of the searching are available in    results respectively (03/09/2015). All 17 pages of title
+Additional file 4.                                          search results and the first 100 pages of full text results
+   For 10 websites, full search results could not be        were downloaded as HTML files using the DownThe-
+extracted since updatable APIs could not be constructed.    mAll! Add-on for Mozilla Firefox as HTML files. The
+The reasons for these failures are not fully clear, but in  two sets of HTML files were scraped for citations within
+4 cases this occurred because the websites employed         Import.io on a Windows operating system using Mon-
+a Google Custom Search facility, which does not per-        goose Web Server [22] by training the software to rec-
+mit updatable APIs to be created. However, between 20       ognise titles, URL links, authors, publication years,
+and 50 search results were still extractable based on the   publications, short descriptions, source (publisher), num-
+search terms used during API training. For the remaining    ber of Google Scholar citations and URL links to full texts
+6 websites, problems may have related to the use of com-    in the citation information where available. Page numbers
+plex site coding or page structuring that was not readily   were extracted from each HTML search result page using
+recognisable as patterned data. For the websites where      a second crawler as described above. The resulting data-
+updatable APIs could not be created, training of the first  bases of citations are provided in Additional file 5 and a
+
+Table 2 Organisation websites commonly used within systematic reviews
+Organisation                     Crawler functioning (yes/no) Notes                                    URL                                        Numbers of results extracted
+Alterra (wageningen)             Yes                                                                   www.wageningenur.nl/en/Expertise-Ser-      200
+                                                                                                        vices/Research…/alterra.htm
+BirdLife                         No                          Google custom search; extractable but     www.birdlife.org/                           40
+                                                              no API, 20 results only per query
+CAFOD                            Yes                                                                   www.cafod.org.uk/                          200
+Canadian Forestry Service        Yes                                                                   www.nrcan.gc.ca/forests                    400
+CGIAR                            Yes                                                                   www.cgiar.org/                             200
+CIFOR                            Yes                                                                   www.cifor.org/                             200
+                                                                                                                                                                                 Haddaway et al. Environ Evid (2017) 6:1
+Ecosystem Marketplace            Yes                                                                   http://www.ecosystemmarketplace.com/       600
+ELDIS                            No                          Extractable but no API, 20 results only   www.eldis.org/                              40
+                                                               per query
+Environment Agency               Yes                                                                   https://www.gov.uk/search?q=&filter_       400
+                                                                                                         organisations%5B%5D=environment-
+                                                                                                         agency
+Environment Canada               Yes                                                                   https://www.google.se/url?sa=t&rct=j&q=& 200
+                                                                                                         esrc=s&source=web&cd=10&cad=rja&ua
+                                                                                                         ct=8&sqi=2&ved=0CDsQFjAJahUKEwj_8Kj
+                                                                                                         1wZ7IAhUC3SwKHZ9GCV4&url=http%3A%
+                                                                                                         2F%2Fwww.ec.gc.ca%2F%3Flang%3DEn&u
+                                                                                                         sg=AFQjCNH1nH5cS8da11EdKH_6SLxXfle_
+                                                                                                         0w&sig2=CdAV1RtbuTMKJgmPH6Sl3Q&bv
+                                                                                                         m=bv.103627116,d.bGg
+Forestry Commission              No                          Google custom search; extractable but     www.forestry.gov.uk/                        40
+                                                              no API, 20 results only per query
+GEF                              Yes                                                                   https://www.thegef.org/                    200
+Greenpeace                       Yes                                                                   www.greenpeace.org/                        200
+Greenpeace Publication           Yes                                                                   www.greenpeace.org/international/en/pub-   179
+                                                                                                        lications/
+ICIMOD                           Yes                                                                   www.icimod.org/                            200
+ICIMOD Publications              Yes                                                                   www.icimod.org/publications                245
+IIED                             Yes                                                                   www.iied.org/                               68
+IIED Publications                Yes                                                                   pubs.iied.org/                             200
+IUCN Publications                Yes                                                                   www.iucn.org/                               76
+Natural England                  Yes                                                                   https://www.google.se/                     341
+                                                                                                         url?sa=t&rct=j&q=&esrc=s&source=web
+                                                                                                         &cd=1&cad=rja&uact=8&ved=0CB8QFj
+                                                                                                         AAahUKEwi4iZ-Awp7IAhVHkCwKHS6WD4
+                                                                                                         E&url=https%3A%2F%2Fwww.gov.uk%2F
+                                                                                                         government%2Forganisations%2Fnatural-
+                                                                                                         england&usg=AFQjCNFjk4k6mmZ29TcR2_
+                                                                                                         j7VZ_GWh-7fg&sig2=v54ScjLDWQ1sWzpR
+                                                                                                         hleoKg&bvm=bv.103627116,d.bGg                                           Page 10 of 14
+
+Table 2 continued
+Organisation                                   Crawler functioning (yes/no) Notes                                                  URL                                            Numbers of results extracted
+Natural Resources Canada                       No                                  Extractable but no API, 10 results only         www.nrcan.gc.ca/home                            19
+                                                                                     per query
+Natural Resources Canada Publications          Yes                                                                                 www.nrcan.gc.ca/publications/1138              400
+Northern Ireland Environment Agency            Yes                                                                                 www.doeni.gov.uk/niea/                         200
+ Publications
+                                                                                                                                                                                                                 Haddaway et al. Environ Evid (2017) 6:1
+ODI                                            Yes                                                                                 www.odi.org/                                   200
+ODI Publications                               Yes                                                                                 www.odi.org/publications                       200
+OECD                                           No                                  Google custom search; extractable but           www.oecd.org/                                   40
+                                                                                    no API, 20 results only per query
+RAMSAR                                         Yes                                                                                 www.ramsar.org/                                400
+RSPB                                           Yes                                                                                 www.rspb.org.uk/                               200
+SEPA                                           Yes                                                                                 http://www.sepa.org.uk/library/content-        137
+                                                                                                                                     search/?q=&LibGo=Search&page=1
+TEAGASC                                        No                                  Google custom search; extractable but           www.teagasc.ie/                                 32
+                                                                                    no API, 20 results only per query
+The Nature Conservancy                         No                                  Extractable but no API, 20 results only         www.nature.org/                                 40
+                                                                                     per query
+Tropenbos                                      Yes                                                                                 www.tropenbos.org/                             200
+UNEP WCMC                                      No                                  Extractable but no API, 50 results only         http://www.unep-wcmc.org/resources-and-         73
+                                                                                     per query                                       data
+US EPA                                         Yes                                                                                 http://nlquery.epa.gov/epasearch/epasearch? 2561
+                                                                                                                                     querytext=&typeofsearch=epa&doctype=
+                                                                                                                                     all&originalquerytext=water+quality+trad
+                                                                                                                                     ing&areaname=&faq=true&filter=sample4
+                                                                                                                                     filt.hts&fld=&sessionid=F49B4A4D12A56F4
+                                                                                                                                     638CAE8FB3DB62382&referer=&prevtype=
+                                                                                                                                     epa&result_template=2col.ftl&stylesheet=
+USAID                                          Yes                                                                                 http://www.usaid.gov/gsearch/                  200
+USFWS                                          Yes                                                                                 www.fws.gov/                                   400
+Wetlands International                         Yes                                                                                 www.wetlands.org/                              200
+Wildlife Conservation Society                  No                                  Extractable but no API, 10 results only         www.wcs.org/                                    20
+                                                                                     per query
+World Bank                                     No                                  Extractable but no API, 20 results only         http://search.worldbank.org/all?qterm=&title    40
+                                                                                     per query                                       =&filetype=
+WWT                                            Yes                                                                                 www.wwt.org.uk/                                140
+Listed are reviews published by Environmental Evidence that were searched for literature to demonstrate the applicability of web crawling to academic searching
+                                                                                                                                                                                                                 Page 11 of 14
+
+Haddaway et al. Environ Evid (2017) 6:1                                                                                                         Page 12 of 14
+sample of the title search database is displayed in Fig. 4.                             Along with increasing transparency, these methods can
+All citations were extracted successfully, along with page                          lead to significant improvements in resource efficiency,
+numbers and result location (result row within pages).                              since web-crawler APIs can be established and shared in
+   The search update from Google Scholar resulted in                                efficient ways, allowing multiple resources to be searched
+one new publication being used in meta-analyses that                                simultaneously. Many freely available full texts are also
+would otherwise not have been discovered through bib-                               extractable together with search results from academic
+liographic database and organisation website searches                               search engines. In addition, lists of relevant information
+(Haddaway, unpublished data).                                                       can be updated instantaneously.
+   In addition to this example, scraping of Google Scholar                              Systematic review methods are based on a require-
+search results was used extensively in a study of the use                           ment for detailed reporting of methods used [24], and the
+of Google Scholar in evidence reviews. This study exam-                             same level of detail should be employed to describe both
+ined the nature and frequency of grey literature within                             bibliographic database and other web-based searching.
+the first 1000 results from full text and title searches of                         The methods described herein add to this high level of
+Google Scholar based on seven systematic review case                                transparency, repeatability and reproducibility by allow-
+study search strings. Details of this study can be found in                         ing reviewers to produce a comprehensive record of the
+Haddaway et al. [23].                                                               searches performed at one point in time across organi-
+                                                                                    sation websites and web-based search engines. This
+Conclusions                                                                         documentation could be used as freely accessible sup-
+The methods described herein to search for and record                               plementary information for a highly detailed systematic
+the details of outputs from web searches provide a high                             review report, or it could be maintained privately to facil-
+degree of transparency, either for personal reference                               itate updating of the review.
+or for those wishing to record their activities as part of                              We have provided methods that can assist with the
+a formal review, such as a systematic review, provid-                               recording of searches of individual websites and search
+ing clear benefits to researchers. Systematic reviewers,                            engines. Whilst we do not advocate any one approach,
+for example, can dramatically improve the transparency                              the methods described can assist in improving the trans-
+of their non-bibliographic (i.e. grey literature) searches,                         parency, repeatability and reproducibility of systematic
+producing databases of citations from academic search                               and other evidence reviews, thus optimising review reli-
+engines and organisation websites that can be subse-                                ability and improving the confidence end-users have in
+quently screened for relevance and possible inclusion in                            their findings.
+the review.
+  Fig. 4 Database of search results from title search in Google Scholar. Advanced search was used: (allintitle: soil carbon till OR tillage OR “reduced
+  tillage” OR “conservation tillage” OR “no tillage” OR “direct drill” OR “minimum till”; 03/09/2015) using methods described herein
+
+Haddaway et al. Environ Evid (2017) 6:1                                                                                              Page 13 of 14
+   The methods described here may also prove particu-            it is advisable to summarise this information in system-
+larly useful for rapid review methods, which restrict the        atic review methods text or additional files describing
+scope of reviews in order to allow them to be conducted          methods used.
+within reduced timeframes, to all reviews meet time-sen-             The two examples detailed above and evidenced by the
+sitive policy needs, for example. These methods enable           supplementary information demonstrate that the meth-
+more rapid searching so that strict requirement of sys-          ods described, using organisation website searching and
+tematic reviews would not need to be compromised. By             a web-based search engine, can significantly increase
+transparently documenting all search results identified,         transparency in online searching.
+such rapid reviews may also lend themselves to more effi-            Substantial effort has been invested in making informa-
+cient updating into a full systematic review if required,        tion, such as research data, freely available on the inter-
+since a rapid review may use a sampling approach to              net. As this data is updated, increased and improved,
+examine a subset of the identified results.                      emerging methods such as the web-crawling methodol-
+   There are other benefits of the approaches detailed           ogy described herein can help researchers to make the
+herein. Along with searching for citations, researchers          most of available data. By learning from a relatively nas-
+often turn to the internet to find or update information         cent commercial innovation workloads can be reduced
+from a variety of sources, for example finding up-to-date        and efficiency maximised. Those dealing with ‘big data’,
+information relating to species lists, gene sequences, lab-      such as systematic reviewers, may particularly benefit
+oratory protocols and chemical concentrations that are           from these methods. Furthermore, evidence-informed
+listed on single websites. Rather than copying and past-         decisions in any discipline should be based on transpar-
+ing such detailed lists, web crawling software such as the       ent, objective and repeatable methods [5]. The methods
+tool described above allow such data to be extracted and         described above provide an immediate, low-cost method
+regularly updated as necessary.                                  for transparently documenting web-based searches for
+   Reviews typically become out-of-date within several           evidence.
+years of publication (i.e. approximately 1–6 years accord-
+ing to [25]), and transparent documentation that includes        Additional files
+web based searches can drastically improve resource effi-
+ciency of updates, since work need not be repeated for              Additional file 1. URL generator based on advanced search facility in
+                                                                    Google Scholar.
+the years covered by the original review. In a similar way,
+                                                                    Additional file 2. Instructions on how to use the URL generator for
+novel reviews that share overlapping evidence bases with            Google Scholar.
+published reviews can benefit from the inclusion of evi-
+                                                                    Additional file 3. Instructions on how to download web-based search
+dence from these previous reviews [26], potentially sav-            engine search results using DownThemAll add-on.
+ing time and increasing comprehensiveness.                          Additional file 4. Database of search results from organisation website
+   In addition to transparently recording the outputs of            searches for the terms “research” and “report”.
+web-based searches, we emphasise that reviewers should              Additional file 5. Database of search results from Google Scholar title
+also record the searching activities that generated those           and full text searches for tillage systematic review case study.
+outputs. Such detailed information should include the
+following information:
+                                                                 Abbreviations
+                                                                 API: Application Program Interfaces (file format); HTML: Hyper Text Markup
+   ••  What resource was searched: the URL for the search        Language (internet coding language); CSV: comma separated values (spread-
+       page, the organisation’s name and the access point if     sheet/text file format); XLS: Excel binary file format (spreadsheet file format);
+                                                                 PDF: Portable Document Format (document file format); RIS: research informa-
+       using a third party platform                              tion systems (citation file format); URL: Uniform Resource Identifier (World
+   ••  When it was searched: the date searches were under-       Wide Web address format); TXT: text file (document/text file format); SOC: soil
+       taken                                                     organic carbon.
+   ••  How was it searched: the search terms used along          Authors’ contributions
+       with any other optional settings, such as ‘title only’ or NH investigated and refined the methodology. NH and AC tested the method-
+       document type                                             ology. NH drafted the manuscript. NH, AC, DC and SK edited the manuscript.
+                                                                 Author details
+   Web-scraping software, such as Import.io, facilitates         1
+                                                                   MISTRA EviEM, Stockholm Environment Institute, Box 24218, Stockholm,
+                                                                 Sweden. 2 Centre for Environmental Policy, Imperial College, London, UK.
+this level of reporting by including search terms, search-       3
+                                                                   Department for Environmental, Food and Rural Affairs, London, UK. 4 Depart-
+ing dates and URLs directly into the search result data-         ment for Civil and Environmental Engineering, Imperial College, London, UK.
+base, ensuring that each search result can be traced back        5
+                                                                   European Commission, DG Research & Innovation, Scientific Advice Mecha-
+                                                                 nism, 8 Square Frère Orban, 1049 Brussels, Belgium.
+to its origin. For transparency and ease of interrogation,
+
+Haddaway et al. Environ Evid (2017) 6:1                                                                                                           Page 14 of 14
+Acknowledgements                                                                10. Import.io. Import.io. 2016. http://www.import.io. Accessed 22 Nov 2016.
+NH was hosted at Bangor University. AC acknowledges a Policy.                   11. Pant G, Menczer F, editors. Topical crawling for business intelligence.
+    Placement Fellowship funded by the Natural Environment Research                 International conference on theory and practice of digital libraries.
+Council, the UK Department for Environment Food and Rural Affairs and the           Berlin:Springer; 2003.
+Environment Agency.                                                             12. Pant G, Srinivasan P, Menczer F. Crawling the web in web dynamics.
+                                                                                    Berlin: Springer; 2004. p. 153–77.
+                                                                                13. Toon E, Timmermann C, Worboys M. Text-mining and the history of
+Competing interests                                                                 medicine: big data, big questions? Med Hist. 2016;60(02):294–6.
+The authors declare they have no competing interests.                           14. Scholar G. Google Scholar. 2016. http://scholar.google.co.uk.
+                                                                                15. Roe D, Fancourt M, Sandbrook C, Sibanda M, Giuliani A, Gordon-Maclean
+Funding                                                                             A. Which components or attributes of biodiversity influence which
+The work described herein was funded as part of a project by the Department         dimensions of poverty? Env Evid. 2014;3(1):1.
+for Environment, Food and Rural Affairs under contract WT1552, project man-     16. DownThemAll. DownThemAll. 2016. http://www.downthemall.net.
+aged by the Joint Water Evidence Group.                                             Accessed 22 Nov 2016.
+                                                                                17. Support M. VLOOKUP function. 2016. https://support.office.com/en-us/
+Received: 3 August 2016 Accepted: 7 December 2016                                   article/VLOOKUP-function-0bbc8083-26fe-4963-8ab8-93a18ad188a1.
+                                                                                    Accessed 22 Nov 2016.
+                                                                                18. Pullin AS, Bangpan M, Dalrymple S, Dickson K, Haddaway NR, Healey JR,
+                                                                                    et al. Human well-being impacts of terrestrial protected areas. Env Evid.
+                                                                                    2013;2(1):1.
+                                                                                19. Haddaway NR, Burden A, Evans CD, Healey JR, Jones DL, Dalrymple SE,
+References                                                                          et al. Evaluating effects of land management on greenhouse gas fluxes
+ 1. Boeker M, Vach W, Motschall E. Google Scholar as replacement for                and carbon balances in boreo-temperate lowland peatland systems. Env
+     systematic literature searches: good relative recall and precision are not     Evid. 2014;3(1):1.
+     enough. BMC Med Res Methodol. 2013;13(1):1.                                20. Haddaway NR, Hedlund K, Jackson LE, Kätterer T, Lugato E, Thomsen IK,
+ 2. De Winter JC, Zadpoor AA, Dodou D. The expansion of Google                      et al. How does tillage intensity affect soil organic carbon? A systematic
+     Scholar versus web of science: a longitudinal study. Scientometrics.           review protocol. Env Evid. 2016;5(1):1.
+     2014;98(2):1547–65.                                                        21. Haddaway NR, Hedlund K, Jackson LE, Kätterer T, Lugato E, Thomsen IK,
+ 3. Gehanno J-F, Rollin L, Darmoni S. Is the coverage of Google Scholar             et al. What are the effects of agricultural management on soil organic
+     enough to be used alone for systematic reviews. BMC Med Inform Decis           carbon in boreo-temperate systems? Env Evid. 2015;4(1):1.
+     Mak. 2013;13(1):1.                                                         22. Mongoose. Mongoose Web Server 2016. https://code.google.com/p/
+ 4. Falagas ME, Pitsouni EI, Malietzis GA, Pappas G. Comparison of PubMed,          mongoose. Accessed 22 Nov 2016.
+     Scopus, web of science, and Google scholar: strengths and weaknesses.      23. Haddaway NR, Collins AM, Coughlin D, Kirk S. The role of Google Scholar
+     FASEB J. 2008;22(2):338–42.                                                    in evidence reviews and its applicability to grey literature searching. Plos
+ 5. CEE. Guidelines for systematic review and evidence synthesis in envi-           ONE. 2015;10(9):e0138237.
+     ronmental management. Bangor: The Collaboration for Environmental          24. Moher D, Liberati A, Tetzlaff J, Altman DG, PRISMA Group. Preferred
+     Evidence. 2013.                                                                reporting items for systematic reviews and meta-analyses: the PRISMA
+ 6. Higgins JP, Green S. Cochrane handbook for systematic reviews of inter-         statement. Int J Surg. 2010;8(5):336–41.
+     ventions. Hoboken: Wiley; 2011.                                            25. Shojania KG, Sampson M, Ansari MT, Ji J, Doucette S, Moher D. How
+ 7. Haddaway N, Woodcock P, Macura B, Collins A. Making literature reviews          quickly do systematic reviews go out of date? A survival analysis. Ann
+     more reliable through application of lessons from systematic reviews.          Intern Med. 2007;147(4):224–33.
+     Conserv Biol. 2015;29(6):1596–605.                                         26. Moher D, Tsertsvadze A, Tricco AC, Eccles M, Grimshaw J, Sampson M,
+ 8. Briscoe S. Web searching for systematic reviews: a case study of reporting      et al. A systematic review identified few methods and strategies describ-
+     standards in the UK Health Technology Assessment programme. BMC Res            ing when and how to update systematic reviews. J Clin Epidemiol.
+     Notes. 2015;8(1):1.                                                            2007;60(11):1095–104.
+ 9. Churchill GA. When are results too good to be true? Genetics.
+     2014;198(2):447–8.
+                                                                                    Submit your next manuscript to BioMed Central
+                                                                                    and we will help you at every step:
+                                                                                      • We accept pre-submission inquiries
+                                                                                      • Our selector tool helps you to find the most relevant journal
+                                                                                      • We provide round the clock customer support
+                                                                                      • Convenient online submission
+                                                                                      • Thorough peer review
+                                                                                      • Inclusion in PubMed and all major indexing services
+                                                                                      • Maximum visibility for your research
+                                                                                      Submit your manuscript at
+                                                                                      www.biomedcentral.com/submit
+

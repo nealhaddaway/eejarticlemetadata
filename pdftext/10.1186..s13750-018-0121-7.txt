@@ -1,0 +1,429 @@
+Haddaway et al. Environ Evid (2018) 7:7
+https://doi.org/10.1186/s13750-018-0121-7                                                                             Environmental Evidence
+  METHODOLOGY                                                                                                                                         Open Access
+ROSES RepOrting standards
+for Systematic Evidence Syntheses: pro forma,
+flow‑diagram and descriptive summary of the
+plan and conduct of environmental systematic
+reviews and systematic maps
+Neal R. Haddaway1†, Biljana Macura1*†, Paul Whaley2 and Andrew S. Pullin3
+  Abstract
+  Reliable synthesis of the various rapidly expanding bodies of evidence is vital for the process of evidence-informed
+  decision-making in environmental policy, practice and research. With the rise of evidence-base medicine and increas-
+  ing numbers of published systematic reviews, criteria for assessing the quality of reporting have been developed.
+  First QUOROM (Lancet 354:1896–1900, 1999) and then PRISMA (Ann Intern Med 151:264, 2009) were developed as
+  reporting guidelines and standards to ensure medical meta-analyses and systematic reviews are reported to a high
+  level of detail. PRISMA is now widely used by a range of journals as a pre-submission checklist. However, due to its
+  development for systematic reviews in healthcare, PRISMA has limited applicability for reviews in conservation and
+  environmental management. We highlight 12 key problems with the application of PRISMA to this field, including
+  an overemphasis on meta-analysis and no consideration for other synthesis methods. We introduce ROSES (RepOrt-
+  ing standards for Systematic Evidence Syntheses), a pro forma and flow diagram designed specifically for systematic
+  reviews and systematic maps in the field of conservation and environmental management. We describe how ROSES
+  solves the problems with PRISMA. We outline the key benefits of our approach to designing ROSES, in particular the
+  level of detail and inclusion of rich guidance statements. We also introduce the extraction of meta-data that describe
+  key aspects of the conduct of the review. Collated together, this summary record can help to facilitate rapid review
+  and appraisal of the conduct of a systematic review or map, potentially speeding up the peer-review process. We pre-
+  sent the results of initial road testing of ROSES with systematic review experts, and propose a plan for future develop-
+  ment of ROSES.
+  Keywords: PRISMA, Quality appraisal, CEESAT, DART, AMSTAR, QUORUM
+Background                                                                                    syntheses (including systematic reviews and maps) are
+Reliable synthesis of the various rapidly expanding bodies                                    becoming an industry standard for cataloguing, collating
+of evidence is vital for the process of evidence-informed                                     and synthesising documented evidence [5]. Systematic
+decision-making in environmental policy, practice                                             reviews and maps are conducted through transparent
+and research [1–4]. Methods for systematic evidence                                           and repeatable processes, maximising objectivity and
+                                                                                              attempting to minimise bias throughout the review [6].
+                                                                                              Systematic review methods were translated from the field
+*Correspondence: bmacura@gmail.com; bmacura@sei‑international.org                             of healthcare to conservation and environmental man-
+†
+ Neal R. Haddaway and Biljana Macura contributed equally to this work                         agement in 2006 as a part of emerging ‘evidence-based
+1
+  Mistra EviEM, Stockholm Environment Institute, Box 24218,
+Stockholm 10451, Sweden                                                                       conservation’ movement [7–12]. Systematic reviews are
+Full list of author information is available at the end of the article
+                                              © The Author(s) 2018. This article is distributed under the terms of the Creative Commons Attribution 4.0 International License
+                                              (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium,
+                                              provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license,
+                                              and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/
+                                              publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+
+Haddaway et al. Environ Evid (2018) 7:7                                                                      Page 2 of 8
+frequently used to assess the effectiveness of manage-      follow methodological changes and conceptual advances,
+ment interventions or the effect of an anthropogenic        a decade later the QUOROM statement was updated
+action or natural impact [7, 9]. More recently these meth-  and extended to a new tool that set minimum standards
+ods have been used to answer broader questions that deal    for transparent and complete reporting of systematic
+with complex systems, for example investigating how,        reviews and meta-analyses. These updated standards
+and under which conditions, an intervention or an action    are known as PRISMA (Preferred Reporting Items for
+may have the greatest effect.                               Systematic reviews and Meta-Analyses) and consists of
+   In order to increase the value of reviews for policy and a 27-item checklist and an easy-to-follow flow-diagram
+practice and to ensure that they comply with established    template to demonstrate the stages at which evidence is
+standards and procedures, formal review coordinat-          excluded during the conduct of a systematic review [24].
+ing bodies have been established across various disci-      The PRISMA Statement is accompanied by the PRISMA
+plines, including Cochrane in healthcare, the Campbell      Explanation and Elaboration document [25]. PRISMA is
+Collaboration in social welfare, and the Collaboration      relevant for reporting of systematic reviews that evaluate
+for Environmental Evidence (CEE) in conservation and        randomised trials but also for reviews of non-randomised
+environmental management. The collaborations provide        (observational and diagnostic) studies assessing the ben-
+guidance, training, and endorse reviews through their       efits and harms of interventions.
+registration and publication [6, 13, 14]. Where in other      PRISMA reporting guidance has been continuously
+fields protocols might be published without peer-review     developing (see [26]) and several extensions have been
+(on e.g. protocol repository platforms), registration and   published so far, including PRISMA-Equity [27] an
+peer-review of a CEE protocol is required and is done       extension for abstracts [28] and a PRISMA for protocols
+through the formal CEE editorial process. Endorsed          [29, 30].
+reviews are vetted by methodology experts and can there-      Along with its use by review authors as a pre-sub-
+fore be trusted as more rigorous and thus more reliable.    mission checklist, PRISMA is used also by journal edi-
+Nevertheless, substandard reviews remain more numer-        tors and peer-reviewers to improve reporting standards
+ous (see [15, 16]) with flaws in planning and design (e.g.  across medical and general journals [31]. PRISMA has
+protocol either missing or lacks crucial details), conduct  been widely accepted and endorsed by 5 editorial organi-
+(e.g. non-comprehensive search) and/or reporting (e.g.      sations, including Cochrane and the World Association
+poor clarity or comprehensiveness in the write-up) [17,     of Medical Editors, and 180 bio-medical journals [32].
+18]. Without transparent reporting, even well-designed      To assure global acceptance, the PRISMA statement
+reviews will fail to show their methodological strengths,   has been published in multiple biomedical journals and
+undermining their utility in decision-making contexts       translated into a number of other languages. Additionally,
+[17].                                                       the checklist and flow diagram have been translated into
+   Systematic review methodology was first established      a number of other languages, including Russian, Japanese
+in medicine in the 1990 s to support well-informed          and Korean [33]. Recently, as awareness of PRISMA has
+decision-making for the health sector, initially focusing   grown, reviewers have also looked to the PRISMA state-
+on synthesising quantitative evidence from randomised       ment and checklist as a form of guidance. Some 25%
+control trials [13]. Since then, systematic review meth-    of reviews in the field of marine biology were found by
+odology has spread across a range of fields, including      O’Leary et al. [34] to refer to PRISMA as guidelines used
+software engineering, education, social welfare and inter-  to structure their conduct. Whilst PRISMA is, strictly
+national development, public and environmental health,      speaking, a set of reporting standards and not true sys-
+and crime and justice [19–22], broadening not only the      tematic review guidance, this demonstrates the appeal
+scope of topics but also the methodologies applied. Now,    of systems like PRISMA in acting not only as a reporting
+for example, it is standard practice to incorporate obser-  standard but also a primer to systematic review conduct.
+vational studies and qualitative research in systematic
+reviews.                                                    PRISMA and environmental reviews
+   With the rise of evidence-based medicine and increas-    As systematic review methodology has been adapted
+ing numbers of published systematic reviews, criteria for   into a variety of other disciplines, new evidence synthe-
+assessing the quality of reporting have been developed.     sis methods have been developed and the standard and
+In 1999, as a response to growing evidence of a lack of     quality of systematic reviews has improved. These devel-
+clarity in reporting of reviews in medicine, an interna-    opments and adaptations mean that PRISMA may not
+tional group of scientists developed a reporting guidance   be a suitable template for many non-medical systematic
+for meta-analyses of randomised trials—the QUOROM           reviews. We have identified 12 key issues associated with
+(QUality Of Reporting Of Meta-analysis) [23]. To            the application of PRISMA to environmental systematic
+
+Haddaway et al. Environ Evid (2018) 7:7                                                                                                              Page 3 of 8
+reviews and maps (see Table 1). As such, environmen-                              combining studies with numerical data aggregatively
+tal synthesists must identify a suitable alternative for                          (and in fact separate from other quantitative synthesis
+PRISMA to facilitate peer-review, ensure adequate                                 methods, such as meta-regression [35]). This is an impor-
+reporting of systematic reviews and systematic maps,                              tant point, since meta-analyses alone are subject to the
+and to help raise standards in future reviews. We iden-                           same biases as traditional literature reviews [36].
+tify four categories of improvements that are necessary:                             Secondly, systematic mapping has emerged as a very
+(i) the ability to handle different types of environmental                        popular method for evidence synthesis, as a first step in
+evidence and synthesis methods (including both quanti-                            the evidence synthesis pathway and as a means of high-
+tative and qualitative reviews); (ii) handling novel review                       lighting knowledge clusters and gaps [14, 15]. PRISMA
+outputs (i.e. systematic maps); (iii) consistency with CEE                        cannot be easily adapted for these methods that rely
+guidelines and adaptation to the field of environmental                           more heavily on the earlier stages of the review process
+management and conservation; and, (iv) increasing the                             (searching and screening) and the outputs of which are
+required level of detail and extracting key meta-data to                          databases of evidence rather than full syntheses of study
+facilitate quality appraisal and peer-review.                                     findings.
+   Firstly, PRISMA was not designed for reviews that                                 Thirdly, we see the need for several improvements and
+involve narrative, qualitative or mixed methods rather                            adaptations to PRISMA, some of which are highlighted in
+than quantitative methods (e.g. ‘Synthesis of results’ cat-                       Table 1. Standards in systematic reviews have developed
+egory: “Describe the methods of handling data and com-                            considerably in recent years (e.g. [37, 38]), and some of
+bining results of studies, if done, including measures of                         the suggested methods in PRISMA are perhaps no longer
+consistency (e.g., I2) for each meta-analysis”; and ‘Results                      seen as true ‘gold standards’.
+of individual studies’ category: “For all outcomes consid-                           Finally, we see a timely opportunity to summarise
+ered (benefits or harms), present, for each study: (a) sim-                       and collect key methodological information during the
+ple summary data for each intervention group (b) effect                           review submission process that can facilitate appraisal
+estimates and confidence intervals, ideally with a forest                         and analysis of review methods, both for individual
+plot”). There is also a growing community who believe                             reviews and for systematic reviews as a whole. System-
+that meta-analysis is not a standalone type of review,                            atic reviews and maps are, by their very nature, lengthy
+but rather a subset of quantitative synthesis tools for                           and complex documents that contain a large amount of
+Table 1 Key problems relating to the application of PRISMA [24] to evidence synthesis in conservation and environmen‑
+tal management
+Problem 1:   Does not strictly require a protocol, refers to registration (e.g. PRISMA [24] checklist #5 “Indicate if a review protocol exists, if and where it
+               can be accessed (e.g., Web address), and, if available, provide registration information including registration number”)
+Problem 2:   Vagueness hides necessary level of transparency to allow repeatability (e.g. no requirements to provide details of which databases are
+               accessed via Web of Knowledge or Proquest, PRISMA [24] checklist #7)
+Problem 3:   Suggested requirements for review conduct are minimal, affecting overall comprehensiveness of the review (e.g. repeatable reporting of
+               search in “at least one database” required only, PRISMA [24] checklist #8)
+Problem 4:   Heavy emphasis on meta-analysis (excludes narrative, qualitative and mixed synthesis methods): e.g. PRISMA [24] checklist #13 ‘Summary
+               measures’: “State the principal summary measures (e.g., risk ratio, difference in means)”, PRISMA [24] checklist #14 ‘Synthesis of results’:
+               “Describe the methods of handling data and combining results of studies, if done, including measures of consistency (e.g., I­2) for each
+               meta-analysis”, PRISMA [24] checklist #21 ‘Synthesis of results’: “Present results of each meta-analysis done, including confidence inter-
+               vals and measures of consistency”
+Problem 5:   Lost nuance of necessary methodological steps: e.g. lack of consistency and comprehensiveness checking, no requirement to avoid bias
+               caused by reviewing and appraising one’s own research
+Problem 6:   Focuses on risk of bias rather than limitations to validity: ignores external validity and limitations that do not affect bias (e.g. PRISMA [24]
+               checklist #15 and #22)
+Problem 7:   Focuses on medicine and health topics (e.g. PRISMA [24] checklist #9 ‘Results of individual studies’: “For all outcomes considered (benefits
+               or harms), present, for each study: (a) simple summary data for each intervention group (b) effect estimates and confidence intervals,
+               ideally with a forest plot”)
+Problem 8:   Non-matching terminology: e.g. separating ‘screening’ from ‘eligibility’ (see PRISMA [24] flow-diagram)
+Problem 9:   Inappropriate use of the term ‘qualitative synthesis’ meaning ‘narrative synthesis’ (see PRISMA Statement [24])
+Problem 10:  PRISMA checklist misses vital information from the PRISMA [24] flow-diagram: e.g. exclusions during critical appraisal
+Problem 11:  Often misused as methodological rather than reporting guidance [34]
+Problem 12:  PRISMA checklist is only useful for authors and editors during submission: no further information provided within the process of comple-
+               tion: it is purely a checklist
+
+Haddaway et al. Environ Evid (2018) 7:7                                                                          Page 4 of 8
+necessary detail (e.g. 41 pages plus 251 pages across 10    it should: (i) ensure all necessary content required by
+additional files; [39]). As such, it can be challenging to  the current and future updates of CEE Guidelines (CEE
+rapidly locate vital methodological and summary details     [6]) is present and described in detail; (ii) prevent time-
+and statistics regarding the conduct of the review.         and resource-consuming bounces of manuscripts before
+   Whilst checklists are useful for ensuring conform-       peer-review; (iii) facilitate rapid identification of key con-
+ity and completeness, PRISMA-style reporting could          duct-related review information by journal editors, peer-
+also be used for locating important information within      reviewers and readers; and, (iv) raise and maintain high
+a report. Along with a checklist that demonstrates the      standards in the conduct of systematic reviews and maps
+required information has been included in a report,         through increased transparency.
+reviewers could also record and present in a stand-
+ard form important summary details, such as the num-        Methods
+ber of search results obtained before duplicate removal.    Two authors (NRH and BM) critically reviewed the cur-
+We see three major benefits of reporting such summary       rent versions of PRISMA relating to review protocols [30]
+information along with a review protocol or a report:       and final review reports [24]. We identified a series of
+(1) a summary form would assist in making the review’s      shortfalls in relation to the field of conservation and envi-
+transparency more usable: i.e. although the review might    ronmental science (see Table 1) and proposed solutions
+be fully transparent, vital methodological information      to these problems. These solutions involved the addi-
+might be held within supplementary information, and         tion of information that we felt was lacking, the removal
+finding that detail might take considerable time; (2) such  of out-dated or irrelevant information, and the inclusion
+a form would allow a rapid review of the robustness of      of standard text on requirements and recommendations
+the review’s methods. This would facilitate peer-review     from the Collaboration for Environmental Evidence guid-
+by collating information that can point to potential issues ance [6] and submission guidelines for authors from
+related to rigour or inconsistencies in reporting. For      the CEE journal Environmental Evidence [40]. The sug-
+example, a particularly large number of search results      gested form was reviewed by all four authors and revised
+identified across a small number of databases suggests      according to collated comments. The protocol and review
+an inefficient and non-comprehensive search strategy,       pro forma were then circulated to an external group of
+as would a very low inclusion rate at title-level screen-   six systematic review experts from the field of environ-
+ing; (3) this information could facilitate an appraisal of  mental evidence synthesis. The feedback was collected
+systematic reviews as a corpus, allowing an assessment      via semi-structured questionnaire or 30-min interview,
+of standards in the conduct of reviews along with trends    subject to expert availability. The pro forma were then
+in choice of methodology. Examining the way in which        revised according to these comments.
+systematic reviews have been undertaken is an important
+process of reflection, and allows the examination of bar-   Key differences between ROSES and PRISMA
+riers and limitations in how guidance can be practically    Our proposed pro forma for systematic review and map
+applied. It also facilitates the improvement of standards   protocols and reports can be found in Additional files 1,
+over time by providing data which can be used for assess-   2, respectively, along with the template flow diagram in
+ing the effectiveness of quality management processes for   Additional file 3. We have also provided an example of a
+research synthesis and determining areas in which review    collated meta-data from protocols of a recent systematic
+methods may be susceptible to bias.                         review and a map (Additional file 4). We have called this
+                                                            pro forma Reporting of Strategies in Systematic Evidence
+Aims and objectives                                         Syntheses (ROSES). We will now summarise four key fea-
+Here we introduce the ROSES pro forma and flow dia-         tures of ROSES (fully outlined in Table 2).
+gram, and summarise the process through which these           Firstly, ROSES has been adapted specifically for sys-
+were drafted and tested. The target audience for this work  tematic reviews and maps in the field of conservation and
+is: (i) current and future authors of systematic evidence   environmental management. We have drafted ROSES
+syntheses (reviews); (ii) journals publishing reviews       as experienced systematic review and map authors, as
+(including their editors and peer-reviewers); (iii) readers authors of evidence synthesis methodological guidance,
+of reviews and the wider research community.                as quantitative and qualitative conservation and environ-
+   The overall aim of the ROSES initiative is to increase   mental researchers, and as editors of journals publishing
+and maintain high standards in the conduct of systematic    systematic reviews. As a result, we feel that ROSES better
+reviews and maps through increased transparency, and        reflects the nuances and heterogeneity across the situa-
+to facilitate the quality assurance of systematic reviews   tions in which we work as reviewers than does PRISMA.
+and maps. The key attributes of such a pro forma are that   In particular, we have ensured that ROSES is specifically
+
+Haddaway et al. Environ Evid (2018) 7:7                                                                                                        Page 5 of 8
+Table 2 Key differences between ROSES and PRISMA in relation to the problems identified with PRISMA (see Table 1)
+Difference 1:   Tailored to environmental systematic reviews AND systematic maps (solution to Problem 1, 6, 7, 8)
+Difference 2:   Higher standards of reporting (more details requested) in checklist, summary and flow diagram (solution to Problems 2, 5 and 10)
+Difference 3:   Higher standards of conduct and clearer when standards not fully met (solution to Problem 3)
+Difference 4:   Reduces emphasis on quantitative synthesis (e.g. meta-analysis etc.) that is only reliable when used for appropriate data in a sensible
+                  way (solution to Problem 4)
+Difference 5:   Accommodate other types of synthesis (narrative and qualitative synthesis) (solution to Problem 4 and 9)
+Difference 6:   Consistent and appropriate terminology (e.g. confusion of ‘qualitative synthesis’ and ‘narrative synthesis’ in PRISMA flow chart) (solution
+                  to Problem 8 and 9)
+Difference 7:   Corrects problems with PRISMA focusing on bias rather than internal and external validity) (solution to Problem 6)
+Difference 8:   Provides baseline methodological guidance and suggestions as well as acting as a reporting standard (solution to Problem 11)
+Difference 9:   Inclusion of meta-data (solution to Problem 12)
+adapted for a variety of synthesis methods common to                         included reporting and methodological guidance for sys-
+the field of environmental research, such that narrative                     tematic maps.
+and qualitative syntheses (i.e. synthesis of qualitative
+data) also benefit from the form.                                            Distinction between checklist and meta‑data
+   Secondly, we have significantly increased the level of                    In practice we see that ROSES should be completed by
+reporting detail by adding in additional points and pro-                     review authors upon submission to an adopting jour-
+viding brief methodological guidance to make it clearer                      nal, for example, the CEE journal Environmental Evi-
+for authors and readers when a systematic review does                        dence and this should be compulsory. The checklist
+not include a ‘gold standard’ step, recommended by a                         would demonstrate to peer-reviewers and editorial staff
+review coordinating body such as CEE. For example, bib-                      that the protocol or review report includes all the neces-
+liographic checking is the process by which the bibliog-                     sary information. This step would save substantial time
+raphies of relevant reviews are screened for potentially                     and resources for the editorial manager, whose role is
+relevant studies that might have been missed by even                         to ensure that manuscripts meet basic standards before
+the most comprehensive of searches. Additionally, we                         being sent out for peer-review. It could also significantly
+see the need to promote the conduct of high quality sys-                     reduce time for manuscript consideration by the jour-
+tematic reviews and maps (a recognised problem in the                        nal, of great benefit to reviewers and their stakeholders.
+field [41, 42]). It has been noted that PRISMA has been                      Meta-data would be separated from the checklist upon
+inappropriately referred to as ‘methodological guidance’                     submission, forming a summary page and a flow dia-
+in previous systematic reviews [34], despite its brev-                       gram (see Additional files 3, 4). These two files could be
+ity and limited detail: most importantly it was designed                     appended to the submission and sent to peer-reviewers
+for assessing standards of reporting NOT review con-                         to facilitate peer-review and improve the quality of meth-
+duct. We have increased functionality of ROSES and                           odological feedback. The ROSES checklist, flow diagram
+included methodological guidance notes to help authors                       and summary page could then be published alongside the
+to conduct a high quality review along with high qual-                       final protocol and review to give an overview of its rigour.
+ity reporting. However, ROSES should only be used as a
+methodological guidance when considered together with                        Digitisation of ROSES
+the CEE guidelines.                                                          The ROSES pro forma is intended to be completed and
+   Thirdly, we have departed from the format of PRISMA                       submitted along with final protocols and review reports.
+by not only providing reporting guidance in a checklist                      The ROSES pro forma will be made fully digital and inter-
+form, but also including requirements to record sum-                         active on a web-based platform that would allow for
+mary information (i.e. meta-data) that describes the key                     meta-data to be automatically extracted and collated into
+steps in the conduct of reviews. This increased resolution                   a summary (similar to the example of collated meta-data
+facilitates a rapid understanding of the robustness of the                   provided in Additional file 4) and the flow diagram (see
+review methods and allows readers and peer-reviewers to                      Additional file 3). ROSES pro forma and flow diagram are
+identify potential issues with the review that require fur-                  available via a dedicated online platform that also con-
+ther investigation.                                                          tains background information and support, along with
+   Fourthly, we have extended the methodological scope                       examples of use.
+to follow trends in methodological development [43] and
+
+Haddaway et al. Environ Evid (2018) 7:7                                                                               Page 6 of 8
+Benefits of ROSES                                                  necessary information. In addition, the structure pro-
+We see several benefits of ROSES as the first guidance             vided within the ROSES collated meta-data could help
+for transparent reporting of systematic reviews and                peer-reviewers to get a rapid overview of the methods
+maps in the field of environmental management and                  necessary for a CEE review. As a result of this support,
+conservation.                                                      we believe ROSES has the power to decrease the time
+  ROSES is designed to accommodate the diversity of                between submission and final publication.
+methods applied to a wide-variety of review subjects. The            However, ROSES is considerably longer than the cur-
+tool therefore necessarily reflects some of the heteroge-          rent PRISMA forms and it will, therefore, undoubtedly
+neity and inter-disciplinarily of topics within the con-           take more time for authors to complete. Nevertheless,
+servation and environmental management field. We also              we believe that this time requirement (a matter of sev-
+see no restrictions in application or adaptation of ROSES          eral hours) would improve manuscripts, reduce the time
+across other fields with a similar level of complexity of          requirement during manuscript consideration, and
+topics and methods.                                                would prevent unnecessary bouncing of manuscripts
+  ROSES focuses on the earlier and middle stages of the            back to authors where necessary information is lacking.
+review process, i.e. searching, screening, data extraction         We strongly recommend that authors begin to complete
+and critical appraisal, whilst there is limited detail regard-     ROSES pro forma as early as possible. This will help to
+ing synthesis. This is a necessary aspect of a form that           structure the planning and conduct of the review and
+aims to be applicable to a wide variety of synthesis meth-         facilitate submission.
+ods. We believe this flexibility is a key strength of ROSES.
+Synthesis is a highly complex and context specific process         Conclusions
+in any systematic review, and developing a universally             ROSES provides the conservation and environmen-
+valid reporting standard for all possible forms of synthe-         tal management research synthesis community with a
+sis would be unwieldy and impractical. Rather than focus           detailed set of reporting standards that have been tailored
+on what has perhaps been the most common form of syn-              to the field. We have carefully considered systematic map-
+thesis across CEE reviews to date (i.e. meta-analysis), we         ping, narrative and qualitative synthesis methods when
+have learnt from our experiences as systematic reviewers           producing ROSES, and we see these developments as
+and anticipate a growing interest in alternative forms of          being equally important for other fields where reporting
+synthesis, including narrative-only synthesis, framework           standards in systematic reviews are needed. By increas-
+synthesis, and mixed methods approaches. As such, we               ing the resolution of checklist points and providing rich
+hope to produce tailored ‘add on’ reporting standards for          instructional information we have aimed to demonstrate
+key methods as we are able to do so, ensuring that each is         the necessary level of rigour in a ‘gold standard’ review,
+produced with care and sufficient expertise to stand the           and assist reviewers in attaining those standards. By split-
+test of time.                                                      ting the pro forma into a checklist and a collation of meta-
+  In comparison to the existing reporting guidance (e.g.           data, we hope to facilitate review and appraisal of the
+PRISMA), ROSES combines reporting with methodolog-                 methods that have been proposed or used. Finally, extrac-
+ical advice and thus highlights ‘gold standard’ methods            tion and storage of meta-data would allow the research
+to support production of higher quality protocols and              community to examine methods in systematic reviews
+reviews. Moreover, ROSES provides detailed and precise             and maps across the field, helping to develop new meth-
+instructions with examples for all stages of the review            odologies and propose novel best practices for high qual-
+process including planning, conduct and reporting (e.g.            ity syntheses.
+“Detail the planned search strategy to be used, including:           As has been done in the health sector and with
+database names accessed, institutional subscriptions (or           PRISMA, there is a need to continually refine reporting
+date ranges subscribed for each database), search options          standards as methods and terminology evolves (see also
+(e.g. ‘topic words’ or ‘full text’ search facility).”). This level an online database for reporting guidelines under devel-
+of detail should leave no space for substandard reporting.         opment [44]). Additionally, we see a need to develop
+  Apart from a simple checklist, authors are asked to              extensions, just as with PRISMA, to extend reporting
+extract key conduct-related information and submit                 guidelines into specific areas such as ROSES extensions
+that information along with their reports. This 1-page             for synthesis methods (quantitative, qualitative and mix-
+overview of the whole review process facilitates rapid             methods) or for abstracts. We believe that ROSES will not
+editorial and peer-review decisions, allowing for more             only benefit the CEE community, but also those who wish
+transparent and constructive feedback to be provided by            to conduct a review in a systematic way but do not have
+directly relating comments to specific required steps and          the resources for a full systematic review or map [45].
+
+Haddaway et al. Environ Evid (2018) 7:7                                                                                                              Page 7 of 8
+Additional files                                                                    health science into better health outcomes. Environ Health Perspect.
+                                                                                    2014;122:1007–14.
+                                                                                5.  Haddaway NR, Pullin AS. The policy role of systematic reviews: past,
+   Additional file 1. ROSES pro forma for systematic review and map                 present and future. Springer Sci Rev. 2014;14:179–83.
+   protocols.                                                                   6.  CEE (Collaboration for Environmental Evidence). Guidelines for System-
+                                                                                    atic Review and Evidence Synthesis in Environmental Management.
+   Additional file 2. ROSES pro forma for systematic reviews and maps.
+                                                                                    Version 4.2. 2013. http://environmentalevidence.org/wp-content/
+   Additional file 3. ROSES flow diagram.                                           uploads/2014/06/Review-guidelines-version-4.2-final.pdf.
+   Additional file 4. Example of collated meta-data for a recent systematic     7.  Pullin AS, Stewart GB. Guidelines for systematic review in conservation
+   review and map.                                                                  and environmental management. Conserv Biol. 2006;20:1647–56.
+                                                                                8.  Sutherland WJ, Pullin AS, Dolman PM, Knight TM. The need for evidence-
+   Additional file 5. Questionnaire and key feedback collated from testers.         based conservation. Trends Ecol Evol. 2004;19:305–8.
+                                                                                9.  Pullin AS, Knight TM. Doing more good than harm—building an
+                                                                                    evidence-base for conservation and environmental management. Biol
+Authors’ contributions                                                              Conserv. 2009;142:931–4.
+NH and BM conceived of the idea, developed the pro forma and drafted the        10. Pullin AS, Knight TM. Effectiveness in conservation practice: pointers from
+manuscript. PW and AP edited the pro forma and manuscript. All authors read         medicine and public health. Conserv Biol. 2001;15:50–4.
+and approved the final manuscript.                                              11. Stewart GB, Coles CF, Pullin AS. Applying evidence-based practice in
+                                                                                    conservation management: lessons from the first systematic review and
+Author details                                                                      dissemination projects. Biol Conserv. 2005;126:270–8.
+1
+  Mistra EviEM, Stockholm Environment Institute, Box 24218, Stockholm 10451,    12. Fazey I, Salisbury JG, Lindenmayer D, Maindonald J, Douglas RM. Can
+Sweden. 2 Lancaster Environment Centre, Lancaster University, Lancaster LA1         methods applied in medicine be used to summarize and disseminate
+4YQ, UK. 3 Centre for Evidence‑Based Conservation, School of Environment,           conservation research? Environ Conserv. 2004;31:190–8.
+Natural Resources and Geography, Bangor University, Bangor LL57 2UW, UK.        13. Cochrane. About us. 2017. http://www.cochrane.org/about-us. Accessed
+                                                                                    25 July 2017.
+Acknowledgements                                                                14. The Campbell Collaboration. Vision, mission and principles—the camp-
+We thank all road testers who volunteered their time to review ROSES and            bell collaboration. 2017. https://www.campbellcollaboration.org/about-
+provide constructive feedback: Magnus Land, Gillian Petrokofsky, Barbara            campbell/vision-mission-and-principle.html. Accessed 25 July 2017.
+Livoreil, Ruth Garside, Christian Kohl and Jacqueline Eales. We would also like 15. Haddaway NR, Land M, Macura B. A little learning is a dangerous thing”: a
+to thank two anonymous reviewers for their insightful comments.                     call for better understanding of the term “systematic review. Environ Int.
+                                                                                    2016;99:356–60.
+Competing interests                                                             16. Haddaway NR. Response to “Collating science-based evidence to inform
+The authors declare that they have no competing interests.                          public opinion on the environmental effects of marine drilling platforms
+                                                                                    in the Mediterranean Sea”. J Environ Manag. 2017;203:612–4.
+Availability of data and materials                                              17. Pussegoda K, Turner L, Garritty C, Mayhew A, Skidmore B, Stevens A, et al.
+Not applicable.                                                                     Systematic review adherence to methodological or reporting quality. Syst
+                                                                                    Rev. 2017;6:131.
+Consent for publication                                                         18. O’Leary BC, Kvist K, Bayliss HR, Derroire G, Healey JR, Hughes K, et al. The
+Not applicable.                                                                     reliability of evidence reviews in environmental science and conserva-
+                                                                                    tion. Environ Sci Policy. 2016;64:75–82.
+Ethics approval and consent to participate                                      19. The Steering Group of the Campbell Collaboration. Campbell Collabora-
+Not applicable.                                                                     tion Systematic Reviews: policies and guidelines. Campbell Syst Rev.
+                                                                                    2015;46:1.
+Funding                                                                         20. Petticrew M, Roberts H. Systematic reviews in the social sciences: a practi-
+NH and BM are funded by Mistra EviEM.                                               cal guide. London: Blackwell Publishing Ltd; 2006.
+                                                                                21. Kitchenham B. Procedures for performing systematic reviews. Keele:
+                                                                                    Keele University; 2004. p. 33.
+Publisher’s Note                                                                22. Morgan RL, Thayer KA, Bero L, Bruce N, Falck-Ytter Y, Ghersi D, et al.
+Springer Nature remains neutral with regard to jurisdictional claims in pub-        GRADE: assessing the quality of evidence in environmental and occupa-
+lished maps and institutional affiliations.                                         tional health. Environ Int. 2016;92–93:611–6.
+                                                                                23. Moher D, Cook DJ, Eastwood S, Olkin I, Rennie D, Stroup DF. Improving
+Received: 6 September 2017 Accepted: 22 November 2017                               the quality of reports of meta-analyses of randomised controlled trials:
+                                                                                    the QUOROM statement Quality of Reporting of Meta-analyses. Lancet
+                                                                                    (Lond, England). 1999;354:1896–900.
+                                                                                24. Moher D, Liberati A, Tetzlaff J, Altman D, Prisma Group. Preferred reporting
+                                                                                    items for systematic reviews and meta-analyses: the PRISMA statement.
+                                                                                    Ann Intern Med. 2009;151:264.
+References                                                                      25. Liberati A, Altman DG, Tetzlaff J, Mulrow C, Ioannidis JP, Clarke M, et al. The
+ 1. Roberts PD, Stewart GB, Pullin AS. Are review articles a reliable source of     PRISMA statement for reporting systematic reviews and meta-analyses of
+      evidence to support conservation and environmental management? A              studies that evaluate health care interventions: explanation and elabora-
+      comparison with medicine. Biol Conserv. 2006;132:409–23.                      tion. Ann Intern Med. 2009;151:W65–94.
+ 2. Vandenberg LN, Ågerstrand M, Beronius A, Beausoleil C, Bergman Å, Bero      26. PRISMA. Extensions in development. 2015. http://www.prisma-statement.
+      LA, et al. A proposed framework for the systematic review and integrated      org/Extensions/InDevelopment.aspx. Accessed 26 July 2017.
+      assessment (SYRINA) of endocrine disrupting chemicals. Environ Heal.      27. Welch V, Petticrew M, Tugwell P, Moher D, O’Neill J, Waters E, et al.
+      2016;15:74.                                                                   PRISMA-equity 2012 extension: reporting guidelines for systematic
+ 3. Whaley P, Halsall C, Ågerstrand M, Aiassa E, Benford D, Bilotta G, et al.       reviews with a focus on health equity. PLoS Med. 2012;9:e1001333.
+      Implementing systematic review techniques in chemical risk assess-        28. Beller EM, Glasziou PP, Altman DG, Hopewell S, Bastian H, Chalmers I, et al.
+      ment: challenges, opportunities and recommendations. Environ Int.             PRISMA for abstracts: reporting systematic reviews in journal and confer-
+      2016;92–93:556–64.                                                            ence abstracts. PLoS Med. 2013;10:e1001419.
+ 4. Woodruff TJ, Sutton P. The navigation guide systematic review methodol-     29. Shamseer L, Moher D, Clarke M, Ghersi D, Liberati A, Petticrew
+      ogy: a rigorous and transparent method for translating environmental          M, et al. Preferred reporting items for systematic review and
+
+Haddaway et al. Environ Evid (2018) 7:7                                                                                                              Page 8 of 8
+    meta-analysis protocols (PRISMA-P) 2015: elaboration and explanation.     38. Baylissa HR, Beyer FR. Information retrieval for ecological syntheses. Res
+    BMJ. 2015;349:g7647.                                                          Synth Methods. 2015;6:136–48.
+30. Moher D, Shamseer L, Clarke M, Ghersi D, Liberati A, Petticrew M, et al.  39. Pullin AS, Bangpan M, Dalrymple S, Dickson K, Haddaway NR, Healey JR,
+    Preferred reporting items for systematic review and meta-analysis proto-      et al. Human well-being impacts of terrestrial protected areas. Environ
+    cols (PRISMA-P) 2015 statement. Syst Rev. 2015;4:1.                           Evid. 2013;2:19.
+31. PRISMA. Endorse PRISMA. 2015. http://www.prisma-statement.org/            40. Environmental Evidence. Preparing your manuscript. 2017. https://envi-
+    Endorsement/EndorsePRISMA.aspx. Accessed 25 July 2017.                        ronmentalevidencejournal.biomedcentral.com/submission-guidelines/
+32. PRISMA. PRISMA endorsers. 2015. http://www.prisma-statement.org/              preparing-your-manuscript. Accessed 25 July 2017.
+    Endorsement/PRISMAEndorsers.aspx#c. Accessed 25 July 2017.                41. Haddaway NR, Watson MJ. On the benefits of systematic reviews for
+33. PRISMA. Available translations. 2015. http://www.prisma-statement.org/        wildlife parasitology. Int J Parasitol Parasites Wildl. 2016;5:184–91.
+    Translations/Translations.aspx. Accessed 25 July 2017.                    42. Haddaway NR, Macura B. Species’ traits influenced their response to
+34. O’Leary BC, Bayliss HR, Haddaway NR. Beyond PRISMA: systematic reviews        recent climate change. Nat Clim Change. 2017;7:205.
+    to inform marine science and policy. Mar Policy. 2015;62:261–3.           43. James KL, Randall NP, Haddaway NR. A methodology for systematic map-
+35. O’Mara-Eves A, Thomas J. Ongoing developments in meta-analytic and            ping in environmental sciences. Environ Evid BioMed Central. 2016;5:7.
+    quantitative synthesis methods: broadening the types of research ques-    44. The EQUATOR network. Reporting guidelines under development. 2017.
+    tions that can be addressed. Rev Educ. 2016;4:5–27.                           http://www.equator-network.org/library/reporting-guidelines-under-
+36. Stegenga J. Is meta-analysis the platinum standard of evidence? Stud          development/#52. Accessed 25 July 2017.
+    Hist Philos Biol Biomed Sci. 2011;42:497–507. https://doi.org/10.1016/j.  45. Haddaway NR, Woodcock P, Macura B, Collins A. Making literature reviews
+    shpsc.2011.07.003                                                             more reliable through application of lessons from systematic reviews.
+37. Livoreil B, Glanville J, Haddaway NR, Bayliss H, Bethel A, Lachapelle FF,     Conserv Biol. 2015;29:1596–605.
+    et al. Systematic searching for environmental evidence using multiple
+    tools and sources. Environ Evid. 2017;6:23.
+                                                                                  Submit your next manuscript to BioMed Central
+                                                                                  and we will help you at every step:
+                                                                                    • We accept pre-submission inquiries
+                                                                                    • Our selector tool helps you to find the most relevant journal
+                                                                                    • We provide round the clock customer support
+                                                                                    • Convenient online submission
+                                                                                    • Thorough peer review
+                                                                                    • Inclusion in PubMed and all major indexing services
+                                                                                    • Maximum visibility for your research
+                                                                                    Submit your manuscript at
+                                                                                    www.biomedcentral.com/submit
+

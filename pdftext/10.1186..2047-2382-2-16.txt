@@ -1,0 +1,466 @@
+Land et al. Environmental Evidence 2013, 2:16
+http://www.environmentalevidencejournal.org/content/2/1/16
+  SYSTEMATIC REVIEW PROTOCOL                                                                                                                          Open Access
+How effective are created or restored freshwater
+wetlands for nitrogen and phosphorus removal?
+A systematic review protocol
+Magnus Land1*, Wilhelm Granéli2, Anders Grimvall3, Carl Christian Hoffmann4, William J Mitsch5,
+Karin S Tonderski6 and Jos TA Verhoeven7
+  Abstract
+  Background: Eutrophication of aquatic environments is a major environmental problem in large parts of the world.
+  In Europe, EU legislation (the Water Framework Directive and the Marine Strategy Framework Directive),
+  international conventions (OSPAR, HELCOM) and national environmental objectives emphasize the need to reduce
+  the input of plant nutrients to freshwater and marine environments. A widely used method to achieve this is to let
+  water pass through a constructed or restored wetland (CW). However, the large variation in measured nutrient
+  removal rates in such wetlands calls for a systematic review. The objective of this review is to quantify nitrogen and
+  phosphorus removal rates in constructed or restored wetlands and relate them to wetland characteristics, loading
+  characteristics, and climate factors. Wetlands are created to treat water from a number of different sources. Sources
+  that will be considered in this review include agricultural runoff and urban storm water run-off, as well as
+  aquaculture wastewater and outlets from domestic wastewater treatment plants, with particular attention to the
+  situation in Sweden. Although the performance of wetlands in temperate and boreal regions is most relevant to
+  the Swedish stakeholders a wider range of climatic conditions will be considered in order to make a thorough
+  evaluation of climatic factors.
+  Methods: Searches for primary studies will be performed in electronic databases as well as on the internet. One
+  author will perform the screening of all retrieved articles at the title and abstract level. To check that the screening
+  is consistent and complies with the agreed inclusion/exclusion criteria, subsets of 100 articles will be screened by
+  the other authors. When screening at full-text level the articles will be evenly distributed among the authors. Kappa
+  tests will be used to evaluate screening consistency. Data synthesis will be based on meta-regression. The nutrient
+  removal rates will be taken as response variables and the effect modifiers will be used as explanatory variables.
+  More specifically, the meta-regression will be performed using generalized additive models that can handle
+  nonlinear relationships and major interaction effects. Furthermore, subgroup analyses will be undertaken to
+  elucidate statistical relationships that are specific to particular types of wetlands.
+  Keywords: Nitrogen, Phosphorus, Nutrient, Retention rate, Removal efficiency, Wetland creation, Restored wetland,
+  Constructed wetland, Pond, Eutrophication
+* Correspondence: magnus.land@eviem.se
+1
+ Mistra EviEM, Royal Swedish Academy of Sciences, Box 50005, SE-104 05,
+Stockholm, Sweden
+Full list of author information is available at the end of the article
+                                            © 2013 Land et al.; licensee BioMed Central Ltd. This is an Open Access article distributed under the terms of the Creative
+                                            Commons Attribution License (http://creativecommons.org/licenses/by/2.0), which permits unrestricted use, distribution, and
+                                            reproduction in any medium, provided the original work is properly cited.
+
+Land et al. Environmental Evidence 2013, 2:16                                                                      Page 2 of 8
+http://www.environmentalevidencejournal.org/content/2/1/16
+Background                                                      into municipal, industrial, agricultural, and landfill leach-
+Man-made eutrophication of aquatic environments is a            ate. While the median inflow load of total nitrogen was
+major environmental problem in large parts of the world         574 g m-2 y-1, the median removal rate was 225 g m-2 y-1.
+[1]. This is also the case in Europe, where EU legislation        Regarding phosphorus, Carleton et al. [3] concluded
+(the Water Framework Directive and the Marine Strategy          that removal of total phosphorus was more a function
+Framework Directive), international conventions (OSPAR,         of mean detention time than of mean hydraulic loading
+HELCOM) and national environmental objectives emphasize         rate in wetlands receiving storm water runoff. Hoffmann
+the need to reduce the input of plant nutrients to fresh-       et al. [7] found phosphorus retention varying from a loss
+water and marine environments. Furthermore, it is gener-        of 1 g m-2 yr-1 to a retention rate of 0.3 g m-2 yr-1 in wet-
+ally accepted that some of the reduction measures target        lands and floodplains. Losses were often in the form of
+agricultural runoff and other diffuse emissions of nitrogen     dissolved phosphate. In contrast, Braskerud et al. [8]
+and phosphorus.                                                 reported retention of 27 – 156 g m-2 yr-1 phosphorus in
+   One method to reduce the input of plant nutrients to         small constructed wetlands in Norway, and could attribute
+freshwater and coastal waters is to let water pass through      the high retention to settling of particulate phosphorus.
+some kind of constructed or restored wetland. Major types       Without management activities phosphorus removal may
+of constructed wetlands include Free Surface Flow Con-          decrease over time, as was indicated by Mitsch et al. [9]
+structed Wetlands, Subsurface Horizontal Flow Constructed       who showed that TP retention dropped from an initial
+Wetlands, and Subsurface Vertical Flow Constructed              60% to 10% 15 years after wetland construction.
+Wetlands, whereas restored wetlands refer to wetlands             In Sweden, the main focus when wetlands initially
+where interventions have been made to recreate previ-           started to be constructed and restored was on nitrogen
+ously drained or by other means altered natural wetlands.       retention. Nitrogen was usually assumed to limit primary
+The physical and biogeochemical processes involved in           production in marine ecosystems [10,11], and also in the
+the removal of nitrogen and phosphorus in such wetlands         brackish-water Baltic Sea [12] which catchment includes
+are relatively well known. However, the large variation in      most of Sweden. However, this is a disputed assumption,
+efficiency observed in different studies calls for a systematic and some scientists have the opinion that phosphorus is
+review of removal rates and how they are influenced by the      ultimately limiting production in the Baltic Sea [13-15].
+wetland characteristics, loading differences, and environ-      In freshwater bodies eutrophication is usually thought
+mental factors. For non-point source runoff, Mitsch et al.      to be controlled by phosphorus inputs only [14], although
+[2] found an average nitrogen reduction of 39 g m-2 yr-1        this is still somewhat controversial and some scientists
+in Ohio wetlands and 46 g m-2 yr-1 in a large wetland in        argue that also nitrogen inputs to lakes have to be reduced
+Louisiana, and attributed the difference to the warmer          as well [13]. Thus, to single out one nutrient or the other
+climate in the latter region. Carleton et al. [3] analysed time as limiting in the marine and freshwater system, respect-
+series from 49 wetlands treating storm water runoff and         ively, may simplify reality too far. In many systems both
+found that nitrogen removal (% of load) increased in a non-     nitrogen and phosphorus are limiting depending on time
+linear way with an increasing ratio wetland/catchment area.     of year and location [16], and therefore, whether the major
+In another data set from 65 constructed wetlands, the           concern is the marine environment or freshwater eco-
+nitrate removal varied from around 1 to > 1000 g m-2 yr-1,      systems, quantification of both nitrogen and phosphorus
+and the variation was best explained by a first order equa-     retention is very relevant.
+tion including inflow concentration, load, temperature            In Sweden, removal of nitrogen and phosphorus in
+and hydraulic efficiency as explaining variables [4].           CWs is of particular interest because such measures may
+   Removal rates for wetlands treating wastewater are           play an important role to achieve national environmental
+generally higher. Vymazal [5] reviewed nitrogen retention       quality objectives and to reach the commitments made
+in constructed wetlands (Free-floating Plants (FFP), Free       in the Baltic Sea Action Plan (BSAP). A large number of
+Water Surface systems (FWS), horizontal sub-surface             wetlands have been created; e.g. during the period 2000–
+flow systems (HSSF) and vertical sub-surface flow sys-          2012 more than 1400 wetlands were supported by vari-
+tems (VSSF)) and concluded that removal of total nitro-         ous governmental funds [17]. The performance of some
+gen varied between 40 and 50% with removed load ranging         of them has been evaluated by Svensson et al. [18] who
+between 250 and 630 g N m−2 yr−1 depending on CW type           reported that the nitrogen retention rates varied an order
+and inflow loading.                                             of magnitude depending on which subsidy program that
+   Vymazal and Kroepfelova [6] described the removal of         had funded the wetland, and that they ranged between 5
+nitrogen in horizontal sub-surface flow constructed wet-        and 54 g m-2 y-1. The variations were mainly attributed
+lands (HF CWs) for various types of wastewater. The             to differences in nitrogen loading rates.
+survey included more than 900 annual means from more              The consortium Swedish Environmental Emissions Data
+than 300 systems in 36 countries that were categorized          (SMED) has used a catchment model to evaluate the effect
+
+Land et al. Environmental Evidence 2013, 2:16                                                                      Page 3 of 8
+http://www.environmentalevidencejournal.org/content/2/1/16
+of >4000 ha created/restored wetlands on the transport of    climatic conditions, although the performance of wet-
+nitrogen and phosphorus to the Baltic Sea from Sweden        lands in temperate and boreal regions is most relevant
+south of River Dalälven [19]. In the report, the average     to the stakeholders in Sweden. The review will not en-
+nitrogen and phosphorus removal rates were calculated        gage in detailed investigations of various removal pro-
+to 3.4 and 0.3 g m-2 y-1, respectively, but with a consid-   cesses and mechanisms but rather treat each wetland as a
+erable uncertainty.                                          “black box”. Such an approach may of course introduce
+   Weisner and Thiere [20] used essentially the same calcu-  some uncertainties. However, when assessing study
+lation methods as Svensson et al. [18] to compare the        quality, studies presenting complete nutrient budgets
+nitrogen and phosphorus retention in wetlands constructed    where removal by individual processes have been quan-
+before and after 2003, respectively. For all wetlands        tified will be rated higher than studies merely providing
+constructed in the period 2003–2008 (n = 50) the result      inlet/outlet data. A balanced budget may indicate that
+was 5.9-10 g m-2 y-1 for nitrogen and 0.17 – 0.53 g m-2 y-1  the numbers are reasonable accurate and/or that no
+for phosphorus. In contrast, the removal rates were 59–      major source or sink have been overlooked.
+65 g m-2 y-1 for nitrogen and 0.68 – 1.5 g m-2 y-1 for phos-    The structure of the primary question is further discussed
+phorus in wetlands located in the county of Skåne (n = 6),   in the section Study inclusion criteria where informa-
+where the losses of nutrients from farmland are high.        tion on relevant subjects, interventions, comparator and
+   The mentioned Swedish studies are largely based on        outcomes is given in more detail.
+model calculations on various scales, and although the
+results are not directly comparable, it appears that the     Methods
+calculated rates of nitrogen and phosphorus retention in     Searches
+constructed or restored wetlands span over a wide range.     Searches in electronic databases will be made using the
+It is thus not quite clear to what degree constructed and    search terms displayed in Table 1. Using the Boolean
+restored wetlands will contribute to fulfilling the Swedish  operators indicated this translates into the search string
+commitments in the BSAP, or how important they are           below, where * is a wildcard that can be any number of
+for mitigating eutrophication in freshwater bodies. In       characters. Different wildcards may apply in different
+this context, The Swedish Board of Agriculture, which        databases and modifications will be made accordingly.
+administers a major part of the governmental funds for          (Wetland* OR pond OR mire* OR marsh OR fen OR
+wetland construction and restoration, and the Swedish        “wet meadow” OR riparian OR “flood plain” OR reed)
+Agency for Marine and Water Management, which is             AND (construct* OR creat* OR restor* OR man*made
+responsible for the environmental goal “zero eutrophi-       OR flooding OR inundation OR artificial) AND (nitrogen
+cation”, were interested to obtain better information on     OR phosph* OR nitrate OR TKN OR ammoni*) AND
+measured retention rates in individual wetlands. They        (retention OR trap* OR denitrification OR uptake OR
+were also interested in the factors controlling the differ-  sedimentation OR remov* OR settling OR accretion OR
+ence in performance between different wetlands. The          precipitation OR *sorption).
+idea is that getting a coherent picture of how different        No particular time, document type or language con-
+wetlands function in a variety of conditions should make     straints will be applied. Electronic databases that will be
+it easier to plan more effective water pollution control.    used for searching are listed in Table 2. The table also
+Another important stakeholder in this systematic review      indicates the fields that will be searched and number of
+is the wastewater treatment industry, which in the future    hits obtained in preliminary searches.
+most likely will be expected to comply to even heavier reg-     The search engine in Directory of Open Access Journals
+ulations on nutrient emissions than today.                   (DOAJ) does not allow complex search strings. Therefore
+                                                             the search strategy in that data base has to be simplified.
+Objective of the review                                      The word “wetland” will be combined with each of the sub-
+The objective of this review is to quantify observed reten-  ject words (term 3 in Table 1) using the Boolean operator
+tion rates of nutrients in constructed or restored wetlands, AND. Since no truncations are allowed in the DOAJ search
+and also to examine the distribution of these rates and      engine, separate searches will be done using the words phos-
+quantify the variation between different studies. The        phorus and phosphate as well as ammonium and ammonia.
+primary question this review seeks an answer to is “How         The searches are expected to retrieve a number of re-
+effective are created or restored freshwater wetlands for    view articles not providing any original data. Even though
+nitrogen and phosphorus removal?”                            such articles will not be used for data extraction, their
+   Secondary questions are related to how various effect     bibliographies will be used to estimate the comprehen-
+modifiers, such as environmental conditions and wetland      siveness of the searches.
+characteristics, influence the nutrient removal rates. For      In addition to data in the scientific literature it is antici-
+that reason this review covers a fairly wide range of        pated that data will be found also in the grey literature.
+
+Land et al. Environmental Evidence 2013, 2:16                                                                                           Page 4 of 8
+http://www.environmentalevidencejournal.org/content/2/1/16
+Table 1 Suggested search strategy
+                Term 1                   AND              Term 2                         AND          Term 3                AND      Term 4
+                (intervention)                            (intervention)                              (subject)                      (outcome)
+                wetland*                                  construct*                                  nitrogen                       retention
+OR              pond                     OR               create*                        OR           phosph*               OR       trap*
+OR              mire*                    OR               restor*                        OR           nitrate               OR       denitrification
+OR              marsh                    OR               man*made                       OR           TKN                   OR       uptake
+OR              fen                      OR               flooding                       OR           ammoni*               OR       sedimentation
+OR              wet meadow               OR               inundation                                                        OR       remov*
+OR              riparian                 OR               artificial                                                        OR       settling
+OR              flood plain                                                                                                 OR       accretion
+OR              reed                                                                                                        OR       precipitation
+                                                                                                                            OR       *sorption
+Search terms are connected with AND, and words within each term is connected by OR. Truncation or wildcard is denoted by *.
+Such data will be searched for on the internet. When                               (stikstof OR fosfaat OR fosfor) AND (verwijdering OR
+searching the internet the search terms will be in English                         zuivering).
+as well as in Swedish, Danish and Dutch. Searches on the                              In addition, websites of relevant specialist organisations
+internet will be performed using Google Scholar where                              (listed below) will also be searched, using the same search
+the simplified search strings shown below will be applied                          strings (in relevant languages) as for Google scholar. In
+(the search string used for the electronic databases is too                        general the first 100 hits will be examined for internet
+long for Google scholar).                                                          searches.
+   English: (wetland OR pond OR marsh) AND (constructed
+OR created OR restored OR artificial) AND (nitrogen OR                                 Swedish Environmental Protection Agency (SEPA)
+phosphorus) AND (retention OR removal).                                                Swedish Board of Agriculture
+   Swedish: (våtmark OR damm) AND (anlagd OR skapad                                    The Swedish Agency for Marine and Water
+OR restaurerad OR artificiell) AND (kväve OR fosfor)                                      Management
+AND (retention OR rening OR avskiljning).                                                Swedish directory of Master thesis (DiVA)
+   Danish: (vådområde OR lavvandet sø OR minivådområde                                   South Florida Water Management District
+AND (konstrueret OR reetableret OR genskabt OR                                           U.S. Environmental Protection Agency (EPA)
+kunstig) AND (kvælstof OR nitrogen OR fosfor or fosfat)                                  North American Data Base (NADB)
+AND (tilbageholdelse OR retention OR fjernelse OR                                        U.S. Department of Agriculture (USDA)
+rensning).                                                                               Foundation for Applied Water Research
+   Dutch: (moeras OR rietveld OR sloot) AND (kunstmatig                                   (STOWA)
+OR aangelegd OR hersteld OR helofytenfilter) AND                                       Ekologgruppen i Landskrona AB
+Table 2 Electronic databases used for searching
+Database                                                 Searched field                                        No of hits                   Date
+ISI Web of Science                                       topic                                                    3249                   2013-02-26
+Georef and Geobase                                       subject/title/abstract                                   2249                   2013-02-26
+Scopus                                                   title, abstract and keywords                             2842                   2013-02-26
+Agricola                                                 keyword anywhere                                         524                    2013-02-26
+                                                                                                                      a)
+ASFA                                                     All fields (no full text)                               1933                    2013-02-27
+Academic search                                          title/abstract/subject/keyword                           1131                   2013-02-27
+Biological Abstracts                                     keywords                                                 401                    2013-02-27
+Wiley Online Library                                     abstract or title or keywords                            174                    2013-02-27
+Directory of Open Access Journals                        all fields                                               84a)                   2013-03-05
+ScienceDirect                                            abstract or title or keywords                            876                    2013-07-02
+a)
+  After removal of duplicates.
+
+Land et al. Environmental Evidence 2013, 2:16                                                                    Page 5 of 8
+http://www.environmentalevidencejournal.org/content/2/1/16
+    Norwegian Institute for Agricultural and                       to compare the nitrogen/phosphorus loads in the
+       Environmental Research (Bioforsk)                            inlet water and in the outlet water, respectively.
+      Danish Centre for Environment and Energy (DCE)               Quite often the retention in wetlands is evaluated
+      European Environment Agency (EEA)                            in experiments where effect modifiers such as
+      Wetland Solutions Inc.                                       loading rate or vegetation type are varied. This is
+      Wetlands International                                       a version of a Control-Impact (CI) study where
+      Finnish Environment Institute (SYKE)                         inlet conditions serve as control. In rare cases
+      Federal Environment Agency (UmweltBundesAmt,                 nutrient loads in a river or stream have been
+       Germany)                                                     recorded both before and after the establishment
+      Stichting Toegepast Waterbeheer (STOWA,                      of a wetland, which corresponds to a typical
+       The Netherlands)                                             Before-After (BA) study. Both types of studies will
+                                                                    be included.
+Study inclusion criteria
+Wetlands are created to treat water from a number of             The removal rates and efficiencies may show large sea-
+different sources. Sources that will be considered in this    sonal variations. Therefore, to be included in the review,
+review include agricultural runoff and urban storm water      it is a prerequisite that the wetland is established in field
+run-off, as well as outlets from domestic wastewater          conditions and exposed to the ambient climate. This
+treatment plants. In the statistical analysis of data they    means that laboratory studies will be excluded and that
+will however be treated separately. Untreated wastewater      each study must cover at least one complete annual cycle.
+will not be considered since in most countries in Europe      Also, in order to reflect realistic conditions the wetland
+it is not allowed to discharge such water into the envir-     must be of a reasonable size. While microcosm studies
+onment. Moreover, industrial and agricultural wastewater      will be excluded, mesocosm studies will be included since
+may vary considerably in composition and will therefore       they provide valuable information on the variability of the
+be excluded as well.                                          outcomes based on true replicates, and mesocosms are
+   To be included in the systematic review, each article      judged to be of sufficient size.
+must pass each of the following criteria. The criteria           The review will focus on boreal and temperate regions,
+have been developed in collaboration with stakeholders.       but for comparison sub-tropical regions will also be in-
+In case it cannot be decided on the title and abstract        cluded. In the Köppen-Geiger climate classification system
+level the article will pass to the full text level.           [21] this corresponds roughly to group D (snow climates),
+                                                              group C (warm temperate climates) and parts of group A
+    Relevant subject: secondary and tertiary treated         (Equatorial climates with one dry season, i.e. As and Aw).
+       domestic wastewater, urban storm water, stream/           Wetlands may be constructed or restored for other
+       river water, freshwater aquaculture effluents, and     purposes than nutrient retention. Although some wet-
+       agricultural runoff.                                   lands serve multiple purposes [22], sometimes the main
+      Types of intervention: Creation or restoration of      purpose is to promote biodiversity or reduce flood risks.
+       wetlands. Created wetlands include both horizontal     In this review wetlands will be considered regardless
+       and vertical subsurface flow systems, as well as free  of the main purpose of the wetland, i.e. inclusion and
+       surface flow systems. In addition, there are more or   exclusion will not be based on the reasons for constructing
+       less natural wetlands including riparian wetlands      or restoring the wetlands. When data are extracted, how-
+       that have been restored in order to enhance either     ever, the main purpose will be recorded.
+       nitrogen and phosphorus retention or biodiversity.        At the title and abstract level one author will perform
+       Restoration refers to recovery of ecological and       the screening of all retrieved articles. To check that the
+       hydrological processes as well as geomorphology in     screening is consistent and complies with the agreed
+       areas where natural wetlands previously have been      inclusion/exclusion criteria, a subset of 100 articles will
+       drained or by other means altered. To be included      also be screened by another author. A second subset of
+       the created or restored wetlands must host some        100 articles will be screened by two other authors and a
+       type of vegetation.                                    third subset of articles will be screened by another pair
+      Types of comparator: No intervention (inlet conditions of authors. In this way 300 articles will be double-
+       can serve as control).                                 screened. It will also be possible to check the consistency
+      Types of outcome: Removal of total nitrogen and total  between the main screener and the other authors as well
+       phosphorus from the water body per unit wetland        as between the other authors within each screening pair.
+       area and year. Removal efficiency (% of load).         To evaluate the consistency Kappa tests will be used.
+      Types of study: The most common way to                    When screening at the full-text level the articles
+       evaluate the overall retention rate in a wetland is    will be evenly distributed among the authors. However,
+
+Land et al. Environmental Evidence 2013, 2:16                                                                                                           Page 6 of 8
+http://www.environmentalevidencejournal.org/content/2/1/16
+before screening at full scale, a subset of approximately                                   Age
+100 of the articles will be double-screened. Again, Kappa                                   Sediment/soil type
+tests will be used to test the consistency between the                                      Oxygen concentration and redox potential
+authors.                                                                                    Vegetation type and coverage
+   If any Kappa test shows unacceptable discrepancies                                       Fauna
+(κ < 0.6) the inclusion/exclusion criteria will be revisited                                Management methods and frequency
+by all authors and formulated in a less ambiguous way.
+                                                                                         Climate characteristics
+Potential effect modifiers and reasons for heterogeneity
+The nutrient retention may vary considerably between                                        Mean temperature
+different studies. The anticipated large variation is easy                                  Ice coverage
+to understand in the light of the fact that the retention
+rate is a result of several independent parameters. Nitrogen                          Study quality assessment
+removal takes place through 1) sedimentation, 2) plant                                Studies that still are included after the full text screening
+uptake, and 3) denitrification and volatilization. Processes                          will be subject to a quality assessment. During this process
+involved in phosphorus removal are 1) sedimentation,                                  the studies will be assigned to either of three quality cat-
+2) plant uptake 3) sorption and 4) precipitation/co-                                  egories: 1) Does not meet the quality criteria, 2) Accept-
+precipitation. The success of each of these mechanisms                                able, and 3) High standard. Studies in category 1 will not
+may depend on factors such as:                                                        qualify for meta-analysis. Data may however be extracted
+                                                                                      and compared to studies that are assigned to higher
+   Loading characteristics                                                            quality categories. In the same way the results from cat-
+                                                                                      egory 2 studies will be compared to the results from cat-
+       Hydraulic loading rate                                                         egory 3 studies. The intention is to examine if there are
+       Concentration and speciation of nitrogen and                                   any significant differences and, if so, low-quality studies
+       phosphorus at the inlet                                                        may provide misleading information. Other than that
+                                                                                      there will be no further weighting of the studies.
+   Wetland characteristics                                                               The quality assessment will focus on the following
+                                                                                      aspects:
+       Type of wetland
+       Size and shape (area, depth, length)                                               A study length of 12 months is acceptable. Longer
+       Hydroperiod                                                                          study periods will be regarded as higher quality. In
+Table 3 Parameters and data that will be recorded if provided
+Loading characteristics             Wetland characteristics      Climate characteristics           Study design parameters Results
+                                                                                                                                 Annual average removal rates
+Type of water                       Type of wetland              Annual mean air temperature Study length
+                                                                                                                                 (g m-2 y-1)
+Concentrations and speciation                                    Annual mean water                                               Annual average removal efficiency
+                                    Length, Width, Depth,                                          Sampling frequency
+of N and P at inlet                                              temperature                                                     (% of load)
+Annual average inflow                                                                              Flow proportional Sampling
+                                    Area                         Ice coverage                                                    Number of observations (years)
+loadings                                                                                           (Y/N)
+Hydraulic load (m/d)                Hydroperiod (d)              GPS coordinates                                                 Standard deviation
+                                    Dominant plant species                      1)
+Timing of peak discharge                                         Climate type
+                                    and coverage
+Residence time (d)                  Sediment/soil type
+                                    Land use history and
+pH
+                                    wetland age
+                                    O2 concentration and
+                                    redox potential
+                                    Fauna
+                                    Management methods
+                                    Main purpose of wetland
+                                    Other characteristics2)
+1)
+  According to the Köppen-Geiger climate classification [21]. This data will in most cases not be provided by the primary studies but will be extracted elsewhere.
+2)
+  May include, e.g., specific substrates, soil amendments, configuration of multiple wetlands, or other means of enhancing the outcome.
+
+Land et al. Environmental Evidence 2013, 2:16                                                                                         Page 7 of 8
+http://www.environmentalevidencejournal.org/content/2/1/16
+       an earlier review on natural wetlands [23], it was       Data synthesis and presentation
+       shown that studies conducted over a period of a          The data synthesis will be based on meta-regression.
+       year or more, or that involved frequent sampling         The removal rates of nitrogen and phosphorus will be
+       during high flow events, were more likely to indicate    taken as response variables and the effect modifiers listed
+       that the wetland increased the nutrient loadings.        above will be used as explanatory variables. More specif-
+      Sampling frequency must be sufficient. A guide-line      ically, the meta-regression will be performed using general-
+       value of 12 sampling occasions/year is acceptable.       ized additive models that can handle non-linear relationships
+       Higher sampling frequencies, as well as flow             and major interaction effects. Because the number of
+       proportional sampling, will render a higher quality      potentially important effect modifiers is fairly large, cross-
+       rating. Lower sampling frequencies are acceptable in     validation will be employed to identify a subset of major
+       e.g. sedimentation studies where the samples better      effect modifiers. Furthermore, subgroup analyses will be
+       integrate removal processes over time.                   undertaken to elucidate statistical relationships that are
+      Hydrological data adequately covering the major          specific to particular types of wetlands. Tree analyses will
+       water flow pathways should have been used in the         be performed to create an overview of heterogeneous data
+       calculation of nutrient loads.                           and nonlinear relationships.
+      The quality of studies presenting complete nutrient
+       budgets where removal by individual processes are        Competing interests
+                                                                The authors declare that they have no competing interests.
+       quantified will be regarded as higher than the
+       quality of studies merely providing inlet/outlet data.
+                                                                Authors’ contributions
+      Studies with replicate wetlands will be given a          This systematic review protocol is based on a draft written by ML. All authors
+       higher quality rating than studies without replicates.   discussed the draft and suggested improvements at a meeting in December
+      Studies should account for at least one of the potential 2012. The draft was then finalized by ML with significant contributions from
+                                                                AG, KT, JV and WG. All authors read and approved the final manuscript.
+       effect modifiers related to loading characteristics,
+       wetland characteristics and climate characteristics,     Acknowledgements
+       respectively (mentioned in previous section).            This protocol and the forthcoming review are financed by the Mistra Council
+                                                                for Evidence-based Environmental Management (EviEM). Three anonymous
+                                                                reviewers contributed to significant improvements of the manuscript.
+Data extraction strategy                                        Author details
+                                                                1
+The basic outcome of the reviewed wetland application            Mistra EviEM, Royal Swedish Academy of Sciences, Box 50005, SE-104 05,
+                                                                Stockholm, Sweden. 2Department of Biology, Lund University, SE-22362,
+consists of a change in nitrogen or phosphorus concen-          Lund, Sweden. 3Swedish Institute for the Marine Environment, Box 260, S-405
+tration in the water. However, the outcome this review is       30, Gothenburg, Sweden. 4Department of Bioscience, Aarhus University,
+seeking to evaluate is the removal rate and removal effi-       DK-8600, Silkeborg, Denmark. 5110 Kapnick Center, Florida Gulf Coast
+                                                                University, 4940 Bayshore Drive, Naples Florida 34112, USA. 6Department of
+ciency; typically the results are reported quantitatively       Physics, Chemistry and Biology, Linköping University, SE-581 83, Linköping,
+as g m-2 y-1 and as % of load, respectively. Results of stud-   Sweden. 7Department of Biology, Utrecht University, NL-3584, CA Utrecht,
+ies reported in other units will be recalculated if possible.   Netherlands.
+   In order to assess the quality of the studies and to be      Received: 7 May 2013 Accepted: 20 August 2013
+able to evaluate the importance of various effect modi-         Published: 28 August 2013
+fiers, other data than the retention rates will be recorded
+as well (see Table 3). When relating retention rates to the     References
+wetland area it is important to make a distinction between      1. Smith VH: Eutrophication of freshwater and coastal marine ecosystems -
+                                                                     A global problem. Environ Sci Pollut Res 2003, 10:126–139.
+the actual area and the effective area, and to account for      2. Mitsch WJ, Day JW, Zhang L, Lane RR: Nitrate-nitrogen retention in
+possible channel effects. In case no annual average reten-           wetlands in the Mississippi river basin. Ecol Eng 2005, 24:267–278.
+tion rates have been calculated, data will be extracted for     3. Carleton JN, Grizzard TJ, Godrej AN, Post HE: Factors affecting the
+                                                                     performance of storm water treatment wetlands. Water Res 2001,
+each sampling occasion and then an annual average will               35:1552–1562.
+be calculated if possible. To make the data extraction as       4. Kadlec RH: Nitrogen farming for pollution control. J Environ Sci Health A
+consistent as possible the data will be entered into a               Tox Hazard Subst Environ Eng 2005, 40:1307–1330.
+                                                                5. Vymazal J: Removal of nutrients in various types of constructed wetlands.
+predesigned excel spreadsheet.                                       Sci Total Environ 2007, 380:48–65.
+   All studies do not provide information on all parame-        6. Vymazal J, Kroepfelova L: Removal of nitrogen in constructed wetlands
+ters shown in Table 3. For instance, we do not expect                with horizontal sub-surface flow: a review. Wetlands 2009, 29:1114–1124.
+                                                                7. Hoffmann CC, Kjaergaard C, Uusi-Kamppa J, Hansen HCB, Kronvang B:
+that data on the fauna in the wetlands is reported very              Phosphorus retention in riparian buffers: review of their efficiency. J Environ
+frequently. It is however quite possible that the nutrient           Qual 2009, 38:1942–1955.
+cycling and retention are influenced by, e.g., benthic or-      8. Braskerud BC, Tonderski KS, Wedding B, Bakke R, Blankenberg AGB, Ulen B,
+                                                                     Koskiaho J: Can constructed wetlands reduce the diffuse phosphorus
+ganisms through bioturbation [24] or by birds [25,26],               loads to eutrophic water in cold temperate regions? J Environ Qual 2005,
+and if such data is provided it will be extracted.                   34:2145–2155.
+
+Land et al. Environmental Evidence 2013, 2:16                                                                                                     Page 8 of 8
+http://www.environmentalevidencejournal.org/content/2/1/16
+9.    Mitsch WJ, Zhang L, Stefanik KC, Nahlik AM, Anderson CJ, Bernal B, Hernandez M,
+      Song K: Creating wetlands: primary succession, water quality changes, and
+      self-design over 15 years. Bioscience 2012, 62:237–250.
+10.   Nixon SW, Ammerman JW, Atkinson LP, Berounsky VM, Billen G, Boicourt WC,
+      Boynton WR, Church TM, Ditoro DM, Elmgren R, et al: The fate of nitrogen
+      and phosphorus at the land sea margin of the North Atlantic Ocean.
+      Biogeochemistry 1996, 35:141–180.
+11.   Ryther JH, Dunstan WM: Nitrogen, phosphorus, and eutrophication in
+      coastal marine environment. Science 1971, 171:1008–1013.
+12.   Graneli E, Wallstrom K, Larsson U, Graneli W, Elmgren R: Nutrient limitation
+      of primary production in the Baltic Sea area. Ambio 1990, 19:142–151.
+13.   Conley DJ, Paerl HW, Howarth RW, Boesch DF, Seitzinger SP, Havens KE,
+      Lancelot C, Likens GE: Controlling eutrophication: nitrogen and
+      phosphorus. Science 2009, 323:1014–1015.
+14.   Schindler DW, Hecky RE, Findlay DL, Stainton MP, Parker BR, Paterson MJ,
+      Beaty KG, Lyng M, Kasian SEM: Eutrophication of lakes cannot be controlled
+      by reducing nitrogen input: results of a 37-year whole-ecosystem
+      experiment. Proc Natl Acad Sci USA 2008, 105:11254–11258.
+15.   Boesch D, Hecky R, O’Melia C, Schindler D, Seitzinger S: Eutrophication of
+      Swedish Seas. Stockholm: Swedish Environmental Protection Agency,
+      Report 5509; 2006.
+16.   Danielsson Å, Papush L, Rahm L: Alterations in nutrient limitations —
+      scenarios of a changing Baltic Sea. J Mar Syst 2008, 73:263–283.
+17.   Swedish Meteorological and Hydrological Institute. Swedish. [http://vattenwebb.
+      smhi.se/wetlands/]
+18.   Svensson JM, Strand J, Sahlén G, Weisner S: Utvärdering av våtmarker
+      anlagda inom lokala investeringsprogram och med LBU-stöd avseende
+      närsaltsretention och biologisk mångfald. In Rikare mångfald och mindre
+      kväve, Utvärdering av våtmarker skapade med stöd av lokala
+      investeringsprogram och landsbygdsutvecklingsstöd (in Swedish). Stockholm:
+      Naturvårdsverket, Rapport 5362; 2004.
+19.   Brandt M, Arheimer B, Gustavsson H, Pers C, Rosberg J, Sundström M,
+      Thorén AK: Uppföljning av effekten av anlagda våtmarker i jordbrukslandskap.
+      Belastning av kväve och fosfor (in Swedish). Stockholm: Naturvårdsverket,
+      Rapport 6309; 2009.
+20.   Weisner S, Thiere G: Mindre fosfor och kväve från jordbrukslandskapet (in Swedish).
+      Jönköping: Jordbruksverket, Rapport 2010; 2010:21.
+21.   Kottek M, Grieser J, Beck C, Rudolf B, Rubel F: World map of the Koppen-
+      Geiger climate classification updated. Meteorol Z 2006, 15:259–263.
+22.   Thiere G, Milenkovski S, Lindgren PE, Sahlen G, Berglund O, Weisner SEB:
+      Wetland creation in agricultural landscapes: biodiversity benefits on
+      local and regional scales. Biol Conserv 2009, 142:964–973.
+23.   Fisher J, Acreman MC: Wetland nutrient removal: a review of the
+      evidence. Hydrol Earth Syst Sci 2004, 8:673–685.
+24.   Mermillod-Blondin F, Lemoine D, Boisson JC, Malet E, Montuelle B: Relative
+      influences of submersed macrophytes and bioturbating fauna on
+      biogeochemical processes and microbial activities in freshwater
+      sediments. Freshw Biol 2008, 53:1969–1982.
+25.   Hahn S, Bauer S, Klaassen M: Quantification of allochthonous nutrient
+      input into freshwater bodies by herbivorous waterbirds. Freshw Biol 2008,
+      53:181–193.
+26.   Andersen DC, Sartoris JJ, Thullen JS, Reusch PG: The effects of bird use on
+      nutrient removal in a constructed wastewater-treatment wetland.
+      Wetlands 2003, 23:423–435.
+   doi:10.1186/2047-2382-2-16
+   Cite this article as: Land et al.: How effective are created or restored
+   freshwater wetlands for nitrogen and phosphorus removal? A
+   systematic review protocol. Environmental Evidence 2013 2:16.                          Submit your next manuscript to BioMed Central
+                                                                                          and take full advantage of:
+                                                                                          • Convenient online submission
+                                                                                          • Thorough peer review
+                                                                                          • No space constraints or color ﬁgure charges
+                                                                                          • Immediate publication on acceptance
+                                                                                          • Inclusion in PubMed, CAS, Scopus and Google Scholar
+                                                                                          • Research which is freely available for redistribution
+                                                                                          Submit your manuscript at
+                                                                                          www.biomedcentral.com/submit
+

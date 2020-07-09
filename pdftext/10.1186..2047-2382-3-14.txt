@@ -1,0 +1,846 @@
+Bilotta et al. Environmental Evidence 2014, 3:14
+http://www.environmentalevidencejournal.org/content/3/1/14
+  METHODOLOGY                                                                                                                                           Open Access
+Quality assessment tools for evidence from
+environmental science
+Gary S Bilotta1,2*, Alice M Milner2,3 and Ian L Boyd2,4
+  Abstract
+  Assessment of the quality of studies is a critical component of evidence syntheses such as systematic reviews (SRs)
+  that are used to inform policy decisions. To reduce the potential for reviewer bias, and to ensure that the findings
+  of SRs are transparent and reproducible, organisations such as the Cochrane Collaboration, the Campbell Collaboration,
+  and the Collaboration for Environmental Evidence, recommend the use of formal quality assessment tools as opposed to
+  informal expert judgment. However, there is a bewildering array of around 300 formal quality assessment tools that
+  have been identified in the literature, and it has been demonstrated that the use of different tools for the assessment
+  of the same studies can result in different estimates of quality, which can potentially reverse the conclusions of a SR. It
+  is therefore important to consider carefully, the choice of quality assessment tool. We argue that quality assessment
+  tools should: (1) have proven construct validity (i.e. the assessment criteria have demonstrable link with what they
+  purport to measure), (2) facilitate inter-reviewer agreement, (3) be applicable across study designs, and (4) be quick and
+  easy to use. Our aim was to examine current best practice for quality assessment in healthcare and investigate the
+  extent to which these best practices could be useful for assessing the quality of environmental science studies. The
+  feasibility of this transfer is demonstrated in a number of existing SRs on environmental topics. We propose that
+  environmental practitioners should revise, test and adopt the best practice quality assessment tools used in healthcare
+  as a recommended approach for application to environmental science. We provide pilot versions of quality assessment
+  tools, modified from the best practice tools used in healthcare, for application on studies from environmental science.
+  Keywords: Systematic review, Quality scale, Quality checklist, Bias, Internal validity, External validity, Evidence synthesis
+Background                                                                                  relevant and transferable the findings are to the particu-
+There are significant concerns about the low reproduci-                                     lar setting or population of policy interest. It is import-
+bility of scientific studies [1,2], and the limited effective-                              ant to assess these aspects of study quality separately, as
+ness of peer-review as a quality-control mechanism                                          each component has different implications on how the
+[3,4]. Assessment of the quality of scientific studies is                                   findings of a study should be interpreted.
+critical if they are to be used to inform policy decisions.                                    The first of these aspects of concern to policy-makers
+Quality is a complex concept and the term has been                                          is referred to as the internal validity of the study; it is a
+used in different ways; a project using the Delphi con-                                     measure of the extent to which a study is likely to be
+sensus method with experts in the field of quality assess-                                  free from bias. A bias is a systematic error resulting from
+ment of randomised controlled trials (RCTs) was unable                                      poor study design or issues associated with conduct in
+to generate a single definition of quality acceptable to all                                the collection, analysis, interpretation, and reporting of
+participants [5]. Nevertheless, from the point of view of                                   data [6]. Biases can operate in either direction, which if
+a policy-maker, the focus of assessing the quality of a                                     unaccounted for may ultimately affect the validity of the
+study from environmental science is to establish (i) how                                    conclusions from a study [7]. Biases can vary in magni-
+near the ‘truth’ its findings are likely to be, and (ii) how                                tude: some are small and trivial, and some are substan-
+                                                                                            tial such that an apparent finding may be entirely due to
+                                                                                            bias [7]. It is usually impossible to know the extent to
+* Correspondence: g.s.bilotta@brighton.ac.uk
+1
+ University of Brighton, Brighton BN2 4GJ, UK                                               which biases have affected the results of a particular
+2
+ Department for Environment, Food and Rural Affairs, London SW1P 3JR, UK                    study, although there is good empirical evidence that
+Full list of author information is available at the end of the article
+                                            © 2014 Bilotta et al.; licensee BioMed Central Ltd. This is an Open Access article distributed under the terms of the Creative
+                                            Commons Attribution License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and
+                                            reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain
+                                            Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article,
+                                            unless otherwise stated.
+
+Bilotta et al. Environmental Evidence 2014, 3:14                                                                  Page 2 of 14
+http://www.environmentalevidencejournal.org/content/3/1/14
+particular flaws in the design, conduct and analysis of      unsurprisingly given the diverse range of criteria in-
+studies lead to an increased likelihood of bias [8]. This    cluded within quality assessment tools, it has been em-
+empirical evidence can be used to support assessments        pirically demonstrated that the use of different quality
+of internal validity.                                        tools for the assessment of the same studies results in
+   The second of these aspects of concern to policy-         different estimates of quality, which can potentially re-
+makers is referred to as the external validity of the study. verse the conclusions of a SR and therefore potentially
+The assessment of a study’s external validity, depends       lead to misinformed policies [15-17]. For example, in the
+partly on the purpose for which the study is to be used,     healthcare field, a meta-analysis of 17 trials comparing
+and is less relevant without internal validity [7]. External the effectiveness of low-molecular-weight heparin (LMWH)
+validity is closely connected with the generalisability or   with standard heparin for prevention of post-operative
+applicability of a study’s findings. Its assessment often    thrombosis, trials that were identified as ‘high quality’ by
+considers the directness of the evidence (i.e. the level of  some of the 25 quality scales interrogated, indicated that
+similarity between the population/environment/ecosys-        LWMH was not superior to standard heparin, whereas tri-
+tem studied and the population/environment/ecosystem         als identified as ‘high quality’ by other scales led to the op-
+of policy interest, and the level of similarity between the  posite conclusions - that LMWH was beneficial [18].
+intervention/treatment conditions and the temporal and          It is therefore very important to consider carefully, the
+spatial scales of the study in relation to the situation of  choice of quality assessment tool to be used in SRs [19].
+policy interest), and the precision of the study (in this    At present, the CEE (2013) does not specify which qual-
+case imprecision refers to random error, meaning that        ity assessment tool to use in SRs on environmental
+multiple replications of the same study will produce dif-    topics. Authors of CEE SRs are permitted to use any
+ferent findings because of sampling variation) [7]. An-      quality assessment tool as a basis for their specific exer-
+other component of external validity is the statistical      cise, but they should either explain why they used them
+conclusion validity, i.e. the degree to which conclusions    as such (no modification, because not considered to be
+about the relationship among variables based on the data     needed, and why), or adapt them to their own review, in
+are correct or ‘reasonable’ [9]. Statistical conclusion val- which case the decisions made must be stated and justi-
+idity concerns the features of the study that control for    fied [20]. This stance on the use of quality assessment
+Type I errors (finding a difference or correlation when      tools may leave readers and users of their reviews to
+none exists) and Type II errors (finding no difference       question the reliability of review findings. We argue that
+when one exists). Such controls include the use of ad-       in order to satisfy their purpose, quality assessment tools
+equate sampling procedures, appropriate statistical tests,   should possess four features described in the Desirable
+and reliable measurement procedures.                         features of a quality assessment tool section.
+   Assessments of study quality can be made informally
+using expert judgement. However, experts in a particular     Desirable features of a quality assessment tool
+area frequently have pre-formed opinions that can bias       (I) The tool should have construct validity (i.e. the included
+their assessments [10-12]. In order to reduce the poten-     criteria measure what they purport to be measuring)
+tial for reviewer bias and to ensure that the findings of a  Some of the existing quality assessment tools have been
+SR are transparent and reproducible, organisations such      criticised for (i) the lack of rationale for the criteria used,
+as the Cochrane Collaboration (who prepare, maintain         (ii) inclusion of criteria that are unlikely, or not proven,
+and disseminate SRs on the effectiveness of healthcare       to be related to internal or external validity, and (iii) un-
+interventions), the Campbell Collaboration (who pre-         justified weighting for each of the criteria used [21,22].
+pare, maintain, and disseminate SRs on the effectiveness     Inclusion of non-relevant criteria in assessment tools
+of social and behavioural interventions in education, so-    can dilute or distort the relevant criteria resulting in as-
+cial welfare, and crime and justice), and the Collabor-      sessments that have minimal correlation with the aspects
+ation for Environmental Evidence (CEE - who prepare,         of study quality that matter to policy-makers (i.e. in-
+maintain and disseminate SRs on environmental inter-         ternal and external validity). Empirical evidence about
+ventions), recommend the use of formal quality assess-       the importance of study design features in reducing the
+ment tools, recognising that the merits of a formal          risk of bias has accumulated rapidly since the late 1990s
+approach outweigh the drawbacks.                             [8]. This evidence has mainly been obtained by a powerful
+   Around 300 formal study quality assessment tools          but simple technique of investigating variations in the re-
+have been identified in the literature [13]. These tools     sults of studies of the same intervention according to fea-
+are designed to provide a means of objectively assessing     tures of their study design [23]. The process involves first
+the overall quality of a study using itemised criteria, ei-  identifying substantial numbers of studies both with and
+ther qualitatively in the case of checklists or quantita-    without the design feature of interest. Results are then
+tively in the case of scales [14]. However, perhaps          compared between the studies fulfilling and not fulfilling
+
+Bilotta et al. Environmental Evidence 2014, 3:14                                                                  Page 3 of 14
+http://www.environmentalevidencejournal.org/content/3/1/14
+each design criterion, to obtain an estimate of the system-    commercial interests. A solution to this is to use a tool
+atic bias removed by the design feature.                       that is capable of assessing quality across different study
+   Assessment of the external validity of studies is more      design types. Downs and Black [26] argue that although
+likely to require situation-specific criteria; for example     different study design types have fundamental differ-
+the spatial and temporal scale of studies may be particu-      ences, common factors are measured: the intervention,
+larly important aspects to consider to determine the           potential confounders, and the outcome. Many study de-
+generalisability of environmental studies. Nevertheless,       signs test for an association between the intervention
+criteria should only be included if there is strong empir-     and the outcome and aim to minimise flaws in the de-
+ical evidence to support their implementation.                 sign that will bias the measurement of an association.
+                                                               The vulnerability of each design to different biases varies
+(II) The tool should facilitate good inter-reviewer agreement  but the kind of biases that the study designs seek to ex-
+The purpose of using a formal quality assessment tool,         clude are the same, and therefore it is possible for a
+as opposed to informal expert judgement, is to reduce          quality assessment tool to be applicable across study de-
+the potential for reviewer bias and to ensure that the as-     signs. It is important that any ‘universal’ quality assess-
+sessment is transparent and reproducible. It is therefore      ment tools have clear guidance to aid interpretation of
+essential that the tool used facilitates inter-reviewer        the criteria and to prevent erroneous classification when
+agreement (i.e. that assessments are reproducible using        applied to different study designs. Furthermore, it is use-
+different reviewers); otherwise there is little advantage      ful if aspects of the tool can be ‘switched off ’ if not rele-
+over an informal expert judgement system. Inter-reviewer       vant to a particular study design being evaluated.
+agreement should be tested across a range of studies dur-      Generic tools can be frustrating to use if they do not
+ing tool development, but also should be checked during        apply to the case in hand and they may suffer from
+the conduct of each SR to ensure that the reviewers are        lower inter-reviewer reliability if significant subjective in-
+interpreting the tool correctly with regards to their spe-     terpretation is required when applying generic criteria to
+cific review topic. Surprisingly, the inter-reviewer reliabil- specific cases.
+ity of tools is not always assessed when tools are
+developed. For example, of the 60 ‘top tools’ identified by    (IV) The tool should be quick and easy to use
+Deeks et al. [19], only 24 tools were tested for their inter-  It is common for SRs to cite a significant number of
+reviewer reliability during development. When inter-           studies. It is therefore important from a practical point
+reviewer agreement is tested, common statistical measures      of view, for any quality assessment tool that is designed
+include Kappa statistics (which adjust the proportion of       for use in SRs, to be quick and easy to use. The time
+records for which there was agreement, by the amount of        taken to make an assessment with a given tool depends
+agreement expected by chance alone), and/or correlation        on the number of criteria that the tool is comprised of,
+coefficients. The level of inter-reviewer agreement is influ-  and the degree of decision-making required to answer
+enced by the design of the quality assessment tool (clarity,   each criterion (dichotomous response or a more com-
+relevance to the study being assessed, and degree of sub-      plex written response). The number of criteria in the
+jectivity), but is also dependent on the experience of the     193 quality assessment tools reviewed by Deeks et al.
+reviewers; de Oliveira et al. [24] achieved higher agree-      [19], ranged from 3 to 162, with a median of 12. The
+ment for experienced reviewers, whereas Coleridge Smith        tools selected as the ‘top 60 tools’ or the ‘best 14 tools’
+[25] found higher agreement for two methodologists com-        according to the benchmarks laid out by Deeks et al.
+bined rather than clinicians alone or for a clinical/method-   [19], had a higher median number of criteria compared
+ologist pairing.                                               with the unselected tools, and took an average time to
+                                                               complete of between 5 to 30 minutes per assessment.
+(III) The tool should be applicable across study designs
+If reviewers can only assess one study design type (e.g.       Current best practice in healthcare
+RCTs) with a given tool, multiple tools will be required       The Cochrane Collaboration, who are internationally re-
+for any SR that includes multiple study design types.          nowned for their SRs in healthcare, have recently devel-
+The use of multiple tools increases the complexity of the      oped an approach to quality assessment that satisfies
+review process and complicates the interpretation of the       these four criteria. Until 2008, the Cochrane Collabor-
+findings of the SR for the readership, including policy-       ation used a variety of quality assessment tools, mainly
+makers. Furthermore, if authors are free to pick and           checklists in their SRs [27]. However, owing to know-
+choose which tool to use for a given study design, this        ledge of inconsistent assessments using different tools to
+opens up the process to reviewer bias whereby the re-          assess the same studies [18], and to growing criticisms
+viewer may select a tool which emphasises research or          of many of these tools [28], in 2005 the Cochrane Col-
+studies that meet their own opinions, prejudices or            laboration’s Methods Groups (including statisticians,
+
+Bilotta et al. Environmental Evidence 2014, 3:14                                                                Page 4 of 14
+http://www.environmentalevidencejournal.org/content/3/1/14
+epidemiologists, and review authors) embarked on devel-       but a suggested simple approach is that a low risk of bias
+oping a new evidence-based strategy for assessing the         classification is given to studies which have a low risk of
+quality of studies, focussing on internal validity [7]. The   bias for all key domains; a high risk of bias classification
+resultant product of this research was the Cochrane Col-      is given to studies which have a high risk of bias for one
+laboration’s Risk of Bias Tool (Risk of Bias Tool) [7]. The   or more key domains; and an unclear risk of bias classi-
+Risk of Bias Tool is used to make an assessment of in-        fication is given to studies which have an unclear risk of
+ternal validity, or risk of bias, of a study through consid-  bias for one or more key domains.
+eration of the following five key aspects (domains) of           The Risk of Bias Tool was published in February 2008
+study design that are empirically proven to control risk of   and was adopted as the recommended method through-
+bias. (1) randomization (minimises the risk of selection      out the Cochrane Collaboration. A three stage project to
+biasa) [29-31], (2) allocation concealment and (3) blinding   evaluate the tool was initiated in early 2009 [7]. This
+(minimises the risk of performance biasb and detection        evaluation project found that the 2008 version of the
+biasc due to participants’ or investigators’ expectations)    Risk of Bias Tool took longer to complete than previous
+[15,22,32-37], (4) follow-up (high follow-up of partici-      methods. Of 187 authors surveyed, 88% took longer than
+pants from enrolment to study completion minimises the        10 minutes to complete the new tool, 44% longer than
+risk of attrition biasd) [33,34], and (5) unselective report- 20 minutes, and 7% longer than an hour, but 83% con-
+ing of outcomes (minimises the risk of reporting biase)       sidered the time taken acceptable [7]. An independent
+[38,39]. The Risk of Bias Tool provides criteria, shown in    study (cross sectional analytical study on a sample of
+Additional file 1, to guide the assessment of each of these   163 full manuscripts of RCTs in child health), also found
+domains, classifying each domain as low, high or unclear      that the 2008 version of the Risk of Bias Tool took lon-
+risk of bias.                                                 ger to complete than some other quality assessment
+   Reviewers must provide support for judgment in the         tools (the investigators took a mean of 8.8 minutes per
+form of a succinct free text description or summary of        person for a single predetermined outcome using the
+the relevant trial characteristic on which assessments of     Risk of Bias tool compared with 1.5 minutes for a previ-
+risk of bias are based. This is designed to ensure trans-     ous rating scale for quality of reporting) [40]. The same
+parency in how assessments are reached. The Cochrane          study reported that inter-reviewer agreement on individ-
+Collaboration recommends that for each SR, judgments          ual domains of the Risk of Bias Tool ranged from slight
+must be made independently by at least two people, with       (κ = 0.13) to substantial (κ = 0.74), and that agreement
+any discrepancies resolved by discussion in the first in-     was generally poorer for those items that required more
+stance [7]. Some of the items in the tool, such as            judgment. An interesting finding from the Hartling
+methods for randomisation, require only a single assess-      et al. [40] study was that the overall risk of bias as
+ment for each trial included in the review. For other         assessed by the Risk of Bias Tool differentiated effect es-
+items, such as blinding and incomplete outcome data,          timates, with more conservative estimates for studies
+two or more assessments may be used because they gen-         assessed to be at low risk of bias compared to those at
+erally need to be made separately for different outcomes      high or unclear risk of bias. On the basis of the evalu-
+(or for the same outcome at different time points) [7].       ation project, the first (2008) version of the Risk of Bias
+The classification for each domain is presented for all       Tool was modified to produce a second (2011) version,
+studies in a manner shown in Additional file 2. To draw       which is the version shown in Additional file 1.
+conclusions about the overall risk of bias for an outcome        The Risk of Bias Tool enables reviewers to assess the
+it is necessary to summarise these domains. Any assess-       internal validity of primary studies. Internal validity is
+ment of the overall risk of bias involves consideration of    only one aspect of study quality that decision makers
+the relative importance of different domains. Review au-      should be interested in. In order to assess the overall
+thors will have to make assessments about which do-           quality of a body of evidence, the Cochrane Collabor-
+mains are most important in the current review [7]. For       ation use a system developed by the Grades of Recom-
+example, for highly subjective outcomes such as pain,         mendation, Assessment, Development and Evaluation
+authors may decide that blinding of participants (i.e.        (GRADE) Working Group [41-44]. This approach is now
+where information about the test that might lead to bias      used by the World Health Organisation (WHO) and the
+in the results is concealed from the participants) is crit-   UK National Institute for Health and Care Excellence
+ical. How such assessments are reached should be made         (NICE) amongst 20 other bodies internationally [7]. For
+explicit and they should be informed by consideration of      purposes of SRs, the GRADE approach describes four
+the empirical evidence relating each domain to bias, the      levels of quality. The highest quality rating is initially for
+likely direction of bias, and the likely magnitude of bias.   RCT evidence (see Table 1). Review authors can, however,
+The Cochrane Collaboration Handbook provides guid-            downgrade evidence to moderate, low, or even very low
+ance to support summary assessments of the risk of bias,      quality evidence, depending on the presence of the five
+
+Bilotta et al. Environmental Evidence 2014, 3:14                                                                                           Page 5 of 14
+http://www.environmentalevidencejournal.org/content/3/1/14
+Table 1 Classification of study designs
+Study design               Description
+Randomised Controlled      RCTs are studies in which study units are randomly allocated to intervention or control groups and followed up over time
+Trial (RCT)                to assess any differences in outcome rates. Randomisation with allocation concealment (double blinded) ensures that on
+                           average known and unknown determinants of outcome (including confounding factors) are evenly distributed between
+                           groups.
+Observational Study        Observational studies are studies in which natural variation in interventions (or exposure) among study units is investigated
+                           to explore the effect of the interventions (or exposure) on outcomes. These include designs such as:
+                           • Controlled before-and-after study: A follow-up study of study units that have received an intervention and those that
+                             have not, measuring the outcome variable both at baseline and after the intervention period, comparing either final
+                             values if the groups are comparable at baseline, or change in scores if they were not.
+                           • Concurrent cohort study: A follow-up study that compares outcomes between study units that have received an
+                             intervention and those that have not. Study units are studied during the same (concurrent) period either prospectively
+                             or, more commonly, retrospectively.
+                           • Historical cohort study: A variation on the traditional cohort study where the outcome from a new intervention is
+                             established for study units studied in one period and compared with those that did not receive the intervention in a
+                             previous period, i.e. study units are not studied concurrently.
+                           • Case–control study: Study units with and without a given outcome are identified (cases and controls respectively) and
+                             exposure to a given intervention(s) between the two groups compared.
+                           • Before-and-after study: Comparison of outcomes from study units before and after an intervention is introduced. The
+                             before and after measurements may be made in the same study units, or in different samples.
+                           • Cross-sectional study: Examination of the relationship between outcome and other variables of interest as they exist in
+                             a defined population at one particular time point.
+Case Study                 Case studies are studies which describe a number of cases of an intervention and outcome, with no comparison against
+                           a control group.
+factors described in detail in Schünemann et al. [45]: (1)                      limitations for each outcome included in a ‘Summary of
+risk of bias across studies, assessed using the Cochrane                        findings’ table. As can be seen from this table, a rating
+Collaboration’s Risk of Bias Tool, (2) directness of evi-                       of high quality evidence can be achieved only when most
+dence (i.e. the extent to which the study investigates a                        of the evidence comes from studies that met the criteria
+similar population, intervention, control, outcome), (3)                        for low risk of bias (as determined using the Risk of Bias
+heterogeneity in the findings, (4) precision of effect esti-                    Tool).
+mates, and (5) risk of publication bias (i.e. systematic dif-                     The developers of the GRADE approach caution
+ferences in the findings of published and unpublished                           against a completely mechanistic approach toward the
+studies). Usually, quality rating will fall by one level for                    application of the criteria for rating the overall quality of
+each factor, up to a maximum of three levels for all fac-                       the evidence up or down; arguing that although GRADE
+tors. If there are very severe problems for any one factor                      suggest the initial separate consideration of five categor-
+(e.g. when assessing limitations in design and implementa-                      ies of reasons for rating down the quality of evidence,
+tion, all studies were unconcealed, unblinded, and lost                         and three categories for rating up, with a yes/no decision
+over 50% of their participants to follow-up), evidence may                      regarding rating up or down in each case, the final rating
+fall by two levels due to that factor alone. Review authors                     of overall evidence quality occurs in a continuum of
+will generally grade evidence from sound observational                          confidence in the validity, precision, consistency, and ap-
+studies (see Table 1) as low quality. These studies can be                      plicability of the estimates. Fundamentally, the assess-
+upgraded to moderate or high quality if: (1) such studies                       ment of evidence quality is a subjective process and
+yield large effects and there is no obvious bias explaining                     GRADE should not be seen as obviating the need for or
+those effects, (2) all plausible confounding would reduce a                     minimising the importance of judgment or as suggesting
+demonstrated effect or suggest a spurious effect when re-                       that quality can be objectively determined. The use of
+sults show no effect, and/or (3) if there is evidence of a                      GRADE will not guarantee consistency in assessment.
+dose–response gradient. Guidance and justification for                          There will be cases in which competent reviewers will
+making these assessments is provided by Schünemann                              have honest and legitimate disagreement about the inter-
+et al. [45]. The very low quality level includes, but is not                    pretation of evidence. In such cases, the merit of
+limited to, studies with critical problems and unsystematic                     GRADE is that it provides a framework that guides re-
+observations (e.g. case series/reports - see Table 1).                          viewers through the critical components of the assess-
+   Additional file 3 presents the decisions that must be                        ment and an approach to analysis and communication
+made in going from assessments of the risk of bias                              that encourages transparency and an explicit accounting
+(using the Risk of Bias Tool) to assessments about study                        of the assessments. Testing of inter-reviewer agreement
+
+Bilotta et al. Environmental Evidence 2014, 3:14                                                                  Page 6 of 14
+http://www.environmentalevidencejournal.org/content/3/1/14
+between blinded reviewers using a pilot version of            known that an RCT (which under this system would be
+GRADE showed that there was a varied amount of                rated as the highest quality form of evidence) can suffer
+agreement on the quality of evidence for individual out-      from bias if it has poor randomisation, no allocation
+comes (kappa coefficients for agreement beyond chance         concealment, no blinding of participants or investigators,
+ranged from 0 to 0.82) [46,47]. Nevertheless, most of the     uneven reporting of outcomes, or high unexplained at-
+disagreements were easily resolved through discussion         trition. These features can make an RCT more prone to
+(GRADE assessments are conducted by at least two re-          bias than a well-designed observational study. This issue
+viewers who are blinded before agreeing assessments).         is explicitly recognised in the combined GRADE and
+In general, reviewers of the pilot version found the          Risk of Bias Tool approach used by the Cochrane Col-
+GRADE approach to be clear, understandable and sens-          laboration, but not explicitly recognised in the Pullin
+ible [46]. On the basis of the evaluation research, modifi-   and Knight [54] approach described above.
+cations were made to the GRADE approach to improve               There are a further ten environmental SRs [56-65],
+inter-reviewer agreement [46,47].                             that have used an approach to quality assessment that is
+                                                              similar to the current best practice in healthcare, albeit
+Applicability to environmental studies                        using the Pullin and Knight [54] hierarchy of evidence in
+The Cochrane Collaboration’s development of a single          combination with an assessment of some of the individ-
+recommended tool to assess internal validity of primary       ual aspects of study design that are empirically proven
+studies (Risk of Bias Tool), combined with the use of the     to be controls on selection bias, performance bias, detec-
+GRADE system to rate the overall quality of a body of         tion bias and attrition bias. Although these environmental
+evidence (considering factors affecting external validity),   versions of the Cochrane Collaboration’s current approach
+has promoted reproducible and transparent assessments         are: untested outside of each of the review teams, designed
+of quality across the Cochrane Collaboration’s SRs. The       to be review-specific, use an evidence hierarchy with the
+question is, can the same be done for quality assessment      limitations mentioned above, and make an assessment of
+of environmental studies?                                     overall quality for each study (rather than for the body of
+   Without significant trials it is difficult to know the ex- evidence overall for each outcome) - the general approach
+tent to which tools, such as the Risk of Bias Tool and        is very similar, demonstrating that it is feasible to capitalise
+the GRADE Tool, could be adopted and applied, use-            on the research and development that the healthcare field
+fully, across different types of environmental studies.       has completed on quality assessment.
+There are obvious similarities between healthcare studies        Nevertheless, some changes to the healthcare tools are
+and studies on animal and plant health that form part of      necessary. Table 2 (Environmental-Risk of Bias Tool)
+the environmental evidence-base, but for other topics in      provides an example of the criteria that could be used to
+environmental science, the similarities are perhaps less      guide the assessment of the internal validity of environ-
+immediately obvious. Nevertheless, there are precedents       mental studies. The original clinical terminology from
+set that demonstrate the potential transferability of tools   the Cochrane Collaboration’s Risk of Bias Tool has been
+from healthcare to a range of environmental studies. For      removed and replaced with scientific terminology where
+example:                                                      appropriate. We have also added definitions of all of the
+   There are six environmental SRs [48-53] that have          sources of bias, as subtitles in Table 2, to facilitate un-
+used a hierarchy of evidence approach which was devel-        derstanding by the environmental community.
+oped by Pullin and Knight [54], based on an adaptation           Table 3 (Environmental-GRADE Tool) provides an ex-
+of early hierarchical approaches used in healthcare. This     ample of the criteria that could be used to guide the as-
+approach is not too distant from the GRADE approach,          sessment of the external validity of environmental
+although the Pullin and Knight [54] evidence hierarchy        studies. We modified this from the original GRADE ap-
+includes expert opinion as a form of evidence (GRADE          proach so that the tool now provides an assessment of
+does not do this), and in terms of application, the assess-   the quality of individual studies rather than the overall
+ments with the Pullin and Knight [54] hierarchy are           body of evidence. This modification was deemed neces-
+made on individual studies, not the overall body of evi-      sary owing to the apparent higher diversity of study de-
+dence for each outcome (as is the case with GRADE).           signs used in environmental science, which could make
+The use of an evidence hierarchy alone is not well justi-     it difficult to acquire a meaningful summary of quality
+fied: using this approach assumes that a study design at      across studies. On the basis of this change in the
+a higher level in the hierarchy is methodologically super-    GRADE assessment, we argue that the consideration of
+ior to one at a lower level and that studies at the same      (i) heterogeneity of study findings and (ii) publication
+level are equivalent, but this ranking system is far too      bias, MUST be conducted separately during the SR
+simplistic given that there are many design characteris-      process. Reviewers are advised to consider the use of for-
+tics that can comprise a given study [55]. It is well         est plots and funnel plots to assess (i) heterogeneity of
+
+Bilotta et al. Environmental Evidence 2014, 3:14                                                                                              Page 7 of 14
+http://www.environmentalevidencejournal.org/content/3/1/14
+Table 2 Criteria for the assessment of internal validity of a study, using the Environmental-Risk of Bias Tool, adapted
+from the Cochrane Collaboration’s Risk of Bias Tool
+SELECTION BIAS DUE TO INADEQUATE RANDOMISATION
+Selection bias refers to systematic differences between baseline characteristics of the study units that are to be compared [66]. The likelihood of
+selection bias can be minimised through randomisation of treatments to study units and through allocation sequence concealment [66]. Proper
+randomisation requires that a rule for allocating treatments to study units must be specified based on some chance (random) process [66]. This is
+referred to as the sequence generation [66].
+Criteria for an assessment of The investigators describe a random component in the sequence generation process such as:
+‘Low risk’ of bias.
+                                 • Referring to a random number table;
+                                 • Using a computer random number generator;
+                                 • Coin tossing;
+                                 • Shuffling cards or envelopes;
+                                 • Throwing dice;
+                                 • Drawing of lots;
+                                 • Minimisation1
+Criteria for an assessment of The investigators describe a non-random component in the sequence generation process. Usually, the description
+‘High risk’ of bias.             would involve some systematic, non-random approach, for example:
+                                 • Sequence generated by odd or even date of birth of study units, or odd or even latitude of sites;
+                                 • Sequence generated by some rule based on site number or site code in a database;
+                                 Other non-random approaches involving judgement or some method of non-random allocation of study units, for example:
+                                 • Allocation by judgement of the investigator;
+                                 • Allocation based on the results of a laboratory test or a series of tests;
+                                 • Allocation by availability of the intervention.
+Criteria for an assessment of Insufficient information about the sequence generation process to permit assessment of ‘Low risk’ or ‘High risk’.
+‘Unclear risk’ of bias.
+SELECTION BIAS DUE TO INADEQUATE ALLOCATION CONCEALMENT
+Selection bias refers to systematic differences between baseline characteristics of the study units that are to be compared [66]. The likelihood of
+selection bias can be minimised through randomisation of treatments to study units and through allocation sequence concealment [66]. Proper
+allocation concealment involves taking steps to secure strict implementation of that schedule of random assignments by preventing foreknowledge
+(by study units and investigators) of the forthcoming allocations [66]. This process if often termed allocation concealment, although it could more
+accurately be described as allocation sequence concealment [66].
+Criteria for an assessment of Study units and investigators enrolling study units could not foresee allocations because one of the following, or an
+‘Low risk’ of bias.              equivalent method, was used to conceal allocation:
+                                 • Central allocation (including telephone, web-based and database controlled randomisation);
+                                 • Sequentially numbered treatment containers of identical appearance (e.g. test of effectiveness of different pesticides,
+                                   where different pesticides appear identical);
+Criteria for an assessment of Study units or investigators enrolling study units could possibly foresee allocations and thus introduce selection bias,
+‘High risk’ of bias.             such as allocation based on:
+                                 • Using an open random allocation schedule (e.g. a list of random numbers);
+                                 • Alternation or rotation;
+                                 • Date of birth of participants;
+                                 • Case record number/site code;
+                                 • Any other explicitly unconcealed procedure.
+Criteria for an assessment of Insufficient information to permit assessment of ‘Low risk’ or ‘High risk’. This is usually the case if the method of
+‘Unclear risk’ of bias.          concealment is not described or not described in sufficient detail to allow a definite assessment.
+PERFORMANCE BIAS
+Performance bias refers to systematic differences between groups in the care that is provided, or in exposure to factors other than the interventions
+of interest [66]. After enrolment into the study, blinding (or masking) of study units and personnel (assuming these are different to the investigators
+responsible for allocation of study units to study groups) may reduce the risk that knowledge of which intervention was received, rather than the
+intervention itself, affects outcomes [66]. Effective blinding can also ensure that the compared groups receive a similar amount of attention, ancillary
+treatment and diagnostic investigations [66].
+
+Bilotta et al. Environmental Evidence 2014, 3:14                                                                                               Page 8 of 14
+http://www.environmentalevidencejournal.org/content/3/1/14
+Table 2 Criteria for the assessment of internal validity of a study, using the Environmental-Risk of Bias Tool, adapted
+from the Cochrane Collaboration’s Risk of Bias Tool (Continued)
+Criteria for an assessment of Any one of the following:
+‘Low risk’ of bias.
+                                • No blinding or incomplete blinding, but the review authors judge that the outcome is not likely to be influenced by
+                                  lack of blinding;
+                                • Blinding of study units and key study personnel ensured, and unlikely that the blinding could have been broken.
+Criteria for an assessment of Any one of the following:
+‘High risk’ of bias.
+                                • No blinding or incomplete blinding, and the outcome is likely to be influenced by lack of blinding;
+                                • Blinding of key study units and personnel attempted, but likely that the blinding could have been broken, and the
+                                  outcome is likely to be influenced by lack of blinding.
+Criteria for an assessment of Any one of the following:
+‘Unclear risk’ of bias..
+                                • Insufficient information to permit assessment of ‘Low risk’ or ‘High risk’;
+                                The study did not address this outcome
+DETECTION BIAS
+Detection bias refers to systematic differences between groups in how outcomes are determined [66]. Blinding of outcome assessors may reduce the
+risk that knowledge of which intervention was received, rather than the intervention itself, affects outcome measurement [66]. Blinding of outcome
+assessors can be especially important for assessment of subjective outcomes [66].
+Criteria for an assessment of Any one of the following:
+‘Low risk’ of bias.
+                                • No blinding of outcome assessment, but the review authors judge that the outcome measurement is not likely to be
+                                  influenced by lack of blinding;
+                                • Blinding of outcome assessment ensured, and unlikely that the blinding could have been broken.
+Criteria for an assessment of Any one of the following:
+‘High risk’ of bias.
+                                • No blinding of outcome assessment, and the outcome measurement is likely to be influenced by lack of blinding;
+                                • Blinding of outcome assessment, but likely that the blinding could have been broken, and the outcome
+                                  measurement is likely to be influenced by lack of blinding.
+Criteria for an assessment of Any one of the following:
+‘Unclear risk’ of bias.
+                                • Insufficient information to permit assessment of ‘Low risk’ or ‘High risk’;
+                                The study did not address this outcome.
+ATTRITION BIAS DUE TO INCOMPLETE OUTCOME DATA
+Attrition bias refers to systematic differences between groups in withdrawals from a study [66]. Withdrawals from the study lead to incomplete
+outcome data [66]. There are two reasons for withdrawals or incomplete outcome data in clinical trials [66]. Exclusions refer to situations in which
+some study units are omitted from reports of analyses, despite outcome data being available to the trialists [66]. Attrition refers to situations in which
+outcome data are not available [66].
+Criteria for an assessment of Any one of the following:
+‘Low risk’ of bias.
+                                • No missing outcome data;
+                                • Reasons for missing outcome data unlikely to be related to true outcome (for survival data, censoring unlikely to be
+                                  introducing bias);
+                                • Missing outcome data balanced in numbers across intervention groups, with similar reasons for missing data across groups;
+                                • For dichotomous outcome data, the proportion of missing outcomes compared with observed event risk not enough
+                                  to have a relevant impact on the intervention effect estimate;
+                                • For continuous outcome data, plausible effect size (difference in means or standardized difference in means) among
+                                  missing outcomes not enough to have a relevant impact on observed effect size;
+                                • Missing data have been imputed using appropriate methods.
+Criteria for an assessment of Any one of the following:
+‘High risk’ of bias.
+                                • Reason for missing outcome data likely to be related to true outcome, with either imbalance in numbers or reasons
+                                  for missing data across intervention groups;
+                                • For dichotomous outcome data, the proportion of missing outcomes compared with observed event risk enough to
+                                  induce relevant bias in intervention effect estimate;
+                                • For continuous outcome data, plausible effect size (difference in means or standardized difference in means) among
+                                  missing outcomes enough to induce relevant bias in observed effect size;
+                                • ‘As-treated’ analysis done with substantial departure of the intervention received from that assigned at randomization;
+                                • Potentially inappropriate application of simple imputation.
+
+Bilotta et al. Environmental Evidence 2014, 3:14                                                                                                        Page 9 of 14
+http://www.environmentalevidencejournal.org/content/3/1/14
+Table 2 Criteria for the assessment of internal validity of a study, using the Environmental-Risk of Bias Tool, adapted
+from the Cochrane Collaboration’s Risk of Bias Tool (Continued)
+Criteria for an assessment of Any one of the following:
+‘Unclear risk’ of bias.
+                                  • Insufficient reporting of attrition/exclusions to permit assessment of ‘Low risk’ or ‘High risk’ (e.g. number randomized
+                                    not stated, no reasons for missing data provided);
+                                  The study did not address this outcome.
+REPORTING BIAS DUE TO SELECTIVE REPORTING
+Reporting bias refers to systematic differences between reported and unreported findings [66]. Within a published report those analyses with
+statistically significant differences between treatment groups are more likely to be reported than non-significant differences [66]. This sort of ‘within-
+study publication bias’ is usually known as outcome reporting bias or selective reporting bias, and may be one of the most substantial biases affect-
+ing results from individual studies [67].
+Criteria for an assessment of Any of the following:
+‘Low risk’ of bias.
+                                  • The study protocol is available and all of the study’s pre-specified (primary and secondary) outcomes that are of
+                                    interest in the review have been reported in the pre-specified way;
+                                  • The study protocol is not available but it is clear that the published reports include all expected outcomes, including
+                                    those that were pre-specified (convincing text of this nature may be uncommon).
+Criteria for an assessment of Any one of the following:
+‘High risk’ of bias.
+                                  • Not all of the study’s pre-specified primary outcomes have been reported;
+                                  • One or more primary outcomes is reported using measurements, analysis methods or subsets of the data (e.g.
+                                    subscales) that were not pre-specified;
+                                  • One or more reported primary outcomes were not pre-specified (unless clear justification for their reporting is
+                                    provided, such as an unexpected adverse effect);
+                                  • One or more outcomes of interest in the review are reported incompletely so that they cannot be entered in a
+                                    meta-analysis;
+                                  • The study report fails to include results for a key outcome that would be expected to have been reported for such a
+                                    study.
+Criteria for an assessment of Insufficient information to permit assessment of ‘Low risk’ or ‘High risk’. It is likely that the majority of studies will fall
+‘Unclear risk’ of bias.           into this category.
+OTHER BIAS
+In addition there are other sources of bias that are relevant only in certain circumstances [66]. These relate mainly to particular study designs (e.g.
+carry-over in cross-over trials and recruitment bias in cluster-randomized trials); some can be found across a broad spectrum of trials, but only for
+specific circumstances (e.g. contamination, whereby the experimental and control interventions get ‘mixed’); and there may be sources of bias that
+are only found in a particular setting [66].
+Criteria for an assessment of The study appears to be free of other sources of bias.
+‘Low risk’ of bias.
+Criteria for an assessment of There is at least one important risk of bias. For example, the study:
+‘High risk’ of bias.
+                                  • Had a potential source of bias related to the specific study design used; or
+                                  • Has been claimed to have been fraudulent; or
+                                  • Had some other problem.
+Criteria for an assessment of There may be a risk of bias, but there is either:
+‘Unclear risk’ of bias.
+                                  • Insufficient information to assess whether an important risk of bias exists; or
+                                  • Insufficient rationale or evidence that an identified problem will introduce bias.
+1
+ Minimisation is a method that seeks to limit any difference in the distribution of known or suspected determinants of outcome, so that any effect can be
+attributed to the treatment under test [68]. The investigators determine at the outset which factors they would like to see equally represented in the study groups
+[68]. The treatment allocation is then made, not purely by chance, but by determining in which group inclusion of the patient would minimise any differences in
+these factors [68]. The allocation may rely on minimisation alone, or still involve chance but “with the dice loaded” in favour of the allocation which minimises the
+differences [68].
+study findings and (ii) publication bias, respectively. The                            of Bias and Environmental-GRADE tools should aid
+Cochrane Collaboration’s current Review Manager soft-                                  reviewers in their interpretation of heterogeneity of study
+ware (available free-of-charge from: http://tech.cochrane.                             findings and publication bias, but not vice-versa.
+org/revman/download), can create these plots relatively                                   As illustrated in Table 3, the highest quality rating is
+easily if the appropriate data are available. The assessment                           initially for RCT evidence. Review authors can, however,
+of study quality through use of the Environmental-Risk                                 downgrade RCT evidence to moderate, low, or even very
+
+Bilotta et al. Environmental Evidence 2014, 3:14                                                                                   Page 10 of 14
+http://www.environmentalevidencejournal.org/content/3/1/14
+Table 3 Criteria for assessing the overall quality of an environmental study, using the Environmental-GRADE Tool,
+adapted from the GRADE approach used by the Cochrane Collaboration (Balshem et al. [69]; Schünemann et al. [45];
+Guyatt et al. [70])
+Underlying methodology                              Quality     Interpretation
+                                                    rating
+RCT; or double-upgraded observational study.        High        We are very confident that the true effect estimate lies close to that of the
+                                                                estimate of the effect.
+Downgraded RCT; or upgraded observational study.    Moderate    We are moderately confident in the effect estimate: The true effect is likely to
+                                                                be close to the estimate of the effect, but there is a possibility that it is
+                                                                substantially different.
+Double-downgraded RCT; or observational study.      Low         Our confidence in the effect estimate is limited: The true effect may be
+                                                                substantially different from the estimate of the effect.
+Triple-downgraded RCT; or downgraded observational  Very low    We have very little confidence in the effect estimate: The true effect is likely
+study; or case study.                                           to be substantially different from the estimate of effect.
+low quality evidence, depending on the presence of the               produce different effect estimates because of sampling
+three factors discussed below:                                       variation. When studies have small sample sizes (consid-
+                                                                     ering the amount of group variability and the reliability
+(I) The risk of bias within the study                                of the outcome measures) the risk of imprecision in-
+This is assessed using the Environmental-Risk of Bias Tool,          creases. In these circumstances reviewers can lower their
+criteria to guide this assessment are provided in Table 2.           rating of the quality of the evidence. In order for re-
+For making summary assessments of risk of bias for each              viewers to make this assessment, they will need informa-
+study, the low risk of bias classification is given to studies       tion about the uncertainties associated with the study
+that have low risk of bias for all key domains; the high risk        design, including the precision of sampling and mea-
+of bias classification is given to studies that have a high risk     surements. Related to this is the statistical conclusion
+of bias for one or more key domains; the unclear risk of             validity, which as described in Background section of this
+bias is given to studies in which the risk of bias is uncertain      paper, is the degree to which conclusions about the rela-
+for one or more key domains. The principle of considering            tionship among variables based on the data are correct or
+risk of bias for observational studies is exactly the same as        ‘reasonable’. Statistical conclusion validity concerns the
+for RCTs. However, potential biases are likely to be greater         features of the study that control for Type I and Type II
+for observational studies. Review authors need to consider           errors. Such controls include the use of adequate sampling
+(a) the weaknesses of the designs that have been used (such          procedures, appropriate statistical tests, and reliable meas-
+as noting their potential to ascertain causality), (b) the exe-      urement procedures. The most common sources of
+cution of the studies through a careful assessment of their          threats to statistical conclusion validity are low statistical
+risk of bias, especially (c) the potential for selection bias        power, violated assumptions of the test statisticsf, fishing
+and confounding to which all non-randomised studies are              and the error rate problemg, unreliability of measuresh,
+susceptible and (d) the potential for reporting biases, in-          and restriction of rangei. There are recognised statistical
+cluding selective reporting of outcomes.                             methods to test for common causes of violated assump-
+                                                                     tions of test statistics (e.g. normal distribution tests). If the
+(II) The directness of the study                                     study does not report the results of these statistical
+The directness of the study refers to the extent to which            checks, it would be beneficial to try and obtain the statis-
+the study: investigates a similar species, population, com-          tical test results from the original authors. Reviewers
+munity, habitat or ecosystem as that of policy interest;             should make assessments transparent when they believe
+investigates a similar application of the intervention/treat-        downgrading is justified based on the precision of effect
+ment as that of policy interest; investigates the phe-               estimates. These assessments should be supported with
+nomenon at a similar spatial scale as that of policy interest;       significant empirical evidence and guided through con-
+investigates the phenomenon at a similar temporal scale as           sultation with a statistical expert.
+that of policy interest. Reviewers should make assessments              Usually, quality rating will fall by one level for each fac-
+transparent when they believe downgrading is justified               tor, up to a maximum of three levels for all factors. If there
+based on directness of evidence. These assessments should            are very severe problems for any one factor (e.g. when
+be supported with significant empirical evidence.                    assessing limitations in design and implementation, all
+                                                                     studies were unconcealed, unblinded, and lost over 50% of
+(III) The precision of effect estimates                              their study units to follow-up), RCT evidence may fall by
+In this case imprecision refers to random error, meaning             two levels due to that factor alone. Reviewers will gener-
+that multiple replications of the same study would                   ally grade evidence from sound observational studies as
+
+Bilotta et al. Environmental Evidence 2014, 3:14                                                                              Page 11 of 14
+http://www.environmentalevidencejournal.org/content/3/1/14
+low quality. These studies can be upgraded to moderate       agreement could be enhanced. This ‘learning by doing’ ap-
+or high quality if (1) such studies yield large effects and  plication of the pilot versions of these quality assessment
+there is no obvious bias explaining those effects, (2) all   tools is exactly how the Cochrane Collaboration and the
+plausible confounding factors would reduce a demon-          GRADE Working Group refined their respective tools.
+strated effect or suggest a spurious effect when results     The Cochrane Collaboration and GRADE Working Group
+show no effect, and/or (3) if there is evidence of a dose–   continue to refine their quality assessment tools as more
+response gradient. Reviewers should make assessments         evidence comes forward that supports this. The environ-
+transparent when they believe upgrading is justified based   mental community should capitalise on this ongoing
+on these factors. These assessments should be supported      methodological research and development, harmonising
+with empirical evidence where available to the reviewers;    its tools where appropriate. At the same time, there is a
+this can be sourced both from evidence presented in the      need to build capacity in methodological expertise within
+study, or presented in other studies. The very low quality   the environmental field. Finally, the environmental science
+level includes, but is not limited to, studies with critical community and research funding organisations should use
+problems and unsystematic observations (e.g. case studies).  the criteria contained within the Environmental-Risk of
+                                                             Bias Tool and Environmental-GRADE Tool to enhance
+Conclusions                                                  the quality of funded studies in the future.
+This article examined the current best practices for qual-
+ity assessment in healthcare (Cochrane Collaboration’s       Endnotes
+Risk of Bias Tool and the GRADE system) and investi-            a
+                                                                  Systematic differences between baseline characteris-
+gated the extent to which these practices/tools could be     tics of the groups that are to be compared.
+useful for assessing the quality of environmental science.      b
+                                                                  Systematic differences between groups in the care that is
+We highlighted that the feasibility of this transfer has     provided, or in exposure to factors other than the interven-
+been demonstrated in a number of existing SRs on en-         tions of interest due to lack of blinding of investigators.
+vironmental topics. It is therefore not difficult to im-        c
+                                                                  Systematic differences between groups in how out-
+agine that the Cochrane Collaboration’s Risk of Bias         comes are determined.
+Tool and the GRADE system could be adapted and ap-              d
+                                                                  Systematic differences between groups in withdrawals
+plied routinely, as a preferred method, as part of the       from a study/loss of samples.
+quality assessment of environmental science studies             e
+                                                                  Systematic differences between reported and unre-
+cited in CEE SRs. We propose a pilot version of the          ported findings.
+Environmental-Risk of Bias Tool and the Environmental-          f
+                                                                  Most statistical tests involve assumptions about the
+GRADE Tool for this purpose, and we provide worked ex-       data that make the analysis suitable for testing a hypoth-
+amples in Additional files 4, 5 and 6.                       esis. Violating the assumptions of statistical tests can
+   Some of the terminology used in the original Risk of      lead to incorrect inferences about the cause-effect rela-
+Bias Tool has been changed from clinical terms to envir-     tionship. Violations of assumptions may make tests
+onmental science terms. Definitions of all of the sources    more or less likely to make Type I or II errors.
+of bias have been added as subtitles to the Risk of Bias        g
+                                                                  Each hypothesis test involves a set risk of a Type I
+assessment criteria. The original GRADE Tool has been        error. If a researcher searches or "fishes" through their
+modified more substantially so that the Environmental-       data, testing many different hypotheses to find a signifi-
+GRADE Tool now provides an assessment of the quality         cant effect, they inflate their Type I error rate.
+of individual studies rather than the overall body of evi-      h
+                                                                  If the dependent and/or independent variables are not
+dence. This modification was deemed necessary because        measured reliably, incorrect conclusions can be drawn.
+of the higher diversity of study designs used in environ-       i
+                                                                  Restriction of range, such as floor and ceiling effects,
+mental science, which could make it difficult to acquire     reduce the power of the experiment, and increase the
+a meaningful summary of quality across studies. On the       chance of a Type II error, because correlations are weak-
+basis of this change in assessment, we argue that the        ened by superficially reduced variability.
+consideration of: (i) heterogeneity of study findings, and
+(ii) publication bias, MUST be conducted during the evi-
+dence synthesis and meta-analysis stages of the SR           Additional files
+process.
+                                                               Additional file 1: Criteria for judging the risk of bias in a study
+   We suggest that once used in a number of environmen-        using the Cochrane Collaboration’s ‘Risk of bias’ assessment tool
+tal SRs, it will be possible to conduct an evaluation of the   (2011 version). Source Higgins et al. [66].
+Environmental-Risk of Bias Tool and Environmental-             Additional file 2: Example of a ‘Risk of bias summary’ figure,
+GRADE Tool to understand how ease of use, applicability        presenting all of the judgements in a cross-tabulation of study by entry.
+                                                               Plus signs and the green colour represent a low risk of bias; minus signs and
+across study designs, and degree of inter-reviewer
+
+Bilotta et al. Environmental Evidence 2014, 3:14                                                                                                    Page 12 of 14
+http://www.environmentalevidencejournal.org/content/3/1/14
+  the red colour represent a high risk of bias; question marks and the yellow   References
+  colour represent an unclear risk of bias. Source: Higgins et al. [66].        1. Begley CG, Ellis LM: Drug development: raise standards for preclinical
+                                                                                    cancer research. Nature 2012, 483(7391):531–533.
+  Additional file 3: Further guidelines for a GRADE assessment:                 2. Prinz F, Schlange T, Asadullah K: Believe it or not: how much can we rely
+  Going from assessments of risk of bias to judgements about study                  on published data on potential drug targets? Nat Rev Drug Discov 2011,
+  limitations for main outcomes. Source: Schünemann et al. [45].                    10(9):712–712.
+  Additional file 4: Worked example of quality assessment, using                3. Bohannan J: Who's afraid of peer review? Science 2013, 342:60–65.
+  Environmental-Risk of Bias and Environmental-GRADE, on a study                4. Godlee F, Gale CR, Martyn CN: Effect on the quality of peer review of
+  by Browne et al. (2000) [71].                                                     blinding reviewers and asking them to sign their reports: a randomized
+  Additional file 5: Worked example of quality assessment, using                    controlled trial. Jama 1998, 280(3):237–240.
+  Environmental-Risk of Bias and Environmental-GRADE, on a study                5. Verhagen AP, de Vet HC, de Bie RA, Kessels AG, Boers M, Bouter LM,
+  by Peach et al. (2001) [72].                                                      Knipschild PG: The Delphi list: a criteria list for quality assessment of
+                                                                                    randomized clinical trials for conducting systematic reviews developed
+  Additional file 6: Worked example of quality assessment, using                    by Delphi consensus. J Clin Epidemiol 1998, 51(12):1235–1241.
+  Environmental-Risk of Bias and Environmental-GRADE, on a study
+                                                                                6. Centre for Reviews and Dissemination: Systematic reviews: CRD’s guidance
+  by Bradbury et al. (2004) [73].
+                                                                                    for undertaking reviews on health care. 2009, http://www.york.ac.uk/inst/
+                                                                                    crd/pdf/Systematic_Reviews.pdf.
+                                                                                7. Higgins JP, Altman DG, Gøtzsche PC, Jüni P, Moher D, Oxman AD, Sterne JA:
+Competing interests                                                                 The Cochrane Collaboration’s tool for assessing risk of bias in randomised
+The authors declare that they have no competing interests.                          trials. Br Med J 2011, 343:d5928.
+                                                                                8. Gluud LL: Bias in clinical intervention research. Am J Epidemiol 2006,
+                                                                                    163(6):493–501.
+Authors’ contribution                                                           9. Cozby PC: Methods in behavioural research. 10th edition. Boston: McGraw-Hill
+GB led the research for this article and drafted the manuscript in discussion       Higher Education; 2009.
+with AM and IB, who provided comments throughout the writing process.           10. Burgman MA, McBride M, Ashton R, Speirs-Bridge A, Flander L, Wintle B,
+All authors read and approved the final manuscript.                                 Fidler F, Rumpff L, Twardy C: Expert status and performance. PLoS One 2011,
+                                                                                    6(7):e22998.
+                                                                                11. Cooper H, Ribble RG: Influences on the outcome of literature searches for
+Authors’ information
+                                                                                    integrative research reviews. Knowledge 1989, 10:179–201.
+Dr. Gary Bilotta: Dr. Bilotta is currently a Senior Lecturer in Physical
+                                                                                12. Oxman AD, Guyatt GH: The science of reviewing research. Ann N Y Acad
+Geography at the University of Brighton. His research links the disciplines of
+                                                                                    Sci 1993, 703:125–133.
+hydrology, geomorphology, biogeochemistry and freshwater ecology. He
+                                                                                13. Wells K, Littell JH: Study quality assessment in systematic reviews of
+has particular expertise in developing water quality monitoring and
+                                                                                    research on intervention effects. Res Soc Work Pract 2009, 19(1):52–62.
+assessment tools for international water resource legislation. At the time of
+                                                                                14. Moher D, Jadad AR, Tugwell P: Assessing the quality of randomized
+writing this article Dr Bilotta was seconded to the UK Department for
+                                                                                    controlled trials. Current issues and future directions. Int J Technol Assess
+Environment, Food and Rural Affairs (Defra), as part of the Natural Environment
+                                                                                    Health Care 1996, 12:195–208.
+Research Council (NERC) Knowledge Exchange Scheme. The aim of this
+                                                                                15. Moher D, Pham B, Jones A, Cook DJ, Jadad AR: Does quality of reports of
+secondment was to drive improvements in the policy evidence-base and its
+                                                                                    randomised trials affect estimates of intervention efficacy reported in
+use.
+                                                                                    meta-analyses? Lancet 1998, 352:609–613.
+Dr. Alice Milner: Dr. Milner is currently a Research Associate at University
+College London specialising in climatic and environmental change on a           16. Colle F, Rannou F, Revel M, Fermanian J, Poiraudeau S: Impact of quality
+range of time scales, past, present and future. Her research is focussed on         scales on levels of evidence inferred from a systematic review of
+understanding how ecosystem respond to abrupt climate changes during                exercise therapy and low back pain. Arch Phys Med Rehabil 2002,
+previous warm intervals, using terrestrial and marine sediments as natural          83(12):1745–1752.
+archives of environmental change. At the time of writing, Dr. Milner was        17. Herbison P, Hay-Smith J, Gillespie WJ: Adjustment of meta-analyses on the
+seconded to the UK Defra as part of the NERC Knowledge Exchange Scheme              basis of quality scores should be abandoned. J Clin Epidemiol 2006,
+to improve the use and management of evidence in policy.                            59(12):1249–1256.
+Prof. Ian Boyd: Professor Boyd is currently a Professor in Biology at the       18. Juni P, Witschi A, Bloch R, Egger M: The hazards of scoring the quality of
+University of St Andrews and Chief Scientific Adviser to the UK Defra. His          clinical trials for meta-analysis. J Am Med Assoc 1999, 282(11):1054–1060. 1999.
+career has evolved from physiological ecologist with the NERC’s Institute of    19. Deeks JJ, Dinnes J, D’amico R, Sowden AJ, Sakarovitch C, Song F, Petticrew M,
+Terrestrial Ecology, to a Science Programme Director with the British               Altman DJ: Evaluating non-randomised intervention studies. Health Technol
+Antarctic Survey, Director at the NERC’s Sea Mammal Research Unit, Chief            Assess 2003, 7(27):1–179.
+Scientist to the Behavioural Response Study for the US-Navy, Director for the   20. Collaboration for Environmental Evidence: Guidelines for systematic
+Scottish Oceans Institute and acting Director and Chairman with the Marine          review and evidence synthesis in environmental management. Version
+Alliance for Science and Technology for Scotland. In parallel to his formal         4.2. 2013, www.environmentalevidence.org/Documents/Guidelines/
+positions he has chaired, co-chaired or directed international scientific           Guidelines4.2.pdf.
+assessments; his activities focusing upon the management of human impacts       21. Moher D, Jadad AR, Nichol G, Penman M, Tugwell P, Walsh S: Assessing the
+on the marine environment.                                                          quality of randomized controlled trials: an annotated bibliography of
+                                                                                    scales and checklists. Control Clinical Trials 1995, 16:62–73.
+                                                                                22. Jüni P, Altman DG, Egger M: Systematic reviews in health care: assessing
+Acknowledgements                                                                    the quality of controlled clinical trials. Br Med J 2001, 323:42.
+This work arises from Natural Environment Research Council funding (Grant       23. Sterne JAC, Jüni P, Schulz KF, Altman DG, Bartlett C, Egger M: Statistical
+NE/L00836X/1) in collaboration with the United Kingdom’s Department for             methods for assessing the influence of study characteristics on
+Environment, Food and Rural Affairs.                                                treatment effects in ‘meta-epidemiological’ research. Stat Med 2002,
+                                                                                    21:1513–1524.
+Author details                                                                  24. de Oliveira IR, Dardennes RM, Amorim ES, Diquet B, de Sena EP, Moreira EC:
+1
+ University of Brighton, Brighton BN2 4GJ, UK. 2Department for Environment,         Is there a relationship between antipsychotic blood levels and their
+Food and Rural Affairs, London SW1P 3JR, UK. 3University College London,            clinical efficacy? An analysis of studies design and methodology.
+London WC1E 6BT, UK. 4University of St Andrews, Fife KY16 9AJ, UK.                  Fundam Clin Pharmacol 1995, 9:488–502.
+                                                                                25. Coleridge-Smith P: The management of chronic venous disorders of
+Received: 8 April 2014 Accepted: 1 July 2014                                        the leg: an evidence-based report of an International Task Force.
+Published: 1 September 2014                                                         Phlebology 1999, 14:3–19.
+
+Bilotta et al. Environmental Evidence 2014, 3:14                                                                                                         Page 13 of 14
+http://www.environmentalevidencejournal.org/content/3/1/14
+26. Downs SH, Black N: The feasibility of creating a checklist for the assessment  46. Atkins D, Best D, Briss PA, Eccles M, Falck Ytter Y, Flottorp S, Guyatt GH,
+     of the methodological quality both of randomised and non-randomised               Harbour RT, Haugh MC, Henry D, Hill S, Jaeschke R, Leng G, Liberati A,
+     studies of health care interventions. J Epidemiol Commun Health 1998,             Magrini N, Mason J, Middleton P, Mrukowicz J, O'Connell D, Oxman AD,
+     52:377–384.                                                                       Phillips B, Schunemann HJ, Edejer TT, Varonen H, Vist GE, Williams JW Jr,
+27. Lundh A, Gøtzsche PC: Recommendations by Cochrane Review Groups                    Zaza S: Grade Working Group: Grading quality of evidence and strength
+     for assessment of the risk of bias in studies. BMC Med Res Methodol 2008,         of recommendations. Br Med J 2004, 328(7454):1490.
+     8(1):22.                                                                      47. Atkins D, Briss PA, Eccles M, Flottorp S, Guyatt GH, Harbour RT, Hill S, Jaeschke R,
+28. Greenland S, O’Rourke K: On the bias produced by quality scores in                 Liberati A, Magrini N, Mason J, O'Connell D, Oxman AD, Phillips B, Schunemann HJ,
+     meta-analysis, and a hierarchical view of proposed solutions.                     Edejer TT, Vist GE, Williams JW: GRADE Working Group: Systems for grading
+     Biostat 2001, 2:463–471.                                                          the quality of evidence and the strength of recommendations II: Pilot study
+29. Kunz R, Vist G, Oxman AD: Randomisation to protect against selection               of a new system. BMC Health Serv Res 2005, 5:25.
+     bias in healthcare trials. In The Cochrane Library, issue 4. Chichester: John 48. Stewart GB, Coles CF, Pullin AS: Does burning degrade blanket bog.
+     Wiley and Sons Ltd; 2002. http://www.cochrane.org/reviews/clibintro.htm.          Systematic Review 2004, 1:1–29.
+30. Ioannidis JP, Haidich AB, Pappa M, Pantazis N, Styliani I, Kokori MG,          49. Roberts PD, Pullin AS: Effectiveness of the control of ragwort (Senecio)
+     Tektonidou DG, Contopoulos-Ioannnidi DG, Lau J: Comparison of evidence            species: Are currently recommended herbicides effective for control of
+     of treatment effects in randomized and nonrandomized studies.                     ragwort (Senecio) species? CEE review 2004, 04–003. www.environmental
+     JAMA 2001, 286:821–830.                                                           evidence.org/SR5a.html.
+31. Als-Nielsen B, Gluud L, Gluud C: Methodological quality and treatment effects  50. Felton A, Knight E, Wood J, Zammit C, Lindenmayer D: Do tree plantations
+     in randomised trials - a review of six empirical studies. Ottawa, Ontario,        support higher species richness and abundance than pasture lands?
+     Canada: Canadian Cochrane Network and Centre, University of Ottawa;               CEE Review 2010, 09–012. www.environmentalevidence.org/SR73.html.
+     2004. http://www.cochrane.org.                                                51. McDonald MA, McLaren KP, Newton AC: What are the mechanisms of
+32. Devereaux PJ, Manns BJ, Ghali WA, Quan H, Lacchetti C, Montori VM,                 regeneration post-disturbance in tropical dry forest? CEE Review 2010,
+     Bhandari M, Guyatt GH: Physician interpretations and textbook definitions         07–013. www.environmentalevidence.org/SR37.html.
+     of blinding terminology in randomized controlled trials. J Am Med             52. Stacey CJ, Springer AE, Stevens LE: Have spring restoration projects in the
+     Assoc 2001, 285(15):2000–2003.                                                    southwestern United States been effective in restoring hydrology,
+33. Schulz KF, Chalmers I, Hayes RJ, Altman DG: Empirical evidence of bias.            geomporphology, and invertebrates and plant species composition
+     Dimensions of methodological quality associated with estimates of                 comparable to natural springs with minimal anthropogenic disturbance?
+     treatment effects in controlled trials. J Am Med Assoc 1995, 273:408–412.         CEE Review 2011, 10–002. www.environmentalevidence.org/SR87.html.
+34. Kjaergard LL, Villumsen J, Gluud C: Reported methodological quality and        53. Humbert J-Y, Pellet J, Buri P, Arlettaz R: Does delaying the first mowing
+     discrepancies between large and small randomized trials in meta-                  date increase biodiversity in European farmland meadows? CEE Review
+     analyses. Ann Intern Med 2001, 135:982–989.                                       2012, 09–011. www.environmentalevidence.org/SR72.html.
+35. Balk EM, Bonis PA, Moskowitz H, Schmid CH, Ioannidis JPA, Wang C, Lau J:       54. Pullin AS, Knight TM: Support for decision making in conservation
+     Correlation of quality measures with estimates of treatment effect in             practice: an evidence-based approach. J Nat Conserv 2003,
+     metaanalyses of randomized controlled trials. J Am Med Assoc 2002,                11:83–90.
+     287(22):2973–2982.                                                            55. Hannan EL: Randomized clinical trials and observational studies:
+36. Als-Nielsen B, Chen W, Gluud L, Siersma V, Hilden J, Gluud C: Are trial size       Guidelines for assessing respective strengths and limitations. J Am Coll
+     and reported methodological quality associated with treatment effects?            Cardiol Intv 2008, 1:211–217.
+     Observational study of 523 randomised trials. Ottawa, Canada: 12th            56. Stewart GB, Coles CF, Pullin AS: Does burning of UK sub-montane, dry
+     International Cochrane Colloquium; 2004.                                          dwarf-shrub heath maintain vegetation diversity? CEE Review 2004,
+37. Wood L, Egger M, Gluud LL, Schulz KF, Juni P, Altman DG, Gluud C, Martin RM,       03–002. www.environmentalevidence.org/SR2.html.
+     Wood AJG, Sterne JAC: Empirical evidence of bias in treatment effect          57. Stewart GB, Pullin AS, Coles CF: Effects of wind turbines on bird abundance.
+     estimates in controlled trials with different interventions and                   CEE Review 2005, 04–002. www.environmentalevidence.org/SR4.html.
+     outcomes: meta-epidemiological study. Br Med J 2008, 336:601–605.             58. Stewart GB, Tyler C, Pullin AS: Effectiveness of current methods for the
+38. Easterbrook PJ, Gopalan R, Berlin JA, Matthews DR: Publication bias in             control of bracken (Pteridium aquilinum). CEE Review 2005, 04-001.
+     clinical research. Lancet 1991, 337(8746):867–872.                                www.environmentalevidence.org/SR3.html.
+39. Chan AW, Hróbjartsson A, Haahr MT, Gøtzsche PC, Altman DG: Empirical           59. Tyler C, Pullin AS: Do commonly used interventions effectively control
+     evidence for selective reporting of outcomes in randomized trials:                Rhododendron ponticum? CEE Review 2005, 04–005. www.
+     comparison of protocols to published articles. J Am Med Assoc 2004,               environmentalevidence.org/SR6.html.
+     291(20):2457–2465.                                                            60. Tyler C, Clark E, Pullin AS: Do management interventions effectively
+40. Hartling L, Ospina M, Liang Y, Dryden DM, Hooton N, Seida JK, Klassen TP:          reduce or eradicate populations of the American Mink, Mustela vison?
+     Risk of bias versus quality assessment of randomised controlled trials:           CEE review 2005, 04–006. www.environmentalevidence.org/SR7.html.
+     cross sectional study. Br Med J 2009, 339:b4012.                              61. Roberts PD, Pullin AS: Effectiveness of the control of ragwort (Senecio)
+41. GRADE Working Group: Grading quality of evidence and strength of                   species: Can biological control by the use of natural enemies effectively
+     recommendations. Br Med J 2004, 328:1490–1494.                                    control Senecio jacobaea (common ragwort)? CEE Review 2005, 04–004.
+42. Schünemann HJ, Jaeschke R, Cook DJ, Bria WF, El-Solh AA, Ernst A, Fahy BF,         www.environmentalevidence.org/SR5b.html.
+     Gould MK, Horan KL, Krishnan JA, Manthous CA, Maurer JR, McNicholas WT,       62. Roberts PD, Pullin AS: The effectiveness of management options used
+     Oxman AD, Rubenfeld G, Turino GM, Guyatt G: An official ATS statement:            for the control of Spartina species. CEE Review 2006, 06–001.
+     grading the quality of evidence and strength of recommendations in                www.environmentalevidence.org/SR22.html.
+     ATS guidelines and recommendations. Am J Respir Crit Care Med 2006,           63. Roberts PD, Pullin AS: The effectiveness of land-based schemes (incl.
+     174:605–614.                                                                      agri-environment) at conserving farmland bird densities within the UK.
+43. Guyatt G, Gutterman D, Baumann MH, Addrizzo-Harris D, Hylek EM, Phillips B,        CEE Review 2007, 05–005. www.environmentalevidence.org/SR11.html.
+     Raskob G, Lewis SZ, Schünemann HJ: Grading strength of recommendations        64. Kabat TJ, Stewart GB, Pullin AS: Are Japanese knotweed (Fallopia japonica)
+     and quality of evidence in clinical guidelines: report from an American           control and eradication interventions effective? CEE Review 2006, 05–015.
+     College of Chest Physicians Task Force. Chest 2006, 129:174–181.                  www.environmentalevidence.org/SR21.html.
+44. Guyatt G, Vist G, Falck-Ytter Y, Kunz R, Magrini N, Schünemann HJ: An emerging 65. Ramstead KM, Allen JA, Springer AE: Have wet meadow restoration
+     consensus on grading recommendations? ACP J Club 2006, 144:A8–A9.                 projects in the Southwestern U.S. been effective in restoring hydrology,
+45. Schünemann HJ, Oxman AD, Vist GE, Higgins JPT, Deeks JJ, Glasziou P,               geomorphology, soils, and plant species composition to conditions
+     Guyatt GH: Chapter 12: Interpreting results and drawing conclusions. In           comparable to wet meadows with minimal human-induced disturbance?
+     Cochrane Handbook for Systematic Reviews of Interventions Version 5.1.0           CEE Review 2012, 09–014. www.environmentalevidence.org/SR75.html.
+     (updated March 2011). Edited by Higgins JPT, Green S. 2011. www.cochrane-     66. Higgins JPT, Altman DG, Sterne JAC: Assessing risk of bias in included
+     handbook.org.                                                                     studies. In Chapter 8: Cochrane Handbook for Systematic Reviews of
+
+Bilotta et al. Environmental Evidence 2014, 3:14                                                                                            Page 14 of 14
+http://www.environmentalevidencejournal.org/content/3/1/14
+     Interventions Version 5.1.0 (updated March 2011). Edited by Higgins JPT,
+     Green S.: The Cochrane Collaboration; 2011. www.cochrane-handbook.org.
+67.  Chan AW, Altman DG: Identifying outcome reporting bias in randomised
+     trials on PubMed: review of publications and survey of authors. Br Med J
+     2005, 330(7494):753.
+68.  Treasure T, MacCrae KD: Minimisation: the platinum standard for trials?
+     Randomisation doesn’t guarantee similarity of groups; minimisation
+     does. Br Med J 1998, 317(7155):362–363.
+69.  Balshem H, Helfand M, Schünemann HJ, Oxman AD, Kunz R, Kunz R, Brozek J,
+     Vist GE, Falck-Ytter Y, Meerpohl J, Norrisi S, Guyatt GH: GRADE guidelines: 3.
+     Rating the quality of evidence. J Clin Epidemiol 2011, 64(4):401–406.
+70.  Guyatt GH, Oxman AD, Vist GE, Kunz R, Falck-Ytter Y, Alonso-Coello P,
+     Schünemann HJ: GRADE: an emerging consensus on rating quality of
+     evidence and strength of recommendations. Br Med J 2008, 336:924–926.
+71.  Browne S, Vickery J, Chamberlain D: Densities and population estimates of
+     breeding Skylarks Alauda arvensis in Britain in 1997. Bird Study 2000,
+     47:52–65.
+72.  Peach WJ, Lovett LJ, Wotton SR, Jeffs C: Countryside stewardship delivers
+     cirl buntings (Emberiza cirlus) in Devon, UK. Biological Conservation 2001,
+     101:361–373.
+73.  Bradbury RB, Browne SJ, Stevens DK, Aebischer NJ: Five-year evaluation of
+     the impact of the Arable Stewardship Pilot Scheme on birds. Ibis 2004,
+     146:171–180.
+  doi:10.1186/2047-2382-3-14
+  Cite this article as: Bilotta et al.: Quality assessment tools for evidence
+  from environmental science. Environmental Evidence 2014 3:14.
+                                                                                    Submit your next manuscript to BioMed Central
+                                                                                    and take full advantage of:
+                                                                                    • Convenient online submission
+                                                                                    • Thorough peer review
+                                                                                    • No space constraints or color ﬁgure charges
+                                                                                    • Immediate publication on acceptance
+                                                                                    • Inclusion in PubMed, CAS, Scopus and Google Scholar
+                                                                                    • Research which is freely available for redistribution
+                                                                                    Submit your manuscript at
+                                                                                    www.biomedcentral.com/submit
+

@@ -1,0 +1,690 @@
+Laverick et al. Environ Evid (2018) 7:15
+https://doi.org/10.1186/s13750-018-0127-1                                                                             Environmental Evidence
+  SYSTEMATIC REVIEW                                                                                                                                     Open Access
+To what extent do mesophotic coral
+ecosystems and shallow reefs share species
+of conservation interest? A systematic review
+Jack H. Laverick1,2* , Shanice Piango3, Dominic A. Andradi‑Brown1,2,11 , Dan A. Exton2, Pim Bongaerts4,
+Tom C. L. Bridge5,6, Michael P. Lesser7, Richard L. Pyle8, Marc Slattery9, Daniel Wagner10 and Alex D. Rogers1
+  Abstract
+  Background: Globally, shallow-water coral reef biodiversity is at risk from a variety of threats, some of which may
+  attenuate with depth. Mesophotic coral ecosystems (MCEs), occurring from 30 to 40 m and deeper in tropical loca‑
+  tions, have been subject to a surge of research this century. Though a number of valuable narrative reviews exist, a
+  systematic quantitative synthesis of published MCE studies is lacking. We conducted a systematic review to collate
+  mesophotic research, including studies from the twentieth century to the present. We highlight current biases in
+  research effort, regarding locations and subject matter, and suggest where more attention may be particularly valu‑
+  able. Following a notable number of studies considering the potential for mesophotic reefs to act as refuges, it is
+  important to know how comprehensive these sources of recruits and organisms capable of moving to shallow water
+  reefs may be.
+  Methods: We search seven sources of bibliographic data with two search strings, as well as personal libraries. Articles
+  were included if they contained species presence data from both shallower and deeper than 30 m depth on tropi‑
+  cal coral reefs. Studies were critically appraised based on the number of species identified and balanced sampling
+  effort with depth. Maximum and minimum depths per species were extracted from each study, along with study
+  region and taxon. We quantified the degree of community overlap between shallow tropical reefs (< 30 m) and reefs
+  surveyed at the same locations below 30 m. Proportions of shallow species, across all studied taxa, observed deeper
+  than 30 m were used to generate log odds ratios and passed to a mixed-effects model. Study location and taxon were
+  included as effect modifiers. Funnel plots, regression tests, fail safe numbers, and analysis of a high validity subgroup
+  contributed to sensitivity analyses and tests of bias.
+  Results: Across all studies synthesised we found two-thirds of shallow species were present on mesophotic reefs.
+  Further analysis by taxon and broad locations show that this pattern is influenced geographically and taxonomically.
+  Community overlap was estimated as low as 26% and as high as 97% for some cases.
+  Conclusions: There is clear support for the hypothesis that protecting mesophotic reefs will also help to conserve
+  shallow water species. At the same time, it is important to note that this study does not address mesophotic-specialist
+  communities, or the ecological forces which would permit refuge dynamics. As we limit our analysis to species only
+  present above 30 m it is also possible diversity found exclusively deeper than 30 m warrants protection in its own
+  right. Further research into relatively ignored taxa and geographic regions will help improve the design of protected
+  areas in future.
+  Keywords: Depth, Community structure, Biodiversity, Coral reefs, Twilight zone, Refuge
+*Correspondence: jacklaverick@ymail.com
+1
+  Department of Zoology, University of Oxford, The Tinbergen Building,
+South Parks Road, Oxford OX1 3PS, UK
+Full list of author information is available at the end of the article
+                                              © The Author(s) 2018. This article is distributed under the terms of the Creative Commons Attribution 4.0 International License
+                                              (http://creat​iveco​mmons​.org/licen​ses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium,
+                                              provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license,
+                                              and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creat​iveco​mmons​.org/
+                                              publi​cdoma​in/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+
+Laverick et al. Environ Evid (2018) 7:15                                                                         Page 2 of 13
+Background                                                  reefs across all taxa. We determine the proportion of
+Mesophotic coral ecosystems (MCEs) occur between 30         shallow species which are present on MCEs, while high-
+and 40 m at their shallowest in tropical and sub-tropi-     lighting the variation which can be ascribed to the study
+cal regions [1] and can be found deeper than 150 m [2].     location and focus taxon. If species present below 30 m
+MCEs are considered understudied in comparison to           are protected from impact, then the higher the propor-
+shallow reefs [3], likely because of difficulties of access tion of overlap the more effectively the conservation and
+[4], yet when accounted for they may greatly increase       management of MCEs will protect shallow water species.
+global reef area [5]. MCEs may be protected from com-       We collate the research field [29], depositing a bibliogra-
+monly cited threats in comparison to shallow reefs [6–      phy of all identified MCE research online (www.mesop​
+9], and additionally may provide recruits to aid shallow    hotic​.org) to ensure wide and easy accessibility for future
+reef recovery [10, 11]. The amount of research published    studies.
+on mesophotic reefs is increasing [12] as technology
+advances and research groups grow [13].                     Stakeholder engagement
+  Research efforts are attempting to increase awareness     Invited discussion with our advisory committee gener-
+regarding MCEs, while calling for their conservation        ated our research question [29], which aims to quantify
+[14]. Protecting MCEs is often justified by the hypoth-     shallow water taxa present on MCEs that may contrib-
+esised existence of deep reef refuges [13] as shallow reefs ute to refuge dynamics. The need for this information,
+continue to suffer damage [15]. In areas where there is a   and the raising of awareness in management circles, was
+substantial degree of community overlap between shal-       expressed in a recent United Nations Environment Pro-
+low reefs and MCEs, species may persist locally on MCEs     gramme report [13]. The stakeholders on our advisory
+despite extirpation in the shallows [16, 17]. If these deep committee are researchers active in the mesophotic filed,
+populations are reproductively active [18] then shallow     from a geographical spread of universities and research
+reefs may be able to recover through vertical connectivity  institutions. Committee members are listed as authors
+[10, 19].                                                   following further involvement in generating the screen-
+  Some studies have found that MCEs support high lev-       ing criteria, assisting with full-text retrieval, and com-
+els of endemism [20], offering alternative justification    menting on this manuscript.
+for protecting MCEs as they may harbour distinct geo-
+graphical communities. Similarly, some researchers now      Objective of the review
+argue MCEs could be identified by their own depth-spe-      Primary question
+cific ecological communities [21, 22]. These studies bring  To what extent do mesophotic coral ecosystems and shal-
+into question the general degree of community overlap       low reefs share species of conservation interest?
+between MCEs and shallow reefs [8] as currently defined        This can be broken into the following structure:
+by a 30–40 m depth limit based on SCUBA regulations.
+Understanding how many shallow reef species may be          Subject           Exposure     Comparator      Outcome
+protected on reefs at depths greater than 30 m will aid     (Population)
+the future decisions of conservation managers [23].         Tropical and      Reefs deeper Reefs shallower Species presence
+  Narrative reviews of the MCE literature have been con-      subtropical      than 30 m    than 30 m        or absence
+ducted a number of times [2, 13, 24–28], highlighting         coral reefs (an
+                                                              ecosystem of
+older studies and changes of key terms used to describe       conservation
+MCEs historically [1, 29]. Narrative reviews, however,        concern)
+may be subject to subconscious biases in article selection
+[30]. It is also difficult to ensure older studies, without    Secondary questions consider effect modifiers:
+keywords relating to depth ranges which fit in the mod-        Does the extent of community overlap vary by region
+ern framework, are re-discovered. Recently the bibliog-     or between broad taxonomic groups?
+raphies of a number of key reviews, publications from
+an online MCE database (www.mesop​hotic​.org), and          Methods
+broader databases were systematically collated to show      A protocol paper for this systematic review details the
+the state of the field [12]. However, existing reviews have search strings used, databases searched, and the screen-
+stopped short of quantitatively synthesising the results of ing process amongst other information [29]. Here, we
+past studies.                                               reiterate our methods while detailing deviations from
+  As shallow reefs globally are increasingly threatened     the protocol. The final sets of screening criteria used
+[15], we conduct a meta-analysis quantifying the extent     are reported along with the statistical analysis selected
+of community overlap between shallow and mesophotic         as suitable after the retrieval of studies. We report our
+
+Laverick et al. Environ Evid (2018) 7:15                                                                         Page 3 of 13
+review following the reporting standards for systematic      provided by the reviewers of this manuscript. Literature
+evidence syntheses in environmental research (ROSES)         searches were conducted in the period from 19/04/2015
+[31].                                                        to 28/02/2017.
+Deviations from the protocol
+JSTOR (all years) was not searched as a database, despite    Article screening and study inclusion criteria
+being detailed in our protocol. This was because an          Before screening based on exclusion criteria occurred
+information request was declined as a result of the high     in the software EPPI Reviewer 4 [35], duplicate entries
+volume of enquiries. Journal articles were still retrieved   resulting from the use of multiple databases were
+from JSTOR through a Google Scholar search.                  removed. We set EPPI Reviewer to automatically mark
+   Articles were categorised by type as part of a support-   as duplicates full bibliographic entries with 95% similar-
+ing narrative synthesis. We generated a word cloud based     ity. This level of similarity generally corresponded to the
+on term frequencies from included titles and abstracts,      identical entries with differing capitalisation, or entries
+in consultation with the advisory committee. The five,       with one database field left blank in comparison to the
+objectively derived, tags were: ecology, disturbance,        master entry. Other possible duplicates were checked
+trophic interactions, symbionts, and reproduction. Tags      manually. When retrieving full-text articles for detailed
+were assigned manually while screening on outcome            screening not all were readily available. The lead author
+at abstract level. Our full text screening for the primary   was contacted for any manuscripts the screening team
+review question, and quantitative synthesis, use studies     could not find available online. A final list of full texts not
+tagged as ecology.                                           retrieved after two attempts at contact with the authors
+   Method of data collection was not extracted, despite      was circulated to the advisory committee. If full texts
+being identified in the protocol paper [29], as many arti-   were not present in personal libraries after these checks
+cles used a mixture of different survey methods for shal-    the articles were excluded. The screening was conducted
+low and deep sampling. AIC are not compared between          by authors who had no publications in the list screened,
+models fitted to the full dataset and the high validity sub- preventing bias in the inclusion of data.
+group as the metric is affected by sample size.                 The original screening and validity appraisal criteria
+                                                             were reviewed to reconcile disagreements during Kappa
+Search strategy                                              analysis, at each level of screening, between the two
+We use two search strings to balance capturing relevant      reviewers. 1000 articles were coded by both reviewers at
+literature against articles captured after name changes      title and abstract level, 50 full texts were coded by both
+in the field over time, as detailed in our protocol [29].    reviewers. Any differently assigned articles were dis-
+“Mesophotic” from 01/01/2010 to 31/12/2016, and              cussed. The final criteria were as follows:
+“Mesophotic OR “Deep reef ” OR ((Submersibl* OR Sub-            Title and abstract criteria:
+marine* OR “Deep water” OR Trimix) AND (biolog* OR
+Reef* OR Cora* OR Spong* OR Alga* OR Fish*))” from              1. Relevant subject: Extant Tropical and Subtropical
+the start of the source to 31/12/2009. The scoping exer-           coral reefs (exclude Mediterranean and palaeobio-
+cise and search string development are reported in the             logical studies).
+protocol paper. The final search strings were successful in     2. Relevant exposure: Sampling at depths greater than
+retrieving 87% of our test library.                                30 m.
+   We conducted our literature search in ISI Web of Sci-        3. Relevant outcome: Ecological data such as richness,
+ence, Science Direct, Proquest, AGRICOLA and Sco-                  biodiversity, species lists and abundance. (Other
+pus in English, with a full list of databases presented in         study types were tallied for discussion of the broader
+our protocol [29]. We downloaded all bibliographic data            field, but omitted from the primary review question).
+from mesophotic.org at the end of 2016 and used Google
+Scholar for a complimentary search, capable of capturing        Full text criteria:
+grey literature [32]. The Google Scholar search was con-
+ducted using web-scraping software in R [33]. A detailed        1. Relevant subject: Mention of reefs containing pho-
+methodology can be found in Additional file 1, based on            tosynthetic stony (scleractinian) corals (exclude non-
+work by Haddaway et al. [34], retrieving up to the first           biology studies i.e. geology).
+1000 entries. Following our literature search the personal      2. Relevant study design: Observational or experimen-
+libraries (Private collection of manuscripts) of authors           tal.
+and advisory committee members were checked for                 3. Relevant exposure: Sampling at depths greater than
+missed publications. Additional publications were also             30 m.
+
+Laverick et al. Environ Evid (2018) 7:15                                                                        Page 4 of 13
+  4. Relevant comparator: Ecological data from shallow       Data extraction
+      reefs above 30 m.                                      Maximum and minimum depths for each species
+  5. Relevant outcome: Any of the following data are         reported in an article were extracted manually. A subset
+      reported: taxon richness, taxon abundance, taxon       of 12 articles were checked for consistency of data extrac-
+      biomass and biodiversity indices along with a meas-    tion by a second reviewer. Discussion of these extractions
+      ure of variability and number of replicates.           produced the following clarifications. Depth ranges for
+                                                             adults and juveniles of a species were combined into a
+                                                             single depth range. For the purposes of defining multiple
+Critical appraisal                                           studies within an article, locations were considered differ-
+External validity considers the generalisability, and        ent when across multiple countries, when provided. Aus-
+the fairness of comparison between different stud-           tralia and the USA were exceptions because of their size,
+ies. Internal validity considers the risk of bias within a   here we took into account the seas around Australia, and
+specific study. A number of methods exist to critically      the islands/coastlines sampled of the USA. The review
+assess these concepts, but most are developed with ran-      was conducted by authors who had no publications in
+domised control trials in mind, or at least observational    the list screened at full text, preventing bias in the inclu-
+studies with a level of randomisation in allocation and      sion of data. Data were restricted to species occurring on
+blinding rarely found outside of the medical sciences        tropical and sub-tropical reefs when multiple habitats
+[36].                                                        were studied in a single article, such as mangroves and
+  We have no reason to believe the observation of            reefs. If these data were not available, the correspond-
+a species depth range from one article is any more           ing author was contacted. Contact was attempted twice
+important than that from another [29]. By including          before asking members of the advisory committee to try
+geographical area and taxon as effect modifiers, we          a third time with any researchers they knew personally.
+have controlled for the primary confounding sources          Failure to respond to these contact attempts led to exclu-
+of variability when comparing studies. We therefore          sion of the data set from the analysis (Additional file 2).
+consider the spatial scales of different studies are the     A list of all articles contributing data to the final meta-
+primary remaining threat to external validity. A key         analysis can be found in Additional file 2 [37–68], a list of
+based on a whole ocean region is likely to find a greater    the studies resulting from these articles can be found in
+depth range for a given species than a study at a specific   Additional file 3.
+location, because the key is likely based on data from a
+broader range of abiotic conditions.                         Potential effect modifiers/reasons for heterogeneity
+  With respect to internal validity, our primary con-        The location and broad taxonomic group were extracted
+cern with mesophotic research is that sampling effort        from articles as effect modifiers, following consultation
+may decline with increasing depth. This can lead to an       with the advisory committee [29], as different regions
+underestimate of the number of species present deeper        may have different transition depths and taxa may
+than 30 m as rarer species are found in shallow water,       respond differently to depth.
+but are missed at depth. Similarly, studies report-
+ing only a small number of species may provide a less
+reliable estimate of community level overlap. This is        Data synthesis
+because the importance of a single species depth range       After reviewing the retrieved articles, a meta-analysis
+is elevated, when community overlap is calculated as a       for the primary review question was deemed appro-
+proportion. Our critical appraisal is therefore based on     priate. The list of observed depth ranges was limited to
+the following criteria:                                      species observed shallower than 30 m. Of these species,
+  Validity appraisal criteria:                               the proportion also present deeper than 30 m was calcu-
+                                                             lated, grouped by article, site, and taxon. Log odds ratios
+  1. More than 10 species are identified within a taxon.     were calculated in R [69] in the package metafoR [70]
+  2. The study is not a regional taxonomic key.              and passed to a mixed-effects model. A maximum-like-
+  3. Even sampling effort is reported across depths.         lihood estimator with Knapp and Hartung adjustments
+                                                             [71] was used with location and taxon as effect modifiers.
+  Studies passing all these criteria were included in a high Likelihood-ratio tests assessed the statistical significance
+validity sub-group for sensitivity analysis. We choose to    of model elements and determined whether to retain an
+limit our high validity group to studies with more than      interaction term.
+ten species to avoid undue influence of single species          Our sensitivity analysis and tests for bias follow our
+over community level overlap values.                         protocol [29], and were as follows. Funnel plots were
+
+Laverick et al. Environ Evid (2018) 7:15                                                                                        Page 5 of 13
+used to identify potential outliers [72], and a regression
+test for asymmetry assessed the chance of publication
+bias affecting the dataset [72]. As a sensitivity analysis,
+Rosenthal’s fail-safe number [73] was calculated for the
+model to determine how many studies, averaging to null
+results, are required to lose statistical significance. To
+check sensitivity further, the analysis was repeated on a
+subset of high validity studies and the effects compared
+to a full model.
+  The broader research field was summarised using
+the bibliographic data from papers retained at full text
+level. Articles by year, categorisation, geographical area,
+and the mesophotic depth limit used were counted and
+plotted.
+Results
+Review descriptive statistics
+Our methods retrieved almost 170,000 articles, with
+3011 screened at full text (Fig. 1). Kappa analysis was
+used for consistency checking and refining of the inclu-
+sion criteria by two reviewers for 1000/122,305 at title
+and abstract level and 50/311 at full text level. A list of all
+ecology articles screened at full text level, with decisions,     Fig. 1 Screening report. The number of articles (n) assigned to each
+can be found in Additional file 4. The following summary          screening criteria is reported. Black boxes are articles removed from
+and figures of the systematic review, as opposed to the           consideration. Orange boxes contain articles included for the next
+meta-analysis, are created from the data extracted from           level of screening. Note that a single article could be excluded for
+                                                                  multiple reasons i.e. not reporting data shallower than 30 m and not
+all articles; not excluded on outcome at the abstract level
+                                                                  containing the right type of data. Short and long string refer to the
+and verified as mesophotic at full text level. This brief dis-    two search strings defined in our protocol paper. Our five tags were
+cussion provides context of the wider field of mesophotic         assigned to articles while screening by outcome at abstract level. At
+research, before we address the primary review question           data extraction multiple studies (s), data from combinations of taxa
+with a meta-analysis. The bibliographic data for these 461        and locations, were reported in some articles. A list of studies can be
+                                                                  found in Additional file 3
+articles were deposited with mesophotic.org.
+  There was a notable acceleration in the number of
+articles per year as we entered the twenty first century
+(Fig. 2a). Publication levels were relatively stable dur-       exist claiming the upper bound is 20 m or even as deep
+ing the twentieth century with only 1 year yielding more        as 60 m.
+than 10 papers. The earliest article we identified was from        Mesophotic reefs in the western Atlantic, Caribbean,
+1960.                                                           and Gulf of Mexico, are the focus of most published
+  After more than half a century of research, the meso-         studies, followed by those on archipelagos in the Pacific
+photic field is still largely descriptive and focussed on       (Fig. 2d). Australian reefs represent another hot spot of
+pattern. This is supported by the majority of studies being     activity, but are nonetheless not as well studied. The Red
+assigned an ecology tag during our screening process            Sea has provided a relatively large number of articles for
+(Fig. 2b). The next most common tag was assigned six            its area, while the Indian Ocean has been comparatively
+times less frequently and indicates articles considering        understudied.
+disturbance or damage on mesophotic reefs. Other com-
+mon MCE study types refer to trophic interactions, sym-         Data‑synthesis
+bioses, and reproduction.                                       Across the whole dataset, the median proportion of shal-
+  This exercise was used as an opportunity to see how           low species also present below 30 m is 0.67. The meta-
+researchers define mesophotic reefs. 27% of articles            analysis was performed on articles assigned as Eco at
+include a depth limit in their introductions. The over-         abstract level screening, and subsequently passed full-
+whelming majority of papers providing a definition state        text level screening, as well as two further publications
+MCEs start at 30 m depth (89%), however, some papers            provided as titles at the review stage. Of these 81 + 2
+
+Laverick et al. Environ Evid (2018) 7:15                                                                                                     Page 6 of 13
+  Fig. 2 Literature base summary. A graphical summary of mesophotic research since 1960. a The number of articles published in a given year. b The
+  number of articles identified as considering ecology, disturbance, trophic interactions, symbionts, and reproduction. Article categories were chosen
+  from a word cloud generated from abstracts, then assigned manually. c The number of articles reporting an upper depth limit for mesophotic reefs.
+  If a range was reported the shallowest value was extracted. d The geographical distribution of research effort on MCEs. The size of the orange circles
+  indicates the number of articles in the region, also displayed in text labels
+articles (Fig. 1), data were successfully extracted from                        10.1% reallocated). An interaction term was not included
+35, yielding 52 studies (combinations of broad taxon and                        as intended in our protocol. This decision was made as
+locations within articles) after contacting correspond-                         studies were not evenly distributed across all factor-
+ing authors (Additional files 2). The consistency of data                       level combinations (Additional file 6) and a likelihood-
+extraction was checked by a second reviewer for 12/35                           ratio test failed to distinguish the two models (χ2 = 10.8,
+articles included. The data can be found in Additional                          P = 0.14). A Q-test detected significant between-study
+file 3. Ecology papers we could not source a full text for                      heterogeneity (QE = 182.2, df = 27, P < 0.0001). An I2 of
+are listed in (Additional file 5).                                              72.3% can be interpreted as “substantial” under Cochrane
+   Both location and taxon were included as effect modi-                        review guidelines [74], but does increase with study
+fiers to aid biological interpretation and reduce the                           number [75] and may be less important for an ecologi-
+variance assigned to between study heterogeneity (I2 of                         cal synthesis. The ­R2 of our model is 75.9%. A forest plot
+
+Laverick et al. Environ Evid (2018) 7:15                                                                         Page 7 of 13
+of effect size contributions from individual studies can be   Semmler et al. [8] use Jaccard similarity and will therefore
+found in Additional file 7.                                   estimate lower similarity than this study. Jaccard similar-
+   Figure 4 visualises the proportion of shallow species      ity returns a lower score for reefs with mesophotic-spe-
+present deeper than 30 m, predicted from the model,           cialist taxa while in this study community overlap was
+for each modifier level. The central Pacific has the high-    calculated excluding species not observed on shallow
+est community overlap between shallow and mesophotic          reefs.
+reefs at 72% (95% CI 53–85%). Studies off the cost of           As individual studies would lead us to expect, com-
+Brazil report the lowest at 30% (7–72%) when ignoring         munity overlap varies by region (Fig. 4, Additional file 8).
+areas represented by a single study. For taxa, models of      The highest proportion of shallow species present on
+algal groups all returned predictions of over 75% overlap.    mesophotic reefs was predicted for the central Pacific at
+86% (37–98%) of shallow-water Antipatharia were found         72% (95% CI 53–85%). Brazilian reefs and the Coral Sea
+on mesophotic reefs, while octocorals were predicted to       with the Great Barrier Reef both harbour less than half
+have the lowest overlap of all factor levels at 38% (15–      of shallow reef taxa on MCEs at 31% (7–72%) and 41%
+68%). The amount of studies retrieved for a given factor      (20–65%) respectively. A number of drivers may explain
+level does influence the width of the confidence interval.    these patterns but there are two likely candidates.
+Scleractinia with 18 studies has a prediction ranging by        Reefs located in biodiversity hot spots, such as the
+29%, whereas Octocorallia with three studies ranges by        Coral Triangle and Red Sea [76], may experience greater
+53%. Data underlying the figure can be found in Addi-         competition and subsequent specialisation [77]. This
+tional file 8.                                                may lead to narrower depth ranges and so less commu-
+   As part of the sensitivity analysis 22 studies were        nity overlap in comparison to species-poor regions such
+excluded from the high validity group, following our          as the Caribbean and Hawai’i. Additionally, the bounda-
+validity appraisal criteria. The analysis was then re-run to  ries between mesophotic communities and shallow reef
+quantify the influence of these studies over our synthe-      communities may vary between sites [22]. This is likely
+sis (Fig. 4). These studies are indicated in the comments     underpinned by abiotic factors interacting with species
+column of Additional file 2. The dataset-wide estimate of     physiology. The current use of an arbitrary 30 m depth
+community overlap dropped by 10 percentage points to          limit, derived from recreational SCUBA limitations, may
+0.57. No change in broad pattern is noted, only a slight      be limiting our ability to accurately report on ecological
+increase in the range of predictions, and a slight decrease   pattern. If the transition depth occurs deeper, a larger
+in estimated overlap. We would generally expect a high        portion of shallow water species will be present below
+validity sub-group analysis to narrow the prediction          30 m. The deviation in community transition depth from
+intervals. Our results suggest that the overriding influ-     30 m between sites may explain some of the variability
+ence may be the reduction in sample size, and that stud-      in our estimates of community overlap. The maximum
+ies outside of the high validity group are largely similar to depth limits of photosynthetic corals are known to vary
+those retained. This is despite low validity studies operat-  by region [78] and with light [2] and loosely correlate
+ing at larger spatial scales and with unbalanced sampling     with our findings.
+effort with depth. A regression test provides no evidence       Community overlap can be broken down further by
+for publication bias in the dataset (t = 0.5382, df = 33,     predicting the effect of different taxon levels (Fig. 4, Addi-
+P = 0.594), also visualised with a funnel plot (Additional    tional file 8). The two taxonomic groups with the largest
+file 9). This is further supported by a Rosenthal’s fail safe number of studies contributing to the synthesis, fish and
+number [73] of 1612 studies, it is highly unlikely this       Scleractinia, are estimated as having 64% (46–79%) and
+many mesophotic surveys remain unpublished given the          57% (42–71%) of shallow taxa on MCEs respectively.
+number we retrieved.                                          These values are relatively close to our synthesis-wide
+                                                              estimate. Other taxonomic groups have relatively large
+Discussion                                                    confidence intervals, but all three algal taxa return high
+Quantitative results                                          community overlap of over 75%. This may be surprising
+Two-thirds of shallow-water species can be found on           for autotrophic taxa, but it appears a 30 m boundary is
+MCEs (Fig. 3). This suggests MCEs should potentially          within the physiological envelope of most algal spe-
+be considered as a significant conservation target when       cies identified. The high estimate of 86% (37–98%) for
+protecting shallow reefs. This observation is in broad        Antipatharia, though unintuitive for a taxon tradition-
+agreement with expert opinion regarding the Caribbean;        ally considered ‘deep’ [79], likely results from limiting
+suggesting over 40% similarity for shallow and meso-          the analysis to species observed shallower than 30 m.
+photic benthic taxa and approximately 60% for fish [8].       For the most part, if a black coral is observed shallower
+
+Laverick et al. Environ Evid (2018) 7:15                                                                                                         Page 8 of 13
+  Fig. 3 Shallow reef species depth ranges by article. A box plot shows the distribution of overlap estimates from all articles contributing data to the
+  meta-analysis. Beneath, each panel illustrates the distribution of species depth ranges within the article. The scale ends at 60 m for clarity. An orange
+  line indicates the 30 m mesophotic boundary. 36 ‘articles’ are shown as two time periods were sampled in Bakker 2016 and two additional articles
+  were provided at review
+
+Laverick et al. Environ Evid (2018) 7:15                                                                                                       Page 9 of 13
+  Fig. 4 Effect of modifiers on community overlap. Crossbars show back transformed model predictions of community overlap by taxon and
+  location. The thick central bar represents the prediction, the thinner bars on either extreme are 95% confidence intervals. The bars are asymmetrical
+  because of the scaling of the effect sizes before back transformation. The number of studies contributing to the full model for a given level are in
+  brackets. Orange crossbars are repeat predictions for high validity subgroups; only presented for 3 factor levels because of a lack of high validity
+  data for other levels
+than 30 m it is likely a deep species encroaching on shal-                       taxa to mesophotic-specialists declines (Additional
+low reefs. Alternatively, a small number of species may                          file 10) [8]. When sampling is evenly distributed across
+have evolved towards shallow-water emergence. The                                the whole depth range of an MCE it is possible to detect
+smaller number of species contributing to estimates for                          depth-specific community structure [22] and high levels
+taxa other than fish and Scleractinia highlights the need                        of geographically endemic biodiversity [20]; though this
+for taxonomic diversity in future mesophotic studies. It is                      likely varies between locations [22]. It is important to
+also important to maintain shallow sampling for contem-                          note consensus in the field is to recognise an upper mes-
+porary comparisons to allow for site to site variation.                          ophotic zone, in which shallow species are gradually lost
+   Our finding of over half of shallow taxa being recorded                       with depth, and a lower mesophotic zone containing spe-
+on MCEs is not in direct contention with research sug-                           cialist communities [21, 25], rather than rigidly following
+gesting mesophotic-specific communities on MCEs [8,                              the 30 m boundary. Any conclusions regarding shallow
+22, 32, 80–82]. Firstly, we deliberately exclude taxa only                       taxon occurrence deeper than 30 m is therefore likely
+observed on mesophotic reefs from our analysis. This is                          driven by pattern in the upper mesophotic. We are reti-
+as MCEs may extend below 150 m [2] while the major-                              cent to perpetuate the definition of these zones by arbi-
+ity of the studies synthesised here do not sample as deep.                       trary depth limits because of the potential for between
+Any estimate of the proportion of mesophotic taxa not                            site variation [22].
+on shallow reefs would likely be misleading because of an
+absence of evidence (Additional file 10). Additionally, the                      Qualitative analysis
+lower limit of MCEs is acknowledged to be variable [21,                          At the outset of this project www.mesop​hotic​.org rep-
+24]. Further analyses considering overlap at the lowest                          resented the largest publicly available compilation of
+limit of MCEs would therefore be inappropriate because                           mesophotic literature, with the metadata of 293 articles
+of a similar lack of sampling. Our primary research ques-                        available. This study succeeded in boosting this num-
+tion considers the potential for shallow water species to                        ber to at least 461, considerably increasing the visibility
+exploit deep reef refuges.                                                       of research. Absent from this list of papers are any pub-
+   Secondly, we consider MCEs in a narrow sense as a                             lished in 2017 or later. The new database offered the
+30 m depth limit. As depth increases the ratio of shallow
+
+Laverick et al. Environ Evid (2018) 7:15                                                                      Page 10 of 13
+opportunity to categorise these studies, describing the         As already mentioned, if the 30 m boundary of shallow
+field as a whole.                                            and mesophotic systems is not shared across all studies
+   Past reviews have noted the geographical bias of mes-     the estimates of community overlap could be impacted.
+ophotic research [2, 12, 78]. This is to some extent una-    A community transition at 20 m would result in few shal-
+voidable because of the locations of research groups in      low species deeper than 30, similarly in areas of high
+developed countries near accessible reefs (i.e., Hawai’i,    light penetration mesophotic communities may begin
+US Virgin Islands, and Israel among others). We confirm      deeper [24], inflating the proportion of shallow water
+the bias towards studies in the central Pacific and western  species occurring deeper than 30 m. If this is the cause
+Atlantic region. A better global understanding of MCEs       of our high between study heterogeneity, then this study
+requires increased research attention in the Coral Tri-      may suggest the 30 m depth boundary can be mislead-
+angle and the wider Indian Ocean to the west. Currently      ing. Our analysis could be improved by including abiotic
+MCE research attention focuses on reefs with lower coral     data believed to affect the rates of community transition
+species richness [76]. Though this may be convenient for     for each study, such as light attenuation coefficients and
+a number of reasons, it may mean ecological differences      topography [83]. These data are not available for the syn-
+between shallow and mesophotic reefs resulting from          thesised studies, and new research should ensure envi-
+greater competition and niche diversification are missed.    ronmental data is collected alongside ecological surveys.
+   In addition to geographic biases, the mesophotic field
+lacks diversity in terms of study types. As expected for a
+                                                             Review limitations
+field which has only recently taken off (Fig. 2a), a large
+                                                             We hoped to incorporate abundance into a meta-analy-
+proportion of the studies focus on ecological description.
+                                                             sis of communities [29, 84, 85], yet this approach would
+This has already been noted across existing research and
+                                                             sharply reduce the amount of included studies because
+narrative reviews [12] but we lend support to the obser-
+                                                             of differing measures of abundance, as well as prevent-
+vation with a larger literature base. This pattern has been
+                                                             ing the incorporation of sessile and motile taxa into one
+shifting over time [12], but there is certainly room for an
+                                                             analysis. Adopting a presence-absence approach does,
+increase in experimental, modelling, and longitudinal
+                                                             however, miss the importance of population density. Our
+studies considering processes instead of pattern.
+                                                             analysis could have been influenced by population over-
+   A final interesting observation is that the term “meso-
+                                                             spill where a few out-lying individuals from an otherwise
+photic” has been defined differently across published
+                                                             shallow species were observed deeper than 30 m (Bon-
+work. Though the overwhelming majority of papers
+                                                             gaerts, under review). The refuge dynamics which may
+define mesophotic reefs as starting at 30 m, the meso-
+                                                             occur on MCEs must be underpinned by reproductively
+photic research strategy more loosely states they can
+                                                             active source populations, rather than the sinks repre-
+start from 30 to 40 m [1]. This 30 m limit is rooted in
+                                                             sented by outlier observations as hypothesised in deep-
+recreational dive limits, rather than biological bounda-
+                                                             sea ecosystems [86]. Though such outliers are unlikely to
+ries which can vary [22]. Not surprisingly the next most
+                                                             represent source populations for a deep reef refuge, they
+common definition is for mesophotic communities start-
+                                                             may none-the-less protect genetic diversity [17].
+ing at 40 m. More interestingly, six papers within the last
+                                                                Additionally, our interpretation of the impacts of effect
+10 years define MCEs from 50 m with another one at
+                                                             modifiers should be taken with caution. Confidence
+20 m and one at 60 m. As the number of papers on meso-
+                                                             intervals are wide because of a lack of studies across most
+photic reefs increases it is important to remain consist-
+                                                             taxonomic groups, only fish and Scleractinia predictions
+ent in the application of terminology, or specify explicitly
+                                                             are based on more than five studies (Additional file 8).
+how these boundaries may be recognised to vary.
+                                                             Conclusion
+Reasons for heterogeneity
+                                     2                       Information for policy/management
+Our analysis returns an I of 72.3%, under Cochrane
+                                                             It is clear that a notable proportion of shallow reef taxa
+review guidelines this can be interpreted as ‘substan-
+                                                             are also present on MCEs, though this varies signifi-
+tial’ unexplained heterogeneity [74]. However, Cochrane
+                                                             cantly by taxon and location. The findings of this system-
+review guidelines were developed by the health sec-
+                                                             atic review validate conservation decisions supporting
+tor, and so largely with the synthesis of controlled clini-
+                                                             the protection of MCEs [23] as potential “lifeboats” for
+cal trials in mind. In ecological studies higher degrees of
+                                                             shallow reefs [87] based on community overlap, though
+residual variation are often expected, as a result of the
+                                                             further research into refuge dynamics specifically is
+messiness of the ‘real’ world and confounding variables
+                                                             required. It is important to note distinct mesophotic
+arising outside of an experimental framework.
+
+Laverick et al. Environ Evid (2018) 7:15                                                                                                            Page 11 of 13
+biodiversity may deserve protection in its own right,
+                                                                                    Additional file 9. Funnel plot. Funnel plot for the full meta-analysis.
+something our analysis is unable to inform.                                         Dotted lines indicate the 95% confidence limit for expected deviation of
+                                                                                    study estimates from the model. Studies falling outside the triangle are
+                                                                                    potential outliers. With 52 studies we would expect fewer than 3. A lack
+Implications for research                                                           of asymmetry to the plot provides no evidence of publication bias within
+The degree of overlap varies by region and taxon, how-                              the collected dataset.
+ever, so too does research effort and the information                               Additional file 10. Proportion of mesophotic-specialists reported with
+                                                                                    maximum study depth. The proportion of all species reported, found
+available to us. We recommend that in the years to come                             exclusively deeper than 30 m, increases with the maximum depth of a
+researchers conduct survey work of lesser studied, but                              study. An absence of deep sampling efforts does not allow us to claim
+ecologically important, taxa and also attempt to visit                              there are low levels of MCE specific biodiversity. As such we limit the
+                                                                                    discussion in this paper to the shallow taxa occurring on MCEs, not of the
+MCEs as yet unstudied. This extra knowledge will aid                                total change in community between the two depth zones. In order for a
+conservation prioritisation efforts and allow us to iden-                           fair comparison to be made between shallow and mesophotic biodiver‑
+tify deeper coral reef regions currently unknown to con-                            sity we must more strictly define the lower limit of MCEs. Data was limited
+                                                                                    to studies reporting a maximum depth < 500 m for legibility.
+servation managers.
+Additional files
+                                                                                 Abbreviation
+                                                                                 MCE: mesophotic coral ecosystems.
+  Additional file 1. Google Scholar Web-Scraping. The following outlines
+  the process used to extract search results from Google Scholar. The lack       Authors’ contributions
+  of a ‘download results’ feature on Google Scholar results pages makes          In addition to the contributions to the project detailed in our protocol paper,
+  the generation of a workflow necessary. This was pieced together from a        JHL conducted the literature search. JHL and SP carried out the screening of
+  number of online help files, papers, and conversations, referred to when       all articles, extracted, and formatted the data. JHL and SP retrieved full texts
+  available. We are grateful to the multiple sources of help.                    and underlying data with help from the advisory committee (DAAB, DAE, PB,
+                                                                                 TCLB, MPL, RLP, MS and DW). JHL performed the statistical analysis and wrote
+  Additional file 2. Data extraction report. All articles included in the final
+                                                                                 the initial draft. ADR supervised the project and edited the manuscript. The
+  meta-analysis are reported. We also report all articles identified during
+                                                                                 advisory committee and SP also commented on the manuscript. All authors
+  full text screening as containing data of interest. The comments column
+                                                                                 read and approved the final manuscript.
+  provides explanations for articles which did not contribute data for the
+  final meta-analysis, studies which were assigned to the low validity group,
+                                                                                 Author details
+  as well as whether the authors were contacted.                                 1
+                                                                                   Department of Zoology, University of Oxford, The Tinbergen Building, South
+  Additional file 3. Datafile. Data extracted and summarised for fitting of a    Parks Road, Oxford OX1 3PS, UK. 2 Operation Wallacea, Old Bolingbroke,
+  meta-analytic model.                                                           Spilsby, Lincolnshire PE23 4EX, UK. 3 Biology Department, Marine Biology
+  Additional file 4. Full text report. All studies with full texts retrieved and Research Group, Campus Sterre, S8, Krijgslaan 281, 9000 Ghent, Belgium.
+                                                                                 4
+  identified during the screening process as ecological are listed. Code           Global Change Institute, The University of Queensland, St Lucia, QLD 4072,
+  details the screening decision for the entry based on full text screening.     Australia. 5 Australian Research Council Centre of Excellence for Coral Reef
+                                                                                 Studies, James Cook University, 101 Angus Smith Drive, Townsville, QLD 4811,
+  Additional file 5. Unavailable full texts report. List of articles screened at Australia. 6 Queensland Museum Network, 70‑102 Flinders St, Townsville, QLD
+  abstract level and assigned an eco tag, which we could not retrieve a full     4810, Australia. 7 School of Marine Science and Ocean Engineering, University
+  text for.                                                                      of New Hampshire, Durham, NH 03824, USA. 8 Bernice P. Bishop Museum, 1525
+  Additional file 6. Distribution of studies across factor levels. The number    Bernice St, Honolulu, HI 96817, USA. 9 Department of BioMolecular Sciences,
+  of studies included in the full meta-analysis of 52 studies is reported for    University of Mississippi, Oxford, USA. 10 JHT Inc, NOAA National Centers
+  each combination of taxon and location. The total number of studies for        for Coastal Ocean Science, 219 Fort Johnson Rd, Charleston, SC 29412, USA.
+                                                                                 11
+  a given factor level is in brackets after the level name. Many combinations       Present Address: Oceans Conservation, World Wildlife Fund-US, 1250 24th St.
+  are not represented, prompting the decision not to include an interaction      NW, Washington, DC 20037, USA.
+  term in the statistical analysis.
+                                                                                 Acknowledgements
+  Additional file 7. Forest plot. The effect sizes of depth as log odds ratios   We would like to thank all of the authors who supplied us with PDF copies of
+  of the total shallow species pool compared to shallow species present          their manuscripts and underlying data when requested. We also would like to
+  deeper than 30 m, of the 52 included studies are displayed. Studies are in     thank our editor and anonymous reviewers, who greatly helped improve the
+  the same order as in Additional file 3. Dots indicate the effect size estimate transparency of this manuscript.
+  and are scaled to the number of species observed within each study.
+  The black lines extend from the lower to upper 95% confidence limit of         Competing interests
+  each study estimate. Orange lines are for reference to help interpreta‑        The authors declare that they have no competing interests.
+  tion. The dashed line at 0 indicates the effect size of studies finding 50%
+  community overlap. The solid lines indicate the effect size of the largest     Availability of data and materials
+  study reporting 0% overlap (negative effect size) and 100% (positive effect    All data can be found in supporting information.
+  size). Note that due to the scaling of effect sizes the confidence intervals
+  become asymmetrical when back transformed to proportions (Fig. 4).             Consent for publication
+  Additional file 8. Factor level effects. Predictions of community overlap      All authors read and approved the final manuscript.
+  between shallow and mesophotic reefs by taxon and location, as
+  visualised in Fig. 4. Values are reported as per computer output and in        Ethics approval and consent to participate
+  descending order of estimate. The number of studies for each factor level      Not applicable.
+  contributing to the model is provided. Reference level indicates which
+  factor level was held constant as the factor of interest was changed.          Funding
+  The use of different reference levels should not affect the analysis in the    The project has been funded by NERC (NE/L002612). DAAB was funded by a
+  absence of an interaction term in the model.                                   Fisheries Society of the British Isles PhD Studentship.
+
+Laverick et al. Environ Evid (2018) 7:15                                                                                                               Page 12 of 13
+Publisher’s Note                                                                     19. Hammerman NM, Rivera-Vicens RE, Galaska MP, Weil E, Appledoorn
+Springer Nature remains neutral with regard to jurisdictional claims in pub‑             RS, Alfaro M, et al. Population connectivity of the plating coral Agaricia
+lished maps and institutional affiliations.                                              lamarcki from Southwest Puerto Rico. Coral Reefs. 2017. https​://doi.
+                                                                                         org/10.1007/s0033​8-017-1646-x.
+Received: 15 January 2018 Accepted: 30 May 2018                                      20. Kosaki RK, Pyle RL, Leonard JC, Hauk BB, Whitton RK, Wagner D. 100%
+                                                                                         endemism in mesophotic reef fish assemblages at Kure Atoll, Hawaiian
+                                                                                         Islands. Mar Biodivers. 2017;47:783–4. https​://doi.org/10.1007/s1252​
+                                                                                         6-016-0510-5.
+                                                                                     21. Loya Y, Eyal G, Treibitz T, Lesser MP, Appeldoorn R. Theme section on
+References                                                                               mesophotic coral ecosystems: advances in knowledge and future per‑
+ 1. Puglise KA, Hinderstein LM, Marr JCA, Dowgiallo MJ, Martinez FA. 2009.               spectives. Coral Reefs. 2016. https​://doi.org/10.1007/s0033​8-016-1410-7.
+     Mesophotic coral ecosystems research strategy: international workshop           22. Laverick JH, Andradi-Brown DA, Rogers AD. Using light-dependent scle‑
+     to prioritize research and management needs for mesophotic coral                    ractinia to define the upper boundary of mesophotic coral ecosystems
+     ecosystems, Jupiter, Florida, 12–15 July 2008. Silver Spring, MD: NOAA              on the reefs of Utila, Honduras. PLoS ONE. 2017. https​://doi.org/10.1371/
+     National Centers for Coastal Ocean Science, Center for Sponsored Coastal            journ​al.pone.01830​75.
+     Ocean Research, and Office of Ocean Exploration and Research, NOAA              23. NPA. New marine reserve in Israel to include mesophotic reef. 2009.
+     Undersea Research Program. NOAA Technical Memorandum NOS NCCOS                      http://www.mesop​hotic​.org/2009/11/new-marin​e-reser​ve-in-israe​l-to-
+     98 and OAR OER 2. p. 24                                                             inclu​de-mesop​hotic​-reef/. Accessed 12 Jan 2016.
+ 2. Kahng SE, Garcia-Sais JR, Spalding HL, Brokovich E, Wagner D, Weil E, et al.     24. Kahng SE, Copus JM, Wagner D. Recent advances in the ecology of meso‑
+     Community ecology of mesophotic coral reef ecosystems. Coral Reefs.                 photic coral ecosystems (MCEs). Curr Opin Environ Sustain. 2014;7:72–81.
+     2010;29:255–75. https​://doi.org/10.1007/s0033​8-010-0593-6.                        https​://doi.org/10.1016/j.cosus​t.2013.11.019.
+ 3. Menza C, Kendall M, Hile S. The deeper we go the less we know. Rev Biol          25. Bongaerts P, Ridgway T, Sampayo EM, Hoegh-Guldberg O. Assessing
+     Trop. 2008;56:11–24.                                                                the ‘deep reef refugia’ hypothesis: focus on Caribbean reefs. Coral Reefs.
+ 4. Pyle RL. Ocean pulse: a critical diagnosis. In: Tanacredi JT, Loret                  2010;29:309–27. https​://doi.org/10.1007/s0033​8-009-0581-x.
+     J, editors. Boston, MA: Springer US; 1998. p. 71–88. https​://doi.              26. Slattery M, Lesser MP, Brazeau D, Stokes MD, Leichter JJ. Connectivity and
+     org/10.1007/978-1-4899-0136-1_9.                                                    stability of mesophotic coral reefs. J Exp Mar Bio Ecol. 2011;408:32–41.
+ 5. Harris PT, Bridge TCL, Beaman RJ, Webster JM, Nichol SL, Brooke BP.                  https​://doi.org/10.1016/j.jembe​.2011.07.024.
+     Submerged banks in the Great Barrier Reef, Australia, greatly increase          27. Olson JB, Kellogg CA. Microbial ecology of corals, sponges, and algae in
+     available coral reef habitat. ICES J Mar Sci. 2012;69:343–5.                        mesophotic coral environments. FEMS Microbiol Ecol. 2010;73:17–30.
+ 6. Lindfield SJ, Harvey ES, Halford AR, McIlwain JL. Mesophotic depths                  https​://doi.org/10.1111/j.1574-6941.2010.00862​.x.
+     as refuge areas for fishery-targeted species on coral reefs. Coral Reefs.       28. Lesser MP, Slattery M, Leichter JJ. Ecology of mesophotic coral reefs. J Exp
+     2015;35:1–13.                                                                       Mar Bio Ecol. 2009;375:1–8. https​://doi.org/10.1016/J.JEMBE​.2009.05.009.
+ 7. Bridge TCL, Hoey AS, Campbell SJ, Muttaqin E, Rudi E, Fadli N, et al.            29. Laverick JH, Andradi-Brown DA, Exton DA, Bongaerts P, Bridge TCL, Lesser
+     Depth-dependent mortality of reef corals following a severe bleach‑                 MP, et al. To what extent do mesophotic coral ecosystems and shallow
+     ing event: implications for thermal refuges and population recovery.                reefs share species of conservation interest? Environ Evid. 2016;5:16. https​
+     F1000Research. 2013; February. https​://doi.org/10.12688​/f1000​resea​rch.2-        ://doi.org/10.1186/s1375​0-016-0068-5.
+     187.v1.                                                                         30. Schmidt LM, Gotzsche PC. Of mites and men: reference bias in narrative
+ 8. Semmler RF, Hoot WC, Reaka ML. Are mesophotic coral ecosystems dis‑                  review articles: a systematic review. J Fam Pract. 2005;54:334–8. http://
+     tinct communities and can they serve as refugia for shallow reefs? Coral            www.ncbi.nlm.nih.gov/pubme​d/15833​223. Accessed 27 Nov 2017.
+     Reefs. 2016. https​://doi.org/10.1007/s0033​8-016-1530-0.                       31. Haddaway N, Macura B, Whaley P, Pullin A. ROSES for Systematic review
+ 9. Glynn PW. Coral reef bleaching: facts, hypotheses and implications. Glob             reports. 2017.
+     Chang Biol. 1996;2:495–509. https​://doi.org/10.1111/j.1365-2486.1996.          32. Haddaway NR, Collins AM, Coughlin D, Kirk S. The role of google scholar
+     tb000​63.x.                                                                         in evidence reviews and its applicability to grey literature searching. PLoS
+ 10. Holstein DM, Paris CB, Vaz AC, Smith TB. Modeling vertical coral connec‑            ONE. 2015;10:1–17. https​://doi.org/10.1371/journ​al.pone.01382​37.
+     tivity and mesophotic refugia. Coral Reefs. 2015. https​://doi.org/10.1007/     33. Wickham H, RStudio. rvest. 2016. version 0.3.2. https​://githu​b.com/hadle​
+     s0033​8-015-1339-2.                                                                 y/rvest​.
+ 11. Holstein DM, Smith TB, Gyory J, Paris CB. Fertile fathoms : deep reproduc‑      34. Haddaway NR, Collins AM, Coughlin D, Kirk S. A rapid method to increase
+     tive refugia for threatened shallow corals. Nat Publ Gr. 2015. https​://doi.        transparency and efficiency in web-based searches. Environ Evid.
+     org/10.1038/srep1​2407.                                                             2017;6:1. https​://doi.org/10.1186/s1375​0-016-0079-2.
+ 12. Turner JA, Babcock RC, Hovey R, Kendrick GA. Deep thinking: a systematic        35. Thomas J, Brunton J, Graziosi S. EPPI-Reviewer 4: software for research
+     review of mesophotic coral ecosystems. ICES J Mar Sci. 2017. https​://doi.          synthesis. 2010.
+     org/10.1093/icesj​ms/fsx08​5.                                                   36. Bilotta GS, Milner AM, Boyd IL. Quality assessment tools for evidence
+ 13. Baker EK, Puglise KA, Harris PT, editors. Mesophotic coral ecosystems — A           from environmental science. Environ Evid. 2014;3:14. https​://doi.
+     lifeboat for coral reefs? The United Nations Environment Programme and              org/10.1186/2047-2382-3-14.
+     GRID-Arendal, Nairobi and Arendal, 2016, p. 98. ISBN: 978-82-7701-150-9.        37. Agegian CR, Abbott IA. Deep water macroalgal communities: a compari‑
+ 14. Bridge TCL, Hughes TP, Guinotte JM, Bongaerts P. Call to protect all coral          son between Penguin Bank (Hawaii) and Johnston Atoll. Proc fifth Int
+     reefs. Nat Clim Change. 2013;3:528–30. https​://doi.org/10.1038/nclim​              coral reef Congr. 1985;5:47–50.
+     ate18​79.                                                                       38. Andradi-Brown DA, Gress E, Wright G, Exton DA, Rogers AD. Reef Fish
+ 15. Hughes TP, Kerry JT, Álvarez-Noriega M, Álvarez-Romero JG, Anderson KD,             community biomass and trophic structure changes across shallow to
+     Baird AH, et al. Global warming and recurrent mass bleaching of corals.             upper-mesophotic reefs in the Mesoamerican barrier reef, Caribbean.
+     Nature. 2017;543:373–7. https​://doi.org/10.1038/natur​e2170​7.                     PLoS ONE. 2016;11:e0156641. https​://doi.org/10.1371/journ​al.pone.01566​
+ 16. Sinniger F, Morita M, Harii S. “Locally extinct” coral species Seriatopora          41.
+     hystrix found at upper mesophotic depths in Okinawa. Coral Reefs.               39. Andradi-Brown DA, Macaya-Solis C, Exton DA, Gress E, Wright G, Rogers
+     2012;32:153–153. https​://doi.org/10.1007/s0033​8-012-0973-1.                       AD. Assessing caribbean shallow and mesophotic reef fish communities
+ 17. Sinniger F, Prasetia R, Yorifuji M, Bongaerts P, Harii S. Seriatopora diversity     using Baited-Remote Underwater Video (BRUV) and diver-operated video
+     preserved in upper mesophotic coral ecosystems in southern Japan.                   (DOV) survey techniques. PLoS ONE. 2016;11:1–23.
+     Front Mar Sci. 2017;4:155. https​://doi.org/10.3389/fmars​.2017.00155​.         40. Bak RPM. Coral reefs and their zonation in Netherlands Antilles. Stud Geol.
+ 18. Bongaerts P, Riginos C, Brunner R, Englebert N, Smith SR, Hoegh-Guld‑               1977;4:3–16.
+     berg O. Deep reefs are not universal refuges: reseeding potential varies        41. De Bakker DM, Meesters EH, Bak RPM, Nieuwland G, Van Duyl FC.
+     among coral species. Sci Adv. 2017;3:e1602373.                                      Long-term shifts in coral communities on shallow to deep reef slopes of
+
+Laverick et al. Environ Evid (2018) 7:15                                                                                                              Page 13 of 13
+    Curaçao and Bonaire: are there any winners? Front Mar Sci. 2016;3:247.         65. Riegl B, Riegl A. Studies on coral community structure and damage as a
+    https​://doi.org/10.3389/fmars​.2016.00247​.                                       basis for zoning marine reserves. Biol Conserv. 1996;77:269–77.
+42. Bejarano I, Nemeth M, Appeldoorn RS. Use of Mixed-gas Rebreathers to           66. Smith TB, Blondeau J, Nemeth RS, Pittman SJ, Calnan JM, Kadison E, et al.
+    access fish assemblages in mesophotic coral ecosystems (MCE) off La                Benthic structure and cryptic mortality in a Caribbean mesophotic coral
+    Parguera shelf-edge, Puerto Rico. Proceedings 63rd Gulf Caribbean Fish             reef bank system, the Hind Bank Marine Conservation District, U.S. Virgin
+    Inst. 2011:130–3.                                                                  Islands. Coral Reefs. 2010;29:289–308.
+43. Bouchon C. Quantitative study of the scleractinian coral communities           67. Wagner D. A taxonomic survey of the shallow-water (<150 m) black
+    of a fringing reef of Reunion Island (Indian Ocean). Mar Ecol Prog Ser.            corals (Cnidaria: Antipatharia) of the Hawaiian Islands. Front Mar Sci.
+    1981;4:273–88. https​://doi.org/10.3354/meps0​04273​.                              2015;2:24. https​://doi.org/10.3389/fmars​.2015.00024​.
+44. Brasileiro PS, Pereira-Filho GH, Bahia RG, Abrantes DP, Guimarães SMPB,        68. Westinga E, Hoetjes PC. The intrasponge fauna of Spheciospongia
+    Moura RL, et al. Macroalgal composition and community structure of                 vesparia (Porifera, Demospongiae) at Curaçao and bonaire. Mar Biol.
+    the largest rhodolith beds in the world. Mar Biodivers. 2015. https​://doi.        1981;62:139–50.
+    org/10.1007/s1252​6-015-0378-9.                                                69. Team R core. R: A language and environment for statistical computing.
+45. Brokovich E, Einbinder S, Shashar N, Kiflawi M, Kark S. Descending to              2013. http://www.r-proje​ct.org/.
+    the twilight-zone: changes in coral reef fish assemblages along a depth        70. Viechtbauer W. Conducting meta-analyses in R with the metafor package.
+    gradient down to 65 m. Mar Ecol Prog Ser. 2008;371:253–62.                         J Stat Softw. 2010;36:1–48.
+46. Cairns SD. A revision of the ahermatypic Scleractinia of the Galapagos         71. Knapp G, Hartung J. Improved tests for a random effects meta-regres‑
+    and Cocos Islands. Smithson Contrib Zool. 1991. https​://doi.org/10.5479/          sion with a single covariate. Stat Med. 2003;22:2693–710. https​://doi.
+    si.00810​282.504.                                                                  org/10.1002/sim.1482.
+47. Cairns SD, Jaap WC, Lang JC. Scleractinia (Cnidaria) of the Gulf of Mexico.    72. Sterne JA, Egger M. Funnel plots for detecting bias in meta-analysis:
+    In: Felder DL, Camp DK, editors. Gulf of Mexico origin, waters, and biota.         guidelines on choice of axis. J Clin Epidemiol. 2001;54:1046–55. http://
+    Texas: A&M University Press; 2009. p. 333–47.                                      www.ncbi.nlm.nih.gov/pubme​d/11576​817. Accessed 10 Oct 2017.
+48. Calder DR, Cairns SD. Hydroids (Cnidaria:Hydrozoa) of the Gulf of Mexico.      73. Rosenthal R. The “file drawer problem” and tolerance for null results.
+    In: Felder DL, Camp DK, editors. Gulf of Mexico Origin, Waters, and Biota.         Psychol Bull. 1979;86:638–41.
+                                                                                                                                              ­ ollaboration®. Wiley-
+    Texas: A&M University Press; 2009. p. 381–94.                                  74. Higgins JP, Green S. Cochrane Handbook for Systematic Reviews of
+49. Clark R, Taylor JC, Buckel CA, Kracker LM, editor. Fish and benthic com‑           Interventions Cochrane Book Series The Cochrane C
+    munities of the flower garden banks national marine sanctuary: science             Blackwell, commerce place, 350 main st, Malden 02148, MA USA; 2008.
+    to support sanctuary management. Silver Spring, MD: NOAA Technical                 https​://dhost​h.files​.wordp​ress.com/2011/12/cochr​ane-handb​ook-for-
+    Memorandum NOS NCCOS 179; 2014. p. 317.                                            syste​matic​-revie​ws-of-inter​venti​ons.pdf. Accessed 14 Nov 2017.
+50. Coles R, McKenzie L, De’ath G, Roelofs A, Long WL. Spatial distribution        75. Rücker G, Schwarzer G, Carpenter JR, Schumacher M. Undue reliance
+    of deepwater seagrass in the inter-reef lagoon of the Great Barrier Reef           on I 2 in assessing heterogeneity may mislead. BMC Med Res Methodol.
+    World Heritage Area. Mar Ecol Prog Ser. 2009;392:57–68.                            2008;8:79. https​://doi.org/10.1186/1471-2288-8-79.
+51. Dowgiallow MJ. Patterns in diversity and distribution of benthic molluscs      76. Veron JEN. Corals of the world vols 1–3. Townsville: Australian Institute of
+    along a depth gradient in the Bahamas. Berkeley: University of California;         Marine Sciences; 2000.
+    2004.                                                                          77. Knowlton N, Jackson JBC. New taxonomy and niche partitioning on coral
+52. Fricke HW, Schuhmacher H. The depth limits of Red Sea stony corals: an             reefs: jack of all trades or master of some? Trends Ecol Evol. 1994;9:7–9.
+    ecophysiological problem (a deep diving survey by submersible). Mar                https​://doi.org/10.1016/0169-5347(94)90224​-0.
+    Ecol. 1983;4:163–94.                                                           78. Baker E, Kimberly A. Puglise, Colin PL, Harris PT, Kahng SE, Rooney JJ, et al.
+53. Fricke H, Meischner D. Depth limits of Bermudan scleractinian corals: Mar          What are mesophotic coral ecosystems? In: Baker EK, Puglise KA, Harris
+    Biol. 1985;187:175–87.                                                             PT, editors. Mesophotic coral ecosystems — A lifeboat for coral reefs? The
+54. Fukunaga A, Kosaki RK, Wagner D, Kane C. Structure of mesophotic                   United Nations Environment Programme and GRID-Arendal, Nairobi and
+    reef fish assemblages in the Northwestern Hawaiian Islands. PLoS ONE.              Arendal, p. 98. ISBN: 978-82-7701-150-9.
+    2016;11:1–15.                                                                  79. Cairns SD. Deep Water Corals: an overview with special reference to
+55. Goffredo S, Chadwick-Furman NE. Abundance and distribution of mush‑                diversity and distribution of deep water scleractininan corals. Bull Mar Sci.
+    room corals (Scleractinia: Fungiidae) on a coral reef at Eilat, northern Red       2007;81:311–22.
+    Sea. Bull Mar Sci. 2000;66:241–54.                                             80. Muir P, Wallace C, Bridge TCL, Bongaerts P. Diverse staghorn coral fauna
+56. Goldberg WM. The ecology of the coral-octocoral communities off the                on the mesophotic reefs of north-east Australia. PLoS ONE. 2015;10:1–17.
+    southeast Florida coast: geomorphology, species composition, and zona‑         81. Shoham E, Benayahu Y. Higher species richness of octocorals in the upper
+    tion. Bull Mar Sci. 1973;23:466–88.                                                mesophotic zone in Eilat (Gulf of Aqaba) compared to shallower reef
+57. Itzkowitz M, Haley M, Otis C, Evers D. A reconnaissance of the deeper              zones. Coral Reefs. 2016;36:71–81.
+    Jamaican coral reef fish communities. Northeast Gulf Sci. 1991;12:25–34.       82. Bejarano I, Appeldoorn RS, Nemeth M. Fishes associated with mesophotic
+58. Kinzie RA. The zonation of West Indian gorgonians. Bull Mar Sci.                   coral ecosystems in La Parguera, Puerto Rico. Coral Reefs. 2014;33:313–28.
+    1973;23:93–155.                                                                83. Costa B, Kendall MS, Parrish FA, Rooney J, Boland RC, Chow M, et al. Iden‑
+59. MacDonald C, Bridge TCL, Jones GP. Depth, bay position and habitat                 tifying suitable locations for mesophotic hard corals offshore of Maui,
+    structure as determinants of coral reef fish distributions: are deep reefs a       Hawai’i. PLoS ONE. 2015;10:1–24.
+    potential refuge? Mar Ecol Prog Ser. 2016;561:217–31.                          84. Warwick RM, Clarke KR. Comparing the severity of disturbance: a
+60. Magalhães GM, Amado-Filho GM, Rosa MR, de Moura RL, Brasileiro PS, de              metaanalysis of marine macrobenthic community data. Marine ecology
+    Moraes FC, et al. Changes in benthic communities along a 0–60 m depth              progress series. 1993. http://resea​rchre​posit​ory.murdo​ch.edu.au/23326​
+    gradient in the remote St. Peter and St. Paul Archipelago (Mid-Atlantic            /1/marin​e_macro​benth​ic_commu​nity_data.pdf. Accessed 12 Jun 2015.
+    Ridge, Brazil) abstract. Bull Mar Sci. 2015;44:1–2.                            85. Savage C, Field JG, Warwick RM. Comparative meta-analysis of the impact
+61. Malcolm HA, Jordan A, Smith SDA. Testing a depth-based Habitat Clas‑               of offshore marine mining on macrobenthic communities versus organic
+    sification System against reef fish assemblage patterns in a subtropical           pollution studies. Mar Ecol Prog Ser. 2001;221:265–75.
+    marine park. Aquat Conserv Mar Freshw Ecosyst. 2011;21:173–85.                 86. Rex MA, McClain CR, Johnson NA, Etter RJ, Allen JA, Bouchet P, et al. A
+62. Opresko DM, Sánchez JA. Caribbean shallow-water black corals (Cnidaria:            source-sink hypothesis for abyssal biodiversity. Am Nat. 2005;165:163–78.
+    Anthozoa: Antipatharia). Caribb J Sci. 2005;41:492–507.                            https​://doi.org/10.1086/42722​6.
+63. Ott B. Quantitative analysis of coral reefs, Barbados. W.I: McGill University; 87. Baker EK, Puglise KA., Harris PT. Mesophotic coral ecosystems—a lifeboat
+    1975.                                                                              for coral reefs? 2016.
+64. Pyle RL, Boland R, Bolick H, Bowen BW, Bradley CJ, Kane C, et al. A com‑
+    prehensive investigation of mesophotic coral ecosystems in the Hawaiian
+    Archipelago. PeerJ. 2016;4:e2475. https​://doi.org/10.7717/peerj​.2475.
+

@@ -1,0 +1,487 @@
+Doerr et al. Environmental Evidence 2014, 3:9
+http://www.environmentalevidencejournal.org/content/3/1/9
+  SYSTEMATIC REVIEW PROTOCOL                                                                                                                       Open Access
+Does structural connectivity facilitate movement
+of native species in Australia’s fragmented
+landscapes?: a systematic review protocol
+Erik D Doerr1,2*, Veronica AJ Doerr1,2, Micah J Davies1 and Heather M McGinness1
+  Abstract
+  Background: Habitat fragmentation and accompanying isolation effects are among the biggest threats to global
+  biodiversity. The goal of restoring connectivity to offset these threats has gained even greater urgency under the
+  looming spectre of climate change. While linear corridors have been the most commonly proposed solution to
+  these issues, it has become increasingly recognised that structural connectivity exists in different forms with a variety of
+  characteristics. We previously conducted a systematic review from 2008-2010 to collate and synthesise evidence
+  regarding the relationship between these different types of structural connectivity and the actual movement of
+  native Australian plants and animals (i.e., functional connectivity). Our previous review produced a number of
+  management recommendations but also identified significant knowledge gaps. Given that empirical research into
+  connectivity has become even more common since the original review and that it has been more than five years
+  since the original literature searches, the time is ripe for an update of that review.
+  Methods: We will update our previous systematic review by repeating a thorough search for both published and
+  unpublished evidence on the effects of structural connectivity on animal and plant movement through heterogeneous
+  landscapes. We will slightly broaden the scope of the original review by including data on semi-aquatic species
+  as well as terrestrial ones. Studies will be included if they: 1) contain data on a terrestrial or semi-aquatic native
+  Australian species; 2) have at least one study site that contains some form of structural connectivity between
+  otherwise isolated patches of habitat; and 3) include data on movement of species through the connectivity or
+  data that allow inference of movement (or the lack thereof). We will repeat the analyses carried out for the original
+  review which used hierarchical linear modelling to assess the effects of numerous sources of heterogeneity (e.g., type
+  of connectivity, width of connection, ecosystem type, taxonomic group, and many other characteristics of the species,
+  habitat, and connectivity) on the amount of movement observed in a landscape. If increased sample sizes allow we will
+  also carry out additional meta-analyses, which were not possible with the original dataset.
+  Keywords: Connectivity, Corridor, Stepping stone, Fragmentation, Dispersal
+Background                                                                              to impact populations through three main effects: edge,
+The modification, loss and fragmentation of natural eco-                                area and isolation effects. Edge effects can include in-
+systems are among the most serious threats to global bio-                               creased rates of predation and altered microclimates which
+diversity because the resulting altered landscapes invariably                           may reduce survivorship and reproductive success. Due to
+support smaller, more isolated populations of native spe-                               the smaller habitat patches and thus smaller populations
+cies and increasingly degraded habitats, all of which are                               created by fragmentation, area effects may include in-
+likely to reduce population viability and increase risk of ex-                          creased levels of inbreeding, reduced genetic variability,
+tinction for many species. Habitat fragmentation is thought                             and increased sensitivity to stochastic events. These area
+                                                                                        effects will be further intensified when combined with iso-
+* Correspondence: erik.doerr@csiro.au                                                   lation effects, whereby the possibility of demographic or
+1
+ CSIRO Ecosystem Sciences, GPO Box 1700, Canberra ACT 2601, Australia                   genetic rescue is reduced or eliminated because individuals
+2
+ Research School of Biology, The Australian National University, Canberra ACT
+0200, Australia
+                                                                                        cannot disperse between fragments through the matrix of
+                                         © 2014 Doerr et al.; licensee BioMed Central Ltd. This is an Open Access article distributed under the terms of the Creative
+                                         Commons Attribution License (http://creativecommons.org/licenses/by/2.0), which permits unrestricted use, distribution, and
+                                         reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain
+                                         Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article,
+                                         unless otherwise stated.
+
+Doerr et al. Environmental Evidence 2014, 3:9                                                                   Page 2 of 8
+http://www.environmentalevidencejournal.org/content/3/1/9
+unsuitable habitat. Extensive research has demonstrated       and syntheses specifically focused on connectivity, as op-
+these impacts of fragmentation, and numerous syntheses        posed to fragmentation, are required.
+have been produced, so the basic problem is relatively well      The most commonly proposed solution is to retain or
+understood [1-8].                                             restore habitat corridors. While the interpretation of this
+   Fragmentation has become an even more serious con-         term varies (see [18] for six different definitions), we de-
+cern now that global climate change is predicted to force     fine a corridor as a relatively unbroken (contiguous) lin-
+species to locally adapt or move elsewhere in order to        ear strip of habitat that connects two or more patches of
+persist [9-11]. Smaller populations will be less resilient    habitat that are otherwise surrounded by unsuitable
+to altered local conditions and therefore less able to lo-    areas for the species or community in question [19,20].
+cally adapt, and isolated populations will have difficulty    We believe this matches the operational definition used
+shifting their ranges to track changing environments.         by most Australian land managers and by members of
+This may be of particular concern in agricultural regions     the public. The theory behind corridors is that individ-
+of Australia, where extensive land clearing occurred fol-     uals will be exchanged and/or genes will flow between
+lowing European settlement, leaving fragments of remnant      connected patches or populations either because the
+native vegetation within a matrix dominated by intensive      corridor is occupied by the species or community and
+production systems [12,13]. The long-term consequences        thus the corridor creates a continuous population be-
+of this fragmentation are expected to be serious with at      tween the two patches, or because dispersing individuals
+least some researchers predicting that Australia will lose    (or seed dispersers or pollinators) will use the corridor
+half of its bird species within the next century [14].        to move from one patch to the other. However, the abil-
+   Action is therefore urgently needed to reverse some of     ity of corridors to achieve this goal, and provide for dis-
+the effects of fragmentation—to reconnect small, iso-         persal just as much as continuous habitat would, may
+lated populations and restore their ability to function as    depend very much on the dispersal behaviour of the spe-
+larger, more resilient populations. Such actions need to      cies involved as well as many other characteristics of the
+occur at local, regional, and even continental scales to      corridors themselves, the habitat patches, and the sur-
+ensure benefits accrue at the population level but also       rounding matrix [21-24]. As a result, the effectiveness of
+that species can move to new areas as necessary under         corridors has been the subject of considerable debate
+climate change. Fortunately, this need has captured the       [18,19,25-27], and there is an imperative to determine
+attention of government and the public. Connectivity          which characteristics might make them most effective
+restoration is frequently a goal of private revegetation ef-  across different species and different ecosystems, and
+forts, local landcare groups, and incentive schemes ad-       whether there are viable alternatives – connections that
+ministered by regional natural resource management            aren’t necessarily unbroken and linear but which none-
+bodies. Over two decades ago, large networks of con-          theless support dispersal and gene flow.
+nected habitats were first proposed in North America             There are a number of ecological reasons which sug-
+[15] and Australia [16], and the Australian Government        gest that alternatives to corridors need to be seriously
+and non-governmental organisations have initiated a           considered. First, if corridors are to provide for gene
+number of major projects involving continental scale          flow by providing occupied habitat, then there may be
+connectivity restoration such as Gondwana Link, Habitat       costs to the populations involved, so a thorough weigh-
+141, and the Great Eastern Ranges Initiative, including       ing of the balance between benefits and costs is required.
+its component projects such as Kosciusko2Coast and            In particular, edge effects in narrow habitat strips may
+Slopes to Summit.                                             mean that population sinks may be created when corri-
+   Unfortunately, it is unclear exactly what actions should   dors are occupied [28-30]. Such sinks could potentially de-
+be taken to restore connectivity to our landscapes, aside     crease both the likelihood of dispersal between patches
+from trying to recreate vast swaths of native ecosystems      and the overall viability of the population, even though
+(which would not be practicable given the need for other      the corridor might appear to be a success because it is oc-
+land uses). By definition, a connected landscape is one in    cupied. Second, the corridor concept is based on a binary
+which individuals of all species (or their propagules or      patch/matrix model of the landscape—that there are dis-
+genes) can move or disperse from one resource patch to        tinct, suitable parts of a landscape (patches) and unsuit-
+another ([17] see Appendix for definitions of terms used      able parts (matrix), but nothing in between. However,
+in this protocol). So how much habitat, what kind of          ecologists have recognised that there are other valid land-
+habitat, and in what spatial configuration might be re-       scape models, including the variegated model [31,32] and
+quired to facilitate such dispersal? Unfortunately, the       continuum models [33,34], in which different parts of the
+many syntheses of the problems of habitat fragmentation       landscape may vary in their suitability for any given spe-
+tell us relatively little about dispersal, and thus about the cies, resulting in different densities or patterns of use.
+appropriate solutions to the problem, and new research        These models are particularly important in Australia, as
+
+Doerr et al. Environmental Evidence 2014, 3:9                                                                   Page 3 of 8
+http://www.environmentalevidencejournal.org/content/3/1/9
+many of Australia’s ecosystems naturally form a patchy       preliminary recommendations for managers and identified
+mosaic [35], so native species may have evolved to take      a number of knowledge/research gaps. However it has
+advantage of that heterogeneity during dispersal. This       now been over 5 years since the searches for that review
+means that individuals may not require continuous strips     were completed. Pilot searches suggest that the evidence
+of habitat for dispersal, and also that suitable habitat for base has nearly doubled in that time with 6,395 of 13,912
+dispersal might actually have a very different composition   potential sources identified having been published since
+and structure than habitat suitable for long-term survival   the original literature searches. Thus, we believe the time
+and reproduction.                                            is ripe to update this systematic review. We will also
+   The increased appreciation of these ecological concepts   broaden the scope of the review question slightly to in-
+has led scientists to broaden their thinking about connect-  corporate data on semi-aquatic species as well as purely
+ivity restoration beyond corridors and into the paradigm     terrestrial ones, as the role of riverine and floodplain sys-
+of structural vs. functional connectivity [36-39]. Under     tems in supporting landscape connectivity is currently a
+this paradigm, structural connectivity is anything that      topic of interest in Australia.
+physically links separate populations, and it may consist of
+just about any kind of landscape heterogeneity in between    Objective of the Review
+occupied patches of habitat. Examples of structural con-     To evaluate whether structural connectivity (i.e., habitat
+nectivity include corridors and partially vegetated drainage elements of any sort in an otherwise unsuitable matrix)
+lines or fence lines, but also more subtle habitat elements  linking patches of occupied habitat facilitates functional
+such as scattered trees or shrubs, or even scattered clumps  connectivity (i.e., movement of native species) in fragmen-
+of tussock grass or coarse woody debris. In contrast, func-  ted landscapes in Australia, and to identify which charac-
+tional connectivity refers to the outcome we desire from     teristics of structural connectivity increase the probability
+these structural features—the degree to which movement       of dispersal. While different characteristics may be import-
+and dispersal actually occur. Research is now focused on     ant for different species or in different landscapes or eco-
+trying to understand the relationships between structural    systems, we aim to identify principles for natural resource
+and functional connectivity, which includes work on corri-   managers that will be as generally applicable as possible,
+dors but is more broadly focused on movement and gene        while also distilling recommendations for specific taxa or
+flow in heterogeneous landscapes. Ideally, this research     communities where more general insights do not emerge.
+will reveal which types of structural connectivity really do
+provide functional connectivity (dispersal in the land-      Primary question
+scape) for the majority of species in an ecosystem.          What is the relative effectiveness of different landscape
+   Such general principles for connectivity restoration—     elements that provide structural connectivity in Australian
+recommendations for what is likely to work for most          fragmented landscapes in terms of facilitating dispersal of
+species in most systems—can only come from syntheses         native species between habitat patches or populations?
+of many empirical studies. While the utility of corridors    This question is broken down into ‘population-interven-
+has been tested using theoretical modelling [40,41], and     tion-comparator-outcome’ components (Table 1).
+empirical evidence for use of corridors has been accu-          Data permitting, we will examine the relative benefits
+mulating for a number of years [19,42-45], research on       of different types of structural connections (e.g., scat-
+other types of structural connectivity is relatively recent. tered trees, shrubs, drainage lines, fallen timber, large
+Furthermore, evidence comes from a variety of different      tussocks—whatever types of heterogeneity exist between
+types of studies (survey, mark-recapture, genetic, radio-    populations), not just traditional linear corridors. We
+tracking, etc.), which can make the resulting conclusions    will also attempt to analyse the effectiveness of structural
+difficult to interpret across studies. The systematic re-    connections based on quantitative characteristics such
+view approach is especially useful, as it provides a rigor-  as length, width, vegetation density, composition and
+ous framework in which to attempt a formal comparison        structure, and maximum gaps to be crossed. Of particu-
+of the different types of evidence produced by different     lar interest for the updated review, we will also examine
+types of studies.                                            the effectiveness of riparian connections compared to
+   We undertook a systematic review from 2008-2010           purely terrestrial connections and whether the effective-
+[46] with the aim of providing clearer, science-based in-    ness of riparian connections depends on hydrological
+formation to natural resource planners and managers          characteristics such as flood regime.
+about how best to invest in connectivity, and to identify
+critical knowledge gaps that could guide future research     Methods
+to ensure that Australia’s significant on-ground expendi-    Searches
+tures achieve their goals of restoring functional connectiv- We will focus our search on those databases that proved
+ity in Australian landscapes. Our review produced some       to be most useful during the original review and will not
+
+Doerr et al. Environmental Evidence 2014, 3:9                                                                                                             Page 4 of 8
+http://www.environmentalevidencejournal.org/content/3/1/9
+Table 1 Components of the primary systematic review question
+Population            Intervention                        Comparator                                Primary Outcome              Secondary Outcome
+Any terrestrial,      Patches of occupied habitat,        Patches of occupied habitat,              Relative movement*           Binary variable describing whether
+arboreal, or semi-    surrounded by a dissimilar          surrounded by a dissimilar                rates of individuals or      or not there is evidence of
+aquatic native        matrix, with some form of           unoccupied matrix, without (or            propagules (observed         movement* of individuals or
+Australian species    structural connectivity             with less) structural connectivity        or inferred) between         propagules (observed or inferred)
+                      between the patches                 between the patches                       patches                      between patches
+See Appendix for definitions of ecological terms.
+*Note that while we are ultimately most interested in dispersal, this is difficult to observe and quantify, and not all studies of movement are explicit about why
+the animals are moving. In some studies, the movement is even experimentally induced. Thus, we will include all studies with evidence of inter-patch movement,
+regardless of whether the purpose of the movement is known. Where the purpose of the movement is known but is related to migration or even daily foraging
+movements, we will still retain the study in the review because elements of structural connectivity that assist with these movements are likely to also be beneficial
+to dispersal. Depending on the data presented in a study, movement rates may be presented in terms of proportions of individuals moving, frequencies of movements,
+migrants per generation, etc.
+be searching those that produced relatively few unique                                     Landscape-context terms:
+sources (i.e., ones not found in other databases). Because                                 6. connectivity.
+our inclusion criteria have changed slightly since the ori-                                7. corridor*.
+ginal review (see below), we will not be restricting                                       8. fragment*.
+searches to any particular time period. The electronic                                     9. isolation.
+databases shown below in bold text will be searched for                                    10.landscape*.
+studies to be included in the updated review (databases                                    11.matrix.
+searched during the original review that will not be                                       12.paddock tree*.
+searched again have been italicized):                                                      13.patch*.
+                                                                                           14.stepping stone*.
+   1. ISI Web of Knowledge
+       i. ISI Web of Science – Science Citation Index.
+       ii. ISI Web of Science – Conference Proceedings                                     We will also search for the following single terms:
+            Citation Index (Science).                                                      15.interpatch* (OR inter-patch*).
+       iii. Current Contents.                                                              16.gap-crossing.
+       iv. CAB Abstracts.
+       v. Zoological Record.                                                               Where possible, we will use the following NOT terms:
+       vi. Web Citation Index.                                                          alga*, alloy*, bacteria*, brain, Campylobacter, capital,
+   2. Directory of Open Access Journals.                                                cell*, clinical, corrosion, cortex *, cultur*, deep-sea, dia-
+   3. Scopus.                                                                           tom*, disease*, evangel*, eye-movement*, fish*, fluvial,
+   4. Australian Agriculture and Natural Resources Online                               gas*, Holocene, ion, larva*, medicine, molecul*, neural,
+       (AANRO).                                                                         neuro*, marine, motion, patient, phylogenetic, phyto-
+   5. CSPubList (via EnCompass; official CSIRO publications).                           plankton*, plankton*, plate*, Pleistocene, politic*, poly-
+   6. CSIRO Library Catalogue (Voyager).                                                mer*, protein*, Salmonella, scripture, sediment, shear,
+   7. Trove (for Theses only – this search engine has                                   social movement*, soil*, speciation, stent, stygo*, thermal
+       replaced the Australian Digital Theses Program).                                 sensor, train*, transport*, uplift, virus*, weed*, zooplank-
+   8. ProQuest Dissertations and Theses.                                                ton*. These terms have been selected based on our ex-
+                                                                                        perience with the original searches and additional pilot
+   We will search using two-term searches: one movement-                                searches for the update. They do not include terms (e.g.,
+related term and one term relating to landscape context.                                “aquatic”, “river”, and “stream”) that were used to exclude
+We will conduct searches of each database using all pos-                                studies on semi-aquatic species from the original review.
+sible two-term searches based on the movement and land-                                    No non-English language searches will be conducted,
+scape terms below.                                                                      as we anticipate that all research on connectivity man-
+                                                                                        agement in Australia will be published in English.
+   Movement-related terms:                                                                 Searches will also be conducted using the internet-
+   1. colonisation (OR colonization).                                                   based search engine Google Scholar (but not Alltheweb
+   2. dispersal.                                                                        which was searched during the original review) using
+   3. migration.                                                                        both single-term searches and the ten best two-term
+   4. movement*.                                                                        searches as determined by the Trove search results. The
+   5. nomad* (new term that was not included in the                                     first 50 hits from each search will be examined for pos-
+       original review).                                                                sible inclusion in the review.
+
+Doerr et al. Environmental Evidence 2014, 3:9                                                                       Page 5 of 8
+http://www.environmentalevidencejournal.org/content/3/1/9
+  The extensive grey literature search undertaken for the       in the review or not. First, we will compare the pre-
+original review allowed us to identify the most relevant        filtering library from the original review with the pre-
+researchers, managers and policy makers in this area.           filtering library from the new searches and remove all
+Rather than repeating that time-consuming search, we            duplicates from the new library (to avoid the effort of
+will focus our effort on those individuals who proved to        filtering sources that were already found for the original
+be valuable sources during the original review. We will         review). However, because our inclusion criteria are
+contact these individuals to request information regard-        slightly different this time, we will search the original
+ing published or unpublished data produced since the            pre-filtering library to identify references focused on
+original review that would be relevant to this update.          semi-aquatic species which would have been filtered
+Due to the relatively small size of the ecological research     out for that review, and add these references to the new
+community in Australia, these enquiries will be quite           reference database. Next, we will perform a series of
+thorough.                                                       geographic filters: accepting references that contain
+                                                                Australian-specific geographic terms, rejecting any
+Study inclusion criteria                                        remaining references that contain non-Australian geo-
+We will include in the review any and all studies that          graphic terms, and finally accepting those that contain
+meet the following criteria. These criteria differ from         neither. Then, title filtering will be performed to re-
+those of the original review only in the inclusion of           move references that are clearly irrelevant to this re-
+semi-aquatic species such as amphibians.                        view, followed by abstract filtering to remove references
+                                                                that, based on the abstract, do not meet the above
+   Relevant subject(s): The study provides data on any         study inclusion criteria. Finally, full text filtering will be
+       terrestrial, arboreal, or semi-aquatic native Australian performed to remove references that may have ap-
+       species including mammals, birds, reptiles,              peared relevant from the abstract, but do not actually
+       amphibians, invertebrates or plants (including           meet the study inclusion criteria.
+       seeds or pollen).                                           When it is unclear whether a reference should be in-
+      Types of intervention: The study site contains any       cluded in the next stage of the review, it will be in-
+       type of structural connectivity between otherwise        cluded. At each of these stages, two reviewers will
+       isolated patches of native habitat or, even more         independently examine a subset of references (about
+       broadly, landscapes with significant spatial             10% of the studies) and results will be compared via a
+       heterogeneity in structure and occupancy by the          Kappa Test. If the Kappa value is <0.6, the filtering strat-
+       subject.                                                 egy will be revised and repeated until Kappa >0.6 is
+      Types of comparator: The study compares patches          achieved. Two reviewers will also independently review
+       connected by any type of structural connectivity vs.     references whose status remains unclear and any dis-
+       patches with less or no connectivity. No comparator      agreements will be resolved via consensus or by a third
+       is necessary for inclusion in the review; however,       reviewer.
+       comparators are required for studies to be included
+       in many of the analyses.                                 Potential sources of heterogeneity
+      Types of outcome: The study contains data on             Effects of structural connectivity may differ between
+       relative movement rates of individuals between           studies for a number of reasons. Whether or not any
+       patches, or at least evidence (direct or inferred—see    type of structural connection is effective at facilitating
+       Study quality assessment section) of movement            dispersal may simply depend—on the species, the eco-
+       within a heterogeneous landscape.                        system type, the characteristics of the rest of the land-
+      Types of study: A wide variety of types of study are     scape, etc. Yet in practice, land managers are unlikely to
+       often conducted in dispersal and connectivity            be managing for single species in single locations. In-
+       research (see Study quality assessment section           stead, they need general principles distilled from among
+       below) and we will attempt to include as many types      all this variation (e.g., habitat specialists respond simi-
+       as possible, including presence/absence studies,         larly, or scattered trees are more effective when they
+       abundance surveys, mark-recapture or re-sighting         connect woodlands as opposed to forests). Thus, we
+       data, genetic studies (including population-level        need to analyse whether these sources of heterogeneity
+       analyses as well as more detailed analyses like          among studies affect our overall conclusions. Possible
+       assignment tests), and more direct observations of       sources of heterogeneity to be considered wherever pos-
+       movement such as radiotelemetry studies.                 sible (and analysed through meta-analysis where suffi-
+                                                                cient data exist) will include:
+  References returned by all searches will be filtered in
+several stages to determine whether they will be included          1. Taxonomic group of study organism
+
+Doerr et al. Environmental Evidence 2014, 3:9                                                                                   Page 6 of 8
+http://www.environmentalevidencejournal.org/content/3/1/9
+   2. Ecology, behaviour, and dispersal mechanism of           or “rescue” populations from extinction. Very few studies
+      study organism.                                          will meet this gold standard by providing data on both of
+   3. Life history of study species and specifically the       these aspects of dispersal (and most will have data on nei-
+      life-history stage of individuals included in the study. ther). Instead, most studies use a variety of different surro-
+   4. Size of study organism and spatial scale of              gates, including everything from following dispersal
+      movements.                                               movements until settlement or observing part of the dis-
+   5. Type of community or ecosystem (e.g., temperate          persal (or other movement) process, to inferring dispersal
+      vs. tropical).                                           using genetic data or even presence/absence of a species.
+   6. Size, number and habitat quality of patches being        Thus, we also intend to use a hierarchy of evidence ap-
+      connected.                                               proach to distinguish between studies that fully docu-
+   7. Type of connectivity – e.g., continuous corridor,        mented paths leading to effective dispersal versus those
+      disjunct corridor, stepping stones, etc.                 that inferred that movement occurred using a variety of
+   8. Quantitative characteristics of connectivity – e.g.,     methods, some of which are better surrogates for dispersal
+      width, length, species composition, age, vegetation      and make fewer assumptions than others (Table 2).
+      complexity, gap distances, etc.                              Two reviewers will independently assess a random
+   9. For riparian sites, information on water flow, flood     subset of accepted articles (approximately 10% of the
+      regime, and/or inundation history.                       studies accepted at full text); any disagreement on study
+   10. Characteristics of the intervening matrix (crop,        quality will be resolved by consensus and referred to a
+      pasture, pine plantation, etc.).                         third reviewer if necessary.
+   11. Whether the connectivity and/or patches are
+      remnant or restored habitat.                             Data extraction strategy
+   12. Landscape level characteristics (e.g., total percent    For each study accepted into the final review, a reviewer
+      cover of native vegetation).                             will record data regarding the study characteristics (sub-
+   13. Disturbance history of study areas.                     ject, intervention, and outcomes measured), study qual-
+   14. Climatic conditions during study (e.g., drought).       ity, and sources of heterogeneity (see above) in a format
+   15. Type/purpose of movements studied (home-range           suitable for meta-analysis where possible on a specially
+      movements vs. foraging trips vs. dispersal vs.           designed data extraction form. We will use the data ex-
+      migratory or nomadic movements).                         traction form developed for the original review, but with
+   16. Study design (replicated comparisons, etc.).            a few additional columns to record information of par-
+   17. Type of study (tracking, mark/recapture, population     ticular relevance for riparian corridors (see #9 on the list
+      genetic, etc).                                           of potential source of heterogeneity above). Data extrac-
+   18. Artificial barriers such as roads or dams.              tion will be repeated by a second reviewer for a random
+Study quality assessment                                       Table 2 Hierarchy of evidence based on the type of data
+Each study accepted into the final review will be              recorded
+assigned two scores to rank its quality according to two       Quality of evidence – measuring effective dispersal
+distinct sets of criteria. One set of scores relates to the    I-1      Individuals followed directly so dispersal paths known—
+experimental design employed in each study. We will                     individuals followed until death or successful reproduction.
+use the hierarchy of evidence table presented by Pullin        I-2      Individuals followed directly so dispersal paths known
+and Knight [47], which is modified from systematic re-                  but only followed until settlement.
+views in medical research.                                     I-3      Individuals followed directly so dispersal paths known but only
+   Because we are particularly interested in assessing the              for part of dispersal search path.
+value of different landscape elements in terms of provid-      I-4      Movement path known but unknown whether for dispersal or
+ing functional connectivity, our “gold standard” will be                other purposes.
+data that document movement paths between patches              II-1     Between-patch movement known from mark-recapture data,
+(so we know which landscape elements were actually                      genetic assignment tests, or radiotelemetry data but movement
+                                                                        path not known.
+used) and which document successful reproduction fol-
+                                                               II-2     Between-patch dispersal inferred from population genetic data.
+lowing successful dispersal. This first point is particularly
+important because data showing that individuals have           III-1    Between-patch movement inferred from presence in connecting
+                                                                        landscape element (e.g. in corridor or stepping stone between
+transferred between patches that are connected by a corri-              patches)
+dor (e.g., through mark-recapture data) does not necessar-
+                                                               III-2    Between-patch dispersal inferred from presence/absence data
+ily prove that movement has occurred via the corridor.                  in patches.
+The second point is important because dispersal without        Data are generally assumed to be more reliable to the extent that dispersal
+reproduction will not ultimately affect levels of gene flow    (or other movement) was actually observed rather than inferred.
+
+Doerr et al. Environmental Evidence 2014, 3:9                                                                                      Page 7 of 8
+http://www.environmentalevidencejournal.org/content/3/1/9
+subset of studies (approximately 10%) to check accuracy      such as the variegated model and continuum model as
+and repeatability.                                           well as the patch-matrix model.
+                                                                Matrix – unoccupied region, thought or known to be
+Data synthesis                                               unsuitable as habitat, surrounding patches of suitable
+We will produce a narrative synthesis of the results of      habitat.
+all studies included in the final review based on the data      Habitat – a place suitable for survival and/or
+extraction summary tables. Meta-analysis including ran-      reproduction of a particular plant or animal species; note
+dom effects will be employed if suitable data are avail-     that different structural and compositional characteris-
+able. We will repeat our previous analyses which used        tics may be associated with habitat used for long-term
+hierarchical linear modelling to assess the effects of the   survival, reproduction, and short-term survival during
+various sources of heterogeneity (see above) on observed     dispersal.
+or inferred movement. We will also synthesise all avail-        Stepping stone – a landscape element that is located
+able data regarding gap-crossing distances and inter-        between but not contiguous with two or more patches;
+patch distances where movement does and does not             thus, a form of structural connectivity.
+occur, to try to identify thresholds, which emerged as          Gap-crossing – movement across matrix (e.g., from a
+important in previous empirical research [48] and in the     patch to a stepping stone). Gap-crossing studies typically
+first review [46].                                           involve experimental translocation of individuals across
+                                                             gaps and observing their behaviour after release.
+Appendix: Glossary of important terms
+                                                             Competing interests
+Structural Connectivity – habitat features in a fragmen-     The authors declare that they have no competing interests.
+ted or heterogeneous landscape that physically link other
+features, especially discrete areas of habitat occupied by   Authors’ contributions
+                                                             EDD, VAJD, and MJD developed the original review question and carried out
+any species in question (e.g., patches).                     the original systematic review. EDD wrote this protocol with contributions from
+   Functional Connectivity – the degree to which organ-      HMM, MJD, and VAJD. All authors read and approved the final manuscript.
+isms actually move through the landscape, especially be-
+                                                             Acknowledgements
+tween discrete areas of occupied habitat (e.g., patches)     We thank all of the numerous stakeholders that provided input into the
+and especially for dispersal & gene flow.                    development of the protocol for our original systematic review on this topic.
+   Connectivity – we adopt the definition of landscape
+                                                             Received: 13 January 2014 Accepted: 22 April 2014
+connectivity first proposed by Taylor et al. [17], who de-   Published: 7 May 2014
+fined it as “the degree to which the landscape facilitates
+or impedes movement among resource patches”; thus, a         References
+                                                             1. Wilcove DS: Nest predation in forest tracts and the decline of migratory
+landscape with high connectivity is one that provides             songbirds. Ecology 1985, 66:1211–1214.
+functional connectivity regardless of what it looks like in  2. Debinski DM, Holt RD: A survey and overview of habitat fragmentation
+terms of structural connectivity.                                 experiments. Conserv Biol 2000, 14:342–355.
+                                                             3. Fischer J, Lindenmayer DB: Landscape modification and habitat
+   Corridor – a landscape element that connects two or            fragmentation: a synthesis. Glob Ecol Biogeogr 2007, 16:265–280.
+more patches in a relatively unbroken (contiguous) line;     4. Harrison S, Bruna E: Habitat fragmentation and large-scale conservation:
+thus, a form of structural connectivity.                          what do we know for sure? Ecography 1999, 22:225–232.
+                                                             5. Lindenmayer DB, Fischer J: Habitat Fragmentation and Landscape Change:
+   Dispersal – movement of organisms or propagules that           an ecological and conservation synthesis. Washington, DC: Island Press; 2006.
+may potentially result in gene flow, including the move-     6. McGarigal K, Cushman SA: Comparative evaluation of experimental
+ment of individuals from their place of birth to the site         approaches to the study of habitat fragmentation effects. Ecol Appl 2002,
+                                                                  12:335–345.
+of their first breeding (natal dispersal), movement from     7. Rolstad J: Consequences of forest fragmentation for the dynamics of bird
+one breeding site to another breeding site (breeding dis-         populations - conceptual issues and the evidence. Biol J Linn Soc 1991,
+persal), movement of seeds (seed dispersal), and move-            42:149–163.
+                                                             8. Wilcox BA, Murphy DD: Conservation strategy - the effects of fragmentation
+ment of pollen (pollen dispersal).                                on extinction. Am Nat 1985, 125:879–887.
+   Effective dispersal – occurs when dispersal movements     9. Davis MB, Shaw RG: Range shifts and adaptive responses to quaternary
+result in actual gene flow (e.g., natal dispersal followed        climate change. Science 2001, 292:673–679.
+                                                             10. Gitay H, Suarez A, Watson RT, Dokken DJ: Climate Change and Biodiversity.
+by successful reproduction, seed dispersal followed by            IPCC Technical Paper V. Geneva: Intergovernmental Panel on Climate
+successful establishment and reproduction, etc.).                 Change; 2002.
+   Patch – a discrete area of habitat occupied by a spe-     11. Parmesan C: Ecological and evolutionary responses to recent climate
+                                                                  change. Annu Rev Ecol Evol Syst 2006, 37:637–669.
+cies, surrounded by areas not occupied by that species       12. Bennett AF, Ford LA: Land use, habitat change and the conservation of
+that are known or thought to be unsuitable as habitat (e.g.,      birds in fragmented rural environments: a landscape perspective from
+matrix); note therefore that a patch may not be clearly ob-       the Northern Plains, Victoria, Australia. Pac Conserv Biol 1997, 3:244–261.
+                                                             13. Saunders DA: Changes in the avifauna of a region, a district and remnant
+servable in a structural sense to researchers, and thus this      as a result of fragmentation of native vegetation: the Wheatbelt of
+definition of patch is compatible with landscape models           Western Australia. a case study. Biol Conserv 1989, 50:99–135.
+
+Doerr et al. Environmental Evidence 2014, 3:9                                                                                                             Page 8 of 8
+http://www.environmentalevidencejournal.org/content/3/1/9
+14. Recher HF: The state of Australia’s avifauna: a personal opinion and            42. Bennett AF: Linkages in the landscape: the role of corridors and connectivity in
+     prediction for the new millennium. Aust Zool 1999, 31:11–27.                        wildlife conservation. Cambridge: IUCN; 1998.
+15. Harris LD, Gallagher PB: New initiatives for wildlife conservation: the need    43. Davies ZG, Pullin AS: Are hedgerows effective corridors between
+     for movement corridors. In Preserving communities and corridors. Edited by          fragments of woodland habitat? An evidence-based approach. Landsc
+     Mackintosh G. Washington D.C: Defenders of Wildlife; 1989:11–34.                    Ecol 2007, 22:333–351.
+16. Hobbs RJ, Hopkins AJM: The role of conservation corridors in a changing         44. Haddad NM, Bowne DR, Cunningham A, Danielson BJ, Levey DJ, Sargent S,
+     climate. In Nature conservation 2: The role of corridors. Edited by Saunders        Spira T: Corridor use by diverse taxa. Ecology 2003, 84:609–615.
+     DA, Hobbs RJ. Chipping Norton, NSW: Surrey, Beatty & Sons; 1991:281–290.       45. Saunders DA, Hobbs RJ (Eds): Nature conservation 2: The role of corridors.
+17. Taylor PD, Fahrig L, Henein K, Merriam G: Connectivity is a vital element of         Chipping Norton. NSW: Surrey, Beatty & Sons; 1991.
+     landscape structure. Oikos 1993, 68:571–573.                                   46. Doerr VAJ, Doerr ED, Davies MJ: Does structural connectivity facilitate
+18. Simberloff D, Farr JA, Cox J, Mehlman DW: Movement corridors -                       dispersal of native species in Australia’s fragmented terrestrial
+     conservation bargains or poor investments? Conserv Biol 1992, 6:493–504.            landscapes? CEE review 08-007 (SR44). Collaboration Environ Evid 2010,
+19. Beier P, Noss RF: Do habitat corridors provide connectivity? Conserv Biol            www.environmentalevidence.org/SR44.html.
+     1998, 12:1241–1252.                                                            47. Pullin AS, Knight TM: Support for decision making in conservation
+20. Hobbs RJ: The role of corridors in conservation - solution or bandwagon?             practice: an evidence-based approach. J Nat Conserv 2003, 11:83–90.
+     Trends Ecol Evol 1992, 7:389–392.                                              48. Doerr VAJ, Doerr ED, Davies MJ: Dispersal behaviour of brown
+21. Heinz SK, Wissel C, Conradt L, Frank K: Integrating individual movement              treecreepers predicts functional connectivity for several other woodland
+     behaviour into dispersal functions. J Theor Biol 2007, 245:601–609.                 birds. Emu 2011, 111:71–83.
+22. St Clair CC, Belisle M, Desrochers A, Hannon S: Winter responses of forest
+     birds to habitat corridors and gaps. Conserv Ecol [online] 1998, 2:13.           doi:10.1186/2047-2382-3-9
+23. Lindenmayer DB: The design of wildlife corridors in wood production               Cite this article as: Doerr et al.: Does structural connectivity facilitate
+     forests. NSW National Parks and Wildlife Service Occasional Papers Series        movement of native species in Australia’s fragmented landscapes?: a
+     1998, 4:1–41.                                                                    systematic review protocol. Environmental Evidence 2014 3:9.
+24. Tischendorf L, Wissel C: Corridors as conduits for small mammals:
+     attainable distances depending on movement pattern, boundary
+     reaction and corridor width. Oikos 1997, 79:603–611.
+25. Haddad NM, Rosenberg DK, Noon BR: On experimentation and the study
+     of corridors: response to Beier and Noss. Conserv Biol 2000, 14:1543–1545.
+26. Noss RF: Corridors in real landscapes: a reply to Simberloff and Cox.
+     Conserv Biol 1987, 1:159–164.
+27. Simberloff D, Cox J: Consequences and costs of conservation corridors.
+     Conserv Biol 1987, 1:63–71.
+28. Cale PG: The spatial dynamics of the White-browed Babbler in a fragmented
+     agricultural landscape, PhD thesis. NSW: University of New England; 1999.
+29. Hess GR, Fischer RA: Communicating clearly about conservation corridors.
+     Landscape Urban Plann 2001, 55:195–208.
+30. Lynch JF, Carmen WJ, Saunders DA, Cale PG: Use of vegetated road verges
+     and habitat patches by four bird species in the central wheatbelt of Western
+     Australia. In Nature Conservation 4: The role of networks. Edited by Saunders
+     DA, Craig JL, Mattiske EM. Surrey, Beatty & Sons: Chipping Norton, NSW;
+     1995:34–42.
+31. McIntyre S, Barrett GW: Habitat variegation, an alternative to
+     fragmentation. Conserv Biol 1992, 6:146–147.
+32. McIntyre S, Hobbs RJ: A framework for conceptualizing human effects on
+     landscapes and its relevance to management and research models.
+     Conserv Biol 1999, 13:1282–1292.
+33. Fischer J, Lindenmayer DB: Beyond fragmentation: the continuum model
+     for fauna research and conservation in human-modified landscapes.
+     Oikos 2006, 112:473–480.
+34. Manning AD, Lindenmayer DB, Nix HA: Continua and Umwelt: novel
+     perspectives on viewing landscapes. Oikos 2004, 104:621–628.
+35. Bentley JM, Catterall CP: The use of bushland, corridors, and linear
+     remnants by birds in southeastern Queensland, Australia. Conserv Biol
+     1997, 11:1173–1189.
+36. Crooks KR: Sanjayan M (Eds.): Connectivity Conservation. Cambridge:
+     Cambridge University Press; 2006.
+37. Hilty JA, Lidicker WZ, Merenlander AM: Corridor Ecology: the science and
+     practice of linking landscapes for biodiversity conservation. Washington, DC:        Submit your next manuscript to BioMed Central
+     Island Press; 2006.                                                                  and take full advantage of:
+38. Uezu A, Metzger JP, Vielliard JME: Effects of structural and functional
+     connectivity and patch size on the abundance of seven Atlantic Forest
+                                                                                          • Convenient online submission
+     bird species. Biol Conserv 2005, 123:507–519.
+39. With KA, Cadaret SJ, Davis C: Movement responses to patch structure in                • Thorough peer review
+     experimental fractal landscapes. Ecology 1999, 80:1340–1353.                         • No space constraints or color ﬁgure charges
+40. Hanson JS, Malanson GP, Armstrong MP: Landscape fragmentation and
+                                                                                          • Immediate publication on acceptance
+     dispersal in a model of riparian forest dynamics. Ecol Model 1990,
+     49:277–296.                                                                          • Inclusion in PubMed, CAS, Scopus and Google Scholar
+41. Tilman D, Lehman CL, Kareiva P: Population dynamics in spatial habitats.              • Research which is freely available for redistribution
+     In Spatial ecology: The role of space in population dynamics and interspecific
+     interactions. Edited by Tilman D, Kareiva P. Princeton, N.J: Princeton
+     Universtiy Press; 1997:3–20.                                                         Submit your manuscript at
+                                                                                          www.biomedcentral.com/submit
+
