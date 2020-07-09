@@ -1,6 +1,6 @@
 # eejarticlemetadata
 
-This repository contains scraped meta-data from all eej articles based on a suite of PDF and HTML scraping functions that extract information from the publisher URL and doi.
+This repository contains scraped meta-data from all Environmental Evidence journal (eej) articles based on a suite of PDF and HTML scraping functions that extract information from the publisher URL and doi.
 
 The list of extracted meta-data/data are as follows:  
 - authors  
