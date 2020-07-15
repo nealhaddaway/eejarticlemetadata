@@ -1,0 +1,633 @@
+Skip to main content
+Advertisement
+Search
+• Explore journals
+• Get published
+• About BMC
+• My account
+Search all BMC articles
+Search
+Environmental Evidence
+• Home
+• About
+• Articles
+• Submission Guidelines
+Download PDF
+• Systematic Review
+• Open Access
+• Published: 17 February 2020
+How effective are strategies to control the dissemination of antibiotic resistance in the environment? A systematic review
+• Anaïs Goulas1,2,
+• Drifa Belhadi3,
+• Alexandre Descamps1,3,
+• Antoine Andremont1,
+• Pierre Benoit4,
+• Sophie Courtois5,
+• Christophe Dagot6,
+• Nathalie Grall1,7,
+• David Makowski8,9,
+• Sylvie Nazaret10,
+• Sylvie Nélieu4,
+• Dominique Patureau11,
+• Fabienne Petit12,13,
+• Céline Roose-Amsaleg14,
+• Marion Vittecoq15,16,
+• Barbara Livoreil2 &
+• Cédric Laouénan1,3
+Environmental Evidence volume 9, Article number: 4 (2020) Cite this article
+2137 Accesses
+1 Citations
+34 Altmetric
+Metrics details
+• The Systematic Review Protocol to this article has been published in Environmental Evidence 2018 7:3
+Abstract
+Background
+Antibiotic resistance is a major concern for public and environmental health. The role played by the environment in disseminating resistance is increasingly considered, as well as its capacity for mitigation. We reviewed the literature on strategies to control dissemination of antibiotic-resistant bacteria (ARB), antibiotic resistance genes (ARG) and mobile genetic elements (MGE) in the environment.
+Methods
+This systematic review focused on three main strategies: (i) restriction of antibiotic use (S1), (ii) treatments of liquid/solid matrices (S2) and (iii) management of natural environment (S3). Articles were collected from seven scientific databases until July 2017 and from Web of Science until June 2018. Only studies reporting measurements of ARB, ARG or MGE in environmental samples were included. An evidence map was drawn from metadata extracted from all studies eligible for S1, S2 and S3. Subsets of studies were assessed for internal and external validity to perform narrative and quantitative syntheses. A meta-analysis was carried out to assess the effects of organic waste treatments (random-effect models).
+Review findings
+Nine hundred and thirty-one articles representing 1316 individual studies (n) were eligible for S1 (n = 59), S2 (n = 781) and S3 (n = 476) strategies, respectively. Effects of interventions to control the dissemination of antibiotic resistance in the environment were primarily studied in strategy S2. A partial efficiency of wastewater treatment plants (WWTPs) to reduce antibiotic resistance in treated effluent was reported in 118 high validity studies. In spite of the heterogeneity in published results, the meta-analysis showed that composting and drying were efficient treatments to reduce the relative abundance of ARG and MGE in organic waste, by 84% [65%; 93%] and 98% [80%; 100%], respectively. The effect of anaerobic digestion was not statistically significant (51% reduction [− 2%; 77%]) when organic waste treatments were compared together in the same model. Studies in strategies S1 and S3 mainly assessed the effects of exposure to sources of contamination. For instance, 28 medium/high validity studies showed an increase of antibiotic resistance in aquatic environments at the WWTP discharge point. Some of these studies also showed a decrease of resistance as the distance from the WWTP increases, related to a natural resilience capacity of aquatic environments. Concerning wildlife, nine medium/high validity studies showed that animals exposed to anthropogenic activities carried more ARB.
+Conclusions and implications
+Knowledge gaps were identified for the relationship between restriction of antibiotic use and variation of antibiotic resistance in the environment, as well as on possible interventions in situ in natural environment. Organic waste treatments with thermophilic phase (> 50 °C) should be implemented before the use/release of organic waste in the environment. More investigation should be conducted with the datasets available in this review to determine the treatment efficiency on ARG carried by specific bacterial communities.
+Background
+Bacteria are becoming more resistant to antibiotics, leading to major public and veterinary health problems [1]. A combined effort of environmental, clinical and veterinary sciences is needed to tackle antibiotic resistance (ATBR) in a One-Health approach [2]. In 2015, the World Health Organization (WHO) adopted a global action plan [3] that many countries followed. Yet, antibiotic use and anthropogenic activities such as agriculture, aquaculture and pharmaceutical manufacturing still highly impact the environment [4]. Antibiotic residues, antibiotic-resistant bacteria (ARB) and their genes (ARG) disseminate in the environment, mainly with (i) the discharge of treated urban wastewaters, (ii) the recycling of organic waste products in agriculture and, (iii) the field run-off that depends on pluviometry and land use. Increase of demography and anthropogenic activities leads to the contamination of the environment by metals and organic pollutants such as antibiotics or biocides, which can result in the selection, or co-selection of ATBR. Even if soils are considered as natural reservoirs of ARG, the current discharge of ARB, ARG, mobile genetic elements (MGE), combined with the selection pressure by chemical pollutants, may lead to new ecological niches of ATBR in aquatic, terrestrial and wildlife compartments [5,6,7,8,9]. Therefore, it is urgent to highlight effective solutions to decrease the potential risky outcomes of ATBR in the environment, namely: (i) the transfer of ARG to previously susceptible bacteria, (ii) the emergence of novel ARG conferring resistance to last resort antibiotics, and (iii) the transmission of ARB to humans, animals and plants.
+Several means have been proposed to reduce ATBR dissemination in the environment [4, 10]. For example, (i) to decrease antibiotics used in human and veterinary medicine, in aquaculture and agriculture, as well as to ban their use as growth promoters; (ii) to limit the discharge of antibiotic residues, ARB, ARG and MGE in the environment by implementing treatments of wastewater and organic waste before their rejection or their use in the environment. A third option would be (iii) to control ATBR dissemination in situ, based on optimizing the conditions of their releases to the receiving environment in order to enhance their rapid dissipation (e.g., dilution, salinity, predation, solar radiation). These three actions aim at limiting the exposure of environmental bacteria, animals and humans to antibiotics and/or ATBR, and at controlling the possible transfer of resistance.
+Two recent systematic reviews focused on the use of antibiotics in livestock animals [11, 12]. WHO cited them to recommend a restriction in antibiotic use to reduce ATBR in livestock animals and farmers [13]. Several countries are making such efforts, for instance, France and the United Kingdom [14, 15].
+Apart from reducing the use of antibiotics, several strategies including wastewater and organic waste treatments, and/or environmental management can reduce the spread of resistance and limit the putative action of antibiotic residues on microbial communities [4, 10, 16]. Wastewater treatment plants (WWTPs) are designed to treat organic matter and nutrients but they may have variable efficiencies regarding the removal of contaminants such as antibiotic residues, ARB, ARG and MGE. The WWTPs may be a place for horizontal gene transfer and their discharges are potential hotspots of ATBR [16, 17]. Sewage sludge and livestock manure are recycled in agriculture for soil fertilization and amendment [18]. The use of such organic waste in environmental settings could be a major factor in the dissemination of ATBR, depending on concentrations of antibiotic residues and abundance of ARB, ARG, MGE in organic waste products. If various treatments are implemented before their use, such treatments result in variable reductions of pathogenic bacteria including antibiotic-resistant ones, as well as variable reductions of ARG and MGE [19].
+Anthropogenic activities may increase the ATBR burden in agricultural soils and natural environments, including waterbodies and wildlife. It would be useful to identify interventions that could be implemented in situ to control and/or reduce the dissemination of ATBR. In this review, we define “Intervention” as any action that is conducted with the purpose of reducing ATBR. Similarly, it is necessary to determine the conditions under which the contamination of the environment can be limited in case of “Exposure”.
+Stakeholder engagement
+Experts in close cooperation established the scope and focus of this review. The stakeholders were based in France and included: (i) researchers from National Institute of Agronomic Research (INRA), National Institute of Health and Medical Research (INSERM), National Centre of Scientific Research (CNRS) and from universities; (ii) practitioners and managers (e.g. SUEZ company providing services in wastewater and organic waste treatments); (iii) governmental administration boards (e.g. French Agency for Food, Environmental and Occupational Health & Safety); and (iv) the four Ministries involved in the inter-ministerial program to combat ATBR (French Ministries of Ecological and Inclusive Transition, of Solidarity and Health, of Food and Agriculture, of Higher Education, Research and Innovation). Researchers constituted the main review team and stakeholders were consulted when needed, to obtain their advice and opinions.
+Objectives of the review
+The main objectives of this review were: (1) to identify Interventions and (2) to assess their effectiveness to reduce the dissemination of ATBR in the environment. According to our protocol [20], three sub-questions were identified as pathways to reduce ATBR dissemination in the environment (Table 1). Population, Intervention or Exposure, Comparator components are specific to each sub-question, while Outcomes are the same for the three sub-questions (PICO/PECO in Table 2). We looked for studies on Interventions that can be implemented from the stage of antibiotic use up to the contamination of the environment, and can lead to a lower ATBR burden in the environment. Those studies are reported in an evidence map, which allowed us to identify subsets of studies for further narrative and quantitative evidence syntheses, including study validity assessment. A third objective of this systematic review was to provide an overview of available evidence on what happens in the environment when it is exposed to different sources of ATBR. A systematic review has been published during the course of our work on impacts of point sources on ARB in natural environment [21]. Considering that similar articles were retrieved by our searches, we chose to include them in the evidence map.
+Table 1 Details of the three review sub-questions
+Full size table
+Table 2 PICO/PECO components of the three sub-questions
+Full size table
+Methods
+This systematic review was conducted according to the guidelines for systematic reviews of the Collaboration for Environmental Evidence [22] (https://environmentalevidencejournal.biomedcentral.com/submission-guidelines) and to the materials and methods detailed in the open-access systematic review protocol [20]. We also followed the RepOrting standards for Systematic Evidence Syntheses (ROSES, Additional file 1) [23]. Materials, methods and potential deviations from the protocol are described under each section below.
+Search for articles
+The search strategy was followed as described in the protocol and details of the combination of search terms are given in Additional file 2. The search for articles was conducted in English language with no restriction in date. The first search was conducted in nine publication databases in July 2017 (17th–21st, depending on the database): Web of Science, Pubmed, Scopus, DOAJ, JSTOR, Agricola, Ingenta Connect, AGRIS FAO and BioOne. Access to Web of Science, PubMed and Ingenta Connect has been allowed through INSERM/INIST institutional subscription, while that of Scopus thanks to a temporary account as a reviewer. Contrary to statements in protocol, the search in Wiley Online Library was not performed due to time constraints (see “Limitations due to the search strategy” section). The search in Drug Resistance Updates was not performed because our systematic review question did not correspond to the aims and scope of this journal (publication on drug resistance in infectious disease and cancer, novel drugs and strategies to overcome clinical drug resistance). A second search was made in Google Scholar (July 2017) and references obtained in the two first pages of results were checked for eligibility. Grey literature was searched both in English and French on 23 websites listed in the protocol [20]. Researchers and private companies were contacted to ask for unpublished data. Grey literature was assessed using the same criteria as for articles (“Screening for eligibility” section).
+Considering the increasing number of studies on ATBR in the environment in recent years, alerts for new publications on Web of Science were used from July 2017 (17th) up to June 2018 (14th). Web of Science database was chosen since it gave the highest number of collected articles at the first search.
+As described in the protocol [20], a list of relevant articles was used to test the comprehensiveness of the search (42 articles instead of 28 as stated in the protocol). The search string in Web of Science was tested against this test list and was refined to retrieve 100% of the test list (available in Additional file 2).
+Article screening and study eligibility criteria
+Screening for eligibility
+The screening was performed according to eligibility criteria based on PICO/PECO components and study types defined for each sub-question (Table 3) [20]. Our rationale was to focus on studies in which ATBR was measured in samples directly in contact with natural habitats, as this review is interested at minimizing risk of contamination. We excluded studies in which ATBR was measured in biological samples from humans, cultivated plants or domestic animals. Studies on ATBR in the hospital indoor environment, on infectious diseases, molecular or genetic characterization, and occurrence of pharmaceuticals, bacteria or virulence genes, without ATBR measurement were also excluded.
+Table 3 Eligible PICO/PECO (I/E: Intervention or Exposure) and study types
+Full size table
+Before screening, tests were performed to check for consistency between reviewers [20]. The first screening was performed on titles. The eligibility criteria were independently applied by three reviewers (including the project manager) to two successive series of 40 articles randomly chosen [Kappa tests in Additional file 3: 0.5% articles collected after the first search (“Search for articles” section)]. Discrepancies were discussed after each test to refine eligibility criteria and increase consistency, which was assumed acceptable when Kappa coefficients were all above 0.6. All disagreements between reviewers and eligibility decisions were reported to the review team so that the resolutions informed subsequent assessments. After screening of titles, all excluded articles were double-checked by the project manager in order to verify that no relevant article has been inappropriately discarded.
+The second screening was performed on abstracts. The eligibility criteria were independently applied by 11 reviewers (including the project manager) to two successive series of 25 articles [Kappa tests in Additional file 3: 4% articles collected after the first search (“Search for articles” section)]. As for title eligibility, discrepancies were discussed and the final decisions were reported to the review team. Kappa coefficients were considered acceptable if above 0.6, and the final list of excluded articles was double-checked by the project manager to control for articles possibly inappropriately discarded.
+The last screening was performed on full texts by the review team. Reviewers did not screen articles they authored in order to avoid conflict of interest. We did not test for consistency among reviewers at this stage of the screening process. Rather, each reviewer extracted metadata (“Metadata (all studies)” section) and decided whether they matched with eligibility criteria. The project manager double-checked all metadata and eligibility decisions. Discrepancies were discussed until an agreement was reached. All disagreements between reviewers and eligibility decisions were reported to the review team. All excluded articles were double-checked by the project manager in order to verify that no relevant article has been inappropriately discarded. Reasons for exclusion of full-text articles were reported (Additional file 3).
+The same screening procedure was applied to the articles collected with alerts for new publications in Web of Science (“Search for articles” section).
+Supplementary selection of articles for the final syntheses
+A prioritization exercise was conducted with the experts and the commissioner after describing the systematic map. The selection of topics was based both on the priorities of commissioner and the resources available to produce a synthesis within the remaining time. As a consequence for the narrative synthesis, the prioritized Interventions were: livestock management practices (related to S1), full-scale WWTP (related to S2); and the prioritized Exposures were: discharge of WWTP effluent in aquatic ecosystems, contamination of wildlife (related to S3).
+For the meta-analysis, the prioritized Intervention was: organic waste treatments (related to S2). Six types of treatments were considered: aerobic and anaerobic digestion, aerobic and anaerobic lagoon storage, composting, drying, pasteurization and pile storage. Eligible organic waste (Population) was livestock waste and sewage sludge. To account for differences of bacterial abundance across samples, the eligible Outcome for the meta-analysis was the relative abundance of ATBR markers (e.g., number of ARG copies in total microbial biomass estimated by number of 16S rRNA copies in environmental sample).
+Study validity assessment
+To assess the internal validity of each study, sources of bias were determined through discussion with the review team. Biases were defined using the catalogue of biases (https://catalogofbias.org/biases/) and are presented in Table 4. Critical appraisal tools to assess the validity of studies (selected according to “Supplementary selection of articles for the final syntheses” section) are reported in Additional file 4. A high, medium or low validity level was attributed to each study. For validity assessment of studies on full-scale WWTPs, definitively high/probably low/definitively low validity levels were used to avoid all studies being classified as “medium” (Additional file 4). Studies were assessed for external validity to determine the generalizability of conclusions. We considered: study scale (lab/field), study period and time length (days/weeks/months/years), number of ATBR markers measured (one vs several genes or bacteria) and expression of results (absolute vs relative abundance), and finally by considering global susceptibility to bias (low external validity if definitively low internal validity).
+Table 4 Criteria used for critical appraisal: global sources of biases assessed for internal validity of studies included in our systematic review (I/E: Intervention/Exposure)
+Full size table
+The whole review team contributed to study validity assessment and all decisions were double-checked by the project manager. Disagreements were discussed during working meetings until an agreement was reached.
+The study validity assessment was used to consider results from medium/high validity studies in narrative synthesis. The impacts of validity levels on the results of meta-analysis were tested in the quantitative synthesis (“Quantitative synthesis with meta-analysis” in “Data synthesis and presentation” section).
+Strategy for data extraction and coding
+Metadata (all studies)
+Metadata, i.e., descriptive data were extracted from all included articles. Extracted data were reference, study type, study location (country), Population, Intervention/Exposure, study design including Comparator, sampling and Outcomes (Additional file 5). The project manager and experts independently conducted the metadata extraction, which was double-checked by reviewers and the project manager, respectively. The experts did not extract the data of articles they authored.
+Then, metadata were coded in order to create a database easy to use for descriptive statistics and further perusal (Additional file 5). The project manager coded the metadata, which was double-checked by the experts. Disagreements were discussed during working meetings until an agreement was reached.
+There were a number of considerations made during metadata extraction. Studies were defined as experiments or observations undertaken at one site or at a series of sites. When sites were considered as independent, one study was considered for each site. Each study could be carried out at a specific time or over time. For articles containing several studies, metadata were extracted on as many lines as there were studies (Additional file 5).
+Qualitative data for narrative synthesis (subset of studies)
+To conduct the narrative synthesis, qualitative data from medium/high validity studies were extracted by coding the direction of the effect size as well as its statistical significance when available. A distinction was made between ATBR markers for which the effect size was positive or negative in order to assess how effective the Intervention was depending on the marker. The whole review team contributed to data extraction and all the data was double-checked by the project manager. The experts did not extract the data of articles they authored.
+Data for meta-analysis (subset of studies)
+Both qualitative and quantitative data were extracted from articles selected for the meta-analysis (“Supplementary selection of articles for the final syntheses” section). The list of data is presented in Table 5. Data was extracted by the project manager and one reviewer (neither of them is the author of the articles). Unpublished data collected from an expert was implemented in the dataset by the expert under the supervision of the project manager. Due to resource limitations, data from a subset of 28% of articles randomly chosen were extracted independently by each reviewer in order to check for consistency and minimize mistakes. A unique identifier was created for each article to facilitate reporting. Quantitative data (medians, means) were directly extracted from text, tables and/or from figures by using the image analysis software WebPlotDigitizer (https://apps.automeris.io/wpd/). Authors of seven articles were contacted to retrieve missing data, e.g., when a heat map presented ARG data or when data were pooled. As only one author of two articles responded, the other five articles were excluded. The full dataset used for meta-analysis is provided in Additional file 6.
+Table 5 Informative and quantitative data extracted for meta-analysis
+Full size table
+Potential effect modifiers and reasons for heterogeneity
+When not statistically tested, hypotheses to explain observed heterogeneity were drawn based on potential effect modifiers determined in our protocol [20]. In quantitative synthesis, the effects of the following potential modifiers were tested (“Quantitative synthesis with meta-analysis” in “Data synthesis and presentation” section):
+Antibiotic use for animals in full-scale studies (yes, no, unknown);
+Organic waste: origin (sludge from municipal or pharmaceutical WWTP, animal for livestock effluents);
+Spiking: artificial enrichment of organic waste before treatment with chemicals such as antibiotics or metals;
+Treatment conditions such as feeding mode;
+Antibiotic family for which resistance is assessed, defined according to The Comprehensive Antibiotic Resistance Database (https://card.mcmaster.ca/);
+Mechanism of resistance encoded by genes, defined according to The Comprehensive Antibiotic Resistance Database (https://card.mcmaster.ca/);
+Maximum temperature reached during treatment;
+Treatment time.
+Considering that it was not always possible to suggest impact of some confounders and effect modifiers on heterogeneity due to lack of reporting in studies, all hypotheses will be discussed in our review results and limitations.
+Data synthesis and presentation
+Descriptive statistics and systematic map
+All studies were included in the systematic map. The relevant literature was organized as a database (evidence map) according to the three sub-questions S1, S2 and S3. Data was coded in order to make available the range of Interventions and Exposures as well as the quantity of related literature and knowledge gaps. Out of the systematic map, a prioritization exercise was conducted with the experts and the commissioner (as mentioned in “Supplementary selection of articles for the final syntheses” section) to select studies for narrative and quantitative syntheses including study validity assessment.
+Narrative synthesis including study validity assessment
+The narrative synthesis was conducted based on medium/high validity studies on livestock management practices (related to S1), full-scale WWTP (related to S2), contamination of aquatic ecosystems receiving WWTP effluent and contamination of wildlife (related to S3) (see selection criteria in “Supplementary selection of articles for the final syntheses” section).
+Quantitative synthesis with meta-analysis
+The meta-analysis was carried out to assess the effects of organic waste treatments (related to S2) (see selection criteria in “Supplementary selection of articles for the final syntheses” section). The quantitative synthesis was conducted based on the results of the following statistical analyses. Effect size, i.e., the effectiveness of the treatment in reducing ATBR, was calculated as the ratio between the relative abundance (RA) after and before treatment. The analysis was conducted on logarithms of the ratios in order to normalize the data distribution. The results were back-transformed and expressed in percent (%). The percentage was calculated as followed (Eq. 1):
+$${\text{\% Reduction }} = 100 \times \left( {1 {-} {\text{Ratio}}} \right).$$
+(1)
+A variable “experimental condition” was built as the concatenation of study identifier, pre-treatment, main treatment, second treatment, any treatment condition, feeding mode, conditions of solid and hydraulic retention times (SRT/HRT), adjustment of pH, treatment phase and temperature. An average log ratio was calculated for each experimental condition. An empirical variance of the log ratio was then calculated from the log ratio measurements available for each level of the variable “experimental condition”. When only one measure of log ratio was available, the variance was imputed by the mean of the other calculated variances. The confidence interval of each log ratio was derived from the empirical standard error.
+Several random-effects models were fitted to the dataset by restricted maximum likelihood with R (version 3.5.1, package lme4). In each model, the study identifier was included as random effect and the empirical variances were used to weight the individual log ratio. Mean effect sizes and their associated 95% confidence intervals (CI) were estimated for the different types of organic treatments defined above. The heterogeneity between studies was estimated using the Cochran’s Q test and I2 statistic; it was considered significant if p-value associated with the Q test was < 0.10 or if I2 was ≥ 40%. The effects of several covariates (detailed in “Potential effect modifiers and reasons for heterogeneity” section) were tested in subgroup analyses to explain part of the between-study heterogeneity in effects of treatment. A sensitivity analysis was conducted to assess the influence of the study validity (i.e., low/medium/high validity) on the results of meta-analysis. Subgroups of studies were defined based on their validity and results obtained with each subgroup were compared. Funnel plot analyses were run to assess the presence of publication bias.
+Review findings
+Review descriptive statistics and systematic map
+Literature search and screening
+As detailed on flow chart (Fig. 1), the search resulted in the collection of 20,542 articles (18,824 from eight publication databases, seven articles from additional searches and 1711 articles from alert in Web of Science). The search in BioOne was not reported because it was not possible to save the results; moreover, this search only led to three irrelevant results when conducted only on titles, and, when searching on abstracts, to 58 articles that were already retrieved by the search in Web of Science. Similarly, results of the search in Google Scholar were not reported because only duplicates were retrieved (two first pages of results) compared to Web of Science. From the search for grey literature in 23 websites, no relevant study was obtained considering the review question, and results were considered only as sources of information.
+Fig. 1
+Flow diagram (N = number of articles, n = number of studies) adapted from ROSES [23]. The list of not retrieved full text and not eligible articles, with reasons for exclusion are detailed in Additional file 3. Notes: (1) Only the 10 first items could be saved; this technical problem was reported by contacting the site services but this had not resulted in a response or solution. (2) Priorization for these syntheses but no reason for non-inclusion of the other studies in further syntheses
+Full size image
+As shown in Fig. 1, 931 articles (N) were included in the evidence map, corresponding to 1316 individual studies (n). The final search string allowed 100% of the test-list to be retrieved (42 articles in Additional file 2). The list of 58 articles not found for full-text assessment is available in Additional file 3, as well as the list of excluded articles with reasons for exclusion (N = 790).
+All Kappa coefficients, obtained on second tests before screening, were above 0.7 (see consistency checking in Additional file 3). The screening resulted in a high exclusion rate because global search terms (e.g., environment, antibiotic) led to the retrieval of many studies irrelevant for this systematic review (e.g., antibiotic resistance in hospital indoor environment). As mentioned in the inclusion criteria (Table 3), the quantification of ATBR in environmental samples (including wildlife) was the only eligible outcome. For the sub-question S1, many articles were excluded at the full-text stage (N = 117, Additional file 3) because their abstracts were not detailed enough. For instance, the term “feces” could range from fresh material collected in animal’s rectum (not eligible) or composting material from a manure pile (eligible).
+Systematic map
+The systematic map aims at organizing knowledge to guide subsequent analyses. The evidence database is provided in Additional file 5.
+As shown in Fig. 2, the number of individual studies (n) is not balanced between the three sub-questions (detailed in Table 1), with a lower number in S1 (n = 59) compared to S2 (n = 781) and S3 (n = 476). Only one article addressed the three sub-questions (identifier UW004 in Additional file 5) [24].
+Fig. 2
+Venn diagram: number of articles (N) and individual studies (n) included in sub-questions S1, S2 and S3. An article can contain several studies related to different sub-questions (on the left) but a study is related to only one sub-question (on the right)
+Full size image
+Figure 3 shows the only recent awareness of problems related to ATBR dissemination in the environment (increase in scientific publication starting in 2005). Research on solutions to control it has been growing since the 2010s and the number of studies (included in our synthesis) has almost doubled between 2015 and 2016.
+Fig. 3
+Number of studies per year of publication (*the literature search ended on 2018-06-14)
+Full size image
+Studies were distributed across the five continents (Fig. 4). Research on consequences of antibiotic use on ATBR in the environment (S1) was mainly conducted in North America (USA) and Europe (France; Fig. 4a). Studies on wastewater and organic waste treatments (S2) were mostly conducted (considering ≥ 10 studies) in North America (USA, Canada), South America (Brazil), Europe (France, Germany, Italy, Poland, Portugal, Spain, United Kingdom) and Asia (Saudi Arabia, India, Korea, China). The highest number of studies is from China (34% studies) and gaps exist in Russia, Africa, South America and Oceania (Fig. 4b). Considering studies in natural environments (S3), study sites are distributed in Asia, Europe and North America, with the largest number of studies conducted in China (Fig. 4c).
+Fig. 4
+Geographical distribution of studies included in sub-questions a S1, b S2 and c S3 (total n = 1316 studies)
+Full size image
+The following “Studies on restriction of antibiotic use (S1)” to “Studies on natural environment management (S3)” subsections describe the evidence for each sub-question S1, S2 and S3.
+Studies on restriction of antibiotic use (S1)
+Among the 59 included studies (n), the most studied Population is livestock animals (n = 40 or 68% studies in Fig. 5a), including pigs (n = 14), chicken (n = 11), cows (n = 11) or a mixture of species (pig, cow, chicken, duck; n = 4). Twelve studies focused on aquaculture (20% studies in Fig. 5a), including three on integrated fish farming, i.e., direct use of fresh livestock manure in fish culture. Humans and plants are less studied compared to Populations cited above (Fig. 5a), showing a knowledge gap in this sub-question. The low number of studies on cultivated plants (e.g., orchards) could be in relation to the scarce information we found on antibiotic use in this area.
+Fig. 5
+Proportions of studies (%) regarding a population and b Intervention/Exposure in sub-question S1 (n = 59 studies)
+Full size image
+Considering Interventions/Exposures, the effect of antibiotic use was reported in 37 studies (80% studies in Fig. 5b), including antibiotics as treatment or growth promoter (63% studies in Fig. 5b), possibly associated with metals like zinc or copper in diets (3% studies in Fig. 5b) or management practices (14% studies in Fig. 5b). One study on the role of antibiotic “administration”, i.e., in feed or manure mixture, was moved to the third sub-question since the aquatic mesocosms were directly exposed to antibiotic residues, without passing through living organisms [25] (identifier U113 in Additional file 5). Comparison between control and antibiotic-treated groups is the most common research design, but is not necessarily the only one since the use of probiotic as an alternative or preventive treatment (n = 2, i.e., 3% studies in Fig. 5b) as well as various management practices (n = 10, i.e., 17% studies in Fig. 5b) can be compared. In the last two cases, the goal of the authors was to highlight conditions that favor cessation of the use of antibiotics and so reduce ATBR (e.g., good hygiene, organic farming). The effect of various management practices was exclusively studied on livestock animals. They were also studied in aquaculture studies only when ponds were submitted to integrated fish farming. We did not find any study comparing organic to conventional fish farming.
+According to eligible outcomes (Table 2), ATBR was measured either in waste samples (e.g., wastewater, manure; n = 27), in natural environment samples (e.g., surface water, soil; n = 25) or in both compartments (n = 7; Additional file 5). Two methodologies are available to assess ATBR: culture-dependent methods to measure ARB and culture-independent methods to measure ARG and MGE. The most studied ATBR markers were ARB (n = 39/59 studies), followed by ARG (n = 31/59 studies). MGE were measured in only eight studies. Among studies on ARG, results were qualitative in seven studies with gene detection in global sample or in bacterial isolates. These studies were not analyzed further. When only partially quantitative results were reported (e.g., frequency of ARG/MGE detection, number of resistant isolates; Table 6), assessing the impact of Intervention/Exposure was impossible because those outcomes are purely descriptive and not linked to sample volume. ARG and MGE quantification (e.g., qPCR) was mainly carried out in articles addressing several sub-questions, i.e., going further in the role of antibiotic use in the environmental dissemination of resistance (15/24 articles with quantification).
+Table 6 Examples of how to consider results depending on ATBR outcome, measurement method and expression of results
+Full size table
+About study designs, only one study was carried out in a laboratory [26] (identifier V140 in Additional file 5). For other full-scale studies, laboratory experiments were subsequently carried out to answer other aspects of the question (e.g., soil microcosm incubation). When considering livestock animals and aquaculture as Populations (n = 49 studies), time series were reported in 13 studies enabling a longitudinal monitoring of ATBR during/after Intervention/Exposure. Research designs were (Additional file 5):
+“Cross-sectional” (n = 25 studies): ATBR is compared only after treatment between different antibiotic-treated groups (e.g., various doses or administration modes) or between groups differing in livestock management including antibiotic treatments (e.g., conventional vs organic farming). There is no untreated group in the same conditions as the treated group;
+“Control” (n = 15 studies): ATBR is compared after treatment between untreated (control) and antibiotic-treated groups in the same conditions;
+“Before” (BA for before/after, n = 5 studies): comparing ATBR before and after antibiotic treatment in the same group;
+“Before + Control” (BACI for before/after/control/intervention, n = 4 studies): comparing ATBR before and after antibiotic treatment both in treated and untreated groups.
+There is evidence of a very small number of studies addressing a causal relationship between use of antibiotics and ATBR in environment (n = 4 BACI studies). However, these four studies examined the effect of antibiotic administration (not the cessation) on ATBR in environment. As mentioned by Topp et al. [4], the understanding of relationship between antibiotic use and ATBR can be difficult since co-selection can occur, e.g., due to the possible presence of metals in feed.
+To summarize, few studies included in this sub-question S1 examined the effect of an intervention to reduce both antibiotic use and ATBR in the environment (Table 7). Most studies assessed the effect of an exposure (Table 7), with the hypothesis of an increase of ATBR when antibiotics are used. Such studies did not match our primary objective of systematic review since they were not on causal relationship between solutions to reduce the antibiotic use and consequences on ATBR. In the following, we decided to prioritize synthesis on livestock management practices (n = 18; “Studies on organic waste treatments” section), as those studies were more likely to report interventions close to our concerns (Table 7).
+Table 7 Knowledge gaps (red colors) and clusters (green colors) with number of studies (n) regarding the strategies S1, S2, S3, Populations and Intervention or Exposure effect assessment
+Full size table
+Studies on treatments of liquid and solid matrices (S2)
+A total of 781 studies about treatments of liquids (e.g., wastewater treatment, drinking water production) and solids (e.g., sewage sludge, livestock manure) were distributed in 505 articles (Fig. 1). According to Fig. 2, 435 articles focused only on the effects of treatments whereas 60 articles also examined the consequences of treatment in downstream environments. Studies (n = 517) mostly corresponded to full-scale observations (e.g., full-scale WWTP) or experiments (e.g., mesocosms, pilot-scale experiments), whereas 264 were lab-scale studies (see evidence database in Additional file 5). Lab-scale experiments were identified either based on author’s reporting or when conducted in conditions controlled by the authors.
+Among the 781 studies and as shown in Fig. 6, the largest number of studies focused on wastewaters (n = 416, i.e., 53% studies) from various origins: urban, hospital, residential, aquaculture, livestock, slaughterhouse and industrial (pharmaceutical manufacture or other). The number of remaining studies is balanced between livestock waste (manure, slurry: n = 114, i.e., 15% studies), synthetic matrices (n = 85, i.e., 11% studies), sewage sludge (n = 72, i.e., 9% studies), WWTP effluent before tertiary treatment (n = 69, i.e., 9% studies) and water as inlet of drinking water treatment plant (n = 23, i.e., 3% studies). Synthetic matrices correspond to artificial/simulated matrices (e.g., wastewater, sludge) potentially inoculated with bacteria or spiked with antibiotics and are prepared for lab-scale studies. Studies are mainly conducted with liquid matrices (76%; in blue/grey on Fig. 6).
+Fig. 6
+Proportions of studies (%) regarding liquid and solid matrices as population in sub-question S2 (n = 781 studies). DWTP for drinking water treatment plant and WWTP for wastewater treatment plant
+Full size image
+Concerning Intervention/Exposure (Fig. 7a), 95% of the studies focused on interventions while 5% reported the effect of exposure to antibiotics/metals during or after treatment. Concerning treatments applied on liquid matrices (Fig. 7b) such as raw, secondary and synthetic wastewaters, leachates from landfills, sources of drinking water, 55% studies were conducted in full-scale WWTPs (n = 324 studies). Among these studies (see Additional file 5), 57% evaluated the global WWTP effect by comparing ATBR in influent and effluent; 43% also determined the effect of intermediary process steps in WWTP (primary, secondary and potentially tertiary treatments, see Table 3). Other treatments corresponded to disinfection processes tested as such (e.g., UV, chlorination, peracetic acid; 110 studies), lab/pilot-scale reactors to simulate full-scale treatments (57 studies) and constructed wetlands (32 studies). Other treatments such as biofiltration are less studied. As they can be used in full-scale treatment plants, further investigation is needed to determine their effects in WWTP studies. Concerning treatments applied on liquid/solid matrices (Fig. 7c) such as raw or synthetic livestock waste (slurry, manure), urban waste (e.g., food waste) and sewage sludge, the most studied biological treatments were anaerobic digestion (n = 84 studies) and composting (n = 54 studies). These treatments are often studied in a context of agronomic valorization, in which the incineration of organic waste is not interesting to study. Dewatering/drying treatments were less studied. Some treatments such as lagoon storage could have been pooled for both liquid and solid organic waste but this was impossible due to variability in the use, and lack of clear definition, of different terms in the articles.
+Fig. 7
+Proportion of studies (%) regarding a interventions/exposures; b treatments of liquid matrices and c treatments of “solid” matrices in sub-question S2 (n = 781 studies). DWTP for drinking water treatment plant and WWTP for wastewater treatment plant
+Full size image
+A compulsory comparator to assess the efficiency of treatments to reduce ATBR was “Before”, i.e., ATBR measured at initial state in untreated liquid/solid matrices. In most cases, ATBR is measured once before treatment and serves as reference. More rarely, authors carefully measure ATBR in freshly sampled or stored untreated materials each time they measure ATBR in treated materials. However, storage conditions of untreated matrices must be similar to treatment conditions since organic matter and nutrient evolve, particularly if the treatment duration is long. Otherwise, storage should be considered as possible confounder.
+The single “control” described in the experimental section of some studies was often used to compare various experimental conditions (e.g., control treatment of manure without addition of antibiotics vs manure with addition of various concentrations of antibiotics). The comparison was not possible in 19/781 studies since they only report qualitative results such as ATBR phenotypes of bacteria or presence/absence of ARG (Table 6). For the remaining 762/781 studies, ARG were more often measured (total n = 475) than ARB/MGE (total n = 383 and 244, respectively). As for S1, the effects of treatments can be assessed only if quantitative results are reported. We distinguished fully- and partially-quantitative results depending on how the measurement was conducted and the measurement units (Table 6). A quantitative comparison was possible with fully quantitative results to determine effects of treatment in 657/762 studies while only qualitative comparison was possible with partially quantitative results in 105/762 studies (metagenomic analyses in 21 studies, percentage detection of ARG/MGE in matrices in 65 studies and of bacteria in 19 studies; database in Additional file 5).
+In the following paragraph, descriptive statistics are given from the dataset for meta-analysis on organic waste treatments (N = 98 articles, Additional file 6). As mentioned above, ARG are more frequently measured than MGE and ARB (N = 79 vs 50 and 23, respectively, Fig. 8).
+Fig. 8
+Proportions of articles (%) in which antibiotic resistance is measured in organic wastes by a antibiotic-resistant bacteria (ARB), b antibiotic resistance genes (ARG) grouped by antibiotic family and c mobile genetic elements (MGE). Data issued from the dataset for meta-analysis on organic waste treatments (N = 98 articles)
+Full size image
+Concerning ARB (Fig. 8a), antibiotic susceptibility of total culturable bacteria was the most measured, followed by ATBR of Escherichia coli, either naturally occurring in samples or introduced in samples by authors in laboratory (because known to carrying ARG or MGE). In the last case, ATBR was followed by measuring antibiotic susceptibility of introduced bacteria and/or detecting ARG/MGE.
+The most followed ARGs were resistance genes to tetracyclines (e.g., tetM, tetX), sulfonamides (e.g., sul1, sul2) and macrolides (e.g., ermB, ermF; see Fig. 8b) with 15 genes measured in more than 10 articles (sul1, sul2, ermB, ermF, ermX, tetA, tetB, tetC, tetG, tetL, tetM, tetO, tetQ, tetW and tetX in Table 8). Numbers of studies are detailed for all measured ARGs in Table S1 in Additional file 7. Concerning MGE (Fig. 8c), clinical integrons were the most measured, e.g., class 1 integron intI1, which are used as a proxy for anthropogenic pollution because they are associated with cassettes of resistance genes including ARGs. These ARGs and integrons are widely used to study ATBR in the environment [16] for several interrelated reasons: (i) PCR primers and methodology are commonly available, (ii) they can be involved in multi-resistance, and (iii) these families of antibiotics are the oldest used, and so the dissemination of resistance as well as the mechanisms of resistance are the oldest monitored and identified in the environment.
+Table 8 Most frequently measured ARGs (N ≥ 10 articles) in organic waste and number of articles (N) in which they are measured (among the 98 articles preselected for the meta-analysis)
+Full size table
+To summarize, a large number of studies assessing the effect of treatments on ATBR characterized this sub-question (Table 7). These studies matched our primary objective of a systematic review on strategies to control ATBR dissemination in the environment. In the following, a narrative synthesis reports results from studies on full-scale WWTPs (n = 324; Narrative synthesis section on “Effect of full-scale WWTPs”) and a quantitative synthesis from studies on organic waste treatments (n = 126; “Quantitative synthesis: meta-analysis on effect of organic waste treatments” section).
+Studies on natural environment management (S3)
+Regarding Populations (Fig. 9), most of the studies relate to aquatic ecosystems (n = 249 studies: 189 in freshwater, 36 in saltwater and 14 in both, e.g., in estuarine environment), followed by terrestrial ecosystems (n = 209 studies; e.g., agricultural soil, soil from urban parks) and wildlife (n = 22 studies). Among studies on ATBR in the environment, some of them include a measurement in the air. However, few studies were selected since only six studies contained comparisons of ATBR between different levels of exposure to contamination.
+Fig. 9
+Proportions of studies (%) regarding populations and interventions/exposures in sub-question S3 (n = 476 studies)
+Full size image
+These Populations were essentially the subject of impact assessment studies with the effect of Exposure to various sources of contamination (Table 7). In terrestrial environments, only 4% studies reported Interventions (Fig. 9). Studies were either full-scale experiments/observations (n = 391 studies) or simulations in laboratory (n = 89 studies). As shown in Fig. 9, the main sources of ATBR were: raw/treated wastewater (irrigation in terrestrial environment, WWTP discharge in aquatic environment), organic waste application on soils, direct application of pollutants (mainly antibiotics), land use and various sources of pollution in studies on transects. Transects correspond to straight lines along which measurements or observations are made at regular intervals, as for purposes of ecological study.
+The few studies on Interventions to reduce ATBR (Table 7) were conducted in laboratory with the effect of, e.g., bioremediation or biochar amendment (Fig. 9). Some of these studies were unrealistic (e.g., few grams of soil in high volume of cleaning solution such as biosurfactant or DNAase solution). As a result, no study clearly proposed interventions to control ATBR in the environment but some approaches could be explored in future studies, such as, for instance, the addition of co-substrates when spreading organic waste on soils.
+Two subsets of articles were critically appraised and a detailed description of their PECO characteristics is given hereafter. In studies on wildlife (Additional file 5), 9/22 studies were on birds (e.g., migratory birds, raptors); 7/22 on marsupials or small mammals; 2/22 on wild boars; 2/22 on fishes and 2/22 on other wild mammals (e.g., impalas, gorillas). Comparators often correspond to wildlife from unexposed/unpolluted sites as reference (e.g., natural parks). There may be a bias if compared groups are at different geographical locations subject to varying environmental conditions. ATBR markers were all ARB (22/22 studies) while detection of ARG/MGE was only investigated in bacteria isolates or in samples of some studies (5/22 studies).
+Concerning the aquatic environments (Additional file 5), 94/249 studies reported the effect of WWTP discharge, with ATBR measured in water and/or sediment samples. Two comparators were most frequently used in these studies. (i) When WWTP effluent was discharged into a river (i.e., subject to both flow and dilution), comparators corresponded to one or several sampling sites upstream of the discharge point, at various distances. (ii) When WWTP effluent was discharged into other water bodies (e.g., coastal environment, lakes), comparators were sampling sites unexposed to the discharge in the same aquatic environment or in another one considered as a reference site. In studies on the aquatic environments, ARB are more frequently measured than ARG and MGE (in n = 154 studies vs 136 and 59, respectively; Additional file 5). A hypothesis for more frequent measurement of ARB would be linked to the monitoring of water quality by culture-dependent method approaches, according to the European and WHO regulations on water quality [27, 28].
+To summarize, a large number of studies characterized the third sub-question but they mostly reported effect of exposure rather than intervention (Table 7). There were two types of hypotheses tested by authors: either short-term exposure with observed increase of ATBR, or long-term exposure to study abatement. In the following, a narrative synthesis reports results on wildlife and aquatic ecosystems (“Effect of exposure to sources of contamination in wildlife (n = 22/22)” and “Effect of exposure to WWTP effluent in aquatic ecosystems (n = 56/94)” sections, respectively).
+Narrative synthesis including validity assessment
+The following sections summarize results from studies critically appraised according to risk of bias (Table 4 and Additional file 4). Validity assessment of each study is available in Additional files 8, 9, 10, 11 for “Restriction of antibiotic use by changing livestock management practices (n = 10/18)” to “Effect of exposure to WWTP effluent in aquatic ecosystems (n = 56/94)” sections, respectively.
+Restriction of antibiotic use by changing livestock management practices (n = 10/18)
+An examination of studies on livestock management practices (10/18 studies) showed that 4/10 were of low, 3/10 of medium and 3/10 of high validity (Additional file 8). The four low validity studies were excluded from this narrative synthesis. Among the six medium/high validity studies, five of them showed less ATBR in the livestock effluent/environment from organic, recently transitioned organic or free-range farms than from conventional intensive farms. However, this result must be taken with caution due to the small number of studies and the possible confounding factors as discussed below. We suggest two hypotheses: (i) conventional farming could be often accompanied with extensive use of antibiotics while organic farming is antibiotic-free (as growth promoter) with sustainable practices, and/or (ii) livestock effluents are pooled in extensive farms, leading to a hotspot of ATBR while in sustainable or organic farms, the ATBR contamination is diffuse.
+Effect of full-scale WWTPs (n = 324/324)
+As previously mentioned, study validity assessment was completed for studies on full-scale WWTPs in sub-question S2 (Additional file 9). As a result, only 26/324 studies were attributed a definitively high validity, 92/324 a probably high, 119/324 a probably low, and 87/324 a definitively low validity (Additional file 9). Medium validity was not attributed to avoid all studies being classified as “medium” (“Study validity assessment” section and Additional file 4). A low validity was always attributed to studies in which ATBR was measured in grab samples during only one or a few sampling events (Additional file 4), because this results in higher susceptibility to bias than 24 h-composite samples at several sampling events in the year (e.g., monthly sampling). In order to assess global WWTP efficiency, a continuous 24 h-sampling is recommended to avoid bias due to hydraulic fluctuations.
+The studies of probably/definitively low validity were excluded from this narrative synthesis (n = 206 studies). Results extracted from probably/definitively high validity studies (n = 118 studies) are summarized in Table 9. WWTP abilities to reduce ATBR in wastewater were determined by comparing WWTP influents and final effluents. Although treatments used in WWTPs are not dedicated to ATBR removal, WWTPs can reduce ATBR before discharge of treated effluent in downstream environment but ARB, ARG and MGE can still be found in treated effluents and are also quantified in sewage sludge. This latter can undergo various treatments before its recycling in agriculture, which efficiency is presented in the meta-analysis on organic waste treatments (“Quantitative synthesis: meta-analysis on effect of organic waste treatments” section).
+Table 9 Summary of results on wastewater treatment plant (WWTP) ability to reduce antibiotic-resistant bacteria (ARB), antibiotic resistance genes (ARG), mobile genetic elements (MGE) in studies with definitively/probably high validity level (n = 118/324). Numbers reported in each column are independent of each other
+Full size table
+ATBR removal depended on the influent origin, the WWTP size and processes. Assessment of WWTP abilities to reduce ATBR is variable regarding makers used to measure it (ARB, ARG or MGE) and how results are expressed (absolute or relative abundance; Table 9), since total bacteria (susceptible and resistant ones) are affected by treatments. The initial abundance of ATBR markers in influents should be considered. The abatement of ATBR is more detectable if the initial ARB or ARG abundance is very high in the influent. This is observed, for instance, for the removal of sulfonamide resistance genes. The results of a meta-analysis on the effect of WWTP on the levels of ARB within bacterial populations [29] showed an increase of some ARB proportion in effluent probably in link with a selective pressure within WWTP.
+Effect of exposure to sources of contamination in wildlife (n = 22/22)
+As detailed in Additional file 10, six studies were of high validity, 10 of medium validity and six of low validity (excluded from this narrative synthesis). In medium/high validity studies, 9/16 of them highlighted a negative effect of exposure to various sources of contamination on wildlife, i.e., more ARB carriage in exposed animals than in unexposed ones. However, seven studies showed no or few differences between exposed and unexposed animals. Only one study (high validity) reported anthropogenic-acquired ATBR in wildlife at various distances from the exposure, and it shows that ATBR did not contaminated wild animals far away from the source of contamination (identifier N365 in Additional file 10) [30]. The heterogeneity between the 16 medium/high validity studies could be due to the presence of confounding factors (e.g., presence of human organic waste in the protected area serving as reference site) or effect modifiers (e.g., low number of samples or bacterial isolates to determine ATBR). When wildlife is exposed to humans or domestic animals susceptible to receive antibiotic, the information on antibiotic use is missing.
+Effect of exposure to WWTP effluent in aquatic ecosystems (n = 56/94)
+Among full-scale studies on WWTP discharge in aquatic environment that were critically appraised (56/94 studies, randomly chosen), 17/56 were of high validity, 15/56 of medium validity and 24/56 of low validity (Additional file 11). A low external validity was accorded to studies when information on distance between sampling sites and discharge point was missing (Additional file 4). Among medium/high validity studies (32/56; 24 low validity studies excluded), 28 studies highlighted negative trends leading to the increase of ATBR, i.e., more ATBR downstream than upstream of the discharge point. Exposure to sources of contamination can maintain the ATBR burden at the discharge point, where selection pressure could be exerted. Some of these studies also showed that ATBR decreased as the distance increased from the selective pressure, i.e., discharge point, mainly due to a dilution effect, combined with predation, cell lysis, and antibiotic degradation. This highlights natural resilience capacity of aquatic environments. Heterogeneity caused by at least four studies could be linked to several factors such as types of ATBR markers or distance from exposure point. In aquatic environments, sampling strategy sometimes aimed at having a spatial distribution of ATBR, for example, along WWTP-river continuum.
+Quantitative synthesis: meta-analysis on effect of organic waste treatments
+Studies on organic waste treatments
+Quantitative data were extracted from studies selected for this meta-analysis (“Supplementary selection of articles for the final syntheses” and “Data synthesis and presentation” sections) (N = 98 articles or n = 126 studies, Fig. 1). The resulting dataset included 9138 individual data extracted from 98 articles, as detailed in Additional file 6. Absolute and relative abundances of ARB, ARG and MGE in initial organic waste (before treatment) and final organic waste products (after treatment) are detailed in Additional file 7. Abundances obviously depend on ATBR marker, organic waste type and origin. Medians of absolute abundance before treatment were comprised between 1.44 × 104 and 1.17 × 108 CFU/g (dry weight) for ARB; 7.83 × 106 and 1.73 × 109 gene copies/g for ARGs; and 7.27 × 107 and 5.16 × 109 gene copies/g for MGE (Table S2 in Additional file 7). Median abundance of 16S rRNA gene copies varied between 1.51 × 109 and 3.87 × 1011 copies/g (Additional file 7: Table S2). Median proportion of ARB before treatment was comprised between 2.73 and 27.1%; median relative abundance of ARG varied between 1.0 × 10−4 and 8.4 × 10−3 gene copies/16S rRNA, and 3.80 × 10−5 and 6.2 × 10−3 gene copies/16S rRNA for MGE (Additional file 7: Table S3).
+According to study validity assessment (Additional file 4 and assessment detailed in Additional file 12), there were 56 high, 46 medium and 24 low validity studies, in which variable efficiencies of organic waste treatments were reported (before/after comparison). The following meta-analysis on relative abundance of ATBR markers was conducted on 89 studies in which such data were reported (dataset in Additional file 6). Results of the meta-analysis are divided in two paragraphs addressing, respectively culture-dependent (ARB, n = 18 studies in “Effects on the proportion of ARB” section) and culture-independent (ARG/MGE, n = 71 studies in “Effects on the relative abundance of ARG and MGE” section) methods for ATBR determination.
+Effects on the proportion of ARB (n = 18 studies)
+When considering all treatments, the highest number of studies was on anaerobic digestion (n = 9), followed by composting (n = 3), aerobic lagoon storage and pile storage (n = 2 each), aerobic digestion and anaerobic lagoon storage (n = 1 each).
+The forest plot describing effect of composting and anaerobic digestion in each study is presented in Additional file 7: Figure S1. The overall effect size for composting was not significant since high heterogeneity was obtained with only three studies, although they were attributed high or medium validity during critical appraisal in Additional file 7: Figure S1. Heterogeneity between the three studies could be explained by differences of study scale, temperature and initial abundance of ARB. W081 study differed from the two others because it was a field experiment focusing only on antibiotic-resistant E. coli [31]. The two others were lab experiments with similar study duration (about 40 days) but they differed in types of manure (cow and pig, respectively) and in the temperature of the composting process: naturally rising at early stages of composting then declining for W023 [32]; maintained at 55 °C during 6 weeks for W080 [33]. Differences in initial abundances of ARB between studies could result in variable reduction rates. Altogether, these factors could explain heterogeneity but this has to be confirmed by future comparative experiments.
+Concerning anaerobic digestion, although overall effect was not significant, all studies reported a decrease of ARB whatever the antibiotic used in susceptibility tests or experimental conditions including temperature (Additional file 7: Figure S1). It could be a trend for higher ARB reduction with thermophilic temperatures (W001, W006 and W016 in Additional file 7: Figure S1) but more studies are needed to confirm this hypothesis. The confidence intervals (95% IC) were very large for most studies since they were obtained by calculations (from the empirical variances calculated with the values reported for each “experimental condition” as explained in “Quantitative synthesis with meta-analysis” section). Although authors measured similar outcomes, there can be a high variability in research protocols across studies, which prevented us from testing subgroup analyses. Variability of confidence intervals across studies could be explained at least by the diversity of substrates (manure, sludge, milk or mixtures), the abundances of ARB before treatment, the diversity of microbial community, and/or the diversity and concentrations of antibiotics tested. To address those hypotheses, more replicates of studies are needed and deeper chemical and microbial characterization of the environmental matrices is needed. The sensitivity analysis carried out to determine the effect of study validity did not show difference, due to the low number of measurements (Additional file 7: Figure S2).
+Effects on the relative abundance of ARG and MGE (n = 71 studies)
+Number of studies for each treatment is presented in Fig. 10. As shown in evidence map, anaerobic digestion (n = 28) and composting (n = 27) were the most studied treatments. Global reduction of ARG/MGE after each treatment type is described in Fig. 10. Only composting and drying resulted in a significant effect on ARG/MGE relative abundance, with 84% and 97% reduction, respectively. Anaerobic digestion led to 51% reduction but not statistically significant (p = 0.068). The sensitivity analysis conducted on the study validity did not show any effect on the results (Additional file 7: Figure S3).
+Fig. 10
+Global effect size of reduction (%) of the relative abundance of antibiotic resistance genes (ARG) and mobile genetic elements (MGE) after each organic waste treatment. Positive % means a reduction while negative % means an increase
+Full size image
+The forest plot in Additional file 7: Figure S4 shows heterogeneity between studies on composting. A reduction of ARG/MGE relative abundance was obtained in most studies (p < 0.05 for 34 study conditions, p > 0.05 for 12 study conditions). It was not case for 6/27 studies, namely V114 [34], V119 [35], V120 [36], W023 [32], W083 [37] and W087 [38]. Reasons for this heterogeneity were investigated by considering study validity, study scale, organic waste, conditions of treatment including temperature, study length and results highlighted by authors in corresponding articles. As summarized in Table S4 (Additional file 7), these six studies were conducted in laboratory, only two were attributed a low validity after critical appraisal. The temperature was controlled in studies V120 and W087 and naturally rising in other studies. Study lengths were globally similar (30 to 50 days), except for V120 in which authors focused only on the effect of thermophilic phase at 60 °C for 3 days. No particular conditions were found compared to those in studies for which the model resulted in ARG/MGE reduction. All results highlighted by authors in corresponding articles included an enrichment of some ARGs after composting, leading to heterogeneity in effect sizes (Additional file 7: Figure S4).
+The forest plot in Additional file 7: Figure S5 shows heterogeneity between studies on anaerobic digestion. A reduction of ARG/MGE relative abundance was obtained in most studies (p < 0.05 for 24 study conditions, p > 0.05 for 29 study conditions). It was not case for 8/28 studies, namely V060 [39], V116 [40], W013 [41], W037 [42], W041 [43], W054 [44], WN026 [45] and WN053 [46]. As for composting, Additional file 7: Table S5 summarized different study characteristics to explore heterogeneity in effect sizes. Enrichment of some ARGs during treatment was observed. In addition of the influence of digester temperature, a reason among most cited by authors was change in microbial community composition and biomass.
+In organic waste treatments, process, treatment duration and temperature co-variates are closely linked, especially for processes such as composting (in batch, long treatment time, thermophilic and mesophilic stages) or pile storage (in batch, long treatment time), whereas in digestion, all the configurations are possible, hence the heterogeneity of the results.
+The effect of temperature was considered in variation of global effect sizes since thermophilic (e.g. 55 °C) and mesophilic (e.g. 35 °C) treatment phases are often compared in studies. Assuming that high temperatures allow higher number of bacteria, including those carrying ARG, to be killed, we considered the maximum temperature measured during treatment (at the same time as ARG/MGE measurement). For composting and aerobic treatments, the maximum temperature ranged between 34 and 86 °C (Fig. 11a) and its effect on the reduction of ARG/MGE relative abundance was not significant (p = 0.54). For anaerobic digestion, the maximum temperature (mostly fixed during treatment) ranged between 10 and 63 °C (Fig. 11b) and its effect was significant (p = 0.012). Significance of temperature effect was different regarding treatments because in studies on composting, only six of them measured or tested maximum temperatures below 50 °C (W022 [32], W031 [47], W036 [38], W052 [48], W100 [49], and V114 [34]). Indeed, maximum temperatures were mostly above 50 °C (which is the objective of compost process manager), reducing the possibility of observing a significant effect of maximum temperature on these aerobic processes.
+Fig. 11
+Effect of maximum temperature measured in a composting (p = 0.54) and b anaerobic digestion (p = 0.012) on reduction (%) of antibiotic resistance genes (ARG) and mobile genetic elements (MGE) relative abundance
+Full size image
+For composting and anaerobic digestion treatments, meta-regression analyses were carried out to examine the variations of global effect sizes due to study type, organic waste origin and previous spiking with any pollutant (e.g., antibiotic) before treatment (Figs. 12 and 13, respectively).
+Fig. 12
+Variability of reduction (%) of the relative abundance of antibiotic resistance genes (ARG) and mobile genetic elements (MGE) after composting (n is the number of studies; *significant effect with p < 0.05). Considering the organic waste origin, “effluent” corresponds to livestock effluents, divided in sub-categories regarding the type of animal. Positive % means a reduction while negative % means an increase
+Full size image
+Fig. 13
+Variability of reduction (%) of the relative abundance of antibiotic resistance genes (ARG) and mobile genetic elements (MGE) after anaerobic digestion (n is the number of studies; *significant effect with p < 0.05). Considering the organic waste origin, “effluent” corresponds to livestock effluents, divided in sub-categories regarding the type of animal. Positive  % means a reduction while negative  % means an increase
+Full size image
+For both treatments, ARG/MGE relative abundance was significantly reduced in both lab-scale and full-scale studies. Composting is rather easy to implement and the conditions are generally the same overall, whereas the variability in full-scale studies on anaerobic digestion could be due to the large variation of treatment operations, including the reactor design. The feeding mode of digesters was highly variable depending on studies but did not affect the ARG/MGE relative abundance reduction although there was a trend for better reduction when processing in batch (Fig. 13), which may be linked to the longer residence time in the reactor, as for pile storage and composting.
+Two organic waste origins were distinguished: 1) biosolids from WWTPs named “sludge” and 2) liquid or solid livestock manure named “effluent” (Table 5), which was divided in sub-categories depending on the type of animals (e.g., cow, pig). The relative abundance of ARG/MGE was significantly reduced when composting was applied to livestock effluents, contrary to sludge composting (Fig. 12). Variability observed for sludge could be due to (i) the sludge origin, i.e., from municipal vs pharmaceutical manufacture WWTP, (ii) different initial concentration levels due to the dilution of sludge with co-substrates, (iii) the physicochemical properties of sludge and its content in organic contaminants and metals at different levels of diversity and concentration. The composting was significantly efficient for chicken and pig manure as well as for other manure mixtures (Fig. 12). Variability observed for cow manure could be caused by the presence of co-substrates like wheat straw in variable proportions because a highest straw proportion may lead to manure dilution and so a lower initial ARG/MGE abundance level. Concerning anaerobic digestion, the treatment was efficient on both sludge and livestock effluent (Fig. 13).
+To examine variations of global effect size due to presence of antibiotics, effects of (1) administration of antibiotics to animals (“Effluent-ATB use” in Figs. 12, 13) and (2) spiking organic waste with antibiotics and/or metals (“Spiking” in Figs. 12, 13) were investigated. There was a non-significant reduction of ARG/MGE in organic waste after composting whether animals received antibiotics or not. Surprisingly, when there was no indication on antibiotic use, the decrease was significant (Fig. 12). No significant effect of antibiotic use was detected for anaerobic digestion (Fig. 13). When organic waste was spiked with antibiotics and/or metals before treatment, ARG/MGE relative abundance was still reduced (but not statistically significant), compared to the absence of spiking (significant) after composting (Fig. 12) and ARG/MGE reduction was significant in both cases after anaerobic digestion (Fig. 13). To summarize, impacts of contamination by antibiotics and/or metals could be expected as they can select/co-select for ATBR as well as for degrading microbial community. However, such impact was not detected in our meta-analysis since variability can originate from the diversity in the duration of the exposure and/or in the concentrations of spiking molecules, which could affect the bacterial response to contamination, as well as the variation in the latency of measurement affecting the ATBR measurement. Another bias could explain the heterogeneity in results, which is linked to the range of ARG/MGE chosen by authors. (i) Either authors restricted their analysis to some genes for which the quantification is expected because specific antibiotics were used to treat animals or to spike organic waste. (ii) Or they selected a wider range of genes considering their high dissemination in the environment (e.g., sul, tet genes). In both cases, the choice of ATBR markers as indicators should be linked to structure and diversity of microbial communities in organic waste.
+Concerning ATBR markers, effects of both composting and anaerobic digestion were investigated according to (1) antibiotic families for which resistance is encoded by genes (in case of ARG measurement), (2) resistance mechanisms (in case of ARG measurement) and 3) MGE types that can be involved in ATBR dissemination (Methods: “Potential effect modifiers and reasons for heterogeneity” and “Quantitative synthesis with meta-analysis” sections). Significant relative abundance reductions were obtained after composting for macrolide and sulfonamide resistance genes (Fig. 14a), while after anaerobic digestion, significant reductions were obtained for FCA (fluoroquinolone-quinolone-chloramphenicol), beta-lactam and sulfonamide resistance genes as well as for integrons (Fig. 14b). Considering resistance mechanisms, composting resulted in the significant reduction of ARG promoting antibiotic efflux, target alteration and target protection (Fig. 14a), while significant reductions after anaerobic digestion were obtained for ARG promoting antibiotic efflux, inactivation, target alteration and target replacement (Fig. 14b). During anaerobic digestion while total abundance of ATBR decreased, the relative abundance of ARGs promoting target protection as resistance mechanism increased (Fig. 14b). These results could be due to the change of microbial communities and interactions during treatments. Further analyses are needed to test for several hypotheses explaining these results, such as: (1) efficiency of treatments on specific resistant bacteria; (2) gene transfer during treatment; (3) competition between bacterial communities during treatment, allowing bacteria carrying some genes to better survive during treatment.
+Fig. 14
+Variability of reduction (%) of the relative abundance of antibiotic resistance genes (ARG) and mobile genetic elements (MGE) after a composting and b anaerobic digestion regarding antibiotic families and resistance mechanisms (n is the number of studies; * significant effect with p < 0.05). Positive % means a reduction while negative % means an increase
+Full size image
+Risk of bias across studies
+As shown in the evidence map on wastewater and organic waste treatments (“Review descriptive statistics and systematic map” section and Table 8), some ARG are more studied than others because they are frequently found in the studied matrices (sludge, effluents) and environment. Therefore, it may be easier to study the impact of treatments on their abundance and to observe a significant variation. The variability in the effect of treatments may sometimes be explained by the existence of several resistance mechanisms for each antibiotic family (Table 8, e.g., tetracycline resistance genes, see limitations in “Limitations of the meta-analysis” section). There were not enough studies to allow testing the combination of antibiotic family and resistance mechanism. Furthermore, authors can preferably select markers for ATBR measurement because: (i) they expect to find them, for instance if they treated farm animals with certain antibiotics; or (ii) they are systematically measured in all studies and the methodology is accessible. The distribution of ATBR markers is unbalanced between hosts as well as between environmental compartments. Moreover, there is a potential bias due to molecular methods in terms of efficiency of DNA extraction from environmental samples.
+Heterogeneity can also originate from the way we considered studies between and within articles while the level of independence is not the same. For instance, we considered five studies in the same article on five treatment plants when the experimental design and methodology used are a priori equivalent. Another bias could be linked to the parameters explaining the variability of the effects that are closely related to the type of process.
+Based on visual inspection of funnel plots, a potential publication bias was suspected as less precise studies were not symmetrically distributed around the pooled results (Additional file 7: Figure S6). There was a lack of low precision studies showing a negative effect of organic waste treatment (increase of ATBR), despite our attempts to reduce this bias by searching the grey literature and by conducting hand searches.
+Review limitations
+Limitations due to the search strategy
+Concerning limitations due to the search strategy, it would be necessary to update this systematic review with eligible articles from Wiley Online Library (database we did not use due to time constraints), as well as from databases for which we encountered technical problems to save results (Ingenta Connect and AGRIS FAO). Although articles were collected from seven publication databases, the search was conducted only in English. Considering the results of the systematic search, 58 references were not retrieved for full-text assessment (Additional file 3) and should be considered for a future upgrading of this review.
+The fast rate of publications on ATBR in the environment would require organizing a regular update of the literature search. For example, in this work, we prioritized analyses of studies describing Interventions but we could not explore more articles included in the third sub-question on natural environments due to resource limitation. Therefore, we made several suggestions for the continuation of this work (“Implication for Research” section).
+Limitations of the evidence base
+Several gaps in the information provided by the studies, e.g., antibiotic doses, process used in WWTP, statistics in results of studies, did not allow us to make robust conclusions on the effects of strategies. Knowledge gaps are detailed in “Implication for Research based on knowledge gaps” and “Implication for future research study designs” sections since they have been the subject of recommendations for future research works.
+Limitations of the narrative synthesis
+In the narrative syntheses, we gave priority to biases related to the sampling methodology because we considered them as major. We suggest that complementary analyses could focus on the putative confounding effects of environmental factors such as heavy metals or pollutants such as biocides as they have been described to interfere with ATBR dissemination. We addressed this question in our protocol but did not have the opportunity to conduct the analyses for this review.
+We would recommend to finalize the narrative synthesis attempted on the effects of (i) livestock management practices and (ii) the exposure of aquatic environments to contamination on ATBR. As those studies related outcomes obtained from an exposure, not an intervention, on the population, they were not our priority and only a random sample of those studies were examined end synthesized in this review. Nevertheless, pursuing this synthesis may bring interesting results regarding our observations on the potential positive effect of restriction of antibiotic use through organic farming on ATBR in the environment. We could not conclude on the effect of WWTPs on ATBR in our narrative synthesis because statistical analyses are required to determine the role of confounding factors and effect modifiers on the results (e.g., influent origin, rainfall; see “Implication for Research based on knowledge gaps” section).
+Limitations of the meta-analysis
+In this review, we conducted only one meta-analysis due to resource limitations. Other meta-analyses could be performed to determine the effect of treatments on ATBR, e.g., in WWTPs, as well as to determine the variation of ATBR in natural environments after contamination (see implication for Research in “Implication for Research based on knowledge clusters” section).
+A dataset of 2495 measures of ARB, ARG and MGE relative abundance was selected for the meta-analysis. As the effect size was expressed as a ratio (RA after/RA before, “Quantitative synthesis with meta-analysis” section), studies in which the initial relative abundance was undetectable, i.e., below the limit fixed at < 1 × 10−7 in our model, were discarded because dividing by “zero” was not possible. Therefore, the overall effect could be biased toward a decrease in ATBR if such measures correspond to an increase of ATBR after treatment. However, this only concerned 5% of the dataset, i.e., 126/2495 measures were excluded from statistical analyses (Additional file 7: Table S6). From the 126 excluded studies, only 61 corresponded to RA before lower than 1 × 10−7 (Additional file 7: Table S6).
+A high level of heterogeneity was observed across studies, especially for the meta-analysis on ARB proportions. Confidence intervals for each “experimental condition” were derived from the empirical variances calculated based on the reported measures, which could lead sometimes to very broad intervals. Differences across studies such as the study type, the waste origin or the temperature could explain heterogeneity. Sensitivity analyses on the effect of study validity obtained from critical appraisal were conducted to assess the robustness of the results: no major effect was identified. Limitation could be caused by the lack of open access repository of primary datasets.
+In our meta-analysis, the combination of antibiotic families and resistance mechanisms was necessary to limit convergence model problems, while different mechanisms of resistance can be promoted inside a same ARG family and a same mechanism of resistance can be shared between ARG families. For instance, protection mechanisms can be promoted by ARGs for different antibiotic families, i.e., tetM, tetO, tetQ, tetW genes for tetracyclines but also qnr genes for quinolones. Therefore, complementary and specific analyses would be necessary to determine effects of treatments for each gene family/mechanism of resistance. As mentioned above, effects of treatments on ATBR markers should be related to the structure and diversity of bacterial communities. For example, ARGs such as qnr genes are present in few taxa (e.g., in Gram-negative bacteria) while the distribution of tet genes is very large (e.g., in Gram-negative and Gram-positive bacteria), which would therefore be more likely to be enriched during anaerobic digestion.
+Review conclusions
+Implication for policy/management
+This systematic review aimed at identifying effective solutions to minimize the dissemination of ATBR in the environment. Three main strategies were assessed.
+Strategy 1) How effective are antibiotic reduction options in controlling antibiotic resistance in the environment?
+It is obviously difficult to conduct studies to prove that restriction of antibiotic use decreases ATBR in the environment, because there can be many confounding factors at various levels from the antibiotic use up to the natural environment. We highlighted a knowledge gap but efforts to reduce antibiotic uses should be continued, with respect to WHO recommendations. For instance, the use of antibiotics/metals as growth promoters should be banned in countries where still allowed. The restriction of antibiotic use indeed results in decrease of ATBR in livestock animals [12]. A trend towards a decrease in ATBR in the environment following changes in farming practices has been observed in five medium/high validity studies. Livestock management practices based on biosecurity and vaccination should be improved to reduce antibiotic use [50].
+Strategy 2) How effective are treatment options of liquid and solid matrices in controlling antibiotic resistance in the environment?
+We obtained significant results for composting, drying and a trend for anaerobic digestion when organic waste treatments were compared together in the same model. Thermophilic treatments showed greater reductions in ARG/MGE relative abundance than mesophilic ones after anaerobic digestion. Consequently, treatments with thermophilic phases should be implemented before the application of organic waste products on agricultural soils.
+Strategy 3) How effective are environmental management options in controlling antibiotic resistance in the environment?
+We identified a knowledge gap on possible interventions, but critically appraised studies showed a decrease of ATBR in aquatic environment as the distance increased from the WWTP discharge point, related to a natural resilience capacity of aquatic environments.
+Implication for research
+Implication for research based on knowledge clusters
+Knowledge clusters were identified for both second and third sub-questions.
+Strategy 2) How effective are treatment options of liquid and solid matrices in controlling antibiotic resistance in the environment?
+This sub-question was characterized by a large number of articles and datasets. The efficiency of WWTPs to reduce ATBR must be confirmed by a meta-analysis. Investigations on efficiency of treatments should be made to consider the release of ARB, ARG and MGE in final effluents. Another meta-analysis would be possible with the dataset available on absolute abundance of ARB, ARG and MGE to bring complementary elements of understanding on effects of organic waste treatments.
+Strategy 3) How effective are environmental management options in controlling antibiotic resistance in the environment?
+Meta-analyses would be useful to see whether heterogeneity observed in our narrative synthesis on wildlife and aquatic environment is significant. The high number of studies on exposure of natural environments to sources of contamination may allow to determine which environmental compartments are either more at risk in terms of ATBR reservoirs and/or favorable for ATBR attenuation. These studies could be used to perform quantitative analyses.
+Natural resilience capacity of aquatic environments was highlighted in this review. However there are still many outstanding issues to be dealt with. Is resilience possible at the discharge point if the source of contamination is stopped? How long is it necessary to achieve resilience? How far the discharge point resilience of the contamination could be observed or not, due to bacterial lysis, predation, dilution? What are the limit conditions, i.e., maximal values of contamination of waterbodies by ATBR, under which no resilience could be observed in environment? In context of global change, these issues could be addressed in future work by considering our systematic evidence base and updating the literature search. The same work should be conducted with studies on agricultural soils receiving organic waste products.
+Implication for Research based on knowledge gaps
+Strategy 1) How effective are antibiotic reduction options in controlling antibiotic resistance in the environment?
+Studies from the restriction of antibiotics up to the dissemination of ATBR in the environment should be conducted. Longitudinal studies could be performed in farms in which antibiotic uses were stopped or reduced to assess the consequences on ATBR in the environment. Concerning livestock animals, it would be interesting to investigate with farmers whether veterinarians have observed a decrease in ATBR in animals after a change of antibiotic use or livestock management practices. In case of use of alternative options to prevent or treat bacterial infections, their effectiveness should be taken into account [51]. Concerning human health, the effectiveness of this strategy could be investigated by comparing the dissemination of ATBR in the environment between different regions/countries (with similar environmental conditions) with different antibiotic uses.
+Strategy 2) How effective are treatment options of liquid and solid matrices in controlling antibiotic resistance in the environment?
+We only identified a knowledge gap on the behavior of ATBR in wastewaters from slaughterhouses. Studies should be conducted to understand why the relative abundance of some ATBR markers increases after wastewater/organic waste treatment. This would contribute to an understanding of the putative role of different ATBR markers in the dissemination of ATBR and of the mechanisms by which the abundance of some ATBR markers increase or decrease.
+Strategy 3) How effective are environmental management options in controlling antibiotic resistance in the environment?
+Considering that the contamination of natural ecosystems by ARB and ARG may counter the efforts made to decrease the use of antibiotics, more research should be conducted on both mechanisms and effective solutions to reduce ATBR in aquatic and terrestrial ecosystems, as well as in wildlife. Studies should be conducted on the behavior of ARB, ARG or MGE in the environment at different scales of time and space (from the source of contamination to the downstream environment). Studies should be conducted to understand how ARB, ARG or MGE in the environment including wildlife could contribute to the dissemination to humans and domestic animals. As mentioned above, conditions for environmental resilience after contamination by ARB, ARG, MGE or other pollutants likely to potentiate ATBR should be determined. Frameworks need to be developed in order to minimize the impacts of biases in environmental studies.
+A list of potential indicators of ATBR dissemination in the environment, as well as of natural resilience, should be set up by considering their presence in the clinical and environmental settings, and their activity (virulence, transferability). Methods to measure the potential indicators should be determined to be used by everyone.
+The remaining ATBR in effluents after treatment should be considered and it should be determined if it is carried by virulent strains and the putative risk/hazard that may represent if released into the natural environment.
+Implication for future research study designs
+Concerning reporting, we recommend authors to state whether subjects receive antibiotics or not, and to clarify which antibiotics are administered as well as the dosages. Authors should clearly define the terms “slurry” and “manure”, especially the type of raw materials that may have been added. This recommendation is also valid for other aspects of articles such as the description of treatments, sampling location, environmental condition so that confounders and effect modifiers can be properly accounted for. Operational parameters, e.g., origin of sewage, equivalent inhabitants, type of treatment, applied on WWTPs must be described, as well as for each sampling campaign, meteorological data such pluviometry are crucial in the WWTP performance. With regard to WWTPs, if a comparison is conducted between influent, effluent and the river receiving the effluent, estimation of the daily discharge of treated effluent to river flow are necessary to assess the load of ATBR in the environment. Too many articles conducted interesting experiments but never mentioned the processes used in WWTP, and this prevents further understanding of outcomes.
+Concerning the availability of data, extracting results from articles is not always feasible, e.g., when authors only report heat maps with no associated datasets. More investigation is consequently needed to obtain quantitative data, by contacting authors and/or by lengthy handmade data extraction. Datasets must be available in repositories.
+Concerning research designs, control and baseline should be promoted in order to establish causal relationship between Intervention/Exposure and outcomes, and facilitate subsequent meta-analyses, recommendations and decisions. A control may be difficult to obtain as it requires to take a sample of untreated matrix, which seems impossible for some treatments like composting. In this case, only cross-sectional studies comparing different conditions of treatments would provide possible measurement of their efficiencies.
+Concerning sampling, first generic recommendation will be to expand sampling so that different components of the environment are taken into account as they are susceptible to act as ATBR reservoirs, not only focusing on studied subjects or liquid/solid waste. All full-scale WWTP studies should be carried out with 24 h-integrated or composite samples to overcome hydraulic fluctuations. Moreover, authors must carry out several sampling events in a year to consider seasonal variations instead of basing on only one sampling event to conclude on WWTP efficiency. Concerning studies in natural settings, sampling in a single location should be avoided. Rather, multiple sampling on randomly selected plots with appropriate buffer between control and treatment batches would allow to draw more robust conclusions.
+Concerning outcomes, all ARG abundances are based on molecular studies from DNA extraction from different environmental matrices subsequently used as template for PCR. It is essential to ensure that the amplification really concerns the target genes, which depends on the design of primers; calibrator genes should be supplied. These detected ARGs correspond more to a potential antibiotic resistance, which is better to confirm by in vitro test on bacteria.
+The variability in the decrease or increase of ATBR could be explained by variations in the diversity (meta-taxonomic) and activity of microbial communities, which are still rarely monitored in studies. Most studies that monitor the prevalence/abundance of ARGs are culture-independent. Without the gene/taxon link, it is difficult to interpret and make treatment proposals. This is also the case for gene transfer studies. The probabilities of transfer depend on the taxa present. It is therefore necessary to at least couple ARG analyses with meta-taxonomic analyses. It is necessary to consider the link between antibiotic resistance and abundance, diversity and activity of microbial communities in different environmental compartments.
+Availability of data and materials
+The dataset supporting the conclusions of this article is included within the article and its additional files.
+Abbreviations
+AA:
+absolute abundance
+ATBR:
+antibiotic resistance
+ARB:
+antibiotic resistant bacteria
+ARG:
+antibiotic resistance gene
+BA:
+before/after
+BACI:
+before/after/control/intervention
+CFU:
+colony forming unit
+DWTP:
+drinking water treatment plant
+MGE:
+mobile genetic element
+PICO/PECO:
+Population, Intervention/Exposure, Comparator, Outcomes
+RA:
+relative abundance
+WWTP:
+wastewater treatment plant
+References
+• 1.
+O’Neill J. Tackling drug-resistant infections globally: final report and recommendations. 2016.
+• 2.
+Berendonk TU, Manaia CM, Merlin C, Fatta-Kassinos D, Cytryn E, Walsh F, Burgmann H, Sorum H, Norstrom M, Pons M-N, Kreuzinger N, Huovinen P, Stefani S, Schwartz T, Kisand V, Baquero F, Martinez JL. Tackling antibiotic resistance: the environmental framework. Nat Rev Micro. 2015;13:310–7. https://doi.org/10.1038/nrmicro3439.
+CAS  Article  Google Scholar
+• 3.
+World Health Organization. Global action plan on antimicrobial resistance. Switzerland: WHO Library Cataloguing-in-Publication Data; 2015.
+Google Scholar
+• 4.
+Topp E, Larsson DGJ, Miller DN, Van den Eede C, Virta MPJ. Antimicrobial resistance and the environment: assessment of advances, gaps and recommendations for agriculture, aquaculture and pharmaceutical manufacturing. FEMS Microbiol Ecol. 2018. https://doi.org/10.1093/femsec/fix185.
+Article  Google Scholar
+• 5.
+Baquero F, Martínez J-L, Cantón R. Antibiotics and antibiotic resistance in water environments. Curr Opin Biotechnol. 2008;19:260–5. https://doi.org/10.1016/j.copbio.2008.05.006.
+CAS  Article  Google Scholar
+• 6.
+Chee-Sanford JC, Mackie RI, Koike S, Krapac IG, Lin Y-F, Yannarell AC, Maxwell S, Aminov RI. Fate and transport of antibiotic residues and antibiotic resistance genes following land application of manure waste. J Environ Qual. 2009;38:1086. https://doi.org/10.2134/jeq2008.0128.
+CAS  Article  Google Scholar
+• 7.
+Cytryn E. The soil resistome: the anthropogenic, the native, and the unknown. Soil Biol Biochem. 2013;63:18–23. https://doi.org/10.1016/j.soilbio.2013.03.017.
+CAS  Article  Google Scholar
+• 8.
+Heuer H, Schmitt H, Smalla K. Antibiotic resistance gene spread due to manure application on agricultural fields. Curr Opin Microbiol. 2011;14:236–43. https://doi.org/10.1016/j.mib.2011.04.009.
+CAS  Article  Google Scholar
+• 9.
+Vittecoq M, Godreuil S, Prugnolle F, Durand P, Brazier L, Renaud N, Arnal A, Aberkane S, Jean-Pierre H, Gauthier-Clerc M, Thomas F, Renaud F. Antimicrobial resistance in wildlife. J Appl Ecol. 2016;53:519–29. https://doi.org/10.1111/1365-2664.12596.
+Article  Google Scholar
+• 10.
+Pruden A, Larsson DGJ, Amézquita A, Collignon P, Brandt KK, Graham DW, Lazorchak JM, Suzuki S, Silley P, Snape JR, Topp E, Zhang T, Zhu Y-G. Management options for reducing the release of antibiotics and antibiotic resistance genes to the environment. Environ Health Perspect. 2013;121:878–85. https://doi.org/10.1289/ehp.1206446.
+Article  Google Scholar
+• 11.
+Scott AM, Beller E, Glasziou P, Clark J, Ranakusuma RW, Byambasuren O, Bakhit M, Page SW, Trott D, Mar CD. Is antimicrobial administration to food animals a direct threat to human health? A rapid systematic review. Int J Antimicrob Agents. 2018;52:316–23. https://doi.org/10.1016/j.ijantimicag.2018.04.005.
+CAS  Article  Google Scholar
+• 12.
+Tang KL, Caffrey NP, Nóbrega DB, Cork SC, Ronksley PE, Barkema HW, Polachek AJ, Ganshorn H, Sharma N, Kellner JD. Restricting the use of antibiotics in food-producing animals and its associations with antibiotic resistance in food-producing animals and human beings: a systematic review and meta-analysis. Lancet Planet Health. 2017;1:e316–27.
+Article  Google Scholar
+• 13.
+World Health Organization, Department of Food Safety and Zoonoses. WHO guidelines on use of medically important antimicrobials in food-producing animals. 2017.
+• 14.
+Minsitère de l’Agriculture et de l’Alimentation, 2017. Ecoantibio2. The French National Plan for the reduction of the risks of antimicrobial resistance in veterinary medicine.
+• 15.
+UK-VARSS, 2018. UK Veterinary Antibiotic Resistance and Sales Surveillance Report (UK-VARSS 2017). New Haw Addlestone Vet. Med. Dir.
+• 16.
+Wellington EM, Boxall AB, Cross P, Feil EJ, Gaze WH, Hawkey PM, Johnson-Rollings AS, Jones DL, Lee NM, Otten W, Thomas CM. The role of the natural environment in the emergence of antibiotic resistance in Gram-negative bacteria. Lancet Infect Dis. 2013;13:155–65. https://doi.org/10.1016/S1473-3099(12)70317-1.
+CAS  Article  Google Scholar
+• 17.
+Karkman A, Do TT, Walsh F, Virta MPJ. Antibiotic-resistance genes in waste water. Trends Microbiol. 2018;26:220–8. https://doi.org/10.1016/j.tim.2017.09.005.
+CAS  Article  Google Scholar
+• 18.
+Westerman PW, Bicudo JR. Management considerations for organic waste use in agriculture. Bioresour Technol. 2005;96:215–21. https://doi.org/10.1016/j.biortech.2004.05.011.
+CAS  Article  Google Scholar
+• 19.
+Youngquist CP, Mitchell SM, Cogger CG. Fate of antibiotics and antibiotic resistance during digestion and composting: a review. J Environ Qual. 2016;45:537–45. https://doi.org/10.2134/jeq2015.05.0256.
+CAS  Article  Google Scholar
+• 20.
+Goulas A, Livoreil B, Grall N, Benoit P, Couderc-Obert C, Dagot C, Patureau D, Petit F, Laouénan C, Andremont A. What are the effective solutions to control the dissemination of antibiotic resistance in the environment? A systematic review protocol. Environ Evid. 2018. https://doi.org/10.1186/s13750-018-0118-2.
+Article  Google Scholar
+• 21.
+Bueno I, Williams-Nguyen J, Hwang H, Sargeant JM, Nault AJ, Singer RS. Systematic Review: impact of point sources on antibiotic-resistant bacteria in the natural environment. Zoonoses Public Health. 2018;65:e162–84. https://doi.org/10.1111/zph.12426.
+CAS  Article  Google Scholar
+• 22.
+Collaboration for Environmental Evidence, 2018. Guidelines and Standards for Evidence synthesis in Environmental Management. Version 5.0 (AS Pullin, GK Frampton, B Livoreil & G Petrokofsky, Eds) https://www.environmentalevidence.org/information-for-authors. access in 2019.
+• 23.
+Haddaway NR, Macura B, Whaley P, Pullin AS. ROSES RepOrting standards for Systematic Evidence Syntheses: pro forma, flow-diagram and descriptive summary of the plan and conduct of environmental systematic reviews and systematic maps. Environ Evid. 2018;7:7. https://doi.org/10.1186/s13750-018-0121-7.
+Article  Google Scholar
+• 24.
+Barkovskii AL, Manoylov KM, Bridges C. Positive and negative selection towards tetracycline resistance genes in manure treatment lagoons. J Appl Microbiol. 2012;112:907–19. https://doi.org/10.1111/j.1365-2672.2012.05252.x.
+CAS  Article  Google Scholar
+• 25.
+Yu D, Yi X, Ma Y, Yin B, Zhuo H, Li J, Huang Y. Effects of administration mode of antibiotics on antibiotic resistance of Enterococcus faecalis in aquatic ecosystems. Chemosphere. 2009;76:915–20. https://doi.org/10.1016/j.chemosphere.2009.04.057.
+CAS  Article  Google Scholar
+• 26.
+He X, Xu Y, Chen J, Ling J, Li Y, Huang L, Zhou X, Zheng L, Xie G. Evolution of corresponding resistance genes in the water of fish tanks with multiple stresses of antibiotics and heavy metals. Water Res. 2017;124:39–48. https://doi.org/10.1016/j.watres.2017.07.048.
+CAS  Article  Google Scholar
+• 27.
+The European Parliament, The Council of the European Union, 2006. DIRECTIVE 2006/7/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 15 February 2006 concerning the management of bathing water quality and repealing Directive 76/160/EEC. L 64/37.
+• 28.
+World Health Organization. Guidelines for drinking-water quality. 4th ed. Switzerland: WHO Library Cataloguing-in-Publication Data; 2011.
+Google Scholar
+• 29.
+Harris S, Cormican M, Cummins E. The effect of conventional wastewater treatment on the levels of antimicrobial-resistant bacteria in effluent: a meta-analysis of current studies. Environ Geochem Health. 2012;34:749–62. https://doi.org/10.1007/s10653-012-9493-8.
+CAS  Article  Google Scholar
+• 30.
+Grall N, Barraud O, Wieder I, Hua A, Perrier M, Babosan A, Gaschet M, Clermont O, Denamur E, Catzeflis F, Decré D, Ploy M-C, Andremont A. Lack of dissemination of acquired resistance to β-lactams in small wild mammals around an isolated village in the Amazonian forest: lack of dissemination of antibiotic resistance in the wild. Environ Microbiol Rep. 2015;7:698–708. https://doi.org/10.1111/1758-2229.12289.
+CAS  Article  Google Scholar
+• 31.
+Sharma R, Larney FJ, Chen J, Yanke LJ, Morrison M, Topp E, McAllister TA, Yu Z. Selected antimicrobial resistance during composting of manure from cattle administered sub-therapeutic antimicrobials. J Environ Qual. 2009;38:567–75. https://doi.org/10.2134/jeq2007.0638.
+CAS  Article  Google Scholar
+• 32.
+Qian X, Sun W, Gu J, Wang X-J, Sun J-J, Yin Y-N, Duan M-L. Variable effects of oxytetracycline on antibiotic resistance gene abundance and the bacterial community during aerobic composting of cow manure. J Hazard Mater. 2016;315:61–9. https://doi.org/10.1016/j.jhazmat.2016.05.002.
+CAS  Article  Google Scholar
+• 33.
+Selvam A, Zhao Z, Li Y, Chen Y, Leung KS-Y, Wong JW-C. Degradation of tetracycline and sulfadiazine during continuous thermophilic composting of pig manure and sawdust. Environ Technol. 2013;34:2433–41. https://doi.org/10.1080/09593330.2013.772644.
+CAS  Article  Google Scholar
+• 34.
+Xu S, Amarakoon ID, Zaheer R, Sura S, Reuter T, Zvomuya F, Cessna AJ, Larney FJ, McAllister TA. Dissipation of antimicrobials and resistance genes in compost originating from cattle manure after direct oral administration or post-excretion fortification of antimicrobials. J Anim Sci. 2017;95:245. https://doi.org/10.2527/asasann.2017.502.
+Article  Google Scholar
+• 35.
+Zhang B, Wang MM, Wang B, Xin Y, Gao J, Liu H. The effects of bio-available copper on macrolide antibiotic resistance genes and mobile elements during tylosin fermentation dregs co-composting. Bioresour Technol. 2018;251:230–7. https://doi.org/10.1016/j.biortech.2017.12.051.
+CAS  Article  Google Scholar
+• 36.
+Kang Y, Li Q, Xia D, Shen M, Mei L, Hu J. Short-term thermophilic treatment cannot remove tetracycline resistance genes in pig manures but exhibits controlling effects on their accumulation and spread in soil. J Hazard Mater. 2017;340:213–20. https://doi.org/10.1016/j.jhazmat.2017.07.015.
+CAS  Article  Google Scholar
+• 37.
+Su J-Q, Wei B, Ou-Yang W-Y, Huang F-Y, Zhao Y, Xu H-J, Zhu Y-G. Antibiotic resistome and its association with bacterial communities during sewage sludge composting. Environ Sci Technol. 2015;49:7356–63. https://doi.org/10.1021/acs.est.5b01012.
+CAS  Article  Google Scholar
+• 38.
+Wang J, Ben W, Zhang Y, Yang M, Qiang Z. Effects of thermophilic composting on oxytetracycline, sulfamethazine, and their corresponding resistance genes in swine manure. Environ Sci Process Impacts. 2015;17:1654–60. https://doi.org/10.1039/c5em00132c.
+Article  Google Scholar
+• 39.
+Zhang J, Liu J, Wang Y, Yu D, Sui Q, Wang R, Chen M, Tong J, Wei Y. Profiles and drivers of antibiotic resistance genes distribution in one-stage and two-stage sludge anaerobic digestion based on microwave-H2O2 pretreatment. Bioresour Technol. 2017;241:573–81. https://doi.org/10.1016/j.biortech.2017.05.157.
+CAS  Article  Google Scholar
+• 40.
+Zhang J, Wang Z, Wang Y, Zhong H, Sui Q, Zhang C, Wei Y. Effects of graphene oxide on the performance, microbial community dynamics and antibiotic resistance genes reduction during anaerobic digestion of swine manure. Bioresour Technol. 2017;245:850–9. https://doi.org/10.1016/j.biortech.2017.08.217.
+CAS  Article  Google Scholar
+• 41.
+Ghosh S, Ramsden SJ, LaPara TM. The role of anaerobic digestion in controlling the release of tetracycline resistance genes and class 1 integrons from municipal wastewater treatment plants. Appl Microbiol Biotechnol. 2009;84:791–6. https://doi.org/10.1007/s00253-009-2125-2.
+CAS  Article  Google Scholar
+• 42.
+Wang R, Chen M, Feng F, Zhang J, Sui Q, Tong J, Wei Y, Wei D. Effects of chlortetracycline and copper on tetracyclines and copper resistance genes and microbial community during swine manure anaerobic digestion. Bioresour Technol. 2017;238:57–69. https://doi.org/10.1016/j.biortech.2017.03.134.
+CAS  Article  Google Scholar
+• 43.
+Sun W, Qian X, Gu J, Wang X-J, Duan M-L. Mechanism and effect of temperature on variations in antibiotic resistance genes during anaerobic digestion of dairy manure. Sci Rep. 2016;6:30237. https://doi.org/10.1038/srep30237.
+CAS  Article  Google Scholar
+• 44.
+Tong J, Lu X, Zhang J, Sui Q, Wang R, Chen M, Wei Y. Occurrence of antibiotic resistance genes and mobile genetic elements in enterococci and genomic DNA during anaerobic digestion of pharmaceutical waste sludge with different pretreatments. Bioresour Technol. 2017;235:316–24. https://doi.org/10.1016/j.biortech.2017.03.104.
+CAS  Article  Google Scholar
+• 45.
+Sui Q, Zhang J, Chen M, Tong J, Wang R, Wei Y. Distribution of antibiotic resistance genes (ARGs) in anaerobic digestion and land application of swine wastewater. Environ Pollut. 2016;213:751–9. https://doi.org/10.1016/j.envpol.2016.03.038.
+CAS  Article  Google Scholar
+• 46.
+Tien Y-C, Li B, Zhang T, Scott A, Murray R, Sabourin L, Marti R, Topp E. Impact of dairy manure pre-application treatment on manure composition, soil dynamics of antibiotic resistance genes, and abundance of antibiotic-resistance genes on vegetables at harvest. Sci Total Environ. 2017;581:32–9. https://doi.org/10.1016/jscitotenv.2016.12.138.
+Article  Google Scholar
+• 47.
+Cui E, Wu Y, Jiao Y, et al. The behavior of antibiotic resistance genes and arsenic influenced by biochar during different manure composting. Environ Sci Pollut Res. 2017;24:14484–90. https://doi.org/10.1007/s11356-017-9028-z.
+CAS  Article  Google Scholar
+• 48.
+Cui E, Wu Y, Zuo Y, Chen H. Effect of different biochars on antibiotic resistance genes and bacterial community during chicken manure composting. Bioresour Technol. 2016;203:11–7. https://doi.org/10.1016/j.biortech.2015.12.030.
+CAS  Article  Google Scholar
+• 49.
+Zhang J, Chen M, et al. Impacts of addition of natural zeolite or a nitrification inhibitor on antibiotic resistance genes during sludge composting. Water Res. 2016;91:339–49. https://doi.org/10.1016/j.watres.2016.01.010.
+CAS  Article  Google Scholar
+• 50.
+Rojo-Gimeno C, Postma M, Dewulf J, Hogeveen H, Lauwers L, Wauters E. Farm-economic analysis of reducing antimicrobial use whilst adopting improved management strategies on farrow-to-finish pig farms. Prev Vet Med. 2016;129:74–87. https://doi.org/10.1016/j.prevetmed.2016.05.001.
+Article  Google Scholar
+• 51.
+Schmidely, P., 2018. Avis de l’ANSES. Etat des lieux des alternatives aux antibiotiques en vue de diminuer leur usage en élevage. Élaboration d’une méthode d’évaluation des publications scientifques et résultats. Rapport d’expertise collective. (No. Saisine n°2013-SA-0122).
+Download references
+Acknowledgements
+Anaïs GOULAS gratefully thanks Anne-Marie POURCHER, Olivier CROUZET, Jérôme LABANOWSKI, Leslie MONDAMERT, Marie-Cécile PLOY, Christophe MERLIN, Jean-François LORET for their time and the valuable discussions, as well as the working group of ANSES on antibiotic resistance in the environment. Many thanks to Marie ALEXANDRE for her searches of grey literature on websites and her help for the screening; and many thanks to Ludivine BOURSIER for her kind help in the screening of titles. A great thank to Hélène SOUBELET for her availability, valuable reading and suggestions.
+Authors are grateful to Céline COUDERC-OBERT, the project officer for the French Ministry of Ecological and Inclusive Transition (CGDD/SR) who participated to all our meetings and guided the review’s questions considering the request of the Ministry. Anaïs GOULAS thanks France MENTRE and Erick DENAMUR for their welcome in the research unit (INSERM), as well as Hélène SOUBELET and Jean-François SILVAIN for their welcome in FRB throughout this work.
+Funding
+This work was funded by the French Ministry of Ecological and Inclusive Transition (CGDD/SR, DGPR), with the support of the Foundation for Research on Biodiversity (FRB) and a co-funding from the SUEZ company.
+Author information
+Affiliations
+UMR 1137 IAME, INSERM, Universités Paris-Nord et Paris-Diderot, 75018, Paris, France
+Anaïs Goulas, Alexandre Descamps, Antoine Andremont, Nathalie Grall & Cédric Laouénan
+Fondation pour la Recherche sur la Biodiversité, 75005, Paris, France
+Anaïs Goulas & Barbara Livoreil
+Département d’Epidémiologie Biostatistiques et Recherche Clinique, Hôpital Bichat–Claude-Bernard, AP-HP, 78018, Paris, France
+Drifa Belhadi, Alexandre Descamps & Cédric Laouénan
+UMR EcoSys, INRA, AgroParisTech, Université Paris-Saclay, 78850, Thiverval-Grignon, France
+Pierre Benoit & Sylvie Nélieu
+Centre International de recherche sur l’Eau et l’Environnement, SUEZ, 78230, Le Pecq, France
+Sophie Courtois
+UMR INSERM 1092, Université Limoges, Limoges, France
+Christophe Dagot
+Laboratoire de Microbiologie, AP-HP, Hôpital Bichat, 75018, Paris, France
+Nathalie Grall
+UMR Agronomie, INRA, AgroParisTech, Université Paris-Saclay, 78850, Thiverval-Grignon, France
+David Makowski
+Centre International de Recherche sur l’Environnement et le Développement (CIRED)- CIRAD, UMR 8568, Nogent-sur-Marne, France
+David Makowski
+UMR Ecologie Microbienne CNRS 5557, INRA 1418, VetAgroSup, Université Lyon 1, 69622, Villeurbanne Cedex, France
+Sylvie Nazaret
+LBE, Univ Montpellier, INRA, 11100, Narbonne, France
+Dominique Patureau
+UniRouen, UniCaen, CNRS, UMR M2C, Normandie Université, Rouen, France
+Fabienne Petit
+UPMC, CNRS, EPHE, UMR 7619 METIS, Sorbonne Universités, Paris, France
+Fabienne Petit
+CNRS-UMR Ecobio, Université de Rennes, 263 avenue du général Leclerc, 35042, Rennes Cedex, France
+Céline Roose-Amsaleg
+Institut de recherche de la Tour du Valat, Arles, France
+Marion Vittecoq
+UMR IRD-CNRS-UM MIVEGEC, Montpellier, France
+Marion Vittecoq
+Authors
+• Anaïs Goulas
+View author publications
+You can also search for this author in PubMed Google Scholar
+• Drifa Belhadi
+View author publications
+You can also search for this author in PubMed Google Scholar
+• Alexandre Descamps
+View author publications
+You can also search for this author in PubMed Google Scholar
+• Antoine Andremont
+View author publications
+You can also search for this author in PubMed Google Scholar
+• Pierre Benoit
+View author publications
+You can also search for this author in PubMed Google Scholar
+• Sophie Courtois
+View author publications
+You can also search for this author in PubMed Google Scholar
+• Christophe Dagot
+View author publications
+You can also search for this author in PubMed Google Scholar
+• Nathalie Grall
+View author publications
+You can also search for this author in PubMed Google Scholar
+• David Makowski
+View author publications
+You can also search for this author in PubMed Google Scholar
+• Sylvie Nazaret
+View author publications
+You can also search for this author in PubMed Google Scholar
+• Sylvie Nélieu
+View author publications
+You can also search for this author in PubMed Google Scholar
+• Dominique Patureau
+View author publications
+You can also search for this author in PubMed Google Scholar
+• Fabienne Petit
+View author publications
+You can also search for this author in PubMed Google Scholar
+• Céline Roose-Amsaleg
+View author publications
+You can also search for this author in PubMed Google Scholar
+• Marion Vittecoq
+View author publications
+You can also search for this author in PubMed Google Scholar
+• Barbara Livoreil
+View author publications
+You can also search for this author in PubMed Google Scholar
+• Cédric Laouénan
+View author publications
+You can also search for this author in PubMed Google Scholar
+Contributions
+After the call for tenders from the French Ministry of Ecological and Inclusive Transition, the experts from different French Research Institutes (CNRS INSU/INEE, INRA, INSERM) have joined forces to answer to the call under the coordination of AA, FP (CNRS), CD (INSERM), DP (INRA) and PB (INRA). The project manager AG conducted all the review with a methodological help from BL. All experts PB, SC, CD, NG, SN, SN, DP, FP, CR-A, MV, CL participated to the review by a technical assistance (e.g., screening including Kappa tests, extraction of metadata) and providing their expertise relating to the different themes of the review’s sub-questions, particularly for critical appraisal. From various criteria listed by experts, AG built the critical appraisal method. Considering the meta-analysis, AG and AD extracted quantitative data from included studies. DB carried out statistical analyses with the methodological help of DM. This review is a collaborative work, for which the manuscript was drafted by AG and improved with BL. Then, all co-authors assisted in editing and revising the report. Each co-author was able to correct specific sections according to its expertise in environmental science. All authors read and approved the final manuscript.
+Corresponding authors
+Correspondence to Anaïs Goulas or Cédric Laouénan.
+Ethics declarations
+Ethics approval and consent to participate
+Not applicable.
+Consent for publication
+All authors consent for publication.
+Competing interests
+The authors declare that they have no competing interests.
+Additional information
+Publisher's Note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary information
+Additional file 1. The ROSES form for systematic review reports.
+Additional file 2. Search terms, search string and the reference list for the comprehensiveness test.
+Additional file 3. The results of Kappa tests for title and abstract screening, the lists of not retrieved full-text articles and the reasons for exclusion of full-text articles.
+Additional file 4. The main biases retained for the study validity assessment.
+Additional file 5. Metadata extracted from all eligible studies (systematic map).
+Additional file 6. Qualitative and quantitative data extracted from studies selected for the meta-analysis on effects of organic waste treatments.
+Additional file 7. (1) results on the antibiotic-resistance genes measured in studies included in meta-analysis; (2) medians and interquartile ranges of absolute/relative abundance of antibiotic-resistance makers; (3) sensitivity analyses regarding validity of studies; (4) funnel plots to assess publication bias; (5) forest plots to assess heterogeneity between studies; and (6) number of studies for which relative abundance was too low/undetectable to calculate the ratio.
+Additional file 8. The validity assessment of studies on effect of livestock management practices on antibiotic resistance in the environment.
+Additional file 9. The validity assessment of studies on effect of WWTPs on antibiotic resistance in the environment.
+Additional file 10. The validity assessment of studies on effect of exposure of wildlife to contamination on antibiotic resistance.
+Additional file 11. The validity assessment of studies on effect of exposure of aquatic environments to WWTP discharge on antibiotic resistance.
+Additional file 12. The validity assessment of studies on effect of organic waste treatments on antibiotic resistance in the environment.
+Rights and permissions
+Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated in a credit line to the data.
+Reprints and Permissions
+About this article
+Cite this article
+Goulas, A., Belhadi, D., Descamps, A. et al. How effective are strategies to control the dissemination of antibiotic resistance in the environment? A systematic review. Environ Evid 9, 4 (2020). https://doi.org/10.1186/s13750-020-0187-x
+Download citation
+Received: 13 August 2019
+Accepted: 13 January 2020
+Published: 17 February 2020
+DOI: https://doi.org/10.1186/s13750-020-0187-x
+Keywords
+• Antimicrobial
+• Agriculture
+• Livestock
+• Aquaculture
+• Wastewater
+• Organic waste
+• Ecosystems
+• Wildlife
+• One-Health
+• Meta-analysis
+Download PDF
+Advertisement
+Environmental Evidence
+ISSN: 2047-2382
+Contact us
+• Submission enquiries: Access here and click Contact Us
+• General enquiries: info@biomedcentral.com
+• Read more on our blogs
+• Receive BMC newsletters
+• Manage article alerts
+• Language editing for authors
+• Scientific editing for authors
+• Policies
+• Accessibility
+• Press center
+• Support and Contact
+• Leave feedback
+• Careers
+Follow BMC
+• BMC Twitter page
+• BMC Facebook page
+• BMC Weibo page
+By using this website, you agree to our Terms and Conditions, Privacy statement and Cookies policy. Manage the cookies we use in the preference centre.
+© 2020 BioMed Central Ltd unless otherwise stated. Part of Springer Nature.

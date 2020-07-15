@@ -1,0 +1,534 @@
+Skip to main content
+Advertisement
+Search
+• Explore journals
+• Get published
+• About BMC
+• My account
+Search all BMC articles
+Search
+Environmental Evidence
+• Home
+• About
+• Articles
+• Submission Guidelines
+Download PDF
+• Systematic Map
+• Open Access
+• Published: 24 January 2020
+What evidence exists on the impact of agricultural practices in fruit orchards on biodiversity? A systematic map
+• Markus van der Meer1,
+• Sonja Kay1,
+• Gisela Lüscher1 &
+• Philippe Jeanneret1
+Environmental Evidence volume 9, Article number: 2 (2020) Cite this article
+1395 Accesses
+1 Citations
+8 Altmetric
+Metrics details
+Abstract
+Background
+Biodiversity loss, partly due to intensification of agriculture, has become a global issue. In this context, fruit producers have been looking for nature-friendly production methods. By reducing intensive pesticide use and enhancing orchard management, they aim to create habitats suitable for beneficial organisms. Fruit production, especially in low-stem orchards, requires several interventions (plant protection, tillage, greenwork) throughout the year, each of them representing a disturbance. Thus, an expert system that evaluates and aggregates the impact of individual farming activities on a set of biodiversity indicators would be a valuable tool for developing new, less biodiversity-damaging scenarios. This expert system should be based on expert knowledge and scientific evidence. Surprisingly, our literature searches suggested that international journals contain few publications on the impact of most practices (except pesticide use) in orchards on biodiversity in general and beneficial organisms in particular. However, in the last decade, an increasing number of published articles have pointed out the rising importance of biodiversity in life cycle assessment. We therefore compiled and structured the available evidence to (1) assess the state of research on discrete biodiversity indicators and agricultural practices, (2) identify the literature relevant for assessing production impact and habitat suitability for supporting biodiversity and (3) provide a wide-ranging overview of existing evidence of the impact of agricultural practices in fruit orchards on biodiversity.
+Methods
+A systematic literature search was performed in scientific journals, agronomy magazines and across the internet in English, German and French. The main reviewer followed a step-by-step eligibility scheme that was validated by a Kappa test between two reviewers. Additionally, a third reviewer checked a subset of articles. We mapped a large range of parameters, which were structured in code sets. To compute a study validity assessment, we used 13 parameters that reflected the relevance of each article to the impact of agricultural practices in fruit orchards on biodiversity indicator species groups.
+Results
+The search returned 947 included articles. The map identified major differences in the attention given to different indicators and practices over time, ranging from closely investigated (clusters) to neglected (gaps)—e.g. spiders and birds or amphibians and reptiles, respectively. The majority of studies were short-term surveys, mainly done in low-stem orchards. Main areas studied were Western Europe and Eastern North America. The resulting database is presented along with descriptive statistics of the distribution and abundance of evidence across time, interventions and outcomes.
+Conclusions
+The current systematic map reveals that rigorous and comprehensive investigations on the suitability of orchards as perennial habitats for wildlife, run on the long-term and following a holistic approach, are still basically lacking. Although evidence base on orchard management effects on particular organisms has grown over the past two decades, information to develop reliable close-to-nature management tools and strategies is insufficient. The implications for policy and research suggest that—in view of worldwide biodiversity loss, which may cause a major threat for food production—a better understanding of the role played by orchards and their management in agricultural landscapes for biodiversity is required.
+Background
+Biodiversity loss has been recognised as a global issue, and agriculture has been one of the main drivers of global biodiversity change [1]. In many parts of Europe, traditional low-intensity farming of recent centuries and its interaction with varying climate, topography and soil conditions have created diverse semi-natural habitats (SNH), which initially increased biodiversity although natural habitats declined as agriculture spread [2]. However, intensification of agriculture in recent decades has occurred across scales: from field scale by increased inputs of agrochemicals and mechanical activities, to landscape scale by the reduction, simplification and fragmentation of habitats [3]. These processes have led to major and in some cases unpredictable effects on biodiversity, in terms of both conservation and function issues.
+Agricultural production relies on interventions in crops that maximise monocultural plant growth and protect agro-ecosystems and yields from pests. Mostly, such interventions cause unsuitable conditions for organisms except those capable of adapting. Among these interventions, the use of pesticides is one with the highest impact on wild farmland species (e.g. [4,5,6,7]) and on important functions they provide such as pollination [8].
+Public awareness has been growing, and producers nowadays are looking for nature-friendly production methods that would allow reductions in pesticide use [9]. So, orchards have become typical production systems in the context of efforts to reduce pesticide use and promote reliance on natural enemies of pests. The role of organisms in supporting the fruit grower’s fight against pests was recognised early [10, 11] and has led to successfully applied pesticide substitutes such as the release of predators and the mating disruption technique. However, the role of organism communities supported by habitat management has been examined with controversial results in recent decades [12]. Careful examination reveals that research into negative or positive impacts on biodiversity of all agricultural practices remains fragmentary and incomplete, especially in fruit orchards. Yet, in the past few years, pest management relying on biodiversity (‘functional biodiversity’) has become increasingly important and successful in modern agriculture [13]. It is promoted by statutory organisations [14, 15] and—at a more general level—by national and international policies [16,17,18]. Functional biodiversity is a major pillar of agricultural production [19, 20]. The subject has become important enough to be assessed in transnational research projects [21]. This emphasises that sustainable production strategies require consideration of many factors, especially considering biodiversity at large while looking at functions that particular groups of species may provide.
+Decision-making for nature-friendly land use in farming landscapes needs methods and indicators for assessing effects on both biodiversity conservation and function. In the last decade, biodiversity therefore has become an important topic as an impact category in life cycle assessment (LCA) [22]. Several approaches have been developed, focusing on various aspects of biodiversity at different scales. Here, we contribute to improving an expert system that considers the impact of individual farming activities on a set of 12 species groups selected as biodiversity indicators [23]. This expert system was developed to include biodiversity as an LCA impact category in agricultural production (SALCA-Biodiversity for Swiss Agricultural LCA [24]); it is based on a scoring that estimates the suitability of farmland crops, of the practices with detailed management options occurring there and of semi-natural habitats for the biodiversity indicators.
+The present aim is to extend the expert system to fruit growing orchards. These perennial systems offer a large number of contrasting production methods, even regarding the basic design of an orchard. Orchards can range from intensive and highly technical low-stem systems with extremely high tree densities of far over 1000 trees per hectare, to extensive, traditional high-stem agro-forest systems with tree densities of 100 trees per hectare or even less. Each of these systems requires varying inputs of work, energy and substances within or between years. This means that the inputs and, therewith, the impacts on biodiversity can vary not only between production systems but also within a system from year to year. Furthermore, producers choose between different levels of conventional, integrated and organic management forms, of which each possesses its own care strategy and substances input. Examples of contrasting orchard habitats include dense crops very well equipped with nets, stakes and metal supports to protect against hail, or scattered high-stem trees without specific protection. Examples of important agricultural practices in orchards (APO) are pesticide application, fertilisation, thinning of flowers and foliage, training system and architecture of the canopy, green cover in the inter-row and use of flowering mixtures, direct or indirect utilisation of natural enemies, and tillage in the row and the inter-row.
+The development of expert systems sensu largo relies strongly on available information from scientific evidence and thus requires a strong and clear extraction strategy. To improve the classification and ease the use of this information in later reviews, e.g. for similar processes or future extensions of the expert system described above, we decided to develop a systematic map (Additional files 1, 2) [25].
+Objective of the map
+Looking for best practice methods in agriculture requires close cooperation between researchers and people with practical knowledge. With regard to the development of sustainable international policies, it is also necessary to optimally combine evidence-based and experience-based knowledge [26]. The map therefore contains studies published in scientific journals, articles delivered by extension services for farmers and information material from popular science.
+Orchards are highly diverse production systems, ranging from industrialised ‘tree fields’ to decennia-old SNH (Additional file 3: Pictures 1–10). The primary intent of the map is to show the extent and distribution of research on impacts of agricultural practices in fruit orchards on biodiversity indicator species groups (ISG). This display allows the evaluation of the current depth and degree to which the relationship has been examined for specific practices and species groups in different orchard habitats. It thus allows the detection of possible needs for further research or deeper review. The main question [27] is therefore:
+What evidence exists on the impact of agricultural practices in fruit orchards on biodiversity indicator species groups? Potential uses of the map are (1) to show, for each ISG and APO, whether existing research is ample enough to answer impact questions regarding e.g. production and management systems, methodologies and geographic distribution; (2) to help in determining priorities for future research on the impact of discrete practices on discrete indicators; and (3) to provide agricultural extension services and public science with a wide-ranging overview of existing evidence aligning with major priorities in biodiversity research, in order to improve knowledge transfer from science to agricultural practice. The chosen mapping methods conform to ROSES reporting standards (see Additional file 4).
+Methods
+Deviations from the protocol
+When progressing with the literature search and the evaluation of the findings, we realised that, considering the wide range of different research fields, the scheduled methods as described in the protocol [25] had to be amended and adapted. A first major change was the extension of the eligibility key elements (see “Eligibility criteria” section). The ‘population’ was amended. Reptiles were added due to the suitability of orchards as their habitats. When searching for ‘bees’, wild bees and honey bees were included in the search results. Because honey bees are important pollinators in orchards, they were also recorded. Mammals were recorded as bats, small mammals and other mammals. Botanical surveys in orchards did not differentiate between flora of crops and grasslands, so the flora was recorded as ‘weeds’ and ‘grasses’. The ‘comparator’ was subclassified due to the broad range of topics encountered. The ‘outcome’ was amended by evaluations of disturbance and of the habitat suitability for ISG.
+The search strings were adapted to the widened population. Furthermore, the internet search was done mostly on Google Scholar because the general search with Bing returned thousands of unusable hits. In addition to a consistency check between two reviewers, a third reviewer controlled 100 articles at full-text level. The validity criteria were described in more detail especially by including factors influencing long-term management and descriptions of the habitat quality and/or suitability for supporting biodiversity. To reduce a reviewer bias in the study validity assessment, the factors scoring the articles were quantified by a larger expert panel. The map will be presented as both Access® and Excel® file. The glossary, the list of terminology and the central common keyword list could not be implemented. Finally, the data coding strategy was amended and refined during the mapping process.
+Search for articles
+The search included agricultural practices in orchards and the 12 selected ISG (weeds, grasses, birds, mammals, reptiles, amphibians, slugs and snails, spiders, carabids, butterflies, honey and wild bees, and grasshoppers) (Additional file 3: Illustration 1).
+Based on the inventory data of the expert system developed for crops [23, 28], an inventory of orchard-specific practices has been established. The inventory discerns three cultivation levels, the third being structured in cultivation activities (‘options’). At the third cultivation level, 48 main practices including a total of 187 activities were identified (Additional file 3: Illustration 2). Examples of practices are pruning, tillage, insecticide application, machines, and installation of hail protection nets; examples of options are type of fertiliser, type of pesticide, type of machine, date or duration of the intervention, type of tillage, etc. Out of these, nine generic search terms were defined, which are likely to be used in most articles dealing with the subject.
+Because search functionalities vary across most publishing houses, the search strings shown below were subject to slight modifications [25]. As far as possible, the search was restricted to title and abstract, but on most websites a search of the full text appeared necessary. A preliminary non-systematic literature search was implemented in March and April 2016 to evaluate how much relevant literature possibly exists, to draft search strings and coding strategies, and to ensure that no relevant articles would be missed. All systematic searches were done from the beginning of November to mid December 2016 by using the subscription of the ETH Zürich library [29, 30]. The full list of strings and search modalities effectively used on each website and the date of visit are shown in Additional file 5.
+The search strings were always ‘orchard*’ combined with one or more ISG and/or APO terms (Additional file 3: Illustration 3). Secondary terms were only used to test the number of hits, but they appeared unnecessary as they found no further articles than the main terms. Because searching for ‘bee*’ and ‘spider*’ resulted in many unfitting hits (finding e.g. ‘been’ and ‘spider mites’), only the plural form was chosen. A ‘NOT’ was only used on Google Scholar to exclude the terms ‘mite’ and ‘tropic’ (compare below in “Eligibility criteria” section).
+Searches were performed in English on websites of the following eight publishing houses or compilations of different publishers: CAB Direct, IngentaConnect, Oxford Journals, Science Direct, Springer Link, Taylor Francis Online, Web of Science, and Wiley Online Library.
+With a view to gathering further scientific, agronomic and grey literature, two internet searches using Google Scholar (1990 checked hits) were performed in English, German and French. An internet search with a standard search engine (Bing) was only performed during the preliminary search; this search returned billions of unusable hits. Furthermore, publications from 46 specialised organisational websites, magazines and journals were found in Switzerland, Germany, France, Italy (North Tyrol) and North America in their respective languages. All information obtained from these websites and the internet search was considered. The full list of websites is shown in Additional file 5.
+Article screening and study eligibility criteria
+Screening process
+The article screening was achieved with speed reading techniques [31] supported by electronic scanning. During the mapping process (Additional file 3: Illustration 4), the team developed a step-by-step eligibility scheme from the online search to the full-text assessment (Additional file 3: Illustration 5). The eligibility process took place in three successive steps, always applying the criteria mentioned in “Eligibility criteria” section below: (1) at title (online search), (2) at abstract (downloaded reference), and (3) at full-text (downloaded *.pdf) level. Articles excluded after step (2) or (3) were assigned an exclusion reason and are shown in Additional file 6. This scheme shall also serve the later replicability of the exclusion process by others and allow the single reviewer in charge of screening the titles and abstracts to comply with the eligibility criteria and, in case of doubt, to tend toward inclusion at these steps. No stakeholders were involved in the review process. All publications included in the map were found with the searches and compiled with the eligibility scheme (Additional file 3: Illustration 5).
+The conformance of the eligibility decision among reviewers was validated by a Kappa test [32] at title and abstract level: to control for consistency, two reviewers checked one publishing house independently and compared their results of agreement (meaning that both reviewers accepted or rejected the same title). The first Kappa test showed a ‘substantial’ [33, 34] score at title level (n = 473; agreement of 84% = kappa of 0.68) but an insufficient ‘fair’ score at abstract level (n = 165; agreement of 70% = kappa of 0.31). The reviewers discussed their results and refined the eligibility scheme. They then reassessed the articles on which they first had disagreed and re-evaluated them. The second Kappa test then showed an ‘almost perfect’ score (n = 473; agreement of 94% = kappa of 0.88) at title level and a ‘substantial’ score (n = 188; agreement of 93% = kappa of 0.61) at abstract level. The main lessons learnt from the Kappa tests were that (1) reviewers need familiarity with agronomical and biological terminology and (2) in case of doubt, they should rather include than exclude. The enhanced eligibility scheme was then used by the main reviewer to implement the whole search.
+As an additional validation of the exclusion process, a third reviewer checked at full text a subset of 100 articles previously excluded by the main reviewer at abstract or full-text level. For exclusions at the abstract level, the third reviewer disagreed on only two articles, whereas he agreed on 100% of the exclusions at full-text level. This validation led to another improvement of the eligibility scheme that should now ensure that any third person could use it with similar decision results.
+Due to the large number of ISG and APO included in the map, the full-text assessment was first performed by an electronic scan of the *.pdf within the reference manager software to identify relevant terms in each article (Additional file 3: Illustration 6). No article was excluded based on this electronic scan: The terms were recorded on a spreadsheet that served as a meta-guide when reading the full text and thus allowed us to easily decide upon the final eligibility before mapping the relevant articles in detail.
+Eligibility criteria
+The geographical location of the eligible articles included dry, temperate and continental climates worldwide according to the Köppen–Geiger climate classification [35, 36]. Eligible orchard crops assessed in articles or studies included crops of these climates (pome fruits, stone fruits, olives, nuts, kiwi and citrus). Eligible languages were English, German and French. All articles involving the following key elements were included.
+Eligible populations: Selected biodiversity indicator groups (weeds, grasses, birds, mammals, reptiles, amphibians, slugs and snails, spiders, carabids, butterflies, honey and wild bees, and grasshoppers).
+Eligible interventions: All identified APO [fertilisation, netting (hail, insects, birds), harvest, irrigation, mowing, mulching, grazing, pest control (biological, fungicide, insecticide, herbicide, mechanical), pruning, thinning, tillage, vegetation management]. Factors influencing long-term management, i.e. site choice and training system [landscape, surroundings, biodiversity elements (hedges, flower strips, natural or artificial nests, heaps of stones, etc.)].
+Eligible comparators: Comparison of pre- and post-intervention and comparison of impacts of practices with each other or with an untreated, abandoned or semi-natural site. Comparisons of the habitat quality and/or suitability of orchards for supporting biodiversity.
+Eligible outcomes: (1) Measures of change in diversity, dispersal and abundance of the ISG; (2) evaluations of lethality, disturbance or life trait changes of the ISG; and (3) evaluations of the habitat quality/suitability for the biodiversity ISG.
+Eligible types of study design: All study designs.
+We excluded all articles not accessible as full text and those that only addressed:
+• 1.
+Berries, arable crops, vegetables, vineyards, forests or grasslands.
+• 2.
+Tropical fruit and nut crops and citrus fruits grown in tropical climates.
+• 3.
+Agronomic aspects of an APO without description of its impact on an ISG.
+• 4.
+Life trait aspects of an ISG without impact description of an APO.
+• 5.
+Organisms other than the mentioned population.
+Study validity assessment
+In line with the main intent of the map (i.e. to show the extent and distribution of research on impacts of agricultural practices in fruit orchards on biodiversity ISG), a validity assessment of individual articles was implemented. This assessment was for a systematic mapping and thus not as thorough as for a systematic review [25]. Although it sufficed for a swift preselection of the literature (because it reflects a relevance of the articles with regard to the map’s intent), it was not used in further synthesis.
+To avoid a possible reviewer bias, it seemed necessary to attempt a quantification of some topics. Thirteen mapped fields were used for the study validity assessment (SVA): study design, number of sites, duration of the survey, number of samplings, frequency of samplings, tabular or graphical data visualisation, statistical processing, availability of species lists, treatment plan shown, precision of the shown treatment plan, highest description level of an ISG, highest description level of an APO, and spatial extent. These fields should reflect scientific and thematic aspects. The fields chosen for the SVA were also outlined—with regard to the map’s intent and the guidelines of systematic mapping—to favour field-based research studies, because these are the most important ones when intending further, deeper going reviews or analyses.
+The quantification should reflect a broader expert opinion, wherefore a panel of 10 people with different background but all involved in agricultural research were assembled and asked to evaluate some mapped fields and their codes. The panel assigned a rating from 0 to 5 (non-relevant to important) to each code of these mapped fields (Additional file 7). The 10 individual ratings were compared, using the standard deviation to assess agreement and disagreement. In consequence the median was selected as the best reflection of the plurality of opinion and therefore to be assigned to each code. Then, the SVA was calculated by (i) replacing the mapped codes with the medians, (ii) building the unweighted mean across the scores of the 13 fields, and (iii) transforming it into a percentage value for easier understanding. Finally, the SVA was added to the map. Using the medians shown in Additional file 7 warrants the repeatability of the procedure, e.g. in the frame of a later update of the map.
+Data coding strategy
+Following the retrieval and screening process, spreadsheets were built according to the information gained by the digital scans and any other information recorded and coded while reading the full texts. The data coding relied on three main topics: (1) basic information downloaded with the citations, (2) record of the contents and (3) evaluation of the importance assigned to the ISG and APO in the respective texts. An overview of the information recorded is given in Table 1. The complete list of code sets for all subjects mentioned below is shown in Additional file 7.
+Table 1 Topics and records of the map
+Full size table
+Most of the recorded spreadsheet fields contain code sets that were developed according to the findings of the full-text assessment. The repeatability of the coding was not tested. Yet, the codes were made as specific as possible to facilitate the coding process. Most of the recorded fields were unambiguously formulated in the texts (e.g. duration, number of sites). Others were a simple ‘yes or no’ code. The given information (e.g. location, sampling types, etc.) was not always clear in many publications, or they contained a mix of information, which made code assignment difficult. For this reason, the use of every single code is described in the code sets. Although the code sets are quite comprehensive, later updates of the map should be realisable with around half an hour of work per article.
+The mapping of the population and intervention corresponds to the column and row headings shown in the spreadsheets. To assess the importance assigned to the practices and organisms in the respective articles, a ‘description level’ was attributed, ranging from ‘mentioned without further discussion’ to ‘main focus’ or ‘well discussed’. Keywords proposed by the authors of the publications showed high diversity for the same topic depending on their own work or research field. Adapting the keywords to match across publications was not feasible in the context of the present map. Because they might be of interest for further questions, the keywords are shown in Additional file 8.
+It became evident that many surveys compared practices in several procedures and even combinations of practices. To properly use the comparator, surveys were mapped to up to four fields called comparator/treatment 1–4 in the map. These treatments also included habitat codes for surveys that compared treatments in managed orchards with SNH, or different habitats among each other. Furthermore, many articles described e.g. risk assessments, ecosystem services or life traits of organisms with no direct comparator; instead of a treatment, these articles were attributed a theme. In addition, many publications did not compare single practices but rather whole management systems (organic, integrated, and conventional); these were coded accordingly. The fourth key element of the map was the outcome ‘measures of change’, which implied pre- and post-treatment measurements. In fact, most studies compared the impact of different practices on organisms over extended time spans. Furthermore, the map considered organisms of very different sizes, mobility and action range. For these reasons, some impact questions could not be surveyed as ‘measures of change’ at smaller scales and time spans (e.g. in censuses or life histories of organisms). Therefore, the code set considered six groups: (1) changes in the occurrence of the surveyed organisms, (2) effects on the surveyed organisms, (3) censuses, (4) descriptives, (5) practices and (6) sustainability. These outcomes were amended with the mainly discussed biodiversity aspect: conservation, functional, habitat, or other.
+Data mapping method
+All articles were recorded in a reference manager software (EndNote X7®). For data processing and preparation of the map, records were transferred to Excel® spreadsheets via an *.xml file. An explicit identification (ID) attributed to each article was used to interlink the map’s spreadsheets. Finally, the individual spreadsheets were imported in an Access® database with around 160 single spreadsheet fields organised on 10 spreadsheets (Table 1; Additional file 3: Illustration 7). Their respective contents are described in “Data coding strategy” section, and all code sets, with explanatory notes, are shown in Additional file 7. The code sets and other lists were elaborated by ‘work in progress’, referring to the findings in the articles. These tools shall aid in the replicability of the mapping and in a potential later update.
+The structure of the map as described in the following might seem complex at first sight. However, it has the advantage that articles can be collated freely. Users of the map can start with choosing a specific population, intervention, comparator or outcome. It is also possible to collate articles according to study designs, geographical regions or any other mapped topic. The computed SVA then indicates how complete—with a view to the main question—the information contained in the respective article is. On the Access® version of the map, it is possible to freely create new spreadsheets according to the selected topics. The number of articles found with this step-by-step sorting then identifies knowledge gaps and clusters. Some of these possibilities are presented in “Results” section.
+The bibliographic references were the primary information for all articles. They were recorded in the reference manager and contained the following information: authors, title, year of publication, place of publication, abstract and download-URL. Wherever possible, mainly on websites of publisher houses, the ‘save citation’ function was used to record these data automatically in the reference manager. Due to the varying accuracy of different websites, or the lack of this service, e.g. on specialist websites, several references needed to be built manually. The spreadsheets ‘Map_References’ and ‘Map_Abstract’ contain this basic information.
+The spreadsheets ‘Population_DL_ISG’ and ‘Intervention_DL_APO’ show the level of detail with which the respective articles described the ISG and agricultural practices (“Data coding strategy” section). The intervention sheet also contains a field listing up to 10 insecticides surveyed or mentioned in the articles. Articles mentioning more than 10 insecticides were commented accordingly; fungicides and herbicides were not fully recorded because this would have gone beyond the scope of this map. For further use of the map, a classification of the insecticides’ action spectrum was intended, which is shown in Additional file 9. Many articles retained in the map also contained information about other organisms than the 12 focal ISG. To keep this information available, Additional file 8 contains records of additional 13 arthropod taxa [Aphididae, Chrysopidae, Coccinellidae, Drosophila suzukii, Forficulidae, Formicidae, Hemiptera, Pseudococcidae, Staphylinidae, Syrphidae, Thysanoptera, Tortricidae, Apocrita (wasps)] and four functional classes (beneficial, enemy, parasitoid and predator).
+The spreadsheet ‘Comparator_&_Outcome’ contains the above mentioned ‘comparator’ and ‘outcome’ (see “Objective of the map” section). Due to the broad range of topics encountered, five different comparators were mapped:
+• Comp-I.
+A ‘theme’ describing the broader context of the survey was assigned to each article. Themes were: ecosystem services, habitat (needs and types), life traits, management form, pest management, production increase, and risk assessment.
+• Comp-II.
+The compared or discussed treatments frequently included several different practices. Thus, these comparisons had to be split in ‘groups’ describing several practical or thematic aspects. For each article, at least one of these groups was recorded. The groups were: bare ground, fungicides, greening, growth, herbicides, insecticides, molluscicides, prevention, promotion, rodenticides, untreated, various pesticides, and whole system.
+• Comp-III.
+Often, the impact of practices or the distribution of organism groups was compared in different habitat types, so these were mapped in this same step. Habitat types were: orchard managed, SNH, orchard unmanaged/abandoned, and other habitats.
+• Comp-IV.
+If mentioned, the management systems were mapped; this mapping offered the possibility to select articles that compared or studied organic, conventional or integrated production methods. The management system was mapped only when it was stated in the article. When it was not stated—which was the case in most articles—we assumed that a conventional management system was studied.
+• Comp-V.
+Methods to compare impacts of APO on ISG were highly diverse and changed over time, which was also the case for the statistic evaluation of the respective results of each study. Furthermore, sampling was frequently not done as pre- and post-treatment counts but at fixed times over the year. This impeded a thorough mapping of pre- and post-intervention results. Therefore, the method of evaluating the impacts of APO on ISG via ‘sampling’ had to be mapped first as sampling period/time, then with the number of samplings per year.
+We found the description of the impact of APO on ISG and of the habitat suitability of orchards for ISG to be very diverse. Accordingly, the description of the ‘outcome’ was also mapped in different code sets (Additional file 7). They implied measures of differences in abundance, diversity or dispersal as well as observations of (sub)lethal effects, descriptives, indications of sustainability or pure censuses. These outcomes were amended with the mainly discussed biodiversity aspects conservation, functionality, habitat suitability and ‘others’ to allow a fine-tuned selection.
+The spreadsheet ‘Map_Study_Details’ contains information on the implementation of the studies (study design, number of sites, etc.) and the data analysis and visualisation. Further topics of general nature such as language and reference type shall allow a fine-tuning and a quick selection related to own questionings. The spreadsheet fields were grouped with code sets (Additional file 7). If the respective article contained a species list or a treatment, the available information was included. Finally, the comments show additional information specific to the respective article.
+To allow a geographical and spatial categorisation/clustering of the articles, all indications of the study sites are shown on the spreadsheet ‘Map_Location’. Mapped fields were the continent, the nation, the state, and the region as indicated in the articles. At country level, large nations, federal states, or federations were split into single states or provinces to avoid discrepancies in size when comparing data. Additionally, a field ‘spatial extent’ was assigned according to the indications in the article. This field shall allow a rough estimation of the spatial extent of study sites examined in studies. Primarily three spatial extents were mapped: (1) smaller than 15 × 15 km within a region, (2) larger than 15 × 15 km within a region or country/state, and (3) international: across country/state borders. Finally, non-field surveys and other articles were coded according to their content. Many reports, reviews, books, conference proceedings and models summarised international data. On the other hand, the same publication types could present data from a single continent, country/state, or even region; they were coded accordingly. Laboratory studies were assigned the country/state of the institution where they took place. The locality indication in studies ranged from very precise to absent, which impeded a subdivision of the code ‘area’ in the field ‘spatial extent’. Please also note that the mapping primarily followed the indications given in the articles. In course of time, administrative or geographical toponyms can change. It was not always possible to avoid using outdated terms (e.g. ‘Yugoslavia’, ‘DDR’, etc.). For French articles, the new 13 regions were used [37]. Nevertheless, the mapping was done as precisely as possible by localising towns and villages on internet maps to fill in the field ‘region’ and to estimate the spatial extent. To relate the number of publications for a certain area to its importance for the worldwide fruit production, available statistical data were compiled. The Food and Agriculture Organization of the United Nations shows data only at national range, which resulted in a serious imbalance in the weighting and in the graphical visualisation (e.g. Alaska or Siberia, as part of the USA or Russia, respectively, being shown as major fruit producing regions on the world map). So, the largest nations (Australia, Canada, China, India, Iran, Kazakhstan, South Africa and USA) were split in their first-level administrative division or in segments producing versus segments not producing deciduous fruits (Algeria, Argentina, Brazil, Egypt, Libya, Mali, Mexico, Morocco, Russia) to create more comparable areas. For these nations, publicly available statistics in form of raw data or statistical yearbooks on fruit production were gathered at subnational level (see Additional file 8). Indications were partially amended by reports and publications of the United States Department of Agriculture–Foreign Agricultural Service (2007–2017) and the Food and Agriculture Organization Corporate Statistical Database (2014).
+The spreadsheet ‘Map_Production’ contains indications of the surveyed fruit crop, of the orchard type (system) and of other crops or farming types treated in the article. Although the search restriction was on orchards, many articles surveyed other crops or farming types. Fruit cultivations were: almond, apricot, apple, cherry, citrus (all), kiwi, nuts (other than almond), olive, peach, pear, plum, fruits (other), and fruits (undefined). Other crops or farming types were: arable land, berries, gardens, grasslands, vegetables, and vineyards. In the same check, the orchard system (low-stem, middle-stem, or high-stem) was assigned. Many authors used terms such as commercial, intensive, mature, deciduous, etc. and did not explicitly mention the orchard system, wherefore an assignment was sometimes not possible. However, in many cases, the spacing, planting density, or tree height was indicated and could be used to assign a system (Table 2).
+Table 2 Classes of row spacing, density and total height of trees used for assigning an orchard system
+Full size table
+The spreadsheet ‘Map_Habitat’ shows the surveyed orchard subhabitat (Additional file 3: Picture 11) for each ISG discussed. This distinction was important because each orchard system implicated very different maintenance and cultivation practices. Furthermore, many articles described risk assessments, ecosystem services or other themes, which had to be considered valid for all orchard systems (e.g. laboratory studies on pesticides used in orchards).
+Finally, the spreadsheet ‘StudyValidityAssessment’ shows the SVA percentage and SVA mean computed by translating the code sets in numerical values (see “Study validity assessment” section above for details). The fields used for computing were repeated on this spreadsheet to allow a swift selection.
+Results
+Review of descriptive statistics
+Search results
+The searches on eight publishing houses or compilations of different publishers, Google Scholar, an internet search engine and 46 specialist websites resulted in 21,122 hits. From these, 3074 references were downloaded at title screening. The eligibility process yielded 947 articles involving 862 studies included in the map after screening and reading the abstract and the full text (Fig. 1).
+Fig. 1
+ROSES flow diagram for systematic maps [38]
+Full size image
+Bibliographic references and study details
+Of the 947 kept articles, 783 were in English, 97 in German and 67 in French. Articles in other languages found because of an English abstract were excluded. The encountered reference types were manifold: 696 surveys (studies, theses and conference proceedings), 160 reviews and reports and 91 knowledge transfer publications (extension texts, books and websites). Most articles visualised their results (841) and most surveys analysed the results statistically (651). In contrast, the provision of even superficial treatment plans was rather less common (107).
+The study design was mapped for field surveys (599) and non-field surveys (107). No study design was mapped for articles that did not refer to own surveys (241). Among field surveys, the favourite study design (Fig. 2a) seemed to be ‘on farm’, which means a simple comparison between treatments (44% of all surveys), followed by ‘monitoring’ (21%) and ‘experimental’, meaning that the treatments were repeated two or more times (15%). Non-field surveys comprise laboratory and semi-field trials (14%) and modelling studies (2%).
+Fig. 2
+Example of some fields recorded as ‘study details’. Numbers of recorded a study designs, b years of study duration, c study sites
+Full size image
+Almost half of 684 surveys lasted 1 year and nearly a quarter 2 years; another 20% lasted 3 to 4 years. Thus, 639 publications (93%) related results of short-term surveys (Fig. 2b). Of the remaining 45 publications, only six lasted 10 years and longer.
+The number of sites at which studies were implemented was quite evenly distributed in four categories: at one site (24%), in areas (23%), at two to five sites (25%) and at more than five sites (28%) for a total of 685 studies (Fig. 2c).
+The surveys were mostly implemented in low-stem orchards (233) (Fig. 3, top), followed by high-stem (182) and middle-stem systems (116). The description of the orchard system lacked precision in many studies; hence, 78 could only be coded as ‘probably’. Another 229 surveys were done in orchards, but the systems were not mentioned at all. Finally, 266 surveys did not take place in orchards but were relevant for orchards, e.g. describing laboratory assays on the impact of pesticides used in orchards.
+Fig. 3
+Number of articles characterising orchard systems (top) and crops (bottom). Many articles surveyed more than one system or crop, which explains the numeric differences to the total of 947 publications
+Full size image
+Most surveys focused on apple (357 or 35%) or fruits and nuts in general (291 or 28%) (Fig. 3, bottom). Stone fruits—peach, cherry, plum and apricot (127), pear (79), citrus (67), nuts (51), olive (49), kiwi (7) and other fruits (6) shared the other 37%. Many studies surveyed orchards in addition to other crop or farming types. Among them, grasslands were the most frequent (109) followed by arable crops, vineyards, vegetables, gardens, and berries (65, 64, 34, 17, and 12, respectively).
+More than one-third of all articles (346) contained lists of surveyed or inventoried organisms at different taxonomic levels and various levels of detail, which for convenience were named ‘species lists’. However, taxa included at lower taxonomic level (species, genus, family) might be included in higher-taxon lists (e.g. carabids in arthropods and invertebrates) (Fig. 4). Beside the ISG addressed in the present map, these lists registered many other organisms occurring in orchards: floral species (96), arthropods in general (77), spiders (60), birds (44), bees and other pollinators (24), carabids (19) and mammals including bats (15). Other lists, found in fewer numbers, registered vertebrates (8), lepidopterans (8), invertebrates (7), insects (7), reptiles (3), slugs and snails (3), arachnids (3), coleopterans (3), grasshoppers (3), and amphibians (2). Furthermore, some articles clustered organisms in functional groups, e.g. natural enemies (9). Many other articles listed pest organisms, but those were not coded because they were not within the target of the current map.
+Fig. 4
+Number of publications displaying lists of species (flora, vertebrates, and invertebrates). Note that (i) ‘i.g.’ means that several taxa were included and (ii) the same publication might show several lists
+Full size image
+Mapping the quantity of articles relevant to the question
+Eligibility key elements
+The description level depicts how intensively the respective subject was discussed in the respective article. It was mapped for the population, the ISG and the intervention, i.e. the agricultural practices in orchards. The levels 1 and 2 mean that the subject was not deepened and only marginally mentioned, whereas levels 3 and 4 were for articles thoroughly assessing the subject (see also Table 1). When considering the description levels of the ISG (Fig. 5, top), one organism group stood out by far: spiders, followed by birds, weeds, honey bees, grasses, wild bees, carabids, and small mammals. The remaining ISG received less attention, with reptiles at last rank. The same picture appeared for the agricultural practices in orchards (Fig. 5, bottom): One practice was by far best studied, namely broad-spectrum insecticide use with 262 articles assessing it at description levels 3 and 4. It was followed by studies on natural enemies and on the influence of landscape heterogeneity or greening on ISG populations. Next was a series of quite well studied practices such as other pesticides and strategies of habitat enhancement. Finally, many APO were comparatively poorly or nearly not surveyed, among them pruning, netting, thinning, and the influence of the training system.
+Fig. 5
+Number of publications covering population (indicator species groups, top) and intervention (agricultural practices, bottom). The description levels indicate how exhaustive the topic is discussed or surveyed in the respective publication. The results for indicator species groups (ISG) are ranked for the levels 3–4 at the top on the right. PPP plant protection products
+Full size image
+The compared treatments, practices, impacts and other aspects were highly diverse; furthermore, authors used different designations to describe the surveyed treatments and comparisons, and the vocabulary changed over time. So, it was necessary to first assign a superordinate theme (Fig. 6a). Among these, pest management comprising all strategies to protect trees and yield from fungal or animal infestation or destruction was most encountered (281). The demands of organism groups on habitats and the description of those also played a large role in the analyses (205). The risk assessment (163)—mainly of pesticides—for several organism groups was also of high interest, as well as ecosystem services (147) delivered by them. Seventy-seven articles focused on life traits of organisms and 63 compared management forms (also within the same management system). Finally, 11 articles dealt with production increase.
+Fig. 6
+Distribution of comparators among recorded publications. See Additional file 7 for the description of the code sets
+Full size image
+In the second step of comparison or discussion, one or several practical or thematic aspects were applied in treatments; they had to be grouped (Fig. 6b) to enable an overview. Among these groups, the strongest focus was on comparisons of the impacts of insecticides with different action spectra (348). The second most frequent group, prevention by netting, fencing or mating disruption (267), also had its focus mainly on insect control but also on rodent control. Another frequently appearing aspect was the promotion of organisms (244), especially wild pollinators, by boosting biodiversity-enhancing elements. Greening strategies (206) were mostly compared with each other but also with bare ground treatments (117) or with the application of herbicides (116), which encompass all practices related to the chemical elimination of concurrency stress induced by plants. Fungicides (103) were quite frequently included in surveys, whereas rodenticides (29) and molluscicides (4) received little attention. Only 97 surveys compared a treatment with an untreated control. Growth-enhancing treatments such as irrigation, fertilisation, pruning, thinning, etc. were rather poorly discussed in altogether 75 articles. Only 15 articles evaluated the intensity with which the same treatment (e.g. an active pesticide substance) was applied. Habitat descriptions (263 articles), also considering habitat connectivity or fragmentation, were among the most encountered groups.
+These habitat descriptions considered different environments (Fig. 6c): managed orchards (206), natural and semi-natural habitats (149), unmanaged or abandoned orchards (34) and other agricultural or anthropogenic habitats (105). Out of 147 articles comparing management systems (Fig. 6d), 72 compared the effects of the whole management system, whereas the remaining compared specific practices, e.g. organic vs. integrated vs. conventional insecticides.
+The combination of sampling period and type (Fig. 6e) showed various patterns, which were related to the surveyed organisms, the interventions and the configuration of the study design; however, these patterns were irrelevant for 384 articles (laboratory surveys, reports, etc.). The most frequent pattern (242) was sampling throughout the whole growing season with one to 70 single samplings per year. It was followed by monitoring (183) with generally one to three samplings per year but with a few broadly conceived surveys including several hundred single samples. The third pattern was sampling for 1–2 months (66) including one to 56 single samplings. The fourth pattern, (pre- and) post-treatment surveys (44), generally lasted less than 1 month and included one to 28 single samplings per year. Finally, four studies described a single sampling, and 24 studies did not describe the sampling type.
+According to the objectives of the map, the ‘outcome’ (Fig. 7a) was mapped as measures of changes in diversity, dispersal and abundance (382) and as evaluation of disturbance impact [lethal and sublethal effects, disturbance in behaviour or life traits (380)]. In addition, there were studies censusing fauna or flora of a site (89), describing organisms (41), describing impacts of practices on organisms in view of depleting or promoting populations (37), and finally more holistic approaches to promote sustainable agriculture (18). In completion of the outcome, a ‘biodiversity aspect’ was mapped (Fig. 7b). It showed that the focus of the included articles was on conservation aspects (436), followed by pollination and other functional roles (256) and habitat suitability for the studied organisms (198). However, some articles could not be allocated to one of these main codes. They were mapped according to their content in the description of long-term adaptation to agronomic practices in species compositions or single species (9), the enhancement of conditions for total biodiversity (5), influences on a higher, environmental level (2), pure life history of an organism (1) and practices in view of enhancing production or production safety with impacts on organisms only being mentioned incidentally (40).
+Fig. 7
+Distribution of outcomes among included articles
+Full size image
+Chronological increase in publications
+To assess the annual increase in publications surveying impacts of practices on indicators and their distribution in time, Fig. 8 shows a chronology of the publications found. The increase in publications on Web of Science is shown as a comparator. In parts B–D, the figure shows the increase in the included publications according to the surveyed ISG.
+Fig. 8
+Chronological evolution of the number of publications recorded in the map. It is depicted by means of the moving average (a, c 5 years; b, d 10 years) and set in relation to the evolution of publications found on Web of Science (units ×100,000, red dotted line). a All publications, b–d the indicator species groups discussed at description levels 2–4 in the articles
+Full size image
+Since the mid-1990s, the increase in publications with focus on biodiversity has been considerably higher than the general increase in publications (Fig. 8a). However, broken down to single ISG, there are major differences. Some organism groups were neglected (Fig. 8d) although they could play a major role as predators of pests in orchards; they included bats, predatory mammals, amphibians, reptiles and some slug species [39,40,41,42,43,44,45,46]. Discussed small mammals were mostly mice and voles—thus pests. The interest in controlling them is high because they can cause economically important damage to producers, but the control methods are scarce (rodenticides, trapping, direct killing) and new effective methods not in sight. Carabids on the other hand have a possible high potential in insect pest control but are mostly ground dwelling and therefore rather uninteresting in the trees’ canopies; however, they seem to have the potential of controlling pests overwintering on the ground—therefore, research in this direction could be valuable [47,48,49].
+On the other hand, research on spiders and birds followed the general increase in publications (Fig. 8b). With birds, this agreement is not surprising: They have a long history as bio-indicators, their role as predators (wild and domestic species) is attested, and they are popular animals bearing sympathies within society. In contrast, spiders are not fully in vogue with most people. Until the mid-1990s, their functional role was disregarded [50, 51]; since then, their potential as predators has been recognised [52,53,54], and there is ongoing research on this potential as well as on their endangerment or promotion by agricultural practices.
+On bees and flora, we made another interesting observation (Fig. 8c). Although fruit production would scarcely be possible without pollination [55, 56], domestic and wild bees were quite poorly surveyed until 2000/2005. Only after 2005, when the worldwide honey bee decease became evident and menaced pollination of many crops, research was enhanced and literally exploded. When observing the evolution of articles considering the orchard flora, the record shows that it first followed the general increase, then declined between 2005 and 2010, and since then has followed the research on bees. This reactive research strikes as odd, knowing that research on the functional potential of wild bees and the pesticide hazard to honey bees was already discussed long ago (e.g. earliest mentions in articles included in this map: 1969 [57] and 1937 [58]). Also, the examination of multiple interactions in plant–animal communities and their ecosystem services remain scarcely studied [59].
+The number of publications describing ISG and APO at different description levels (Fig. 5) confirmed the picture drawn by the chronological increase in publications. In the past decennia, research concentrated on ‘species and practices of interest’. Among the best surveyed species groups were spiders, birds and the flora, whereas e.g. amphibians or reptiles—which both occur in orchards and both with a quite high functional potential—were rather disregarded. Among the practices, most interest was conferred to the destructive impact of pesticides and among them to broad-spectrum pesticides. On the other hand, many publications studied the positive effects of habitat enhancement under both conservation and functional aspects. Some practices such as thinning, pruning or netting, which can have a high impact on organisms, were nearly not studied at all. Finally, regarding the species lists published in the studies, most surveys concentrated on one or a few species groups, with a lack of total biodiversity records.
+Geographical distribution of research
+Figures 9 and 10 show—with the example of olive, pome and stone fruit production—that research on the impact of practices on indicator species in orchards was done worldwide but by far not in every country or state—in due consideration that a lot of research might be published in national languages and thus is not available in international scientific journals. However, when comparing the importance of research with the importance of fruit production in the respective continents and regions, Western Europe and Eastern North America appeared as leaders of research—which is not surprising because these wealthy regions in the past could certainly invest more resources in research than others. When increasing the resolution and comparing the relevance of a nation’s fruit production relative to its total agricultural production, it appeared that wealth might not be the only decisive factor because Pakistan and the Czech Republic ranked among the 16 countries with the highest relevance (Table 3). Thus, the identification of those other reasons would require a deeper review of the studies.
+Fig. 9
+Comparison of the fruit production and the number of recorded publications per continent. Fruit production in megatons (here: pome fruits, stone fruits, olives and figs)
+Full size image
+Fig. 10
+Number of publications per region in relation to the land use. Share of pome fruit, stone fruit and olive orchards in percentage of arable and perennial land use (coloration) and number of publications found per country/state/region (numbers). The regions with the highest relevance are highlighted with a green background. To avoid a search and language bias, all publications found on specialist websites are not shown: npub = 800. Source of production data: Food and Agriculture Organization Corporate Statistical Database, United States Department of Agriculture–Foreign Agricultural Service, national statistics offices and others. Source of geographic information system data: GADM database (www.gadm.org), version 2.8, November 2015
+Full size image
+Table 3 Rank of relevance
+Full size table
+‘Hot spots’ of research
+We found that certain regions showed above-average numbers of publications and therefore checked where and by whom most of the research was done—in the frame of this map only for the regions with the most articles. To do so, we ranked the geographical distribution of publications at subnational level in regions with nine and more publications and identified the key players of the research and their study site choice. In most regions, one main player conducted the research (Table 4). In eight of 13 regions, this main player was an agronomic research institute using own research orchards or collaborating with a network of orchardists interested in developing practices. The importance of these agronomic research institutes was notably expressed by the share of regional on state publications (50–100%, all regions), the share of agronomic institutes’ publications on the regional total (50–100% in eight of 13 regions) and the regions’ partially small share on the total national area.
+Table 4 Field surveys and involved institutes at regional and country/state level
+Full size table
+However, main players in other regions included universities and environmental research institutes, such as governmental or non-governmental non-profit organisations (Andalusia, Spain). In two regions, three main players intensively cooperated in research. One region (Baden-Württemberg, Germany) showed a rather federalist distribution with little cooperation among institute types. Finally, we found that corporate players did not research or publish on their own but rather cooperated with other institutions.
+The comparison of the number of publications per region and per country/state showed that frequently—even in huge countries/states—research was concentrated in small areas. This is certainly due to the spatial distribution of key players in those states but also reflects a low diversity of external conditions (e.g. climate, soils). On the other hand, countries/states and regions with less acreage scattered the study sites independently of the key player over the whole area and thus reflected a higher diversity of external conditions.
+Agronomic institutes appear to be the most important key players in research, but concentrating them in specific regions might lead to a spatial restriction to a few external conditions (climate, weather, soils, etc.). In turn, decentralising the involved institutes and promoting cooperation with less wealthy states could lead to a higher diversity of study sites, which would warrant a higher regional and international validation of results.
+Mapping the validity of articles relevant to the question
+Quantifying the study validity assessment
+The total SVA scores ranged between 12.1% and 87.9%. Because the SVA was constructed from 13 single parameters, it is not surprising that no study reached the full score. In total, 556 studies reached a score of over 50%; another 208 studies scored between 35% and 50% (Fig. 11). Both endpoints of the scale—a score of less than 20% or greater than 80%—were each represented with around 2% of the articles.
+Fig. 11
+Study validity assessment (SVA). The tree map on the left shows the share of SVA percentage scores of all articles in percentage classes (minimum: 12.1%, maximum: 87.9%). The box plot on the right shows the median, the dispersion and the variability of the SVA percentage scores in different article categories (the respective ‘n’ is indicated above the categories)
+Full size image
+When aggregating the articles into research categories (field surveys, models, controlled conditions, and others), we found that research-based studies achieved higher scores whereas literature-based articles scored under 33%. However, also literature-based articles such as reviews, reports or extension texts may contain valuable information and shall therefore be shown but tagged by a low SVA score (Fig. 11). Using a quantification of the SVA allowed broadening the range of factors influencing a study’s importance for the present questions and also strengthening its expressiveness especially by breaking it down to the field codes.
+Metadata
+Among the 574 field surveys, many studies showed deficits in communicating relevant basic information about the surveys’ process flow. The deficits ranged from imprecise description of the study design or the geographic region to lacking indications of the frequency and quantity of samplings or the orchard system (229). Concerning the actual review, the most missed information was the treatment plan. Indeed, detailed treatment plans would be major tools allowing reviews to connect treatment and sampling times and so to better disentangle impacts of different practices on organisms. Only 94 field surveys supplied a treatment plan, and among those only four described the full plan including all treatments with the date of implementation. Although the producers usually record this information, it seldom appears in the scientific publications. E.g. only very few studies indicated the machine types used for spraying plant protection products or for tillage, the depth of tillage was nearly never indicated, or indications of other practices than the research topic were frequently missing.
+Action spectrum of pesticides
+The use of pesticides is certainly the most controversial agronomic practice, polarising proponents and opponents [60,61,62]. The struggling with pests has probably accompanied agriculture since its beginnings. There is archaeological evidence of domestic fruit production in the Neolithic, gaining importance in the Bronze Age [63] and since then in altering landscapes [64]. For thousands of years, plant protection relied on natural methods for production: There is historical evidence that Romans and the Chinese purposefully used predators in fruit production 2000 years ago and continued to do so throughout historical times [65,66,67,68,69] until today, e.g. ants are still traditionally used in Asia and Africa [70]. Also, the use of manufactured products based on e.g. sulphur or pyrethrum had been recorded throughout historical times [71]. The use of highly toxic broad-spectrum products for plant protection culminated in the twentieth century but now experiences severe restrictions worldwide.
+The present map shows an overview of all active substances used for plant protection in fruit production and found in the included articles. This list comprises various kinds of pesticides. With regard to the further use of the map, insecticides and acaricides were mapped according to their action spectrum—broad, selective, and very narrow—whereas all other substances were mapped without this differentiation. We found no common definition of these terms, and worse, none of the consulted databases (Additional file 9) provided the basic information in a standardised form for all pesticides. This omission is surprising because the promotion of the use of selective insecticides has been a major goal of integrated production since the 1960s [72], starting in fruit orchards. In fact, we found only one source attempting such a classification [73]. Only a few of the described pesticides were those mapped here. Even the ‘IOBC Pesticide Side Effect Database’ [74], although evaluating toxicity, did not specify the action spectrum, at least not in the freely accessible section. Although it is correct and necessary to evaluate the toxicity of active substances—because the pesticides’ toxic effects on target and non-target organisms are at least partially species and dose dependent [4, 75], this information is not helpful to the laity. Therefore and for greatest possible transparency, the insecticides and acaricides surveyed in the included articles are presented on the spreadsheet ‘Intervention_DL_APO’, and the estimation of their action range is shown in Additional file 9, including the indication of all sources. This listing is meant to estimate the action spectrum of these pesticides based on several pesticide databases, Wikipedia and other information sources. It comprises 160 active substances and does not claim completeness or conclusive exactness.
+Broad-spectrum pesticides used since the early twentieth century were generally well studied, clearly defined and with clear findings on their action and action spectrum. The same was found for pesticides with a very narrow action spectrum, e.g. Bacillus thuringiensis or Granulosis virus. One might also expect the same for selective pesticides, the definition of ‘targeted action’ seeming clear. However, the description of the pesticides’ selectivity in the databases or other information sources ranged from one single target species to several targeted taxonomic groups with side-effects on non-target species. Another complicating circumstance was the fact that many insecticides earlier considered as selective are nowadays forbidden because of permanency in the environment or high toxicity; furthermore, some of these pesticides should—according to the later descriptions—rather be classed as broad-spectrum. This result questions findings of older surveys that declared a small or no difference between integrated production and conventional management systems. On the map’s APO-spreadsheet, the insecticides were thus mapped according to the indications in Additional file 9.
+Duration of field surveys
+Among all included publications, only six (less than 1%) presented long-term surveys lasting 10 years and longer (Table 5). Among those, one publication considered rather practical production aspects and only casually assessed impacts of practices on organisms. Five of these studies were implemented in five different countries in Europe, one in the USA. Two investigated the impact of pesticides on birds. Two other studies investigated the impact of weed control methods on the flora in an experimental study design at one site in one region with monitoring the changes in floral composition. Although the biodiversity aspects were mostly targeted at conservation, the estimation of changes was rather diverse. Even these long-term surveys lacked precision in metadata description, e.g. when neither the crop type nor the orchard system was mentioned or when the treatment plan, statistical evaluations or species lists were not shown.
+Table 5 Comparing contents of long-term studies
+Full size table
+Habitat suitability, impact of practices, and life cycle assessment tools
+An evaluation of the habitat suitability for different ISG was possible in 352 articles (Fig. 12). The habitat description could cover the whole orchard or the subhabitats canopy (or tree), row and inter-row (or meadow) and several ISG in the same article. Considered separately for each (sub)habitat and ISG, this resulted in 1123 single descriptions. In terms of habitat, 443 articles evaluated the whole orchard, with the most surveyed systems being low-stem, followed by high-stem and middle-stem orchards. The research in subhabitats clearly focused on the orchard ground and paid less attention to the canopy. The most descriptions were by far found for spiders, followed by weeds, birds and grasses. Mammals, bees, carabids and small mammals also received attention whereas all other organisms were mostly neglected, with amphibians closing the list.
+Fig. 12
+Number of publications evaluating habitats and impacts suited for evaluation. Top: articles assessing habitat (low-, middle-, and high-stem systems) and subhabitat (whole orchard, canopy, meadow or row and inter-row) suitability for the respective indicator species group. Bottom: Articles allowing single evaluations of the impact of agricultural practices in orchards on indicator species groups summarised in the classes 5–10, 11–20, 21–30 and 31+ evaluations (see the line ‘herbicide’ for the length of the bar). Pairs with less than 5 evaluations were not shown
+Full size image
+Impact evaluation was possible for 664 articles, resulting in 377 APO–ISG pairs with 2369 single evaluations (Fig. 12). The best surveyed impact was that of broad-spectrum insecticides on spiders, birds, honey bees, amphibians, carabids and wild bees; note that most studies on amphibians were laboratory surveys. Spatial context or habitat management questions also were of high interest, especially landscape heterogeneity and connectivity of landscapes for birds, spiders and wild bees, the greening of the orchard grounds for spiders, carabids and flora, or nesting aids for birds and wild bees. In contrast, for 235 of the 377 identified APO–ISG pairs, the articles presented only one to four single evaluations, and many possible pairs were not surveyed at all. This includes practices such as thinning and pruning with possible high impacts especially on the arthropod fauna and practices such as irrigation or netting against hail, birds or insects that can also affect bigger organisms.
+However, LCA tools—such as SALCA-Biodiversity [23]—require information on the whole inventory of possible practices in agricultural crops (for orchards see Additional file 3: Illustrations 1 and 2). Of the 947 articles included in the map, 728 could possibly be used to estimate the impact of practices or the habitat suitability for the ISG.
+Limitations of the map
+Limitations due to the search strategy
+The search results can be considered as very solid because access to most relevant journals was given. However, access was denied on 454 downloaded references. Applying the same exclusion rate on these as on the downloaded articles would yield around 80–100 articles that could not be included. The ISG considered in the current map were chosen because they had previously been used in SALCA-Biodiversity for arable lands. In terms of total biodiversity in orchards, other species groups would also be of interest, especially under functional aspects.
+Searches on national specialist websites implied a language bias because more research than that found is certainly done and published in national languages (e.g. in China, Southern Europe, North Africa or the Middle East), but this research is not internationally available. Furthermore, even at national level not every single organisation can be scanned for grey literature.
+Limitations due to bias in pool of articles found
+Some articles could not be mined digitally because they were formatted as jpeg-based PDF or written with styles unreadable by common digital tools. This limitation handicapped the mapping process and might even result in a future loss of recorded data. In 10 years, the number of publications will probably have doubled. Any mapping then will require strong and reliable machine learning, search algorithms, etc. [76].
+In many, also recent, studies, the indication of metadata was poor or remained unclear on one or several methodical aspects, even such basic ones as specifying the orchard system, the sampling type or the machines used. At best, to allow a better and easier catch of existing evidence, a clearly enhanced metadata record by the journals would be required.
+Conclusions
+Per definition, systematic maps collate and catalogue existing evidence [26], whereas systematic reviews implement content analyses and scorings. However, when we mapped the full texts, some topics going beyond the scope of a systematic map emerged. We also noticed a high variability in research on habitat suitability or impact evaluation according to different organism groups and practices (research clusters and gaps). Thus, the current systematic map presents some preliminary results on these themes and discusses them as suggestion for deeper reviews.
+Implication for policy or management
+Fruit production already started in the Neolithic, and orchards—as any other culture—needed to be protected from yield loss. Protection was implemented very early by use of manufactured products and natural enemies. In the early twentieth century, the use of synthetic broad-spectrum pesticides soared and nearly immediately found opponents. The conclusions of this systematic map reflect the growing awareness of ecological problems generated by the short-sighted use of highly toxic substances which has led to a current interest in conservation and functional biodiversity paired with close-to-nature agricultural production; this shifted interest is reflected in a general increase in research on these topics. However, there seems to be a loophole in defining ‘selective’ pesticides which seem to need better definition and regulation. Also, the bio-control potential of several organism groups and of ecosystem complexes remains under-studied. Against the background of an alarming worldwide biodiversity loss, the promotion of enhanced, comprehensive and internationally coordinated long-term research should be the prospective task of agronomic and environmental policies.
+The current systematic map revealed that a growing amount of research has been implemented in recent years on many practices and organisms in orchards. It also revealed that there still are important knowledge gaps, missing basic survey and scientific evidence, which should be filled for a better understanding of complex agro-ecosystems. Methods and tools like LCA are developed to support policies and management in developing close-to-nature production methods. The map presented will be the fundament of the impact assessment of agricultural practices in orchards on biodiversity.
+Implication for research
+The findings of the current map also show that research is done worldwide. However, the geographical distribution of research shows that research is not evenly spread, with main areas in Western Europe and Eastern North America. The identification of a possible region-dependent prevalence of research would require a deeper review of the studies.
+There is a lack of long-term studies or monitoring of the entire orchard fauna and flora (total biodiversity), with full record of metadata, describing the impact of agricultural practices on these organisms and the changes in abundance, diversity and dispersal that they provoke. This indeed requires a higher accuracy of researchers and publishers in the description of materials and methods. Only in front of this background, short-term studies can really validate their findings on negative or positive intervention-effects in long-lasting perennial agricultural systems such as orchards.
+Availability of data and materials
+The literature references are published in the form of an Access® database.
+Abbreviations
+APO:
+agricultural practices in orchards
+DL:
+description level
+ISG:
+indicator species group(s)
+LCA:
+life cycle assessment
+PSO:
+pome fruit, stone fruit and olive production
+SALCA:
+Swiss Agricultural Life Cycle Assessment
+SNH:
+semi-natural habitat(s)
+SVA:
+study validity assessment
+References
+• 1.
+IPBES. The IPBES regional assessment report on biodiversity and ecosystem services for Europe and Central Asia. Rounsevell M, Fischer M, Torre-Marin Rando A, Mader A, editors. Bonn: Secretariat of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services; 2018.
+• 2.
+Bignal EM, McCracken DI. Low-intensity farming systems in the conservation of the countryside. J Appl Ecol. 1996;33:413–24.
+Article  Google Scholar
+• 3.
+Tscharntke T, Klein AM, Kruess A, Steffan-Dewenter I, Thies C. Landscape perspectives on agricultural intensification and biodiversity—ecosystem service management. Ecol Lett. 2005;8:857–74.
+Article  Google Scholar
+• 4.
+Biondi A, Mommaerts V, Smagghe G, Viñuela E, Zappalà L, Desneux N. The non-target impact of spinosyns on beneficial arthropods. Pest Manag Sci. 2012;68:1523–36.
+CAS  Article  Google Scholar
+• 5.
+Devine GJ, Furlong MJ. Insecticide use: contexts and ecological consequences. Agric Hum Values. 2007;24:281–306.
+Article  Google Scholar
+• 6.
+EPPO. Environmental risk assessment scheme for plant protection products—Chapter 11: terrestrial vertebrates. Bull OEPP/EPPO Bull. 2003;33(2):211–38.
+Article  Google Scholar
+• 7.
+Jahn T, Hötker H, Oppermann R, Bleil R, Vele L. Protection of biodiversity of free living birds and mammals in respect of the effects of pesticides/Das Schutzgut Biodiversität in der Umweltbewertung von Stoffen. http://digital.zlb.de/viewer/content?action=application&sourcepath=15831638/texte_30_2014_protection_of_biodiversity.pdf&format=pdf. 2014. Accessed 21 Mar 2016.
+• 8.
+Potts SG, Biesmeijer JC, Kremen C, Neumann P, Schweiger O, Kunin WE. Global pollinator declines: trends, impacts and drivers. Trends Ecol Evol. 2010;25:345–53.
+Article  Google Scholar
+• 9.
+Mouron P, Heijne B, Naef A, Strassemeyer J, Hayer F, Avilla J, Alaphilippe A, Höhn H, Hernandez J, Mack G, et al. Sustainability assessment of crop protection systems: sustainOS methodology and its application for apple orchards. Agric Syst. 2012;113:1–15.
+Article  Google Scholar
+• 10.
+Audemard H. Lutte biologique et intégrée en vergers de pommiers, poiriers et abricotiers. Entomophaga. 1987;32:59–71.
+Article  Google Scholar
+• 11.
+Kuenen DJ. General considerations on the significance of predators and parasites in orchards. Entomophaga. 1962;7:221–6.
+Article  Google Scholar
+• 12.
+Sylvaine S, Jean-Charles B, Jean-François D, Benoît S. Biodiversity and pest management in orchard systems. A review. Agron Sustain Dev. 2010;30:139–52.
+Article  Google Scholar
+• 13.
+Sutter L, Albrecht M. Synergistic interactions of ecosystem services: florivorous pest control boosts crop yield increase through insect pollination. Proc R Soc Lond B Biol Sci. 2016;283:20152529.
+Article  CAS  Google Scholar
+• 14.
+BioSuisse. Teil II Richtlinien für den Pflanzenbau und die Tierhaltung in der Schweiz. http://www.bio-suisse.ch/media/VundH/Regelwerk/2016/DE/rl_2016_1.6_d_auszug_ii_14.07.2016.pdf. 2016. Accessed 23 Aug 2016 (Bio Suisse).
+• 15.
+Kuske S, Naef A, Holliger E, Widmer A, Gölles M, Linder C, Dubuis P-H, Kehrli P, Bohren C. Pflanzenschutzempfehlungen für den Erwerbsobstbau 2014/2015—Flugschrift | 122. SCHWEIZER ZEITSCHRIFT FÜR OBST- UND WEINBAU | NR. 2 | 2014; 2014.
+• 16.
+URL. BMUB—Nationale Strategie zur biologischen Vielfalt. (Bundesministerium für Umwelt N, Bau und Reaktorsicherheit (BMUB) ed. http://www.biologischevielfalt.de/fileadmin/NBS/documents/broschuere_biolog_vielfalt_strategie_bf.pdf. 2007. Accessed 23 Aug 2016.
+• 17.
+URL. MEEM—Stratégie nationale pour la biodiversité 2011–2020. http://www.developpement-durable.gouv.fr/IMG/pdf/SNB_03-08-2012.pdf. 2011. Accessed 23 Aug 2016.
+• 18.
+URL. Convention on biological diversity. https://www.cbd.int/convention/text/. Accessed 23 Aug 2016.
+• 19.
+Klein A-M, Vaissière BE, Cane JH, Steffan-Dewenter I, Cunningham SA, Kremen C, Tscharntke T. Importance of pollinators in changing landscapes for world crops. Proc R Soc B Biol Sci. 2007;274:303–13.
+Article  Google Scholar
+• 20.
+Pimentel D, Wilson C, McCullum C, Huang R, Dwen P, Flack J, Tran Q, Saltman T, Cliff B. Economic and environmental benefits of biodiversity. Bioscience. 1997;47:747–57.
+Article  Google Scholar
+• 21.
+URL. EcoOrchard/Pest management in organic apple orchards—increasing functional agricultural biodiversity. http://coreorganicplus.org/research-projects/ecoorchard. Accessed 3 June 2016.
+• 22.
+Curran M, Maia de Souza D, Antón A, Teixeira RFM, Michelsen O, Vidal-Legaz B, Sala S, Milà i Canals L. How well does LCA model land use impacts on biodiversity?—a comparison with approaches from ecology and conservation. Environ Sci Technol. 2016;50:2782–95.
+CAS  Article  Google Scholar
+• 23.
+Jeanneret P, Baumgartner DU, Freiermuth Knuchel R, Koch B, Gaillard G. An expert system for integrating biodiversity into agricultural life-cycle assessment. Ecol Ind. 2014;46:224–31.
+Article  Google Scholar
+• 24.
+URL. Life cycle assessment method SALCA. https://www.agroscope.admin.ch/agroscope/de/home/themen/umwelt-ressourcen/oekobilanzen/oekobilanz-methoden/oekobilanzmethode-salca.html. Accessed 22 May 2019.
+• 25.
+van der Meer M, Lüscher G, Kay S, Jeanneret P. What evidence exists on the impact of agricultural practices in fruit orchards on biodiversity indicator species groups? A systematic map protocol. Environ Evid. 2017;6:14.
+Article  Google Scholar
+• 26.
+James KL, Randall NP, Haddaway NR. A methodology for systematic mapping in environmental sciences. Environ Evid. 2016;5:1–13.
+Article  Google Scholar
+• 27.
+Collaboration for Environmental Evidence. Guidelines for systematic review and evidence synthesis in environmental management. Version 4.2; 2013.
+• 28.
+Jeanneret P, Baumgartner DU, Freiermuth Knuchel R, Gaillard G. SALCA Biodiversity (terrestrial)/Methode zur Beurteilung der Wirkung landwirtschaftlicher Aktivitäten auf die Biodiversität für Ökobilanzen (SALCA-Biodiversität). https://www.agroscope.admin.ch/agroscope/en/home/topics/environment-resources/life-cycle-assessment/life-cycle-assessment-methods/life-cycle-assessment-method-salca.html#-654693770. 2009. Accessed 7 Feb 2017.
+• 29.
+URL. ETH BrowZine library. https://browzine.com/libraries/1165/subjects?sort=title. Accessed 15 Nov 2019.
+• 30.
+URL. ETH library. https://www.library.ethz.ch/en/Resources/Journals-newspapers. Accessed 15 Nov 2019.
+• 31.
+URL. Wikipedia, the free encyclopedia/speed reading. https://en.wikipedia.org/wiki/Speed_reading. Accessed 16 June 2016.
+• 32.
+Richard L. Kappa as a measure of concordance in categorical sorting. www.vassarstats.net/kappa.html. 2001. Accessed 13 Dec 2019.
+• 33.
+Landis JR, Koch GG. The measurement of observer agreement for categorical data. Biometrics. 1977;33:159–74.
+CAS  Article  Google Scholar
+• 34.
+Viera AJ, Garrett JM. Understanding interobserver agreement: the kappa statistic. Fam Med. 2005;37:360–3.
+Google Scholar
+• 35.
+Beck HE, Zimmermann NE, McVicar TR, Vergopolan N, Berg A, Wood EF. Present and future Köppen-Geiger climate classification maps at 1-km resolution. Sci Data. 2018;5:180214.
+Article  Google Scholar
+• 36.
+URL. Wikipedia, the free encyclopedia/Köppen climate classification. https://en.wikipedia.org/wiki/Köppen_climate_classification. Accessed 18 Nov 2019.
+• 37.
+URL. Wikipedia, the free encyclopedia/Regions_of_France. https://en.wikipedia.org/wiki/Regions_of_France. Accessed 15 June 2017.
+• 38.
+Haddaway N, Macura B, Whaley P, Pullin A. ROSES flow diagram for systematic maps. Version 1.0. https://doi.org/10.6084/m9.figshare.6085940; 2017.
+• 39.
+Chouinard G, Hill SB, Vincent C, Barthakur N. Border-row sprays for control of the plum curculio in apple orchards: behavioral study. J Econ Entomol. 1992;85:1307–17.
+Article  Google Scholar
+• 40.
+Jay M, Boreau de Roincé C, Ricard J-M, Garcin A, Mandrin J-F, Lavigne C, Bouvier J-C, Tupinier Y, Puechmaille S. Biodiversité fonctionelle en verger de pommier—Les chauves-souris consomment-elles des ravageurs?, vol. 286. In: Infos-Ctifl; 2012.
+• 41.
+Jay M, Tupinier Y. Les chauves-souris et vergers La distribution spatio-temporelle des animaux, vol. 207. In: Infos-Ctifl; 2004.
+• 42.
+Macemon A. The big brown bat (Eptesicus fuscus) and the little brown bat (Myotis lucifugus) as a biological pest control for the adult female codling moth (Cydia pomonella) in Illinois Apple Orchards. 2011.
+• 43.
+Barea-Azcón JM, Ballesteros-Duperón E, Gil-Sánchez JM, Virgós E. Badger Meles meles feeding ecology in dry Mediterranean environments of the southwest edge of its distribution range. Acta Theriol. 2010;55:45–52.
+Article  Google Scholar
+• 44.
+Fuelling O, Walther B, Nentwig W, Airoldi J-P. Barriers, traps and predators-an integrated approach to avoid vole damage. In: Proceedings to the 24th vertebrate pest conference University of California, Davis (Fagerstone RMTaKA ed.) Univ. of Calif., Davis; 2010. p. 222–7.
+• 45.
+Jay M, Ricard J-M, Bonnet X. BIODIVERSITÉ FONCTIONNELLE EN VERGER INTÉRÊT DES PLAQUES AU SOL POUR ÉTUDIER LA FAUNE TERRESTRE 1RE PARTIE: LES SERPENTS, vol. 296. In: Infos-Ctifl; 2013.
+• 46.
+Mc Donnell R, Santangelo R, Paine T, Hoddle M. The feeding behaviour of Rumina decollata (Subulinidae: Gastropoda) raises questions about its efficacy as a biological control agent for Cornu aspersum (Helicidae: Gastropoda). Biocontrol Sci Tech. 2016;26:331–6.
+Article  Google Scholar
+• 47.
+Riddick EW, Mills NJ. Potential of adult Carabids (Coleoptera: Carabidae) as predators of fifth-instar codling moth (Lepidoptera: Tortricidae) in apple orchards in California. Environ Entomol. 1994;23:1338–45.
+Article  Google Scholar
+• 48.
+Allen WR, Hagley EAC. Epigeal arthropods as predators of mature larvae and pupae of the apple maggot (Diptera: Tephritidae). Environ Entomol. 1990;19:309–12.
+Article  Google Scholar
+• 49.
+Alain Garcin MJ, Jean-François Mandrin: Les aménagements du verger pour une biodiversité fonctionnelle, vol. 127. In: Infos-Ctifl; 2005.
+• 50.
+Nyffeler M, Benz G. Spiders in natural pest control: a review. J Appl Entomol. 1987;103:321–39.
+Article  Google Scholar
+• 51.
+Riechert SE, Lockley T. Spiders as biological control agents. Annu Rev Entomol. 1984;29:299–320.
+Article  Google Scholar
+• 52.
+Nyffeler M, Birkhofer K. An estimated 400–800 million tons of prey are annually killed by the global spider community. Sci Nat. 2017;104:30.
+Article  CAS  Google Scholar
+• 53.
+Marc P, Canard A. Maintaining spider biodiversity in agroecosystems as a tool in pest control. Agric Ecosyst Environ. 1997;62:229–35.
+Article  Google Scholar
+• 54.
+Rajeswaran J, Duraimurugan P, Shanmugam P. Role of spiders in agriculture and horticulture ecosystem. J Food Agric Environ. 2005;3:147.
+Google Scholar
+• 55.
+Pickhardt A, Fluri P. Die Bestäubung der Blütenpflanzen durch Bienen. Biologie, Oekologie, Oekonomie. In: Mitt Schweizerisches Zentrum für Bienenforschung, vol. 38; 2000. p. 75.
+• 56.
+Abrol DP. Honeybee and crop pollination. Pollination biology: biodiversity conservation and agricultural production. New York: Springer; 2012. p. 85–110.
+Google Scholar
+• 57.
+Lewis T, Smith BD. The insect faunas of pear and apple orchards and the effect of windbreaks on their distribution. Ann Appl Biol. 1969;64:11–20.
+Article  Google Scholar
+• 58.
+Böttcher F. Bienensterben durch Schädlingsbekämpfung. Angew Chem. 1937;50:81–4.
+Article  Google Scholar
+• 59.
+Saunders ME, Luck GW. Combining costs and benefits of animal activities to assess net yield outcomes in apple orchards. PLoS ONE. 2016;11:e0158618.
+Article  CAS  Google Scholar
+• 60.
+Cooper J, Dobson H. The benefits of pesticides to mankind and the environment. Crop Prot. 2007;26:1337–48.
+CAS  Article  Google Scholar
+• 61.
+Pimentel D. Environmental and economic costs of the application of pesticides primarily in the United States. Environ Dev Sustain. 2005;7:229–52.
+Article  Google Scholar
+• 62.
+Zadoks JC. Fifty years of crop protection, 1950–2000. NJAS Wagening J Life Sci. 2003;50:181–93.
+Article  Google Scholar
+• 63.
+Ullinger JM, Sheridan SG, Guatelli-Steinberg D. Fruits of their labour: urbanisation, orchard crops, and dental health in early bronze age Jordan. Int J Osteoarchaeol. 2015;25:753–64.
+Article  Google Scholar
+• 64.
+Blondel J. The ‘design’ of mediterranean landscapes: a millennial story of humans and ecological systems during the historic period. Hum Ecol. 2006;34:713–29.
+Article  Google Scholar
+• 65.
+Dayan FE, Cantrell CL, Duke SO. Natural products in crop protection. Bioorg Med Chem. 2009;17:4022–34.
+CAS  Article  Google Scholar
+• 66.
+Orr D, Lahiri S. Chapter 23—Biological control of insect pests in crops A2. In: Abrol DP, editor. Integrated pest management. San Diego: Academic Press; 2014. p. 531–48.
+Google Scholar
+• 67.
+Barzman MS, Mills NJ, Thu Cuc NT. Traditional knowledge and rationale for weaver ant husbandry in the Mekong delta of Vietnam. Agric Hum Values. 1996;13:2–9.
+Article  Google Scholar
+• 68.
+Vayssières J-F. Weaver ants help farmers to capture organic markets. Appropr Technol. 2007;34(2):22.
+Google Scholar
+• 69.
+Van Mele P. A historical review of research on the weaver ant Oecophylla in biological control. Agric For Entomol. 2008;10:13–22.
+Google Scholar
+• 70.
+Hoddle MS, Van Driesche RG. Chapter 24—Biological control of insect pests. In: Cardé RT, editor. Encyclopedia of insects, vol. 2. San Diego: Academic Press; 2009. p. 91–101.
+Google Scholar
+• 71.
+Banaszkiewicz T. Evolution of pesticide use. Influence of the pesticide dump on the environment. Olsztyn: Department of Land Reclamation and Environmental Management, University of Warmia and Mazury; 2010. p. 7.
+Google Scholar
+• 72.
+URL. Wikipedia—Integrated farming. https://en.wikipedia.org/wiki/Integrated_farming#History. Accessed 15 Jan 2018.
+• 73.
+URL. University of California—citrus—selectivity of insecticides and miticides. http://ipm.ucanr.edu/PMG/r107300811.html. Accessed 07 May 2018.
+• 74.
+URL. IOBC—pesticide side effect database. http://www.iobc-wprs.org/ip_ipm/IOBC_Pesticide_Side_Effect_Database.html. Accessed 07 May 2018.
+• 75.
+Sánchez-Bayo F. Ecological impacts of insecticides. Advances in integrated pest management. Croatia: INTECH Open Access Publisher; 2012.
+Google Scholar
+• 76.
+Acheson E, Purves RS. Extracting and modeling geographic information from scientific articles. PLoS ONE; 2020 (submitted).
+Download references
+Acknowledgements
+Not applicable.
+Funding
+Not applicable.
+Author information
+Affiliations
+Agrarlandschaft und Biodiversität, Agroscope, Reckenholzstrasse 191, 8046, Zurich, Switzerland
+Markus van der Meer, Sonja Kay, Gisela Lüscher & Philippe Jeanneret
+Authors
+• Markus van der Meer
+View author publications
+You can also search for this author in PubMed Google Scholar
+• Sonja Kay
+View author publications
+You can also search for this author in PubMed Google Scholar
+• Gisela Lüscher
+View author publications
+You can also search for this author in PubMed Google Scholar
+• Philippe Jeanneret
+View author publications
+You can also search for this author in PubMed Google Scholar
+Contributions
+MvdM carried out the literature search, drafted the coding and the systematic map’s contents and edited this manuscript. He also executed the main part of the mapping. GL and SK regularly checked subsets of the mapping, helped to develop the data coding rules and the eligibility chart, and contributed to the consistency checks and to the final version of the manuscript. Furthermore, SK plotted data in GIS and GL in ‘R’. PJ is responsible for the expert system development and initialising the literature search to complete the scoring for the impact of fruit orchard practices on biodiversity. He attended and supervised the whole mapping process and contributed substantially to the editing of the manuscript. The whole team contributed in developing the study validity assessment and regularly discussed and developed the work in progress. All authors read and approved the final manuscript.
+Corresponding author
+Correspondence to Philippe Jeanneret.
+Ethics declarations
+Ethics approval and consent to participate
+Not applicable.
+Consent for publication
+Not applicable.
+Competing interests
+The authors declare that they have no competing interests.
+Additional information
+Publisher's Note
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary information
+Additional file 1. List of relevant articles (Access-Version).
+Additional file 2. List of relevant articles (Excel-Version).
+Additional file 3. Pictures of orchards, complemental figures and tables.
+Additional file 4. ROSES form for systematic map report.
+Additional file 5. List of search strings and literature sources searched.
+Additional file 6. List of excluded and unobtainable articles.
+Additional file 7. List of used code sets.
+Additional file 8. Amendatory information on (i) interventions (definitions), (ii) additional organisms, (iii) sources of production statistics, and (iv) original keywords listed by the articles’ authors.
+Additional file 9. List and action spectrum of all insecticides/acaricides and some other pesticides mentioned in the included articles.
+Rights and permissions
+Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated in a credit line to the data.
+Reprints and Permissions
+About this article
+Cite this article
+van der Meer, M., Kay, S., Lüscher, G. et al. What evidence exists on the impact of agricultural practices in fruit orchards on biodiversity? A systematic map. Environ Evid 9, 2 (2020). https://doi.org/10.1186/s13750-020-0185-z
+Download citation
+Received: 27 May 2019
+Accepted: 06 January 2020
+Published: 24 January 2020
+DOI: https://doi.org/10.1186/s13750-020-0185-z
+Keywords
+• Arboriculture
+• Habitat management
+• Management system
+• Natural enemies
+• Obstbau
+• SALCA-biodiversity
+• Scoring
+• Semi-natural habitat
+• Verger
+Download PDF
+Advertisement
+Environmental Evidence
+ISSN: 2047-2382
+Contact us
+• Submission enquiries: Access here and click Contact Us
+• General enquiries: info@biomedcentral.com
+• Read more on our blogs
+• Receive BMC newsletters
+• Manage article alerts
+• Language editing for authors
+• Scientific editing for authors
+• Policies
+• Accessibility
+• Press center
+• Support and Contact
+• Leave feedback
+• Careers
+Follow BMC
+• BMC Twitter page
+• BMC Facebook page
+• BMC Weibo page
+By using this website, you agree to our Terms and Conditions, Privacy statement and Cookies policy. Manage the cookies we use in the preference centre.
+© 2020 BioMed Central Ltd unless otherwise stated. Part of Springer Nature.
