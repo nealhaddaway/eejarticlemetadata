@@ -12,8 +12,14 @@
 #' Generate url for PDF
 pdflink <- function(doi){
   sub(" ", "", paste("https://environmentalevidencejournal.biomedcentral.com/track/pdf/", doi))
+
+  }
+
+pdfurl <- function(pdflink,doi){
+  pdfurl<-mapply(pdflink, doi) #convert dois to pdflinks
+  return(pdfurl)
 }
-#pdfurl <- mapply(pdflink, doi) #convert dois to pdflinks
+
 
 
 #' Download PDFs to folder (working directory) with doi as the filename (substituting '..' for '/')
@@ -25,20 +31,20 @@ save_pdf <- function(pdfurl=NULL, doi=NULL){
 
 
 #' Scrape online PDF text and split into lines
-pdftext <- lapply(pdfurl, pdftools::pdf_text)
+#pdftext <- lapply(pdfurl, pdftools::pdf_text)
 split_lines <- function(x) {
   x <- strsplit(x, "\n")[[1]]
 }
 #pdflines <- lapply(pdftext, split_lines)
 
 #' Save each scraped PDF as a text file
-library(SparkR)
-save_pdftext <- function(pdftext=NULL, doi=NULL){
-  filename <- as.character(gsub(" ", "", paste(gsub("/", "..", doi), ".txt")))
-  fileConn <- file(filename)
-  write(as.character(pdftext), file = fileConn, append = TRUE)
-  close(fileConn)
-}
+#library(SparkR)
+#save_pdftext <- function(pdftext=NULL, doi=NULL){
+ # filename <- as.character(gsub(" ", "", paste(gsub("/", "..", doi), ".txt")))
+#  fileConn <- file(filename)
+#  write(as.character(pdftext), file = fileConn, append = TRUE)
+#  close(fileConn)
+#}
 #mapply(save_pdftext, pdftext = pdftext, doi = doi)
 
 
