@@ -11,6 +11,8 @@ pdflink(doi)
 }
 \value{
 Locally saved HTML and PDF files, along with scraped text and code from HTMLs and text from PDFs.
+
+Generate url for PDF
 }
 \description{
 Saves HTML and/or PDF files based on a doi or URL, and scrapes the content for html code and full text.
