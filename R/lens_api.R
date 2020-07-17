@@ -8,6 +8,8 @@
 #' @description Searches for the source name "Environmental Evidence" are performed using the free API for lens.org.
 #' @param token A string provided on approval of access to the lens.org API.
 #' @return A dataframe containing the lens.org results, including parsed dois (or other external identifiers) and publisher URLs.
+#' @export
+#' 
 
 
 require(httr)
