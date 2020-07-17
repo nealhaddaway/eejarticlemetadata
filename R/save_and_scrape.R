@@ -7,7 +7,7 @@
 #' @description Saves HTML and/or PDF files based on a doi or URL, and scrapes the content for html code and full text.
 #' @param doi A single or list of digital object identifier(s) (DOI).
 #' @return Locally saved HTML and PDF files, along with scraped text and code from HTMLs and text from PDFs.
-#' @export
+
 #' 
 
 
@@ -17,14 +17,19 @@ pdflink <- function(doi){
 
   }
 
-pdfurl <- function(doi){
-  pdfurl<-mapply(pdflink, doi) #convert dois to pdflinks
-  return(pdfurl)
-}
-
+#' #' convert dois to pdflinks
+#' #' @export
+#' 
+#' pdfurl <- function(pdflink,doi){
+#'   pdfurl<-mapply(pdflink, doi) #convert dois to pdflinks
+#'   return(pdfurl)
+#' }
+#' 
 
 
 #' Download PDFs to folder (working directory) with doi as the filename (substituting '..' for '/')
+#' @export
+
 save_pdf <- function(doi){
   filename <- as.character(gsub(" ", "", paste(gsub("/", "..", doi), ".pdf")))
   download.file(pdfurl(doi), destfile = filename)
@@ -33,7 +38,10 @@ save_pdf <- function(doi){
 
 
 #' Scrape online PDF text and split into lines
+#' @export
+ 
 #pdftext <- lapply(pdfurl, pdftools::pdf_text)
+
 split_lines <- function(x) {
   x <- strsplit(x, "\n")[[1]]
 }
@@ -51,6 +59,8 @@ split_lines <- function(x) {
 
 
 #' Scrape htmls from a doi
+#' @export
+
 scrape_html <- function(doi){
   urls <- paste("https://doi.org/", doi, sep = "")
   x <- htm2txt::gettxt(urls)
@@ -61,6 +71,8 @@ scrape_html <- function(doi){
 }
 
 #' Write scraped html text to txt files
+#' @export
+
 save_htmltxt <- function(htmltxt=NULL, doi=NULL){
   filename <- as.character(gsub(" ", "", paste(gsub("/", "..", doi), ".txt")))
   fileConn <- file(filename)
@@ -71,6 +83,7 @@ save_htmltxt <- function(htmltxt=NULL, doi=NULL){
 
 
 #' Save htmls as html files
+#' @export
 save_html <- function(doi){
   download.file(paste("https://doi.org/", doi, sep = ""), 
                 destfile = gsub("/", "..", paste(doi, ".html", sep = "")), 
