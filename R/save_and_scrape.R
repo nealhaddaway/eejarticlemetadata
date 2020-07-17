@@ -19,14 +19,14 @@ pdflink <- function(doi){
 
 }
 
-#' convert dois to pdflinks
-#' @export
-
-pdfurl <- function(pdflink,doi){
-  pdfurl<-mapply(pdflink, doi) #convert dois to pdflinks
-  return(pdfurl)
-}
-
+#' #' convert dois to pdflinks
+#' #' @export
+#' 
+#' pdfurl <- function(pdflink,doi){
+#'   pdfurl<-mapply(pdflink, doi) #convert dois to pdflinks
+#'   return(pdfurl)
+#' }
+#' 
 
 
 #' Download PDFs to folder (working directory) with doi as the filename (substituting '..' for '/')

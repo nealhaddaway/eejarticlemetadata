@@ -2,10 +2,17 @@
 % Please edit documentation in R/save_and_scrape.R
 \name{save_pdf}
 \alias{save_pdf}
-\title{Download PDFs to folder (working directory) with doi as the filename (substituting '..' for '/')}
+\title{#' convert dois to pdflinks
+#' @export}
 \usage{
 save_pdf(pdfurl = NULL, doi = NULL)
 }
 \description{
+pdfurl <- function(pdflink,doi){
+pdfurl<-mapply(pdflink, doi) #convert dois to pdflinks
+return(pdfurl)
+}
+}
+\details{
 Download PDFs to folder (working directory) with doi as the filename (substituting '..' for '/')
 }
