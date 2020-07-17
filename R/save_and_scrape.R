@@ -12,8 +12,14 @@
 #' Generate url for PDF
 pdflink <- function(doi){
   sub(" ", "", paste("https://environmentalevidencejournal.biomedcentral.com/track/pdf/", doi))
+
+  }
+
+pdfurl <- function(pdflink,doi){
+  pdfurl<-mapply(pdflink, doi) #convert dois to pdflinks
+  return(pdfurl)
 }
-pdfurl <- mapply(pdflink, doi) #convert dois to pdflinks
+
 
 
 #' Download PDFs to folder (working directory) with doi as the filename (substituting '..' for '/')
@@ -21,25 +27,25 @@ save_pdf <- function(pdfurl=NULL, doi=NULL){
   filename <- as.character(gsub(" ", "", paste(gsub("/", "..", doi), ".pdf")))
   download.file(pdfurl, destfile = filename)
 }
-mapply(save_pdf, pdfurl = pdfurl, doi = doi)
+#mapply(save_pdf, pdfurl = pdfurl, doi = doi)
 
 
 #' Scrape online PDF text and split into lines
-pdftext <- lapply(pdfurl, pdftools::pdf_text)
+#pdftext <- lapply(pdfurl, pdftools::pdf_text)
 split_lines <- function(x) {
   x <- strsplit(x, "\n")[[1]]
 }
-pdflines <- lapply(pdftext, split_lines)
+#pdflines <- lapply(pdftext, split_lines)
 
 #' Save each scraped PDF as a text file
-library(SparkR)
-save_pdftext <- function(pdftext=NULL, doi=NULL){
-  filename <- as.character(gsub(" ", "", paste(gsub("/", "..", doi), ".txt")))
-  fileConn <- file(filename)
-  write(as.character(pdftext), file = fileConn, append = TRUE)
-  close(fileConn)
-}
-mapply(save_pdftext, pdftext = pdftext, doi = doi)
+#library(SparkR)
+#save_pdftext <- function(pdftext=NULL, doi=NULL){
+ # filename <- as.character(gsub(" ", "", paste(gsub("/", "..", doi), ".txt")))
+#  fileConn <- file(filename)
+#  write(as.character(pdftext), file = fileConn, append = TRUE)
+#  close(fileConn)
+#}
+#mapply(save_pdftext, pdftext = pdftext, doi = doi)
 
 
 #' Scrape htmls from a doi
@@ -59,7 +65,7 @@ save_htmltxt <- function(htmltxt=NULL, doi=NULL){
   write(as.character(htmltxt), file = fileConn, append = TRUE)
   close(fileConn)
 }
-mapply(save_htmltxt, htmltxt = htmltxt, doi = doi)
+#mapply(save_htmltxt, htmltxt = htmltxt, doi = doi)
 
 
 #' Save htmls as html files
@@ -70,7 +76,7 @@ save_html <- function(doi){
                 quiet = FALSE)
   print("File successfully downloaded to working directory")
 }
-mapply(save_html, doi)
+#mapply(save_html, doi)
 
 
 
