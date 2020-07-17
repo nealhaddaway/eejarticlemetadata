@@ -11,13 +11,13 @@
 #' 
 
 
-#' Generate url for PDF
+#' Generate urls for PDFs based on list of dois
 pdflink <- function(doi){
   sub(" ", "", paste("https://environmentalevidencejournal.biomedcentral.com/track/pdf/", doi))
 
   }
 
-pdfurl <- function(pdflink,doi){
+pdfurl <- function(doi){
   pdfurl<-mapply(pdflink, doi) #convert dois to pdflinks
   return(pdfurl)
 }
@@ -25,11 +25,11 @@ pdfurl <- function(pdflink,doi){
 
 
 #' Download PDFs to folder (working directory) with doi as the filename (substituting '..' for '/')
-save_pdf <- function(pdfurl=NULL, doi=NULL){
+save_pdf <- function(doi){
   filename <- as.character(gsub(" ", "", paste(gsub("/", "..", doi), ".pdf")))
-  download.file(pdfurl, destfile = filename)
+  download.file(pdfurl(doi), destfile = filename)
 }
-#mapply(save_pdf, pdfurl = pdfurl, doi = doi)
+
 
 
 #' Scrape online PDF text and split into lines
