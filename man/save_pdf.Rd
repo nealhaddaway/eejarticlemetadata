@@ -5,7 +5,7 @@
 \title{#' convert dois to pdflinks
 #' @export}
 \usage{
-save_pdf(pdfurl = NULL, doi = NULL)
+save_pdf(doi)
 }
 \description{
 pdfurl <- function(pdflink,doi){

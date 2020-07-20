@@ -12,12 +12,10 @@ pdflink(doi)
 \value{
 Locally saved HTML and PDF files, along with scraped text and code from HTMLs and text from PDFs.
 
-pdflink
+Generate urls for PDFs based on list of dois
 }
 \description{
 Saves HTML and/or PDF files based on a doi or URL, and scrapes the content for html code and full text.
-
-Generate url for PDF
 }
 \details{
 These functions download PDF and HTML files for full texts from Environmental Evidence, as well as scraping text out of HTML files (including and excluding code)
