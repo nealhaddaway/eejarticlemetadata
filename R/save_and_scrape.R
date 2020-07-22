@@ -1,33 +1,24 @@
 #' Function to download and scrape content locally from Environmental Evidence articles based on a doi/publisher url
 #' 
-#' These functions download PDF and HTML files for full texts from Environmental Evidence, as well as scraping text out of HTML files (including and excluding code)
-#' and PDF files (text only), saving the scraped text as .txt files. The functions only work for Environmental Evidence.
+#' These functions download single PDF and HTML file for full texts from Environmental Evidence, as well as scraping text 
+#' out of an HTML file (including and excluding code) and PDF file (text only), saving the scraped text as .txt files. 
+#' The functions have only been verified for articles in Environmental Evidence.
 #' 
 #' Save and scrape full texts from the journal Environmental Evidence.
 #' @description Saves HTML and/or PDF files based on a doi or URL, and scrapes the content for html code and full text.
 #' @param doi A single or list of digital object identifier(s) (DOI).
 #' @return Locally saved HTML and PDF files, along with scraped text and code from HTMLs and text from PDFs.
 
-#' 
-
 
 #' Generate urls for PDFs based on list of dois
-pdflink <- function(doi){
+#' @export
+
+pdfurl <- function(doi){
   sub(" ", "", paste("https://environmentalevidencejournal.biomedcentral.com/track/pdf/", doi))
-
-  }
-
-#' #' convert dois to pdflinks
-#' #' @export
-#' 
-#' pdfurl <- function(pdflink,doi){
-#'   pdfurl<-mapply(pdflink, doi) #convert dois to pdflinks
-#'   return(pdfurl)
-#' }
-#' 
+}
 
 
-#' Download PDFs to folder (working directory) with doi as the filename (substituting '..' for '/')
+#' Download PDF to folder (working directory) with doi as the filename (substituting '..' for '/')
 #' @export
 
 save_pdf <- function(doi){
@@ -36,29 +27,44 @@ save_pdf <- function(doi){
 }
 
 
-
-#' Scrape online PDF text and split into lines
+#' split text into lines by paragraph
 #' @export
- 
-#pdftext <- lapply(pdfurl, pdftools::pdf_text)
 
 split_lines <- function(x) {
   x <- strsplit(x, "\n")[[1]]
 }
-#pdflines <- lapply(pdftext, split_lines)
-
-#' Save each scraped PDF as a text file
-#library(SparkR)
-#save_pdftext <- function(pdftext=NULL, doi=NULL){
- # filename <- as.character(gsub(" ", "", paste(gsub("/", "..", doi), ".txt")))
-#  fileConn <- file(filename)
-#  write(as.character(pdftext), file = fileConn, append = TRUE)
-#  close(fileConn)
-#}
-#mapply(save_pdftext, pdftext = pdftext, doi = doi)
 
 
-#' Scrape htmls from a doi
+
+#' Scrape online PDF text and split into lines
+#' @export
+ 
+pdftext <- function(input){
+  if(startsWith(input,"10")==TRUE){ #check whether input is a doi (starting with '10' or a url)
+    pdflink <- pdfurl(input)
+    text <- pdftools::pdf_text(pdflink)
+    pdflines <- split_lines(text)
+    return(pdflines)
+  } else {
+    text <- pdftools::pdf_text(input)
+    pdflines <- split_lines(text)
+    return(pdflines)
+  }
+}
+
+
+#' Save scraped PDF as a text file
+#' @export
+
+save_pdftext <- function(pdftext=NULL, doi=NULL){
+  filename <- as.character(gsub(" ", "", paste(gsub("/", "..", doi), ".txt")))
+  fileConn <- file(filename)
+  SparkR::write(as.character(pdftext), file = fileConn, append = TRUE)
+  close(fileConn)
+}
+
+
+#' Scrape html from a doi
 #' @export
 
 scrape_html <- function(doi){
@@ -70,7 +76,7 @@ scrape_html <- function(doi){
   }
 }
 
-#' Write scraped html text to txt files
+#' Write scraped html text to txt file
 #' @export
 
 save_htmltxt <- function(htmltxt=NULL, doi=NULL){
@@ -79,10 +85,9 @@ save_htmltxt <- function(htmltxt=NULL, doi=NULL){
   write(as.character(htmltxt), file = fileConn, append = TRUE)
   close(fileConn)
 }
-#mapply(save_htmltxt, htmltxt = htmltxt, doi = doi)
 
 
-#' Save htmls as html files
+#' Save html as html file
 #' @export
 save_html <- function(doi){
   download.file(paste("https://doi.org/", doi, sep = ""), 
@@ -91,7 +96,6 @@ save_html <- function(doi){
                 quiet = FALSE)
   print("File successfully downloaded to working directory")
 }
-#mapply(save_html, doi)
 
 
 
