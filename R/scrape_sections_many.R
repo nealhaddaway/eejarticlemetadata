@@ -26,3 +26,19 @@ extract_articletype <- function(text){
   sub("• ", "", (unlist(text))[(grep("Download PDF", unlist(text))[1]+1)])
 }
 articletype <- mapply(extract_articletype, lines) 
+
+
+#' Function to extract code for user-specified sections (based on 'from' and 'to') from across multiple files
+#' @export
+
+subsection_texts <- function(text, from, to){
+  mapply(subsection_text, text, from, to)
+}
+
+
+#' Function to extract code for pre-specified sections from across multiple files
+#' @export
+
+subsections_all <- function(text){
+  mapply(subsection_all, text)
+}
