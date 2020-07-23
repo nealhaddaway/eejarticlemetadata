@@ -93,3 +93,100 @@ all_sections <- function(text){
 }
 
 
+
+#' Function to extract a single paragraph below a given subtitle
+#' @export
+extract_nextpara <- function(subtitle, text){
+  text <- unlist(text)
+  text <- text[(grep(subtitle, text))+1]
+  return(text)
+}
+
+
+#' Function to extract Acknowledgements section text
+#' @export
+extract_acknowledgements <- function(text){
+  acknolwedgements <- tryCatch(extract_nextpara("Acknowledgements", text), error=function(e) NULL)
+  return(acknolwedgements)
+}
+
+
+#' Function to extract Author's contributions section text
+#' @export
+extract_contributions <- function(text){
+  contributions <- tryCatch(extract_nextpara("Authors’ contributions", text), error=function(e) NULL)
+  return(contributions)
+}
+
+
+#' Function to extract Competing interests section text
+#' @export
+extract_coi <- function(text){
+  coi <- tryCatch(extract_nextpara("Competing interests", text), error=function(e) NULL)
+  return(coi)
+}
+
+
+#' Function to extract data availability section text
+#' @export
+extract_dataavail <- function(text){
+  dataavail <- tryCatch(extract_nextpara("Availability of data", text), error=function(e) NULL)
+  return(dataavail)
+}
+
+
+#' Function to extract Funding section text
+#' @export
+extract_funding <- function(text){
+  funding <- tryCatch(extract_nextpara("Funding", text), error=function(e) NULL)
+  return(funding)
+}
+
+
+#' Function to extract single para at point of reference
+#' @export
+extract_thispara <- function(subtitle, text){
+  text <- unlist(text)
+  text <- text[grep(subtitle, text)]
+  return(text)
+}
+
+#' Function to extract dates
+#' @export
+extract_date <- function(text, date){
+  text <- text[(grep(date, paste(text, ":", sep = "")))[1]]
+  return(text)
+}
+
+extract_dates <- function(text){
+  date_received <- extract_date(text, date="Received")
+  date_accepted <- extract_date(text, date="Accepted")
+  date_published <- gsub("• ", "", extract_date(text, date="Published"))
+  return(list(date_received = date_received, date_accepted = date_accepted, date_published = date_published))
+}
+
+
+#' Function to extract Keywords section text
+extract_keywords <- function(text, number=8){
+  keywords_start <- grep("Keywords", text)
+  keywords <- gsub("• ", "", text[(max(keywords_start)+1):(max(keywords_start)+number)])
+  keywords <- gsub("Download PDF", "", keywords)
+  keywords <- gsub("Advertisement", "", keywords)
+  keywords <- gsub("Environmental Evidence", "", keywords)
+  keywords <- gsub("ISSN: 2047-2382", "", keywords)
+  keywords <- gsub("Contact us", "", keywords)
+  keywords <- gsub("Submission enquiries: Access here and click Contact Us", "", keywords)
+  keywords <- gsub("General enquiries: info@biomedcentral.com", "", keywords)
+  keywords <- gsub("Read more on our blogs", "", keywords)
+  keywords <- gsub("Receive BMC newsletters", "", keywords)
+  keywords <- gsub("Manage article alerts", "", keywords)
+  keywords <- gsub("Language editing for authors", "", keywords)
+  keywords <- gsub("Scientific editing for authors", "", keywords)
+  keywords <- gsub("Policies", "", keywords)
+  keywords <- gsub("Accessibility", "", keywords)
+  keywords <- gsub("Press center", "", keywords)
+  keywords <- keywords[keywords != ""]
+  keywords[keywords != ""]
+}
+keywords <- mapply(extract_keywords, lines, 20)
+
