@@ -14,31 +14,74 @@
 #' Extract email addresses from PDFs
 #' @export
 
-findemails <- function(pdflines){
-  gsub(",", ";", mapply(toString, unname(mapply(findemail, pdflines))))
+findemails <- function(finemail, text){
+  emails <- mapply(findemail, text)
+  return(emails)
 }
 
 
 #' Discern article type from publisher field code
 #' @export
 
-extract_articletype <- function(text){
-  sub("• ", "", (unlist(text))[(grep("Download PDF", unlist(text))[1]+1)])
+extract_articletypes <- function(extract_articletype, text){
+  articletype <- mapply(extract_articletype, text)
+  return(articletype)
 }
-articletype <- mapply(extract_articletype, lines) 
 
 
 #' Function to extract code for user-specified sections (based on 'from' and 'to') from across multiple files
 #' @export
 
-subsection_texts <- function(text, from, to){
-  mapply(subsection_text, text, from, to)
+subsection_texts <- function(subsection_text, text, from, to){
+  subsections <- mapply(subsection_text, text, from, to)
+  return(subsections)
 }
 
 
 #' Function to extract code for pre-specified sections from across multiple files
 #' @export
 
-subsections_all <- function(text){
-  mapply(subsection_all, text)
+background_sections <- function(background_section, text, from = "Background", to = "Objective"){
+  backgrounds <- maply(subsection_text, text, from, to)
+  return(backgrounds)
+}
+
+backgroundandobjective_sections <- function(backgroundandobjective_section, text, from = "Background", to = "Methods"){
+  backgroundandobjectives <- mapply(subsection_text, text, from, to)
+  return(backgroundandobjectives)
+}
+
+objectives_sections <- function(objectives_section, text, from = "Objective", to = "Methods"){
+  objectives <- mapply(subsection_text, text, from, to)
+  return(objectives)
+}
+
+methods_sections <- function(methods_section, text, from = "Methods", to = "Results"){
+  methods <- mapply(subsection_text, text, from, to)
+  return(methods)
+}
+
+results_section <- function(results_section, text, from = "Results", to = "Discussion"){
+  results <- mapply(subsection_text, text, from, to)
+  return(results)
+}
+
+discussion_sections <- function(discussion_section, text, from = "Discussion", to = "Conclusions"){
+  discussions <- mapply(subsection_text, text, from, to)
+  return(discussions)
+}
+
+discussionandconclusions_section <- function(text, from = "Discussion", to = "References"){
+  discussionandconclusions <- subsection_text(text, from, to)
+  return(discussionandconclusions)
+}
+
+conclusions_sections <- function(conclusions_section, text, from = "Conclusions", to = "References"){
+  conclusions <- mapply(subsection_text, text, from, to)
+  return(conclusions)
+}
+
+subsections_all <- function(all_sections, text){
+  allsections <- mapply(all_sections, text)
+  return(allsections)
 }
