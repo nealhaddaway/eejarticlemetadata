@@ -14,7 +14,7 @@
 #' Extract email addresses from PDFs
 #' @export
 
-findemails <- function(finemail, text){
+findemails <- function(findemail, text){
   emails <- mapply(findemail, text)
   return(emails)
 }
