@@ -2,12 +2,10 @@
 % Please edit documentation in R/save_and_scrape.R
 \name{scrape_html}
 \alias{scrape_html}
-\title{Save each scraped PDF as a text file
-Scrape htmls from a doi}
+\title{Scrape html from a doi}
 \usage{
 scrape_html(doi)
 }
 \description{
-Save each scraped PDF as a text file
-Scrape htmls from a doi
+Scrape html from a doi
 }

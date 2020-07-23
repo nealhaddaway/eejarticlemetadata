@@ -2,10 +2,10 @@
 % Please edit documentation in R/save_and_scrape.R
 \name{save_htmltxt}
 \alias{save_htmltxt}
-\title{Write scraped html text to txt files}
+\title{Write scraped html text to txt file}
 \usage{
 save_htmltxt(htmltxt = NULL, doi = NULL)
 }
 \description{
-Write scraped html text to txt files
+Write scraped html text to txt file
 }

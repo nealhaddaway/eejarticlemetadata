@@ -12,7 +12,6 @@
 #' 
 
 
-require(httr)
 getScholarlyData <- function(token, query){
   url <- 'https://api.lens.org/scholarly/search'
   headers <- c('Authorization' = token, 'Content-Type' = 'application/json')

@@ -2,10 +2,10 @@
 % Please edit documentation in R/save_and_scrape.R
 \name{split_lines}
 \alias{split_lines}
-\title{Scrape online PDF text and split into lines}
+\title{split text into lines by paragraph}
 \usage{
 split_lines(x)
 }
 \description{
-Scrape online PDF text and split into lines
+split text into lines by paragraph
 }

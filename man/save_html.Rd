@@ -2,10 +2,10 @@
 % Please edit documentation in R/save_and_scrape.R
 \name{save_html}
 \alias{save_html}
-\title{Save htmls as html files}
+\title{Save html as html file}
 \usage{
 save_html(doi)
 }
 \description{
-Save htmls as html files
+Save html as html file
 }
