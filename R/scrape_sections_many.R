@@ -49,41 +49,38 @@ extractall_backgroundandobjectives <- function(extract_backgroundandobjectives, 
 }
 
 
-
-
-#need to make these as mapply functions, no repeating single function text
-objectives_sections <- function(objectives_section, text, from = "Objective", to = "Methods"){
-  objectives <- mapply(extract_sections, text, from, to)
+extractall_objectives <- function(extract_objectives, text){
+  objectives <- mapply(extract_objectives, text)
   return(objectives)
 }
 
-methods_sections <- function(methods_section, text, from = "Methods", to = "Results"){
-  methods <- mapply(extract_sections, text, from, to)
+extractall_methods <- function(extract_methods, text){
+  methods <- mapply(extract_methods, text)
   return(methods)
 }
 
-results_section <- function(results_section, text, from = "Results", to = "Discussion"){
+extractall_results <- function(extract_results, text, from = "Results", to = "Discussion"){
   results <- mapply(extract_sections, text, from, to)
   return(results)
 }
 
-discussion_sections <- function(discussion_section, text, from = "Discussion", to = "Conclusions"){
+discussion_sections <- function(discussion_section, text){
   discussions <- mapply(extract_sections, text, from, to)
   return(discussions)
 }
 
 discussionandconclusions_section <- function(text, from = "Discussion", to = "References"){
-  discussionandconclusions <- mapply(extract_sections, text, from, to)
+  discussionandconclusions <- mapply(extract_results, text)
   return(discussionandconclusions)
 }
 
-conclusions_sections <- function(conclusions_section, text, from = "Conclusions", to = "References"){
-  conclusions <- mapply(extract_sections, text, from, to)
+extractall_conclusions <- function(extract_conclusions, text){
+  conclusions <- mapply(extract_conclusions, text)
   return(conclusions)
 }
 
-subsections_all <- function(all_sections, text){
-  allsections <- mapply(all_sections, text)
+extractall_sections <- function(extract_sections, text){
+  allsections <- mapply(extract_sections, text)
   return(allsections)
 }
 
