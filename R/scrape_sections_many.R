@@ -13,27 +13,24 @@
 
 #' Extract email addresses from PDFs
 #' @export
-
-findemails <- function(findemail, text){
-  emails <- mapply(findemail, text)
+extractall_emails <- function(extract_emails, text){
+  emails <- mapply(extract_emails, text)
   return(emails)
 }
 
 
 #' Discern article type from publisher field code
 #' @export
-
-extract_articletypes <- function(extract_articletype, text){
-  articletype <- mapply(extract_articletype, text)
-  return(articletype)
+extractall_articletypes <- function(extract_articletype, text){
+  articletypes <- mapply(extract_articletype, text)
+  return(articletypes)
 }
 
 
 #' Function to extract code for user-specified sections (based on 'from' and 'to') from across multiple files
 #' @export
-
-subsection_texts <- function(subsection_text, text, from, to){
-  subsections <- mapply(subsection_text, text, from, to)
+extractall_subsections <- function(extract_subsections, text, from, to){
+  subsections <- mapply(extract_subsections, text, from, to)
   return(subsections)
 }
 
@@ -41,43 +38,47 @@ subsection_texts <- function(subsection_text, text, from, to){
 #' Function to extract code for pre-specified sections from across multiple files
 #' @export
 
-background_sections <- function(background_section, text, from = "Background", to = "Objective"){
-  backgrounds <- maply(subsection_text, text, from, to)
+extractall_backgrounds <- function(extract_background, text){
+  backgrounds <- maply(extract_background, text)
   return(backgrounds)
 }
 
-backgroundandobjective_sections <- function(backgroundandobjective_section, text, from = "Background", to = "Methods"){
-  backgroundandobjectives <- mapply(subsection_text, text, from, to)
+extractall_backgroundandobjectives <- function(extract_backgroundandobjectives, text){
+  backgroundandobjectives <- mapply(extract_backgroundandobjectives, text)
   return(backgroundandobjectives)
 }
 
+
+
+
+#need to make these as mapply functions, no repeating single function text
 objectives_sections <- function(objectives_section, text, from = "Objective", to = "Methods"){
-  objectives <- mapply(subsection_text, text, from, to)
+  objectives <- mapply(extract_sections, text, from, to)
   return(objectives)
 }
 
 methods_sections <- function(methods_section, text, from = "Methods", to = "Results"){
-  methods <- mapply(subsection_text, text, from, to)
+  methods <- mapply(extract_sections, text, from, to)
   return(methods)
 }
 
 results_section <- function(results_section, text, from = "Results", to = "Discussion"){
-  results <- mapply(subsection_text, text, from, to)
+  results <- mapply(extract_sections, text, from, to)
   return(results)
 }
 
 discussion_sections <- function(discussion_section, text, from = "Discussion", to = "Conclusions"){
-  discussions <- mapply(subsection_text, text, from, to)
+  discussions <- mapply(extract_sections, text, from, to)
   return(discussions)
 }
 
 discussionandconclusions_section <- function(text, from = "Discussion", to = "References"){
-  discussionandconclusions <- subsection_text(text, from, to)
+  discussionandconclusions <- mapply(extract_sections, text, from, to)
   return(discussionandconclusions)
 }
 
 conclusions_sections <- function(conclusions_section, text, from = "Conclusions", to = "References"){
-  conclusions <- mapply(subsection_text, text, from, to)
+  conclusions <- mapply(extract_sections, text, from, to)
   return(conclusions)
 }
 
