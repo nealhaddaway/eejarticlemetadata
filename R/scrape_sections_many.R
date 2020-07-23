@@ -85,3 +85,83 @@ subsections_all <- function(all_sections, text){
   allsections <- mapply(all_sections, text)
   return(allsections)
 }
+
+
+#' Function to extract single paragraphs below given subtitles
+#' @export
+extractall_nextpara <- function(text, subtitle){
+  nextparas <- mapply(extract_nextpara, text)
+  return(nextparas)
+}
+
+
+#' Function to extract Acknowledgements section texts
+#' @export
+extractall_acknowledgements <- function(text){
+  acknowledgements <- mapply(extract_acknowledgements, text)
+  return(acknowledgements)
+}
+
+
+#' Function to extract Author's contributions section text
+#' @export
+extractall_contributions <- function(text){
+  contributions <- mapply(extract_contributions, text)
+  return(contributions)
+}
+
+
+#' Function to extract Competing interests section text
+#' @export
+extractall_coi <- function(text){
+  cois <- mapply(extract_coi, text)
+  return(cois)
+}
+
+
+#' Function to extract data availability section text
+#' @export
+extractall_dataavail <- function(text){
+  dataavails <- mapply(extract_dataavail, text)
+  return(dataavails)
+}
+
+
+#' Function to extract Funding section text
+#' @export
+extractall_funding <- function(text){
+  funding <- mapply(extract_funding, text)
+  return(funding)
+}
+
+
+#' Function to extract single para at point of reference
+#' @export
+extractall_thispara <- function(text, subtitle){
+  text <- mapply(extract_thispara, text, subtitle)
+  return(text)
+}
+
+
+#' Function to extract a date
+#' @export
+extractall_date <- function(text, date){
+  text <- mapply(extract_date, text, date)
+  return(text)
+}
+
+
+#' Function to extract dates
+#' @export
+extractall_dates <- function(text){
+  dates <- mapply(extract_dates, text)
+  return(dates)
+}
+
+
+#' Function to extract Keywords section text
+#' @export
+extractall_keywords <- function(text, number=20){
+  keywords <- mapply(extract_keywords, text)
+  return(keywords)
+}

@@ -96,7 +96,7 @@ all_sections <- function(text){
 
 #' Function to extract a single paragraph below a given subtitle
 #' @export
-extract_nextpara <- function(subtitle, text){
+extract_nextpara <- function(text, subtitle){
   text <- unlist(text)
   text <- text[(grep(subtitle, text))+1]
   return(text)
@@ -151,13 +151,17 @@ extract_thispara <- function(subtitle, text){
   return(text)
 }
 
-#' Function to extract dates
+
+#' Function to extract a date
 #' @export
 extract_date <- function(text, date){
   text <- text[(grep(date, paste(text, ":", sep = "")))[1]]
   return(text)
 }
 
+
+#' Function to extract dates
+#' @export
 extract_dates <- function(text){
   date_received <- extract_date(text, date="Received")
   date_accepted <- extract_date(text, date="Accepted")
@@ -167,7 +171,8 @@ extract_dates <- function(text){
 
 
 #' Function to extract Keywords section text
-extract_keywords <- function(text, number=8){
+#' @export
+extract_keywords <- function(text, number=20){
   keywords_start <- grep("Keywords", text)
   keywords <- gsub("• ", "", text[(max(keywords_start)+1):(max(keywords_start)+number)])
   keywords <- gsub("Download PDF", "", keywords)
@@ -186,7 +191,6 @@ extract_keywords <- function(text, number=8){
   keywords <- gsub("Accessibility", "", keywords)
   keywords <- gsub("Press center", "", keywords)
   keywords <- keywords[keywords != ""]
-  keywords[keywords != ""]
+  keywords <- keywords[keywords != ""]
+  return(keywords)
 }
-keywords <- mapply(extract_keywords, lines, 20)
-
