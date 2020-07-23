@@ -1,7 +1,10 @@
 #' This file contains a suite of functions to scrape information from web-based HTML and PDF files, and has been developed to function 
 #' with the journal Environmental Evidence, published by BioMed Central (https://environmentalevidencejournal.biomedcentral.com/).
 
-
+#' Save and scrape full texts from the journal Environmental Evidence.
+#' @description Scrapes the content for html code and full text.
+#' @param text Text extracted from HTML files downloaded from EEJ (see import_text)
+#' @return lists of paragraphs from extracted text
 
 
 #' Extract email addresses from PDFs
@@ -39,41 +42,49 @@ extract_background <- function(text, from = "Background", to = "Objective"){
   return(background)
 }
 
+#' @export
 extract_backgroundandobjectives <- function(text, from = "Background", to = "Methods"){
   backgroundandobjective <- extract_subsections(text, from, to)
   return(backgroundandobjective)
 }
 
+#' @export
 extract_objectives <- function(text, from = "Objective", to = "Methods"){
   objectives <- extract_subsections(text, from, to)
   return(objectives)
 }
 
+#' @export
 extract_methods <- function(text, from = "Methods", to = "Results"){
   methods <- extract_subsections(text, from, to)
   return(methods)
 }
 
+#' @export
 extract_results <- function(text, from = "Results", to = "Discussion"){
   results <- extract_subsections(text, from, to)
   return(results)
 }
 
+#' @export
 extract_discussion <- function(text, from = "Discussion", to = "Conclusions"){
   discussion <- extract_subsections(text, from, to)
   return(discussion)
 }
 
+#' @export
 extract_discussionandconclusions <- function(text, from = "Discussion", to = "References"){
   discussionandconclusions <- extract_subsections(text, from, to)
   return(discussionandconclusions)
 }
 
+#' @export
 extract_conclusions <- function(text, from = "Conclusions", to = "References"){
   conclusions <- extract_subsections(text, from, to)
   return(conclusions)
 }
 
+#' @export
 extract_sections <- function(text){
   background <- try(extract_subsections(text, from = "Background", to = "Objective"))
   background_and_objectives <- try(extract_subsections(text, from = "Background", to = "Methods"))
@@ -87,7 +98,6 @@ extract_sections <- function(text){
               methods=methods, results=results, discussion=discussion, discussion_and_conclusions=discussion_and_conclusions, 
               conclusions=conclusions))
 }
-
 
 
 #' Function to extract a single paragraph below a given subtitle

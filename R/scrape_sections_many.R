@@ -1,9 +1,9 @@
 #' This file contains a suite of functions to scrape information from web-based HTML and PDF files, and has been developed to function 
 #' with the journal Environmental Evidence, published by BioMed Central (https://environmentalevidencejournal.biomedcentral.com/).
 #' Functions to download and scrape content locally from Environmental Evidence articles based on a doi/publisher url
-#' 
+
 #' Save and scrape full texts from the journal Environmental Evidence.
-#' @description Saves HTML and/or PDF files based on a doi or URL, and scrapes the content for html code and full text.
+#' @description Scrapes the content for html code and full text.
 #' @param doi A single or list of digital object identifier(s) (DOI).
 #' @return Locally saved HTML and PDF files, along with scraped text and code from HTMLs and text from PDFs.
 
@@ -37,48 +37,54 @@ extractall_subsections <- function(extract_subsections, text, from, to){
 
 #' Function to extract code for pre-specified sections from across multiple files
 #' @export
-
 extractall_backgrounds <- function(extract_background, text){
   backgrounds <- maply(extract_background, text)
   return(backgrounds)
 }
 
+#' @export
 extractall_backgroundandobjectives <- function(extract_backgroundandobjectives, text){
   backgroundandobjectives <- mapply(extract_backgroundandobjectives, text)
   return(backgroundandobjectives)
 }
 
-
+#' @export
 extractall_objectives <- function(extract_objectives, text){
   objectives <- mapply(extract_objectives, text)
   return(objectives)
 }
 
+#' @export
 extractall_methods <- function(extract_methods, text){
   methods <- mapply(extract_methods, text)
   return(methods)
 }
 
+#' @export
 extractall_results <- function(extract_results, text, from = "Results", to = "Discussion"){
   results <- mapply(extract_sections, text, from, to)
   return(results)
 }
 
+#' @export
 discussion_sections <- function(discussion_section, text){
   discussions <- mapply(extract_sections, text, from, to)
   return(discussions)
 }
 
+#' @export
 discussionandconclusions_section <- function(text, from = "Discussion", to = "References"){
   discussionandconclusions <- mapply(extract_results, text)
   return(discussionandconclusions)
 }
 
+#' @export
 extractall_conclusions <- function(extract_conclusions, text){
   conclusions <- mapply(extract_conclusions, text)
   return(conclusions)
 }
 
+#' @export
 extractall_sections <- function(extract_sections, text){
   allsections <- mapply(extract_sections, text)
   return(allsections)
