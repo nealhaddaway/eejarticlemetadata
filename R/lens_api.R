@@ -39,17 +39,14 @@ update_data <- function(){
   data <- jsonlite::fromJSON(content(data, "text"))
   data <- as.data.frame(data)
   ext_id <- mapply(datadoi, data$data.external_ids)
-  data <- cbind(data, ext_id)
   url <- as.character(mapply(dataurl, data$data.source_urls))
   url <- sub("NULL", "", url)
-  data <- cbind(data, url)
+  data <- cbind(data, ext_id, url)
   return(data)
 } 
 
 
-
-#' Function to extract external ids from lens.org JSON as a single column (including MAG and doi), along with Environmental 
-#' Evidence URL for the html full text where provided
+#' Function to extract external ids from lens.org JSON as a single entry (including MAG and doi)
 datadoi <- function(input) {
   if(length(unlist(input))==4) {
     as.data.frame(input)[2,2]
@@ -58,6 +55,7 @@ datadoi <- function(input) {
   }
 }
 
+#' Function to extract publisher URL from list of associated Lens.org urls
 dataurl <- function(input){
   unname((unlist(input))[grep("https://environmentalevidencejournal.biomedcentral.com/articles/", unlist(input))])
 }
