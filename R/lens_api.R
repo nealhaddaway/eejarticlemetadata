@@ -17,6 +17,7 @@ getScholarlyData <- function(token, query){
   headers <- c('Authorization' = token, 'Content-Type' = 'application/json')
   httr::POST(url = url, add_headers(.headers=headers), body = query)
 }
+
 token <- '0PEQino4ol8wW4xfJTixi0DIsvf98fsDgYEmbXcEcLcrQTrLqXj8'
 request <- '{
 	"query": {
@@ -30,9 +31,21 @@ request <- '{
 		"year_published": "desc"
 	}]
 }'
-data <- getScholarlyData(token, request)
-data <- jsonlite::fromJSON(content(data, "text"))
-data <- as.data.frame(data)
+
+#' Function to export all Environmental Evidence records
+#'  @export
+update_data <- function(){
+  data <- getScholarlyData(token, request)
+  data <- jsonlite::fromJSON(content(data, "text"))
+  data <- as.data.frame(data)
+  ext_id <- mapply(datadoi, data$data.external_ids)
+  data <- cbind(data, ext_id)
+  url <- as.character(mapply(dataurl, data$data.source_urls))
+  url <- sub("NULL", "", url)
+  data <- cbind(data, url)
+  return(data)
+} 
+
 
 
 #' Function to extract external ids from lens.org JSON as a single column (including MAG and doi), along with Environmental 
@@ -44,11 +57,7 @@ datadoi <- function(input) {
     as.data.frame(input)[1,2]
   }
 }
-ext_id <- mapply(datadoi, data$data.external_ids)
-data <- cbind(data, ext_id)
+
 dataurl <- function(input){
   unname((unlist(input))[grep("https://environmentalevidencejournal.biomedcentral.com/articles/", unlist(input))])
 }
-url <- as.character(mapply(dataurl, data$data.source_urls))
-url <- sub("NULL", "", url)
-data <- cbind(data, url)
